@@ -1,8 +1,10 @@
 
 ```datacorejsx
 
+// Based on a sample provided by boninall at discord
 const query = `@page and type="plugin"`;
 
+// Component by Saltmaker
 const Link = ({ path, children }) => (
     <a target="_blank"
         rel="noopener"
