@@ -1,0 +1,72 @@
+---
+aliases:
+- Sentence Navigator
+author:
+- Tim Hor & Andrew Brown
+author_page: https://github.com/timhor
+categories: []
+description: Manipulate sentences as a unit of movement. Select, move and delete by
+  whole sentences.
+downloads: 5328
+funding_page: https://ko-fi.com/timhor
+mobile: true
+number: 350
+title: Sentence Navigator
+type: plugin
+updated: '2023-01-15T16:11:11'
+url: https://github.com/timhor/obsidian-sentence-navigator
+version: 1.3.0
+---
+
+%% README_START %%
+
+# Sentence Navigator
+
+> [!NOTE]
+> Due to personal circumstances, active development is **paused** on this project until approximately mid-2024. Please continue to use the existing features, submit issues and contribute pull requests, but expect a delayed response.
+
+This [Obsidian](https://obsidian.md) plugin lets you manipulate sentences as a unit of movement. Select, move and delete by whole sentences. Credit for the [original idea](https://github.com/timhor/obsidian-editor-shortcuts/issues/3) goes to [@seatrout](https://github.com/seatrout).
+
+| Command                           | Shortcut \*                    |
+| --------------------------------- | ------------------------------ |
+| Delete to start of sentence       | `Ctrl` + `Shift` + `Backspace` |
+| Delete to end of sentence         | `Ctrl` + `Shift` + `Delete`    |
+| Move to start of current sentence | Not set                        |
+| Move to start of next sentence    | Not set                        |
+| Select current sentence           | Not set                        |
+| Select to start of sentence       | Not set                        |
+| Select to end of sentence         | Not set                        |
+
+\* On macOS, replace `Ctrl` with `Cmd`
+
+### Important notes
+
+- If the cursor is already at the start of a sentence or list item, 'Move to current sentence' will jump to the start of the previous sentence.
+
+## Installing the plugin
+
+Refer to the official installation instructions for third-party plugins [here](https://help.obsidian.md/Advanced+topics/Third-party+plugins#For+users) and search for the plugin `Sentence Navigator`.
+
+## Configuring settings
+
+Go to Settings → Hotkeys to customise the keyboard shortcut for each action.
+
+## Contributing
+
+Contributions and suggestions are welcome – feel free to open an issue or raise a pull request.
+
+To get started:
+
+- Switch to the specified Node version: `nvm use`
+- Install dependencies: `yarn install`
+- Run the extension: `yarn start`
+- Run tests: `yarn test` (use `--watch` for watch mode)
+
+## Support
+
+This plugin is completely free to use, but if you'd like to say thanks, consider buying me a coffee! 😄
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/timhor)
+
+
+%% README_END %%

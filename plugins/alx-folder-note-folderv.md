@@ -1,0 +1,26 @@
+---
+aliases:
+- AidenLx's Folder Note - folderv component
+author:
+- AidenLx
+author_page: https://github.com/aidenlx
+categories: []
+description: Optional `folderv` Component for alx-folder-note
+downloads: 11738
+mobile: true
+number: 428
+title: AidenLx's Folder Note - folderv component
+type: plugin
+updated: '2022-02-18T14:29:02'
+url: https://github.com/aidenlx/alx-folder-note-folderv
+version: 1.0.0
+---
+
+%% README_START %%
+
+# AidenLx's Folder Note - `folderv` Component
+
+[Check main repo for details](https://github.com/aidenlx/alx-folder-note)
+
+
+%% README_END %%

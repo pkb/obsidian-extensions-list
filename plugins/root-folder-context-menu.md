@@ -1,0 +1,46 @@
+---
+aliases:
+- Root Folder Context Menu
+author:
+- mnaoumov
+author_page: https://github.com/mnaoumov
+categories: []
+description: Enables context menu for vault root folder
+downloads: 1793
+funding_page: https://www.buymeacoffee.com/mnaoumov
+mobile: true
+number: 1386
+title: Root Folder Context Menu
+type: plugin
+updated: '2024-11-13T11:06:34'
+url: https://github.com/mnaoumov/obsidian-root-folder-context-menu
+version: 1.3.1
+---
+
+%% README_START %%
+
+# Root Folder Context Menu
+
+This is a plugin for [Obsidian](https://obsidian.md/) that enables context menu for vault root folder and the empty area of the `Files` pane.
+
+![Context Menu Area](https://raw.githubusercontent.com/mnaoumov/obsidian-root-folder-context-menu/HEAD/images/context-menu-area.png)
+
+Full context menu as for any other folder is added:
+
+![Context Menu](https://raw.githubusercontent.com/mnaoumov/obsidian-root-folder-context-menu/HEAD/images/context-menu.png)
+
+## Installation
+
+- `Root Folder Context Menu` is available on [the official Community Plugins repository](https://obsidian.md/plugins?id=root-folder-context-menu).
+- Beta releases can be installed through [BRAT](https://github.com/TfTHacker/obsidian42-brat)
+
+## Support
+
+<a href="https://www.buymeacoffee.com/mnaoumov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+
+## License
+
+© [Michael Naumov](https://github.com/mnaoumov/)
+
+
+%% README_END %%

@@ -1,0 +1,68 @@
+---
+aliases:
+- BibTeX Manager
+author:
+- Akop Kesheshyan
+author_page: https://github.com/akopdev
+categories: []
+description: Create a literature notes from a BibTeX entries.
+downloads: 960
+mobile: true
+number: 1650
+title: BibTeX Manager
+type: plugin
+updated: '2024-05-16T04:38:54'
+url: https://github.com/akopdev/obsidian-bibtex-manager
+version: 0.8.12
+---
+
+%% README_START %%
+
+# Obsidian BibTeX Manager
+
+![Create New Note in Obsidian BibteX Manager](https://raw.githubusercontent.com/akopdev/obsidian-bibtex-manager/HEAD/cover.png)
+
+Obsidian plug-in that simplifies the process of managing academic references by enabling the creation of literature notes from a BibTeX entry, 
+displaying formatted reference lists, and generating citations instantly. 
+
+This plug-in operates seamlessly on both desktop and mobile platforms, and does not require external dependencies.
+
+## Motivation
+
+For each reference in Obsidian I create a dedicated literature note that contains meta information about the source of citation. BibTeX is a common way to store references in academic writing, that is why I decided to create a plug-in that would allow me to easily create literature notes just by copy and pasting the BibTeX entry. 
+
+The plug-in also supports automatic formatting of reference lists within the note, while keeping the original BibTeX entry unmodified. I use this feature to keep source BibTeX file unmodified, while having a nicely formatted reference list in the note. 
+
+Unlike other plug-ins, I support mobile platform as a "first-class citizen", meaning there are no dependencies on external services or desktop-only features.
+
+You can add BibTeX entries from Zotero, Mendeley, or any other popular reference managers, as well as rely on custom BibTeX implementation.
+
+## Features
+
+- Generate literature notes from BibTeX entries using customizable templates.
+- Automatically format your BibTeX entries as a reference list, creating a well-organized bibliography within your notes.
+- Insert citations directly into your notes.
+
+## Installation
+
+1. Open Obsidian Settings.
+2. In the side menu, select Community plugins.
+3. Select Browse and put "Obsidian BibTeX Manager" into search box.
+4. Select Install.
+5. Go to plugin settings and setup path to custom templates.
+
+## Development
+
+This plugin is in active development. If you have any feature requests or bug reports, please open an issue on the GitHub repository.
+
+```bash
+make help # Show available commands
+```
+## Support this project
+
+You can support this project by starring, sharing, and contributing to the codebase.
+
+You can also support the author by buying him a coffee. Click sponsor button on the top of the page.
+
+
+%% README_END %%
