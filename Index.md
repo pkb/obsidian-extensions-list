@@ -4,16 +4,8 @@
 // Based on a sample provided by boninall at discord
 const query = `@page and type="plugin"`;
 
-// Component by Saltmaker
-const Link = ({ path, children }) => (
-    <a target="_blank"
-        rel="noopener"
-        data-tooltip-position="top"
-        data-href={path}
-        class="internal-link">
-        {children}
-    </a>
-);
+const { Link } = await dc.require('basement/datacore/Link.jsx');
+const { useLocalStorage } = await dc.require('basement/datacore/hooks.jsx');
 
 const Highlight = ({ content, filter }) => {
     if (!filter) return content; 
@@ -34,8 +26,10 @@ const escapeRegExp = (string) => {
 function View() {
     const pages = dc.useQuery(query);
     const today = dc.luxon.DateTime.now();
-    const [sortConfig, setSortConfig] = dc.useState({ key: "title", direction: 'asc' });
-    const [filter, setFilter] = dc.useState("");
+    const [sortConfig, setSortConfig] = useLocalStorage("sortConfig", 
+    { key: "title", direction: 'asc' });
+    const [filter, setFilter] = useLocalStorage("filter", "");
+    
     const Header = ({ field, children }) => {
         return (
             <span onClick={() => handleSort(field)}>
@@ -118,7 +112,7 @@ page.value("description").toLowerCase().includes(filter.toLowerCase())
     return (
         <>
             <dc.Group justify="end">
-                <input onChange={handleSearch} />
+                <input value={filter} onChange={handleSearch} />
             </dc.Group>
             <dc.VanillaTable columns={COLUMNS} rows={filteredAndSortedPages} paging={10}/>
         </>
