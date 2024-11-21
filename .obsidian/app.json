@@ -1,5 +1,8 @@
 {
   "defaultViewMode": "preview",
   "livePreview": false,
-  "useTab": false
+  "useTab": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }

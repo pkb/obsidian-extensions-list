@@ -1,17 +1,18 @@
 ---
 aliases:
-- GitHub Sync
+  - GitHub Sync
 author:
-- Kevin Chin
+  - Kevin Chin
 author_page: https://kevin.gd/
-categories: []
+categories:
+  - "[[categories/Sync|Sync]]"
 description: Sync vault to personal GitHub.
 downloads: 8315
 mobile: false
 number: 1419
 title: GitHub Sync
 type: plugin
-updated: '2024-09-05T06:24:17'
+updated: 2024-09-05T06:24:17
 url: https://github.com/kevinmkchin/Obsidian-GitHub-Sync
 version: 1.0.5
 ---

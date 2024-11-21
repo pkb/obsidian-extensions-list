@@ -4,7 +4,7 @@ aliases:
 author:
 - fyears
 author_page: https://github.com/fyears
-categories: []
+categories: "[[categories/Sync|Sync]]"
 description: Yet another unofficial plugin allowing users to synchronize notes between
   local device and the cloud service.
 downloads: 896953
