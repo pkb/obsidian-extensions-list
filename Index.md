@@ -111,8 +111,8 @@ page.value("description").toLowerCase().includes(filter.toLowerCase())
 
     return (
         <>
-            <dc.Group justify="end">
-                <input value={filter} onChange={handleSearch} />
+            <dc.Group className="search-input-container">
+                <input enterkeyhint="search" type="search" value={filter} onChange={handleSearch}/>{filter && (<div className="search-input-clear-button" aria-label="Clear search" onClick={() => setFilter("")}/>)}
             </dc.Group>
             <dc.VanillaTable columns={COLUMNS} rows={filteredAndSortedPages} paging={10}/>
         </>
