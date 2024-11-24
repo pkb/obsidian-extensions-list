@@ -1,18 +1,18 @@
 ---
 aliases:
-- Iconize
+  - Iconize
 author:
-- Florian Woelki
+  - Florian Woelki
 author_page: https://florianwoelki.com/
-categories: []
-description: Add icons to anything you desire in Obsidian, including files, folders,
-  and text.
+categories:
+  - "[[categories/Appearence|Appearence]]"
+description: Add icons to anything you desire in Obsidian, including files, folders, and text.
 downloads: 1099664
 mobile: true
 number: 280
 title: Iconize
 type: plugin
-updated: '2024-10-21T12:46:07'
+updated: 2024-10-21T12:46:07
 url: https://github.com/FlorianWoelki/obsidian-iconize
 version: 2.14.4
 ---

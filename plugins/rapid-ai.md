@@ -1,20 +1,18 @@
 ---
 aliases:
-- Rapid AI
+  - Rapid AI
 author:
-- Instant AI
+  - Instant AI
 author_page: https://rapidapi.com/organization/instant-ai
-categories: []
-description: AI Assistant for selected text and generating content with Markdown.
-  Shortcuts and quick action buttons provide instant AI assistance. It provides a
-  high availability API for unlimited Chat GPT request rates, so you can ensure smooth
-  work for any workload.
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: AI Assistant for selected text and generating content with Markdown. Shortcuts and quick action buttons provide instant AI assistance. It provides a high availability API for unlimited Chat GPT request rates, so you can ensure smooth work for any workload.
 downloads: 391
 mobile: true
 number: 1694
 title: Rapid AI
 type: plugin
-updated: '2024-05-18T07:55:03'
+updated: 2024-05-18T07:55:03
 url: https://github.com/ahmed3developer/rapid-ai
 version: 1.0.4
 ---

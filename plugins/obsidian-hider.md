@@ -1,10 +1,11 @@
 ---
 aliases:
-- Hider
+  - Hider
 author:
-- '@kepano'
+  - "@kepano"
 author_page: https://www.twitter.com/kepano
-categories: []
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Hide UI elements such as tooltips, status, titlebar and more
 downloads: 251397
 funding_page: https://www.buymeacoffee.com/kepano
@@ -12,7 +13,7 @@ mobile: true
 number: 21
 title: Hider
 type: plugin
-updated: '2024-08-26T03:34:12'
+updated: 2024-08-26T03:34:12
 url: https://github.com/kepano/obsidian-hider
 version: 1.5.1
 ---

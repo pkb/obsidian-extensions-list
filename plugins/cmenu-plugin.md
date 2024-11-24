@@ -1,18 +1,19 @@
 ---
 aliases:
-- cMenu
+  - cMenu
 author:
-- chetachi
+  - chetachi
 author_page: https://github.com/chetachiezikeuzor
-categories: []
-description: "cMenu is a plugin that adds a minimal text editor modal for a smoother
-  writing/editing experience ✍\U0001F3FD."
+categories:
+  - "[[categories/UI customization|UI customization]]"
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+description: cMenu is a plugin that adds a minimal text editor modal for a smoother writing/editing experience ✍🏽.
 downloads: 168634
 mobile: false
 number: 234
 title: cMenu
 type: plugin
-updated: '2021-09-14T11:31:28'
+updated: 2021-09-14T11:31:28
 url: https://github.com/chetachiezikeuzor/cMenu-Plugin
 version: 1.1.2
 ---

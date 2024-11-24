@@ -1,17 +1,19 @@
 ---
 aliases:
-- Apple Books - Import Highlights
+  - Apple Books - Import Highlights
 author:
-- bandantonio
+  - bandantonio
 author_page: https://github.com/bandantonio
-categories: []
+categories:
+  - "[[categories/Import|Import]]"
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
 description: Import your Apple Books highlights and notes to Obsidian.
 downloads: 3419
 mobile: false
 number: 1377
 title: Apple Books - Import Highlights
 type: plugin
-updated: '2024-08-11T01:22:44'
+updated: 2024-08-11T01:22:44
 url: https://github.com/bandantonio/obsidian-apple-books-highlights-plugin
 version: 1.5.0
 ---

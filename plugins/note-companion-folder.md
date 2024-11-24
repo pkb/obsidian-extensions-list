@@ -1,17 +1,18 @@
 ---
 aliases:
-- Note Companion Folder
+  - Note Companion Folder
 author:
-- Chris Verbree
+  - Chris Verbree
 author_page: https://vmac.ch
-categories: []
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
 description: Manage a separate folder of attachments for each note.
 downloads: 1169
 mobile: true
 number: 1521
 title: Note Companion Folder
 type: plugin
-updated: '2024-03-07T10:43:42'
+updated: 2024-03-07T10:43:42
 url: https://github.com/vkodocha/NoteCompanionFolder
 version: 0.0.6
 ---

@@ -1,10 +1,12 @@
 ---
 aliases:
-- Epub Importer
+  - Epub Importer
 author:
-- aoout
+  - aoout
 author_page: https://github.com/aoout
-categories: []
+categories:
+  - "[[categories/Import|Import]]"
+  - "[[categories/Other formats|Other formats]]"
 description: Import EPUB files as Markdown.
 downloads: 12435
 funding_page: https://ko-fi.com/aoout46551
@@ -12,7 +14,7 @@ mobile: false
 number: 1261
 title: Epub Importer
 type: plugin
-updated: '2024-10-20T09:41:03'
+updated: 2024-10-20T09:41:03
 url: https://github.com/aoout/obsidian-epub-importer
 version: 0.6.0
 ---

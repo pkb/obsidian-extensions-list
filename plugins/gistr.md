@@ -1,18 +1,18 @@
 ---
 aliases:
-- Gistr
+  - Gistr
 author:
-- Aetherinox
+  - Aetherinox
 author_page: https://github.com/Aetherinox
-categories: []
-description: Integrate Opengist and Github gists into your notes, allowing you to
-  create, update, and share between your notes and gist services
+categories:
+  - "[[categories/Integration|Integration]]"
+description: Integrate Opengist and Github gists into your notes, allowing you to create, update, and share between your notes and gist services
 downloads: 1408
 mobile: true
 number: 1505
 title: Gistr
 type: plugin
-updated: '2024-07-15T06:14:15'
+updated: 2024-07-15T06:14:15
 url: https://github.com/Aetherinox/obsidian-gistr
 version: 1.7.0
 ---

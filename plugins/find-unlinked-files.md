@@ -1,19 +1,19 @@
 ---
 aliases:
-- Find orphaned files and broken links
+  - Find orphaned files and broken links
 author:
-- Vinzent
+  - Vinzent
 author_page: https://github.com/Vinzent03
-categories: []
-description: 'Find files that are not linked anywhere and would otherwise be lost
-  in your vault. In other words: files with no backlinks.'
+categories:
+  - "[[categories/File management|File management]]"
+description: "Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks."
 downloads: 168707
 funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 36
 title: Find orphaned files and broken links
 type: plugin
-updated: '2024-08-13T02:57:36'
+updated: 2024-08-13T02:57:36
 url: https://github.com/Vinzent03/find-unlinked-files
 version: 1.10.1
 ---

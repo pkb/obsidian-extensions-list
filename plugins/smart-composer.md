@@ -1,19 +1,19 @@
 ---
 aliases:
-- Smart Composer
+  - Smart Composer
 author:
-- Heesu Suh
+  - Heesu Suh
 author_page: https://github.com/glowingjade
-categories: []
-description: AI chat with note context, smart writing assistance, and one-click edits
-  for your vault.
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: AI chat with note context, smart writing assistance, and one-click edits for your vault.
 downloads: 378
 funding_page: https://buymeacoffee.com/glowingjade
 mobile: true
 number: 1971
 title: Smart Composer
 type: plugin
-updated: '2024-11-14T01:56:14'
+updated: 2024-11-14T01:56:14
 url: https://github.com/glowingjade/obsidian-smart-composer
 version: 1.0.5
 ---

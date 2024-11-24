@@ -1,18 +1,18 @@
 ---
 aliases:
-- gpgCrypt
+  - gpgCrypt
 author:
-- Tjado Mäcke
+  - Tjado Mäcke
 author_page: https://github.com/tejado
-categories: []
-description: Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced
-  security! Keep your information safe and accessible only to you.
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
+description: Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you.
 downloads: 3727
 mobile: false
 number: 1187
 title: gpgCrypt
 type: plugin
-updated: '2023-11-04T20:31:40'
+updated: 2023-11-04T20:31:40
 url: https://github.com/tejado/obsidian-gpgCrypt
 version: 0.2.0
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- metatemplates
+  - metatemplates
 author:
-- avirut
+  - avirut
 author_page: https://github.com/avirut
-categories: []
+categories:
+  - "[[categories/Templates|Templates]]"
 description: Generate notes from templates using YAML front-matter
 downloads: 6206
 mobile: true
 number: 71
 title: metatemplates
 type: plugin
-updated: '2021-01-12T23:38:43'
+updated: 2021-01-12T23:38:43
 url: https://github.com/avirut/obsidian-metatemplates
 version: 0.1.2
 ---

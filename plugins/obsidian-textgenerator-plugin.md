@@ -1,10 +1,11 @@
 ---
 aliases:
-- Text Generator
+  - Text Generator
 author:
-- Noureddine Haouari
+  - Noureddine Haouari
 author_page: https://text-gen.com
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Text generation using AI
 downloads: 333682
 funding_page: https://www.buymeacoffee.com/haouarine
@@ -12,7 +13,7 @@ mobile: true
 number: 452
 title: Text Generator
 type: plugin
-updated: '2024-11-03T18:12:00'
+updated: 2024-11-03T18:12:00
 url: https://github.com/nhaouari/obsidian-textgenerator-plugin
 version: 0.7.42
 ---

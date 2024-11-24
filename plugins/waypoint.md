@@ -45,7 +45,7 @@ Waypoint is an Obsidian plugin that automatically generates tables of contents/M
 		- Landmarks are meant to be used between your waypoints to act as intermediary indexes. They can be placed in subfolder notes of waypoint tags to generate a "waypoint-like" tree without stopping a parent waypoint from including the child files/folders in your tree.
 		- Expanding on the description for waypoints above, say you have a parent folder that holds languages such as `Languages -> Latin -> Chapter I -> Vocab -> ...`. Similar to above, you want to have chapters listed for "Latin" and also have them show up on the "Language" folder note. This is achievable with Landmarks! By using `%% Landmark %%`, Waypoint will now generate an index in the current folder note listed as a landmark and will not stop the generation of the parent waypoint at that level, but keep going to list the chapters, as that is where the next waypoint is set.
 - **Permanent and portable**
-	- Unlike other plugins, Waypoints are generated and saved as real markdown text within your folder notes. If you decide to switch to a different markdown editor that supports [[links]], all of your tables of contents will still be usable.
+	- Unlike other plugins, Waypoints are generated and saved as real markdown text within your folder notes. If you decide to switch to a different markdown editor that supports [[plugins/links]], all of your tables of contents will still be usable.
 	- Note that the Waypoint plugin currently only works with Obsidian, so moving files around in another editor will cause your waypoints to be out-of-date.
 
 ## How To Use

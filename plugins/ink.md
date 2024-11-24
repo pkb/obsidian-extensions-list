@@ -1,21 +1,19 @@
 ---
 aliases:
-- Ink
+  - Ink
 author:
-- Dale de Silva
+  - Dale de Silva
 author_page: https://designdebt.club
-categories: []
-description: Hand write or draw directly between paragraphs in your notes using a
-  digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles,
-  or even math equations and scientific notation. Runs on the tldraw framework and
-  drawing provides an infinite canvas.
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+description: Hand write or draw directly between paragraphs in your notes using a digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles, or even math equations and scientific notation. Runs on the tldraw framework and drawing provides an infinite canvas.
 downloads: 35660
 funding_page: https://ko-fi.com/daledesilva
 mobile: true
 number: 1592
 title: Ink
 type: plugin
-updated: '2024-09-11T18:43:10'
+updated: 2024-09-11T18:43:10
 url: https://github.com/daledesilva/obsidian_ink
 version: 0.2.6
 ---

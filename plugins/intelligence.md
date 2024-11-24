@@ -1,19 +1,19 @@
 ---
 aliases:
-- Intelligence
+  - Intelligence
 author:
-- John Mavrick
+  - John Mavrick
 author_page: https://beacons.ai/johnmavrick
-categories: []
-description: Turn your notes into personalized AI-powered assistants to retrieve ideas,
-  think, and write. Powered by the OpenAI GPT Assistant API.
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Turn your notes into personalized AI-powered assistants to retrieve ideas, think, and write. Powered by the OpenAI GPT Assistant API.
 downloads: 2670
 funding_page: https://patreon.com/johnmavrick
 mobile: true
 number: 1336
 title: Intelligence
 type: plugin
-updated: '2023-12-22T08:12:02'
+updated: 2023-12-22T08:12:02
 url: https://github.com/ransurf/obsidian-intelligence
 version: 1.0.2
 ---

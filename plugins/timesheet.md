@@ -1,17 +1,18 @@
 ---
 aliases:
-- Timesheet
+  - Timesheet
 author:
-- vkostyanetsky
+  - vkostyanetsky
 author_page: https://github.com/vkostyanetsky
-categories: []
+categories:
+  - "[[categories/Time management|Time management]]"
 description: Timesheet generator for tasks in daily notes.
 downloads: 437
 mobile: true
 number: 1654
 title: Timesheet
 type: plugin
-updated: '2024-06-09T16:51:33'
+updated: 2024-06-09T16:51:33
 url: https://github.com/vkostyanetsky/ObsidianTimesheet
 version: 1.1.1
 ---

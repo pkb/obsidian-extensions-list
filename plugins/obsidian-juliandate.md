@@ -1,17 +1,18 @@
 ---
 aliases:
-- Julian Date
+  - Julian Date
 author:
-- thek3nger
+  - thek3nger
 author_page: https://www.davideaversa.it/
-categories: []
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
 description: Simple hotkey to insert the current Julian Date
 downloads: 4152
 mobile: true
 number: 46
 title: Julian Date
 type: plugin
-updated: '2021-07-21T20:09:31'
+updated: 2021-07-21T20:09:31
 url: https://github.com/THeK3nger/obsidian-juliandate
 version: 1.0.5
 ---

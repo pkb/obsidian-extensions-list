@@ -1,19 +1,19 @@
 ---
 aliases:
-- MagicCalendar
+  - MagicCalendar
 author:
-- Vaccarini Lorenzo
+  - Vaccarini Lorenzo
 author_page: https://github.com/Vaccarini-Lorenzo
-categories: []
-description: AI-Powered Obsidian Plugin that leverage Natural Language Processing
-  techniques to find calendar events in Markdown notes, seamlessly synchronizing them
-  with a calendar of choice.
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
+  - "[[categories/AI assistance|AI assistance]]"
+description: AI-Powered Obsidian Plugin that leverage Natural Language Processing techniques to find calendar events in Markdown notes, seamlessly synchronizing them with a calendar of choice.
 downloads: 5169
 mobile: false
 number: 1212
 title: MagicCalendar
 type: plugin
-updated: '2023-11-16T02:05:45'
+updated: 2023-11-16T02:05:45
 url: https://github.com/Vaccarini-Lorenzo/MagicCalendar
 version: 1.1.9
 ---

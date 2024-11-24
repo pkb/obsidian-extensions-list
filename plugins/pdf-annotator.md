@@ -1,10 +1,12 @@
 ---
 aliases:
-- Pdf Annotator
+  - Pdf Annotator
 author:
-- Boninall
+  - Boninall
 author_page: https://github.com/Quorafind
-categories: []
+categories:
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+  - "[[categories/Other formats|Other formats]]"
 description: Simple PDF annotator.
 downloads: 2518
 funding_page:
@@ -15,7 +17,7 @@ mobile: true
 number: 1804
 title: Pdf Annotator
 type: plugin
-updated: '2024-07-15T12:08:35'
+updated: 2024-07-15T12:08:35
 url: https://github.com/quorafind/obsidian-pdf-annotator
 version: 1.0.1
 ---

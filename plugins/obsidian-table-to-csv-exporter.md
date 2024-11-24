@@ -1,18 +1,18 @@
 ---
 aliases:
-- Table to CSV Exporter
+  - Table to CSV Exporter
 author:
-- Stefan Wolfrum
+  - Stefan Wolfrum
 author_page: https://twitter.com/metawops
-categories: []
-description: This plugin allows for exporting tables from a pane in reading mode into
-  CSV files.
+categories:
+  - "[[categories/Export|Export]]"
+description: This plugin allows for exporting tables from a pane in reading mode into CSV files.
 downloads: 10836
 mobile: true
 number: 551
 title: Table to CSV Exporter
 type: plugin
-updated: '2022-06-11T21:12:02'
+updated: 2022-06-11T21:12:02
 url: https://github.com/metawops/obsidian-table-to-csv-export
 version: 0.1.4
 ---

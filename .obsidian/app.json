@@ -4,5 +4,6 @@
   "useTab": false,
   "useMarkdownLinks": false,
   "newLinkFormat": "absolute",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

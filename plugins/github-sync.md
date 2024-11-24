@@ -5,7 +5,7 @@ author:
   - Kevin Chin
 author_page: https://kevin.gd/
 categories:
-  - "[[categories/Sync|Sync]]"
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
 description: Sync vault to personal GitHub.
 downloads: 8315
 mobile: false

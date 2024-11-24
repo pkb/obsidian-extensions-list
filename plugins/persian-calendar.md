@@ -1,19 +1,18 @@
 ---
 aliases:
-- Persian Calendar
+  - Persian Calendar
 author:
-- Hossein Maleknejad
+  - Hossein Maleknejad
 author_page: https://karfekr.ir
-categories: []
-description: This tool lets you see events, add and organize notes from daily to yearly
-  on the Persian calendar, use templates with placeholders, and works with all Obsidian
-  daily plugins.
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
+description: This tool lets you see events, add and organize notes from daily to yearly on the Persian calendar, use templates with placeholders, and works with all Obsidian daily plugins.
 downloads: 3248
 mobile: true
 number: 1502
 title: Persian Calendar
 type: plugin
-updated: '2024-08-20T15:27:12'
+updated: 2024-08-20T15:27:12
 url: https://github.com/maleknejad/obsidian-persian-calendar
 version: 3.0.2
 ---

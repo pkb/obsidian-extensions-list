@@ -1,18 +1,19 @@
 ---
 aliases:
-- Things3 Sync
+  - Things3 Sync
 author:
-- Royx
+  - Royx
 author_page: royxue.me
-categories: []
-description: An Obsidian plugin for sync between Obsidian and Things3, create Todo
-  and sync Todo status
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Task management|Task management]]"
+description: An Obsidian plugin for sync between Obsidian and Things3, create Todo and sync Todo status
 downloads: 11325
 mobile: true
 number: 652
 title: Things3 Sync
 type: plugin
-updated: '2024-04-23T16:35:02'
+updated: 2024-04-23T16:35:02
 url: https://github.com/royxue/obsidian-things3-sync
 version: 1.3.0
 ---

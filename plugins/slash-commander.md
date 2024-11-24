@@ -1,17 +1,18 @@
 ---
 aliases:
-- Slash Commander
+  - Slash Commander
 author:
-- alephpiece
+  - alephpiece
 author_page: https://github.com/alephpiece
-categories: []
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Customize the slash command list, assign each command an icon.
 downloads: 12402
 mobile: true
 number: 1318
 title: Slash Commander
 type: plugin
-updated: '2024-04-13T21:15:41'
+updated: 2024-04-13T21:15:41
 url: https://github.com/alephpiece/obsidian-slash-commander
 version: 0.2.16
 ---

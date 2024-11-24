@@ -1,17 +1,18 @@
 ---
 aliases:
-- ReClipped Official
+  - ReClipped Official
 author:
-- ReClipped
+  - ReClipped
 author_page: https://reclipped.com
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Official ReClipped and Obsidian integration
 downloads: 2573
 mobile: true
 number: 1202
 title: ReClipped Official
 type: plugin
-updated: '2024-10-18T18:53:22'
+updated: 2024-10-18T18:53:22
 url: https://github.com/tech-reclipped/ReClipped-Obsidian-Official
 version: 1.0.4
 ---

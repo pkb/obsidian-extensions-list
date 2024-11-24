@@ -1,17 +1,18 @@
 ---
 aliases:
-- Timer
+  - Timer
 author:
-- Marius Wörfel
+  - Marius Wörfel
 author_page: https://github.com/Raboro
-categories: []
+categories:
+  - "[[categories/Time management|Time management]]"
 description: Allows you to measure time.
 downloads: 6935
 mobile: true
 number: 1185
 title: Timer
 type: plugin
-updated: '2024-10-27T03:05:26'
+updated: 2024-10-27T03:05:26
 url: https://github.com/Raboro/obsidian-timer-plugin
 version: 1.1.7
 ---

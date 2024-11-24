@@ -1,17 +1,18 @@
 ---
 aliases:
-- Periodic Notes
+  - Periodic Notes
 author:
-- Liam Cain
+  - Liam Cain
 author_page: https://github.com/liamcain/
-categories: []
+categories:
+  - "[[categories/Journalling|Journalling]]"
 description: Create/manage your daily, weekly, and monthly notes
 downloads: 364910
 mobile: true
 number: 93
 title: Periodic Notes
 type: plugin
-updated: '2022-04-14T21:03:23'
+updated: 2022-04-14T21:03:23
 url: https://github.com/liamcain/obsidian-periodic-notes
 version: 0.0.17
 ---

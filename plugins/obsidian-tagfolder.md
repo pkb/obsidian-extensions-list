@@ -1,17 +1,18 @@
 ---
 aliases:
-- TagFolder
+  - TagFolder
 author:
-- vorotamoroz
+  - vorotamoroz
 author_page: https://github.com/vrtmrz
-categories: []
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Show tags as folder
 downloads: 137617
 mobile: true
 number: 379
 title: TagFolder
 type: plugin
-updated: '2024-11-05T17:54:56'
+updated: 2024-11-05T17:54:56
 url: https://github.com/vrtmrz/obsidian-tagfolder
 version: 0.18.9
 ---

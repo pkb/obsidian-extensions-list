@@ -1,17 +1,18 @@
 ---
 aliases:
-- Global Markdown Encryption
+  - Global Markdown Encryption
 author:
-- shlemiel
+  - shlemiel
 author_page: https://github.com/shlemiel
-categories: []
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
 description: In-memory AES256-GCM Markdown Encryption
 downloads: 3116
 mobile: true
 number: 1247
 title: Global Markdown Encryption
 type: plugin
-updated: '2023-12-09T10:23:30'
+updated: 2023-12-09T10:23:30
 url: https://github.com/shlemiel/globaloe
 version: 0.0.7
 ---

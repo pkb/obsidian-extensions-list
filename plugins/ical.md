@@ -1,19 +1,18 @@
 ---
 aliases:
-- iCal
+  - iCal
 author:
-- Andrew Brereton
+  - Andrew Brereton
 author_page: https://github.com/andrewbrereton
-categories: []
-description: Scans your vault for tasks. Creates an iCal file and stores it on Gist.
-  You can then show this calendar in any iCal compatible client such as Outlook, Google
-  Calendar, Apple Calendar, etc.
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
+description: Scans your vault for tasks. Creates an iCal file and stores it on Gist. You can then show this calendar in any iCal compatible client such as Outlook, Google Calendar, Apple Calendar, etc.
 downloads: 6085
 mobile: true
 number: 1274
 title: iCal
 type: plugin
-updated: '2024-03-01T07:27:46'
+updated: 2024-03-01T07:27:46
 url: https://github.com/andrewbrereton/obsidian-to-ical-plugin
 version: 1.19.0
 ---

@@ -1,19 +1,19 @@
 ---
 aliases:
-- Tasks
+  - Tasks
 author:
-- Clare Macrae and Ilyas Landikov (created by Martin Schenck)
+  - Clare Macrae and Ilyas Landikov (created by Martin Schenck)
 author_page: https://github.com/obsidian-tasks-group
-categories: []
-description: Track tasks across your vault. Supports due dates, recurring tasks, done
-  dates, sub-set of checklist items, and filtering.
+categories:
+  - "[[categories/Task management|Task management]]"
+description: Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.
 downloads: 1813244
 funding_page: https://github.com/sponsors/claremacrae
 mobile: true
 number: 181
 title: Tasks
 type: plugin
-updated: '2024-11-06T04:11:11'
+updated: 2024-11-06T04:11:11
 url: https://github.com/obsidian-tasks-group/obsidian-tasks
 version: 7.13.0
 ---

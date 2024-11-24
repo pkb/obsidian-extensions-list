@@ -1,10 +1,12 @@
 ---
 aliases:
-- Import/Export TiddlyWiki
+  - Import/Export TiddlyWiki
 author:
-- Lucas Bordeau
+  - Lucas Bordeau
 author_page: https://github.com/lucasbordeau
-categories: []
+categories:
+  - "[[categories/Import|Import]]"
+  - "[[categories/Export|Export]]"
 description: Import and export TiddlyWiki from and to Obsidian.
 downloads: 3812
 funding_page: https://www.buymeacoffee.com/lucasbordeau
@@ -12,7 +14,7 @@ mobile: false
 number: 847
 title: Import/Export TiddlyWiki
 type: plugin
-updated: '2023-03-05T00:27:28'
+updated: 2023-03-05T00:27:28
 url: https://github.com/lucasbordeau/obsidian-tiddlywiki
 version: 1.0.3
 ---

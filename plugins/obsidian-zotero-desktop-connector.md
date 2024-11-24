@@ -1,18 +1,19 @@
 ---
 aliases:
-- Zotero Integration
+  - Zotero Integration
 author:
-- mgmeyers
+  - mgmeyers
 author_page: https://github.com/mgmeyers/obsidian-zotero-integration
-categories: []
-description: Insert and import citations, bibliographies, notes, and PDF annotations
-  from Zotero.
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Knowledge management|Knowledge management]]"
+description: Insert and import citations, bibliographies, notes, and PDF annotations from Zotero.
 downloads: 305373
 mobile: false
 number: 473
 title: Zotero Integration
 type: plugin
-updated: '2024-08-11T21:48:42'
+updated: 2024-08-11T21:48:42
 url: https://github.com/mgmeyers/obsidian-zotero-integration
 version: 3.2.1
 ---

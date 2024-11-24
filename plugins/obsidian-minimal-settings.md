@@ -1,10 +1,11 @@
 ---
 aliases:
-- Minimal Theme Settings
+  - Minimal Theme Settings
 author:
-- '@kepano'
+  - "@kepano"
 author_page: https://www.twitter.com/kepano
-categories: []
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: Change the colors, fonts and features of Minimal Theme.
 downloads: 970731
 funding_page: https://www.buymeacoffee.com/kepano
@@ -12,7 +13,7 @@ mobile: true
 number: 22
 title: Minimal Theme Settings
 type: plugin
-updated: '2024-08-21T02:34:24'
+updated: 2024-08-21T02:34:24
 url: https://github.com/kepano/obsidian-minimal-settings
 version: 8.1.1
 ---

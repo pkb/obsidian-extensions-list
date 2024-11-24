@@ -1,17 +1,19 @@
 ---
 aliases:
-- Things Link
+  - Things Link
 author:
-- '@gavmn'
+  - "@gavmn"
 author_page: https://twitter.com/gavmn
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Task management|Task management]]"
 description: Seamlessly create Things tasks and projects from Obsidian
 downloads: 6567
 mobile: true
 number: 434
 title: Things Link
 type: plugin
-updated: '2022-02-25T22:47:37'
+updated: 2022-02-25T22:47:37
 url: https://github.com/gavinmn/obsidian-things-link
 version: 1.1.2
 ---

@@ -1,18 +1,18 @@
 ---
 aliases:
-- D2
+  - D2
 author:
-- Terrastruct
+  - Terrastruct
 author_page: https://d2lang.com
-categories: []
-description: The official D2 plugin for Obsidian. D2 is a modern diagram scripting
-  language that turns text to diagrams.
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+description: The official D2 plugin for Obsidian. D2 is a modern diagram scripting language that turns text to diagrams.
 downloads: 11627
 mobile: false
 number: 713
 title: D2
 type: plugin
-updated: '2023-12-02T04:52:55'
+updated: 2023-12-02T04:52:55
 url: https://github.com/terrastruct/d2-obsidian
 version: 1.1.4
 ---

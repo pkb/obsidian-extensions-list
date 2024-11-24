@@ -1,19 +1,19 @@
 ---
 aliases:
-- Attachment Management
+  - Attachment Management
 author:
-- trganda
+  - trganda
 author_page: https://github.com/trganda
-categories: []
-description: Customize your attachment path of notes independently with variables
-  and auto rename it on change.
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
+description: Customize your attachment path of notes independently with variables and auto rename it on change.
 downloads: 29510
 funding_page: https://paypal.me/trganda
 mobile: true
 number: 942
 title: Attachment Management
 type: plugin
-updated: '2024-10-10T06:55:00'
+updated: 2024-10-10T06:55:00
 url: https://github.com/trganda/obsidian-attachment-management
 version: 0.9.16
 ---

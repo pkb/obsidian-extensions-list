@@ -1,18 +1,18 @@
 ---
 aliases:
-- AI Tools
+  - AI Tools
 author:
-- solderneer
+  - solderneer
 author_page: https://solderneer.me
-categories: []
-description: Adding powerful semantic search, generative answers, and other AI tools
-  to Obsidian, using Supabase + OpenAI.
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
 downloads: 4300
 mobile: false
 number: 1026
 title: AI Tools
 type: plugin
-updated: '2023-08-04T14:41:14'
+updated: 2023-08-04T14:41:14
 url: https://github.com/solderneer/obsidian-ai-tools
 version: 1.1.4
 ---

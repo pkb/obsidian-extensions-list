@@ -1,17 +1,19 @@
 ---
 aliases:
-- Kindle Highlights Importer
+  - Kindle Highlights Importer
 author:
-- MovingMillennial
+  - MovingMillennial
 author_page: https://movingmillennial.de
-categories: []
+categories:
+  - "[[categories/Import|Import]]"
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
 description: A simple way to import your Kindle highlights html file.
 downloads: 2657
 mobile: true
 number: 1420
 title: Kindle Highlights Importer
 type: plugin
-updated: '2024-01-29T15:26:46'
+updated: 2024-01-29T15:26:46
 url: https://github.com/l2xu/kindle_html_importer
 version: 1.0.0
 ---

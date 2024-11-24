@@ -1,18 +1,18 @@
 ---
 aliases:
-- Hints Flow
+  - Hints Flow
 author:
-- Hints
+  - Hints
 author_page: https://productivity-ai.net/
-categories: []
-description: Save data directly to Obsidian with a specified template. Capture from
-  Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
+categories:
+  - "[[categories/Content capture|Content capture]]"
+description: Save data directly to Obsidian with a specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
 downloads: 8158
 mobile: true
 number: 745
 title: Hints Flow
 type: plugin
-updated: '2024-01-05T16:49:15'
+updated: 2024-01-05T16:49:15
 url: https://github.com/slpbx/obsidian-plugin
 version: 1.2.1
 ---

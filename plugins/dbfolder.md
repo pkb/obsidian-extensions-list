@@ -1,19 +1,19 @@
 ---
 aliases:
-- DB Folder
+  - DB Folder
 author:
-- RafaelGB
+  - RafaelGB
 author_page: https://github.com/RafaelGB/obsidian-bd-folder
-categories: []
-description: Folder with the capability to store and retrieve data from a folder like
-  database
+categories:
+  - "[[categories/Data management|Data management]]"
+description: Folder with the capability to store and retrieve data from a folder like database
 downloads: 287075
 funding_page: https://www.buymeacoffee.com/5tsytn22v9Z
 mobile: true
 number: 532
 title: DB Folder
 type: plugin
-updated: '2024-01-20T01:00:45'
+updated: 2024-01-20T01:00:45
 url: https://github.com/RafaelGB/obsidian-db-folder
 version: 3.5.1
 ---

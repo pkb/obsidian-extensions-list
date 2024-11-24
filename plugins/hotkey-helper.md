@@ -1,18 +1,18 @@
 ---
 aliases:
-- Hotkey Helper
+  - Hotkey Helper
 author:
-- PJ Eby
+  - PJ Eby
 author_page: https://github.com/pjeby
-categories: []
-description: Easily see and access any plugin's settings or hotkey assignments (and
-  conflicts) from the Community Plugins tab
+categories:
+  - "[[categories/UI customization|UI customization]]"
+description: Easily see and access any plugin's settings or hotkey assignments (and conflicts) from the Community Plugins tab
 downloads: 53816
 mobile: true
 number: 125
 title: Hotkey Helper
 type: plugin
-updated: '2024-10-26T11:06:50'
+updated: 2024-10-26T11:06:50
 url: https://github.com/pjeby/hotkey-helper
 version: 0.3.20
 ---

@@ -1,10 +1,11 @@
 ---
 aliases:
-- Google Photos
+  - Google Photos
 author:
-- Alan Grainger
+  - Alan Grainger
 author_page: https://github.com/alangrainger
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Google Photos integration for Obsidian
 downloads: 12354
 funding_page: https://ko-fi.com/alan_
@@ -12,7 +13,7 @@ mobile: true
 number: 732
 title: Google Photos
 type: plugin
-updated: '2024-08-02T13:19:39'
+updated: 2024-08-02T13:19:39
 url: https://github.com/alangrainger/obsidian-google-photos
 version: 1.6.8
 ---

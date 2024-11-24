@@ -1,10 +1,12 @@
 ---
 aliases:
-- Import Attachments+
+  - Import Attachments+
 author:
-- Andrea Alberti
+  - Andrea Alberti
 author_page: https://www.linkedin.com/in/dr-andrea-alberti/
-categories: []
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
+  - "[[categories/Import|Import]]"
 description: Move and link the attachments into the vault.
 downloads: 1900
 funding_page: https://buymeacoffee.com/alberti
@@ -12,7 +14,7 @@ mobile: true
 number: 1760
 title: Import Attachments+
 type: plugin
-updated: '2024-11-18T03:31:31'
+updated: 2024-11-18T03:31:31
 url: https://github.com/alberti42/obsidian-import-attachments-plus
 version: 1.5.12
 ---

@@ -1,10 +1,11 @@
 ---
 aliases:
-- Xournal++
+  - Xournal++
 author:
-- Jon Jampen
+  - Jon Jampen
 author_page: https://jonjampen.ch
-categories: []
+categories:
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
 description: Integration with Xournal++ for handwritten notes and annotations.
 downloads: 1604
 funding_page: https://buymeacoffee.com/jonjampen
@@ -12,7 +13,7 @@ mobile: false
 number: 1746
 title: Xournal++
 type: plugin
-updated: '2024-11-12T15:17:05'
+updated: 2024-11-12T15:17:05
 url: https://github.com/jonjampen/obsidian-xournalpp
 version: 1.0.9
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- Another Quick Switcher
+  - Another Quick Switcher
 author:
-- tadashi-aikawa
+  - tadashi-aikawa
 author_page: https://github.com/tadashi-aikawa
-categories: []
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: This is an Obsidian plugin which is another choice of Quick switcher.
 downloads: 73545
 mobile: true
 number: 323
 title: Another Quick Switcher
 type: plugin
-updated: '2024-11-09T17:06:26'
+updated: 2024-11-09T17:06:26
 url: https://github.com/tadashi-aikawa/obsidian-another-quick-switcher
 version: 12.1.0
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- sync-db-os
+  - sync-db-os
 author:
-- ketd
+  - ketd
 author_page: https://github.com/ketd
-categories: []
+categories:
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
 description: For synchronization between multiple platforms
 downloads: 88
 mobile: true
 number: 1839
 title: sync-db-os
 type: plugin
-updated: '2024-07-05T07:36:20'
+updated: 2024-07-05T07:36:20
 url: https://github.com/ketd/obsidian-sync-DB-OS
 version: 1.0.2
 ---

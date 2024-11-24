@@ -1,10 +1,11 @@
 ---
 aliases:
-- Timetracker
+  - Timetracker
 author:
-- Nils Dammenhayn
+  - Nils Dammenhayn
 author_page: https://www.metal-detector.rocks
-categories: []
+categories:
+  - "[[categories/Time tracking|Time tracking]]"
 description: Adds a stopwatch whose value can be inserted in the editor per hotkey.
 downloads: 4560
 funding_page: https://www.buymeacoffee.com/metaldetector
@@ -12,7 +13,7 @@ mobile: true
 number: 1174
 title: Timetracker
 type: plugin
-updated: '2024-10-14T01:06:56'
+updated: 2024-10-14T01:06:56
 url: https://github.com/hedgehog1833/obsidian-timetracker
 version: 1.4.2
 ---

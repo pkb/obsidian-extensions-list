@@ -1,18 +1,18 @@
 ---
 aliases:
-- Various Complements
+  - Various Complements
 author:
-- tadashi-aikawa
+  - tadashi-aikawa
 author_page: https://github.com/tadashi-aikawa
-categories: []
-description: This plugin enables you to complete words like the auto-completion of
-  IDE
+categories:
+  - "[[categories/Automation|Automation]]"
+description: This plugin enables you to complete words like the auto-completion of IDE
 downloads: 258103
 mobile: true
 number: 97
 title: Various Complements
 type: plugin
-updated: '2024-08-25T19:52:17'
+updated: 2024-08-25T19:52:17
 url: https://github.com/tadashi-aikawa/obsidian-various-complements-plugin
 version: 10.0.3
 ---

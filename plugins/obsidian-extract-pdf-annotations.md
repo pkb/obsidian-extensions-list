@@ -1,18 +1,19 @@
 ---
 aliases:
-- Extract PDF Annotations
+  - Extract PDF Annotations
 author:
-- Franz Achermann
+  - Franz Achermann
 author_page: https://github.com/munach/obsidian-extract-pdf-annotations
-categories: []
-description: Extract PDF Annotations (text, highlight, underline, squiggle, free text,
-  etc.) from files inside and outside the vault and sort them by topics
+categories:
+  - "[[categories/Other formats|Other formats]]"
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+description: Extract PDF Annotations (text, highlight, underline, squiggle, free text, etc.) from files inside and outside the vault and sort them by topics
 downloads: 14245
 mobile: true
 number: 455
 title: Extract PDF Annotations
 type: plugin
-updated: '2024-10-09T21:16:18'
+updated: 2024-10-09T21:16:18
 url: https://github.com/munach/obsidian-extract-pdf-annotations
 version: 1.5.0
 ---

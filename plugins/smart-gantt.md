@@ -1,17 +1,18 @@
 ---
 aliases:
-- Smart Gantt
+  - Smart Gantt
 author:
-- Nhan Nguyen
+  - Nhan Nguyen
 author_page: https://github.com/nhannht
-categories: []
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
 description: Intelligently generate Gantt chart from your tasks
 downloads: 3956
 mobile: true
 number: 1666
 title: Smart Gantt
 type: plugin
-updated: '2024-07-30T10:22:29'
+updated: 2024-07-30T10:22:29
 url: https://github.com/nhannht/obsidian-smart-gantt
 version: 0.1.17
 ---

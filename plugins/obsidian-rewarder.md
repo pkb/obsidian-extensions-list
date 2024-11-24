@@ -1,17 +1,18 @@
 ---
 aliases:
-- Rewarder
+  - Rewarder
 author:
-- Obsidian
+  - Obsidian
 author_page: https://obsidian.md
-categories: []
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Gives you rewards for completing tasks/todos, highly configurable.
 downloads: 23504
 mobile: true
 number: 502
 title: Rewarder
 type: plugin
-updated: '2023-12-26T02:32:20'
+updated: 2023-12-26T02:32:20
 url: https://github.com/Gnopps/obsidian-rewarder
 version: 0.4.0
 ---

@@ -1,18 +1,19 @@
 ---
 aliases:
-- Smart Templates
+  - Smart Templates
 author:
-- "\U0001F334 Brian Petro"
+  - 🌴 Brian Petro
 author_page: https://github.com/brianpetro
-categories: []
-description: AI powered templates for generating structured content. Works with Local
-  Models, Anthropic Claude, Gemini, OpenAI and more.
+categories:
+  - "[[categories/Templates|Templates]]"
+  - "[[categories/AI assistance|AI assistance]]"
+description: AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI and more.
 downloads: 1230
 mobile: true
 number: 1828
 title: Smart Templates
 type: plugin
-updated: '2024-07-31T02:26:05'
+updated: 2024-07-31T02:26:05
 url: https://github.com/brianpetro/obsidian-smart-templates
 version: 1.0.37
 ---

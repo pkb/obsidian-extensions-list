@@ -1,17 +1,18 @@
 ---
 aliases:
-- Birthday-Tracker
+  - Birthday-Tracker
 author:
-- Marius Wörfel
+  - Marius Wörfel
 author_page: https://github.com/Raboro
-categories: []
+categories:
+  - "[[categories/Time management|Time management]]"
 description: Keep track of all birthdays of your family and friends.
 downloads: 5387
 mobile: true
 number: 1063
 title: Birthday-Tracker
 type: plugin
-updated: '2024-10-27T02:56:20'
+updated: 2024-10-27T02:56:20
 url: https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin
 version: 1.1.8
 ---

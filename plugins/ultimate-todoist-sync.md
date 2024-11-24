@@ -1,19 +1,20 @@
 ---
 aliases:
-- Ultimate Todoist Sync
+  - Ultimate Todoist Sync
 author:
-- HeroBlackInk
+  - HeroBlackInk
 author_page: https://github.com/HeroBlackInk/
-categories: []
-description: This is the best Todoist task synchronization plugin for Obsidian so
-  far.
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Task management|Task management]]"
+description: This is the best Todoist task synchronization plugin for Obsidian so far.
 downloads: 12389
-funding_page: ''
+funding_page: ""
 mobile: true
 number: 900
 title: Ultimate Todoist Sync
 type: plugin
-updated: '2023-06-22T15:20:00'
+updated: 2023-06-22T15:20:00
 url: https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian
 version: 1.0.43
 ---

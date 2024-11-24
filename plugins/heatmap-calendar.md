@@ -1,18 +1,18 @@
 ---
 aliases:
-- Heatmap Calendar
+  - Heatmap Calendar
 author:
-- Richard Slettevoll
+  - Richard Slettevoll
 author_page: https://richard.sl
-categories: []
-description: Activity Year Overview for DataviewJS, Github style – Track Goals, Progress,
-  Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc.
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
+description: Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc.
 downloads: 92538
 mobile: true
 number: 441
 title: Heatmap Calendar
 type: plugin
-updated: '2024-06-28T13:41:47'
+updated: 2024-06-28T13:41:47
 url: https://github.com/Richardsl/heatmap-calendar-obsidian
 version: 0.7.1
 ---

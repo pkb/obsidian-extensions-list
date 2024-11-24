@@ -1,20 +1,19 @@
 ---
 aliases:
-- Journalyst
+  - Journalyst
 author:
-- Justin Arnold
+  - Justin Arnold
 author_page: https://justin-arnold.com
-categories: []
-description: Journalyst enables easy creation of topic-specific journals. Organize
-  your life into categories like sleep, routines, or work, with daily or recurring
-  entries for effortless tracking and reflection.
+categories:
+  - "[[categories/Journalling|Journalling]]"
+description: Journalyst enables easy creation of topic-specific journals. Organize your life into categories like sleep, routines, or work, with daily or recurring entries for effortless tracking and reflection.
 downloads: 2554
 funding_page: https://www.buymeacoffee.com/justinarnold
 mobile: true
 number: 1422
 title: Journalyst
 type: plugin
-updated: '2024-07-26T11:17:17'
+updated: 2024-07-26T11:17:17
 url: https://github.com/Justin-Arnold/Journalyst
 version: 1.1.0
 ---

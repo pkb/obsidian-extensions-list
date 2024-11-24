@@ -1,17 +1,18 @@
 ---
 aliases:
-- Image Toolkit
+  - Image Toolkit
 author:
-- Xiangru
+  - Xiangru
 author_page: https://github.com/sissilab
-categories: []
+categories:
+  - "[[categories/Image handling|Image handling]]"
 description: This plugin provides some image viewing toolkit.
 downloads: 210425
 mobile: false
 number: 264
 title: Image Toolkit
 type: plugin
-updated: '2024-10-07T11:05:51'
+updated: 2024-10-07T11:05:51
 url: https://github.com/sissilab/obsidian-image-toolkit
 version: 1.4.2
 ---

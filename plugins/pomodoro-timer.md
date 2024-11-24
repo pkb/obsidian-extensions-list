@@ -1,10 +1,11 @@
 ---
 aliases:
-- Pomodoro Timer
+  - Pomodoro Timer
 author:
-- eatgrass
+  - eatgrass
 author_page: https://github.com/eatgrass
-categories: []
+categories:
+  - "[[categories/Time management|Time management]]"
 description: A pomodoro timer that helps manage your daily focus
 downloads: 22417
 funding_page: https://www.buymeacoffee.com/eatgrass
@@ -12,7 +13,7 @@ mobile: true
 number: 1329
 title: Pomodoro Timer
 type: plugin
-updated: '2024-05-30T13:01:19'
+updated: 2024-05-30T13:01:19
 url: https://github.com/eatgrass/obsidian-pomodoro-timer
 version: 1.2.3
 ---

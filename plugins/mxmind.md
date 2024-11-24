@@ -1,17 +1,18 @@
 ---
 aliases:
-- Mxmind Mindmap
+  - Mxmind Mindmap
 author:
-- mxmind
+  - mxmind
 author_page: https://mxmind.com
-categories: []
+categories:
+  - "[[categories/Mind mapping|Mind mapping]]"
 description: Convert Markdown files to a mind map,mind map editor
 downloads: 5915
 mobile: true
 number: 1490
 title: Mxmind Mindmap
 type: plugin
-updated: '2024-06-12T09:41:31'
+updated: 2024-06-12T09:41:31
 url: https://github.com/webceoboy/mxmind-obsidian
 version: 1.0.13
 ---

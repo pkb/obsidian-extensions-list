@@ -1,11 +1,12 @@
 ---
 aliases:
-- Day Planner
+  - Day Planner
 author:
-- James Lynch
-- continued by Ivan Lednev
+  - James Lynch
+  - continued by Ivan Lednev
 author_page: https://github.com/ivan-lednev
-categories: []
+categories:
+  - "[[categories/Planning|Planning]]"
 description: A day planner with clean UI and readable syntax
 downloads: 534258
 funding_page: https://www.buymeacoffee.com/machineelf
@@ -13,7 +14,7 @@ mobile: true
 number: 19
 title: Day Planner
 type: plugin
-updated: '2024-11-18T00:39:07'
+updated: 2024-11-18T00:39:07
 url: https://github.com/ivan-lednev/obsidian-day-planner
 version: 0.26.2
 ---

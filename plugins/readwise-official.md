@@ -1,17 +1,18 @@
 ---
 aliases:
-- Readwise Official
+  - Readwise Official
 author:
-- Readwise
+  - Readwise
 author_page: https://readwise.io
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Official Readwise <-> Obsidian integration
 downloads: 142098
 mobile: true
 number: 244
 title: Readwise Official
 type: plugin
-updated: '2024-09-13T05:23:12'
+updated: 2024-09-13T05:23:12
 url: https://github.com/readwiseio/obsidian-readwise
 version: 2.1.4
 ---

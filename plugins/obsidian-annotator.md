@@ -1,18 +1,18 @@
 ---
 aliases:
-- Annotator
+  - Annotator
 author:
-- Obsidian
+  - Obsidian
 author_page: https://obsidian.md/about
-categories: []
-description: This is a sample plugin for Obsidian. It allows you to open and annotate
-  PDF and EPUB files.
+categories:
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+description: This is a sample plugin for Obsidian. It allows you to open and annotate PDF and EPUB files.
 downloads: 425914
 mobile: true
 number: 273
 title: Annotator
 type: plugin
-updated: '2024-01-08T16:44:21'
+updated: 2024-01-08T16:44:21
 url: https://github.com/elias-sundqvist/obsidian-annotator
 version: 0.2.11
 ---

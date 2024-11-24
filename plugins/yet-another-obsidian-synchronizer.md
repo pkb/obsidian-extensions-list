@@ -1,18 +1,18 @@
 ---
 aliases:
-- Yet Another Obsidian Synchronizer
+  - Yet Another Obsidian Synchronizer
 author:
-- Mahyar Mirrashed
+  - Mahyar Mirrashed
 author_page: https://github.com/mahyarmirrashed
-categories: []
-description: This is yet another obsidian synchronizer that uses Git to synchronize
-  your vault contents across devices.
+categories:
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
+description: This is yet another obsidian synchronizer that uses Git to synchronize your vault contents across devices.
 downloads: 8304
 mobile: false
 number: 1061
 title: Yet Another Obsidian Synchronizer
 type: plugin
-updated: '2023-11-02T23:54:55'
+updated: 2023-11-02T23:54:55
 url: https://github.com/mahyarmirrashed/yaos
 version: 0.7.0
 ---

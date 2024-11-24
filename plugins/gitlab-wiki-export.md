@@ -1,19 +1,19 @@
 ---
 aliases:
-- Gitlab Wiki Exporter
+  - Gitlab Wiki Exporter
 author:
-- Josef Rabmer
+  - Josef Rabmer
 author_page: https://github.com/jrabmer
-categories: []
-description: Makes your entire vault Gitlab Wiki compatible and exports it to a specified
-  location.
+categories:
+  - "[[categories/Export|Export]]"
+description: Makes your entire vault Gitlab Wiki compatible and exports it to a specified location.
 downloads: 1289
 funding_page: https://ko-fi.com/jrabmer
 mobile: false
 number: 1479
 title: Gitlab Wiki Exporter
 type: plugin
-updated: '2024-02-29T04:29:57'
+updated: 2024-02-29T04:29:57
 url: https://github.com/jrabmer/obsidian-to-gitlab-wiki
 version: 1.1.3
 ---

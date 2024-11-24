@@ -1,18 +1,19 @@
 ---
 aliases:
-- Simple CanvaSearch
+  - Simple CanvaSearch
 author:
-- ddalexb
+  - ddalexb
 author_page: https://github.com/ddalexb
-categories: []
-description: Quickly fuzzy-search and shift focus to notes or cards within the currently
-  opened canvas.
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
+  - "[[categories/Canvas|Canvas]]"
+description: Quickly fuzzy-search and shift focus to notes or cards within the currently opened canvas.
 downloads: 68359
 mobile: false
 number: 1028
 title: Simple CanvaSearch
 type: plugin
-updated: '2024-06-25T22:05:39'
+updated: 2024-06-25T22:05:39
 url: https://github.com/ddalexb/obsidian-simple-canvasearch
 version: 1.0.0
 ---

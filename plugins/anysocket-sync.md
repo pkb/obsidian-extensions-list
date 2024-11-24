@@ -1,17 +1,18 @@
 ---
 aliases:
-- AnySocket Sync
+  - AnySocket Sync
 author:
-- Andrei Vaduva
+  - Andrei Vaduva
 author_page: https://github.com/lynxaegon
-categories: []
+categories:
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
 description: Self-Hosted synchronization for you Vault using AnySocket
 downloads: 329
 mobile: true
 number: 1870
 title: AnySocket Sync
 type: plugin
-updated: '2024-11-05T19:19:50'
+updated: 2024-11-05T19:19:50
 url: https://github.com/lynxaegon/obsidian-anysocket-sync
 version: 1.3.3
 ---

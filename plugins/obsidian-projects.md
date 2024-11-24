@@ -1,10 +1,11 @@
 ---
 aliases:
-- Projects
+  - Projects
 author:
-- Marcus Olsson
+  - Marcus Olsson
 author_page: https://marcus.se.net
-categories: []
+categories:
+  - "[[categories/Planning|Planning]]"
 description: Plain text project planning.
 downloads: 350089
 funding_page: https://www.buymeacoffee.com/marcusolsson
@@ -12,7 +13,7 @@ mobile: true
 number: 635
 title: Projects
 type: plugin
-updated: '2024-11-06T09:15:31'
+updated: 2024-11-06T09:15:31
 url: https://github.com/marcusolsson/obsidian-projects
 version: 1.17.4
 ---

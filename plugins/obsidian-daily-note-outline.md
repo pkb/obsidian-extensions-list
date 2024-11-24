@@ -1,18 +1,18 @@
 ---
 aliases:
-- Daily Note Outline
+  - Daily Note Outline
 author:
-- iiz
+  - iiz
 author_page: https://github.com/iiz00
-categories: []
-description: Add a custom view which shows outline of multiple daily notes with headings,
-  links, tags and list items
+categories:
+  - "[[categories/Journalling|Journalling]]"
+description: Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items
 downloads: 19913
 mobile: true
 number: 659
 title: Daily Note Outline
 type: plugin
-updated: '2024-03-31T21:07:33'
+updated: 2024-03-31T21:07:33
 url: https://github.com/iiz00/obsidian-daily-note-outline
 version: 1.5.0
 ---

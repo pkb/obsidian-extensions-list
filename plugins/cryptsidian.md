@@ -1,17 +1,18 @@
 ---
 aliases:
-- Cryptsidian
+  - Cryptsidian
 author:
-- triumphantomato
+  - triumphantomato
 author_page: https://github.com/triumphantomato
-categories: []
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
 description: Encrypt all files in your Obsidian.md Vault with a password.
 downloads: 12908
 mobile: false
 number: 342
 title: Cryptsidian
 type: plugin
-updated: '2021-11-03T01:26:40'
+updated: 2021-11-03T01:26:40
 url: https://github.com/triumphantomato/cryptsidian
 version: 1.1.0
 ---

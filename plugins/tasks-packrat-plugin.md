@@ -1,17 +1,18 @@
 ---
 aliases:
-- Packrat
+  - Packrat
 author:
-- Thomas Herden
+  - Thomas Herden
 author_page: https://github.com/therden
-categories: []
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Process completed recurring Tasks
 downloads: 5092
 mobile: true
 number: 529
 title: Packrat
 type: plugin
-updated: '2024-01-03T03:20:48'
+updated: 2024-01-03T03:20:48
 url: https://github.com/therden/packrat
 version: 1.1.2
 ---

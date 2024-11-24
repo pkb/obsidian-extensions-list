@@ -1,18 +1,18 @@
 ---
 aliases:
-- Plotly
+  - Plotly
 author:
-- Dmitriy Shulha
+  - Dmitriy Shulha
 author_page: https://github.com/Dmitriy-Shulha
-categories: []
-description: Obsidian plugin, which allow user to embed Plotly charts into markdown
-  notes.
+categories:
+  - "[[categories/Charting|Charting]]"
+description: Obsidian plugin, which allow user to embed Plotly charts into markdown notes.
 downloads: 7437
 mobile: true
 number: 317
 title: Plotly
 type: plugin
-updated: '2021-11-13T22:44:10'
+updated: 2021-11-13T22:44:10
 url: https://github.com/Dmytro-Shulha/obsidian-plotly
 version: 0.0.6
 ---

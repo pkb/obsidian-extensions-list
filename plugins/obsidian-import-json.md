@@ -1,18 +1,18 @@
 ---
 aliases:
-- JSON/CSV Importer
+  - JSON/CSV Importer
 author:
-- farling42
+  - farling42
 author_page: https://github.com/farling42/
-categories: []
-description: This plugin imports a JSON/CSV file (or text block) and creates notes
-  from a Handlebars template file
+categories:
+  - "[[categories/Import|Import]]"
+description: This plugin imports a JSON/CSV file (or text block) and creates notes from a Handlebars template file
 downloads: 40563
 mobile: false
 number: 391
 title: JSON/CSV Importer
 type: plugin
-updated: '2024-10-20T03:13:22'
+updated: 2024-10-20T03:13:22
 url: https://github.com/farling42/obsidian-import-json
 version: 0.37.1
 ---

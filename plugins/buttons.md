@@ -1,18 +1,18 @@
 ---
 aliases:
-- Buttons
+  - Buttons
 author:
-- shabegom
+  - shabegom
 author_page: https://shbgm.ca
-categories: []
-description: Create Buttons in your Obsidian notes to run commands, open links, and
-  insert templates
+categories:
+  - "[[categories/Automation|Automation]]"
+description: Create Buttons in your Obsidian notes to run commands, open links, and insert templates
 downloads: 217059
 mobile: true
 number: 138
 title: Buttons
 type: plugin
-updated: '2024-02-10T06:31:01'
+updated: 2024-02-10T06:31:01
 url: https://github.com/shabegom/buttons
 version: 0.5.1
 ---

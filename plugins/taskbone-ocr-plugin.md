@@ -1,17 +1,19 @@
 ---
 aliases:
-- Taskbone
+  - Taskbone
 author:
-- Dominik Schlund
+  - Dominik Schlund
 author_page: https://github.com/schlundd
-categories: []
+categories:
+  - "[[categories/Task management|Task management]]"
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
 description: Sync Obsidian with Todoist, extract text from images (OCR).
 downloads: 21308
 mobile: true
 number: 204
 title: Taskbone
 type: plugin
-updated: '2024-09-11T23:59:00'
+updated: 2024-09-11T23:59:00
 url: https://github.com/schlundd/obsidian-ocr-plugin
 version: 2.3.2
 ---

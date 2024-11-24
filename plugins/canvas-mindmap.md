@@ -1,10 +1,12 @@
 ---
 aliases:
-- Canvas Mindmap
+  - Canvas Mindmap
 author:
-- Boninall
+  - Boninall
 author_page: https://github.com/quorafind
-categories: []
+categories:
+  - "[[categories/Mind mapping|Mind mapping]]"
+  - "[[categories/Canvas|Canvas]]"
 description: A plugin to make your canvas work like a mindmap.
 downloads: 74476
 funding_page:
@@ -15,7 +17,7 @@ mobile: true
 number: 774
 title: Canvas Mindmap
 type: plugin
-updated: '2024-09-04T08:47:03'
+updated: 2024-09-04T08:47:03
 url: https://github.com/Quorafind/Obsidian-Canvas-MindMap
 version: 1.0.2
 ---

@@ -1,10 +1,12 @@
 ---
 aliases:
-- QuickAdd
+  - QuickAdd
 author:
-- Christian B. B. Houmann
+  - Christian B. B. Houmann
 author_page: https://bagerbach.com
-categories: []
+categories:
+  - "[[categories/Content capture|Content capture]]"
+  - "[[categories/Templates|Templates]]"
 description: Quickly add new pages or content to your vault.
 downloads: 846045
 funding_page: https://www.buymeacoffee.com/chhoumann
@@ -12,7 +14,7 @@ mobile: true
 number: 211
 title: QuickAdd
 type: plugin
-updated: '2024-11-18T01:42:07'
+updated: 2024-11-18T01:42:07
 url: https://github.com/chhoumann/quickadd
 version: 1.11.5
 ---

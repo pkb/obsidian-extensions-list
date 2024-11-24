@@ -1,10 +1,11 @@
 ---
 aliases:
-- Lovely-Mindmap
+  - Lovely-Mindmap
 author:
-- shaun
+  - shaun
 author_page: https://github.com/xincan1949
-categories: []
+categories:
+  - "[[categories/Mind mapping|Mind mapping]]"
 description: Build your own knowledge graph with smiles :-)
 downloads: 13665
 funding_page:
@@ -15,7 +16,7 @@ mobile: true
 number: 1064
 title: Lovely-Mindmap
 type: plugin
-updated: '2024-09-21T13:12:16'
+updated: 2024-09-21T13:12:16
 url: https://github.com/xincan1949/lovely-mindmap
 version: 1.0.4
 ---

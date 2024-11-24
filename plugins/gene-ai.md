@@ -1,18 +1,18 @@
 ---
 aliases:
-- "Gene \U0001F9EC"
+  - Gene 🧬
 author:
-- Matiss Jurevics
+  - Matiss Jurevics
 author_page: https://saetom.xyz
-categories: []
-description: Gene is an ai assistant for your second brain. It makes it easier than
-  ever to creaate, manage and modify your notes. Gene is a plugin for Obsidian.md
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Gene is an ai assistant for your second brain. It makes it easier than ever to creaate, manage and modify your notes. Gene is a plugin for Obsidian.md
 downloads: 5220
 mobile: true
 number: 837
-title: "Gene \U0001F9EC"
+title: Gene 🧬
 type: plugin
-updated: '2023-05-28T02:06:44'
+updated: 2023-05-28T02:06:44
 url: https://github.com/MatissJurevics/Gene-AI
 version: 1.3.4
 ---

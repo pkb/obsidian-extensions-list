@@ -1,19 +1,19 @@
 ---
 aliases:
-- WakaTime
+  - WakaTime
 author:
-- WakaTime
+  - WakaTime
 author_page: https://wakatime.com
-categories: []
-description: Automatic time tracking and metrics generated from your Obsidian usage
-  activity.
+categories:
+  - "[[categories/Time tracking|Time tracking]]"
+description: Automatic time tracking and metrics generated from your Obsidian usage activity.
 downloads: 9154
 funding_page: https://wakatime.com/pricing
 mobile: false
 number: 733
 title: WakaTime
 type: plugin
-updated: '2022-12-31T02:48:38'
+updated: 2022-12-31T02:48:38
 url: https://github.com/wakatime/obsidian-wakatime
 version: 1.0.0
 ---

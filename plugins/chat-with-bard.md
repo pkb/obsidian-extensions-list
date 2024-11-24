@@ -1,17 +1,18 @@
 ---
 aliases:
-- Gemini AI Assistant
+  - Gemini AI Assistant
 author:
-- Artel250
+  - Artel250
 author_page: https://github.com/Artel250
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Use Google Gemini directly in obsidian for free.
 downloads: 4527
 mobile: false
 number: 1214
 title: Gemini AI Assistant
 type: plugin
-updated: '2024-08-28T16:02:23'
+updated: 2024-08-28T16:02:23
 url: https://github.com/Artel250/Obsidian-Gemini-Assistant
 version: 0.3.1
 ---

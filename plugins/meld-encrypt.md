@@ -1,10 +1,11 @@
 ---
 aliases:
-- Meld Encrypt
+  - Meld Encrypt
 author:
-- meld-cp
+  - meld-cp
 author_page: https://github.com/meld-cp/obsidian-encrypt
-categories: []
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
 description: Hide secrets in your vault
 downloads: 96494
 funding_page:
@@ -14,7 +15,7 @@ mobile: true
 number: 103
 title: Meld Encrypt
 type: plugin
-updated: '2024-07-14T04:51:03'
+updated: 2024-07-14T04:51:03
 url: https://github.com/meld-cp/obsidian-encrypt
 version: 2.3.7
 ---

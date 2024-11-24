@@ -1,12 +1,12 @@
 ---
 aliases:
-- Journal Review
+  - Journal Review
 author:
-- Kageetai
+  - Kageetai
 author_page: https://kageetai.net
-categories: []
-description: Review your daily notes on their anniversaries, like "what happened today
-  last year".
+categories:
+  - "[[categories/Journalling|Journalling]]"
+description: Review your daily notes on their anniversaries, like "what happened today last year".
 downloads: 11205
 funding_page:
   Ko-Fi: https://ko-fi.com/kageetai
@@ -14,7 +14,7 @@ mobile: true
 number: 841
 title: Journal Review
 type: plugin
-updated: '2024-10-25T23:35:46'
+updated: 2024-10-25T23:35:46
 url: https://github.com/Kageetai/obsidian-plugin-journal-review
 version: 2.5.0
 ---

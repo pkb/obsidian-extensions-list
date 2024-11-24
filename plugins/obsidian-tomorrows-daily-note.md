@@ -1,17 +1,18 @@
 ---
 aliases:
-- Tomorrow's Daily Note
+  - Tomorrow's Daily Note
 author:
-- Will Olson
+  - Will Olson
 author_page: https://willolson.io
-categories: []
+categories:
+  - "[[categories/Planning|Planning]]"
 description: An obsidian plugin that creates tomorrow's daily note for preemtive planning.
 downloads: 9878
 mobile: true
 number: 387
 title: Tomorrow's Daily Note
 type: plugin
-updated: '2024-10-06T00:52:14'
+updated: 2024-10-06T00:52:14
 url: https://github.com/frankolson/obsidian-tomorrows-daily-note
 version: 1.2.0
 ---

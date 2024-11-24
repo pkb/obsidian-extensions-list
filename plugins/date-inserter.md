@@ -1,17 +1,18 @@
 ---
 aliases:
-- Date Inserter
+  - Date Inserter
 author:
-- namikaze-40p
+  - namikaze-40p
 author_page: https://github.com/namikaze-40p
-categories: []
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
 description: Insert a date at the cursor position using a calendar.
 downloads: 4377
 mobile: true
 number: 1485
 title: Date Inserter
 type: plugin
-updated: '2024-10-17T21:48:59'
+updated: 2024-10-17T21:48:59
 url: https://github.com/namikaze-40p/obsidian-date-inserter
 version: 0.3.8
 ---

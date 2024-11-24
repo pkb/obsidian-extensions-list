@@ -1,18 +1,18 @@
 ---
 aliases:
-- Yesterday
+  - Yesterday
 author:
-- Dominik Mayer
+  - Dominik Mayer
 author_page: https://www.yesterday.md
-categories: []
-description: Transform your notes into a visually stunning diary, integrating dialogs,
-  chat logs, and media content blocks for a seamless journaling experience.
+categories:
+  - "[[categories/Journalling|Journalling]]"
+description: Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience.
 downloads: 3138
 mobile: true
 number: 1478
 title: Yesterday
 type: plugin
-updated: '2024-07-25T18:59:26'
+updated: 2024-07-25T18:59:26
 url: https://github.com/dominikmayer/obsidian-yesterday
 version: 1.2.0
 ---

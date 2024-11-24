@@ -1,17 +1,18 @@
 ---
 aliases:
-- Instapaper
+  - Instapaper
 author:
-- Instapaper
+  - Instapaper
 author_page: https://www.instapaper.com
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Instapaper integration.
 downloads: 3951
 mobile: true
 number: 1364
 title: Instapaper
 type: plugin
-updated: '2024-11-16T23:42:07'
+updated: 2024-11-16T23:42:07
 url: https://github.com/Instapaper/obsidian-instapaper
 version: 1.1.3
 ---

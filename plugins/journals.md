@@ -1,17 +1,18 @@
 ---
 aliases:
-- Journals
+  - Journals
 author:
-- Sergii Kostyrko
+  - Sergii Kostyrko
 author_page: https://github.com/srg-kostyrko
-categories: []
+categories:
+  - "[[categories/Journalling|Journalling]]"
 description: Manage your journals in Obsidian
 downloads: 15160
 mobile: true
 number: 1400
 title: Journals
 type: plugin
-updated: '2024-10-23T20:21:11'
+updated: 2024-10-23T20:21:11
 url: https://github.com/srg-kostyrko/obsidian-journal
 version: 1.4.3
 ---

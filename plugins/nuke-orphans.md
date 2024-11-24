@@ -1,17 +1,18 @@
 ---
 aliases:
-- Nuke Orphans
+  - Nuke Orphans
 author:
-- Sandorex
+  - Sandorex
 author_page: https://github.com/sandorex
-categories: []
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
 description: Plugin that trashes orphaned files and attachments
 downloads: 9790
 mobile: true
 number: 520
 title: Nuke Orphans
 type: plugin
-updated: '2024-01-16T17:58:56'
+updated: 2024-01-16T17:58:56
 url: https://github.com/sandorex/nuke-orphans-plugin
 version: 1.2.5
 ---

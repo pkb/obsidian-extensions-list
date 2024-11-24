@@ -1,17 +1,18 @@
 ---
 aliases:
-- Lunar Calendar
+  - Lunar Calendar
 author:
-- OSmile
+  - OSmile
 author_page: https://github.com/WHG555
-categories: []
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
 description: 一个支持农历的日历
 downloads: 3197
 mobile: false
 number: 1204
 title: Lunar Calendar
 type: plugin
-updated: '2024-05-19T17:08:38'
+updated: 2024-05-19T17:08:38
 url: https://github.com/WHG555/lunar-calendar
 version: 1.2.0
 ---

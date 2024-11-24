@@ -1,10 +1,12 @@
 ---
 aliases:
-- Day One Importer
+  - Day One Importer
 author:
-- Marc Donald
+  - Marc Donald
 author_page: https://marcdonald.com
-categories: []
+categories:
+  - "[[categories/Journalling|Journalling]]"
+  - "[[categories/Import|Import]]"
 description: Import Day One journals
 downloads: 772
 funding_page:
@@ -14,7 +16,7 @@ mobile: false
 number: 1627
 title: Day One Importer
 type: plugin
-updated: '2024-09-27T06:05:46'
+updated: 2024-09-27T06:05:46
 url: https://github.com/marcdonald/obsidian-day-one-importer
 version: 1.1.2
 ---

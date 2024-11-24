@@ -1,24 +1,21 @@
 ---
 aliases:
-- File Info Panel
+  - File Info Panel
 author:
-- T. L. Ford
+  - T. L. Ford
 author_page: https://www.Cattail.Nu
-categories: []
-description: Plugin for Obsidian that creates a File Information view that displays
-  the active file's date created, date modified, file size, and links to open the
-  file in its native application and to open the file's folder.  It also has writing
-  statistics (character, word, sentence, and paragraph counts) and a word frequency
-  analysis.
+categories:
+  - "[[categories/Statistics|Statistics]]"
+description: Plugin for Obsidian that creates a File Information view that displays the active file's date created, date modified, file size, and links to open the file in its native application and to open the file's folder.  It also has writing statistics (character, word, sentence, and paragraph counts) and a word frequency analysis.
 downloads: 15503
 funding_page: https://www.Cattail.Nu
 mobile: true
 number: 407
 title: File Info Panel
 type: plugin
-updated: '2023-01-13T20:48:49'
+updated: 2023-01-13T20:48:49
 url: https://github.com/CattailNu/obsidian-file-info-panel-plugin
-version: '1.3'
+version: "1.3"
 ---
 
 %% README_START %%

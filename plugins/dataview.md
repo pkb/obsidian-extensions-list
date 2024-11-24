@@ -1,17 +1,18 @@
 ---
 aliases:
-- Dataview
+  - Dataview
 author:
-- Michael Brenan <blacksmithgu@gmail.com>
+  - Michael Brenan <blacksmithgu@gmail.com>
 author_page: https://github.com/blacksmithgu
-categories: []
+categories:
+  - "[[categories/Data management|Data management]]"
 description: Complex data views for the data-obsessed.
 downloads: 2263581
 mobile: true
 number: 92
 title: Dataview
 type: plugin
-updated: '2024-06-20T10:29:56'
+updated: 2024-06-20T10:29:56
 url: https://github.com/blacksmithgu/obsidian-dataview
 version: 0.5.67
 ---

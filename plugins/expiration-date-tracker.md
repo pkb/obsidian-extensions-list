@@ -1,17 +1,18 @@
 ---
 aliases:
-- Expiration-Date-Tracker
+  - Expiration-Date-Tracker
 author:
-- Marius Wörfel
+  - Marius Wörfel
 author_page: https://github.com/Raboro
-categories: []
+categories:
+  - "[[categories/Time management|Time management]]"
 description: Keep track of all expiration dates, for example, for your groceries.
 downloads: 2932
 mobile: true
 number: 1152
 title: Expiration-Date-Tracker
 type: plugin
-updated: '2023-10-08T02:51:56'
+updated: 2023-10-08T02:51:56
 url: https://github.com/Raboro/obsidian-expiration-date-tracker-plugin
 version: 1.0.3
 ---

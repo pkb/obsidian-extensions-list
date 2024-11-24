@@ -1,18 +1,20 @@
 ---
 aliases:
-- Morgen Tasks
+  - Morgen Tasks
 author:
-- Morgen AG
+  - Morgen AG
 author_page: https://morgen.so
-categories: []
-description: Plan, time block, and track tasks from your vault in any calendar using
-  Morgen.
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Task management|Task management]]"
+  - "[[categories/Date and calendar|Date and calendar]]"
+description: Plan, time block, and track tasks from your vault in any calendar using Morgen.
 downloads: 1770
 mobile: true
 number: 1893
 title: Morgen Tasks
 type: plugin
-updated: '2024-09-30T13:14:00'
+updated: 2024-09-30T13:14:00
 url: https://github.com/morgen-so/morgen-obsidian
 version: 1.0.5
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- Icons
+  - Icons
 author:
-- Camillo Visini
+  - Camillo Visini
 author_page: https://github.com/visini
-categories: []
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: Add icons to your Obsidian notes.
 downloads: 83548
 mobile: false
 number: 77
 title: Icons
 type: plugin
-updated: '2021-02-17T16:23:49'
+updated: 2021-02-17T16:23:49
 url: https://github.com/visini/obsidian-icons-plugin
 version: 0.3.0
 ---

@@ -1,10 +1,11 @@
 ---
 aliases:
-- Sheet Plus
+  - Sheet Plus
 author:
-- ljcoder
+  - ljcoder
 author_page: https://github.com/ljcoder2015
-categories: []
+categories:
+  - "[[categories/Other formats|Other formats]]"
 description: Create Excel-like spreadsheets and easily embed them in Markdown.
 downloads: 15422
 funding_page: https://ko-fi.com/ljcoder
@@ -12,7 +13,7 @@ mobile: true
 number: 1722
 title: Sheet Plus
 type: plugin
-updated: '2024-11-05T09:25:36'
+updated: 2024-11-05T09:25:36
 url: https://github.com/ljcoder2015/obsidian-sheet-plus
 version: 1.4.4
 ---

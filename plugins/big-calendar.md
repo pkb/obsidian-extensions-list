@@ -1,17 +1,18 @@
 ---
 aliases:
-- Obsidian Big Calendar
+  - Obsidian Big Calendar
 author:
-- Bonianll
+  - Bonianll
 author_page: https://github.com/Quorafind/
-categories: []
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
 description: A Big Calendar for Obsidian
 downloads: 35744
 mobile: true
 number: 431
 title: Obsidian Big Calendar
 type: plugin
-updated: '2022-02-14T08:45:39'
+updated: 2022-02-14T08:45:39
 url: https://github.com/Quorafind/Obsidian-Big-Calendar
 version: 0.3.0
 ---

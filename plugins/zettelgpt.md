@@ -1,18 +1,19 @@
 ---
 aliases:
-- ZettelGPT
+  - ZettelGPT
 author:
-- Overraddit
+  - Overraddit
 author_page: https://github.com/OverRaddit
-categories: []
-description: 'ZettelGPT: Turbocharge Your Note-taking with AI Assistance'
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: "ZettelGPT: Turbocharge Your Note-taking with AI Assistance"
 downloads: 4359
 funding_page: https://www.buymeacoffee.com/Overraddit
 mobile: true
 number: 1029
 title: ZettelGPT
 type: plugin
-updated: '2023-04-20T21:37:33'
+updated: 2023-04-20T21:37:33
 url: https://github.com/OverRaddit/ZettelGPT
 version: 1.0.0
 ---

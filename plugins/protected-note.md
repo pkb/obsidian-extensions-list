@@ -1,19 +1,19 @@
 ---
 aliases:
-- Protected Note
+  - Protected Note
 author:
-- Mikail Gadzhikhanov
+  - Mikail Gadzhikhanov
 author_page: https://github.com/mmiksaa
-categories: []
-description: Set Password and Protect your notes from other people. Encrypt and Decrypt
-  all notes!
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
+description: Set Password and Protect your notes from other people. Encrypt and Decrypt all notes!
 downloads: 3379
 funding_page: https://buymeacoffee.com/gadgihanovm
 mobile: true
 number: 1412
 title: Protected Note
 type: plugin
-updated: '2024-03-02T07:00:52'
+updated: 2024-03-02T07:00:52
 url: https://github.com/mmiksaa/obsidian-protected-note
 version: 1.1.0
 ---

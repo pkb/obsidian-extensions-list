@@ -1,16 +1,18 @@
 ---
 aliases:
-- Mindmap NextGen
-author: james-tindal
+  - Mindmap NextGen
+author:
+  - james-tindal
 author_page: https://github.com/james-tindal
-categories: []
+categories:
+  - "[[categories/Mind mapping|Mind mapping]]"
 description: View your Markdown as a mindmap
 downloads: 37966
 mobile: true
 number: 703
 title: Mindmap NextGen
 type: plugin
-updated: '2024-11-18T01:15:14'
+updated: 2024-11-18T01:15:14
 url: https://github.com/james-tindal/obsidian-mindmap-nextgen
 version: 1.9.1
 ---

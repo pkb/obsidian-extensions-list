@@ -1,17 +1,18 @@
 ---
 aliases:
-- Nexus AI Chat Importer
+  - Nexus AI Chat Importer
 author:
-- Superkikim
+  - Superkikim
 author_page: https://github.com/Superkikim
-categories: []
+categories:
+  - "[[categories/Import|Import]]"
 description: Import conversations from ChatGPT export files.
 downloads: 370
 mobile: false
 number: 1886
 title: Nexus AI Chat Importer
 type: plugin
-updated: '2024-09-11T19:04:00'
+updated: 2024-09-11T19:04:00
 url: https://github.com/superkikim/nexus-ai-chat-importer
 version: 1.0.2
 ---

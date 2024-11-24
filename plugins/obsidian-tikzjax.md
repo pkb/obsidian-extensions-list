@@ -1,17 +1,18 @@
 ---
 aliases:
-- TikZJax
+  - TikZJax
 author:
-- artisticat
+  - artisticat
 author_page: https://github.com/artisticat1
-categories: []
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
 description: Render LaTeX and TikZ diagrams in your notes
 downloads: 26494
 mobile: true
 number: 602
 title: TikZJax
 type: plugin
-updated: '2024-03-31T20:39:31'
+updated: 2024-03-31T20:39:31
 url: https://github.com/artisticat1/obsidian-tikzjax
 version: 0.5.2
 ---

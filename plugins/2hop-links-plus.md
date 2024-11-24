@@ -1,20 +1,19 @@
 ---
 aliases:
-- 2Hop Links Plus
+  - 2Hop Links Plus
 author:
-- Tokuhiro Matsuno
-- L7Cy
+  - Tokuhiro Matsuno
+  - L7Cy
 author_page: https://github.com/L7Cy
-categories: []
-description: Related links up to 2 hops away are displayed in a card format, allowing
-  for easy browsing through connections between notes. Each card contains a preview
-  of the corresponding note.
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
+description: Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note.
 downloads: 9432
 mobile: true
 number: 1129
 title: 2Hop Links Plus
 type: plugin
-updated: '2023-10-16T08:12:45'
+updated: 2023-10-16T08:12:45
 url: https://github.com/L7Cy/obsidian-2hop-links-plus
 version: 0.37.0
 ---

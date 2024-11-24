@@ -1,18 +1,18 @@
 ---
 aliases:
-- S3 attachments storage
+  - S3 attachments storage
 author:
-- TechTheAwesome
+  - TechTheAwesome
 author_page: https://github.com/TechTheAwesome
-categories: []
-description: An Obsidian plugin for storage and retrieval of media attachments on
-  S3 compatible services.
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
+description: An Obsidian plugin for storage and retrieval of media attachments on S3 compatible services.
 downloads: 3654
 mobile: true
 number: 757
 title: S3 attachments storage
 type: plugin
-updated: '2023-06-11T14:59:33'
+updated: 2023-06-11T14:59:33
 url: https://github.com/TechTheAwesome/obsidian-s3
 version: 0.1.2
 ---

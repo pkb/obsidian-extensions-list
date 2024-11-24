@@ -1,19 +1,19 @@
 ---
 aliases:
-- Commander
+  - Commander
 author:
-- jsmorabito & phibr0
+  - jsmorabito & phibr0
 author_page: https://github.com/phibr0
-categories: []
-description: Customize your workspace by adding commands everywhere, create Macros
-  and supercharge your mobile toolbar.
+categories:
+  - "[[categories/UI customization|UI customization]]"
+description: Customize your workspace by adding commands everywhere, create Macros and supercharge your mobile toolbar.
 downloads: 255586
 funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 568
 title: Commander
 type: plugin
-updated: '2024-10-11T07:55:46'
+updated: 2024-10-11T07:55:46
 url: https://github.com/phibr0/obsidian-commander
 version: 0.5.2
 ---

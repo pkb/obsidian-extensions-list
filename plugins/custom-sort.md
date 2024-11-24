@@ -1,18 +1,18 @@
 ---
 aliases:
-- Custom File Explorer sorting
+  - Custom File Explorer sorting
 author:
-- SebastianMC
+  - SebastianMC
 author_page: https://github.com/SebastianMC
-categories: []
-description: Allows for manual and automatic, config-driven reordering and sorting
-  of files and folders in File Explorer
+categories:
+  - "[[categories/UI customization|UI customization]]"
+description: Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer
 downloads: 81810
 mobile: true
 number: 609
 title: Custom File Explorer sorting
 type: plugin
-updated: '2024-09-20T22:56:24'
+updated: 2024-09-20T22:56:24
 url: https://github.com/SebastianMC/obsidian-custom-sort
 version: 2.1.14
 ---

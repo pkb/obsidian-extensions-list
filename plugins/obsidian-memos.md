@@ -1,17 +1,18 @@
 ---
 aliases:
-- Thino
+  - Thino
 author:
-- Boninall
+  - Boninall
 author_page: https://github.com/Quorafind/
-categories: []
+categories:
+  - "[[categories/Content capture|Content capture]]"
 description: Capturing ideas and save them into daily notes. (Closed source)
 downloads: 182934
 mobile: true
 number: 397
 title: Thino
 type: plugin
-updated: '2024-10-14T19:20:18'
+updated: 2024-10-14T19:20:18
 url: https://github.com/Quorafind/Obsidian-Thino
 version: 2.4.58
 ---

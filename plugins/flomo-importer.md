@@ -1,17 +1,18 @@
 ---
 aliases:
-- Flomo Importer
+  - Flomo Importer
 author:
-- Jialu Y
+  - Jialu Y
 author_page: https://github.com/jia6y
-categories: []
+categories:
+  - "[[categories/Import|Import]]"
 description: Make Flomo Memos to Obsidian Notes
 downloads: 8909
 mobile: false
 number: 880
 title: Flomo Importer
 type: plugin
-updated: '2024-08-18T07:48:03'
+updated: 2024-08-18T07:48:03
 url: https://github.com/jia6y/flomo-to-obsidian
 version: 1.3.1
 ---

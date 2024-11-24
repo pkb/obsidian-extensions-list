@@ -1,17 +1,18 @@
 ---
 aliases:
-- Export To TeX
+  - Export To TeX
 author:
-- Zach Raines
+  - Zach Raines
 author_page: https://github.com/raineszm/obsidian-export-to-tex
-categories: []
+categories:
+  - "[[categories/Export|Export]]"
 description: Export vault files in a format amenable to pasting into a tex document
 downloads: 8352
 mobile: false
 number: 57
 title: Export To TeX
 type: plugin
-updated: '2022-06-29T22:09:49'
+updated: 2022-06-29T22:09:49
 url: https://github.com/raineszm/obsidian-export-to-tex
 version: 0.4.2
 ---

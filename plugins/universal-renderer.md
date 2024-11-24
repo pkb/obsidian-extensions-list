@@ -1,17 +1,18 @@
 ---
 aliases:
-- Universal renderer
+  - Universal renderer
 author:
-- Kloud
+  - Kloud
 author_page: https://kloud.port0.org
-categories: []
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
 description: Render many different diagrams natively
 downloads: 490
 mobile: false
 number: 1600
 title: Universal renderer
 type: plugin
-updated: '2024-04-17T00:57:37'
+updated: 2024-04-17T00:57:37
 url: https://github.com/dgudim/obsidian-universal-renderer
 version: 1.0.11
 ---

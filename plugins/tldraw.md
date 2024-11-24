@@ -1,18 +1,18 @@
 ---
 aliases:
-- Tldraw
+  - Tldraw
 author:
-- Sam Alhaqab
+  - Sam Alhaqab
 author_page: https://github.com/holxsam
-categories: []
-description: Integrates Tldraw into Obsidian, allowing users to draw and edit content
-  on a virtual whiteboard.
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+description: Integrates Tldraw into Obsidian, allowing users to draw and edit content on a virtual whiteboard.
 downloads: 16981
 mobile: true
 number: 1314
 title: Tldraw
 type: plugin
-updated: '2024-11-14T00:55:10'
+updated: 2024-11-14T00:55:10
 url: https://github.com/holxsam/tldraw-in-obsidian
 version: 1.14.1
 ---

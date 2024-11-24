@@ -1,10 +1,11 @@
 ---
 aliases:
-- Calendar
+  - Calendar
 author:
-- Liam Cain
+  - Liam Cain
 author_page: https://github.com/liamcain/
-categories: []
+categories:
+  - "[[categories/Date and calendar|Date and calendar]]"
 description: Calendar view of your daily notes
 downloads: 1439156
 funding_page: https://www.buymeacoffee.com/liamcain
@@ -12,7 +13,7 @@ mobile: true
 number: 10
 title: Calendar
 type: plugin
-updated: '2021-04-21T00:50:01'
+updated: 2021-04-21T00:50:01
 url: https://github.com/liamcain/obsidian-calendar-plugin
 version: 1.5.10
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- AI Assistant
+  - AI Assistant
 author:
-- Quentin Grail
+  - Quentin Grail
 author_page: https://github.com/qgrail
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: AI Assistant plugin for Obsidian
 downloads: 17433
 mobile: true
 number: 884
 title: AI Assistant
 type: plugin
-updated: '2024-11-03T15:32:17'
+updated: 2024-11-03T15:32:17
 url: https://github.com/qgrail/obsidian-ai-assistant
 version: 1.5.3
 ---

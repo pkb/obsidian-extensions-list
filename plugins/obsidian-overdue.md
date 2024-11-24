@@ -1,17 +1,18 @@
 ---
 aliases:
-- Overdue
+  - Overdue
 author:
-- Peter Parente
+  - Peter Parente
 author_page: https://github.com/parente
-categories: []
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Marks items as [[Overdue]] if they are not checked off by their due date
 downloads: 4500
 mobile: true
 number: 364
 title: Overdue
 type: plugin
-updated: '2021-11-25T10:51:21'
+updated: 2021-11-25T10:51:21
 url: https://github.com/parente/obsidian-overdue
 version: 0.1.0
 ---

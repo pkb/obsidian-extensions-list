@@ -1,10 +1,11 @@
 ---
 aliases:
-- Bulk Exporter
+  - Bulk Exporter
 author:
-- symunona
+  - symunona
 author_page: https://github.com/symunona
-categories: []
+categories:
+  - "[[categories/Export|Export]]"
 description: Use Dataview queries to export a set of notes with assets
 downloads: 4843
 funding_page: https://bmc.link/symunona
@@ -12,7 +13,7 @@ mobile: false
 number: 1020
 title: Bulk Exporter
 type: plugin
-updated: '2024-10-24T20:35:51'
+updated: 2024-10-24T20:35:51
 url: https://github.com/symunona/obsidian-bulk-exporter
 version: 2.0.14
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- HamsterBase Official
+  - HamsterBase Official
 author:
-- HamsterBase
+  - HamsterBase
 author_page: https://hamsterbase.com
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Official HamsterBase -> Obsidian integration
 downloads: 3430
 mobile: false
 number: 952
 title: HamsterBase Official
 type: plugin
-updated: '2023-07-18T18:48:37'
+updated: 2023-07-18T18:48:37
 url: https://github.com/hamsterbase/obsidian-hamsterbase
 version: 0.5.0
 ---

@@ -1,18 +1,18 @@
 ---
 aliases:
-- Vega Visualizations
+  - Vega Visualizations
 author:
-- Justin Kim
+  - Justin Kim
 author_page: https://github.com/Some-Regular-Person
-categories: []
-description: Create highly-customizable data visualizations like line charts and scatter
-  plots using Vega or Vega-Lite.
+categories:
+  - "[[categories/Charting|Charting]]"
+description: Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite.
 downloads: 4460
 mobile: true
 number: 751
 title: Vega Visualizations
 type: plugin
-updated: '2023-07-22T09:32:58'
+updated: 2023-07-22T09:32:58
 url: https://github.com/Some-Regular-Person/obsidian-vega
 version: 0.1.1
 ---

@@ -1,12 +1,12 @@
 ---
 aliases:
-- Task Marker
+  - Task Marker
 author:
-- wenlzhang
+  - wenlzhang
 author_page: https://github.com/wenlzhang
-categories: []
-description: Change task statuses with hotkeys and context menu. Complete, cancel
-  and mark tasks, as well as cycle among selected task statuses.
+categories:
+  - "[[categories/Task management|Task management]]"
+description: Change task statuses with hotkeys and context menu. Complete, cancel and mark tasks, as well as cycle among selected task statuses.
 downloads: 11074
 funding_page:
   Buy Me a Coffee: https://ko-fi.com/f84556
@@ -14,7 +14,7 @@ mobile: true
 number: 760
 title: Task Marker
 type: plugin
-updated: '2023-11-17T01:18:41'
+updated: 2023-11-17T01:18:41
 url: https://github.com/wenlzhang/obsidian-task-marker
 version: 0.5.1
 ---

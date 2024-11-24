@@ -1,20 +1,19 @@
 ---
 aliases:
-- Day Planner (OG)
+  - Day Planner (OG)
 author:
-- James Lynch
-- continued by Erin Schnabel
+  - James Lynch
+  - continued by Erin Schnabel
 author_page: https://github.com/ebullient
-categories: []
-description: A plugin to help you plan your day and setup pomodoro timers; fork of
-  the original plugin by James Lynch (which stopped at 0.5.8) which preserves the
-  look/feel and behavior of the original.
+categories:
+  - "[[categories/Planning|Planning]]"
+description: A plugin to help you plan your day and setup pomodoro timers; fork of the original plugin by James Lynch (which stopped at 0.5.8) which preserves the look/feel and behavior of the original.
 downloads: 14848
 mobile: true
 number: 1134
 title: Day Planner (OG)
 type: plugin
-updated: '2024-11-14T04:05:11'
+updated: 2024-11-14T04:05:11
 url: https://github.com/ebullient/obsidian-day-planner-og
 version: 0.6.1
 ---

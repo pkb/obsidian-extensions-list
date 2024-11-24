@@ -1,17 +1,18 @@
 ---
 aliases:
-- Canvas Mindmap Helper
+  - Canvas Mindmap Helper
 author:
-- Tim Smart
+  - Tim Smart
 author_page: https://github.com/tim-smart
-categories: []
+categories:
+  - "[[categories/Mind mapping|Mind mapping]]"
 description: Make the Canvas work like a mindmap
 downloads: 3745
 mobile: true
 number: 1473
 title: Canvas Mindmap Helper
 type: plugin
-updated: '2024-08-09T15:38:32'
+updated: 2024-08-09T15:38:32
 url: https://github.com/tim-smart/obsidian-canvas-mindmap
 version: 0.1.16
 ---

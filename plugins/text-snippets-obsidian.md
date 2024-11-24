@@ -1,18 +1,18 @@
 ---
 aliases:
-- Text Snippets
+  - Text Snippets
 author:
-- Ariana Khitrova
-author_page: ''
-categories: []
-description: Allows you to replace text templates for faster typing, create your own,
-  expand text shortcuts.
+  - Ariana Khitrova
+author_page: ""
+categories:
+  - "[[categories/Templates|Templates]]"
+description: Allows you to replace text templates for faster typing, create your own, expand text shortcuts.
 downloads: 33554
 mobile: true
 number: 126
 title: Text Snippets
 type: plugin
-updated: '2022-05-12T20:00:40'
+updated: 2022-05-12T20:00:40
 url: https://github.com/ArianaKhit/text-snippets-obsidian
 version: 0.1.2
 ---

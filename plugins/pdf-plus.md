@@ -1,10 +1,12 @@
 ---
 aliases:
-- PDF++
+  - PDF++
 author:
-- Ryota Ushio
+  - Ryota Ushio
 author_page: https://github.com/RyotaUshio
-categories: []
+categories:
+  - "[[categories/Other formats|Other formats]]"
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
 description: The most Obsidian-native PDF annotation tool ever.
 downloads: 124206
 funding_page:
@@ -15,7 +17,7 @@ mobile: true
 number: 1437
 title: PDF++
 type: plugin
-updated: '2024-10-22T12:47:45'
+updated: 2024-10-22T12:47:45
 url: https://github.com/RyotaUshio/obsidian-pdf-plus
 version: 0.40.13
 ---

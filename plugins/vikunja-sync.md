@@ -1,10 +1,12 @@
 ---
 aliases:
-- Vikunja Sync
+  - Vikunja Sync
 author:
-- Peter Heiss
+  - Peter Heiss
 author_page: https://github.com/Heiss
-categories: []
+categories:
+  - "[[categories/Task management|Task management]]"
+  - "[[categories/Integration|Integration]]"
 description: Integrates Vikunja.
 downloads: 302
 funding_page: https://ko-fi.com/heiss
@@ -12,7 +14,7 @@ mobile: true
 number: 1789
 title: Vikunja Sync
 type: plugin
-updated: '2024-08-19T00:20:58'
+updated: 2024-08-19T00:20:58
 url: https://github.com/Heiss/obsidian-vikunja-plugin
 version: 1.0.19
 ---
