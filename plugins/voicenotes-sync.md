@@ -1,17 +1,18 @@
 ---
 aliases:
-- Voicenotes Sync
+  - Voicenotes Sync
 author:
-- Andrew Lombardi
+  - Andrew Lombardi
 author_page: https://mysticcoders.com
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Synchronize your notes from Voicenotes.com
 downloads: 3851
 mobile: true
 number: 1657
 title: Voicenotes Sync
 type: plugin
-updated: '2024-11-05T06:43:03'
+updated: 2024-11-05T06:43:03
 url: https://github.com/mysticcoders/voicenotes-sync
 version: 0.0.26
 ---

@@ -1,10 +1,11 @@
 ---
 aliases:
-- WordPress
+  - WordPress
 author:
-- devbean
+  - devbean
 author_page: https://github.com/devbean
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: A plugin for publishing Obsidian documents to WordPress.
 downloads: 16141
 funding_page: https://www.buymeacoffee.com/devbean
@@ -12,7 +13,7 @@ mobile: true
 number: 377
 title: WordPress
 type: plugin
-updated: '2023-12-20T09:24:27'
+updated: 2023-12-20T09:24:27
 url: https://github.com/devbean/obsidian-wordpress
 version: 0.18.0
 ---

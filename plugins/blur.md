@@ -1,17 +1,18 @@
 ---
 aliases:
-- Blur
+  - Blur
 author:
-- '@gapmiss'
+  - "@gapmiss"
 author_page: https://github.com/gapmiss
-categories: []
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
 description: Create obfuscated blocks of text.
 downloads: 4523
 mobile: true
 number: 950
 title: Blur
 type: plugin
-updated: '2023-06-22T04:05:12'
+updated: 2023-06-22T04:05:12
 url: https://github.com/gapmiss/blur
 version: 1.0.0
 ---

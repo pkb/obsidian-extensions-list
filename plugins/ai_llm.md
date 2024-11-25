@@ -1,19 +1,19 @@
 ---
 aliases:
-- AI LLM
+  - AI LLM
 author:
-- Sparky4567
+  - Sparky4567
 author_page: https://artefaktas.eu
-categories: []
-description: Integrate local machine learning (OLLAMA) functionality into your notes,
-  enhancing their capabilities
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Integrate local machine learning (OLLAMA) functionality into your notes, enhancing their capabilities
 downloads: 3218
 funding_page: https://ko-fi.com/artefaktas
 mobile: true
 number: 1548
 title: AI LLM
 type: plugin
-updated: '2024-06-30T14:09:13'
+updated: 2024-06-30T14:09:13
 url: https://github.com/Sparky4567/obsidian_ai_plugin
 version: 1.1.3
 ---

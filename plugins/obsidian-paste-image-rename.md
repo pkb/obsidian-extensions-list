@@ -1,17 +1,18 @@
 ---
 aliases:
-- Paste image rename
+  - Paste image rename
 author:
-- Reorx
+  - Reorx
 author_page: https://github.com/reorx
-categories: []
+categories:
+  - "[[categories/Image handling|Image handling]]"
 description: Rename pasted images and all the other attchments added to the vault
 downloads: 59320
 mobile: true
 number: 490
 title: Paste image rename
 type: plugin
-updated: '2023-01-30T15:08:23'
+updated: 2023-01-30T15:08:23
 url: https://github.com/reorx/obsidian-paste-image-rename
 version: 1.6.1
 ---

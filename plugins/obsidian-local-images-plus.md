@@ -1,22 +1,21 @@
 ---
 aliases:
-- Local Images Plus
+  - Local Images Plus
 author:
-- catalysm
-- aleksey-rezvov
-- Sergei Korneev
+  - catalysm
+  - aleksey-rezvov
+  - Sergei Korneev
 author_page: https://github.com/Sergei-Korneev/obsidian-local-images-plus
-categories: []
-description: Local Images Plus plugin searches for all external media links in your
-  notes, downloads and saves them locally and adjusts the links in your notes to point
-  to the saved files.
+categories:
+  - "[[categories/Image handling|Image handling]]"
+description: Local Images Plus plugin searches for all external media links in your notes, downloads and saves them locally and adjusts the links in your notes to point to the saved files.
 downloads: 51179
 funding_page: https://www.buymeacoffee.com/sergeikorneev
 mobile: false
 number: 731
 title: Local Images Plus
 type: plugin
-updated: '2023-10-27T17:35:46'
+updated: 2023-10-27T17:35:46
 url: https://github.com/Sergei-Korneev/obsidian-local-images-plus
 version: 0.15.9
 ---

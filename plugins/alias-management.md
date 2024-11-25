@@ -1,17 +1,18 @@
 ---
 aliases:
-- Alias Management
+  - Alias Management
 author:
-- WithMarcel
+  - WithMarcel
 author_page: https://github.com/WithMarcel
-categories: []
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Identify duplicate notes based on similar aliases and filenames.
 downloads: 1781
 mobile: false
 number: 1483
 title: Alias Management
 type: plugin
-updated: '2024-03-01T01:51:45'
+updated: 2024-03-01T01:51:45
 url: https://github.com/WithMarcel/alias-management
 version: 0.0.1
 ---

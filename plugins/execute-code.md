@@ -1,20 +1,18 @@
 ---
 aliases:
-- Execute Code
+  - Execute Code
 author:
-- twibiral
+  - twibiral
 author_page: https://www.github.com/twibiral
-categories: []
-description: 'Allows to execute code snippets within a note. Supported programming
-  languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript,
-  Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell,
-  Scala, Racket, F#, Batch, Shell & Powershell.'
+categories:
+  - "[[categories/Code and development|Code and development]]"
+description: "Allows to execute code snippets within a note. Supported programming languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell."
 downloads: 89631
 mobile: false
 number: 493
 title: Execute Code
 type: plugin
-updated: '2024-11-11T04:15:00'
+updated: 2024-11-11T04:15:00
 url: https://github.com/twibiral/obsidian-execute-code
 version: 2.0.0
 ---

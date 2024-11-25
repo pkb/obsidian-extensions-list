@@ -1,19 +1,19 @@
 ---
 aliases:
-- Auto Classifier
+  - Auto Classifier
 author:
-- Hyeonseo Nam
+  - Hyeonseo Nam
 author_page: https://github.com/HyeonseoNam/auto-classifier
-categories: []
-description: This plugin automatically classify tag from your notes using ChatGPT
-  API. It analyze your note (It can be title, frontmatter, content or selected area)
-  and automatically insert tag where you set.
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+  - "[[categories/Tag Management|Tag Management]]"
+description: This plugin automatically classify tag from your notes using ChatGPT API. It analyze your note (It can be title, frontmatter, content or selected area) and automatically insert tag where you set.
 downloads: 9990
 mobile: true
 number: 883
 title: Auto Classifier
 type: plugin
-updated: '2024-03-05T19:33:01'
+updated: 2024-03-05T19:33:01
 url: https://github.com/HyeonseoNam/auto-classifier
 version: 1.1.2
 ---

@@ -1,17 +1,19 @@
 ---
 aliases:
-- Auto Tag
+  - Auto Tag
 author:
-- Control Alt
+  - Control Alt
 author_page: https://control-alt.dev/
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+  - "[[categories/Tag Management|Tag Management]]"
 description: Easily generate relevant tags for your Obsidian notes or selected text.
 downloads: 5963
 mobile: true
 number: 1184
 title: Auto Tag
 type: plugin
-updated: '2023-11-20T01:50:35'
+updated: 2023-11-20T01:50:35
 url: https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag
 version: 0.3.0
 ---

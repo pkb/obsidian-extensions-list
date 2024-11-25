@@ -31,13 +31,24 @@ const NoteListItem = ({note}) => {
     );
 }
 
+function useCategory(category) {
+    const query = `@page and !startswith($path, "basement") and type!="category" and categories`
+    const allNotes = dc.useQuery(query);
+    const notesWithCategory = dc.useMemo(() => {
+        const filtered = allNotes.filter(p => { 
+            let categories = p.value("categories");
+            categories = Array.isArray(categories) ? categories : [categories];
+            return categories.some(cat => cat.path === category.$path)}
+        );
+        return filtered;
+    }, [category, allNotes]);
+
+    return notesWithCategory;
+    
+}
+
 const NotesByCategory = ({category, type}) => {
-    const query = `@page and !startswith($path, "basement") and type="${type}" and categories`
-    const data = dc.useQuery(query);
-    const data1 = data.filter(p => { 
-        let categories = p.value("categories");
-        categories = Array.isArray(categories) ? categories : [categories];
-        return categories.some(cat => cat.path === category.$path)});
+    const data1 = useCategory(category);
     if(data1.length == 0)
         return null;
     return (
@@ -49,10 +60,26 @@ const NotesByCategory = ({category, type}) => {
 
 const Category = ({type}) => {
     const currentFile = dc.useCurrentFile();
+    const notes = useCategory(currentFile);
+    let relatedCategories = new Map();
+    notes.forEach((note) => {
+        let categories = note.value("categories");
+        categories = Array.isArray(categories) ? categories : [categories];
+        categories.forEach((cat) => {if(cat.path != currentFile.$path) relatedCategories.set(cat.path, cat)})
+    });
+    const array = Array.from(relatedCategories.values());
     return (
-        <Section level={1} title={currentFile.$name}>
-            <SubCategoriesList category={currentFile} level={2} type={type}/>
-        </Section>
+        <>
+            <Section level={1} title={currentFile.$name}>
+                <SubCategoriesList category={currentFile} level={2} type={type}/>
+            </Section>
+            {array.length > 0 && <div>
+                <h2>Related categories:</>
+                <ul>
+                  {array.map(s => <li><dc.Link link={s}/></li>)}
+                </ul>
+            </div>}
+        </>
     )
 };
 

@@ -1,10 +1,11 @@
 ---
 aliases:
-- Studier
+  - Studier
 author:
-- Álvaro
+  - Álvaro
 author_page: https://medium.com/@cuatroy2
-categories: []
+categories:
+  - "[[categories/Learning|Learning]]"
 description: Create quizzes for your Obsidian.md notes and learn better.
 downloads: 2892
 funding_page: https://liberapay.com/Cuatroy2/donate
@@ -12,7 +13,7 @@ mobile: true
 number: 1222
 title: Studier
 type: plugin
-updated: '2023-11-15T22:55:13'
+updated: 2023-11-15T22:55:13
 url: https://github.com/alvaro-cas/studier-obsidian
 version: 1.0.1
 ---

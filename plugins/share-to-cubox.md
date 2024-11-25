@@ -1,17 +1,18 @@
 ---
 aliases:
-- Share to Cubox
+  - Share to Cubox
 author:
-- Redwinam
+  - Redwinam
 author_page: https://github.com/Redwinam
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Share Obsidian notes to Cubox.
 downloads: 3452
 mobile: true
 number: 941
 title: Share to Cubox
 type: plugin
-updated: '2023-06-09T17:29:17'
+updated: 2023-06-09T17:29:17
 url: https://github.com/Redwinam/obsidian-cubox
 version: 1.0.0
 ---

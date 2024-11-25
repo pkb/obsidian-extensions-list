@@ -1,10 +1,12 @@
 ---
 aliases:
-- Augmented Canvas
+  - Augmented Canvas
 author:
-- MetaCorp
+  - MetaCorp
 author_page: https://github.com/MetaCorp
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+  - "[[categories/Canvas|Canvas]]"
 description: Obsidian Canvas with AI features.
 downloads: 1848
 funding_page:
@@ -13,7 +15,7 @@ mobile: true
 number: 1471
 title: Augmented Canvas
 type: plugin
-updated: '2024-02-10T19:35:31'
+updated: 2024-02-10T19:35:31
 url: https://github.com/MetaCorp/obsidian-augmented-canvas
 version: 0.1.16
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- File Publisher
+  - File Publisher
 author:
-- Devin Sackett
+  - Devin Sackett
 author_page: https://github.com/yiglas
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publishes a file to a given api.
 downloads: 3419
 mobile: true
 number: 834
 title: File Publisher
 type: plugin
-updated: '2023-03-07T04:16:55'
+updated: 2023-03-07T04:16:55
 url: https://github.com/yiglas/obsidian-file-publisher
 version: 0.0.1
 ---

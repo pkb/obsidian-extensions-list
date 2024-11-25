@@ -1,17 +1,18 @@
 ---
 aliases:
-- Advanced Cursors
+  - Advanced Cursors
 author:
-- SkepticMystic
+  - SkepticMystic
 author_page: https://github.com/SkepticMystic/advanced-cursors
-categories: []
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Use multiple cursors even more powerfully.
 downloads: 14846
 mobile: false
 number: 332
 title: Advanced Cursors
 type: plugin
-updated: '2022-01-09T00:47:09'
+updated: 2022-01-09T00:47:09
 url: https://github.com/SkepticMystic/advanced-cursors
 version: 0.5.1
 ---

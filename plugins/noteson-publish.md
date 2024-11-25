@@ -1,17 +1,18 @@
 ---
 aliases:
-- NotesOn Publish
+  - NotesOn Publish
 author:
-- Andrey Shapkin
+  - Andrey Shapkin
 author_page: https://noteson.ru
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Make single notes instantly available on the web.
 downloads: 765
 mobile: true
 number: 1558
 title: NotesOn Publish
 type: plugin
-updated: '2024-08-09T17:57:19'
+updated: 2024-08-09T17:57:19
 url: https://github.com/shapkinaa/noteson-obsidian-plugin
 version: 1.0.5
 ---

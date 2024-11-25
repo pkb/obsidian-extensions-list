@@ -1,18 +1,18 @@
 ---
 aliases:
-- Publish and GitHub URL
+  - Publish and GitHub URL
 author:
-- kometenstaub
+  - kometenstaub
 author_page: https://github.com/kometenstaub
-categories: []
-description: Copy or open the URL of the corresponding note on your Publish site.
-  You can also open its Git commit history on GitHub.
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+description: Copy or open the URL of the corresponding note on your Publish site. You can also open its Git commit history on GitHub.
 downloads: 5637
 mobile: true
 number: 347
 title: Publish and GitHub URL
 type: plugin
-updated: '2023-04-30T00:20:51'
+updated: 2023-04-30T00:20:51
 url: https://github.com/kometenstaub/copy-publish-url
 version: 0.4.5
 ---

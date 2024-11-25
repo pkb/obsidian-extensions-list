@@ -1,17 +1,18 @@
 ---
 aliases:
-- Semantic Search
+  - Semantic Search
 author:
-- bbawj
+  - bbawj
 author_page: https://github.com/bbawj
-categories: []
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Semantic search for files using OpenAI's text embeddings
 downloads: 5027
 mobile: false
 number: 874
 title: Semantic Search
 type: plugin
-updated: '2023-08-01T20:33:09'
+updated: 2023-08-01T20:33:09
 url: https://github.com/bbawj/obsidian-semantic-search
 version: 0.3.3
 ---

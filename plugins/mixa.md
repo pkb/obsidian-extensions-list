@@ -1,17 +1,18 @@
 ---
 aliases:
-- Mixa
+  - Mixa
 author:
-- Mixa
+  - Mixa
 author_page: https://mixa.site
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publish your notes and blog posts with Mixa directly from Obsidian
 downloads: 3871
 mobile: false
 number: 814
 title: Mixa
 type: plugin
-updated: '2024-04-29T11:58:22'
+updated: 2024-04-29T11:58:22
 url: https://github.com/mixasite/obsidian-mixa
 version: 1.0.2
 ---

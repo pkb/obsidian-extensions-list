@@ -1,10 +1,11 @@
 ---
 aliases:
-- AI Summarize
+  - AI Summarize
 author:
-- Alp Sariyer
+  - Alp Sariyer
 author_page: https://www.alpsariyer.dev
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Summarize your notes using AI
 downloads: 1215
 funding_page:
@@ -14,7 +15,7 @@ mobile: true
 number: 1559
 title: AI Summarize
 type: plugin
-updated: '2024-05-18T18:44:32'
+updated: 2024-05-18T18:44:32
 url: https://github.com/RavenWits/obsidian-ai-summarize
 version: 1.1.1
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- Babashka
+  - Babashka
 author:
-- Filipe Silva
+  - Filipe Silva
 author_page: https://github.com/filipesilva
-categories: []
+categories:
+  - "[[categories/Code and development|Code and development]]"
 description: Evaluate Clojure(Script) codeblocks in Babashka.
 downloads: 3317
 mobile: false
 number: 791
 title: Babashka
 type: plugin
-updated: '2023-02-05T15:54:16'
+updated: 2023-02-05T15:54:16
 url: https://github.com/filipesilva/obsidian-babashka
 version: 1.0.5
 ---

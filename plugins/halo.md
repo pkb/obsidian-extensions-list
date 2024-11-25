@@ -1,17 +1,19 @@
 ---
 aliases:
-- Halo
+  - Halo
 author:
-- Ryan Wang
+  - Ryan Wang
 author_page: https://github.com/ruibaby
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Halo's Obsidian integration supports publishing content to Halo sites
 downloads: 2949
 mobile: true
 number: 1208
 title: Halo
 type: plugin
-updated: '2024-05-04T13:18:56'
+updated: 2024-05-04T13:18:56
 url: https://github.com/halo-sigs/obsidian-halo
 version: 1.1.0
 ---

@@ -1,18 +1,18 @@
 ---
 aliases:
-- Automatic Table Of Contents
+  - Automatic Table Of Contents
 author:
-- Johan Satgé
+  - Johan Satgé
 author_page: https://github.com/johansatge
-categories: []
-description: Create a table of contents in a note, that updates itself when the note
-  changes
+categories:
+  - "[[categories/Custom code blocks|Custom code blocks]]"
+description: Create a table of contents in a note, that updates itself when the note changes
 downloads: 39046
 mobile: true
 number: 1135
 title: Automatic Table Of Contents
 type: plugin
-updated: '2024-05-19T14:20:14'
+updated: 2024-05-19T14:20:14
 url: https://github.com/johansatge/obsidian-automatic-table-of-contents
 version: 1.4.0
 ---

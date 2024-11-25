@@ -1,19 +1,18 @@
 ---
 aliases:
-- Learnie
+  - Learnie
 author:
-- tankh99
+  - tankh99
 author_page: https://khanghou.vercel.app/
-categories: []
-description: Enhance your learning with active recall and spaced repetition. Track
-  changes, create review questions, and streamline your study process for more effective,
-  long-lasting learning.
+categories:
+  - "[[categories/Spaced repetition|Spaced repetition]]"
+description: Enhance your learning with active recall and spaced repetition. Track changes, create review questions, and streamline your study process for more effective, long-lasting learning.
 downloads: 951
 mobile: true
 number: 1833
 title: Learnie
 type: plugin
-updated: '2024-11-02T19:12:03'
+updated: 2024-11-02T19:12:03
 url: https://github.com/tankh99/learnie-plugin
 version: 1.4.2
 ---

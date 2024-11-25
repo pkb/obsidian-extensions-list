@@ -1,19 +1,19 @@
 ---
 aliases:
-- Share to NotionNext
+  - Share to NotionNext
 author:
-- EasyChris
-- jxpeng98
+  - EasyChris
+  - jxpeng98
 author_page: https://github.com/jxpeng98
-categories: []
-description: Shares obsidian md file to notion with notion api for NotionNext web
-  deploy, originally created by EasyChris/obsidian-to-notion.
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+description: Shares obsidian md file to notion with notion api for NotionNext web deploy, originally created by EasyChris/obsidian-to-notion.
 downloads: 6598
 mobile: true
 number: 1150
 title: Share to NotionNext
 type: plugin
-updated: '2024-10-22T15:31:44'
+updated: 2024-10-22T15:31:44
 url: https://github.com/jxpeng98/obsidian-to-NotionNext
 version: 2.4.3
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- Quail
+  - Quail
 author:
-- Lyric
+  - Lyric
 author_page: https://quail.ink
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Save, publish, delivery notes via Quail.ink as newsletters and blogs.
 downloads: 3744
 mobile: true
 number: 1054
 title: Quail
 type: plugin
-updated: '2024-08-13T12:15:43'
+updated: 2024-08-13T12:15:43
 url: https://github.com/lyricat/obsidian-quail
 version: 1.1.6
 ---

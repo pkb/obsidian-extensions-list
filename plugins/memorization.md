@@ -1,10 +1,11 @@
 ---
 aliases:
-- Memorization
+  - Memorization
 author:
-- Joseph Cochran
+  - Joseph Cochran
 author_page: https://github.com/nwindian
-categories: []
+categories:
+  - "[[categories/Spaced repetition|Spaced repetition]]"
 description: Generates study index notes using a spaced repetition algorithm (SM-2).
 downloads: 4064
 funding_page: https://ko-fi.com/josephcochran
@@ -12,7 +13,7 @@ mobile: true
 number: 1016
 title: Memorization
 type: plugin
-updated: '2023-06-22T22:24:42'
+updated: 2023-06-22T22:24:42
 url: https://github.com/nwindian/Memorization-Plugin
 version: 0.7.0
 ---

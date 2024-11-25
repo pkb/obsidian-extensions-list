@@ -1,10 +1,11 @@
 ---
 aliases:
-- Zen
+  - Zen
 author:
-- Maxymillion
+  - Maxymillion
 author_page: https://github.com/Maxymillion
-categories: []
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: A focus mode Obsidian plugin.
 downloads: 7852
 funding_page: https://github.com/sponsors/Maxymillion
@@ -12,7 +13,7 @@ mobile: false
 number: 828
 title: Zen
 type: plugin
-updated: '2023-07-24T17:55:15'
+updated: 2023-07-24T17:55:15
 url: https://github.com/Maxymillion/zen
 version: 0.6.5
 ---

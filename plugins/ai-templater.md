@@ -1,10 +1,12 @@
 ---
 aliases:
-- AI for Templater
+  - AI for Templater
 author:
-- TfTHacker
+  - TfTHacker
 author_page: https://tfthacker.com/
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+  - "[[categories/Templates|Templates]]"
 description: AI Extension for the Templater plugin with the OpenAI Client Library.
 downloads: 2087
 funding_page:
@@ -13,7 +15,7 @@ mobile: true
 number: 1594
 title: AI for Templater
 type: plugin
-updated: '2024-11-01T22:43:15'
+updated: 2024-11-01T22:43:15
 url: https://github.com/TfTHacker/obsidian-ai-templater
 version: 1.0.11
 ---

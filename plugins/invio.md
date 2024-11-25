@@ -6,6 +6,7 @@ author:
 author_page: https://github.com/frontend-engineering
 categories:
   - "[[categories/Export|Export]]"
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Export documents as static websites and deploy to AWS S3 or compatible COS. Streamlining Obsidian Sync and Publish, Invio lets you share notes online, retaining data control via self-hosting.
 downloads: 4059
 mobile: false

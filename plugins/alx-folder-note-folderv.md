@@ -1,17 +1,18 @@
 ---
 aliases:
-- AidenLx's Folder Note - folderv component
+  - AidenLx's Folder Note - folderv component
 author:
-- AidenLx
+  - AidenLx
 author_page: https://github.com/aidenlx
-categories: []
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Optional `folderv` Component for alx-folder-note
 downloads: 11738
 mobile: true
 number: 428
 title: AidenLx's Folder Note - folderv component
 type: plugin
-updated: '2022-02-18T14:29:02'
+updated: 2022-02-18T14:29:02
 url: https://github.com/aidenlx/alx-folder-note-folderv
 version: 1.0.0
 ---

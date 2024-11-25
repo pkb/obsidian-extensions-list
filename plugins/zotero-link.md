@@ -1,17 +1,18 @@
 ---
 aliases:
-- Zotero Link
+  - Zotero Link
 author:
-- Shmavon Gazanchyan
+  - Shmavon Gazanchyan
 author_page: https://github.com/MunGell
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Insert link to Zotero items from Obsidian interface using Zotero Bridge
 downloads: 9676
 mobile: false
 number: 558
 title: Zotero Link
 type: plugin
-updated: '2024-10-26T20:59:38'
+updated: 2024-10-26T20:59:38
 url: https://github.com/vanakat/zotero-link
 version: 1.0.2
 ---

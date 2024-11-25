@@ -1,20 +1,19 @@
 ---
 aliases:
-- MemoryLane
+  - MemoryLane
 author:
-- Bradley Nguyen
+  - Bradley Nguyen
 author_page: https://github.com/bangca85
-categories: []
-description: Relive and celebrate your life's milestones on a personal, interactive
-  timeline. A nostalgic journey through your history with anniversary reminders and
-  cherished memories.
+categories:
+  - "[[categories/Journalling|Journalling]]"
+description: Relive and celebrate your life's milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories.
 downloads: 3042
 funding_page: https://ko-fi.com/bangca
 mobile: true
 number: 1434
 title: MemoryLane
 type: plugin
-updated: '2023-12-07T04:19:49'
+updated: 2023-12-07T04:19:49
 url: https://github.com/bangca85/obsidian-memorylane-plugin
 version: 0.0.5
 ---

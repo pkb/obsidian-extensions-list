@@ -1,18 +1,18 @@
 ---
 aliases:
-- AI Tagger
+  - AI Tagger
 author:
-- Luca Grippa
+  - Luca Grippa
 author_page: https://lucagrippa.io
-categories: []
-description: Analyze and tag your document with one click for efficient note organization
-  using AI.
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Analyze and tag your document with one click for efficient note organization using AI.
 downloads: 3594
 mobile: true
 number: 1451
 title: AI Tagger
 type: plugin
-updated: '2024-11-15T21:08:29'
+updated: 2024-11-15T21:08:29
 url: https://github.com/lucagrippa/obsidian-ai-tagger
 version: 1.2.2
 ---

@@ -1,18 +1,18 @@
 ---
 aliases:
-- Obsidian shared to Notion
+  - Obsidian shared to Notion
 author:
-- Easychris
+  - Easychris
 author_page: https://github.com/EasyChris/obsidian-to-notion
-categories: []
-description: This is a  plugin for Obsidian. This plugin share obsidian md  file to
-  notion with notion api
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+description: This is a  plugin for Obsidian. This plugin share obsidian md  file to notion with notion api
 downloads: 19003
 mobile: true
 number: 548
 title: Obsidian shared to Notion
 type: plugin
-updated: '2023-01-01T12:02:49'
+updated: 2023-01-01T12:02:49
 url: https://github.com/EasyChris/obsidian-to-notion
 version: 0.7.6
 ---

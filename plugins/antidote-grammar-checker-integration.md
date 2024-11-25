@@ -1,19 +1,19 @@
 ---
 aliases:
-- Antidote Grammar Checker Integration
+  - Antidote Grammar Checker Integration
 author:
-- Heziode
+  - Heziode
 author_page: https://github.com/Heziode
-categories: []
-description: Unofficial integration of Antidote, a powerful English and French grammar
-  checker
+categories:
+  - "[[categories/Integration|Integration]]"
+description: Unofficial integration of Antidote, a powerful English and French grammar checker
 downloads: 8602
 funding_page: https://www.buymeacoffee.com/Heziode
 mobile: false
 number: 778
 title: Antidote Grammar Checker Integration
 type: plugin
-updated: '2023-05-28T23:35:35'
+updated: 2023-05-28T23:35:35
 url: https://github.com/Heziode/obsidian-antidote
 version: 2.1.2
 ---

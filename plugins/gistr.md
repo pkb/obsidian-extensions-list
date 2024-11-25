@@ -6,6 +6,7 @@ author:
 author_page: https://github.com/Aetherinox
 categories:
   - "[[categories/Integration|Integration]]"
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Integrate Opengist and Github gists into your notes, allowing you to create, update, and share between your notes and gist services
 downloads: 1408
 mobile: true

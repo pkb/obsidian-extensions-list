@@ -1,19 +1,19 @@
 ---
 aliases:
-- Novel word count
+  - Novel word count
 author:
-- Isaac Lyman
+  - Isaac Lyman
 author_page: https://isaaclyman.com
-categories: []
-description: Displays a word count (and more!) for each file, folder and vault in
-  the File Explorer pane.
+categories:
+  - "[[categories/Statistics|Statistics]]"
+description: Displays a word count (and more!) for each file, folder and vault in the File Explorer pane.
 downloads: 83087
 funding_page: https://ko-fi.com/isaaclyman
 mobile: true
 number: 458
 title: Novel word count
 type: plugin
-updated: '2024-10-27T08:56:16'
+updated: 2024-10-27T08:56:16
 url: https://github.com/isaaclyman/novel-word-count-obsidian
 version: 3.12.2
 ---

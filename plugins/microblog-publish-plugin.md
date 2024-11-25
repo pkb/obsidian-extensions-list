@@ -1,10 +1,11 @@
 ---
 aliases:
-- Micro.publish
+  - Micro.publish
 author:
-- Otavio Cordeiro
+  - Otavio Cordeiro
 author_page: https://otavio.cc
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publish notes to Micro.blog
 downloads: 5050
 funding_page: https://ko-fi.com/otaviocc
@@ -12,7 +13,7 @@ mobile: true
 number: 613
 title: Micro.publish
 type: plugin
-updated: '2024-06-06T02:09:15'
+updated: 2024-06-06T02:09:15
 url: https://github.com/otaviocc/obsidian-microblog
 version: 2.7.0
 ---

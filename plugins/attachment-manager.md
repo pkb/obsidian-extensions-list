@@ -1,20 +1,20 @@
 ---
 aliases:
-- Attachment Manager
+  - Attachment Manager
 author:
-- chenfeicqq
+  - chenfeicqq
 author_page: https://github.com/chenfeicqq
-categories: []
-description: 'Attachment folder name binding note name, automatically rename, automatically
-  delete, show/hide.
-
-  附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。'
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
+description: |-
+  Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
+  附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
 downloads: 7562
 mobile: false
 number: 1094
 title: Attachment Manager
 type: plugin
-updated: '2023-10-18T19:54:38'
+updated: 2023-10-18T19:54:38
 url: https://github.com/chenfeicqq/obsidian-attachment-manager
 version: 1.2.2
 ---

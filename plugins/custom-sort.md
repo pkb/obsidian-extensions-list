@@ -6,6 +6,7 @@ author:
 author_page: https://github.com/SebastianMC
 categories:
   - "[[categories/UI customization|UI customization]]"
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer
 downloads: 81810
 mobile: true

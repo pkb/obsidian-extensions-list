@@ -5,7 +5,7 @@ author:
   - Michael Brenan <blacksmithgu@gmail.com>
 author_page: https://github.com/blacksmithgu
 categories:
-  - "[[categories/Data management|Data management]]"
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Complex data views for the data-obsessed.
 downloads: 2263581
 mobile: true

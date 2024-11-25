@@ -1,17 +1,18 @@
 ---
 aliases:
-- Send to Ghost
+  - Send to Ghost
 author:
-- Southpaw1496
+  - Southpaw1496
 author_page: https://southpaw1496.me
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Send and publish notes to your Ghost blog with a single click
 downloads: 3296
 mobile: false
 number: 1147
 title: Send to Ghost
 type: plugin
-updated: '2024-01-20T03:59:19'
+updated: 2024-01-20T03:59:19
 url: https://github.com/southpaw1496/obsidian-send-to-ghost
 version: 1.0.4
 ---

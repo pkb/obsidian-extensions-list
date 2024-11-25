@@ -1,17 +1,18 @@
 ---
 aliases:
-- Hatena Blog Publisher
+  - Hatena Blog Publisher
 author:
-- Takuro Matsukawa
+  - Takuro Matsukawa
 author_page: https://github.com/takmatsukawa
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Post directly to your Hatena Blog.
 downloads: 1160
 mobile: true
 number: 1392
 title: Hatena Blog Publisher
 type: plugin
-updated: '2024-02-27T20:00:14'
+updated: 2024-02-27T20:00:14
 url: https://github.com/takmatsukawa/obsidian-hatena
 version: 0.4.2
 ---

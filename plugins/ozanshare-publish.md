@@ -1,17 +1,18 @@
 ---
 aliases:
-- OzanShare Publish
+  - OzanShare Publish
 author:
-- Ozan Tellioglu
+  - Ozan Tellioglu
 author_page: https://ozan.pl
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publish your markdown notes with a single click from your vault.
 downloads: 4768
 mobile: true
 number: 300
 title: OzanShare Publish
 type: plugin
-updated: '2023-05-10T01:06:39'
+updated: 2023-05-10T01:06:39
 url: https://github.com/ozntel/ozanshare-publish-plugin
 version: 0.3.1
 ---

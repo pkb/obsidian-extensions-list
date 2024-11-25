@@ -1,17 +1,18 @@
 ---
 aliases:
-- ai-writer
+  - ai-writer
 author:
-- Donovan Ye
+  - Donovan Ye
 author_page: https://github.com/Donovan-Ye
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Use AI to generate high-quality articles with knowledge fragments.
 downloads: 661
 mobile: true
 number: 1623
 title: ai-writer
 type: plugin
-updated: '2024-04-23T14:24:11'
+updated: 2024-04-23T14:24:11
 url: https://github.com/Donovan-Ye/obsidian-ai-writer-plugin
 version: 1.0.2
 ---

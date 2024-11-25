@@ -1,17 +1,19 @@
 ---
 aliases:
-- Workbooks
+  - Workbooks
 author:
-- Gabriele Cannata
+  - Gabriele Cannata
 author_page: https://github.com/Canna71
-categories: []
+categories:
+  - "[[categories/Other formats|Other formats]]"
+  - "[[categories/Custom code blocks|Custom code blocks]]"
 description: Work with Spreadsheets inside your notes
 downloads: 6286
 mobile: false
 number: 1133
 title: Workbooks
 type: plugin
-updated: '2023-09-23T13:20:46'
+updated: 2023-09-23T13:20:46
 url: https://github.com/Canna71/obsidian-sheets
 version: 1.0.1
 ---

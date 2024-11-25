@@ -1,10 +1,11 @@
 ---
 aliases:
-- View Count
+  - View Count
 author:
-- DecafDev
+  - DecafDev
 author_page: https://github.com/decaf-dev
-categories: []
+categories:
+  - "[[categories/Statistics|Statistics]]"
 description: Track view count for each vault file.
 downloads: 2651
 funding_page: https://ko-fi.com/decaf_dev
@@ -12,7 +13,7 @@ mobile: true
 number: 1498
 title: View Count
 type: plugin
-updated: '2024-09-17T12:36:36'
+updated: 2024-09-17T12:36:36
 url: https://github.com/decaf-dev/obsidian-view-count
 version: 2.5.0
 ---

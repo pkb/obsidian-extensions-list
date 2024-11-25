@@ -1,19 +1,19 @@
 ---
 aliases:
-- Flashcard Learning
+  - Flashcard Learning
 author:
-- Gaétan Muck
+  - Gaétan Muck
 author_page: https://github.com/gaetanmuck
-categories: []
-description: This is a pluggin that implements how flashcards can be used inside Obsidian
-  in order to learn and remember things.
+categories:
+  - "[[categories/Learning|Learning]]"
+description: This is a pluggin that implements how flashcards can be used inside Obsidian in order to learn and remember things.
 downloads: 5082
 funding_page: https://www.buymeacoffee.com/gaetanmuck
 mobile: true
 number: 868
 title: Flashcard Learning
 type: plugin
-updated: '2024-08-13T17:17:18'
+updated: 2024-08-13T17:17:18
 url: https://github.com/gaetanmuck/obsidian-flashcard-learning
 version: 2.0.0
 ---

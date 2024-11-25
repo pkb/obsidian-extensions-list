@@ -1,17 +1,18 @@
 ---
 aliases:
-- AI Notes Summary
+  - AI Notes Summary
 author:
-- R. Ian Bull
+  - R. Ian Bull
 author_page: https://ianbull.com
-categories: []
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Summarize referenced notes using OpenAI.
 downloads: 3991
 mobile: false
 number: 982
 title: AI Notes Summary
 type: plugin
-updated: '2024-11-12T05:33:24'
+updated: 2024-11-12T05:33:24
 url: https://github.com/irbull/obsidian-ai-summary
 version: 1.0.5
 ---

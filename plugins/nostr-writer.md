@@ -1,10 +1,11 @@
 ---
 aliases:
-- Nostr Writer
+  - Nostr Writer
 author:
-- jamesmagoo
+  - jamesmagoo
 author_page: https://github.com/jamesmagoo
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publish your writing directly to Nostr.
 downloads: 3718
 funding_page:
@@ -14,7 +15,7 @@ mobile: false
 number: 1090
 title: Nostr Writer
 type: plugin
-updated: '2024-04-18T12:56:53'
+updated: 2024-04-18T12:56:53
 url: https://github.com/jamesmagoo/nostr-writer
 version: 2.2.0
 ---

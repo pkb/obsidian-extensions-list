@@ -1,17 +1,18 @@
 ---
 aliases:
-- Are.na Manager
+  - Are.na Manager
 author:
-- Javier Arce
+  - Javier Arce
 author_page: https://javier.computer
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publish content from your vault to Arena and the other way around.
 downloads: 234
 mobile: true
 number: 1762
 title: Are.na Manager
 type: plugin
-updated: '2024-08-19T02:42:20'
+updated: 2024-08-19T02:42:20
 url: https://github.com/javierarce/arena-manager
 version: 1.0.5
 ---

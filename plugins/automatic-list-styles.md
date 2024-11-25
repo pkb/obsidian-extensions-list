@@ -1,18 +1,18 @@
 ---
 aliases:
-- Automatic List Styles
+  - Automatic List Styles
 author:
-- Max McGuire
+  - Max McGuire
 author_page: https://github.com/WiseGuru
-categories: []
-description: Automatically formats the styles of ordered lists, incrementing the list
-  style for each layer
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+description: Automatically formats the styles of ordered lists, incrementing the list style for each layer
 downloads: 5401
 mobile: true
 number: 964
 title: Automatic List Styles
 type: plugin
-updated: '2024-08-29T06:24:40'
+updated: 2024-08-29T06:24:40
 url: https://github.com/WiseGuru/obsidian-automatic-list-styles
 version: 0.1.1
 ---

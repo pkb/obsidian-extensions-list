@@ -1,17 +1,18 @@
 ---
 aliases:
-- Awesome Image
+  - Awesome Image
 author:
-- AwesomeDog
+  - AwesomeDog
 author_page: https://github.com/AwesomeDog
-categories: []
+categories:
+  - "[[categories/Image handling|Image handling]]"
 description: One-stop solution for image management.
 downloads: 8917
 mobile: false
 number: 817
 title: Awesome Image
 type: plugin
-updated: '2024-02-01T13:00:30'
+updated: 2024-02-01T13:00:30
 url: https://github.com/AwesomeDog/obsidian-awesome-image
 version: 0.1.3
 ---

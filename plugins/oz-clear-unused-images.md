@@ -1,19 +1,19 @@
 ---
 aliases:
-- Clear Unused Images
+  - Clear Unused Images
 author:
-- Ozan
+  - Ozan
 author_page: https://www.ozan.pl
-categories: []
-description: Clear the images that you are not using anymore in your markdown notes
-  to save space.
+categories:
+  - "[[categories/Attachments management|Attachments management]]"
+description: Clear the images that you are not using anymore in your markdown notes to save space.
 downloads: 85266
 funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 169
 title: Clear Unused Images
 type: plugin
-updated: '2024-08-21T02:53:27'
+updated: 2024-08-21T02:53:27
 url: https://github.com/ozntel/oz-clear-unused-images-obsidian
 version: 1.1.1
 ---

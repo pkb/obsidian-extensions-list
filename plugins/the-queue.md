@@ -1,19 +1,19 @@
 ---
 aliases:
-- The Queue
+  - The Queue
 author:
-- Kolja Sam Pluemer
+  - Kolja Sam Pluemer
 author_page: koljapluemer.com/
-categories: []
-description: Randomly exposes you to notes from your vault. Supports habits, to-dos,
-  spaced repetition flashcards, iterative reading and more.
+categories:
+  - "[[categories/Spaced repetition|Spaced repetition]]"
+description: Randomly exposes you to notes from your vault. Supports habits, to-dos, spaced repetition flashcards, iterative reading and more.
 downloads: 901
 funding_page: https://www.buymeacoffee.com/blackbrokkoli
 mobile: true
 number: 1691
 title: The Queue
 type: plugin
-updated: '2024-06-19T01:02:29'
+updated: 2024-06-19T01:02:29
 url: https://github.com/koljapluemer/obsidian-the-queue
 version: 1.1.2
 ---

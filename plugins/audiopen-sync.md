@@ -1,10 +1,11 @@
 ---
 aliases:
-- AudioPen Sync
+  - AudioPen Sync
 author:
-- Jonas Haefele
+  - Jonas Haefele
 author_page: https://audiopen-obsidian.web.app
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Sync notes from AudioPen.
 downloads: 162
 funding_page:
@@ -14,7 +15,7 @@ mobile: true
 number: 1700
 title: AudioPen Sync
 type: plugin
-updated: '2024-09-20T19:54:42'
+updated: 2024-09-20T19:54:42
 url: https://github.com/jonashaefele/audiopen-obsidian
 version: 0.1.13
 ---

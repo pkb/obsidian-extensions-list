@@ -1,18 +1,20 @@
 ---
 aliases:
-- Better Search Views
+  - Better Search Views
 author:
-- ivan-lednev
+  - ivan-lednev
 author_page: https://github.com/ivan-lednev
-categories: []
-description: 'Outliner-like breadcrumb trees for search, backlinks and embedded queries '
+categories:
+  - "[[categories/UI customization|UI customization]]"
+  - "[[categories/Search and navigation|Search and navigation]]"
+description: "Outliner-like breadcrumb trees for search, backlinks and embedded queries "
 downloads: 17732
 funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 1042
 title: Better Search Views
 type: plugin
-updated: '2023-08-25T15:06:38'
+updated: 2023-08-25T15:06:38
 url: https://github.com/ivan-lednev/better-search-views
 version: 0.2.2
 ---

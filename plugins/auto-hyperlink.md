@@ -1,17 +1,18 @@
 ---
 aliases:
-- Auto Hyperlink
+  - Auto Hyperlink
 author:
-- take6
+  - take6
 author_page: https://github.com/take6
-categories: []
+categories:
+  - "[[categories/Automation|Automation]]"
 description: Insert hyperlink according to user-defined rule
 downloads: 3999
 mobile: true
 number: 1022
 title: Auto Hyperlink
 type: plugin
-updated: '2024-04-13T13:46:23'
+updated: 2024-04-13T13:46:23
 url: https://github.com/take6/obsidian-plugin-auto-hyperlink
 version: 0.4.2
 ---

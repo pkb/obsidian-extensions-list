@@ -1,10 +1,12 @@
 ---
 aliases:
-- Typefully
+  - Typefully
 author:
-- Sébastien Dubois
+  - Sébastien Dubois
 author_page: https://dsebastien.net
-categories: []
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Typefully integration. Publish social media posts with ease
 downloads: 64
 funding_page: https://www.buymeacoffee.com/dsebastien
@@ -12,7 +14,7 @@ mobile: true
 number: 1940
 title: Typefully
 type: plugin
-updated: '2024-10-27T08:57:03'
+updated: 2024-10-27T08:57:03
 url: https://github.com/dsebastien/obsidian-typefully
 version: 1.2.10
 ---

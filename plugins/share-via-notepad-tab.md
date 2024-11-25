@@ -1,10 +1,11 @@
 ---
 aliases:
-- Share via Notepad Tab
+  - Share via Notepad Tab
 author:
-- Iulian Onofrei
+  - Iulian Onofrei
 author_page: https://iulianonofrei.com
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Share notes via Notepad Tab (https://notepadtab.com).
 downloads: 105
 funding_page: https://paypal.me/IulianOnofrei
@@ -12,7 +13,7 @@ mobile: true
 number: 1822
 title: Share via Notepad Tab
 type: plugin
-updated: '2024-07-27T00:09:20'
+updated: 2024-07-27T00:09:20
 url: https://github.com/revolter/obsidian-share-via-notepad-tab-plugin
 version: 1.0.2
 ---

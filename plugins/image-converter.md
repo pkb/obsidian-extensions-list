@@ -1,19 +1,19 @@
 ---
 aliases:
-- Image Converter
+  - Image Converter
 author:
-- xRyul
+  - xRyul
 author_page: https://github.com/xryul
-categories: []
-description: Convert, compress and resize images from one format to another by dragging
-  and dropping or pasting into the note. HEIC, TIF, JPG, WEBP, PNG.
+categories:
+  - "[[categories/Image handling|Image handling]]"
+description: Convert, compress and resize images from one format to another by dragging and dropping or pasting into the note. HEIC, TIF, JPG, WEBP, PNG.
 downloads: 66484
 funding_page: https://ko-fi.com/xryul
 mobile: true
 number: 1091
 title: Image Converter
 type: plugin
-updated: '2024-11-17T13:52:52'
+updated: 2024-11-17T13:52:52
 url: https://github.com/xryul/obsidian-image-converter
 version: 1.2.6
 ---

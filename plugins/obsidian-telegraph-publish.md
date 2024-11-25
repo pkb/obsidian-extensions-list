@@ -1,17 +1,18 @@
 ---
 aliases:
-- Telegraph Publish
+  - Telegraph Publish
 author:
-- Reorx
+  - Reorx
 author_page: https://github.com/reorx
-categories: []
-description: ''
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+description: ""
 downloads: 4575
 mobile: true
 number: 474
 title: Telegraph Publish
 type: plugin
-updated: '2022-05-17T13:03:47'
+updated: 2022-05-17T13:03:47
 url: https://github.com/reorx/obsidian-telegraph-publish
 version: 1.2.3
 ---

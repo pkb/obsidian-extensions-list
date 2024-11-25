@@ -1,10 +1,11 @@
 ---
 aliases:
-- Advanced Merger
+  - Advanced Merger
 author:
-- Anto Keinänen
+  - Anto Keinänen
 author_page: https://github.com/antoKeinanen
-categories: []
+categories:
+  - "[[categories/Export|Export]]"
 description: Merge a folder of notes for easier export.
 downloads: 7922
 funding_page: https://www.buymeacoffee.com/antokeinanen
@@ -12,7 +13,7 @@ mobile: true
 number: 858
 title: Advanced Merger
 type: plugin
-updated: '2023-10-04T19:27:50'
+updated: 2023-10-04T19:27:50
 url: https://github.com/antoKeinanen/obsidian-advanced-merger
 version: 1.5.0
 ---

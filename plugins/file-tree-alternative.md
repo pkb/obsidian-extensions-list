@@ -6,6 +6,7 @@ author:
 author_page: https://www.ozan.pl
 categories:
   - "[[categories/UI customization|UI customization]]"
+  - "[[categories/File management|File management]]"
 description: This plugin allows you to have an alternative file tree view.
 downloads: 262095
 funding_page: https://ko-fi.com/ozante

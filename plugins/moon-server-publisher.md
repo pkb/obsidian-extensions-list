@@ -1,17 +1,18 @@
 ---
 aliases:
-- Moon server publisher
+  - Moon server publisher
 author:
-- Roman Provazník
+  - Roman Provazník
 author_page: https://github.com/Dzoukr
-categories: []
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Publish your notes directly to Moon server instance.
 downloads: 2296
 mobile: true
 number: 1225
 title: Moon server publisher
 type: plugin
-updated: '2023-10-20T19:33:50'
+updated: 2023-10-20T19:33:50
 url: https://github.com/Dzoukr/MoonServerObsidianPlugin
 version: 1.0.0
 ---

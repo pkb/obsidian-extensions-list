@@ -1,10 +1,12 @@
 ---
 aliases:
-- BPMN
+  - BPMN
 author:
-- JoLeaf
+  - JoLeaf
 author_page: https://github.com/JoLeaf
-categories: []
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+  - "[[categories/Custom code blocks|Custom code blocks]]"
 description: This plugin enables viewing/editing/simulating BPMNs using bpmn-js.
 downloads: 7004
 funding_page: https://ko-fi.com/joleaf
@@ -12,7 +14,7 @@ mobile: true
 number: 688
 title: BPMN
 type: plugin
-updated: '2024-11-16T21:09:03'
+updated: 2024-11-16T21:09:03
 url: https://github.com/joleaf/obsidian-bpmn-plugin
 version: 7.3.0
 ---
