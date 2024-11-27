@@ -2,8 +2,7 @@
 aliases:
 - mdx as md
 author:
-- death_au
-author_page: https://github.com/mkozhukharenko
+- '[[mkozhukharenko|death_au]]'
 categories: []
 description: Edit mdx files as if they were markdown
 downloads: 5218

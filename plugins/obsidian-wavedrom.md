@@ -2,8 +2,7 @@
 aliases:
 - WaveDrom
 author:
-- Alex Stewart
-author_page: https://github.com/kingsquirrel152
+- '[[kingsquirrel152|Alex Stewart]]'
 categories: []
 description: This is very rough and quick integration of WaveDrom into obsidian
 downloads: 4464

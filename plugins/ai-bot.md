@@ -2,8 +2,7 @@
 aliases:
 - AI bot
 author:
-- kuzzh
-author_page: https://github.com/kuzzh
+- '[[kuzzh|kuzzh]]'
 categories: []
 description: Polish, summarize, translate, analyze, and interpret code using AI.
 downloads: 59

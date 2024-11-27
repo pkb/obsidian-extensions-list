@@ -2,9 +2,8 @@
 aliases:
 - LDS Library Reference
 author:
-- pacokwon
-- ingiestein
-author_page: https://github.com/ingiestein
+- '[[authors/pacokwon|pacokwon]]'
+- '[[ingiestein|ingiestein]]'
 categories: []
 description: Easily insert references to scripture and conference talks from the Church
   of Jesus Christ of Latter-day Saints

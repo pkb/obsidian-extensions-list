@@ -2,12 +2,10 @@
 aliases:
 - Obsius Publish
 author:
-- Jon Grythe Stødle
-author_page: https://jonstodle.com
+- '[[jonstodle|Jon Grythe Stødle]]'
 categories: []
 description: Make single notes instantly available on the web.
 downloads: 13217
-funding_page: https://ko-fi.com/jonstodle
 mobile: true
 number: 492
 title: Obsius Publish

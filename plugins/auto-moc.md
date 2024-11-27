@@ -2,8 +2,7 @@
 aliases:
 - AutoMOC
 author:
-- Diego Alcantara
-author_page: ''
+- '[[dalcantara7|Diego Alcantara]]'
 categories: []
 description: Looks for missing linked mentions or notes with a specific tag or alias
   and imports them into the current note.

@@ -2,12 +2,10 @@
 aliases:
 - Inbox
 author:
-- Zachatoo
-author_page: https://zachyoung.dev
+- '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Show in app notification if there is data to process in the "inbox" note.
 downloads: 5262
-funding_page: https://github.com/sponsors/Zachatoo
 mobile: true
 number: 795
 title: Inbox

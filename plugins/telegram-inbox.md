@@ -2,12 +2,10 @@
 aliases:
 - Telegram Inbox
 author:
-- icealtria
-author_page: https://github.com/icealtria
+- '[[icealtria|icealtria]]'
 categories: []
 description: Receive messages from Telegram bot and add them to daily note.
 downloads: 2055
-funding_page: https://ko-fi.com/icealtria
 mobile: true
 number: 1554
 title: Telegram Inbox

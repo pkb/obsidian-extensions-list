@@ -2,8 +2,7 @@
 aliases:
 - Autoscroll
 author:
-- Petr Nazarov
-author_page: https://github.com/petr-nazarov
+- '[[petr-nazarov|Petr Nazarov]]'
 categories: []
 description: This plugin allows you to automatically scroll down the content with
   the provided speed

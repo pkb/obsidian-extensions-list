@@ -2,8 +2,7 @@
 aliases:
 - Flashcards
 author:
-- Alex Colucci
-author_page: https://github.com/reuseman
+- '[[reuseman|Alex Colucci]]'
 categories: []
 description: Anki integration
 downloads: 50630

@@ -2,8 +2,7 @@
 aliases:
 - Fuzzy Chinese Pinyin
 author:
-- lazyloong
-author_page: https://github.com/lazyloong
+- '[[lazyloong|lazyloong]]'
 categories: []
 description: Provide the function of fuzzy search using Chinese Pinyin.
 downloads: 15044

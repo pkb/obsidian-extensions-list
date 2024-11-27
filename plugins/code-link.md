@@ -2,8 +2,7 @@
 aliases:
 - Code Link
 author:
-- observerw
-author_page: https://github.com/observerw
+- '[[observerw|observerw]]'
 categories: []
 description: Link to code files in your notes
 downloads: 316

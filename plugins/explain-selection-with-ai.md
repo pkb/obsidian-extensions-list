@@ -2,8 +2,7 @@
 aliases:
 - Explain Selection With AI
 author:
-- Ben Wurster
-author_page: https://benwurster.com
+- '[[BWurster|Ben Wurster]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use an OpenAI Chat Completion API-compatible LLM endpoint to explain

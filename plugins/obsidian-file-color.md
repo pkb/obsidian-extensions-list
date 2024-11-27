@@ -2,13 +2,11 @@
 aliases:
 - File Color
 author:
-- ecustic
-author_page: https://github.com/ecustic
+- '[[ecustic|ecustic]]'
 categories: []
 description: An Obsidian plugin for setting colors on folders and files in the file
   tree.
 downloads: 77354
-funding_page: https://www.buymeacoffee.com/ecustic
 mobile: true
 number: 742
 title: File Color

@@ -2,8 +2,7 @@
 aliases:
 - Enhancing Mindmap
 author:
-- Mark
-author_page: https://github.com/MarkMindCkm/obsidian-enhancing-mindmap
+- '[[MarkMindCkm|Mark]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: This is a enhancing mindmap plugin for Obsidian. You can edit mindmap

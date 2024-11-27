@@ -2,14 +2,12 @@
 aliases:
 - Find orphaned files and broken links
 author:
-- Vinzent
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent]]'
 categories:
 - '[[categories/File management|File management]]'
 description: 'Find files that are not linked anywhere and would otherwise be lost
   in your vault. In other words: files with no backlinks.'
 downloads: 169572
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 36
 title: Find orphaned files and broken links

@@ -2,13 +2,11 @@
 aliases:
 - Tab Switcher
 author:
-- Vinzent & phibr0
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent & phibr0]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Switch your tabs with Ctrl + Tab in recently used order like in a browser.
 downloads: 70827
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 39
 title: Tab Switcher

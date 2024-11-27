@@ -2,8 +2,7 @@
 aliases:
 - Another Sticky Headings
 author:
-- Zhou Hua
-author_page: https://zhouhua.site
+- '[[zhouhua|Zhou Hua]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Display headings tree during editing and preview to indicate the current

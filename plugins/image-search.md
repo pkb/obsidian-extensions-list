@@ -2,12 +2,10 @@
 aliases:
 - Image Search
 author:
-- Mohammad Razeghi
-author_page: https://github.com/razeghi71
+- '[[razeghi71|Mohammad Razeghi]]'
 categories: []
 description: Search and insert images using Google API
 downloads: 834
-funding_page: https://www.buymeacoffee.com/marzghi
 mobile: true
 number: 1615
 title: Image Search

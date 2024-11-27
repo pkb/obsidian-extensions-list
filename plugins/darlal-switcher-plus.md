@@ -2,8 +2,7 @@
 aliases:
 - Quick Switcher++
 author:
-- darlal
-author_page: https://github.com/darlal/obsidian-switcher-plus
+- '[[darlal|darlal]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Enhanced Quick Switcher, search open panels, and symbols.

@@ -2,8 +2,7 @@
 aliases:
 - Markline
 author:
-- 闲耘
-author_page: https://hotoo.github.io/
+- '[[hotoo|闲耘]]'
 categories: []
 description: Timeline view from markdown.
 downloads: 2082

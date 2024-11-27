@@ -2,8 +2,7 @@
 aliases:
 - Sakana Widget
 author:
-- Boninall
-author_page: https://obsidian.md
+- '[[Quorafind|Boninall]]'
 categories: []
 description: Add the Sakana! Widget to your own Obsidian!
 downloads: 4781

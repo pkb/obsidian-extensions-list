@@ -2,8 +2,7 @@
 aliases:
 - Checklist Reset
 author:
-- Luke Hansford
-author_page: https://github.com/lhansford
+- '[[lhansford|Luke Hansford]]'
 categories: []
 description: Adds a command to reset the state of any checklists in a document in
   Obsidian.

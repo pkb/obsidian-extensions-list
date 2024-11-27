@@ -2,8 +2,7 @@
 aliases:
 - braincache
 author:
-- braincache
-author_page: https://braincache.co
+- '[[XSPGMike|braincache]]'
 categories: []
 description: Create flashcards from obsidian notes
 downloads: 4351

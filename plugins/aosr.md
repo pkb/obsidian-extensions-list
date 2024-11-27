@@ -2,8 +2,7 @@
 aliases:
 - Aosr
 author:
-- linanwx
-author_page: https://github.com/linanwx/aosr
+- '[[linanwx|linanwx]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Another obsidian spaced repetition

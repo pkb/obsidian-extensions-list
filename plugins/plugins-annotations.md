@@ -2,13 +2,11 @@
 aliases:
 - Plugins Annotations
 author:
-- Andrea Alberti
-author_page: https://www.linkedin.com/in/dr-andrea-alberti/
+- '[[alberti42|Andrea Alberti]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Allows adding personal comments to each installed plugin.
 downloads: 1984
-funding_page: https://buymeacoffee.com/alberti
 mobile: true
 number: 1715
 title: Plugins Annotations

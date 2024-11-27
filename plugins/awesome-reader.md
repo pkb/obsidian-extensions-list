@@ -2,8 +2,7 @@
 aliases:
 - Awesome Reader
 author:
-- AwesomeDog
-author_page: https://github.com/AwesomeDog
+- '[[AwesomeDog|AwesomeDog]]'
 categories: []
 description: Make Obsidian a proper Reader.
 downloads: 7696

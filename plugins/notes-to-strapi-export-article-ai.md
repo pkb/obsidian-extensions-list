@@ -2,13 +2,11 @@
 aliases:
 - Strapi Exporter AI
 author:
-- Cinquin Andy
-author_page: https://andy.cinquin.com
+- '[[CinquinAndy|Cinquin Andy]]'
 categories: []
 description: Effortlessly export your notes to Strapi CMS with AI-powered handling
   and SEO optimization.
 downloads: 1137
-funding_page: https://github.com/sponsors/CinquinAndy
 mobile: false
 number: 1597
 title: Strapi Exporter AI

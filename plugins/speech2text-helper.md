@@ -2,8 +2,7 @@
 aliases:
 - Speech To Text Keyboard Helper
 author:
-- mwoz123
-author_page: https://github.com/mwoz123
+- '[[mwoz123|mwoz123]]'
 categories: []
 description: Makes available helper commands for Speech to Text (Google Andoroid)
   keyboard in Obsidian command pallete (and from there could be added to e.g. mobile

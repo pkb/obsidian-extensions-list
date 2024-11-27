@@ -2,13 +2,11 @@
 aliases:
 - Code Styler
 author:
-- Mayuran Visakan
-author_page: https://github.com/mayurankv
+- '[[mayurankv|Mayuran Visakan]]'
 categories: []
 description: Style and customize codeblocks and inline code in both editing mode and
   reading mode.
 downloads: 54686
-funding_page: https://www.buymeacoffee.com/mayurankv2
 mobile: true
 number: 1021
 title: Code Styler

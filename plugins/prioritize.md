@@ -2,12 +2,10 @@
 aliases:
 - Prioritize
 author:
-- EloiMusk
-author_page: https://github.com/EloiMusk/
+- '[[EloiMusk|EloiMusk]]'
 categories: []
 description: Prioritize your tasks and notes in Obsidian.
 downloads: 4351
-funding_page: https://www.buymeacoffee.com/eloimusk
 mobile: false
 number: 846
 title: Prioritize

@@ -2,8 +2,7 @@
 aliases:
 - Pretty BibTeX
 author:
-- Sandro Figo
-author_page: https://sandrofigo.com
+- '[[sandrofigo|Sandro Figo]]'
 categories: []
 description: Shows raw BibTeX bibliography entries in a prettier way
 downloads: 7518

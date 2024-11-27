@@ -2,9 +2,8 @@
 aliases:
 - Share to NotionNext
 author:
-- EasyChris
-- jxpeng98
-author_page: https://github.com/jxpeng98
+- '[[authors/EasyChris|EasyChris]]'
+- '[[jxpeng98|jxpeng98]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares obsidian md file to notion with notion api for NotionNext web

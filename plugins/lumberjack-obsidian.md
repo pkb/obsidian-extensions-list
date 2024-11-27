@@ -2,8 +2,7 @@
 aliases:
 - "Lumberjack \U0001FA93 \U0001FAB5"
 author:
-- ryanjamurphy
-author_page: https://axle.design
+- '[[ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency
   and get right to writing.

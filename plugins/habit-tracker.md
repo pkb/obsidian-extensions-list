@@ -2,8 +2,7 @@
 aliases:
 - Habit Tracker
 author:
-- David Moeller
-author_page: https://github.com/Narsail
+- '[[Narsail|David Moeller]]'
 categories: []
 description: Track your Habits.
 downloads: 8050

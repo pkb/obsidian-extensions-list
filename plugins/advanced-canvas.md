@@ -2,14 +2,12 @@
 aliases:
 - Advanced Canvas
 author:
-- Developer-Mike
-author_page: https://github.com/Developer-Mike
+- '[[Developer-Mike|Developer-Mike]]'
 categories:
 - '[[categories/Canvas|Canvas]]'
 description: Supercharge your canvas experience! Create presentations, flowcharts
   and more!
 downloads: 75525
-funding_page: https://ko-fi.com/X8X27IA08
 mobile: true
 number: 1474
 title: Advanced Canvas

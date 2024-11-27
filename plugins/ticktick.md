@@ -2,14 +2,12 @@
 aliases:
 - TickTick
 author:
-- Viduy Cheung
-author_page: https://ticktick.com
+- '[[viduycheung|Viduy Cheung]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Check and create tasks in TickTick via Obsidian
 downloads: 7532
-funding_page: https://ticktick.com/about/upgrade
 mobile: true
 number: 1116
 title: TickTick

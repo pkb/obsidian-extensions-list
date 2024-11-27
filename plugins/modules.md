@@ -2,15 +2,11 @@
 aliases:
 - Modules
 author:
-- polyipseity
-author_page: https://github.com/polyipseity
+- '[[polyipseity|polyipseity]]'
 categories: []
 description: Load JavaScript and related languages like TypeScript modules from the
   vault and the Internet.
 downloads: 4844
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/polyipseity
-  GitHub Sponsors: https://github.com/sponsors/polyipseity
 mobile: true
 number: 1066
 title: Modules

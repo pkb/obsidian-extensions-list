@@ -2,8 +2,7 @@
 aliases:
 - Note Synchronizer
 author:
-- Songchen Tan
-author_page: https://tansongchen.com
+- '[[tansongchen|Songchen Tan]]'
 categories: []
 description: This is a plugin for synchornizing Obsidian notes to other note-based
   softwares like Anki, following more strictly the principles of Zettelkasten and

@@ -2,8 +2,7 @@
 aliases:
 - Search on Internet
 author:
-- Emile
-author_page: https://twitter.com/emilevankrieken
+- '[[HEmile|Emile]]'
 categories: []
 description: Add context menu items to search the internet within Obsidian.
 downloads: 26160

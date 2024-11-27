@@ -2,8 +2,7 @@
 aliases:
 - Personal Assistant
 author:
-- edony
-author_page: https://github.com/edonyzpc
+- '[[edonyzpc|edony]]'
 categories: []
 description: Streamline workflows within Obsidian, managing memos and plugins with
   just one command.

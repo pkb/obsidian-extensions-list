@@ -2,8 +2,7 @@
 aliases:
 - Share to Cubox
 author:
-- Redwinam
-author_page: https://github.com/Redwinam
+- '[[Redwinam|Redwinam]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Share Obsidian notes to Cubox.

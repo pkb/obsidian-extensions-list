@@ -2,8 +2,7 @@
 aliases:
 - LinkMagic
 author:
-- Andrew Reifman
-author_page: https://github.com/AndyReifman
+- '[[AndyReifman|Andrew Reifman]]'
 categories: []
 description: Automatically adds links to defined regex.
 downloads: 551

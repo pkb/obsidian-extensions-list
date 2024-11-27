@@ -2,8 +2,7 @@
 aliases:
 - OpenAPI Renderer
 author:
-- Sentiago
-author_page: https://github.com/Ssentiago
+- '[[Ssentiago|Sentiago]]'
 categories: []
 description: Integrate OpenAPI specification management with features for version
   control, visualization, editing, and easy navigation of API specs.

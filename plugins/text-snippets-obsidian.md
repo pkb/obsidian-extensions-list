@@ -2,8 +2,7 @@
 aliases:
 - Text Snippets
 author:
-- Ariana Khitrova
-author_page: ''
+- '[[ArianaKhit|Ariana Khitrova]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Allows you to replace text templates for faster typing, create your own,

@@ -2,12 +2,10 @@
 aliases:
 - Folders to Graph
 author:
-- ratibus11
-author_page: https://github.com/ratibus11
+- '[[Ratibus11|ratibus11]]'
 categories: []
 description: Display your vault folder structure into your graphs.
 downloads: 4320
-funding_page: https://paypal.me/bastianlucas
 mobile: true
 number: 1449
 title: Folders to Graph

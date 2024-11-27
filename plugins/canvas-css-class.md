@@ -2,13 +2,11 @@
 aliases:
 - Canvas CSS class
 author:
-- Mara-Li
-author_page: https://github.com/Mara-Li
+- '[[Mara-Li|Mara-Li]]'
 categories:
 - '[[categories/Canvas]]'
 description: Add a CSS class to the canvas, but also other attributes.
 downloads: 18618
-funding_page: https://ko-fi.com/Mara__Li
 mobile: true
 number: 753
 title: Canvas CSS class

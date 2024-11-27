@@ -2,8 +2,7 @@
 aliases:
 - File path to URI
 author:
-- Michal Bureš
-author_page: https://github.com/MichalBures
+- '[[MichalBures|Michal Bureš]]'
 categories: []
 description: Convert file path to uri for easier use of links to local files outside
   of Obsidian

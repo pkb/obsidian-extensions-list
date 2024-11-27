@@ -2,8 +2,7 @@
 aliases:
 - Notion Video
 author:
-- lastknightcoder
-author_page: https://lastknightcoder.github.io/hexo-blog
+- '[[LastKnightCoder|lastknightcoder]]'
 categories: []
 description: embed your notion video in obsidian
 downloads: 4144

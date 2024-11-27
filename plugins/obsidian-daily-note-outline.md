@@ -2,8 +2,7 @@
 aliases:
 - Daily Note Outline
 author:
-- iiz
-author_page: https://github.com/iiz00
+- '[[iiz00|iiz]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a custom view which shows outline of multiple daily notes with headings,

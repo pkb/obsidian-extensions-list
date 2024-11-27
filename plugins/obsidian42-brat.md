@@ -2,14 +2,11 @@
 aliases:
 - BRAT
 author:
-- TfTHacker
-author_page: https://github.com/TfTHacker/obsidian42-brat
+- '[[TfTHacker|TfTHacker]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Easily install a beta version of a plugin for testing.
 downloads: 254883
-funding_page:
-  Visit my site: https://tfthacker.com
 mobile: true
 number: 312
 title: BRAT

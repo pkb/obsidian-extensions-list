@@ -2,12 +2,10 @@
 aliases:
 - NyanBar
 author:
-- xhyabunny
-author_page: https://xhyabunny.org
+- '[[xhyabunny|xhyabunny]]'
 categories: []
 description: Nyan Cat Progress Bar generator!
 downloads: 247
-funding_page: https://paypal.me/xhyabunny
 mobile: true
 number: 1779
 title: NyanBar

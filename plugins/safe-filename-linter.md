@@ -2,8 +2,7 @@
 aliases:
 - Safe Filename Linter
 author:
-- sneaky-foxes
-author_page: https://github.com/sneaky-foxes
+- '[[sneaky-foxes|sneaky-foxes]]'
 categories: []
 description: Lints filenames for invalid or troublesome characters
 downloads: 3988

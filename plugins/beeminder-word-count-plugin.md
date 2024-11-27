@@ -2,8 +2,7 @@
 aliases:
 - Beeminder Word Count Plugin
 author:
-- Yuta Miyama
-author_page: https://twitter.com/kenzan100
+- '[[kenzan100|Yuta Miyama]]'
 categories: []
 description: This lets you post word counts directly from obsidian file to Beeminder.
 downloads: 4107

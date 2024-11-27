@@ -2,8 +2,7 @@
 aliases:
 - Movie
 author:
-- Onur Ayçiçek
-author_page: https://onuraycicek.com.tr
+- '[[onuraycicek|Onur Ayçiçek]]'
 categories: []
 description: Search for movies and trailers.
 downloads: 6974

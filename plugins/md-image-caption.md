@@ -2,14 +2,10 @@
 aliases:
 - Markdown Image Caption
 author:
-- Hananoshika Yomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate image caption
 downloads: 2795
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: true
 number: 1234
 title: Markdown Image Caption

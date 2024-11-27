@@ -2,12 +2,10 @@
 aliases:
 - Sync Contacts on macOS
 author:
-- Marcel Schöckel
-author_page: https://twitter.com/marcelschoeckel
+- '[[motschel123|Marcel Schöckel]]'
 categories: []
 description: Sync your contacts from macOS to your Obsidian Vault.
 downloads: 3147
-funding_page: https://www.buymeacoffee.com/motschel
 mobile: false
 number: 1158
 title: Sync Contacts on macOS

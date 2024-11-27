@@ -2,8 +2,7 @@
 aliases:
 - Canvas minimap
 author:
-- ifree
-author_page: https://github.com/ifree
+- '[[ifree|ifree]]'
 categories: []
 description: For easy navigation in large canvas
 downloads: 4787

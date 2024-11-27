@@ -2,8 +2,7 @@
 aliases:
 - Nav Link Header
 author:
-- ahts4962
-author_page: https://github.com/ahts4962
+- '[[ahts4962|ahts4962]]'
 categories: []
 description: Display navigation links at the top of the notes.
 downloads: 333

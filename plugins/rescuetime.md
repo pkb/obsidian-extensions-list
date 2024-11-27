@@ -2,8 +2,7 @@
 aliases:
 - RescueTime
 author:
-- Tatsuya Hayashi
-author_page: https://github.com/Tatz884
+- '[[Tatz884|Tatsuya Hayashi]]'
 categories: []
 description: View your RescueTime data in Obsidian.
 downloads: 2642

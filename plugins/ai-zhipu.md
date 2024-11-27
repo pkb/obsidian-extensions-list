@@ -2,8 +2,7 @@
 aliases:
 - AI Zhipu
 author:
-- Tarslab
-author_page: https://github.com/tarslab
+- '[[TarsLab|Tarslab]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate text using the ZhipuAI API.

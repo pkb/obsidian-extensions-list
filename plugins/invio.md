@@ -2,8 +2,7 @@
 aliases:
 - Invio
 author:
-- frontend-engineering
-author_page: https://github.com/frontend-engineering
+- '[[frontend-engineering|frontend-engineering]]'
 categories:
 - '[[categories/Export|Export]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'

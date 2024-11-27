@@ -2,8 +2,7 @@
 aliases:
 - Size History
 author:
-- Piotr Borowski
-author_page: https://github.com/pbrw
+- '[[pbrw|Piotr Borowski]]'
 categories: []
 description: Admire the growth of your Obsidian vault with a "hand-drawn" chart.
 downloads: 3695

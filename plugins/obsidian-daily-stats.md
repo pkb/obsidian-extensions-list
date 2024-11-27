@@ -2,8 +2,7 @@
 aliases:
 - Daily Stats
 author:
-- Dhruvik Parikh
-author_page: https://github.com/dhruvik7
+- '[[dhruvik7|Dhruvik Parikh]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track your daily word count across all notes in your vault.

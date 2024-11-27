@@ -2,8 +2,7 @@
 aliases:
 - Hover External Link Plugin
 author:
-- Jamie Brynes
-author_page: https://obsidian.md/about
+- '[[jamiebrynes7|Jamie Brynes]]'
 categories: []
 description: Hover on external links to see the destination URL.
 downloads: 6748

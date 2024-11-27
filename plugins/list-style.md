@@ -2,8 +2,7 @@
 aliases:
 - Ordered List Style
 author:
-- Eric Rykwalder
-author_page: https://github.com/erykwalder/obsidian-list-style
+- '[[erykwalder|Eric Rykwalder]]'
 categories: []
 description: Set ordered list style inline in Obsidian.md. Alphabetic lists, roman
   numeral lists, etc.

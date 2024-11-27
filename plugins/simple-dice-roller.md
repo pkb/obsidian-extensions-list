@@ -2,8 +2,7 @@
 aliases:
 - Simple Dice Roller
 author:
-- yeeshue
-author_page: yeeshue99.github.io
+- '[[yeeshue99|yeeshue]]'
 categories: []
 description: A plug and play solution that allows you to average and simulate dice
   formulas.

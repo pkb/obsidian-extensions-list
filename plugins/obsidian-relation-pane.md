@@ -2,8 +2,7 @@
 aliases:
 - Relation Pane
 author:
-- mottox2
-author_page: https://mottox2.com
+- '[[mottox2|mottox2]]'
 categories: []
 description: This plugin displays a panel that summarize relations between notes.
 downloads: 5306

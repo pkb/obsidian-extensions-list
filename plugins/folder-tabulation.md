@@ -2,12 +2,10 @@
 aliases:
 - Folder Tabulation
 author:
-- SpeedaRJ
-author_page: https://github.com/SpeedaRJ
+- '[[SpeedaRJ|SpeedaRJ]]'
 categories: []
 description: Enables navigation between files in a folder via hotkeys and commands.
 downloads: 45
-funding_page: https://ko-fi.com/speedarj
 mobile: true
 number: 2024
 title: Folder Tabulation

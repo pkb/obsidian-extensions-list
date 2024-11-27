@@ -1,8 +1,8 @@
 ---
 aliases:
 - Multi-line Formatting
-author: nmady
-author_page: https://github.com/nmady
+author:
+- '[[authors/nmady|nmady]]'
 categories: []
 description: Apply formatting to selected text, dealing with the paragraph breaks.
 downloads: 7106

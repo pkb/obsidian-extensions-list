@@ -2,8 +2,7 @@
 aliases:
 - Better Word Count
 author:
-- Luke Leppan
-author_page: https://lukeleppan.com
+- '[[lukeleppan|Luke Leppan]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Counts the words of selected text in the editor.

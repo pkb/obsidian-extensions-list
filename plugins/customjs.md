@@ -2,8 +2,7 @@
 aliases:
 - CustomJS
 author:
-- Sam Lewis
-author_page: https://github.com/samlewis0602
+- '[[saml-dev|Sam Lewis]]'
 categories: []
 description: This plugin lets you use custom javascript files inside your vault.
 downloads: 36940

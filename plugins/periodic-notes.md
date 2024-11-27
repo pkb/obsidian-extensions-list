@@ -2,8 +2,7 @@
 aliases:
 - Periodic Notes
 author:
-- Liam Cain
-author_page: https://github.com/liamcain/
+- '[[liamcain|Liam Cain]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Create/manage your daily, weekly, and monthly notes

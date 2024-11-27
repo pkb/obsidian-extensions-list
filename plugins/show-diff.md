@@ -2,12 +2,10 @@
 aliases:
 - Show Diff
 author:
-- Ivan Lednev
-author_page: https://github.com/ivan-lednev
+- '[[ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Render Git diffs in Obsidian files
 downloads: 3700
-funding_page: https://www.buymeacoffee.com/machineelf
 mobile: false
 number: 918
 title: Show Diff

@@ -2,12 +2,10 @@
 aliases:
 - Create Note in Folder
 author:
-- Mara-Li
-author_page: https://github.com/Mara-Li
+- '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Add commands to create a note in a specific folder.
 downloads: 7800
-funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 809
 title: Create Note in Folder

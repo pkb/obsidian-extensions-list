@@ -2,12 +2,10 @@
 aliases:
 - MathLive
 author:
-- Dan Zilberman
-author_page: https://github.com/danzilberdan
+- '[[danzilberdan|Dan Zilberman]]'
 categories: []
 description: Faster and more intuitive MathJax editing using MathLive.
 downloads: 13310
-funding_page: https://www.buymeacoffee.com/danzilberdan
 mobile: false
 number: 931
 title: MathLive

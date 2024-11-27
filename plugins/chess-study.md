@@ -2,8 +2,7 @@
 aliases:
 - Chess Study
 author:
-- Christoph Lindstädt
-author_page: https://github.com/chrislicodes
+- '[[chrislicodes|Christoph Lindstädt]]'
 categories: []
 description: A chess study helper and PGN viewer/editor.
 downloads: 5322

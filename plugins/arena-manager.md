@@ -2,8 +2,7 @@
 aliases:
 - Are.na Manager
 author:
-- Javier Arce
-author_page: https://javier.computer
+- '[[javierarce|Javier Arce]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish content from your vault to Arena and the other way around.

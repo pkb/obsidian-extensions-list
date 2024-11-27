@@ -2,12 +2,10 @@
 aliases:
 - Persistent Links
 author:
-- Ivan Lednev
-author_page: https://github.com/ivan-lednev
+- '[[ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Automatically repair internal links to blocks and headings
 downloads: 4868
-funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 911
 title: Persistent Links

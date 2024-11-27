@@ -2,8 +2,7 @@
 aliases:
 - Amazing Marvin
 author:
-- Shirayuki Nekomata
-author_page: https://github.com/ikuyarihS
+- '[[ikuyarihS|Shirayuki Nekomata]]'
 categories: []
 description: This is a plugin for Obsidian (https://obsidian.md) for Amazing Marvin
   (https://app.amazingmarvin.com/)

@@ -2,8 +2,7 @@
 aliases:
 - Workbooks
 author:
-- Gabriele Cannata
-author_page: https://github.com/Canna71
+- '[[Canna71|Gabriele Cannata]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'

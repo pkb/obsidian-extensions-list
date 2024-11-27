@@ -2,12 +2,10 @@
 aliases:
 - Auto Hide Cursor
 author:
-- jmxo
-author_page: https://github.com/jmxo
+- '[[moismat|jmxo]]'
 categories: []
 description: Hides the cursor when scrolling and shows it again when moving the mouse.
 downloads: 3834
-funding_page: ''
 mobile: false
 number: 932
 title: Auto Hide Cursor

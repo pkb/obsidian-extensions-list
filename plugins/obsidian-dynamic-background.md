@@ -2,8 +2,7 @@
 aliases:
 - Dynamic Background
 author:
-- Samuel Song
-author_page: https://www.readinghere.com
+- '[[samuelsong70|Samuel Song]]'
 categories: []
 description: Adding dynamic effects and/or static wallpapers for Obsidian background
 downloads: 13307

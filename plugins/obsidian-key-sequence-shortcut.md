@@ -2,8 +2,7 @@
 aliases:
 - Key Sequence Shortcut
 author:
-- Yu Wang
-author_page: https://github.com/anselmwang
+- '[[anselmwang|Yu Wang]]'
 categories: []
 description: ' Execute obsidian commands with short key sequences. For example, ''tp''
   for ''Toggle Preview'' and ''tb'' for ''Toggle Sidebar''. Easier to remember.'

@@ -2,8 +2,7 @@
 aliases:
 - Furigana
 author:
-- Koppa
-author_page: https://github.com/uonr
+- '[[uonr|Koppa]]'
 categories: []
 description: Helper plugin for furigana and <ruby>
 downloads: 4776

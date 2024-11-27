@@ -2,8 +2,7 @@
 aliases:
 - Show Whitespace
 author:
-- ebullient
-author_page: https://github.com/ebullient
+- '[[ebullient|ebullient]]'
 categories: []
 description: CSS styles and CM6 extensions to highlight whitespace in Source and Live
   Preview modes.

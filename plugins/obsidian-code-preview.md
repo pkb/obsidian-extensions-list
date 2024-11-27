@@ -2,8 +2,7 @@
 aliases:
 - Code Preview
 author:
-- Hank
-author_page: https://github.com/zjhcn
+- '[[zjhcn|Hank]]'
 categories: []
 description: Code Preview
 downloads: 4619

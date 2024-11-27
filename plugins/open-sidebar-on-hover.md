@@ -2,8 +2,7 @@
 aliases:
 - Open Sidebar on Hover
 author:
-- AnAngryRaven
-author_page: https://raven.guhcat.com/
+- '[[AnAngryRaven|AnAngryRaven]]'
 categories: []
 description: Opens the sidebar by hovering over it.
 downloads: 704

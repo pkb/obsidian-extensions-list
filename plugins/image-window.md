@@ -2,8 +2,7 @@
 aliases:
 - Second Window
 author:
-- Jeremy Valentine
-author_page: ''
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Allow images & notes to be viewed in new Obsidian windows.
 downloads: 24073

@@ -2,8 +2,7 @@
 aliases:
 - Geocoding Properties
 author:
-- Jose Elias Alvarez
-author_page: https://github.com/jose-elias-alvarez
+- '[[jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Insert address / location data from geocoding APIs as Obsidian properties.
 downloads: 3894

@@ -2,8 +2,7 @@
 aliases:
 - LanguageTool Integration
 author:
-- Clemens Ertle
-author_page: https://github.com/Clemens-E
+- '[[Clemens-E|Clemens Ertle]]'
 categories: []
 description: Inofficial LanguageTool plugin
 downloads: 208379

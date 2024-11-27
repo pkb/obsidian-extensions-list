@@ -2,8 +2,7 @@
 aliases:
 - Page Gallery
 author:
-- Nathan Clark
-author_page: https://github.com/tokenshift
+- '[[tokenshift|Nathan Clark]]'
 categories: []
 description: Creates an embeddable gallery based on selected page contents.
 downloads: 11624

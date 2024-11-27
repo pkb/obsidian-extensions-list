@@ -2,8 +2,7 @@
 aliases:
 - Excel to Markdown Table
 author:
-- Ganessh Kumar R P <rpganesshkumar@gmail.com>
-author_page: https://ganesshkumar.com
+- '[[ganesshkumar|Ganessh Kumar R P <rpganesshkumar@gmail.com>]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: An Obsidian plugin to paste data from Microsoft Excel, Google Sheets,

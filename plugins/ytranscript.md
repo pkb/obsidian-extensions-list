@@ -2,8 +2,7 @@
 aliases:
 - YTranscript
 author:
-- Łukasz Strzępek
-author_page: https://github.com/lstrzepek
+- '[[lstrzepek|Łukasz Strzępek]]'
 categories: []
 description: This is simple plugin to fetch transcription for Youtube.
 downloads: 18106

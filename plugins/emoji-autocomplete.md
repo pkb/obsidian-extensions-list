@@ -2,12 +2,10 @@
 aliases:
 - Emoji Autocomplete
 author:
-- KraXen72
-author_page: https://github.com/KraXen72
+- '[[KraXen72|KraXen72]]'
 categories: []
 description: 'Smart suggestions when typing emoji shortcodes & more! :star:'
 downloads: 5707
-funding_page: https://ko-fi.com/kraxen72
 mobile: true
 number: 1341
 title: Emoji Autocomplete

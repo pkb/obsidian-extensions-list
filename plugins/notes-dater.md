@@ -2,8 +2,7 @@
 aliases:
 - Notes dater
 author:
-- Paul Treanor
-author_page: https://paultreanor.com
+- '[[paultreanor|Paul Treanor]]'
 categories: []
 description: Adds created on and last updated on dates of the active note to the status
   bar.

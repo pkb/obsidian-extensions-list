@@ -2,8 +2,7 @@
 aliases:
 - Ninja Cursor
 author:
-- vorotamoroz
-author_page: https://github.com/vrtmrz/
+- '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: The plugin which enhance cursor visibility.
 downloads: 10762

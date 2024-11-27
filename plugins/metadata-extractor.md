@@ -2,8 +2,7 @@
 aliases:
 - Metadata Extractor
 author:
-- kometenstaub
-author_page: https://github.com/kometenstaub
+- '[[kometenstaub|kometenstaub]]'
 categories: []
 description: Metadata export on a schedule for integration with third-party apps like
   launchers.

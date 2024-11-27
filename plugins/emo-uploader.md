@@ -2,13 +2,11 @@
 aliases:
 - Emo
 author:
-- yaleiyale
-author_page: https://lestua.eu.org
+- '[[yaleiyale|yaleiyale]]'
 categories: []
 description: Embed markdown online file/image links. This plugin is for uploading
   images to hosting or files to github in Obsidian.
 downloads: 5091
-funding_page: https://lestua.eu.org/donate/
 mobile: false
 number: 676
 title: Emo

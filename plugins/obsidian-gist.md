@@ -2,8 +2,7 @@
 aliases:
 - Gist
 author:
-- Jun Lin
-author_page: https://github.com/linjunpop/obsidian-gist
+- '[[linjunpop|Jun Lin]]'
 categories: []
 description: This is a plugin to display the GitHub Gist.
 downloads: 9169

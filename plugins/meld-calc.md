@@ -2,8 +2,7 @@
 aliases:
 - Meld Calc
 author:
-- meld-cp
-author_page: https://github.com/meld-cp/obsidian-calc
+- '[[meld-cp|meld-cp]]'
 categories: []
 description: Do math
 downloads: 11669

@@ -2,8 +2,7 @@
 aliases:
 - Meld Build
 author:
-- meld-cp
-author_page: https://github.com/meld-cp/
+- '[[meld-cp|meld-cp]]'
 categories: []
 description: Write and execute (sandboxed) JavaScript to render templates, query DataView
   and create dynamic notes.

@@ -2,13 +2,11 @@
 aliases:
 - Crypt It
 author:
-- fyears
-author_page: https://github.com/fyears
+- '[[remotely-save|fyears]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Generate encrypted version of file(s) using rclone encryption format.
 downloads: 1005
-funding_page: https://github.com/remotely-save/donation
 mobile: true
 number: 1537
 title: Crypt It

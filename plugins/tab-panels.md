@@ -2,12 +2,10 @@
 aliases:
 - Tab Panels
 author:
-- GnoxNahte
-author_page: https://gnoxnahte.com
+- '[[GnoxNahte|GnoxNahte]]'
 categories: []
 description: Create tab panels to organize content into sections
 downloads: 821
-funding_page: https://ko-fi.com/gnoxnahtedev
 mobile: true
 number: 1950
 title: Tab Panels

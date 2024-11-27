@@ -2,13 +2,10 @@
 aliases:
 - Enzyme
 author:
-- Joshua Pham
-author_page: https://jpham.space
+- '[[jshph|Joshua Pham]]'
 categories: []
 description: a REPL to digest your thoughts
 downloads: 2208
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/jpham
 mobile: false
 number: 1393
 title: Enzyme

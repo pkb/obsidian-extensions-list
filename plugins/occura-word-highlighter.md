@@ -2,8 +2,7 @@
 aliases:
 - Occura
 author:
-- Alexey Sedoykin
-author_page: https://www.linkedin.com/in/sedoykin
+- '[[Krusty84|Alexey Sedoykin]]'
 categories: []
 description: Find and highlight all occurrences of selected text in notes, similar
   to Notepad++ or IDEs.

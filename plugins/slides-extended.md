@@ -2,9 +2,8 @@
 aliases:
 - Slides Extended
 author:
-- Matthäus Szturc
-- continued by Erin Schnabel
-author_page: https://github.com/ebullient
+- '[[authors/Matthäus Szturc|Matthäus Szturc]]'
+- '[[ebullient|continued by Erin Schnabel]]'
 categories: []
 description: Create markdown-based presentations using reveal.js
 downloads: 4528

@@ -2,8 +2,7 @@
 aliases:
 - Style Settings
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-style-settings
+- '[[mgmeyers|mgmeyers]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Offers controls for adjusting theme, plugin, and snippet CSS variables.

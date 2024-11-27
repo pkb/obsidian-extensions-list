@@ -2,12 +2,10 @@
 aliases:
 - Minimize on Close
 author:
-- Andrea Alberti
-author_page: https://www.linkedin.com/in/dr-andrea-alberti/
+- '[[alberti42|Andrea Alberti]]'
 categories: []
 description: Minimizes the app window to an icon after closing the last open pane
 downloads: 231
-funding_page: https://buymeacoffee.com/alberti
 mobile: false
 number: 1921
 title: Minimize on Close

@@ -2,15 +2,13 @@
 aliases:
 - Webpage HTML Export
 author:
-- Nathan George
-author_page: https://github.com/KosmosisDire/obsidian-webpage-export
+- '[[KosmosisDire|Nathan George]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export html from single files, canvas pages, or whole vaults. Direct
   access to the exported HTML files allows you to publish your digital garden anywhere.
   Focuses on flexibility, features, and style parity.
 downloads: 62774
-funding_page: https://www.buymeacoffee.com/nathangeorge
 mobile: false
 number: 741
 title: Webpage HTML Export

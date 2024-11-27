@@ -2,12 +2,10 @@
 aliases:
 - MOC Link Helper
 author:
-- Bogdan Codreanu
-author_page: https://github.com/BogdanCodreanu
+- '[[BogdanCodreanu|Bogdan Codreanu]]'
 categories: []
 description: Helps with some MOC janitor-linking tasks.
 downloads: 266
-funding_page: https://buymeacoffee.com/bogdancod
 mobile: false
 number: 1983
 title: MOC Link Helper

@@ -2,8 +2,7 @@
 aliases:
 - Local File Interface
 author:
-- qawatake
-author_page: https://github.com/qawatake/obsidian-local-file-interface-plugin
+- '[[qawatake|qawatake]]'
 categories: []
 description: Provides commands for moving files in and out of the vault
 downloads: 5023

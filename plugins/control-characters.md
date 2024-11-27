@@ -2,8 +2,7 @@
 aliases:
 - Control Characters
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei
+- '[[joethei|Johannes Theiner]]'
 categories: []
 description: Show control/non-printing characters in edit mode.
 downloads: 5473

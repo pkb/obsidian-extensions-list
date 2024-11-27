@@ -2,8 +2,7 @@
 aliases:
 - Barcode Generator
 author:
-- noxonad
-author_page: https://github.com/noxonad
+- '[[noxonad|noxonad]]'
 categories: []
 description: Generates customizable barcodes into your notes.
 downloads: 2518

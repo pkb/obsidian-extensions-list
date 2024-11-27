@@ -2,15 +2,11 @@
 aliases:
 - 3D Graph New
 author:
-- Hananoshika Yomaru
-author_page: https://github.com/HananoshikaYomaru
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian
 downloads: 9268
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: false
 number: 1284
 title: 3D Graph New

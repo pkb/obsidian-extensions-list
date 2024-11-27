@@ -2,8 +2,7 @@
 aliases:
 - Todoist Text
 author:
-- wesmoncrief
-author_page: https://github.com/wesmoncrief/obsidian-todoist-text
+- '[[wesmoncrief|wesmoncrief]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

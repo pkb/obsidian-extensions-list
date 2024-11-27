@@ -2,12 +2,10 @@
 aliases:
 - Go to Line
 author:
-- phibr0
-author_page: https://github.com/phibr0
+- '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin provides a go to Line Command
 downloads: 4393
-funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 256
 title: Go to Line

@@ -2,8 +2,7 @@
 aliases:
 - Automatic Table Of Contents
 author:
-- Johan Satgé
-author_page: https://github.com/johansatge
+- '[[johansatge|Johan Satgé]]'
 categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Create a table of contents in a note, that updates itself when the note

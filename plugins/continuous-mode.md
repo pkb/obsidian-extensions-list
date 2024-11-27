@@ -2,8 +2,7 @@
 aliases:
 - Continuous Mode
 author:
-- Michael Schrauzer
-author_page: https://github.com/gasparschott
+- '[[gasparschott|Michael Schrauzer]]'
 categories: []
 description: Displays all open notes in a tab group as if they were a continuous scrollable
   document (sometimes called "Scrivenings mode"). Open all notes in Continuous Mode
@@ -11,7 +10,6 @@ description: Displays all open notes in a tab group as if they were a continuous
   keys to navigate between notes; reorder notes via tab header drag-and-drop, sorting,
   more.
 downloads: 11178
-funding_page: https://www.buymeacoffee.com/fiLtliTFxQ
 mobile: true
 number: 1372
 title: Continuous Mode

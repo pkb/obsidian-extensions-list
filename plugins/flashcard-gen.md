@@ -2,8 +2,7 @@
 aliases:
 - Flashcard Generator
 author:
-- ChloeDia (improved by lulmer)
-author_page: https://github.com/chloedia
+- '[[chloedia|ChloeDia (improved by lulmer)]]'
 categories:
 - '[[categories/Learning|Learning]]'
 - '[[categories/AI assistance|AI assistance]]'
@@ -11,7 +10,6 @@ description: 'Craft insightful quizzes: Generate key questions/answers pairs fro
   your notes effortlessly using Open ai''s GPT-3/4 or local models. Elevate and optimize
   your learning journey.'
 downloads: 4063
-funding_page: https://www.buymeacoffee.com/chloedia
 mobile: true
 number: 1114
 title: Flashcard Generator

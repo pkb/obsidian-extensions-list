@@ -2,8 +2,7 @@
 aliases:
 - Verovio Music Renderer
 author:
-- Kornelius Paede
-author_page: https://dramturgie.lol
+- '[[kpaede|Kornelius Paede]]'
 categories: []
 description: Rendering of music notation files.
 downloads: 139

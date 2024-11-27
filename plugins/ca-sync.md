@@ -2,8 +2,7 @@
 aliases:
 - Cognitive Architect Sync
 author:
-- Bram Havers
-author_page: https://github.com/bhavers/
+- '[[bhavers|Bram Havers]]'
 categories: []
 description: Synchronise Cognitive Architect (aka IBM IT Architect Assistant) architectures.
 downloads: 92

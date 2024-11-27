@@ -2,8 +2,7 @@
 aliases:
 - Hugo codeblock highlight
 author:
-- aarol
-author_page: https://github.com/aarol
+- '[[aarol|aarol]]'
 categories: []
 description: Highlights lines in codeblocks using Hugo's hl_lines syntax.
 downloads: 1758

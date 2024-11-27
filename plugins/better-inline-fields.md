@@ -2,8 +2,7 @@
 aliases:
 - Better Inline Fields
 author:
-- David Šarman
-author_page: https://sarman.work
+- '[[dsarman|David Šarman]]'
 categories: []
 description: Obsidian plugin to enhance Dataview style inline fields
 downloads: 9570

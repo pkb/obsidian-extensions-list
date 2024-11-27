@@ -2,8 +2,7 @@
 aliases:
 - Remember cursor position
 author:
-- Dmitry Savosh
-author_page: https://github.com/dy-sh/
+- '[[dy-sh|Dmitry Savosh]]'
 categories: []
 description: Remember cursor and scroll position for each note
 downloads: 93635

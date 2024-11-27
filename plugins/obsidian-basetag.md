@@ -2,8 +2,7 @@
 aliases:
 - Base Tag Renderer
 author:
-- Darren Kuro
-author_page: https://github.com/darrenkuro
+- '[[darrenkuro|Darren Kuro]]'
 categories: []
 description: This plugin renders the basename of tags.
 downloads: 5670

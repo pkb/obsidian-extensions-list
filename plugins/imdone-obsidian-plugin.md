@@ -2,8 +2,7 @@
 aliases:
 - Imdone Obsidian Plugin
 author:
-- Imdone
-author_page: https://imdone.io
+- '[[imdone|Imdone]]'
 categories: []
 description: This plugin allows imdone users to open their imdone board from a document
   in their obsidian vault that contains imdone cards.

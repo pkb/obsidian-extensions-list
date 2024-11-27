@@ -2,8 +2,7 @@
 aliases:
 - Quick snippets and navigation
 author:
-- ieviev
-author_page: https://github.com/ieviev/obsidian-keyboard-shortcuts
+- '[[ieviev|ieviev]]'
 categories: []
 description: Keyboard navigation up/down for headings - Quick switcher extensions
   - Copy code block via keyboard shortcut - Configurable code block and callout snippets

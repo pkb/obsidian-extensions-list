@@ -2,8 +2,7 @@
 aliases:
 - Quickly
 author:
-- Sparsh Yadav
-author_page: https://github.com/tmfelwu
+- '[[tmfelwu|Sparsh Yadav]]'
 categories: []
 description: Quickly empowers you to add your thoughts into obsidian with a shortcut
   key.

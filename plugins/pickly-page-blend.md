@@ -2,13 +2,11 @@
 aliases:
 - Pickly PageBlend
 author:
-- Dmitrii Mitrichev at Pickly
-author_page: https://pb.pickly.space
+- '[[dmitrichev|Dmitrii Mitrichev at Pickly]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your Obsidian notes in one click
 downloads: 2847
-funding_page: https://ko-fi.com/mitrichev
 mobile: true
 number: 1131
 title: Pickly PageBlend

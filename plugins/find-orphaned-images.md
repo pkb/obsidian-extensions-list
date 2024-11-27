@@ -2,8 +2,7 @@
 aliases:
 - Find Orphaned Images
 author:
-- Josmar Cristello
-author_page: https://github.com/josmarcristello/
+- '[[josmarcristello|Josmar Cristello]]'
 categories: []
 description: Finds images in the vault that are not linked to any notes. Either lists,
   or deletes them.

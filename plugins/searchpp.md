@@ -2,8 +2,7 @@
 aliases:
 - Search++
 author:
-- Noureddine Haouari
-author_page: https://haouari.com
+- '[[nhaouari|Noureddine Haouari]]'
 categories: []
 description: Allow inserting text context search results on the active note, the plugin
   is based on the plugin mrj-text-expand-witb-text of MrJackphil.

@@ -1,0 +1,18 @@
+---
+aliases:
+- Tejas H
+name: Tejas H
+type: author
+url: https://freedomwithtruth.com/
+---
+
+
+%% WORKS_LIST_START %%
+
+```datacorejsx
+const { AuthorWorks } = await dc.require('basement/datacore/authors.jsx');
+return function View() {
+    return <AuthorWorks/>
+}
+```
+%% WORKS_LIST_END %%

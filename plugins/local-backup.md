@@ -2,12 +2,10 @@
 aliases:
 - Local Backup
 author:
-- GC Chen
-author_page: https://github.com/cgcel/obsidian-local-backup
+- '[[cgcel|GC Chen]]'
 categories: []
 description: Automatically creates a local backup of the vault.
 downloads: 22224
-funding_page: https://www.buymeacoffee.com/cgcel
 mobile: false
 number: 1102
 title: Local Backup

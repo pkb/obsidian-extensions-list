@@ -2,13 +2,11 @@
 aliases:
 - Quick Preview
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Quickly preview a suggestion before selecting it in link suggestions
   & quick switcher.
 downloads: 4096
-funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1312
 title: Quick Preview

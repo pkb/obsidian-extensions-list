@@ -2,8 +2,7 @@
 aliases:
 - Relative Line Numbers
 author:
-- Nadav Spiegelman
-author_page: https://nadav.is
+- '[[nadavspi|Nadav Spiegelman]]'
 categories: []
 description: Enables relative line numbers in editor mode
 downloads: 70166

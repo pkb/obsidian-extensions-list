@@ -2,8 +2,7 @@
 aliases:
 - Bible Linker
 author:
-- Jakub Kuchejda
-author_page: https://github.com/kuchejak
+- '[[kuchejak|Jakub Kuchejda]]'
 categories: []
 description: Link multiple bible verses easily
 downloads: 12331

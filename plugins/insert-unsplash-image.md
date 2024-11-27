@@ -2,8 +2,7 @@
 aliases:
 - Image Inserter
 author:
-- Ray Hao
-author_page: https://github.com/cloudy9101
+- '[[cloudy9101|Ray Hao]]'
 categories: []
 description: This plugin helps users easily search and insert images to editors from
   Unsplash / Pixabay / Pexels.

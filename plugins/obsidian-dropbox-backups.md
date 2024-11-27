@@ -2,8 +2,7 @@
 aliases:
 - Aut-O-Backups
 author:
-- ryanpcmcquen
-author_page: https://github.com/ryanpcmcquen
+- '[[ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Automated backups to Dropbox for your enjoyment.
 downloads: 9917

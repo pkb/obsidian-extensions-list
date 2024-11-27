@@ -2,13 +2,11 @@
 aliases:
 - brAIn
 author:
-- Luis Sobrecueva
-author_page: https://github.com/lusob
+- '[[lusob|Luis Sobrecueva]]'
 categories: []
 description: This is a brAIn for Obsidian. This plugin implements a ChatGPT retrieval
   for your obsidian notes.
 downloads: 4506
-funding_page: https://bmc.link/lusob
 mobile: false
 number: 939
 title: brAIn

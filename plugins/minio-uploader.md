@@ -2,8 +2,7 @@
 aliases:
 - Minio Uploader
 author:
-- Seebin
-author_page: https://www.seebin.com
+- '[[seebin|Seebin]]'
 categories: []
 description: Upload images, videos, audio, pdf, and other files to Minio OSS.
 downloads: 2859

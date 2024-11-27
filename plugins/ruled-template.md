@@ -2,12 +2,10 @@
 aliases:
 - Ruled template
 author:
-- YPetremann
-author_page: https://obsidian-regex-template.ypetremann.com
+- '[[YPetremann|YPetremann]]'
 categories: []
 description: Select templates automaticaly based on rules at file creation.
 downloads: 3582
-funding_page: https://obsidian-regex-template.ypetremann.com/pricing
 mobile: true
 number: 1025
 title: Ruled template

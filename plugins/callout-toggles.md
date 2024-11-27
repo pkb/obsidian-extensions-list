@@ -2,12 +2,10 @@
 aliases:
 - Callout Toggles
 author:
-- Aly Thobani
-author_page: https://github.com/alythobani/
+- '[[alythobani|Aly Thobani]]'
 categories: []
 description: Quickly add, change, or remove callouts in your notes.
 downloads: 507
-funding_page: https://buymeacoffee.com/alythobani
 mobile: true
 number: 1964
 title: Callout Toggles

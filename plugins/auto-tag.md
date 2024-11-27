@@ -2,8 +2,7 @@
 aliases:
 - Auto Tag
 author:
-- Control Alt
-author_page: https://control-alt.dev/
+- '[[CtrlAltFocus|Control Alt]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Tag Management|Tag Management]]'

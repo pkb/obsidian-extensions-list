@@ -2,8 +2,7 @@
 aliases:
 - Daily Notes Editor
 author:
-- Quorafind
-author_page: https://obsidian.md
+- '[[Quorafind|Quorafind]]'
 categories: []
 description: Edit a bunch of daily notes in one page(inline), which works similar
   to Roam Research's default daily note view.

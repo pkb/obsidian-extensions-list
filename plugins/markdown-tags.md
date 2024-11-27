@@ -2,14 +2,11 @@
 aliases:
 - Markdown Tags
 author:
-- John Smith III
-author_page: https://binarynoir.tech
+- '[[binarynoir|John Smith III]]'
 categories: []
 description: Enhance your documents with custom tags. Use predefined or custom labels,
   customizable colors, and arrow indicators to visually track tasks and statuses.
 downloads: 93
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/binarynoir
 mobile: true
 number: 2025
 title: Markdown Tags

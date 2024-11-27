@@ -2,13 +2,11 @@
 aliases:
 - Emotion Picker
 author:
-- dartungar
-author_page: https://dartungar.com
+- '[[dartungar|dartungar]]'
 categories: []
 description: A plugin for Obsidian.md that lets you choose an emotion from a list
   to insert into a note.
 downloads: 7744
-funding_page: https://www.paypal.com/paypalme/dartungar
 mobile: true
 number: 383
 title: Emotion Picker

@@ -2,13 +2,11 @@
 aliases:
 - Pomodoro Timer
 author:
-- eatgrass
-author_page: https://github.com/eatgrass
+- '[[eatgrass|eatgrass]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: A pomodoro timer that helps manage your daily focus
 downloads: 22930
-funding_page: https://www.buymeacoffee.com/eatgrass
 mobile: true
 number: 1329
 title: Pomodoro Timer

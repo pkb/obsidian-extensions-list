@@ -2,8 +2,7 @@
 aliases:
 - Source Scanner
 author:
-- Gerrie Myburgh
-author_page: https://github.com/gerrie-myburgh
+- '[[gerrie-myburgh|Gerrie Myburgh]]'
 categories: []
 description: Scan java source and test code for comments then place it in md files.
 downloads: 4078

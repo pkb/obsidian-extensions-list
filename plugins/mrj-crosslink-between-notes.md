@@ -2,8 +2,7 @@
 aliases:
 - Add links to current note
 author:
-- MrJackphil
-author_page: https://mrjackphil.com
+- '[[mrjackphil|MrJackphil]]'
 categories: []
 description: This plugin adds a command which allows to add a link to the current
   note at the bottom of selected notes

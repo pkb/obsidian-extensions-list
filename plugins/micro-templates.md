@@ -2,8 +2,7 @@
 aliases:
 - Micro templates
 author:
-- Konstantin Epishev
-author_page: https://epishev.me
+- '[[epszaw|Konstantin Epishev]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Flexible embedded micro templates powered by javascript functions

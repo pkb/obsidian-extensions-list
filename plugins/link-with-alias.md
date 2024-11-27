@@ -2,12 +2,10 @@
 aliases:
 - Link with alias
 author:
-- Pavel Vojtěchovský
-author_page: https://github.com/pvojtechovsky
+- '[[pvojtechovsky|Pavel Vojtěchovský]]'
 categories: []
 description: Creates links and aliases in front matter of target document
 downloads: 6535
-funding_page: https://www.buymeacoffee.com/pavel.knowledge
 mobile: true
 number: 957
 title: Link with alias

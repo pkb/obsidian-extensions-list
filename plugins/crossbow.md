@@ -2,8 +2,7 @@
 aliases:
 - Crossbow
 author:
-- shoedler
-author_page: https://github.com/shoedler
+- '[[shoedler|shoedler]]'
 categories: []
 description: Find possible backlinks in your notes.
 downloads: 6765

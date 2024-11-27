@@ -2,8 +2,7 @@
 aliases:
 - Line Arrange
 author:
-- Chitwan Singh
-author_page: https://github.com/chitwan27
+- '[[chitwan27|Chitwan Singh]]'
 categories: []
 description: Shuffle, reverse, or sort lines, using either visual width or lexical
   order.

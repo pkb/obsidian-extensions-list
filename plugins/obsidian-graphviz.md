@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Graphviz
 author:
-- Feng Peng
-author_page: https://QAMichaelPeng.github.io
+- '[[QAMichaelPeng|Feng Peng]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Graphviz Diagrams

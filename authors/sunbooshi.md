@@ -1,0 +1,18 @@
+---
+aliases:
+- Sun Booshi
+name: Sun Booshi
+type: author
+url: https://sunboshi.tech
+---
+
+
+%% WORKS_LIST_START %%
+
+```datacorejsx
+const { AuthorWorks } = await dc.require('basement/datacore/authors.jsx');
+return function View() {
+    return <AuthorWorks/>
+}
+```
+%% WORKS_LIST_END %%

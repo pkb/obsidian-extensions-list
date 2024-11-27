@@ -2,8 +2,7 @@
 aliases:
 - Super Duper Audio Recorder
 author:
-- Thiago MadPin
-author_page: https://github.com/madpin
+- '[[madpin|Thiago MadPin]]'
 categories: []
 description: Records audio directly, with input device and folder configuration, similar
   to the core one, but better

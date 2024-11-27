@@ -2,8 +2,7 @@
 aliases:
 - Potato Indexer
 author:
-- LoyalPotato
-author_page: https://loyalpotato.com/
+- '[[LoyalPotato|LoyalPotato]]'
 categories: []
 description: Allow generation of a content index based on your selection or of the
   whole file.

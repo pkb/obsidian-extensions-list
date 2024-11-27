@@ -2,8 +2,7 @@
 aliases:
 - Enhance Copy Note
 author:
-- kzhovn
-author_page: https://github.com/kzhovn
+- '[[kzhovn|kzhovn]]'
 categories: []
 description: Augments native Obsidian note copying.
 downloads: 6253

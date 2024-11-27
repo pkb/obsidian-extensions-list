@@ -2,8 +2,7 @@
 aliases:
 - Image2LaTEX
 author:
-- Hugo Persson
-author_page: https://github.com/Hugo-Persson
+- '[[Hugo-Persson|Hugo Persson]]'
 categories: []
 description: Convert your images to Markdown and MathJax
 downloads: 4494

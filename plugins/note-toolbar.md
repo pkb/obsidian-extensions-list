@@ -2,12 +2,10 @@
 aliases:
 - Note Toolbar
 author:
-- Chris Gurney
-author_page: https://chrisgurney.ca
+- '[[chrisgurney|Chris Gurney]]'
 categories: []
 description: Add customizable toolbars to your notes.
 downloads: 39484
-funding_page: https://www.buymeacoffee.com/cheznine
 mobile: true
 number: 1566
 title: Note Toolbar

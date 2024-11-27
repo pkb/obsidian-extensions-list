@@ -2,12 +2,10 @@
 aliases:
 - Pinned Notes
 author:
-- vasilcoin002
-author_page: https://github.com/vasilcoin002
+- '[[vasilcoin002|vasilcoin002]]'
 categories: []
 description: Pin frequently-used notes on Ribbon actions
 downloads: 1263
-funding_page: https://buymeacoffee.com/vasilcoin002
 mobile: false
 number: 1709
 title: Pinned Notes

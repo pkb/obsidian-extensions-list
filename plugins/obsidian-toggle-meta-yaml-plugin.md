@@ -2,8 +2,7 @@
 aliases:
 - Toggle Meta Yaml
 author:
-- hua03
-author_page: https://github.com/hua03
+- '[[hua03|hua03]]'
 categories: []
 description: this is a simple plugin to toggle meta yaml.
 downloads: 7596

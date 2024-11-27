@@ -2,8 +2,7 @@
 aliases:
 - IVRE
 author:
-- The IVRE contributors
-author_page: https://ivre.rocks/
+- '[[ivre|The IVRE contributors]]'
 categories: []
 description: 'IVRE integration for Obsidian: grab data from IVRE and brings it into
   Obsidian notes.'

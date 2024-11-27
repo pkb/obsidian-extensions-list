@@ -2,12 +2,10 @@
 aliases:
 - Daily Prompt
 author:
-- Erl-koenig
-author_page: https://github.com/Erl-koenig
+- '[[Erl-koenig|Erl-koenig]]'
 categories: []
 description: Set up custom prompts and automatically fill them into your daily notes
 downloads: 818
-funding_page: https://www.buymeacoffee.com/erlkoenig
 mobile: true
 number: 1582
 title: Daily Prompt

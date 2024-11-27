@@ -2,8 +2,7 @@
 aliases:
 - Tars
 author:
-- Tarslab
-author_page: https://github.com/tarslab
+- '[[TarsLab|Tarslab]]'
 categories: []
 description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama,
   Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.

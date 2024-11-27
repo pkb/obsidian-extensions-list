@@ -2,13 +2,10 @@
 aliases:
 - Create Task
 author:
-- Simon Knittel
-author_page: https://simonknittel.de
+- '[[simonknittel|Simon Knittel]]'
 categories: []
 description: Create tasks faster from anywhere.
 downloads: 2635
-funding_page:
-  Buy Me A Coffee: https://buymeacoffee.com/simonknittel
 mobile: true
 number: 1369
 title: Create Task

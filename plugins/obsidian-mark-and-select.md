@@ -2,8 +2,7 @@
 aliases:
 - Mark and Select
 author:
-- Yu Wang
-author_page: https://github.com/anselmwang
+- '[[anselmwang|Yu Wang]]'
 categories: []
 description: More flexible ways to select texts in Obsidian Editor
 downloads: 4109

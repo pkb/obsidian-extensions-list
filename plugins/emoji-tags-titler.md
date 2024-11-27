@@ -2,12 +2,10 @@
 aliases:
 - EmoTagsTitler
 author:
-- Cyfine
-author_page: https://github.com/Cyfine
+- '[[Cyfine|Cyfine]]'
 categories: []
 description: Add the emojis contained in the tags to the beginning of the note title.
 downloads: 3751
-funding_page: https://www.buymeacoffee.com/cyfine
 mobile: true
 number: 994
 title: EmoTagsTitler

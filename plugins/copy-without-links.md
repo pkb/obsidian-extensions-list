@@ -2,8 +2,7 @@
 aliases:
 - Strip Internal Links
 author:
-- Adi Ron
-author_page: https://adiron.me
+- '[[adiron|Adi Ron]]'
 categories: []
 description: Strips the selection or current file of internal links and either copies
   to the clipboard, or in-place

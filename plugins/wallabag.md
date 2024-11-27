@@ -2,8 +2,7 @@
 aliases:
 - Wallabag
 author:
-- Hüseyin Zengin
-author_page: https://github.com/huseyz
+- '[[huseyz|Hüseyin Zengin]]'
 categories: []
 description: Sync your Wallabag articles.
 downloads: 4079

@@ -2,8 +2,7 @@
 aliases:
 - Hotkeys Chords
 author:
-- Dario Balboni
-author_page: https://github.com/trenta3
+- '[[trenta3|Dario Balboni]]'
 categories: []
 description: Set hotkeys chords to activate commands
 downloads: 3995

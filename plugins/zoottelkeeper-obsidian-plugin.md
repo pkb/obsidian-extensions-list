@@ -2,9 +2,8 @@
 aliases:
 - Zoottelkeeper Plugin
 author:
-- Akos Balasko
-- Micha Brugger
-author_page: https://github.com/akosbalasko, https://github.com/michabrugger
+- '[[authors/Akos Balasko|Akos Balasko]]'
+- '[[akosbalasko|Micha Brugger]]'
 categories: []
 description: This plugin automatically creates, maintains and tags MOCs for all your
   folders.

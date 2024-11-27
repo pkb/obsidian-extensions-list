@@ -2,8 +2,7 @@
 aliases:
 - Command Alias
 author:
-- yajamon<yajamon.cmnct@gmail.com>
-author_page: https://github.com/yajamon/obsidian-command-alias-plugin
+- '[[yajamon|yajamon<yajamon.cmnct@gmail.com>]]'
 categories: []
 description: This plugin gives aliases to Obsidian commands.
 downloads: 6073

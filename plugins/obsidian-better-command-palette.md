@@ -2,8 +2,7 @@
 aliases:
 - Better Command Palette
 author:
-- Alex Bieg
-author_page: www.github.com/AlexBieg
+- '[[AlexBieg|Alex Bieg]]'
 categories: []
 description: A command palette that does all of the things you want it to do.
 downloads: 30252

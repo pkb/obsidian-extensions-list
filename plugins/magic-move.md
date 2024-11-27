@@ -2,8 +2,7 @@
 aliases:
 - Magic Move
 author:
-- imfenghuang
-author_page: https://github.com/imfenghuang
+- '[[imfenghuang|imfenghuang]]'
 categories: []
 description: Animating code blocks with markdown and code syntax highlighting with
   beautiful themes.

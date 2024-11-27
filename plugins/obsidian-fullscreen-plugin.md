@@ -2,8 +2,7 @@
 aliases:
 - Fullscreen mode plugin
 author:
-- Razum
-author_page: https://github.com/Razumihin
+- '[[Razumihin|Razum]]'
 categories: []
 description: This plugin allows viewing a single document in fullscreen focus mode
 downloads: 34761

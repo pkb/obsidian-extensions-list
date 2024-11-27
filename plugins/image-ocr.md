@@ -2,12 +2,10 @@
 aliases:
 - Image OCR
 author:
-- kaffarell
-author_page: https://github.com/kaffarell
+- '[[kaffarell|kaffarell]]'
 categories: []
 description: Runs OCR on images and copies content in image caption.
 downloads: 5181
-funding_page: ''
 mobile: false
 number: 904
 title: Image OCR

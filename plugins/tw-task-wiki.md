@@ -2,8 +2,7 @@
 aliases:
 - TaskWarrior Task Wiki
 author:
-- SntTGR
-author_page: https://github.com/SntTGR
+- '[[SntTGR|SntTGR]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Wrapper and integration around TaskWarrior. Allows you to view and edit

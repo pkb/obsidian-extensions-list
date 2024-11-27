@@ -2,12 +2,10 @@
 aliases:
 - Note Splitter
 author:
-- DecafDev
-author_page: https://github.com/decaf-dev
+- '[[decaf-dev|DecafDev]]'
 categories: []
 description: Split a note into individual notes based on a delimiter.
 downloads: 1123
-funding_page: https://ko-fi.com/decaf_dev
 mobile: false
 number: 1613
 title: Note Splitter

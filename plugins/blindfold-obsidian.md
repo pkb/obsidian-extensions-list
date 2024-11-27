@@ -2,8 +2,7 @@
 aliases:
 - BlindFold
 author:
-- my99n
-author_page: https://my99n.now.sh
+- '[[vzsky|my99n]]'
 categories: []
 description: Fold text by making it completely hidden.
 downloads: 4267

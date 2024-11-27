@@ -2,8 +2,7 @@
 aliases:
 - Completed Task Display
 author:
-- Ben Lee-Cohen
-author_page: https://github.com/heliostatic/completed-task-display
+- '[[heliostatic|Ben Lee-Cohen]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Provides a button in the ribbon to hide or display completed tasks

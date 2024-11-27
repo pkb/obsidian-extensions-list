@@ -2,8 +2,7 @@
 aliases:
 - Show Current File Path
 author:
-- Ravi Mashru
-author_page: https://ravimashru.dev
+- '[[ravimashru|Ravi Mashru]]'
 categories: []
 description: Show the full path of the currently open file in the status bar
 downloads: 30522

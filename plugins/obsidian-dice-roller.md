@@ -2,8 +2,7 @@
 aliases:
 - Dice Roller
 author:
-- Jeremy Valentine
-author_page: ''
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Inline dice rolling for Obsidian.md
 downloads: 182402

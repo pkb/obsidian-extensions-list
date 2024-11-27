@@ -2,8 +2,7 @@
 aliases:
 - Inline Admonitions
 author:
-- Scott Tomaszewski (Xentis)
-author_page: https://github.com/scottTomaszewski
+- '[[scottTomaszewski|Scott Tomaszewski (Xentis)]]'
 categories: []
 description: Inline callouts to make text pop.
 downloads: 3466

@@ -2,8 +2,7 @@
 aliases:
 - Templated daily notes
 author:
-- digitorum
-author_page: https://github.com/digitorum
+- '[[digitorum|digitorum]]'
 categories: []
 description: Adds the ability to create daily notes with a specified template according
   to the described settings

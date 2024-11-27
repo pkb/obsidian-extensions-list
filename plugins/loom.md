@@ -2,12 +2,10 @@
 aliases:
 - Loom
 author:
-- celeste
-author_page: https://celeste.exposed
+- '[[cosmicoptima|celeste]]'
 categories: []
 description: Loom in Obsidian
 downloads: 5211
-funding_page: https://www.patreon.com/parafactual
 mobile: false
 number: 906
 title: Loom

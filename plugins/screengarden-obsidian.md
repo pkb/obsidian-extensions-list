@@ -2,8 +2,7 @@
 aliases:
 - screen.garden
 author:
-- screen.garden
-author_page: https://screen.garden/
+- '[[screendotgarden|screen.garden]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Collaborate, publish, and work across PKM systems with screen.garden.

@@ -2,8 +2,7 @@
 aliases:
 - Dataview
 author:
-- Michael Brenan <blacksmithgu@gmail.com>
-author_page: https://github.com/blacksmithgu
+- '[[blacksmithgu|Michael Brenan <blacksmithgu@gmail.com>]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Complex data views for the data-obsessed.

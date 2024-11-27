@@ -2,8 +2,7 @@
 aliases:
 - 13th Age Statblocks
 author:
-- Ben Straub
-author_page: https://ben.straub.cc
+- '[[ben|Ben Straub]]'
 categories: []
 description: Render 13th Age statblocks in Obsidian.
 downloads: 4242

@@ -2,8 +2,7 @@
 aliases:
 - Image Toolkit
 author:
-- Xiangru
-author_page: https://github.com/sissilab
+- '[[sissilab|Xiangru]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: This plugin provides some image viewing toolkit.

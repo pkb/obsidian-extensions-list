@@ -2,12 +2,10 @@
 aliases:
 - Filtered Opener
 author:
-- Roman Kubiv
-author_page: https://roman.kubiv.com
+- '[[Balibaloo|Roman Kubiv]]'
 categories: []
 description: Open notes and folders. Chose from sets defined by filters.
 downloads: 2504
-funding_page: https://www.buymeacoffee.com/romankubiv
 mobile: true
 number: 1461
 title: Filtered Opener

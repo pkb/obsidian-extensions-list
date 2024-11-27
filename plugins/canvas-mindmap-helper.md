@@ -2,8 +2,7 @@
 aliases:
 - Canvas Mindmap Helper
 author:
-- Tim Smart
-author_page: https://github.com/tim-smart
+- '[[tim-smart|Tim Smart]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Make the Canvas work like a mindmap

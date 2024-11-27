@@ -2,8 +2,7 @@
 aliases:
 - MTG Card Links
 author:
-- Aedan Smith
-author_page: https://github.com/aedans
+- '[[aedans|Aedan Smith]]'
 categories: []
 description: 'Link to Magic: the Gathering cards by enclosing the card name in square
   brackets.'

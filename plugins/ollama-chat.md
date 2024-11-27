@@ -2,8 +2,7 @@
 aliases:
 - Ollama Chat
 author:
-- brumik
-author_page: https://github.com/brumik
+- '[[brumik|brumik]]'
 categories: []
 description: Chat with your notes with the help of Ollama.
 downloads: 6044

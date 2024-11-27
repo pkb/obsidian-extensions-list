@@ -2,8 +2,7 @@
 aliases:
 - Dashboard navigator
 author:
-- Bernardo Pires
-author_page: https://github.com/drbap
+- '[[drbap|Bernardo Pires]]'
 categories: []
 description: Vault dashboard and navigator. Show recent files by type, files per day,
   week, month, search files by name, date, tags and more.

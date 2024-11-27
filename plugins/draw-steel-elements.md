@@ -2,8 +2,7 @@
 aliases:
 - Draw Steel Elements
 author:
-- Scott Tomaszewski (Xentis)
-author_page: https://github.com/scottTomaszewski
+- '[[SteelCompendium|Scott Tomaszewski (Xentis)]]'
 categories: []
 description: Components to support the Draw Steel TTRPG by MCDM.
 downloads: 379

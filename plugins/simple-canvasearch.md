@@ -2,8 +2,7 @@
 aliases:
 - Simple CanvaSearch
 author:
-- ddalexb
-author_page: https://github.com/ddalexb
+- '[[ddalexb|ddalexb]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 - '[[categories/Canvas|Canvas]]'

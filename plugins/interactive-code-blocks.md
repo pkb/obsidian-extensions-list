@@ -2,8 +2,7 @@
 aliases:
 - Interactive Code Blocks
 author:
-- Team Deeltaken
-author_page: https://github.com/Windesheim-HBO-ICT
+- '[[Windesheim-HBO-ICT|Team Deeltaken]]'
 categories: []
 description: Preview interactive code blocks!
 downloads: 149

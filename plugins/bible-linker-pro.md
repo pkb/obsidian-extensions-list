@@ -2,8 +2,7 @@
 aliases:
 - Bible linker Pro
 author:
-- Floydv149
-author_page: https://floydv.rf.gd
+- '[[Floydv149|Floydv149]]'
 categories: []
 description: Convert Bible texts to JW Library links.
 downloads: 1587

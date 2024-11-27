@@ -2,12 +2,10 @@
 aliases:
 - My Bible
 author:
-- GsLogimaker
-author_page: https://github.com/GsLogiMaker
+- '[[GsLogiMaker|GsLogimaker]]'
 categories: []
 description: Your own customizable markdown bible for your personal vault!
 downloads: 4011
-funding_page: https://www.buymeacoffee.com/gslogimake0
 mobile: true
 number: 1410
 title: My Bible

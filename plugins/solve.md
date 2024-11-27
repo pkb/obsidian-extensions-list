@@ -2,16 +2,12 @@
 aliases:
 - Solve
 author:
-- Liam Riddell
-author_page: https://github.com/LiamRiddell
+- '[[LiamRiddell|Liam Riddell]]'
 categories: []
 description: Supercharge your notes with real-time calculations without AI fuss. From
   dates ('Now + 20 days'), percentages ('10% of 120'), units of measurement ('100cm
   + 2m'), arithmetic ('10 + 5') and more!
 downloads: 14267
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/liamriddell
-  GitHub Sponser: https://github.com/sponsors/LiamRiddell
 mobile: true
 number: 1095
 title: Solve

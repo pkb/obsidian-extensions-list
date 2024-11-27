@@ -2,8 +2,7 @@
 aliases:
 - css snippets
 author:
-- dandandan
-author_page: https://github.com/jdbrice/obsidian-css-snippets
+- '[[jdbrice|dandandan]]'
 categories: []
 description: Load and manage css snippets
 downloads: 16096

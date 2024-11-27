@@ -2,8 +2,7 @@
 aliases:
 - NoteToMP
 author:
-- Sun Booshi
-author_page: https://sunboshi.tech
+- '[[sunbooshi|Sun Booshi]]'
 categories: []
 description: Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect
   preservation of note styles, support code highlighting, line numbers in code, and

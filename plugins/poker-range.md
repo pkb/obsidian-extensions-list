@@ -2,8 +2,7 @@
 aliases:
 - Poker Range
 author:
-- marplek
-author_page: https://github.com/marplek
+- '[[marplek|marplek]]'
 categories: []
 description: Create a poker range grid
 downloads: 68

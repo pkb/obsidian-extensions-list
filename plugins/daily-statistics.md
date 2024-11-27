@@ -2,8 +2,7 @@
 aliases:
 - Daily Statistics
 author:
-- yefengr
-author_page: https://github.com/yefengr
+- '[[yefengr|yefengr]]'
 categories: []
 description: Count the number of words written each day and display it on a calendar.
 downloads: 819

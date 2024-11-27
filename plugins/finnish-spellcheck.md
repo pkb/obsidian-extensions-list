@@ -2,8 +2,7 @@
 aliases:
 - Finnish Spellcheck
 author:
-- Anto Keinänen
-author_page: https://github.com/antoKeinanen
+- '[[antoKeinanen|Anto Keinänen]]'
 categories: []
 description: Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä,
   joka hyödyntää Voikkoa.

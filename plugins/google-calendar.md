@@ -2,13 +2,11 @@
 aliases:
 - Google Calendar
 author:
-- YukiGasai
-author_page: https://github.com/YukiGasai
+- '[[YukiGasai|YukiGasai]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Interact with your Google Calendar from Inside Obsidian
 downloads: 112981
-funding_page: https://ko-fi.com/YukiGasai
 mobile: true
 number: 605
 title: Google Calendar

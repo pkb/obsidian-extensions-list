@@ -2,8 +2,7 @@
 aliases:
 - Cloze
 author:
-- Vikki
-author_page: https://github.com/DearVikki
+- '[[DearVikki|Vikki]]'
 categories: []
 description: Convert highlights, underlines, bolded texts or any selected texts into
   clozes.

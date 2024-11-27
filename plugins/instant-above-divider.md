@@ -2,8 +2,7 @@
 aliases:
 - Instant Above Divider
 author:
-- SedationH
-author_page: https://github.com/sedationh
+- '[[sedationh|SedationH]]'
 categories: []
 description: Quickly insert a divider line at the beginning of your note.
 downloads: 19

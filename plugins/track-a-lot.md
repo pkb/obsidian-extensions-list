@@ -2,13 +2,11 @@
 aliases:
 - Track-a-Lot
 author:
-- Iulian Onofrei
-author_page: https://iulianonofrei.com
+- '[[revolter|Iulian Onofrei]]'
 categories: []
 description: Scrape different webpages, builds lists with the items as Markdown tables,
   and allows you to track their status.
 downloads: 1656
-funding_page: https://paypal.me/IulianOnofrei
 mobile: true
 number: 1469
 title: Track-a-Lot

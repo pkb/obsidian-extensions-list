@@ -2,13 +2,11 @@
 aliases:
 - Tag Page
 author:
-- Matthew Sumpter
-author_page: https://matthewsumpter.org
+- '[[mjsumpter|Matthew Sumpter]]'
 categories: []
 description: Dynamically generate and update tag-specific pages, offering a consolidated
   view of each tag's references across your vault.
 downloads: 6555
-funding_page: https://www.buymeacoffee.com/buymeacofftu
 mobile: true
 number: 1159
 title: Tag Page

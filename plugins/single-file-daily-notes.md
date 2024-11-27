@@ -2,8 +2,7 @@
 aliases:
 - Single File Daily Notes
 author:
-- Pranav Mangal
-author_page: https://mang.al
+- '[[pranavmangal|Pranav Mangal]]'
 categories: []
 description: Create and manage daily notes in a single file.
 downloads: 2483

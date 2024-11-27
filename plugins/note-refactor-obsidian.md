@@ -2,8 +2,7 @@
 aliases:
 - Note Refactor
 author:
-- lynchjames
-author_page: https://github.com/lynchjames
+- '[[authors/lynchjames|lynchjames]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extract note content into new notes and split notes

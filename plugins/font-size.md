@@ -2,14 +2,10 @@
 aliases:
 - Font Size Adjuster
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Adjust font size via commands.
 downloads: 4596
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
-  GitHub Sponsor: https://github.com/sponsors/RyotaUshio
 mobile: true
 number: 1368
 title: Font Size Adjuster

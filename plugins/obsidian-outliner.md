@@ -2,8 +2,7 @@
 aliases:
 - Outliner
 author:
-- Viacheslav Slinko
-author_page: https://github.com/vslinko
+- '[[vslinko|Viacheslav Slinko]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Work with your lists like in Workflowy or RoamResearch.

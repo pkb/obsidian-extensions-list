@@ -2,8 +2,7 @@
 aliases:
 - Graph Analysis
 author:
-- SkepticMystic
-author_page: https://github.com/SkepticMystic/graph-analysis
+- '[[SkepticMystic|SkepticMystic]]'
 categories: []
 description: Analyse your Obsidian graph.
 downloads: 43457

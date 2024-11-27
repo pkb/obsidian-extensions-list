@@ -2,8 +2,7 @@
 aliases:
 - Trash Explorer
 author:
-- Per Mortensen
-author_page: https://permortensen.com
+- '[[proog|Per Mortensen]]'
 categories: []
 description: Restore and delete files from the Obsidian .trash folder
 downloads: 24800

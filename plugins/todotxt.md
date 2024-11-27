@@ -2,8 +2,7 @@
 aliases:
 - TodoTxt
 author:
-- Mark Grimes
-author_page: https://github.com/mvgrimes
+- '[[mvgrimes|Mark Grimes]]'
 categories: []
 description: Manage Todo.txt files.
 downloads: 8415

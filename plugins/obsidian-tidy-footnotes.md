@@ -2,12 +2,10 @@
 aliases:
 - Tidy Footnotes
 author:
-- Charlie Chao
-author_page: https://github.com/charliecm
+- '[[charliecm|Charlie Chao]]'
 categories: []
 description: Tidy your footnotes seamlessly.
 downloads: 15992
-funding_page: https://www.buymeacoffee.com/charliecm
 mobile: true
 number: 164
 title: Tidy Footnotes

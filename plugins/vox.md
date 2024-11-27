@@ -2,8 +2,7 @@
 aliases:
 - Vox
 author:
-- vincentbavitz
-author_page: https://github.com/vincentbavitz
+- '[[vincentbavitz|vincentbavitz]]'
 categories: []
 description: Intelligently trancribe and categorize your voice notes
 downloads: 5209

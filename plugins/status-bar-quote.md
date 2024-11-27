@@ -2,8 +2,7 @@
 aliases:
 - Status Bar Quote
 author:
-- Jinu
-author_page: https://yesjinu.github.io
+- '[[yesjinu|Jinu]]'
 categories: []
 description: Show your favorite quote in obsidian status bar
 downloads: 3970

@@ -2,8 +2,7 @@
 aliases:
 - UNITADE.md
 author:
-- Falcion
-author_page: https://github.com/Falcion/UNITADE.md
+- '[[Falcion|Falcion]]'
 categories: []
 description: Effortlessly treat any file extension as note, organize diverse file
   formats in your vault and take advancements in control of extension system even

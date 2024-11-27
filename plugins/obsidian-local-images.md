@@ -2,9 +2,8 @@
 aliases:
 - Local images
 author:
-- catalysm
-- aleksey-rezvov
-author_page: https://github.com/aleksey-rezvov/obsidian-local-images
+- '[[authors/catalysm|catalysm]]'
+- '[[aleksey-rezvov|aleksey-rezvov]]'
 categories: []
 description: Local Images plugin finds all links to external images in your notes,
   then downloads and saves images locally, and finally adjusts the image links in

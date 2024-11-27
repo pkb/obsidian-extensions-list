@@ -2,12 +2,10 @@
 aliases:
 - Spotify API
 author:
-- Darren-project
-author_page: https://github.com/Darren-project
+- '[[Darren-project|Darren-project]]'
 categories: []
 description: Exposes Spotify API
 downloads: 1940
-funding_page: https://www.buymeacoffee.com/mickeydarrenlau
 mobile: true
 number: 1457
 title: Spotify API

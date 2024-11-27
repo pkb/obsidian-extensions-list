@@ -2,13 +2,10 @@
 aliases:
 - Chat Stream
 author:
-- Ryan P Smith
-author_page: https://github.com/rpggio
+- '[[rpggio|Ryan P Smith]]'
 categories: []
 description: Create branching GPT chats using canvas notes.
 downloads: 7076
-funding_page:
-  Buy Me a Coffee: https://bmc.link/ryanp
 mobile: false
 number: 966
 title: Chat Stream

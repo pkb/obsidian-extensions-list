@@ -2,8 +2,7 @@
 aliases:
 - Material Symbols
 author:
-- Cristoph Berane
-author_page: https://www.berane-it.de
+- '[[cberane|Cristoph Berane]]'
 categories: []
 description: This plugin adds the material symbols (outlined) to obsidian
 downloads: 3877

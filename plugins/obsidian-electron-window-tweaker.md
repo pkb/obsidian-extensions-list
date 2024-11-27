@@ -2,8 +2,7 @@
 aliases:
 - Electron Window Tweaker
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-electron-window-tweaker
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Tweak various Electron window settings.
 downloads: 10385

@@ -2,8 +2,7 @@
 aliases:
 - Omnivore
 author:
-- Omnivore
-author_page: https://github.com/omnivore-app
+- '[[omnivore-app|Omnivore]]'
 categories: []
 description: This is an Omnivore plugin for Obsidian.
 downloads: 121218

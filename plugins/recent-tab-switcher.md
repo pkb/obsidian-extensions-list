@@ -2,12 +2,10 @@
 aliases:
 - Recent Tab Switcher
 author:
-- Samuel Ang
-author_page: https://github.com/samuelrawrs/
+- '[[samuelrawrs|Samuel Ang]]'
 categories: []
 description: Switch to the most recently used tab.
 downloads: 182
-funding_page: https://buymeacoffee.com/samuelrawrs
 mobile: false
 number: 1823
 title: Recent Tab Switcher

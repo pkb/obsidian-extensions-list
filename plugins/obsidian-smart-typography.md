@@ -2,8 +2,7 @@
 aliases:
 - Smart Typography
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-smart-typography
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Converts quotes to curly quotes, dashes to em dashes, and periods to
   ellipses

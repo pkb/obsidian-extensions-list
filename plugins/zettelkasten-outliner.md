@@ -2,8 +2,7 @@
 aliases:
 - Zettelkasten Outliner
 author:
-- Tyler Suzuki Nelson
-author_page: https://www.tylersuzukinelson.com
+- '[[tylersuzukinelson|Tyler Suzuki Nelson]]'
 categories: []
 description: Provides a list representation for your Zettelkasten.
 downloads: 3022

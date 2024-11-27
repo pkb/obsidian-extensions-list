@@ -2,8 +2,7 @@
 aliases:
 - Chesser
 author:
-- SilentVoid
-author_page: https://github.com/SilentVoid13
+- '[[SilentVoid13|SilentVoid]]'
 categories: []
 description: A chess game viewer/editor
 downloads: 9695

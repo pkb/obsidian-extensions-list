@@ -2,8 +2,7 @@
 aliases:
 - AnySocket Sync
 author:
-- Andrei Vaduva
-author_page: https://github.com/lynxaegon
+- '[[lynxaegon|Andrei Vaduva]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Self-Hosted synchronization for you Vault using AnySocket

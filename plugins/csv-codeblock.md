@@ -2,8 +2,7 @@
 aliases:
 - CSV Codeblock
 author:
-- elrindir
-author_page: https://github.com/elrindir/
+- '[[elrindir|elrindir]]'
 categories: []
 description: This is a plugin for Obsidian. This plugin renders codeblocks with csv
   format.

@@ -2,8 +2,7 @@
 aliases:
 - Meal Plan
 author:
-- Tyler Mayoff
-author_page: https://github.com/tmayoff
+- '[[tmayoff|Tyler Mayoff]]'
 categories: []
 description: Store and manage recipes, create weekly meal plans and generate shopping
   lists.

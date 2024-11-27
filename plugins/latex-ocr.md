@@ -2,12 +2,10 @@
 aliases:
 - Latex OCR
 author:
-- Lucas Van Mol
-author_page: github.com/lucasvanmol
+- '[[lucasvanmol|Lucas Van Mol]]'
 categories: []
 description: Generate LaTeX equations from images in your vault or clipboard.
 downloads: 6077
-funding_page: https://www.buymeacoffee.com/lucasvanmol
 mobile: false
 number: 1347
 title: Latex OCR

@@ -2,8 +2,7 @@
 aliases:
 - Mehrmaid
 author:
-- huterguier
-author_page: https://github.com/huterguier
+- '[[huterguier|huterguier]]'
 categories: []
 description: Enables you to put Markdown inside of Mermaid diagrams.
 downloads: 7218

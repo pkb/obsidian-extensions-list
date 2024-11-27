@@ -2,8 +2,7 @@
 aliases:
 - Voicenotes Sync
 author:
-- Andrew Lombardi
-author_page: https://mysticcoders.com
+- '[[mysticcoders|Andrew Lombardi]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize your notes from Voicenotes.com

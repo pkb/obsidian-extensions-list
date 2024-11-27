@@ -2,8 +2,7 @@
 aliases:
 - Itinerary
 author:
-- Adam Coddington <me@adamcoddington.net>
-author_page: https://coddingtonbear.net/
+- '[[coddingtonbear|Adam Coddington <me@adamcoddington.net>]]'
 categories: []
 description: Make planning your trip or event easier by rendering a calendar from
   event information found in your notes.

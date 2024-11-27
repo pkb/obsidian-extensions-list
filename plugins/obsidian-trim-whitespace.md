@@ -2,8 +2,7 @@
 aliases:
 - Trim Whitespace
 author:
-- zlovatt
-author_page: https://github.com/zlovatt
+- '[[zlovatt|zlovatt]]'
 categories: []
 description: Trims unnecessary whitespace from your Obsidian documents
 downloads: 8454

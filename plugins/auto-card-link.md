@@ -2,8 +2,7 @@
 aliases:
 - Auto Card Link
 author:
-- Nekoshita Yuki
-author_page: https://github.com/nekoshita
+- '[[nekoshita|Nekoshita Yuki]]'
 categories: []
 description: Automatically fetches metadata from a url and makes it as a card-styled
   link

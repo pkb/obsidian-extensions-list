@@ -2,14 +2,12 @@
 aliases:
 - Just Share Please
 author:
-- Ellpeck
-author_page: https://ellpeck.de
+- '[[Ellpeck|Ellpeck]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily share individual notes online using an anonymized
   link. Also easy to self-host!
 downloads: 3594
-funding_page: https://ellpeck.de/support
 mobile: true
 number: 1138
 title: Just Share Please

@@ -2,8 +2,7 @@
 aliases:
 - Codeblock Template
 author:
-- Super10
-author_page: https://github.com/sylcool
+- '[[sylcool|Super10]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Re-use content within codeblocks using variables.

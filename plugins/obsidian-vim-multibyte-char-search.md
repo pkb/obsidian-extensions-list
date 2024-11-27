@@ -2,8 +2,7 @@
 aliases:
 - Vim Multibyte Char Search
 author:
-- Yu Wang
-author_page: https://github.com/anselmwang
+- '[[anselmwang|Yu Wang]]'
 categories: []
 description: Search multibyte characters by the first character of corresponding ASCII
   encoding of input method. For example, for Chinese, search by the first character

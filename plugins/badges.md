@@ -2,8 +2,7 @@
 aliases:
 - Badges
 author:
-- '@gapmiss'
-author_page: https://github.com/gapmiss
+- '[[gapmiss|@gapmiss]]'
 categories: []
 description: Add inline badges/callouts to notes.
 downloads: 7849

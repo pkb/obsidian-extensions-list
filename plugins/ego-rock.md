@@ -2,8 +2,7 @@
 aliases:
 - Ego Rock
 author:
-- Ashton Eby
-author_page: https://blog.echobravoyahoo.net
+- '[[echo-bravo-yahoo|Ashton Eby]]'
 categories: []
 description: A basic taskwarrior UI for listing and modifying tasks.
 downloads: 3285

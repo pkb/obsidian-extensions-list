@@ -2,8 +2,7 @@
 aliases:
 - Packrat
 author:
-- Thomas Herden
-author_page: https://github.com/therden
+- '[[therden|Thomas Herden]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Process completed recurring Tasks

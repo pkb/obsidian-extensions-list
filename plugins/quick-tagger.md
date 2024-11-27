@@ -2,8 +2,7 @@
 aliases:
 - Quick Tagger
 author:
-- Gorkycreator
-author_page: https://warneranimation.com/
+- '[[Gorkycreator|Gorkycreator]]'
 categories: []
 description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated
   buttons/commands for your favorites!

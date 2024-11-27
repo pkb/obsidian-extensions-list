@@ -2,8 +2,7 @@
 aliases:
 - Source Code Note
 author:
-- Waiting
-author_page: https://github.com/waiting0324
+- '[[waiting0324|Waiting]]'
 categories: []
 description: This plugin can help you organize source code note easily.
 downloads: 3621

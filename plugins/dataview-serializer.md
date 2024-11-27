@@ -2,13 +2,11 @@
 aliases:
 - Dataview Serializer
 author:
-- Sébastien Dubois
-author_page: https://dsebastien.net
+- '[[dsebastien|Sébastien Dubois]]'
 categories: []
 description: Serialize Dataview queries to Markdown, and keep the Markdown representation
   up to date.
 downloads: 1849
-funding_page: https://www.buymeacoffee.com/dsebastien
 mobile: true
 number: 1747
 title: Dataview Serializer

@@ -2,8 +2,7 @@
 aliases:
 - Link Archive
 author:
-- Tamás Deme - @tomzorz_
-author_page: https://tomzorz.me
+- '[[tomzorz|Tamás Deme - @tomzorz_]]'
 categories: []
 description: This plugin archives links in your note so they're available to you even
   if the original site goes down or gets removed.

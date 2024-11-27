@@ -2,12 +2,10 @@
 aliases:
 - Note Reviewer
 author:
-- Travis Linkey
-author_page: https://github.com/TravisLinkey
+- '[[TravisLinkey|Travis Linkey]]'
 categories: []
 description: Help knowledge retention by reviewing and filtering notes.
 downloads: 182
-funding_page: https://www.buymeacoffee.com/travislinkey
 mobile: true
 number: 1856
 title: Note Reviewer

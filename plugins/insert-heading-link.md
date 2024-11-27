@@ -2,8 +2,7 @@
 aliases:
 - Insert Heading Link
 author:
-- Signynt
-author_page: https://github.com/Signynt
+- '[[Signynt|Signynt]]'
 categories: []
 description: Add a Link to a Heading
 downloads: 4565

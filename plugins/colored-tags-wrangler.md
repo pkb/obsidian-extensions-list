@@ -2,12 +2,10 @@
 aliases:
 - Colored Tags Wrangler
 author:
-- AndreasSasDev
-author_page: https://github.com/AndreasSas
+- '[[code-of-chaos|AndreasSasDev]]'
 categories: []
 description: Assign colors to tags. Has integrations with other plugins, like Kanban.
 downloads: 17507
-funding_page: https://ko-fi.com/andreassasdev
 mobile: true
 number: 1272
 title: Colored Tags Wrangler

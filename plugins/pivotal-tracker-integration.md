@@ -2,13 +2,11 @@
 aliases:
 - Pivotal Tracker Integration
 author:
-- Jon Deates
-author_page: https://github.com/JonnyDeates
+- '[[jonnydeates|Jon Deates]]'
 categories: []
 description: This is an unofficial pivotal tracker integration plugin for Obsidian.
   This plugin allows the user to pull stories, chores, bugs from their pivotal counterpart.
 downloads: 3224
-funding_page: https://www.buymeacoffee.com/jondeates
 mobile: true
 number: 897
 title: Pivotal Tracker Integration

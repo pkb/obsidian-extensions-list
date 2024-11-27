@@ -2,8 +2,7 @@
 aliases:
 - Ctrl-XA cycle various items
 author:
-- Nicolas BOSSARD
-author_page: https://github.com/nbossard
+- '[[nbossard|Nicolas BOSSARD]]'
 categories: []
 description: Cycle through various items with keyboard shortcuts. Such as days, months,
   log level,... anything you need.

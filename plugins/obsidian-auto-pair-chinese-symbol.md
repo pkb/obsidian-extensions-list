@@ -2,8 +2,7 @@
 aliases:
 - Auto pair chinese symbol
 author:
-- renmu123
-author_page: https://github.com/renmu123/obsidian-auto-pair-chinese-symbol
+- '[[renmu123|renmu123]]'
 categories: []
 description: Auto pair chinese symbol
 downloads: 10734

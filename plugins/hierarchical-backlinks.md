@@ -2,12 +2,10 @@
 aliases:
 - Hierarchical Backlinks
 author:
-- Jason Motylinski
-author_page: https://jason.motylinski.com
+- '[[jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays backlinks in a hierarchy
 downloads: 211
-funding_page: https://www.buymeacoffee.com/jasonmotylinski
 mobile: true
 number: 1977
 title: Hierarchical Backlinks

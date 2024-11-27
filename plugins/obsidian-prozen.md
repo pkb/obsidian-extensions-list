@@ -2,8 +2,7 @@
 aliases:
 - ProZen
 author:
-- Moskvitin
-author_page: https://moskvit.in
+- '[[cmoskvitin|Moskvitin]]'
 categories: []
 description: Enter Zen mode to focus on writing. The plugin expands current tab to
   full screen removing everything but content.

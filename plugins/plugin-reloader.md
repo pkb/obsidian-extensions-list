@@ -2,15 +2,10 @@
 aliases:
 - Plugin Reloader
 author:
-- Benature
-author_page: https://github.com/Benature
+- '[[Benature|Benature]]'
 categories: []
 description: Manually reload plugins.
 downloads: 1796
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/benature
-  微信/支付宝: https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png
-  爱发电: https://afdian.net/a/Benature-K
 mobile: true
 number: 1468
 title: Plugin Reloader

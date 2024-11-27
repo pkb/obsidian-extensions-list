@@ -2,8 +2,7 @@
 aliases:
 - Self-hosted LiveSync
 author:
-- vorotamoroz
-author_page: https://github.com/vrtmrz
+- '[[vrtmrz|vorotamoroz]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Community implementation of self-hosted livesync. Reflect your vault

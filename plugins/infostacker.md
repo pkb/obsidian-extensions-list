@@ -2,10 +2,9 @@
 aliases:
 - Infostacker Note Publish
 author:
-- Taskscape LTD
-- Patryk Nowak
-- Kacper Pabianiak
-author_page: https://infostacker.com/
+- '[[authors/taskscape|Taskscape LTD]]'
+- '[[authors/Patryk Nowak|Patryk Nowak]]'
+- '[[authors/taskscape|Kacper Pabianiak]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Easily share your notes, images and attachments publicly using private

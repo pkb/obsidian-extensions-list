@@ -2,8 +2,7 @@
 aliases:
 - KOReader Highlights
 author:
-- Federico "Edo" Granata
-author_page: https://federicogranata.dev
+- '[[Edo78|Federico "Edo" Granata]]'
 categories: []
 description: This is a plugin for Obsidian. This plugin syncs highlights and notes
   taken in KOReader.

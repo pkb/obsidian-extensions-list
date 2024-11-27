@@ -2,8 +2,7 @@
 aliases:
 - Image Upload Toolkit
 author:
-- Addo Zhang
-author_page: https://atbug.com
+- '[[addozhang|Addo Zhang]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'

@@ -2,8 +2,7 @@
 aliases:
 - Kindle
 author:
-- Simeon Stanek
-author_page: https://github.com/SimeonLukas
+- '[[SimeonLukas|Simeon Stanek]]'
 categories: []
 description: Send .md as .epub to Ereader/Kindle/Pocketbook
 downloads: 8059

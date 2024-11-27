@@ -2,8 +2,7 @@
 aliases:
 - TagMany
 author:
-- Joshua Martius
-author_page: https://fngt.nl/joshua
+- '[[joshua-martius|Joshua Martius]]'
 categories: []
 description: Add the same tag(s) to multiple notes in a folder (optionally including
   subfolders) at once.

@@ -2,8 +2,7 @@
 aliases:
 - Open in other editor
 author:
-- yekingyan
-author_page: https://github.com/yekingyan/obsidian-open-in-other-editor
+- '[[yekingyan|yekingyan]]'
 categories: []
 description: Open current active file in gVim or VScode.
 downloads: 5657

@@ -2,8 +2,7 @@
 aliases:
 - Shrink pinned tabs
 author:
-- Nicolas Lœuillet
-author_page: https://nicolas.loeuillet.org
+- '[[nicosomb|Nicolas Lœuillet]]'
 categories: []
 description: Shrinks pinned tabs to save screen space.
 downloads: 805

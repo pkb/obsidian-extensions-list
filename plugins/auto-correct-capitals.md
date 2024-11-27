@@ -2,8 +2,7 @@
 aliases:
 - Auto Correct Capitals Misspellings
 author:
-- Ummel
-author_page: https://github.com/Ummler
+- '[[Ummler|Ummel]]'
 categories: []
 description: Automatically correct words with the first two letters in uppercase.
 downloads: 816

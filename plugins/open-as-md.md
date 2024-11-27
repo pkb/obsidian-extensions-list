@@ -2,8 +2,7 @@
 aliases:
 - open-as-md
 author:
-- kursad-k
-author_page: https://github.com/kursad-k
+- '[[kursad-k|kursad-k]]'
 categories: []
 description: Edit non-md file types as markdown files
 downloads: 2432

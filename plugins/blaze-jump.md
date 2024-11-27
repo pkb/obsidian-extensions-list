@@ -2,14 +2,10 @@
 aliases:
 - BlazeJump
 author:
-- henryco
-author_page: https://github.com/henryco
+- '[[henryco|henryco]]'
 categories: []
 description: Navigate through text at blazing speed.
 downloads: 61
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/henrycoxd
-  GitHub Sponsor: https://github.com/sponsors/henryco
 mobile: false
 number: 2013
 title: BlazeJump

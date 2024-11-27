@@ -1,8 +1,8 @@
 ---
 aliases:
 - Page Heading From Links
-author: beet
-author_page: https://github.com/beet
+author:
+- '[[authors/beet|beet]]'
 categories: []
 description: Inserts a heading into blank pages from the filename
 downloads: 6571

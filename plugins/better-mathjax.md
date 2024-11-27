@@ -2,12 +2,10 @@
 aliases:
 - Better MathJax
 author:
-- GreasyCat
-author_page: https://github.com/greasycat
+- '[[greasycat|GreasyCat]]'
 categories: []
 description: Provide math autocompletion and customizable snippets.
 downloads: 6305
-funding_page: https://www.buymeacoffee.com/greasycat
 mobile: true
 number: 937
 title: Better MathJax

@@ -2,8 +2,7 @@
 aliases:
 - Readavocado Sync
 author:
-- Cyrus Zhang
-author_page: https://readavocado.com
+- '[[innneang|Cyrus Zhang]]'
 categories: []
 description: Sync your Readavocado highlights with Obsidian
 downloads: 3301

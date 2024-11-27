@@ -2,8 +2,7 @@
 aliases:
 - Session Notes
 author:
-- tabibyte
-author_page: https://github.com/tabibyte
+- '[[tabibyte|tabibyte]]'
 categories: []
 description: Create temporary session or one-off notes
 downloads: 72

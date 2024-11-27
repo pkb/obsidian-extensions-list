@@ -2,15 +2,12 @@
 aliases:
 - Vertical Tabs
 author:
-- oxdc
-author_page: https://github.com/oxdc
+- '[[oxdc|oxdc]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Offer an alternative view that displays open tabs vertically, allowing
   users to group and organize tabs for a better navigation experience.
 downloads: 9932
-funding_page:
-  Ko-fi: https://ko-fi.com/oxdcq
 mobile: true
 number: 1831
 title: Vertical Tabs

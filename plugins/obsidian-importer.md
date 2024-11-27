@@ -2,8 +2,7 @@
 aliases:
 - Importer
 author:
-- Obsidian
-author_page: https://obsidian.md
+- '[[obsidianmd|Obsidian]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google

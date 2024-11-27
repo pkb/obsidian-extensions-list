@@ -2,8 +2,7 @@
 aliases:
 - Activity Heatmap
 author:
-- Zak Hijaouy
-author_page: https://github.com/zakhij
+- '[[zakhij|Zak Hijaouy]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: Tracks and visualizes app activity, similar to GitHub's contribution

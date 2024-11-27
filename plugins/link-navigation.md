@@ -2,8 +2,7 @@
 aliases:
 - Link Navigation
 author:
-- xRyul
-author_page: https://github.com/xryul
+- '[[xRyul|xRyul]]'
 categories: []
 description: Navigate between incoming links (inlinks), outgoing links (outlinks)
   N levels deep. Links from Canvas are also supported.

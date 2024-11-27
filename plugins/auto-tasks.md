@@ -2,8 +2,7 @@
 aliases:
 - Auto Tasks
 author:
-- Jamie Hurst
-author_page: https://jamiehurst.co.uk
+- '[[jamiefdhurst|Jamie Hurst]]'
 categories: []
 description: Combine periodic notes with tags and tasks to automatically manage your
   daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins.

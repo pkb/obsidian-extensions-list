@@ -2,12 +2,10 @@
 aliases:
 - Slurp
 author:
-- inhumantsar
-author_page: https://github.com/inhumantsar
+- '[[inhumantsar|inhumantsar]]'
 categories: []
 description: Slurps webpages and saves them as clean, uncluttered Markdown.
 downloads: 8741
-funding_page: https://ko-fi.com/inhumantsar
 mobile: true
 number: 1569
 title: Slurp

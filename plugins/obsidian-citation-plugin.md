@@ -2,8 +2,7 @@
 aliases:
 - Citations
 author:
-- Jon Gauthier
-author_page: http://foldl.me
+- '[[hans|Jon Gauthier]]'
 categories: []
 description: Automatically search and insert citations from a Zotero library
 downloads: 174001

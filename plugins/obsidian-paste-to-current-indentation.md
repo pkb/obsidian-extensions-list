@@ -2,8 +2,7 @@
 aliases:
 - Paste Mode
 author:
-- Jacob Levernier
-author_page: https://github.com/jglev/obsidian-paste-to-current-indentation
+- '[[jglev|Jacob Levernier]]'
 categories: []
 description: Paste content and mark block quotes at any level of indentation.
 downloads: 14777

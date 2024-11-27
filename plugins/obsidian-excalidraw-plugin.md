@@ -2,13 +2,11 @@
 aliases:
 - Excalidraw
 author:
-- Zsolt Viczian
-author_page: https://www.zsolt.blog
+- '[[zsviczian|Zsolt Viczian]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: An Obsidian plugin to edit and view Excalidraw drawings
 downloads: 3000915
-funding_page: https://ko-fi.com/zsolt
 mobile: true
 number: 156
 title: Excalidraw

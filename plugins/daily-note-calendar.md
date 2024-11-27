@@ -2,8 +2,7 @@
 aliases:
 - Daily notes calendar
 author:
-- bartkessels
-author_page: https://bartkessels.net
+- '[[bartkessels|bartkessels]]'
 categories: []
 description: Navigate to your weekly- and daily-notes using a calendar view.
 downloads: 537

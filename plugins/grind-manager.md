@@ -2,13 +2,11 @@
 aliases:
 - Gamified Tasks
 author:
-- dromse
-author_page: https://github.com/dromse
+- '[[dromse|dromse]]'
 categories: []
 description: Gamify your task management with rewards system, craft your tasks by
   tags.
 downloads: 2870
-funding_page: https://ko-fi.com/dromse
 mobile: true
 number: 1574
 title: Gamified Tasks

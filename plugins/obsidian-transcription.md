@@ -2,8 +2,7 @@
 aliases:
 - Transcription
 author:
-- djmango
-author_page: https://github.com/djmango
+- '[[djmango|djmango]]'
 categories: []
 description: Transcription 3.0, now with Swiftink.io domain-aware speech-to-text!
   Create high-quality text transcriptions from any media file, on any device. Best-in-class

@@ -2,8 +2,7 @@
 aliases:
 - Fastimer
 author:
-- vkostyanetsky
-author_page: https://github.com/vkostyanetsky
+- '[[vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Intermittent fasting tracker.
 downloads: 1458

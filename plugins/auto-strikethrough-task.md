@@ -2,8 +2,7 @@
 aliases:
 - Auto Strikethrough Tasks
 author:
-- Nomekuma
-author_page: https://github.com/Nomekuma
+- '[[Nomekuma|Nomekuma]]'
 categories: []
 description: Automatically adds strikethrough to completed tasks.
 downloads: 156

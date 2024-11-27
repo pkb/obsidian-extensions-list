@@ -2,8 +2,7 @@
 aliases:
 - Diagrams.net
 author:
-- Jens M Gleditsch
-author_page: https://github.com/jensmtg
+- '[[jensmtg|Jens M Gleditsch]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net

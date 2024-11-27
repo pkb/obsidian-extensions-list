@@ -2,8 +2,7 @@
 aliases:
 - Select word
 author:
-- Connor Espino
-author_page: https://github.com/ConnorEspino
+- '[[ConnorEspino|Connor Espino]]'
 categories: []
 description: Selects the word that is closest to the caret.
 downloads: 182

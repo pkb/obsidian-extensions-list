@@ -2,8 +2,7 @@
 aliases:
 - Birthday-Tracker
 author:
-- Marius Wörfel
-author_page: https://github.com/Raboro
+- '[[Raboro|Marius Wörfel]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all birthdays of your family and friends.

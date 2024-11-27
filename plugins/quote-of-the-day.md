@@ -2,8 +2,7 @@
 aliases:
 - Quote of the Day
 author:
-- Florin Bobis
-author_page: https://florin.page
+- '[[twentytwokhz|Florin Bobis]]'
 categories: []
 description: Inserts random quotes in the editor
 downloads: 10940

@@ -2,8 +2,7 @@
 aliases:
 - YouVersion Linker
 author:
-- jaanonim
-author_page: https://jaanonim.github.io/
+- '[[jaanonim|jaanonim]]'
 categories: []
 description: Automatically link bible verses in your notes to YouVersion bible.
 downloads: 6410

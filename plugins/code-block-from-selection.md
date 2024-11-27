@@ -2,8 +2,7 @@
 aliases:
 - Code block from selection
 author:
-- Dmitry Savosh
-author_page: https://github.com/dy-sh/
+- '[[dy-sh|Dmitry Savosh]]'
 categories: []
 description: Adds code block for the selected text
 downloads: 10380

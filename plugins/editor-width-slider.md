@@ -2,13 +2,11 @@
 aliases:
 - Editor Width Slider
 author:
-- '@MugishoMp'
-author_page: https://github.com/MugishoMp
+- '[[MugishoMp|@MugishoMp]]'
 categories: []
 description: Customize Obsidian's editor width with a slider for a tailored editing
   experience.
 downloads: 24467
-funding_page: https://www.paypal.com/donate/?hosted_button_id=E4APAMMHVJE4N
 mobile: false
 number: 991
 title: Editor Width Slider

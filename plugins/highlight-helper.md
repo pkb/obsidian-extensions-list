@@ -2,12 +2,10 @@
 aliases:
 - Highlight Helper
 author:
-- Chongmyung Park
-author_page: https://github.com/byfun/
+- '[[byfun|Chongmyung Park]]'
 categories: []
 description: Helper to copy and paste highlights
 downloads: 2202
-funding_page: https://ko-fi.com/byfun
 mobile: true
 number: 1334
 title: Highlight Helper

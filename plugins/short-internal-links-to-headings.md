@@ -2,8 +2,7 @@
 aliases:
 - Short links
 author:
-- Scott Moore
-author_page: https://github.com/scottwillmoore
+- '[[scottwillmoore|Scott Moore]]'
 categories: []
 description: An Obsidian plugin to display short internal links.
 downloads: 10450

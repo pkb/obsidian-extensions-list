@@ -2,8 +2,7 @@
 aliases:
 - Sync config folder to common folder
 author:
-- codeonquer
-author_page: https://github.com/codeonquer
+- '[[codeonquer|codeonquer]]'
 categories: []
 description: Sync contents from config folder to common folder for backup or other
   purposes

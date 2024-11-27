@@ -2,8 +2,7 @@
 aliases:
 - Adjacency Matrix Maker
 author:
-- SkepticMystic
-author_page: https://github.com/SkepticMystic/adjacency-matrix-maker
+- '[[SkepticMystic|SkepticMystic]]'
 categories: []
 description: Create an interactive image of an adjacency matrix of your vault
 downloads: 5682

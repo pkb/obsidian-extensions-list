@@ -2,8 +2,7 @@
 aliases:
 - Matter
 author:
-- Matter
-author_page: https://hq.getmatter.app
+- '[[getmatterapp|Matter]]'
 categories: []
 description: The official Matter <> Obsidian plugin
 downloads: 19140

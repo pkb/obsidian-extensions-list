@@ -2,8 +2,7 @@
 aliases:
 - Scroll to Top
 author:
-- cloudhao1999
-author_page: https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin
+- '[[cloudhao1999|cloudhao1999]]'
 categories: []
 description: This is a plugin for Obsidian that adds a button to scroll to the top
   of the current note.

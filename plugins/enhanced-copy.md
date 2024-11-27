@@ -2,14 +2,12 @@
 aliases:
 - Enhanced Copy
 author:
-- Mara-Li
-author_page: https://github.com/Mara-Li
+- '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Copy your selection and add it some edit to paste in other markdown software.
   Allows to keep markdown in reading view, removing wikilinks in editing, copy from
   locked canvas, and more!
 downloads: 3267
-funding_page: https://ko-fi.com/Mara__Li
 mobile: true
 number: 1591
 title: Enhanced Copy

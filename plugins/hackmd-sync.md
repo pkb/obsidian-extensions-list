@@ -2,8 +2,7 @@
 aliases:
 - HackMD Sync
 author:
-- Thor Kampefner
-author_page: https://github.com/thor314
+- '[[thor314|Thor Kampefner]]'
 categories: []
 description: An interface to upload notes to and from HackMD
 downloads: 38

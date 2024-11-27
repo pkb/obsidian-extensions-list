@@ -2,8 +2,7 @@
 aliases:
 - Nextcloud Link Fixer
 author:
-- KaelLarkin
-author_page: https://kaels-kabbage.com
+- '[[KFreon|KaelLarkin]]'
 categories: []
 description: Nextcloud breaks Wiki-links (e.g. [[Some document]]). This fixes them.
 downloads: 210

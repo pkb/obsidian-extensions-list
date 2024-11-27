@@ -2,8 +2,7 @@
 aliases:
 - Remove HTML Tag
 author:
-- ChenPengyuan
-author_page: https://github.com/gitcpy
+- '[[gitcpy|ChenPengyuan]]'
 categories: []
 description: Remove HTML tag in Markdown file
 downloads: 156

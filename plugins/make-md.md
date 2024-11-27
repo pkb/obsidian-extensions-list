@@ -2,8 +2,7 @@
 aliases:
 - MAKE.md
 author:
-- MAKE.md
-author_page: https://www.make.md
+- '[[Make-md|MAKE.md]]'
 categories: []
 description: Make.md brings powerful and modern note-taking features to Obsidian.
   Capture, organize and connect information with more flexibility without any code.

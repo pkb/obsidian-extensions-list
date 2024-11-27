@@ -2,8 +2,7 @@
 aliases:
 - Substitutions
 author:
-- BambusControl
-author_page: https://github.com/BambusControl
+- '[[BambusControl|BambusControl]]'
 categories: []
 description: Automatically replace text fragments with symbols or different text
 downloads: 931

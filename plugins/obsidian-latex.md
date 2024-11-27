@@ -2,8 +2,7 @@
 aliases:
 - Extended MathJax
 author:
-- Xavier Denis & Ng Wei En
-author_page: https://github.com/wei2912/obsidian-latex
+- '[[wei2912|Xavier Denis & Ng Wei En]]'
 categories: []
 description: Adds support for a MathJax preamble and enables additional MathJax extensions
   for specific domains (chemistry, proofs).

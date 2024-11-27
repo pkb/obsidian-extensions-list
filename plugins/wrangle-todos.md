@@ -2,8 +2,7 @@
 aliases:
 - TODO Wrangler
 author:
-- Jeel Shah
-author_page: https://jeelshah.com
+- '[[jeel-shah|Jeel Shah]]'
 categories: []
 description: Wrangles your TODOs and puts them at the bottom of the file.
 downloads: 3169

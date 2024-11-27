@@ -2,8 +2,7 @@
 aliases:
 - ReClipped Official
 author:
-- ReClipped
-author_page: https://reclipped.com
+- '[[tech-reclipped|ReClipped]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official ReClipped and Obsidian integration

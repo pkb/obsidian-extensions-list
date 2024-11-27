@@ -2,15 +2,10 @@
 aliases:
 - Livecodes Playground
 author:
-- '@gapmiss'
-author_page: https://github.com/gapmiss
+- '[[gapmiss|@gapmiss]]'
 categories: []
 description: Client-side code editor playground - Powered by LiveCodes
 downloads: 960
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/gapmiss
-  Github Sponsors: https://github.com/sponsors/gapmiss
-  Ko-Fi: https://ko-fi.com/gapmiss
 mobile: true
 number: 1560
 title: Livecodes Playground

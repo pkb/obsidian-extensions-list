@@ -2,8 +2,7 @@
 aliases:
 - AnkiBridge
 author:
-- Jeppe Klitgaard
-author_page: https://jeppe.science
+- '[[JeppeKlitgaard|Jeppe Klitgaard]]'
 categories: []
 description: Yet Another Anki Bridge
 downloads: 6504

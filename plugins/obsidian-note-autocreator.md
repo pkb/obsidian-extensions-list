@@ -2,8 +2,7 @@
 aliases:
 - Note Auto Creator
 author:
-- Simon T. Clement
-author_page: https://github.com/SimonTC
+- '[[SimonTC|Simon T. Clement]]'
 categories: []
 description: Automatically create notes when links are created to them.
 downloads: 10884

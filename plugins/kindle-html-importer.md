@@ -2,8 +2,7 @@
 aliases:
 - Kindle Highlights Importer
 author:
-- MovingMillennial
-author_page: https://movingmillennial.de
+- '[[l2xu|MovingMillennial]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'

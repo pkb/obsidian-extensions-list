@@ -2,8 +2,7 @@
 aliases:
 - Pieces for Developers
 author:
-- Pieces For Developers
-author_page: https://pieces.app
+- '[[pieces-app|Pieces For Developers]]'
 categories: []
 description: 'Streamline your coding workflow in Obsidian with the Pieces For Developers
   plugin, offering powerful features for capturing, managing, translating, and enhancing

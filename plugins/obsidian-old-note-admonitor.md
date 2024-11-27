@@ -2,8 +2,7 @@
 aliases:
 - Old Note Admonitor
 author:
-- tadashi-aikawa
-author_page: https://github.com/tadashi-aikawa
+- '[[tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: This Obsidian plugin shows warnings if the note has not been updated
   in the last specific days

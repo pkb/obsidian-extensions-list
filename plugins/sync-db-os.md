@@ -2,8 +2,7 @@
 aliases:
 - sync-db-os
 author:
-- ketd
-author_page: https://github.com/ketd
+- '[[ketd|ketd]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: For synchronization between multiple platforms

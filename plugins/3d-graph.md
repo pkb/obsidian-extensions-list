@@ -2,8 +2,7 @@
 aliases:
 - 3D Graph
 author:
-- Alexander Weichart
-author_page: https://github.com/AlexW00
+- '[[AlexW00|Alexander Weichart]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian

@@ -2,12 +2,10 @@
 aliases:
 - Password Protect
 author:
-- Aspharmyx
-author_page: https://github.com/Aspharmyx
+- '[[Aspharmyx|Aspharmyx]]'
 categories: []
 description: Password protect your notes.
 downloads: 1672
-funding_page: https://www.buymeacoffee.com/aspharmyx
 mobile: true
 number: 1534
 title: Password Protect

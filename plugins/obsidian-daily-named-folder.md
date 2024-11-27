@@ -2,8 +2,7 @@
 aliases:
 - Daily Named Folder
 author:
-- Nemo Andrea
-author_page: http://nemoandrea.github.io/
+- '[[NemoAndrea|Nemo Andrea]]'
 categories: []
 description: Like daily notes, but nested in a named daily folder. Better for attachment
   management. Includes more flexible naming.

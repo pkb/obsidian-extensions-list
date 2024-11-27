@@ -2,13 +2,11 @@
 aliases:
 - Live Variables
 author:
-- Hamza Ben Yazid
-author_page: https://github.com/HamzaBenyazid
+- '[[HamzaBenyazid|Hamza Ben Yazid]]'
 categories: []
 description: Define variables in your note's properties and reuse them throughout
   your content.
 downloads: 1082
-funding_page: ' https://github.com/sponsors/HamzaBenyazid'
 mobile: true
 number: 1871
 title: Live Variables

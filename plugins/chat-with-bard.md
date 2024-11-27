@@ -2,8 +2,7 @@
 aliases:
 - Gemini AI Assistant
 author:
-- Artel250
-author_page: https://github.com/Artel250
+- '[[Artel250|Artel250]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use Google Gemini directly in obsidian for free.

@@ -2,8 +2,7 @@
 aliases:
 - ClickUp sync
 author:
-- Khokim Mamarasulov
-author_page: https://github.com/hokim-m/
+- '[[hokim-m|Khokim Mamarasulov]]'
 categories: []
 description: Manage ClickUp space from notes
 downloads: 612

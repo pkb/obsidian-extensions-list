@@ -2,8 +2,7 @@
 aliases:
 - Snippets plugin
 author:
-- Pelao
-author_page: https://cristianvasquez.me
+- '[[cristianvasquez|Pelao]]'
 categories: []
 description: Execute simple scripts/snippets from obsidian. This plugin is experimental
 downloads: 5752

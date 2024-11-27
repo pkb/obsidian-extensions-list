@@ -2,8 +2,7 @@
 aliases:
 - Semantic Search
 author:
-- bbawj
-author_page: https://github.com/bbawj
+- '[[bbawj|bbawj]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Semantic search for files using OpenAI's text embeddings

@@ -2,8 +2,7 @@
 aliases:
 - Tweet to Markdown
 author:
-- kbravh
-author_page: https://kbravh.dev
+- '[[kbravh|kbravh]]'
 categories: []
 description: Save tweets as Markdown files, along with their images, polls, etc.
 downloads: 12282

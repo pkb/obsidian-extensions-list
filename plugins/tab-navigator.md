@@ -2,8 +2,7 @@
 aliases:
 - Tab Navigator
 author:
-- o02c
-author_page: https://github.com/o02c
+- '[[o02c|o02c]]'
 categories: []
 description: Simple Tab Switcher, search open tabs.
 downloads: 3009

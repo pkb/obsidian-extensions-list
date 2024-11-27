@@ -2,8 +2,7 @@
 aliases:
 - Word Sprint
 author:
-- Andrew Lombardi
-author_page: https://mysticcoders.com
+- '[[kinabalu|Andrew Lombardi]]'
 categories: []
 description: Word Sprint for Obsidian plugin for your writing projects like Nanowrimo
 downloads: 14286

@@ -2,12 +2,10 @@
 aliases:
 - Janitor
 author:
-- Gabriele Cannata
-author_page: https://github.com/Canna71
+- '[[Canna71|Gabriele Cannata]]'
 categories: []
 description: Performs cleanup tasks on the Obsidian vault
 downloads: 31565
-funding_page: https://www.buymeacoffee.com/gcannata
 mobile: true
 number: 598
 title: Janitor

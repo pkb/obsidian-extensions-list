@@ -1,8 +1,8 @@
 ---
 aliases:
 - Sidebar Expand on Hover
-author: toiq
-author_page: https://github.com/toiq
+author:
+- '[[authors/toiq|toiq]]'
 categories: []
 description: This Obsidian plugin expands or collapses the sidebars based on mouse
   hovering on the ribbons.

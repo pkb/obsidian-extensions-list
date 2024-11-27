@@ -2,8 +2,7 @@
 aliases:
 - Pluck
 author:
-- Kevin Barrett
-author_page: https://kevinbarrett.org
+- '[[kevboh|Kevin Barrett]]'
 categories: []
 description: Quickly create notes in Obsidian from web pages.
 downloads: 9189

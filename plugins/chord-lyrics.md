@@ -2,8 +2,7 @@
 aliases:
 - Chord Lyrics
 author:
-- nevernotmove
-author_page: https://obsidian.md
+- '[[nevernotmove|nevernotmove]]'
 categories: []
 description: Display chord names over lyrics. Supports line wrapping, section headers,
   auto-detection of lines and custom colors.

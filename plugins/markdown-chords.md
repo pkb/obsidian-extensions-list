@@ -2,8 +2,7 @@
 aliases:
 - Markdown Chords
 author:
-- David Hunt
-author_page: https://dnotes.net
+- '[[dnotes|David Hunt]]'
 categories: []
 description: Add musical chord notation and chord diagrams for stringed instruments
   (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including

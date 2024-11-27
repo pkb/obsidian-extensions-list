@@ -2,15 +2,10 @@
 aliases:
 - No more flickering inline math
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Remove flickering inline math.
 downloads: 4753
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
-  GitHub Sponsor: https://github.com/sponsors/RyotaUshio
-  Ko-fi: https://ko-fi.com/ryotaushio
 mobile: true
 number: 1151
 title: No more flickering inline math

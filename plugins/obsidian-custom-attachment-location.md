@@ -2,14 +2,12 @@
 aliases:
 - Custom Attachment Location
 author:
-- RainCat1998
-author_page: https://github.com/RainCat1998/
+- '[[RainCat1998|RainCat1998]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize attachment location with variables($filename, $data, etc) like
   typora.
 downloads: 35583
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 341
 title: Custom Attachment Location

@@ -2,8 +2,7 @@
 aliases:
 - Spoiler Block
 author:
-- AllJavi
-author_page: https://github.com/AllJavi
+- '[[AllJavi|AllJavi]]'
 categories: []
 description: Create Spoiler Blocks to hide information until you want to see it
 downloads: 7685

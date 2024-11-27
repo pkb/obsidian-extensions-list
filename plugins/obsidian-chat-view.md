@@ -2,8 +2,7 @@
 aliases:
 - Chat View
 author:
-- Aditya Majethia
-author_page: https://github.com/adifyr
+- '[[adifyr|Aditya Majethia]]'
 categories: []
 description: Chat View enables you to create elegant Chat UIs in your Obsidian markdown
   files. It also supports the WebVTT format.

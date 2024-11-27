@@ -2,8 +2,7 @@
 aliases:
 - Nomnoml Diagram
 author:
-- Daeik Kim
-author_page: ''
+- '[[Daeik|Daeik Kim]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw nomnoml diagrams in Obsidian notes

@@ -2,14 +2,10 @@
 aliases:
 - GitHub Embeds
 author:
-- Gino Valente
-author_page: https://github.com/MrGVSV
+- '[[MrGVSV|Gino Valente]]'
 categories: []
 description: Embed GitHub issues, PRs, and code snippets directly in Obsidian.
 downloads: 5418
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ginov
-  GitHub Sponsor: https://github.com/sponsors/MrGVSV
 mobile: true
 number: 1125
 title: GitHub Embeds

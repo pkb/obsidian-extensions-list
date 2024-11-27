@@ -2,8 +2,7 @@
 aliases:
 - Close Window When Empty
 author:
-- Taylor Jadin
-author_page: https://jadin.me
+- '[[TaylorJadin|Taylor Jadin]]'
 categories: []
 description: Close the window when the last note is closed, kind of how browsers work.
 downloads: 105

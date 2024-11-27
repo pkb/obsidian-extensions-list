@@ -2,8 +2,7 @@
 aliases:
 - Insta TOC
 author:
-- Nick C.
-author_page: https://github.com/iLiftALot
+- '[[iLiftALot|Nick C.]]'
 categories: []
 description: Simultaneously generate, update, and maintain a table of contents for
   your notes.

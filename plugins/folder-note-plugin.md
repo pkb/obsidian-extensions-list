@@ -2,8 +2,7 @@
 aliases:
 - Folder Note
 author:
-- xpgo
-author_page: https://github.com/xpgo/obsidian-folder-note
+- '[[xpgo|xpgo]]'
 categories: []
 description: Click a folder node to show a note describing the folder.
 downloads: 110242

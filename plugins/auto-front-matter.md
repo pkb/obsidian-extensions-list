@@ -2,8 +2,7 @@
 aliases:
 - Auto Front Matter
 author:
-- conorzhong
-author_page: https://conorzhong.com
+- '[[conorzhong|conorzhong]]'
 categories: []
 description: Auto update front matter
 downloads: 3868

@@ -2,8 +2,7 @@
 aliases:
 - Highlight active folder section
 author:
-- Lukas Collier
-author_page: https://github.com/justanotherjurastudent
+- '[[justanotherjurastudent|Lukas Collier]]'
 categories: []
 description: Highlight the active folder section and the title in the file explorer.
 downloads: 746

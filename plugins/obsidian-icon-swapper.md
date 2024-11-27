@@ -2,8 +2,7 @@
 aliases:
 - Icon Swapper
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-icon-swapper
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Allows swapping out Obsidian's default icons.
 downloads: 8341

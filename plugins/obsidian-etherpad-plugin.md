@@ -2,8 +2,7 @@
 aliases:
 - Etherpad
 author:
-- egradman
-author_page: https://www.gradman.com
+- '[[egradman|egradman]]'
 categories: []
 description: Etherpad Integration
 downloads: 4217

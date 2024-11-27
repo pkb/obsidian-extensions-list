@@ -2,8 +2,7 @@
 aliases:
 - PDF break page
 author:
-- CG
-author_page: https://github.com/corentin-godefroy
+- '[[corentin-godefroy|CG]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Export|Export]]'

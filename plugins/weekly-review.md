@@ -2,8 +2,7 @@
 aliases:
 - Weekly Review
 author:
-- Brandon Boswell
-author_page: https://brandonkboswell.com
+- '[[brandonkboswell|Brandon Boswell]]'
 categories: []
 description: This opens all of the files you have created in the last week to support
   easy Weekly Reviews.

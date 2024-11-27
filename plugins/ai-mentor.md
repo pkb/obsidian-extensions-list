@@ -2,14 +2,12 @@
 aliases:
 - AI Mentor
 author:
-- Clément POIRET
-author_page: https://github.com/clementpoiret
+- '[[clementpoiret|Clément POIRET]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Meet your open source AI mentor in Obsidian. Ask questions, get answers,
   and learn new things.
 downloads: 5835
-funding_page: https://www.buymeacoffee.com/poiretclement
 mobile: true
 number: 914
 title: AI Mentor

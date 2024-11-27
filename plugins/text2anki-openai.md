@@ -2,8 +2,7 @@
 aliases:
 - text2anki-openai
 author:
-- Mani Batra
-author_page: https://github.com/manibatra
+- '[[manibatra|Mani Batra]]'
 categories: []
 description: This is an obsidian plugin that uses OpenAI to generate flashcards from
   text and add them to Anki.

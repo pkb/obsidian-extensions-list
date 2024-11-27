@@ -2,8 +2,7 @@
 aliases:
 - Plugin Update Tracker
 author:
-- Obsidian
-author_page: https://github.com/swar8080/obsidian-plugin-update-tracker
+- '[[swar8080|Obsidian]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Know when installed plugins have updates and evaluate the risk of upgrading

@@ -2,8 +2,7 @@
 aliases:
 - Core Search Assistant
 author:
-- qawatake
-author_page: https://github.com/qawatake/obsidian-core-search-assistant-plugin
+- '[[qawatake|qawatake]]'
 categories: []
 description: 'Enhance built-in search: keyboard interface, card preview, bigger preview'
 downloads: 26180

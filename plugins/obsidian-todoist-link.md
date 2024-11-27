@@ -2,8 +2,7 @@
 aliases:
 - Todoist Link
 author:
-- dennisseidel
-author_page: https://dennisseidel.de
+- '[[dennisseidel|dennisseidel]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'

@@ -2,14 +2,12 @@
 aliases:
 - Image Converter
 author:
-- xRyul
-author_page: https://github.com/xryul
+- '[[xryul|xRyul]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Convert, compress and resize images from one format to another by dragging
   and dropping or pasting into the note. HEIC, TIF, JPG, WEBP, PNG.
 downloads: 73147
-funding_page: https://ko-fi.com/xryul
 mobile: true
 number: 1091
 title: Image Converter

@@ -2,12 +2,10 @@
 aliases:
 - Hexo Auto updater
 author:
-- Zhenjia Zhou
-author_page: https://github.com/lifeodyssey
+- '[[lifeodyssey|Zhenjia Zhou]]'
 categories: []
 description: 'This is a hexo plugin for Obsidian that enable the auto update. '
 downloads: 2396
-funding_page: https://github.com/lifeodyssey/obsidian-hexo-auto-update
 mobile: false
 number: 1240
 title: Hexo Auto updater

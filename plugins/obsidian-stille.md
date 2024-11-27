@@ -2,13 +2,10 @@
 aliases:
 - Stille
 author:
-- Michael Lee
-author_page: https://michaelsoolee.com
+- '[[michaellee|Michael Lee]]'
 categories: []
 description: Focus on your writing, a section at a time.
 downloads: 25235
-funding_page:
-  Buy me a slice of pizza: https://michaellee.gumroad.com/l/buy-michael-pizza
 mobile: true
 number: 286
 title: Stille

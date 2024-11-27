@@ -2,8 +2,7 @@
 aliases:
 - Symbols Prettifier
 author:
-- Florian Woelki
-author_page: https://florianwoelki.com
+- '[[FlorianWoelki|Florian Woelki]]'
 categories: []
 description: This plugin allows you to prettify the symbols with actual symbols you
   commonly type, like arrows.

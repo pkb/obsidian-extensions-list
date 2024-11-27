@@ -2,8 +2,7 @@
 aliases:
 - AI Tools
 author:
-- solderneer
-author_page: https://solderneer.me
+- '[[solderneer|solderneer]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Adding powerful semantic search, generative answers, and other AI tools

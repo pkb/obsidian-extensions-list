@@ -2,12 +2,10 @@
 aliases:
 - Email code block
 author:
-- JoLeaf
-author_page: https://github.com/JoLeaf
+- '[[joleaf|JoLeaf]]'
 categories: []
 description: This plugin renders an email code block.
 downloads: 5631
-funding_page: https://ko-fi.com/joleaf
 mobile: true
 number: 763
 title: Email code block

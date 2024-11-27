@@ -2,8 +2,7 @@
 aliases:
 - Home tab
 author:
-- Renso
-author_page: https://github.com/olrenso
+- '[[olrenso|Renso]]'
 categories: []
 description: A browser-like search tab for your local files.
 downloads: 36084

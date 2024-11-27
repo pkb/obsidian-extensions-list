@@ -2,8 +2,7 @@
 aliases:
 - Hypothes.is
 author:
-- weichenw
-author_page: https://github.com/weichenw
+- '[[weichenw|weichenw]]'
 categories: []
 description: Sync your Hypothesis highlights
 downloads: 13975

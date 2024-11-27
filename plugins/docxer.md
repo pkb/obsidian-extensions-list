@@ -2,8 +2,7 @@
 aliases:
 - Docxer
 author:
-- Developer-Mike
-author_page: https://github.com/Developer-Mike
+- '[[Developer-Mike|Developer-Mike]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Word files easily. Adds a preview mode for .docx files and the

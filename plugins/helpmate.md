@@ -2,13 +2,10 @@
 aliases:
 - HelpMate
 author:
-- TfTHacker
-author_page: https://github.com/TfTHacker/
+- '[[TfTHacker|TfTHacker]]'
 categories: []
 description: Integrating help systems into the Obsidian UI.
 downloads: 6425
-funding_page:
-  Support my work: https://tfthacker.com/sponsor
 mobile: true
 number: 1292
 title: HelpMate

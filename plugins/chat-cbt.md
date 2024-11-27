@@ -2,13 +2,11 @@
 aliases:
 - ChatCBT
 author:
-- Claire Froelich
-author_page: https://github.com/clairefro
+- '[[clairefro|Claire Froelich]]'
 categories: []
 description: Guides you in reframing negative thoughts and keeping record of your
   discoveries
 downloads: 3719
-funding_page: https://www.buymeacoffee.com/clairefro
 mobile: false
 number: 1305
 title: ChatCBT

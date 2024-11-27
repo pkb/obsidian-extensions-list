@@ -2,8 +2,7 @@
 aliases:
 - Typing Transformer
 author:
-- aptend
-author_page: https://github.com/aptend
+- '[[aptend|aptend]]'
 categories: []
 description: Improved, configurable auto formatting as typing
 downloads: 6631

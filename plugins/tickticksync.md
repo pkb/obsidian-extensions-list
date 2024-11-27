@@ -2,8 +2,7 @@
 aliases:
 - TickTickSync
 author:
-- thesamim
-author_page: https://github.com/thesamim
+- '[[thesamim|thesamim]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

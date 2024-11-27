@@ -2,8 +2,7 @@
 aliases:
 - Edit mode switch
 author:
-- Mara-Li
-author_page: https//github.com/Mara-Li
+- '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Add a button in file header in edit mode, to switch between source &
   live-preview

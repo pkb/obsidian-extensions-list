@@ -2,8 +2,7 @@
 aliases:
 - Go To Heading
 author:
-- join
-author_page: https://github.com/oin
+- '[[oin|join]]'
 categories: []
 description: Quickly navigate between headings
 downloads: 3553

@@ -2,13 +2,11 @@
 aliases:
 - Noor
 author:
-- MKSherbini
-author_page: https://github.com/MKSherbini
+- '[[MKSherbini|MKSherbini]]'
 categories: []
 description: Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and
   Sunnah
 downloads: 321
-funding_page: https://github.com/MKSherbini/obsidian-noor/blob/master/docs/BinancePayQR.png
 mobile: true
 number: 1683
 title: Noor

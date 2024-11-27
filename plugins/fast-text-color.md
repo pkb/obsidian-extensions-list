@@ -2,13 +2,11 @@
 aliases:
 - Fast Text Color
 author:
-- Leon Holtmeier
-author_page: https://github.com/Superschnizel
+- '[[Superschnizel|Leon Holtmeier]]'
 categories: []
 description: Quickly apply fully integrated text coloring and formatting with a custom
   syntax and a keyboard-centric interface.
 downloads: 8206
-funding_page: https://ko-fi.com/superschnizel
 mobile: true
 number: 1748
 title: Fast Text Color

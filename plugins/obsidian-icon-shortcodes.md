@@ -2,8 +2,7 @@
 aliases:
 - Icon Shortcodes
 author:
-- AidenLx
-author_page: https://github.com/aidenlx
+- '[[aidenlx|AidenLx]]'
 categories: []
 description: Insert emoji and custom icons with shortcodes
 downloads: 43562

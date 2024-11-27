@@ -2,13 +2,10 @@
 aliases:
 - Autoplay & Loop
 author:
-- Zerkshop & Wapply
-author_page: https://github.com/Wapply
+- '[[Wapply|Zerkshop & Wapply]]'
 categories: []
 description: Auto reproduces videos/audio inside notes.
 downloads: 1008
-funding_page:
-  Buy Me a Coffee: https://ko-fi.com/wapply
 mobile: true
 number: 1564
 title: Autoplay & Loop

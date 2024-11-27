@@ -2,8 +2,7 @@
 aliases:
 - Modal Opener
 author:
-- Muuxi
-author_page: https://github.com/likemuuxi
+- '[[likemuuxi|Muuxi]]'
 categories: []
 description: Open files and links in modal windows, or create and edit compatible
   files in modal windows.

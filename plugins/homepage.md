@@ -2,14 +2,11 @@
 aliases:
 - Homepage
 author:
-- novov
-author_page: https://novov.me
+- '[[mirnovov|novov]]'
 categories: []
 description: Open a specified note, canvas, or workspace on startup, or set it for
   quick access later.
 downloads: 565675
-funding_page:
-  Ko-fi: https://ko-fi.com/novov
 mobile: true
 number: 232
 title: Homepage

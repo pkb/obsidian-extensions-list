@@ -2,13 +2,11 @@
 aliases:
 - OZ Calendar
 author:
-- Ozan Tellioglu
-author_page: https://www.ozan.pl
+- '[[ozntel|Ozan Tellioglu]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: View your notes in Calendar using any YAML key with date
 downloads: 14036
-funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 854
 title: OZ Calendar

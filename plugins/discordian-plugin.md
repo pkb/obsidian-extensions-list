@@ -2,8 +2,7 @@
 aliases:
 - Discordian Theme
 author:
-- '@radekkozak'
-author_page: https://github.com/radekkozak
+- '[[radekkozak|@radekkozak]]'
 categories: []
 description: Discordian plugin for tweaking Discordian theme
 downloads: 14781

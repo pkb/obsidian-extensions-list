@@ -2,12 +2,10 @@
 aliases:
 - Image auto upload
 author:
-- renmu
-author_page: https://github.com/renmu123/obsidian-image-auto-upload-plugin
+- '[[renmu123|renmu]]'
 categories: []
 description: This plugin uploads images from your clipboard by PicGo
 downloads: 90235
-funding_page: https://afdian.com/a/renmu123
 mobile: false
 number: 172
 title: Image auto upload

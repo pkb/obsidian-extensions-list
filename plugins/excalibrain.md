@@ -2,8 +2,7 @@
 aliases:
 - ExcaliBrain
 author:
-- Zsolt Viczian
-author_page: https://zsolt.blog
+- '[[zsviczian|Zsolt Viczian]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A clean, intuitive and editable graph view for Obsidian

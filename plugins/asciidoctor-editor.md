@@ -2,8 +2,7 @@
 aliases:
 - Asciidoctor editor
 author:
-- dzruyk
-author_page: https://github.com/dzruyk
+- '[[dzruyk|dzruyk]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages

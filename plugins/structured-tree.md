@@ -2,13 +2,11 @@
 aliases:
 - Structured Tree
 author:
-- Marius Svarverud
-author_page: https://github.com/Rudtrack
+- '[[Rudtrack|Marius Svarverud]]'
 categories: []
 description: A file explorer similar to Dendron for navigating hierarchical notes
   separated by '.'
 downloads: 1102
-funding_page: https://github.com/sponsors/Rudtrack
 mobile: true
 number: 1846
 title: Structured Tree

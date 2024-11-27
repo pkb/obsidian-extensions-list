@@ -2,8 +2,7 @@
 aliases:
 - MostUsed
 author:
-- Levi Kingma
-author_page: https://github.com/levi-ivel
+- '[[levi-ivel|Levi Kingma]]'
 categories: []
 description: Creates a top 100 of the most used words in your notes
 downloads: 511

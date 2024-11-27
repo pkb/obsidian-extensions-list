@@ -2,8 +2,7 @@
 aliases:
 - Checklist
 author:
-- delashum
-author_page: https://github.com/delashum
+- '[[delashum|delashum]]'
 categories: []
 description: Combines checklists across pages into users sidebar
 downloads: 340267

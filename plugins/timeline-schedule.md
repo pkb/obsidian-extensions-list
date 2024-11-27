@@ -2,8 +2,7 @@
 aliases:
 - Timeline Schedule
 author:
-- Evan Bonsignori
-author_page: https://github.com/Ebonsignori
+- '[[Ebonsignori|Evan Bonsignori]]'
 categories: []
 description: Inline timelines generated from human-readable time strings, e.g. 'Walk
   dog (30min)' in a ```schedule codeblock.

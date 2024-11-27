@@ -2,8 +2,7 @@
 aliases:
 - Shortcut Launcher
 author:
-- MacStories
-author_page: https://www.macstories.net
+- '[[macstories|MacStories]]'
 categories: []
 description: Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom
   commands.

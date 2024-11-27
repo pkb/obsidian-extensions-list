@@ -2,8 +2,7 @@
 aliases:
 - Amazing Marvin Integration
 author:
-- Cloud Atlas
-author_page: https://cloud-atlas.ai
+- '[[cloud-atlas-ai|Cloud Atlas]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration with Amazing Marvin

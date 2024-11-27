@@ -2,15 +2,11 @@
 aliases:
 - Marker PDF to MD
 author:
-- L3N0X
-author_page: https://github.com/L3-N0X
+- '[[l3-n0x|L3N0X]]'
 categories: []
 description: Convert PDFs to rich Markdown, including images and ocr using the Marker
   API
 downloads: 2483
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/l3n0x
-  GitHub Sponsor: https://github.com/sponsors/L3-N0X
 mobile: true
 number: 1824
 title: Marker PDF to MD

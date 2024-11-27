@@ -2,8 +2,7 @@
 aliases:
 - No dupe leaves
 author:
-- Simon Cambier
-author_page: ''
+- '[[scambier|Simon Cambier]]'
 categories: []
 description: Don't reopen notes that are already open
 downloads: 10523

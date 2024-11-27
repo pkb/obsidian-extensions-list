@@ -2,14 +2,12 @@
 aliases:
 - Settings profiles
 author:
-- 4Source
-author_page: https://github.com/4Source
+- '[[4Source|4Source]]'
 categories: []
 description: Allows you to create various global settings profiles. You can sync them
   between different vaults. To keep all your settings in sync, you'll never have to
   manually adjust them again for every vault you have or create in the future.
 downloads: 5919
-funding_page: https://www.buymeacoffee.com/4Source
 mobile: false
 number: 1367
 title: Settings profiles

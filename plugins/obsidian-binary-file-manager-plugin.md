@@ -2,8 +2,7 @@
 aliases:
 - Binary File Manager
 author:
-- qawatake
-author_page: https://github.com/qawatake/obsidian-binary-file-manager-plugin
+- '[[qawatake|qawatake]]'
 categories: []
 description: Detects new binary files in the vault and create markdown files with
   metadata.

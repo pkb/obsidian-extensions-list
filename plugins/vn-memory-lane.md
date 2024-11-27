@@ -2,15 +2,13 @@
 aliases:
 - MemoryLane
 author:
-- Bradley Nguyen
-author_page: https://github.com/bangca85
+- '[[bangca85|Bradley Nguyen]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Relive and celebrate your life's milestones on a personal, interactive
   timeline. A nostalgic journey through your history with anniversary reminders and
   cherished memories.
 downloads: 3118
-funding_page: https://ko-fi.com/bangca
 mobile: true
 number: 1434
 title: MemoryLane

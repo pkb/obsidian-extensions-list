@@ -2,8 +2,7 @@
 aliases:
 - Vault Changelog
 author:
-- Badr Bouslikhin
-author_page: https://github.com/MrZeroo00
+- '[[badrbouslikhin|Badr Bouslikhin]]'
 categories: []
 description: Obsidian plugin to maintain a notes changelog in a vault
 downloads: 11950

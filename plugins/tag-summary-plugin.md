@@ -2,8 +2,7 @@
 aliases:
 - Tag Summary
 author:
-- J.D Gauchat
-author_page: https://www.jdgauchat.com
+- '[[macrojd|J.D Gauchat]]'
 categories: []
 description: This plugin creates summaries with paragraphs or blocks of text that
   share the same tag(s).

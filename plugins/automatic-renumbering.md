@@ -2,8 +2,7 @@
 aliases:
 - Automatic Renumbering
 author:
-- Omri Levi
-author_page: https://github.com/OmriLeviGit
+- '[[OmriLeviGit|Omri Levi]]'
 categories: []
 description: Updates numbered lists automatically to keep them in sequential order.
   Offers both live updating and manual control options, and supports nested lists.

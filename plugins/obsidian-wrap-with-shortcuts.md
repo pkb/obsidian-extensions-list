@@ -2,8 +2,7 @@
 aliases:
 - Wrap with shortcuts
 author:
-- Manic Chuang
-author_page: https://github.com/manic/obsidian-wrap-with-shortcuts
+- '[[manic|Manic Chuang]]'
 categories: []
 description: 'Wrap selected text in custom tags with shortcuts. E.g.: underline, sub,
   ruby(フリガナ)'

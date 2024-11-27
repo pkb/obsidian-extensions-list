@@ -2,8 +2,7 @@
 aliases:
 - Markdown Media Card
 author:
-- Zhou Hua
-author_page: https://zhouhua.site
+- '[[zhouhua|Zhou Hua]]'
 categories: []
 description: Insert media information cards in Markdown, such as books, music, movies,
   etc.

@@ -2,8 +2,7 @@
 aliases:
 - Diagram Zoom Drag
 author:
-- ChenPengyuan
-author_page: https://github.com/gitcpy
+- '[[gitcpy|ChenPengyuan]]'
 categories: []
 description: Add zoom and drag functionality to diagrams from Mermaid, Plantuml, Graphviz,
   Gravizo and so on

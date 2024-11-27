@@ -2,12 +2,10 @@
 aliases:
 - Relative Find
 author:
-- phibr0
-author_page: https://phibr0.de
+- '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin lets you search relative to your Cursor Position.
 downloads: 4365
-funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 263
 title: Relative Find

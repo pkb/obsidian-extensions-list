@@ -2,8 +2,7 @@
 aliases:
 - Smort
 author:
-- Smort
-author_page: https://smort.io
+- '[[SmortApp|Smort]]'
 categories: []
 description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate
   and share articles.

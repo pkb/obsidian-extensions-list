@@ -2,8 +2,7 @@
 aliases:
 - Vitepress Publisher
 author:
-- mistj
-author_page: https://mistj.com
+- '[[tyrad|mistj]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: This is an plugin for more convenient preview and publishing of .md files

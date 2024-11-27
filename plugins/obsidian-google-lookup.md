@@ -2,8 +2,7 @@
 aliases:
 - Google Calendar and Contacts Lookup
 author:
-- nadim@park5.io
-author_page: https://github.com/ntawileh/obsidian-google-lookup
+- '[[ntawileh|nadim@park5.io]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Import contact and calendar event information from your Google account

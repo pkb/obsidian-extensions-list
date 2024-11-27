@@ -2,8 +2,7 @@
 aliases:
 - Release Timeline
 author:
-- cakechaser
-author_page: https://github.com/cakechaser
+- '[[cakechaser|cakechaser]]'
 categories: []
 description: Release timeline rendered based on notes metadata with a dataview-like
   syntax.

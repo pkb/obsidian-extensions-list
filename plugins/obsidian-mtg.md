@@ -2,8 +2,7 @@
 aliases:
 - Obsidian MtG
 author:
-- Omar Delarosa
-author_page: https://github.com/omardelarosa
+- '[[omardelarosa|Omar Delarosa]]'
 categories: []
 description: 'A plugin for managing Magic: The Gathering decks and card lists as Obsidian
   notes'

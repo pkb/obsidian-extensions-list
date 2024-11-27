@@ -2,8 +2,7 @@
 aliases:
 - Dangerzone Writing
 author:
-- Alexis Rondeau
-author_page: https://publish.obsidian.md/alexisrondeau
+- '[[akaalias|Alexis Rondeau]]'
 categories: []
 description: “Elegant”, “Dangerous”, “Relaxing”, “Perverted”, “Your best friend”,
   “Your worst nightmare”. When you start a Dangerzone session, you have to write without

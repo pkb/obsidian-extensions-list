@@ -2,8 +2,7 @@
 aliases:
 - markdown export
 author:
-- bingryan
-author_page: https://github.com/bingryan/obsidian-markdown-export-plugin
+- '[[bingryan|bingryan]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a markdown export plugin for Obsidian.

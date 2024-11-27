@@ -2,8 +2,7 @@
 aliases:
 - Nifty Links
 author:
-- x-Ai
-author_page: https://github.com/x-Ai
+- '[[x-Ai|x-Ai]]'
 categories: []
 description: Generate elegant, Notion-style rich link cards to enhance your note-taking
   experience

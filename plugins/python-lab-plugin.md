@@ -2,8 +2,7 @@
 aliases:
 - Python lab
 author:
-- Cristian Vasquez
-author_page: https://github.com/cristianvasquez
+- '[[cristianvasquez|Cristian Vasquez]]'
 categories: []
 description: An interface to experiment with python scripts and more.
 downloads: 8409

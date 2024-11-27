@@ -2,15 +2,10 @@
 aliases:
 - Custom Icons
 author:
-- RavenHogWarts
-author_page: https://github.com/RavenHogWarts
+- '[[RavenHogWarts|RavenHogWarts]]'
 categories: []
 description: Enhance your workspace with customizable icons for documents and folders.
 downloads: 3829
-funding_page:
-  paypal: https://www.paypal.com/paypalme/RavenHogwarts
-  微信/支付宝: https://s2.loli.net/2024/05/06/lWBj3ObszUXSV2f.png
-  爱发电: https://afdian.net/a/ravenhogwarts
 mobile: true
 number: 1583
 title: Custom Icons

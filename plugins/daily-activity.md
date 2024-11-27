@@ -2,8 +2,7 @@
 aliases:
 - Daily Activity
 author:
-- Trevor Rydalch
-author_page: https://github.com/trydalch
+- '[[trydalch|Trevor Rydalch]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: A collection of commands to track your writing activity.

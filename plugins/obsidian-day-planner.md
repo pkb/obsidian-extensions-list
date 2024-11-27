@@ -2,14 +2,12 @@
 aliases:
 - Day Planner
 author:
-- James Lynch
-- continued by Ivan Lednev
-author_page: https://github.com/ivan-lednev
+- '[[authors/James Lynch|James Lynch]]'
+- '[[ivan-lednev|continued by Ivan Lednev]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: A day planner with clean UI and readable syntax
 downloads: 546373
-funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 19
 title: Day Planner

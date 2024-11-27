@@ -2,8 +2,7 @@
 aliases:
 - SwiftLaTeX Render
 author:
-- gboyd068
-author_page: https://github.com/gboyd068
+- '[[gboyd068|gboyd068]]'
 categories: []
 description: Render LaTeX in codeblocks into pdf or svg, without needing to install
   LaTeX separately.

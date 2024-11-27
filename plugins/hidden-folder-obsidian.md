@@ -2,8 +2,7 @@
 aliases:
 - Hidden Folder
 author:
-- ptrsvltns
-author_page: https://github.com/ptrsvltns
+- '[[ptrsvltns|ptrsvltns]]'
 categories: []
 description: Hidden Folder
 downloads: 6297

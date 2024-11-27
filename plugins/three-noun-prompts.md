@@ -2,8 +2,7 @@
 aliases:
 - Three Noun Prompts
 author:
-- Jamespeachh
-author_page: https://github.com/jamespeachh
+- '[[jamespeachh|Jamespeachh]]'
 categories: []
 description: Use TOPT algorithm to get daily writing prompts!
 downloads: 42

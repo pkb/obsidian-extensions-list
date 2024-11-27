@@ -2,12 +2,10 @@
 aliases:
 - Ear Training
 author:
-- Poe Zoel
-author_page: https://www.instagram.com/poezoel?igsh=OGQ5ZDc2ODk2ZA==
+- '[[shiwer|Poe Zoel]]'
 categories: []
 description: Get ear training exercises inside your vault.
 downloads: 1155
-funding_page: https://www.buymeacoffee.com/poe.zoel
 mobile: false
 number: 1511
 title: Ear Training

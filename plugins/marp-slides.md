@@ -2,8 +2,7 @@
 aliases:
 - Marp Slides
 author:
-- Samuele Cozzi
-author_page: https://samuele-cozzi.web.app/
+- '[[samuele-cozzi|Samuele Cozzi]]'
 categories: []
 description: Create markdown-based Marp presentations in Obsidian
 downloads: 17939

@@ -2,8 +2,7 @@
 aliases:
 - AI Assistant
 author:
-- Quentin Grail
-author_page: https://github.com/qgrail
+- '[[qgrail|Quentin Grail]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI Assistant plugin for Obsidian

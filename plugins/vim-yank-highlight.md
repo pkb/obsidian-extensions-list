@@ -2,13 +2,11 @@
 aliases:
 - Vim Yank Highlight
 author:
-- Aleksey Rowan
-author_page: https://github.com/aleksey-rowan
+- '[[aleksey-rowan|Aleksey Rowan]]'
 categories: []
 description: Highlight yanked text in Vim mode. Enjoy that subtle animation you've
   missed so much.
 downloads: 3642
-funding_page: https://www.buymeacoffee.com/alekseyrowan
 mobile: false
 number: 1316
 title: Vim Yank Highlight

@@ -2,8 +2,7 @@
 aliases:
 - Generic Initiative Tracker
 author:
-- Beau Shinkle
-author_page: https://github.com/beaushinkle/obsidian-generic-initiative-tracker
+- '[[beaushinkle|Beau Shinkle]]'
 categories: []
 description: TTRPG Generic Initiative Tracker for Obsidian.md
 downloads: 6391

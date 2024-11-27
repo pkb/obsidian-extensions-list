@@ -2,8 +2,7 @@
 aliases:
 - Quick Latex
 author:
-- joeyuping
-author_page: https://github.com/joeyuping/quick_latex_obsidian
+- '[[joeyuping|joeyuping]]'
 categories: []
 description: Speedup latex math typing with auto fraction, custom shorthand, align
   block shortcut, matrix shortcut...etc

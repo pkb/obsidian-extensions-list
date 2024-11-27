@@ -2,8 +2,7 @@
 aliases:
 - Folder Canvas
 author:
-- Nancy Lee
-author_page: https://github.com/nancyel
+- '[[nancyel|Nancy Lee]]'
 categories: []
 description: Generate a Canvas view of your folder structure.
 downloads: 87

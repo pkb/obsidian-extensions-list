@@ -2,8 +2,7 @@
 aliases:
 - Hard Breaks
 author:
-- Börge Kiss
-author_page: https://github.com/bkis/obsidian-hard-breaks
+- '[[bkis|Börge Kiss]]'
 categories: []
 description: Turn soft line breaks in Markdown into hard line breaks
 downloads: 5489

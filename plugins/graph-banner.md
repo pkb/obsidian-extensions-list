@@ -2,12 +2,10 @@
 aliases:
 - Graph Banner
 author:
-- ras0q
-author_page: https://github.com/ras0q
+- '[[ras0q|ras0q]]'
 categories: []
 description: Display a local graph view to the note header
 downloads: 6767
-funding_page: https://buymeacoffee.com/ras0q
 mobile: true
 number: 1684
 title: Graph Banner

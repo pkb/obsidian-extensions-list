@@ -2,8 +2,7 @@
 aliases:
 - jTab Guitar Codeblocks
 author:
-- davfive
-author_page: https://github.com/davfive/obsidian-jtab
+- '[[davfive|davfive]]'
 categories: []
 description: Adds the ability to show guitar chords and tabs directly in your notes
   using jTab.

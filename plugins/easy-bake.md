@@ -2,12 +2,10 @@
 aliases:
 - Easy Bake
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Easily compile many Obsidian notes down to a single file.
 downloads: 5812
-funding_page: https://www.buymeacoffee.com/mgme
 mobile: true
 number: 1060
 title: Easy Bake

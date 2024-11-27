@@ -2,14 +2,12 @@
 aliases:
 - Todoist completed tasks
 author:
-- Andrey Kulishov
-author_page: https://github.com/Ledaryy
+- '[[Ledaryy|Andrey Kulishov]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Add completed Todoist tasks to your Obsidian notes
 downloads: 7607
-funding_page: https://www.buymeacoffee.com/ledaryy
 mobile: true
 number: 603
 title: Todoist completed tasks

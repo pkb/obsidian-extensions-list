@@ -2,13 +2,11 @@
 aliases:
 - Images to Gist
 author:
-- Inder Singh
-author_page: https://github.com/singh-inder
+- '[[singh-inder|Inder Singh]]'
 categories: []
 description: Upload images to your GitHub secret Gists. Also, resize uploaded images
   on the fly.
 downloads: 252
-funding_page: https://buymeacoffee.com/_inder1
 mobile: true
 number: 1810
 title: Images to Gist

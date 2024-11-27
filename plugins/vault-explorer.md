@@ -2,12 +2,10 @@
 aliases:
 - Vault Explorer
 author:
-- DecafDev
-author_page: https://github.com/decaf-dev
+- '[[decaf-dev|DecafDev]]'
 categories: []
 description: Explore your vault in visual format
 downloads: 8872
-funding_page: https://ko-fi.com/decaf_dev
 mobile: false
 number: 1652
 title: Vault Explorer

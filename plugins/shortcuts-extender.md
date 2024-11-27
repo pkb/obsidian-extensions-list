@@ -1,8 +1,8 @@
 ---
 aliases:
 - Shortcuts extender
-author: ryjjin
-author_page: https://github.com/ryjjin
+author:
+- '[[authors/ryjjin|ryjjin]]'
 categories: []
 description: Use shortcuts for text formatting or input special symbols without language
   switching

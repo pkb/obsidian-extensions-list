@@ -2,8 +2,7 @@
 aliases:
 - Journey
 author:
-- Alexis Rondeau
-author_page: https://publish.obsidian.md/alexisrondeau
+- '[[akaalias|Alexis Rondeau]]'
 categories: []
 description: Discover the stories between your notes.
 downloads: 19348

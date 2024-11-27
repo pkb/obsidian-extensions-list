@@ -2,8 +2,7 @@
 aliases:
 - MarginNote Companion
 author:
-- AidenLx
-author_page: https://github.com/aidenlx
+- '[[aidenlx|AidenLx]]'
 categories: []
 description: An Obsidian plugin to bridge MarginNote 3 and Obsidian
 downloads: 12934

@@ -2,8 +2,7 @@
 aliases:
 - Notes Refresher
 author:
-- Connor Park
-author_page: https://github.com/connorpark24
+- '[[connorpark24|Connor Park]]'
 categories: []
 description: Provides AI-generated summaries (GPT) of three notes from your Vault
   every day.

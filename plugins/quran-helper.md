@@ -2,8 +2,7 @@
 aliases:
 - Quran Helper
 author:
-- Ammar Alakkad
-author_page: https://ammar.codes
+- '[[AmmarCodes|Ammar Alakkad]]'
 categories: []
 description: Find and insert any Quran Ayah (verse) in your notes.
 downloads: 192

@@ -2,8 +2,7 @@
 aliases:
 - Extended Task Lists
 author:
-- joeriddles
-author_page: https://github.com/joeriddles
+- '[[joeriddles|joeriddles]]'
 categories: []
 description: Extended reader view support for task lists, including in-progress and
   won't do task items.

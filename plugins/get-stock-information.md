@@ -2,8 +2,7 @@
 aliases:
 - Get Stock Information
 author:
-- mikejlj
-author_page: https://mikej.design
+- '[[mikejongbloet|mikejlj]]'
 categories: []
 description: This plugin takes a stock symbol and returns a callout block with the
   latest stock information.

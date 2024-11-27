@@ -2,8 +2,7 @@
 aliases:
 - Automatically reveal active file
 author:
-- Matt Sessions
-author_page: https://www.matthewsessions.com
+- '[[shichongrui|Matt Sessions]]'
 categories: []
 description: This plugin will reveal the active file in the navigation when a file
   is opened.

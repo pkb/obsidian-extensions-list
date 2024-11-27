@@ -2,8 +2,7 @@
 aliases:
 - Text Progress Bar
 author:
-- Michael Adams
-author_page: https://michaeladams.dev
+- '[[michaeladams|Michael Adams]]'
 categories: []
 description: Display low-fi text progress bars in your notes.
 downloads: 5842

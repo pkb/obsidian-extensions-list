@@ -2,8 +2,7 @@
 aliases:
 - Tasks Calendar Wrapper
 author:
-- zhuwenq
-author_page: https://github.com/Leonezz
+- '[[Leonezz|zhuwenq]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Date and calendar|Date and calendar]]'

@@ -2,8 +2,7 @@
 aliases:
 - Morgen Tasks
 author:
-- Morgen AG
-author_page: https://morgen.so
+- '[[morgen-so|Morgen AG]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

@@ -2,8 +2,7 @@
 aliases:
 - Codename
 author:
-- dstack
-author_page: https://github.com/dstack
+- '[[dstack|dstack]]'
 categories: []
 description: A plugin to solve the hardest problem - naming things.
 downloads: 3469

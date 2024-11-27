@@ -2,8 +2,7 @@
 aliases:
 - Habit Calendar
 author:
-- Hedonihilist
-author_page: https://github.com/hedonihilist
+- '[[hedonihilist|Hedonihilist]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Monthly Habit Calendar for DataviewJS. This plugin helps you render a

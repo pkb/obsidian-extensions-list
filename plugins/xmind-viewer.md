@@ -2,8 +2,7 @@
 aliases:
 - XMind Viewer
 author:
-- Sentiago
-author_page: https://github.com/Ssentiago
+- '[[Ssentiago|Sentiago]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Integrate viewing of your XMind files

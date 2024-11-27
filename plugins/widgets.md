@@ -2,12 +2,10 @@
 aliases:
 - Widgets
 author:
-- Rafael Veiga
-author_page: https://rafaelveiga.github.io/
+- '[[rafaelveiga|Rafael Veiga]]'
 categories: []
 description: Adds widgets to your notes like clock, countdown and quotes.
 downloads: 9176
-funding_page: https://ko-fi.com/rafaelveiga
 mobile: true
 number: 1354
 title: Widgets

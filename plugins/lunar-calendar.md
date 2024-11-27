@@ -2,8 +2,7 @@
 aliases:
 - Lunar Calendar
 author:
-- OSmile
-author_page: https://github.com/WHG555
+- '[[WHG555|OSmile]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 一个支持农历的日历

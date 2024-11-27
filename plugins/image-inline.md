@@ -2,8 +2,7 @@
 aliases:
 - Image Inline
 author:
-- ZackaryW
-author_page: https://github.com/ZackaryW
+- '[[ZackaryW|ZackaryW]]'
 categories: []
 description: Paste your image without attachment files
 downloads: 3498

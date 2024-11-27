@@ -2,8 +2,7 @@
 aliases:
 - MagicCalendar
 author:
-- Vaccarini Lorenzo
-author_page: https://github.com/Vaccarini-Lorenzo
+- '[[Vaccarini-Lorenzo|Vaccarini Lorenzo]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 - '[[categories/AI assistance|AI assistance]]'

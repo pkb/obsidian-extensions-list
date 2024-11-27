@@ -2,13 +2,11 @@
 aliases:
 - Lazy Plugin Loader
 author:
-- Alan Grainger
-author_page: https://github.com/alangrainger
+- '[[alangrainger|Alan Grainger]]'
 categories: []
 description: Load plugins with a delay on startup, so that you can get your app startup
   down into the sub-second loading time.
 downloads: 8363
-funding_page: https://ko-fi.com/alan_
 mobile: true
 number: 1865
 title: Lazy Plugin Loader

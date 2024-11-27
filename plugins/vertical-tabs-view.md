@@ -2,12 +2,10 @@
 aliases:
 - Vertical Tabs View
 author:
-- hdykokd
-author_page: https://hdykokd.me
+- '[[hdykokd|hdykokd]]'
 categories: []
 description: Provides a vertical tabs view.
 downloads: 6129
-funding_page: https://www.buymeacoffee.com/hdykokd
 mobile: true
 number: 1137
 title: Vertical Tabs View

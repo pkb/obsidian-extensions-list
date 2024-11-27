@@ -2,8 +2,7 @@
 aliases:
 - Guitar Chord
 author:
-- Barba828
-author_page: https://github.com/Barba828
+- '[[Barba828|Barba828]]'
 categories: []
 description: Quickly enter and display guitar chords, with optional chords based on
   music theory. No need to write in code blocks, they can be inserted and edited directly

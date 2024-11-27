@@ -2,8 +2,7 @@
 aliases:
 - Hotkeys++
 author:
-- Argentina Ortega Sainz
-author_page: https://argentinaos.com
+- '[[argenos|Argentina Ortega Sainz]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Additional hotkeys to do common things in Obsidian

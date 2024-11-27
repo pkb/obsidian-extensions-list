@@ -2,8 +2,7 @@
 aliases:
 - Differential ZIP Backup
 author:
-- vorotamoroz
-author_page: https://github.com/vrtmrz
+- '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: Back our vault up with lesser storage.
 downloads: 1851

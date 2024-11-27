@@ -2,8 +2,7 @@
 aliases:
 - Search Everywhere
 author:
-- Mom0
-author_page: https://obsidian.md
+- '[[Mom0aut|Mom0]]'
 categories: []
 description: Search Everywhere with pressing Double Shift like in IntelliJ
 downloads: 6471

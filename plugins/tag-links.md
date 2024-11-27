@@ -2,8 +2,7 @@
 aliases:
 - Tag Links
 author:
-- Zacchary Dempsey-Plante
-author_page: https://ztdp.ca/
+- '[[zedseven|Zacchary Dempsey-Plante]]'
 categories: []
 description: Allows tags to be opened as links using a hotkey.
 downloads: 785

@@ -2,13 +2,11 @@
 aliases:
 - Reference Generator
 author:
-- Kadison McLellan
-author_page: https://github.com/KadisonM
+- '[[kadisonm|Kadison McLellan]]'
 categories: []
 description: Turn links into bibliographies in styles like Harvard, MLA, APA, and
   more.
 downloads: 1959
-funding_page: https://www.buymeacoffee.com/kadisonm
 mobile: true
 number: 1357
 title: Reference Generator

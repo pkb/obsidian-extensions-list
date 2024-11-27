@@ -2,8 +2,7 @@
 aliases:
 - Buttondown
 author:
-- caro401
-author_page: https://www.caro.fyi
+- '[[caro401|caro401]]'
 categories: []
 description: Send your notes to your buttondown.email account as email drafts.
 downloads: 3808

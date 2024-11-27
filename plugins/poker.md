@@ -2,8 +2,7 @@
 aliases:
 - Poker
 author:
-- James DiGioia
-author_page: https://jamesdigioia.com
+- '[[mAAdhaTTah|James DiGioia]]'
 categories: []
 description: Easily document and view your poker hands.
 downloads: 3521

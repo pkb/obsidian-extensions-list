@@ -2,8 +2,7 @@
 aliases:
 - Pomodoro Planner
 author:
-- Onur Nesvat
-author_page: https://onurnesvat.com
+- '[[onesvat|Onur Nesvat]]'
 categories: []
 description: Generates a pomodoro schedule plan
 downloads: 1832

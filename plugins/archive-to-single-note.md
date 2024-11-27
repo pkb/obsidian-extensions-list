@@ -2,8 +2,7 @@
 aliases:
 - Archive/trash to single note
 author:
-- mwoz123
-author_page: https://github.com/mwoz123/
+- '[[mwoz123|mwoz123]]'
 categories: []
 description: Allows to create single file archive/trash and merge(archive) old notes
   with it.

@@ -2,14 +2,12 @@
 aliases:
 - Clear Unused Images
 author:
-- Ozan
-author_page: https://www.ozan.pl
+- '[[ozntel|Ozan]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Clear the images that you are not using anymore in your markdown notes
   to save space.
 downloads: 86310
-funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 169
 title: Clear Unused Images

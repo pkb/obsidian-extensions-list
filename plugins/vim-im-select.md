@@ -2,8 +2,7 @@
 aliases:
 - Vim IM Select
 author:
-- Alonelur
-author_page: https://github.com/ALONELUR
+- '[[ALONELUR|Alonelur]]'
 categories: []
 description: Support auto select the apposite input method in different vim mode
 downloads: 8219

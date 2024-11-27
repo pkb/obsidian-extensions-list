@@ -2,8 +2,7 @@
 aliases:
 - Remove Unused Block IDs
 author:
-- Daniel Geneta
-author_page: https://github.com/isdmg
+- '[[isdmg|Daniel Geneta]]'
 categories: []
 description: Remove unused block ids in your vault.
 downloads: 183

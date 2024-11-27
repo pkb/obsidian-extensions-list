@@ -2,8 +2,7 @@
 aliases:
 - Auto switch themes between dark/light mode
 author:
-- Robert Storlind
-author_page: https://github.com/carlrobert
+- '[[carlrobert|Robert Storlind]]'
 categories: []
 description: Toggling dark/light mode switches themes automatically
 downloads: 42

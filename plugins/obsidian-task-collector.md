@@ -2,8 +2,7 @@
 aliases:
 - Task Collector (TC)
 author:
-- ebullient
-author_page: https://github.com/ebullient
+- '[[ebullient|ebullient]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Change task status and collect tasks within a document using hotkeys

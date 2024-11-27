@@ -2,8 +2,7 @@
 aliases:
 - Youglish Plugin
 author:
-- Noureddine Haouari
-author_page: https://github.com/nhaouari
+- '[[nhaouari|Noureddine Haouari]]'
 categories: []
 description: Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased
   answers about how words is spoken by real people and in context.

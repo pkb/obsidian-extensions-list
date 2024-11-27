@@ -2,8 +2,7 @@
 aliases:
 - Timesheet
 author:
-- vkostyanetsky
-author_page: https://github.com/vkostyanetsky
+- '[[vkostyanetsky|vkostyanetsky]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Timesheet generator for tasks in daily notes.

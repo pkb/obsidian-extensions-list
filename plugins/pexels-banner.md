@@ -2,12 +2,10 @@
 aliases:
 - Pixel Banner
 author:
-- Justin Parker
-author_page: https://www.jparkerweb.com
+- '[[jparkerweb|Justin Parker (eQui\\ Labs)]]'
 categories: []
 description: Apply an image from various sources as a banner to your notes.
 downloads: 3423
-funding_page: https://ko-fi.com/jparkerweb
 mobile: true
 number: 1902
 title: Pixel Banner

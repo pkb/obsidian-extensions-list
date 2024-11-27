@@ -2,12 +2,10 @@
 aliases:
 - Copy Inline Code
 author:
-- Ondrej Zavodny
-author_page: https://github.com/Alddar
+- '[[Alddar|Ondrej Zavodny]]'
 categories: []
 description: Easily copy the contents of an inline code element with a single click.
 downloads: 6571
-funding_page: https://ko-fi.com/alddar
 mobile: true
 number: 1057
 title: Copy Inline Code

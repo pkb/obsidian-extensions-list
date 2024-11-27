@@ -2,8 +2,7 @@
 aliases:
 - Misskey Connector
 author:
-- minimarimo3
-author_page: https://minimarimo3.jp
+- '[[minimarimo3|minimarimo3]]'
 categories: []
 description: Enables posting and embedding Misskey notes.
 downloads: 684

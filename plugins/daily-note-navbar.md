@@ -2,8 +2,7 @@
 aliases:
 - Daily Note Navbar
 author:
-- Karsten F. Pedersen
-author_page: https://github.com/karstenpedersen
+- '[[karstenpedersen|Karsten F. Pedersen]]'
 categories: []
 description: Navigate between sequential daily notes with ease.
 downloads: 3794

@@ -2,8 +2,7 @@
 aliases:
 - Adjacency Matrix Exporter
 author:
-- danielegrazzini
-author_page: https://github.com/danielegrazzini/adjacency-matrix-exporter
+- '[[danielegrazzini|danielegrazzini]]'
 categories: []
 description: 'Create a numerical adjacency matrix of your vault in two ways: Absolute
   and Normalized.'

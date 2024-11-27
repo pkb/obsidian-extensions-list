@@ -2,8 +2,7 @@
 aliases:
 - FuzzyTag
 author:
-- Adrian
-author_page: github.com/adriandersen
+- '[[adriandersen|Adrian]]'
 categories: []
 description: Fuzzy match autocomplete tags in Frontmatter
 downloads: 5227

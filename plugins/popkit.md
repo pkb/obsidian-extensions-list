@@ -2,8 +2,7 @@
 aliases:
 - PopKit
 author:
-- Zhou Hua
-author_page: https://zhouhua.site
+- '[[zhouhua|Zhou Hua]]'
 categories: []
 description: Select text to instantly access quick tools
 downloads: 1606

@@ -2,8 +2,7 @@
 aliases:
 - Hierarchy
 author:
-- Kodai Nakamura
-author_page: https://github.com/kdnk
+- '[[kdnk|Kodai Nakamura]]'
 categories: []
 description: Display the hierarchy instead of just the file name.
 downloads: 221

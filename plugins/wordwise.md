@@ -2,8 +2,7 @@
 aliases:
 - WordWise
 author:
-- ckt1031
-author_page: https://github.com/ckt1031
+- '[[ckt1031|ckt1031]]'
 categories: []
 description: Writing companion for AI content generation.
 downloads: 2714

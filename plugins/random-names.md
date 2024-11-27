@@ -2,14 +2,10 @@
 aliases:
 - Random names
 author:
-- Tom Parker-Shemilt
-author_page: https://github.com/palfrey
+- '[[palfrey|Tom Parker-Shemilt]]'
 categories: []
 description: Generates random names
 downloads: 568
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/palfrey
-  Ko-fi: https://ko-fi.com/palfrey
 mobile: true
 number: 1612
 title: Random names

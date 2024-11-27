@@ -2,13 +2,11 @@
 aliases:
 - Publish to DEV
 author:
-- Peter Strøiman
-author_page: https://stroiman.com
+- '[[stroiman|Peter Strøiman]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish and update notes as articles on DEV (https://dev.to)
 downloads: 133
-funding_page: https://www.buymeacoffee.com/stroiman
 mobile: true
 number: 1752
 title: Publish to DEV

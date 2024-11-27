@@ -2,8 +2,7 @@
 aliases:
 - BookFusion
 author:
-- BookFusion
-author_page: https://www.bookfusion.com
+- '[[BookFusion|BookFusion]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'

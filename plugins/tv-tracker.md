@@ -2,12 +2,10 @@
 aliases:
 - Movie and TV show tracker
 author:
-- Shreshth Mehra
-author_page: https://github.com/Shreshth-mehra
+- '[[Shreshth-mehra|Shreshth Mehra]]'
 categories: []
 description: A Movie and TV show tracker.
 downloads: 2003
-funding_page: https://www.buymeacoffee.com/shreshthmehra
 mobile: true
 number: 1424
 title: Movie and TV show tracker

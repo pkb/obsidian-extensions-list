@@ -2,14 +2,12 @@
 aliases:
 - Better Search Views
 author:
-- ivan-lednev
-author_page: https://github.com/ivan-lednev
+- '[[ivan-lednev|ivan-lednev]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Search and navigation|Search and navigation]]'
 description: 'Outliner-like breadcrumb trees for search, backlinks and embedded queries '
 downloads: 17975
-funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 1042
 title: Better Search Views

@@ -2,8 +2,7 @@
 aliases:
 - Smart Templates
 author:
-- "\U0001F334 Brian Petro"
-author_page: https://github.com/brianpetro
+- "[[brianpetro|\U0001F334 Brian Petro]]"
 categories:
 - '[[categories/Templates|Templates]]'
 - '[[categories/AI assistance|AI assistance]]'

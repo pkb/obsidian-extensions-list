@@ -2,8 +2,7 @@
 aliases:
 - AutoPause
 author:
-- Chris Kephart
-author_page: https://github.com/ckep1
+- '[[ckep1|Chris Kephart]]'
 categories: []
 description: Allows one audio track to be played at a time, pausing or stopping any
   others.

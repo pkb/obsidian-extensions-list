@@ -2,8 +2,7 @@
 aliases:
 - Task Status
 author:
-- Valerie Burzynski
-author_page: https://github.com/vburzynski/
+- '[[vburzynski|Valerie Burzynski]]'
 categories: []
 description: Quickly select and apply custom task status markers
 downloads: 4439

@@ -2,8 +2,7 @@
 aliases:
 - User Plugins
 author:
-- mnowotnik
-author_page: https://mnowotnik.com
+- '[[mnowotnik|mnowotnik]]'
 categories: []
 description: Use ts and js modules or js snippets to code your own plugins
 downloads: 4613

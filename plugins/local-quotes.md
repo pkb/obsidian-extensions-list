@@ -2,8 +2,7 @@
 aliases:
 - Local Quotes
 author:
-- decatetsu
-author_page: https://github.com/decatetsu
+- '[[sundevista|decatetsu]]'
 categories: []
 description: Collect your quotes from all over the repository and embed them in different
   locations with refresh delays.

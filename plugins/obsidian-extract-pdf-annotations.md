@@ -2,8 +2,7 @@
 aliases:
 - Extract PDF Annotations
 author:
-- Franz Achermann
-author_page: https://github.com/munach/obsidian-extract-pdf-annotations
+- '[[munach|Franz Achermann]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'

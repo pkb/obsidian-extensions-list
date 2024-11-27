@@ -2,8 +2,7 @@
 aliases:
 - Hotkey Helper
 author:
-- PJ Eby
-author_page: https://github.com/pjeby
+- '[[pjeby|PJ Eby]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Easily see and access any plugin's settings or hotkey assignments (and

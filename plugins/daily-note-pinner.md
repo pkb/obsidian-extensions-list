@@ -2,8 +2,7 @@
 aliases:
 - Daily Note Pinner
 author:
-- LukeMT
-author_page: https://github.com/lukemt/
+- '[[lukemt|LukeMT]]'
 categories: []
 description: Pins the Daily Note of the present day. Unpinns all Daily Notes of past
   and future days.

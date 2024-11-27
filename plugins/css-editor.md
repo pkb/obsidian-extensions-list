@@ -2,12 +2,10 @@
 aliases:
 - CSS Editor
 author:
-- Zachatoo
-author_page: https://zachyoung.dev
+- '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Edit CSS files within Obsidian.
 downloads: 14466
-funding_page: https://github.com/sponsors/Zachatoo
 mobile: true
 number: 1019
 title: CSS Editor

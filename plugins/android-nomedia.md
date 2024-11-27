@@ -2,8 +2,7 @@
 aliases:
 - Android nomedia
 author:
-- jakeisawesome
-author_page: https://www.jakeisawesome.com
+- '[[calomancer|jakeisawesome]]'
 categories: []
 description: Hides media from your Vault on Android devices by adding the 'nomedia'
   file to each folder.

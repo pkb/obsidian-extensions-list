@@ -2,12 +2,10 @@
 aliases:
 - Tree Search
 author:
-- Catalin Costache
-author_page: https://github.com/catacgc
+- '[[catacgc|Catalin Costache]]'
 categories: []
 description: Quickly search hierarchical line trees
 downloads: 355
-funding_page: https://github.com/sponsors/catacgc
 mobile: true
 number: 1986
 title: Tree Search

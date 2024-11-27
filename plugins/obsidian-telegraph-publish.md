@@ -2,8 +2,7 @@
 aliases:
 - Telegraph Publish
 author:
-- Reorx
-author_page: https://github.com/reorx
+- '[[reorx|Reorx]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: ''

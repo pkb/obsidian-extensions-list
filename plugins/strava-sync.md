@@ -2,8 +2,7 @@
 aliases:
 - Strava Sync
 author:
-- Howard Wilson
-author_page: https://github.com/watsonbox
+- '[[watsonbox|Howard Wilson]]'
 categories: []
 description: Sync activities from Strava.
 downloads: 57

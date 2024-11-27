@@ -2,8 +2,7 @@
 aliases:
 - Smart Random Note
 author:
-- Eric Hall
-author_page: https://erichall.io
+- '[[erichalldev|Eric Hall]]'
 categories: []
 description: A smart random note plugin
 downloads: 44371

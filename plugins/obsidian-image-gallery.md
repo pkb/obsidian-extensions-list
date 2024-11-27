@@ -2,8 +2,7 @@
 aliases:
 - Image Gallery
 author:
-- Luca Orio
-author_page: https://github.com/lucaorio
+- '[[lucaorio|Luca Orio]]'
 categories: []
 description: A zero setup masonry image gallery for Obsidian
 downloads: 17916

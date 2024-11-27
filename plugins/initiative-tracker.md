@@ -2,8 +2,7 @@
 aliases:
 - Initiative Tracker
 author:
-- Jeremy Valentine
-author_page: https://github.com/valentine195/obsidian-initiative-tracker
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: TTRPG Initiative Tracker for Obsidian.md
 downloads: 90685

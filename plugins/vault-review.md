@@ -2,8 +2,7 @@
 aliases:
 - Vault Review
 author:
-- Alexander
-author_page: https://x.com/sashakryzh
+- '[[SashaKryzh|Alexander]]'
 categories: []
 description: Randomly review your vault and track progress.
 downloads: 54

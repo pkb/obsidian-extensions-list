@@ -2,8 +2,7 @@
 aliases:
 - Pintora
 author:
-- Amias Lee
-author_page: https://github.com/amiaslee
+- '[[amiaslee|Amias Lee]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Generates diagrams using Pintora

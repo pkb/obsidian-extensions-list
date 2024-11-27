@@ -2,13 +2,11 @@
 aliases:
 - Code Files
 author:
-- Lukas Bach
-author_page: https://lukasbach.com
+- '[[lukasbach|Lukas Bach]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Edit Code Files in Obsidian with VSCode's powerful Monaco Editor
 downloads: 9960
-funding_page: https://github.com/sponsors/lukasbach
 mobile: false
 number: 867
 title: Code Files

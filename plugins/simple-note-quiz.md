@@ -2,8 +2,7 @@
 aliases:
 - Simple Note Quiz
 author:
-- dorisxx
-author_page: https://github.com/dorisxx
+- '[[beginner137|dorisxx]]'
 categories: []
 description: Start a simple quiz on your current note
 downloads: 4854

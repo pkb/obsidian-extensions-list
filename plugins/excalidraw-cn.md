@@ -2,14 +2,12 @@
 aliases:
 - Excalidraw CN
 author:
-- Korbin Zhao
-author_page: https://korbinzhao.deno.dev/
+- '[[korbinzhao|Korbin Zhao]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: 支持中文手写效果的 Excalidraw。Excalidraw supporting Chinese hand write font by
   default.
 downloads: 12738
-funding_page: https://afdian.net/a/wantian
 mobile: true
 number: 1106
 title: Excalidraw CN

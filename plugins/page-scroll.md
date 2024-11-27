@@ -2,8 +2,7 @@
 aliases:
 - Page Scroll
 author:
-- triski
-author_page: https://github.com/chenshutian9610
+- '[[chenshutian9610|triski]]'
 categories: []
 description: Page Up|Down|Top|Bottom
 downloads: 554

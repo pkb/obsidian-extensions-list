@@ -2,8 +2,7 @@
 aliases:
 - Key Promoter
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei
+- '[[joethei|Johannes Theiner]]'
 categories: []
 description: Learn keyboard shortcuts by showing them when using the mouse
 downloads: 12557

@@ -1,8 +1,8 @@
 ---
 aliases:
 - Emacs text editor
-author: Klojer
-author_page: https://github.com/Klojer
+author:
+- '[[authors/Klojer|Klojer]]'
 categories: []
 description: Partial emulation of Emacs text editor for Obisidian
 downloads: 4644

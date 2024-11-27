@@ -2,8 +2,7 @@
 aliases:
 - Tabs
 author:
-- Huajin
-author_page: https://github.com/xhuajin
+- '[[xhuajin|Huajin]]'
 categories: []
 description: Create tabs in your notes.
 downloads: 9553

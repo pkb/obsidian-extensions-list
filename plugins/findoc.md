@@ -2,14 +2,11 @@
 aliases:
 - Financial Doc
 author:
-- Studio Webux
-author_page: https://studiowebux.com
+- '[[studiowebux|Studio Webux]]'
 categories: []
 description: Financial Documentation and Tracking using CSV format and Chart.js directly
   in Obsidian
 downloads: 5273
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/studiowebux
 mobile: true
 number: 968
 title: Financial Doc

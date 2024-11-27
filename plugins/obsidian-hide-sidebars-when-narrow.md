@@ -2,13 +2,11 @@
 aliases:
 - Hide Sidebars on Window Resize
 author:
-- NomarCub
-- Michael Hanson
-author_page: https://github.com/NomarCub
+- '[[authors/NomarCub|NomarCub]]'
+- '[[NomarCub|Michael Hanson]]'
 categories: []
 description: Automatically hides the sidebars when your window is resized to be narrower
 downloads: 14104
-funding_page: https://ko-fi.com/nomarcub
 mobile: false
 number: 248
 title: Hide Sidebars on Window Resize

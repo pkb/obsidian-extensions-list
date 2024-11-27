@@ -2,8 +2,7 @@
 aliases:
 - Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 author:
-- AidenLx
-author_page: https://github.com/AidenLx
+- '[[aidenlx|AidenLx]]'
 categories: []
 description: A patch for Obsidian's built-in CodeMirror Editor to support Simplified
   Chinese word splitting

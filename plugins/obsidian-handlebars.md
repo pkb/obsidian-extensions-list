@@ -2,8 +2,7 @@
 aliases:
 - Handlebars Template Plugin
 author:
-- Sean Quinlan
-author_page: https://github.com/sbquinlan
+- '[[sbquinlan|Sean Quinlan]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: This is a plugin for Obsidian that adds support for handlebars template

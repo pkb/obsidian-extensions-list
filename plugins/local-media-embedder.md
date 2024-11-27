@@ -2,8 +2,7 @@
 aliases:
 - Local Media Embedder
 author:
-- seyf1elislam
-author_page: https://seyf1elislam.netlify.app/me
+- '[[seyf1elislam|seyf1elislam]]'
 categories:
 - '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Embed videos and images and audios from your local device  in your notes.

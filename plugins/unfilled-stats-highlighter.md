@@ -2,8 +2,7 @@
 aliases:
 - Unfilled Stats Highlighter
 author:
-- Zachary Hynes
-author_page: https://github.com/White7292
+- '[[White7292|Zachary Hynes]]'
 categories: []
 description: The Unfilled Stats Highlighter is a practical Obsidian plugin designed
   to streamline your stat/habit tracking process by automatically identifying and

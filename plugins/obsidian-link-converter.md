@@ -2,8 +2,7 @@
 aliases:
 - Link Converter
 author:
-- Ozan Tellioglu
-author_page: https://ozan.pl
+- '[[ozntel|Ozan Tellioglu]]'
 categories: []
 description: Scan all your links in the vault and convert them to your desired format.
 downloads: 21541

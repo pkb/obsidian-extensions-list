@@ -2,8 +2,7 @@
 aliases:
 - Project Garden
 author:
-- Ben Goosman
-author_page: https://github.com/bgoosman
+- '[[bgoosman|Ben Goosman]]'
 categories: []
 description: See all your projects in one place
 downloads: 5296

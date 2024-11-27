@@ -2,8 +2,7 @@
 aliases:
 - Weekly Review notes linker
 author:
-- Aditya Khowal and Brandon Boswell
-author_page: https://adityakh.info/
+- '[[AdityaKhowalGithub|Aditya Khowal and Brandon Boswell]]'
 categories: []
 description: This links all of the files you have created in the last week into a
   Weekly Review note.

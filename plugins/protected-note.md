@@ -2,14 +2,12 @@
 aliases:
 - Protected Note
 author:
-- Mikail Gadzhikhanov
-author_page: https://github.com/mmiksaa
+- '[[mmiksaa|Mikail Gadzhikhanov]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Set Password and Protect your notes from other people. Encrypt and Decrypt
   all notes!
 downloads: 3468
-funding_page: https://buymeacoffee.com/gadgihanovm
 mobile: true
 number: 1412
 title: Protected Note

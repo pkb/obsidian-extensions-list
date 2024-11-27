@@ -2,8 +2,7 @@
 aliases:
 - Plot Vectors and Graphs
 author:
-- Nicole Tan YiTong
-author_page: https://github.com/nicoletanyt
+- '[[nicoletanyt|Nicole Tan YiTong]]'
 categories: []
 description: Generates graphs and vectors.
 downloads: 395

@@ -2,8 +2,7 @@
 aliases:
 - Chorded Hotkeys
 author:
-- Trey Connor Meyers
-author_page: https://www.linkedin.com/in/tconnormeyers/
+- '[[ConnorMeyers|Trey Connor Meyers]]'
 categories: []
 description: Type multiple letters at the same time to trigger text insertion, template
   insertion, or command execution.

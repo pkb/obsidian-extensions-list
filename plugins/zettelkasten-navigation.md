@@ -2,8 +2,7 @@
 aliases:
 - zettelkasten navigation
 author:
-- terrychenzw
-author_page: https://github.com/terrychenzw
+- '[[terrychenzw|terrychenzw]]'
 categories: []
 description: Visualize a Luhmann-style zettelkasten.
 downloads: 2550

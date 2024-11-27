@@ -2,8 +2,7 @@
 aliases:
 - Outline Converter
 author:
-- masaki39
-author_page: https://github.com/masaki39
+- '[[masaki39|masaki39]]'
 categories: []
 description: Convert outline to continuous text.
 downloads: 807

@@ -2,15 +2,12 @@
 aliases:
 - x86 Assembly Flow Graphing
 author:
-- icebear
-author_page: https://github.com/dwolfe884
+- '[[dwolfe884|icebear]]'
 categories:
 - '[[categories/Canvas]]'
 - '[[categories/Code and development|Code and development]]'
 description: An Obsidian plugin for converting x86 code blocks into flow graphs
 downloads: 3977
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/djwolfe
 mobile: true
 number: 853
 title: x86 Assembly Flow Graphing

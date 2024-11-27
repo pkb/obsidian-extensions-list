@@ -2,8 +2,7 @@
 aliases:
 - Vim IM Control
 author:
-- hideakitai
-author_page: https://github.com/hideakitai
+- '[[hideakitai|hideakitai]]'
 categories: []
 description: Control Input Method (IM) when `InsertLeave` and `InsertEnter` in Vim
   mode. Supports macOS, Windows, and Linux.

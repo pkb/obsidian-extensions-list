@@ -2,13 +2,11 @@
 aliases:
 - Sentence Navigator
 author:
-- Tim Hor & Andrew Brown
-author_page: https://github.com/timhor
+- '[[timhor|Tim Hor & Andrew Brown]]'
 categories: []
 description: Manipulate sentences as a unit of movement. Select, move and delete by
   whole sentences.
 downloads: 5335
-funding_page: https://ko-fi.com/timhor
 mobile: true
 number: 350
 title: Sentence Navigator

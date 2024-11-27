@@ -2,8 +2,7 @@
 aliases:
 - Markwhen
 author:
-- Markwhen
-author_page: https://github.com/mark-when
+- '[[mark-when|Markwhen]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Create timelines, gantt charts, calendars, and more using markwhen.

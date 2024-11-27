@@ -2,8 +2,7 @@
 aliases:
 - Siteswap
 author:
-- Tim Dresser
-author_page: ''
+- '[[tdresser|Tim Dresser]]'
 categories: []
 description: Visualize Juggling Pattern Siteswap via the JugglingLab gif server.
 downloads: 3474

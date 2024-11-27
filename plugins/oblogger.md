@@ -2,12 +2,10 @@
 aliases:
 - oblogger
 author:
-- loftTech
-author_page: https://github.com/loftTech
+- '[[lofttech|loftTech]]'
 categories: []
 description: tagger explorer and frontmatter logger
 downloads: 4743
-funding_page: https://www.buymeacoffee.com/lofttech
 mobile: true
 number: 1027
 title: oblogger

@@ -2,8 +2,7 @@
 aliases:
 - Fountain Editor
 author:
-- Chuang Caleb
-author_page: https://chuangcaleb.com
+- '[[chuangcaleb|Chuang Caleb]]'
 categories: []
 description: Fountain (screenplay) syntax highlighting in the editor
 downloads: 5145

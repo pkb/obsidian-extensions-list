@@ -2,8 +2,7 @@
 aliases:
 - Scrybble
 author:
-- Streamsoft
-author_page: https://scrybble.ink
+- '[[Azeirah|Streamsoft]]'
 categories: []
 description: Synchronize highlights from your ReMarkable to Obsidian!
 downloads: 12310

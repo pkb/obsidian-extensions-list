@@ -2,8 +2,7 @@
 aliases:
 - Workout Tracker
 author:
-- wanabeunique
-author_page: https://github.com/wanabeunique
+- '[[wanabeunique|wanabeunique]]'
 categories: []
 description: Log workouts, track progress, and view exercise statistic.
 downloads: 166

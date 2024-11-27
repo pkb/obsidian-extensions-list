@@ -2,8 +2,7 @@
 aliases:
 - qmd as md
 author:
-- Daniel Borek
-author_page: https://github.com/danieltomasz
+- '[[danieltomasz|Daniel Borek]]'
 categories: []
 description: This plugin provides an initial support for viewing files with .qmd extension.
   QMD files contain a combination of markdown and executable code cells and are a

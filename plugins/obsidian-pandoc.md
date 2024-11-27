@@ -2,8 +2,7 @@
 aliases:
 - Pandoc Plugin
 author:
-- Oliver Balfour
-author_page: https://github.com/OliverBalfour/obsidian-pandoc
+- '[[OliverBalfour|Oliver Balfour]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a Pandoc export plugin for Obsidian. It provides commands to

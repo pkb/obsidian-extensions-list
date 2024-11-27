@@ -2,8 +2,7 @@
 aliases:
 - Slash Commander
 author:
-- alephpiece
-author_page: https://github.com/alephpiece
+- '[[alephpiece|alephpiece]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize the slash command list, assign each command an icon.

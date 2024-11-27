@@ -2,8 +2,7 @@
 aliases:
 - ExMemo Client
 author:
-- Yan.Xie
-author_page: http://tencent.xyan666.com/
+- '[[exmemo-ai|Yan.Xie]]'
 categories: []
 description: A client for the ExMemo service, used to search, sync, and organize data
   from the server.

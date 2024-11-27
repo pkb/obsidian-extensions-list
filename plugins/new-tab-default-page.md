@@ -2,12 +2,10 @@
 aliases:
 - Default New Tab Page
 author:
-- pseudometa
-author_page: https://chris-grieser.de/
+- '[[chrisgrieser|pseudometa]]'
 categories: []
 description: Open a note of your choice when creating a new tab, like in the browser.
 downloads: 21345
-funding_page: https://ko-fi.com/pseudometa
 mobile: true
 number: 594
 title: Default New Tab Page

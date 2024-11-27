@@ -2,8 +2,7 @@
 aliases:
 - Typing speed
 author:
-- supercyp
-author_page: https://github.com/Supercip971
+- '[[Supercip971|supercyp]]'
 categories: []
 description: This is a plugin for showing the current typing speed in the status bar
 downloads: 9766

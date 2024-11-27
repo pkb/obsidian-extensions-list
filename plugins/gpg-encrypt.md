@@ -2,15 +2,13 @@
 aliases:
 - GPG Encrypt
 author:
-- Luis Jaramillo
-author_page: https://www.lajg.dev
+- '[[lajg-dev|Luis Jaramillo]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Plugin to encrypt partial text or complete notes using GPG technology,
   it is compatible with security keys such as YubiKey or traditional GPG encryption
   methods
 downloads: 1634
-funding_page: https://www.lajg.dev/donate/
 mobile: false
 number: 1417
 title: GPG Encrypt

@@ -2,12 +2,10 @@
 aliases:
 - Style Text
 author:
-- Juanjo Arranz
-author_page: https://github.com/juanjoarranz
+- '[[juanjoarranz|Juanjo Arranz]]'
 categories: []
 description: Apply custom CSS styles to selected text in your Obsidian Notes.
 downloads: 7597
-funding_page: https://ko-fi.com/F1F6H4TAR
 mobile: true
 number: 1005
 title: Style Text

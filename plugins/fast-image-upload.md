@@ -2,8 +2,7 @@
 aliases:
 - Fast Image Auto Uploader
 author:
-- Longtao Wu
-author_page: https://github.com/eust-w
+- '[[eust-w|Longtao Wu]]'
 categories: []
 description: Uploads clipboard images using goPic
 downloads: 188

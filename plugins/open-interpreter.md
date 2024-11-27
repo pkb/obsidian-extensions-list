@@ -2,8 +2,7 @@
 aliases:
 - Open Interpreter
 author:
-- Mike Bird
-author_page: https://www.github.com/MikeBirdTech
+- '[[MikeBirdTech|Mike Bird]]'
 categories: []
 description: Use Open Interpreter to run automatic operations on your vault
 downloads: 217

@@ -2,8 +2,7 @@
 aliases:
 - Jelly Snippets
 author:
-- Spencer Gouw
-author_page: github.com/rabirabirara
+- '[[rabirabirara|Spencer Gouw]]'
 categories: []
 description: A simple plugin for text snippets, with auto replacement
 downloads: 5236

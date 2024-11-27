@@ -2,12 +2,10 @@
 aliases:
 - Recipe view
 author:
-- lachholden
-author_page: https://github.com/lachholden
+- '[[lachholden|lachholden]]'
 categories: []
 description: View your notes as interactive recipe cards while you cook.
 downloads: 16941
-funding_page: https://ko-fi.com/lachholden
 mobile: true
 number: 1197
 title: Recipe view

@@ -2,12 +2,10 @@
 aliases:
 - Storyclock Viewer
 author:
-- Jonathan Fisher
-author_page: https://jonzfisher.com
+- '[[jonzfisher|Jonathan Fisher]]'
 categories: []
 description: Maps timing onto a storyclock. Inspired by Plot Devices Storyclock.
 downloads: 2248
-funding_page: https://www.buymeacoffee.com/jonzfisher
 mobile: true
 number: 1338
 title: Storyclock Viewer

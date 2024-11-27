@@ -2,12 +2,10 @@
 aliases:
 - Metadata Auto Classifier
 author:
-- Beomsu Koh
-author_page: https://medium.com/@beromkoh
+- '[[GoBeromsu|Beomsu Koh]]'
 categories: []
 description: Automatically classifies and applies metadata to your notes.
 downloads: 332
-funding_page: buymeacoffee.com/gobeumsu9
 mobile: true
 number: 1957
 title: Metadata Auto Classifier

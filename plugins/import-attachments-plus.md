@@ -2,14 +2,12 @@
 aliases:
 - Import Attachments+
 author:
-- Andrea Alberti
-author_page: https://www.linkedin.com/in/dr-andrea-alberti/
+- '[[alberti42|Andrea Alberti]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 - '[[categories/Import|Import]]'
 description: Move and link the attachments into the vault.
 downloads: 2056
-funding_page: https://buymeacoffee.com/alberti
 mobile: true
 number: 1760
 title: Import Attachments+

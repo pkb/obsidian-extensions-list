@@ -2,8 +2,7 @@
 aliases:
 - Snippet Commands
 author:
-- death_au
-author_page: https://github.com/deathau
+- '[[deathau|death_au]]'
 categories: []
 description: Registers custom css snippets as commands (which you can bind hotkeys
   to)

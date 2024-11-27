@@ -2,8 +2,7 @@
 aliases:
 - Instapaper
 author:
-- Instapaper
-author_page: https://www.instapaper.com
+- '[[Instapaper|Instapaper]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Instapaper integration.

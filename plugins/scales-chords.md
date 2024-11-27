@@ -2,8 +2,7 @@
 aliases:
 - Scales and Chords
 author:
-- egradman
-author_page: https://www.gradman.com
+- '[[egradman|egradman]]'
 categories: []
 description: Use this plugin to capture musical tab notation in your Obsidian vault.  Chords
   will become clickable links to modal images (provided by scales-chords.com)

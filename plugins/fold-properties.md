@@ -2,13 +2,10 @@
 aliases:
 - Fold Properties
 author:
-- James Alexandre
-author_page: https://github.com/itsonlyjames
+- '[[itsonlyjames|James Alexandre]]'
 categories: []
 description: Adds fold/unfold properties function to folder context menu
 downloads: 174
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/itsonlyjames
 mobile: true
 number: 1966
 title: Fold Properties

@@ -2,13 +2,11 @@
 aliases:
 - Text Finder
 author:
-- hafuhafu
-author_page: https://github.com/nyable
+- '[[nyable|hafuhafu]]'
 categories: []
 description: Provides a find/replace window in edit mode similar to VSCode (supports
   regular expressions and case sensitivity).
 downloads: 314
-funding_page: https://buymeacoffee.com/nyable
 mobile: true
 number: 1989
 title: Text Finder

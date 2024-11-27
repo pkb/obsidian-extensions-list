@@ -2,8 +2,7 @@
 aliases:
 - Natural Language Dates
 author:
-- Argentina Ortega Sainz
-author_page: https://argentinaos.com/
+- '[[authors/argenos|Argentina Ortega Sainz]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Create date-links based on natural language

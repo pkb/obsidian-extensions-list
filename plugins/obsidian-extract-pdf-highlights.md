@@ -2,8 +2,7 @@
 aliases:
 - PDF Highlights
 author:
-- Alexis Rondeau
-author_page: https://publish.obsidian.md/alexisrondeau
+- '[[akaalias|Alexis Rondeau]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'

@@ -2,8 +2,7 @@
 aliases:
 - Date Inserter
 author:
-- namikaze-40p
-author_page: https://github.com/namikaze-40p
+- '[[namikaze-40p|namikaze-40p]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Insert a date at the cursor position using a calendar.

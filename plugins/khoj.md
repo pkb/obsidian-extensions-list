@@ -2,8 +2,7 @@
 aliases:
 - Khoj
 author:
-- Khoj Inc.
-author_page: https://github.com/khoj-ai
+- '[[khoj-ai|Khoj Inc.]]'
 categories: []
 description: Your Second Brain
 downloads: 30016

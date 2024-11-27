@@ -2,8 +2,7 @@
 aliases:
 - Alfonso Money Manager
 author:
-- SmartLife GPT Innovations
-author_page: https://github.com/smartlife-gpt
+- '[[smartlife-gpt|SmartLife GPT Innovations]]'
 categories: []
 description: Alfonso Money Manager data viewer and finantial analitics tool
 downloads: 1296

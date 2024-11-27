@@ -2,8 +2,7 @@
 aliases:
 - Imgur
 author:
-- Kirill Gavrilov
-author_page: https://github.com/gavvvr
+- '[[gavvvr|Kirill Gavrilov]]'
 categories: []
 description: This plugin uploads images from your clipboard to imgur.com and embeds
   uploaded image to your note

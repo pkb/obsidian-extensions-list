@@ -2,8 +2,7 @@
 aliases:
 - Syrinscape Online Player
 author:
-- Stephen Cooper
-author_page: https://github.com/scooper4711
+- '[[scooper4711|Stephen Cooper]]'
 categories: []
 description: Control Syrinscape Online Player from inside of notes.
 downloads: 279

@@ -2,8 +2,7 @@
 aliases:
 - Toggle RTL mode
 author:
-- Yoni Asulin
-author_page: https://github.com/YoniA
+- '[[YoniA|Yoni Asulin]]'
 categories: []
 description: Toggle RTL mode using command or ribbon action
 downloads: 246

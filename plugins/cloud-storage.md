@@ -2,13 +2,11 @@
 aliases:
 - Cloud Storage
 author:
-- majiajun
-author_page: https://github.com/yingjialong
+- '[[yingjialong|majiajun]]'
 categories: []
 description: Allows users to upload local files to the cloud, reducing the burden
   on local vaults and enabling seamless synchronization across multiple devices.
 downloads: 310
-funding_page: https://pay.obcs.top
 mobile: true
 number: 1948
 title: Cloud Storage

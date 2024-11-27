@@ -2,8 +2,7 @@
 aliases:
 - Daily Notes Viewer
 author:
-- Johnson0907
-author_page: https://github.com/Johnson0907
+- '[[Johnson0907|Johnson0907]]'
 categories: []
 description: Help you to view some recent daily notes on one page.
 downloads: 13987

@@ -2,8 +2,7 @@
 aliases:
 - Relativenumber (relative line numbers)
 author:
-- Rob Stevenson
-author_page: https://github.com/thisdotrob/
+- '[[thisdotrob|Rob Stevenson]]'
 categories: []
 description: Displays relative line numbers in the editor's gutter.
 downloads: 4469

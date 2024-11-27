@@ -2,8 +2,7 @@
 aliases:
 - File Chucker
 author:
-- Ken Lim
-author_page: https://github.com/kenlim/obsidian-file-chucker
+- '[[kenlim|Ken Lim]]'
 categories: []
 description: Quickly move a file to a new or existing folder, then open the next file.
 downloads: 4209

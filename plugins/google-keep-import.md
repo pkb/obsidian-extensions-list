@@ -2,15 +2,13 @@
 aliases:
 - Google Keep Import
 author:
-- Dale de Silva
-author_page: https://designdebt.club
+- '[[daledesilva|Dale de Silva]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Imports Google Keep backup files and attachments. Can also be used to
   import other files. Use the official Obsidian Importer plugin instead unless you
   need additional customisation of character mapping or importing of extraneous files.
 downloads: 7263
-funding_page: https://ko-fi.com/daledesilva
 mobile: true
 number: 903
 title: Google Keep Import

@@ -2,8 +2,7 @@
 aliases:
 - Heading Level Indent
 author:
-- svonjoi
-author_page: https://github.com/svonjoi
+- '[[svonjoi|svonjoi]]'
 categories: []
 description: Indenting content under headers based on their level
 downloads: 11723

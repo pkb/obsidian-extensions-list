@@ -2,12 +2,10 @@
 aliases:
 - Hotkeys for specific files
 author:
-- Vinzent
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent]]'
 categories: []
 description: Set hotkeys for specific files and open them just with your keyboard.
 downloads: 25306
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 106
 title: Hotkeys for specific files

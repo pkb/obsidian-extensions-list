@@ -2,8 +2,7 @@
 aliases:
 - External Link Opener
 author:
-- Zora Zhang
-author_page: https://zorazrr.github.io/
+- '[[zorazrr|Zora Zhang]]'
 categories: []
 description: Open external links within Obsidian using a modal or a tab.
 downloads: 4487

@@ -2,13 +2,11 @@
 aliases:
 - Canvas Explorer
 author:
-- Henri Jamet
-author_page: https://www.henri-jamet.com/
+- '[[hjamet|Henri Jamet]]'
 categories: []
 description: Explore your Obsidian vault by adding or ignoring linked notes, generating
   a customizable canvas with note sorting and section exclusion.
 downloads: 598
-funding_page: https://www.henri-jamet.com/
 mobile: true
 number: 1864
 title: Canvas Explorer

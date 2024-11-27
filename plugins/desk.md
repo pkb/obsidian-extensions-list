@@ -2,12 +2,10 @@
 aliases:
 - Desk
 author:
-- David Landry
-author_page: https://blog.dlandry.xyz
+- '[[davidlandry93|David Landry]]'
 categories: []
 description: A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency.
 downloads: 3093
-funding_page: https://ko-fi.com/davidlandry
 mobile: false
 number: 1313
 title: Desk

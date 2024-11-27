@@ -2,8 +2,7 @@
 aliases:
 - GTP Preview
 author:
-- Barba828
-author_page: https://github.com/Barba828
+- '[[Barba828|Barba828]]'
 categories: []
 description: Supports rendering of GuitarPro files such as `gtp/gp/gp5/gpx`.
 downloads: 173

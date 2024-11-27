@@ -2,8 +2,7 @@
 aliases:
 - CookLang Editor
 author:
-- death_au
-author_page: https://github.com/deathau
+- '[[cooklang|death_au]]'
 categories: []
 description: Edit and display CookLang recipes in Obsidian
 downloads: 8093

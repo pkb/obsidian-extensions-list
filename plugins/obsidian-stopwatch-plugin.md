@@ -2,8 +2,7 @@
 aliases:
 - Stopwatch Plugin
 author:
-- Tokuhiro Matsuno
-author_page: https://64p.org
+- '[[tokuhirom|Tokuhiro Matsuno]]'
 categories: []
 description: Display stopwatch on Obsidian!
 downloads: 6510

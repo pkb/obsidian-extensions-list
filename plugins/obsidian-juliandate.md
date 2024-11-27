@@ -2,8 +2,7 @@
 aliases:
 - Julian Date
 author:
-- thek3nger
-author_page: https://www.davideaversa.it/
+- '[[THeK3nger|thek3nger]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Simple hotkey to insert the current Julian Date

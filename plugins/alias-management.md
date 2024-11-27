@@ -2,8 +2,7 @@
 aliases:
 - Alias Management
 author:
-- WithMarcel
-author_page: https://github.com/WithMarcel
+- '[[WithMarcel|WithMarcel]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Identify duplicate notes based on similar aliases and filenames.

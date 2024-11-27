@@ -2,8 +2,7 @@
 aliases:
 - Smart Connections
 author:
-- Brian Petro
-author_page: https://wfhbrian.com
+- '[[brianpetro|Brian Petro]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Find links to similar notes using artificial intelligence from OpenAI.

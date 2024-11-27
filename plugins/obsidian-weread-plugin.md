@@ -2,8 +2,7 @@
 aliases:
 - Weread
 author:
-- hankzhao
-author_page: https://zhaohongxuan.github.io
+- '[[zhaohongxuan|hankzhao]]'
 categories: []
 description: This is obsidian plugin for Tencent weread.
 downloads: 78118

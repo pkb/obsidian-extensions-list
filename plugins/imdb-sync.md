@@ -2,8 +2,7 @@
 aliases:
 - IMDb
 author:
-- Andrew Chen
-author_page: https://github.com/aaachen
+- '[[aaachen|Andrew Chen]]'
 categories: []
 description: Sync your IMDb list
 downloads: 591

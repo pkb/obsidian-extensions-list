@@ -2,8 +2,7 @@
 aliases:
 - Superstition
 author:
-- Jeffry
-author_page: https://github.com/shuxueshuxue
+- '[[shuxueshuxue|Jeffry]]'
 categories: []
 description: Manage routines with traditional calendar concept of 宜/忌
 downloads: 43

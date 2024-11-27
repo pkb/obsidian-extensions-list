@@ -2,8 +2,7 @@
 aliases:
 - TagFolder
 author:
-- vorotamoroz
-author_page: https://github.com/vrtmrz
+- '[[vrtmrz|vorotamoroz]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Show tags as folder

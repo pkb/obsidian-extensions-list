@@ -2,8 +2,7 @@
 aliases:
 - Jisage -Japanese Indentation-
 author:
-- Telehakke
-author_page: https://github.com/Telehakke
+- '[[Telehakke|Telehakke]]'
 categories: []
 description: Display 'Jisage' (indenting with a full-width space at the beginning
   of a line) text correctly.

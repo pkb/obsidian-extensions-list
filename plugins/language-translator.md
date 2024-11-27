@@ -2,8 +2,7 @@
 aliases:
 - Language Translator
 author:
-- Florin Bobis
-author_page: https://florin.page
+- '[[twentytwokhz|Florin Bobis]]'
 categories: []
 description: Translates given text to desired language
 downloads: 35472

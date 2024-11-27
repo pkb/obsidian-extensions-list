@@ -2,13 +2,11 @@
 aliases:
 - KV Store
 author:
-- Darren-project
-author_page: https://github.com/Darren-project/
+- '[[Darren-project|Darren-project]]'
 categories: []
 description: Adds a key-value store. Use it to store and retrieve key-value pairs
   in your vault.
 downloads: 486
-funding_page: https://www.buymeacoffee.com/mickeydarrenlau
 mobile: true
 number: 1607
 title: KV Store

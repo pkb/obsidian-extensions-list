@@ -2,8 +2,7 @@
 aliases:
 - Linter
 author:
-- Victor Tao
-author_page: https://github.com/platers
+- '[[platers|Victor Tao]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Formats and styles your notes. It can be used to format YAML tags, aliases,

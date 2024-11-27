@@ -2,12 +2,10 @@
 aliases:
 - DMN
 author:
-- JoLeaf
-author_page: https://github.com/JoLeaf
+- '[[joleaf|JoLeaf]]'
 categories: []
 description: This plugin enables viewing DMNs using dmn-js.
 downloads: 3554
-funding_page: https://ko-fi.com/joleaf
 mobile: true
 number: 715
 title: DMN

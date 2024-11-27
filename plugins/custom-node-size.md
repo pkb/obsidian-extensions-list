@@ -2,8 +2,7 @@
 aliases:
 - Custom Node Size
 author:
-- jackvonhouse
-author_page: https://github.com/jackvonhouse
+- '[[jackvonhouse|jackvonhouse]]'
 categories: []
 description: Customize nodes size for improved graph understanding.
 downloads: 685

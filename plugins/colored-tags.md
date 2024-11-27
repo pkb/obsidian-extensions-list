@@ -2,8 +2,7 @@
 aliases:
 - Colored Tags
 author:
-- Pavel Frankov
-author_page: https://github.com/pfrankov
+- '[[pfrankov|Pavel Frankov]]'
 categories: []
 description: Colorizes tags in different colors. Colors of nested tags are mixed with
   the root tag to improve readability. Text color contrast is automatically matched

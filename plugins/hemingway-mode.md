@@ -2,12 +2,10 @@
 aliases:
 - Hemingway Mode
 author:
-- Joaquín Bernal
-author_page: https://github.com/jobedom
+- '[[jobedom|Joaquín Bernal]]'
 categories: []
 description: Prevents any editing, only letting you write ahead.
 downloads: 1125
-funding_page: https://ko-fi.com/jobedom
 mobile: true
 number: 1552
 title: Hemingway Mode

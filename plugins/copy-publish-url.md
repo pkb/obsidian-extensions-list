@@ -2,8 +2,7 @@
 aliases:
 - Publish and GitHub URL
 author:
-- kometenstaub
-author_page: https://github.com/kometenstaub
+- '[[kometenstaub|kometenstaub]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Copy or open the URL of the corresponding note on your Publish site.

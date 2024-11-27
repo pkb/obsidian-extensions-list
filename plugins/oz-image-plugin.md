@@ -2,15 +2,13 @@
 aliases:
 - Image in Editor
 author:
-- Ozan Tellioglu
-author_page: https://ozan.pl/aboutme/
+- '[[ozntel|Ozan Tellioglu]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 - '[[categories/Image handling|Image handling]]'
 description: View Images, Transclusions, iFrames and PDF Files within the Editor without
   a necessity to switch to Preview.
 downloads: 295200
-funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 162
 title: Image in Editor

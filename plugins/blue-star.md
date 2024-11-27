@@ -2,8 +2,7 @@
 aliases:
 - Blue Star
 author:
-- Wang Guoshi
-author_page: https://github.com/Lio5n
+- '[[Lio5n|Wang Guoshi]]'
 categories: []
 description: Generate Anki flashcards in multiple ways.
 downloads: 180

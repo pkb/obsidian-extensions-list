@@ -2,8 +2,7 @@
 aliases:
 - NotesOn Publish
 author:
-- Andrey Shapkin
-author_page: https://noteson.ru
+- '[[shapkinaa|Andrey Shapkin]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Make single notes instantly available on the web.

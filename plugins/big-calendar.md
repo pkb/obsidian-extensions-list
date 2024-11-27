@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Big Calendar
 author:
-- Bonianll
-author_page: https://github.com/Quorafind/
+- '[[Quorafind|Bonianll]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: A Big Calendar for Obsidian

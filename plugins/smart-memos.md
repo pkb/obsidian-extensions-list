@@ -2,13 +2,11 @@
 aliases:
 - Smart Memos
 author:
-- Evan Moscoso
-author_page: https://github.com/mossy1022
+- '[[Mossy1022|Evan Moscoso]]'
 categories: []
 description: Create personalized and intelligent analysis, summaries, and more for
   audio recordings that can be imported or spoken directly into a note
 downloads: 3562
-funding_page: https://buymeacoffee.com/evansoasis
 mobile: true
 number: 1740
 title: Smart Memos

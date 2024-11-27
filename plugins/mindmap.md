@@ -2,8 +2,7 @@
 aliases:
 - Mindmap
 author:
-- YunXiaoYi
-author_page: https://github.com/OneCalmCloud
+- '[[OneCalmCloud|YunXiaoYi]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Create notes with Mindmaps.

@@ -2,8 +2,7 @@
 aliases:
 - heti
 author:
-- Moeyua
-author_page: https://github.com/moeyua
+- '[[moeyua|Moeyua]]'
 categories: []
 description: 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。
 downloads: 1025

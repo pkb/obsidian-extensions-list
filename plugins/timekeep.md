@@ -2,13 +2,11 @@
 aliases:
 - Timekeep
 author:
-- Jacobtread
-author_page: https://jacobtread.com
+- '[[jacobtread|Jacobtread]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Time tracking
 downloads: 2324
-funding_page: https://www.buymeacoffee.com/jacobtread
 mobile: true
 number: 1638
 title: Timekeep

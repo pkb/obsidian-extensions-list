@@ -2,8 +2,7 @@
 aliases:
 - Link Embed
 author:
-- SErAphLi
-author_page: https://github.com/Seraphli
+- '[[Seraphli|SErAphLi]]'
 categories: []
 description: This plugin allows you to convert URLs in your notes into embedded previews.
 downloads: 38210

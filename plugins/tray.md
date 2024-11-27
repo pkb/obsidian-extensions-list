@@ -2,8 +2,7 @@
 aliases:
 - Tray
 author:
-- dragonwocky
-author_page: https://dragonwocky.me/
+- '[[dragonwocky|dragonwocky]]'
 categories: []
 description: Run Obsidian from the system tray for customisable window management
   & global quick notes

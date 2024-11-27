@@ -2,13 +2,11 @@
 aliases:
 - Meta Bind
 author:
-- Moritz Jung
-author_page: https://www.moritzjung.dev/
+- '[[mProjectsCode|Moritz Jung]]'
 categories: []
 description: Make your notes interactive with inline input fields, metadata displays,
   and buttons.
 downloads: 110738
-funding_page: https://github.com/sponsors/mProjectsCode
 mobile: true
 number: 612
 title: Meta Bind

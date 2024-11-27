@@ -2,14 +2,12 @@
 aliases:
 - Better Export PDF
 author:
-- l1xnan
-author_page: https://github.com/l1xnan
+- '[[l1xnan|l1xnan]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export your notes to PDF, support export preview, add bookmarks outline
   and header/footer.
 downloads: 68390
-funding_page: https://www.buymeacoffee.com/l1xnan
 mobile: false
 number: 1408
 title: Better Export PDF

@@ -2,13 +2,11 @@
 aliases:
 - Timetracker
 author:
-- Nils Dammenhayn
-author_page: https://www.metal-detector.rocks
+- '[[hedgehog1833|Nils Dammenhayn]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Adds a stopwatch whose value can be inserted in the editor per hotkey.
 downloads: 4643
-funding_page: https://www.buymeacoffee.com/metaldetector
 mobile: true
 number: 1174
 title: Timetracker

@@ -2,8 +2,7 @@
 aliases:
 - PF2e Statblocks
 author:
-- Tyler Pixley
-author_page: https://pixley.github.io
+- '[[pixley|Tyler Pixley]]'
 categories: []
 description: Renders Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
 downloads: 4239

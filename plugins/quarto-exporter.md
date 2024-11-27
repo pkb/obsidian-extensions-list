@@ -2,8 +2,7 @@
 aliases:
 - Quarto Exporter
 author:
-- Andreas Varotsis
-author_page: https://andreasthinks.me/
+- '[[AndreasThinks|Andreas Varotsis]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export notes to Quarto-compatible QMD files.

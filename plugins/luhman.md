@@ -2,8 +2,7 @@
 aliases:
 - Luhman
 author:
-- Dylan Elliott
-author_page: https://github.com/dyldog
+- '[[Dyldog|Dylan Elliott]]'
 categories: []
 description: Commands for handling a zettelkasten with Luhmann-style IDs as filenames
 downloads: 14511

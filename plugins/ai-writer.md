@@ -2,8 +2,7 @@
 aliases:
 - ai-writer
 author:
-- Donovan Ye
-author_page: https://github.com/Donovan-Ye
+- '[[Donovan-Ye|Donovan Ye]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use AI to generate high-quality articles with knowledge fragments.

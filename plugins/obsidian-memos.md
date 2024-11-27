@@ -2,8 +2,7 @@
 aliases:
 - Thino
 author:
-- Boninall
-author_page: https://github.com/Quorafind/
+- '[[Quorafind|Boninall]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Capturing ideas and save them into daily notes. (Closed source)

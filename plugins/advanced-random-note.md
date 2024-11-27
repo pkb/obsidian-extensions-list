@@ -2,8 +2,7 @@
 aliases:
 - Advanced Random Note
 author:
-- Karsten Finderup Pedersen
-author_page: https://github.com/karstenpedersen
+- '[[karstenpedersen|Karsten Finderup Pedersen]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Open random notes with custom queries in languages like Dataview and

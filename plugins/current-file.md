@@ -2,8 +2,7 @@
 aliases:
 - Current File
 author:
-- Mark Fowler
-author_page: https://twoshortplanks.com
+- '[[2shortplanks|Mark Fowler]]'
 categories: []
 description: Allows external applications to know what file the desktop app is currently
   viewing.

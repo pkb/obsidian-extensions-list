@@ -2,8 +2,7 @@
 aliases:
 - Keyshots
 author:
-- KrazyManJ
-author_page: https://github.com/KrazyManJ
+- '[[KrazyManJ|KrazyManJ]]'
 categories: []
 description: Adds classic hotkey/shortcuts commands from popular IDEs like Visual
   Studio Code or JetBrains Family.

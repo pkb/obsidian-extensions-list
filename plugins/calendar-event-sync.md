@@ -2,8 +2,7 @@
 aliases:
 - Calendar Event Sync
 author:
-- Stephen Dolan
-author_page: https://stephendolan.com
+- '[[stephendolan|Stephen Dolan]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Sync a relevant calendar event to your current note.

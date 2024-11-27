@@ -2,8 +2,7 @@
 aliases:
 - Pomodoro Plugin
 author:
-- Tokuhiro Matsuno
-author_page: https://github.com/tokuhirom/
+- '[[tokuhirom|Tokuhiro Matsuno]]'
 categories: []
 description: This is a simple pomodoro plugin for Obsidian.
 downloads: 13577

@@ -2,8 +2,7 @@
 aliases:
 - Vim Input Method Switch
 author:
-- Yuan Chen
-author_page: https://github.com/yuanotes
+- '[[yuanotes|Yuan Chen]]'
 categories: []
 description: Switch input method with fcitx-remote when Vim keymap is enabled.
 downloads: 6387

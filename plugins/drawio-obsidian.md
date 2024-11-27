@@ -2,8 +2,7 @@
 aliases:
 - Diagrams
 author:
-- Sam Greenhalgh
-author_page: https://www.radicalresearch.co.uk/
+- '[[zapthedingbat|Sam Greenhalgh]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw.io diagrams for Obsidian. This plugin introduces diagrams that can

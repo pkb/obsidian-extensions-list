@@ -2,8 +2,7 @@
 aliases:
 - TimeStamper
 author:
-- Martin Eder
-author_page: https://www.gruware.org
+- '[[Gru80|Martin Eder]]'
 categories: []
 description: Insert customized time/date stamp.
 downloads: 28224

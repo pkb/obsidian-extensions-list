@@ -2,8 +2,7 @@
 aliases:
 - Creases
 author:
-- Liam Cain
-author_page: https://github.com/liamcain/
+- '[[liamcain|Liam Cain]]'
 categories: []
 description: Tools for efficiently folding markdown sections in Obsidian
 downloads: 24826

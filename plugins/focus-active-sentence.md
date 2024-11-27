@@ -2,12 +2,10 @@
 aliases:
 - Focus Active Sentence
 author:
-- artisticat
-author_page: https://github.com/artisticat1
+- '[[artisticat1|artisticat]]'
 categories: []
 description: Highlight the sentence the cursor is currently resting on.
 downloads: 5683
-funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 840
 title: Focus Active Sentence

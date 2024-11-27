@@ -2,8 +2,7 @@
 aliases:
 - QR Code Generator
 author:
-- Rudi Häusler
-author_page: https://github.com/rudimuc
+- '[[rudimuc|Rudi Häusler]]'
 categories: []
 description: This is a QR Code Generator plugin for Obsidian.
 downloads: 9857

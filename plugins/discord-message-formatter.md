@@ -2,8 +2,7 @@
 aliases:
 - Discord Message Formatter
 author:
-- Emile Durkheim
-author_page: https://github.com/Emile-Durkheim
+- '[[Emile-Durkheim|Emile Durkheim]]'
 categories: []
 description: Simply CTRL+C CTRL+V Discord messages from the Desktop client and have
   them automatically formatted

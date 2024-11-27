@@ -2,8 +2,7 @@
 aliases:
 - Relative Timestamps
 author:
-- Charles Young
-author_page: github.com/agctute
+- '[[agctute|Charles Young]]'
 categories: []
 description: Track the time between log entries
 downloads: 399

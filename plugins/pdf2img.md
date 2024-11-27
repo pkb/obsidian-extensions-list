@@ -2,8 +2,7 @@
 aliases:
 - PDF2Image
 author:
-- RasmusAChr
-author_page: https://github.com/rasmusachr
+- '[[rasmusachr|RasmusAChr]]'
 categories: []
 description: Turns a PDF into a series of images.
 downloads: 117

@@ -2,8 +2,7 @@
 aliases:
 - Testing Vault
 author:
-- Michael J. Pedersen <m.pedersen@icelus.org>
-author_page: https://github.com/pedersen
+- '[[pedersen|Michael J. Pedersen <m.pedersen@icelus.org>]]'
 categories: []
 description: This allows a developer to make a random vault of arbitrary size for
   testing their plugins.

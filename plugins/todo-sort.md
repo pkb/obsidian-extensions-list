@@ -2,8 +2,7 @@
 aliases:
 - Todo sort
 author:
-- Ryan Gomba
-author_page: https://github.com/ryangomba
+- '[[ryangomba|Ryan Gomba]]'
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that sorts todos by completion
   status.

@@ -2,8 +2,7 @@
 aliases:
 - Custom new file name
 author:
-- homu-konamilk
-author_page: https://github.com/homu-konamilk
+- '[[homu-konamilk|homu-konamilk]]'
 categories: []
 description: Enables the creation of new notes with custom formatted names, including
   dynamic datetime stamps.

@@ -2,8 +2,7 @@
 aliases:
 - Background Image
 author:
-- shmolf
-author_page: https://github.com/shmolf
+- '[[shmolf|shmolf]]'
 categories: []
 description: This allows you to specify a remote URL as the background image, and
   a few settings to tweak the experience.

@@ -2,8 +2,7 @@
 aliases:
 - Ghost Fade Focus
 author:
-- Sami Korpela
-author_page: https://github.com/skipadu/
+- '[[skipadu|Sami Korpela]]'
 categories: []
 description: Focused on the current line, others faded like a ghost!
 downloads: 9464

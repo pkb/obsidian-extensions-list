@@ -2,15 +2,11 @@
 aliases:
 - Nostr Writer
 author:
-- jamesmagoo
-author_page: https://github.com/jamesmagoo
+- '[[jamesmagoo|jamesmagoo]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your writing directly to Nostr.
 downloads: 3728
-funding_page:
-  Buy Me a Coffee: https://bmc.link/jamesmagoo
-  Github Sponsors: https://github.com/sponsors/jamesmagoo
 mobile: false
 number: 1090
 title: Nostr Writer

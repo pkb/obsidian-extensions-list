@@ -2,8 +2,7 @@
 aliases:
 - Password Audit
 author:
-- Sai Prashanth Pulisetti
-author_page: https://eventlogs.in
+- '[[prashanthpulisetti|Sai Prashanth Pulisetti]]'
 categories: []
 description: Audit password strength, check breaches, and generate secure passwords.
   Not a password manager.

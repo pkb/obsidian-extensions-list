@@ -2,8 +2,7 @@
 aliases:
 - Journals
 author:
-- Sergii Kostyrko
-author_page: https://github.com/srg-kostyrko
+- '[[srg-kostyrko|Sergii Kostyrko]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Manage your journals in Obsidian

@@ -2,8 +2,7 @@
 aliases:
 - GitHub Link
 author:
-- Nathonius
-author_page: https://nathan-smith.org/
+- '[[nathonius|Nathonius]]'
 categories: []
 description: Enrich your notes with issue and pull request content from GitHub
 downloads: 2312

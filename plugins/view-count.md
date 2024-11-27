@@ -2,13 +2,11 @@
 aliases:
 - View Count
 author:
-- DecafDev
-author_page: https://github.com/decaf-dev
+- '[[decaf-dev|DecafDev]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track view count for each vault file.
 downloads: 2677
-funding_page: https://ko-fi.com/decaf_dev
 mobile: true
 number: 1498
 title: View Count

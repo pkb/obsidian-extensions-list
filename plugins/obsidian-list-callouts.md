@@ -2,8 +2,7 @@
 aliases:
 - List Callouts
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-list-callouts
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Create simple callouts in lists.
 downloads: 81562

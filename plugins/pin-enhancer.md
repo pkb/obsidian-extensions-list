@@ -2,8 +2,7 @@
 aliases:
 - Pin Enhancer
 author:
-- Sheeplet1
-author_page: https://github.com/Sheeplet1
+- '[[Sheeplet1|Sheeplet1]]'
 categories: []
 description: Enhances the pin function to prevent closing the pinned tab.
 downloads: 386

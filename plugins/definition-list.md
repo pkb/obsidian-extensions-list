@@ -2,12 +2,10 @@
 aliases:
 - Definition List
 author:
-- shammond42
-author_page: https://northlandcreativewonders.com
+- '[[shammond42|shammond42]]'
 categories: []
 description: Adds definition lists to the markdown parser.
 downloads: 691
-funding_page: https://buymeacoffee.com/ncwonders
 mobile: true
 number: 1719
 title: Definition List

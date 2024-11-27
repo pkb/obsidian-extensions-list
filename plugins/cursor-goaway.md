@@ -2,8 +2,7 @@
 aliases:
 - cursor-goaway
 author:
-- Xuer
-author_page: https://xuer.tech
+- '[[liuxingyu521|Xuer]]'
 categories: []
 description: make cursor goaway after open a text file
 downloads: 9285

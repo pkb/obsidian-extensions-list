@@ -2,8 +2,7 @@
 aliases:
 - Callout menu
 author:
-- Anareaty
-author_page: https://github.com/anareaty
+- '[[anareaty|Anareaty]]'
 categories: []
 description: Adds some extra options to callouts context menu and allows you to add
   your own custom callouts.

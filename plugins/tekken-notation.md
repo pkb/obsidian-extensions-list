@@ -2,12 +2,10 @@
 aliases:
 - Tekken Notation
 author:
-- OpTi9
-author_page: https://github.com/OpTi9
+- '[[OpTi9|OpTi9]]'
 categories: []
 description: Renders Tekken Notation.
 downloads: 1129
-funding_page: https://www.buymeacoffee.com/opti9
 mobile: true
 number: 1486
 title: Tekken Notation

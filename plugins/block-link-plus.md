@@ -2,8 +2,7 @@
 aliases:
 - Block Link Plus
 author:
-- Jasper
-author_page: https://jasper1024.com/
+- '[[Jasper-1024|Jasper]]'
 categories: []
 description: Enhances right-click menu and global command with direct links to blocks
   and titles, adds support for multi-line blockquotes, and offers extensive customization

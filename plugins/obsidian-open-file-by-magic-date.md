@@ -2,8 +2,7 @@
 aliases:
 - Open File by Magic Date
 author:
-- simplgy
-author_page: https://github.com/simplgy
+- '[[SimplGy|simplgy]]'
 categories: []
 description: 'Define a Moment.js date pattern that specifies the file that is most
   important to you (eg: your daily/weekly/monthly note). Will create the file if it

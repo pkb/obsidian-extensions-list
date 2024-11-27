@@ -2,8 +2,7 @@
 aliases:
 - "Party\U0001F389"
 author:
-- Shap Po
-author_page: https://github.com/shap-po/
+- '[[shap-po|Shap Po]]'
 categories: []
 description: An implementation of party.js for Obsidian. Create confetti, sparkles
   and even custom effects in your notes!

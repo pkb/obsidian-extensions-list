@@ -2,14 +2,10 @@
 aliases:
 - Typst Renderer
 author:
-- fenjalien
-author_page: https://github.com/fenjalien
+- '[[fenjalien|fenjalien]]'
 categories: []
 description: Renders `typst` code blocks and math blocks with Typst.
 downloads: 7118
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/fenjalien
-  ko-fi: https://ko-fi.com/fenjalien
 mobile: true
 number: 981
 title: Typst Renderer

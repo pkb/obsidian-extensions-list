@@ -2,8 +2,7 @@
 aliases:
 - Link Preview
 author:
-- Felipe Tappata
-author_page: https://github.com/felipetappata
+- '[[felipetappata|Felipe Tappata]]'
 categories: []
 description: Show a preview of external links on hover
 downloads: 255

@@ -2,8 +2,7 @@
 aliases:
 - Buckwalter Transliteration
 author:
-- Amr Ojjeh
-author_page: https://github.com/amrojjeh
+- '[[amrojjeh|Amr Ojjeh]]'
 categories: []
 description: Renders Arabic using Buckwalter's encoding scheme.
 downloads: 663

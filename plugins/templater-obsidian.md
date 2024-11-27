@@ -2,8 +2,7 @@
 aliases:
 - Templater
 author:
-- SilentVoid
-author_page: https://github.com/SilentVoid13
+- '[[SilentVoid13|SilentVoid]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Create and use templates

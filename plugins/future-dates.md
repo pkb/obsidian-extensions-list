@@ -2,8 +2,7 @@
 aliases:
 - Future Dates
 author:
-- Dmitry Manannikov
-author_page: https://slonoed.net
+- '[[slonoed|Dmitry Manannikov]]'
 categories: []
 description: Show list of future dates in vault
 downloads: 183

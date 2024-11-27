@@ -2,8 +2,7 @@
 aliases:
 - Consecutive Lists
 author:
-- Josh Tucker
-author_page: https://github.com/jtucker2
+- '[[jtucker2|Josh Tucker]]'
 categories: []
 description: Create consecutive lists that are displayed separately in reading mode.
 downloads: 1202

@@ -2,8 +2,7 @@
 aliases:
 - AidenLx's Folder Note - folderv component
 author:
-- AidenLx
-author_page: https://github.com/aidenlx
+- '[[aidenlx|AidenLx]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Optional `folderv` Component for alx-folder-note

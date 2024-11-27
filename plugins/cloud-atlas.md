@@ -2,8 +2,7 @@
 aliases:
 - Cloud Atlas
 author:
-- Cloud Atlas
-author_page: https://cloud-atlas.ai
+- '[[cloud-atlas-ai|Cloud Atlas]]'
 categories: []
 description: Cloud Atlas provides a unique way to use content from your vault with
   ChatGPT. Reference a note and it (optionally) gets resolved and sent along. We also

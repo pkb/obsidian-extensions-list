@@ -2,8 +2,7 @@
 aliases:
 - Quick Cards
 author:
-- Camus Qiu
-author_page: https://github.com/abcamus
+- '[[abcamus|Camus Qiu]]'
 categories: []
 description: cardify your files
 downloads: 531

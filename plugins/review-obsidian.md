@@ -2,8 +2,7 @@
 aliases:
 - Review
 author:
-- ryanjamurphy
-author_page: https://axle.design
+- '[[ryanjamurphy|ryanjamurphy]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a link to the current note to a daily note on a future date (or a

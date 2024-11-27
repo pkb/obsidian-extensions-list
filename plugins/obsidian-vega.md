@@ -2,8 +2,7 @@
 aliases:
 - Vega Visualizations
 author:
-- Justin Kim
-author_page: https://github.com/Some-Regular-Person
+- '[[Some-Regular-Person|Justin Kim]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: Create highly-customizable data visualizations like line charts and scatter

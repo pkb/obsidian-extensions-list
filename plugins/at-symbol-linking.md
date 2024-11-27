@@ -2,8 +2,7 @@
 aliases:
 - '@ Symbol Linking'
 author:
-- Evan Bonsignori
-author_page: https://github.com/Ebonsignori
+- '[[Ebonsignori|Evan Bonsignori]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Adds ability to link with @ (the At Symbol) in Obsidian. Can limit @

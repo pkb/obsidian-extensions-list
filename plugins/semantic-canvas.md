@@ -2,13 +2,11 @@
 aliases:
 - Semantic Canvas
 author:
-- Aaron Gillespie
-author_page: https://aarongilly.com
+- '[[aarongilly|Aaron Gillespie]]'
 categories: []
 description: Create semantic knowledge graphs using Canvases to modify note properties
   graphically.
 downloads: 3805
-funding_page: https://www.buymeacoffee.com/aarongilly
 mobile: true
 number: 1536
 title: Semantic Canvas

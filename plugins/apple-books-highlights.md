@@ -2,8 +2,7 @@
 aliases:
 - Apple Books Highlights
 author:
-- Atif Afzal
-author_page: https://atfzl.com
+- '[[atfzl|Atif Afzal]]'
 categories: []
 description: Sync your Apple Books highlights automatically
 downloads: 5288

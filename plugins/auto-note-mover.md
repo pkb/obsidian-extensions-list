@@ -2,8 +2,7 @@
 aliases:
 - Auto Note Mover
 author:
-- faru
-author_page: https://github.com/farux/
+- '[[farux|faru]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Auto Note Mover will automatically move the active notes to their respective

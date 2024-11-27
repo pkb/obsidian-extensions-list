@@ -2,8 +2,7 @@
 aliases:
 - Markdown Link Space Encoder
 author:
-- Ron Kosova
-author_page: https://github.com/rkosova
+- '[[rkosova|Ron Kosova]]'
 categories: []
 description: Simple plugin to automatically encode spaces to %20 in Markdown-style
   links

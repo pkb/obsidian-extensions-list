@@ -2,12 +2,10 @@
 aliases:
 - Smart Rename
 author:
-- mnaoumov
-author_page: https://github.com/mnaoumov
+- '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Renames notes keeping previous title in existing links
 downloads: 5193
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 894
 title: Smart Rename

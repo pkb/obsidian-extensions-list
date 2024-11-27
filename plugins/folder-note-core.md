@@ -2,8 +2,7 @@
 aliases:
 - Folder Note Core
 author:
-- AidenLx
-author_page: https://github.com/aidenlx
+- '[[aidenlx|AidenLx]]'
 categories: []
 description: Provide core features and API for folder notes
 downloads: 38958

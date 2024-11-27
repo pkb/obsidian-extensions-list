@@ -2,8 +2,7 @@
 aliases:
 - Recipe Grabber
 author:
-- seethroughdev
-author_page: https://github.com/seethroughdev
+- '[[seethroughdev|seethroughdev]]'
 categories: []
 description: Quickly grab the important contents of any online recipe.
 downloads: 4612

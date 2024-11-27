@@ -2,8 +2,7 @@
 aliases:
 - Wikilinks to MDLinks
 author:
-- Agatha Uy
-author_page: https://github.com/agathauy
+- '[[agathauy|Agatha Uy]]'
 categories: []
 description: A plugin that converts wikilinks to markdown links and vice versa
 downloads: 17019

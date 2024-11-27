@@ -2,8 +2,7 @@
 aliases:
 - Multiplatform Highlights Importer
 author:
-- wwwkieran
-author_page: https://github.com/wwwkieran
+- '[[wwwkieran|wwwkieran]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'

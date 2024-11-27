@@ -2,8 +2,7 @@
 aliases:
 - Colorizelt
 author:
-- Artsem Holub (WiNE-iNEFF)
-author_page: https://github.com/WiNE-iNEFF
+- '[[WiNE-iNEFF|Artsem Holub (WiNE-iNEFF)]]'
 categories: []
 description: Easy color and clear selected text
 downloads: 629

@@ -2,8 +2,7 @@
 aliases:
 - Things Link
 author:
-- '@gavmn'
-author_page: https://twitter.com/gavmn
+- '[[gavinmn|@gavmn]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

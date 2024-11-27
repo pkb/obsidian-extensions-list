@@ -2,8 +2,7 @@
 aliases:
 - Moon server publisher
 author:
-- Roman Provazník
-author_page: https://github.com/Dzoukr
+- '[[Dzoukr|Roman Provazník]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes directly to Moon server instance.

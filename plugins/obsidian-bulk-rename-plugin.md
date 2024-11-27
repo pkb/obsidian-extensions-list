@@ -2,8 +2,7 @@
 aliases:
 - Bulk Rename
 author:
-- Oleg Lustenko
-author_page: https://obsidian.md
+- '[[OlegLustenko|Oleg Lustenko]]'
 categories: []
 description: Purpose of this plugin rename files based on pattern
 downloads: 11352

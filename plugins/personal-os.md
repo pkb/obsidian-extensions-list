@@ -2,12 +2,10 @@
 aliases:
 - Personal OS
 author:
-- A.Buot
-author_page: https://github.com/GengAd
+- '[[GengAd|A.Buot]]'
 categories: []
 description: Streamlining task management and productivity with a touch of gamification
 downloads: 736
-funding_page: https://www.buymeacoffee.com/swandyos
 mobile: true
 number: 1608
 title: Personal OS

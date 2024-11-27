@@ -2,8 +2,7 @@
 aliases:
 - Vault Full Statistics
 author:
-- Mikhail Savin
-author_page: https://github.com/jtprogru
+- '[[jtprogru|Mikhail Savin]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Status bar item with vault full statistics such as number of notes, files,

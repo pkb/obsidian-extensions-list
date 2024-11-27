@@ -2,8 +2,7 @@
 aliases:
 - File indicators
 author:
-- Jakob
-author_page: https://github.com/JakobMick
+- '[[JakobMick|Jakob]]'
 categories: []
 description: Add custom indicators to the file explorer.
 downloads: 3010

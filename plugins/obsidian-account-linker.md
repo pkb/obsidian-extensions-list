@@ -2,8 +2,7 @@
 aliases:
 - Account Linker
 author:
-- qwegat
-author_page: https://github.com/qwegat
+- '[[qwegat|qwegat]]'
 categories: []
 description: Plugin for describing external service accounts in the front matter
 downloads: 4147

@@ -2,8 +2,7 @@
 aliases:
 - Things Logbook
 author:
-- Liam Cain
-author_page: https://github.com/liamcain/
+- '[[liamcain|Liam Cain]]'
 categories: []
 description: Sync your Things.app Logbook with daily notes
 downloads: 9291

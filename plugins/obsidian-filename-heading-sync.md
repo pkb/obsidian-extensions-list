@@ -2,8 +2,7 @@
 aliases:
 - Filename Heading Sync
 author:
-- dvcrn
-author_page: https://github.com/dvcrn/obsidian-filename-heading-sync
+- '[[dvcrn|dvcrn]]'
 categories: []
 description: Obsidian plugin for keeping the filename with the first heading of a
   file in sync

@@ -2,12 +2,10 @@
 aliases:
 - YouTube downloader
 author:
-- Blake Chan
-author_page: https://ai-chen2050.github.io/
+- '[[ai-chen2050|Blake Chan]]'
 categories: []
 description: Download video from YouTube
 downloads: 680
-funding_page: https://www.buymeacoffee.com/blakechan
 mobile: false
 number: 1813
 title: YouTube downloader

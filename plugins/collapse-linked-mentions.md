@@ -2,8 +2,7 @@
 aliases:
 - Collapse Linked Mentions
 author:
-- n810
-author_page: https://github.com/n810K
+- '[[n810K|n810]]'
 categories: []
 description: Automatically collapse embedded backlink mentions
 downloads: 163

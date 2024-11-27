@@ -2,8 +2,7 @@
 aliases:
 - ii
 author:
-- Wilson
-author_page: https://github.com/wish5115
+- '[[wish5115|Wilson]]'
 categories: []
 description: Quickly insert common Markdown code and HTML code, and customize your
   own insertion commands.

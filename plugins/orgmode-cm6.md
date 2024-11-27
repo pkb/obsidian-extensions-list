@@ -2,8 +2,7 @@
 aliases:
 - Orgmode (cm6)
 author:
-- Benoit Bazard
-author_page: https://github.com/bbazard
+- '[[bbazard|Benoit Bazard]]'
 categories: []
 description: Edit Orgmode files in Obsidian.
 downloads: 3144

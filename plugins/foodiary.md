@@ -2,8 +2,7 @@
 aliases:
 - Foodiary
 author:
-- vkostyanetsky
-author_page: https://github.com/vkostyanetsky
+- '[[vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Food tracker, macronutrient and calorie calculator.
 downloads: 1204

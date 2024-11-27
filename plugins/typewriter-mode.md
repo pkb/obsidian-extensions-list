@@ -2,15 +2,11 @@
 aliases:
 - Typewriter Mode
 author:
-- Davis Riedel
-author_page: https://github.com/davisriedel
+- '[[davisriedel|Davis Riedel]]'
 categories: []
 description: Typewriter scrolling, highlighting of the current line, dimming of unfocused
   paragraphs, writing focus and more.
 downloads: 30898
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/davis.riedel
-  GitHub Sponsors: https://github.com/sponsors/davisriedel
 mobile: true
 number: 1140
 title: Typewriter Mode

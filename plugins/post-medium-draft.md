@@ -2,8 +2,7 @@
 aliases:
 - Post Medium Draft
 author:
-- E. Bolton
-author_page: https://github.com/eebmagic/
+- '[[eebmagic|E. Bolton]]'
 categories: []
 description: Posts a note to your medium account as a draft.
 downloads: 218

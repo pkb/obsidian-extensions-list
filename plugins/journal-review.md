@@ -2,15 +2,12 @@
 aliases:
 - Journal Review
 author:
-- Kageetai
-author_page: https://kageetai.net
+- '[[Kageetai|Kageetai]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Review your daily notes on their anniversaries, like "what happened today
   last year".
 downloads: 11305
-funding_page:
-  Ko-Fi: https://ko-fi.com/kageetai
 mobile: true
 number: 841
 title: Journal Review

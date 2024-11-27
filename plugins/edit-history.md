@@ -2,8 +2,7 @@
 aliases:
 - Edit History
 author:
-- Antonio Tejada
-author_page: https://github.com/antoniotejada/
+- '[[antoniotejada|Antonio Tejada]]'
 categories: []
 description: Automatically saves the history of edits of a file when Obsidian saves
   the file, and allows viewing the differences between edits, copying text from a

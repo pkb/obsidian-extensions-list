@@ -2,8 +2,7 @@
 aliases:
 - Proletarian Wizard Task Manager
 author:
-- Charles Feval
-author_page: https://fev.al
+- '[[cfe84|Charles Feval]]'
 categories: []
 description: Track your tasks across all the notes in your workspace. Organize your
   day. Plan your work

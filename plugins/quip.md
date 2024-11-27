@@ -2,8 +2,7 @@
 aliases:
 - Quip
 author:
-- Sean Blakey
-author_page: https://hachyderm.io/@seanb
+- '[[sblakey|Sean Blakey]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: This plugin provides commands to publish Markdown documents to Quip.com

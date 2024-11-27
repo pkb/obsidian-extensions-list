@@ -2,8 +2,7 @@
 aliases:
 - Display Relative Path Img
 author:
-- dyc
-author_page: https://github.com/dyc2424748461
+- '[[dyc2424748461|dyc]]'
 categories: []
 description: Display the image of the <img> tag
 downloads: 1476

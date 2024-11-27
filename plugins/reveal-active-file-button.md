@@ -2,8 +2,7 @@
 aliases:
 - Reveal Active File Button
 author:
-- Clare Macrae
-author_page: https://claremacrae.co.uk
+- '[[claremacrae|Clare Macrae]]'
 categories: []
 description: Add a button to the top of the File Explorer, to reveal the active file.
 downloads: 12302

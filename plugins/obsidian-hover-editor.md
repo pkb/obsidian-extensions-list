@@ -2,8 +2,7 @@
 aliases:
 - Hover Editor
 author:
-- NothingIsLost
-author_page: https://github.com/nothingislost
+- '[[nothingislost|NothingIsLost]]'
 categories: []
 description: Transform the Page Preview hover popover into a fully working editor
   instance

@@ -2,8 +2,7 @@
 aliases:
 - Theme Picker
 author:
-- kenset
-author_page: https://github.com/kenset
+- '[[kenset|kenset]]'
 categories: []
 description: Quickly preview installed themes
 downloads: 26964

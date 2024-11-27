@@ -2,12 +2,10 @@
 aliases:
 - Habit Tracker 21
 author:
-- Zoreet
-author_page: https://github.com/zoreet
+- '[[zoreet|Zoreet]]'
 categories: []
 description: Your 21-day journey to habit formation, simplified
 downloads: 7642
-funding_page: https://buymeacoffee.com/zincplusplus
 mobile: true
 number: 1326
 title: Habit Tracker 21

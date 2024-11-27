@@ -2,8 +2,7 @@
 aliases:
 - Habit Tracker
 author:
-- Duo
-author_page: https://github.com/duoani
+- '[[duoani|Duo]]'
 categories: []
 description: This plguin creates a simple Month view for visualizing your punch records.
 downloads: 13443

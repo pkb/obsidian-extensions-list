@@ -2,13 +2,11 @@
 aliases:
 - Easy Typing
 author:
-- yaozhuwa
-author_page: https://github.com/Yaozhuwa
+- '[[Yaozhuwa|yaozhuwa]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This plugin aims to enhance and optimize the editing experience in Obsidian
 downloads: 175829
-funding_page: https://www.buymeacoffee.com/yaozhuwa
 mobile: true
 number: 195
 title: Easy Typing

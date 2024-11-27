@@ -2,8 +2,7 @@
 aliases:
 - Auto Reading Mode
 author:
-- Kelvin Cao
-author_page: https://github.com/kelvinc6
+- '[[kelvinc6|Kelvin Cao]]'
 categories: []
 description: Automatically switches previously opened Markdown pages into reading
   mode.

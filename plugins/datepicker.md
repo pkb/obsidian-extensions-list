@@ -2,17 +2,12 @@
 aliases:
 - Datepicker
 author:
-- Mostafa Mohamed
-author_page: https://github.com/joycode-hub
+- '[[joycode-hub|Mostafa Mohamed]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Use a date picker to modify and insert date/time anywhere in your markdown
   notes.
 downloads: 3381
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/joycode
-  PayPal: paypal.me/mostafamohamed207
-  Support me on Ko-fi: https://ko-fi.com/joycode
 mobile: true
 number: 1766
 title: Datepicker

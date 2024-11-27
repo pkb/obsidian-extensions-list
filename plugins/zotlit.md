@@ -2,8 +2,7 @@
 aliases:
 - ZotLit
 author:
-- AidenLx
-author_page: https://github.com/aidenlx
+- '[[PKM-er|AidenLx]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Plugin to integrate with Zotero, create literature notes and insert citations

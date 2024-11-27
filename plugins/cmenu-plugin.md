@@ -2,8 +2,7 @@
 aliases:
 - cMenu
 author:
-- chetachi
-author_page: https://github.com/chetachiezikeuzor
+- '[[chetachiezikeuzor|chetachi]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Note editing and formatting|Note editing and formatting]]'

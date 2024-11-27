@@ -2,8 +2,7 @@
 aliases:
 - ReadItLater
 author:
-- Dominik Pieper
-author_page: https://github.com/DominikPieper
+- '[[DominikPieper|Dominik Pieper]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Saves the clipboard to a new note.

@@ -2,8 +2,7 @@
 aliases:
 - Recently Added Files
 author:
-- Lemon695
-author_page: https://github.com/Lemon695
+- '[[Lemon695|Lemon695]]'
 categories: []
 description: List files by last added, including pictures, MP4s, PDFs etc.
 downloads: 102

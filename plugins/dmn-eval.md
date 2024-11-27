@@ -2,12 +2,10 @@
 aliases:
 - DMN Eval
 author:
-- JoLeaf
-author_page: https://github.com/JoLeaf
+- '[[joleaf|JoLeaf]]'
 categories: []
 description: This plugin enables evaluating DMNs in an obsidian note.
 downloads: 3451
-funding_page: https://ko-fi.com/joleaf
 mobile: false
 number: 792
 title: DMN Eval

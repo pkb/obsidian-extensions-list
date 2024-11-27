@@ -2,8 +2,7 @@
 aliases:
 - Go Up
 author:
-- JinMu Go
-author_page: https://github.com/JinMuGo
+- '[[JinMuGo|JinMu Go]]'
 categories: []
 description: Go to the pages that says 'up' property
 downloads: 1144

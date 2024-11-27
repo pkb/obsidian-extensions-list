@@ -2,8 +2,7 @@
 aliases:
 - Text Analysis
 author:
-- Miha Kralj
-author_page: https://github.com/mihakralj
+- '[[mihakralj|Miha Kralj]]'
 categories: []
 description: 'Real-time text analysis on readability, structure, and complexity, incorporating
   over 30 tests like Average Syllables per Word, percent of difficult words, Lexical

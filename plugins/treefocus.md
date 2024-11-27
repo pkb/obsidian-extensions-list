@@ -2,17 +2,11 @@
 aliases:
 - TreeFocus
 author:
-- iOSonntag
-author_page: https://iOSonntag.com
+- '[[iOSonntag|iOSonntag]]'
 categories: []
 description: Dim, highlight & style your files & folders in the vault file explorer
   (foldable item navigator) based on predefined / custom rules.
 downloads: 4763
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/iOSonntag
-  GitHub Sponsor: https://github.com/sponsors/iOSonntag
-  Homepage: https://iOSonntag.com/buy-me-a-coffee
-  PayPal: https://paypal.com/paypalme/iOSonntag/20
 mobile: true
 number: 1207
 title: TreeFocus

@@ -2,14 +2,11 @@
 aliases:
 - Steemit
 author:
-- anpigon
-author_page: https://steemit.com/@anpigon
+- '[[anpigon|anpigon]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: A plugin for publishing Obsidian documents to Steemit.
 downloads: 3795
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/anpigon
 mobile: false
 number: 449
 title: Steemit

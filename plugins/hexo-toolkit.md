@@ -2,8 +2,7 @@
 aliases:
 - Hexo Toolkit
 author:
-- Xiangru
-author_page: https://github.com/sissilab
+- '[[sissilab|Xiangru]]'
 categories: []
 description: Maintain Hexo posts.
 downloads: 34

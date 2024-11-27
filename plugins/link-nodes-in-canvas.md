@@ -2,16 +2,11 @@
 aliases:
 - Link Nodes In Canvas
 author:
-- Boninall
-author_page: https://github.com/Quorafind
+- '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin for you to add edges between notes in Canvas based on their
   links.
 downloads: 9873
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/boninall
-  支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg
-  爱发电: https://afdian.net/a/boninall
 mobile: true
 number: 752
 title: Link Nodes In Canvas

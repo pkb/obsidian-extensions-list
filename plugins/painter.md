@@ -2,12 +2,10 @@
 aliases:
 - Painter
 author:
-- KraXen72 and Chetachi Ezikeuzor
-author_page: https://github.com/KraXen72
+- '[[KraXen72|KraXen72 and Chetachi Ezikeuzor]]'
 categories: []
 description: Paint text different colors
 downloads: 6191
-funding_page: https://ko-fi.com/kraxen72
 mobile: true
 number: 1611
 title: Painter

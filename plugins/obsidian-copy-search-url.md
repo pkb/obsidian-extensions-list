@@ -2,8 +2,7 @@
 aliases:
 - Copy Search URL
 author:
-- Carlo Zottmann
-author_page: https://github.com/czottmann
+- '[[czottmann|Carlo Zottmann]]'
 categories: []
 description: Adds a button to the search view for copying the Obsidian search URL.
 downloads: 4927

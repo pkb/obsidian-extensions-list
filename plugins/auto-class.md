@@ -2,8 +2,7 @@
 aliases:
 - Auto Class
 author:
-- Nathonius
-author_page: https://nathan-smith.org
+- '[[nathonius|Nathonius]]'
 categories: []
 description: Automatically apply CSS classes to the markdown view based on a note's
   path and tags.

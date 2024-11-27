@@ -2,13 +2,11 @@
 aliases:
 - Arcana
 author:
-- A-F-V
-author_page: https://github.com/A-F-V
+- '[[A-F-V|A-F-V]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A collection of AI powered tools
 downloads: 7103
-funding_page: https://www.buymeacoffee.com/AFV7
 mobile: false
 number: 954
 title: Arcana

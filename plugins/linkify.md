@@ -2,8 +2,7 @@
 aliases:
 - Linkify
 author:
-- matthewhchan
-author_page: ''
+- '[[matthewhchan|matthewhchan]]'
 categories: []
 description: Converts matching text into links.
 downloads: 6599

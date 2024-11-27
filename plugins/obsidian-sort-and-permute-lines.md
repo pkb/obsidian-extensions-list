@@ -2,12 +2,10 @@
 aliases:
 - Sort & Permute lines
 author:
-- Vinzent
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent]]'
 categories: []
 description: ''
 downloads: 37834
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 80
 title: Sort & Permute lines

@@ -2,8 +2,7 @@
 aliases:
 - Universal renderer
 author:
-- Kloud
-author_page: https://kloud.port0.org
+- '[[dgudim|Kloud]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render many different diagrams natively

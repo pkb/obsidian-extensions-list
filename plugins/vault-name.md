@@ -2,16 +2,11 @@
 aliases:
 - Vault Name
 author:
-- '@gapmiss'
-author_page: https://github.com/gapmiss
+- '[[gapmiss|@gapmiss]]'
 categories: []
 description: Display and customize the vault name (title) in the side navigation file
   explorer.
 downloads: 398
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/gapmiss
-  Github Sponsors: https://github.com/sponsors/gapmiss
-  Ko-Fi: https://ko-fi.com/gapmiss
 mobile: false
 number: 1697
 title: Vault Name

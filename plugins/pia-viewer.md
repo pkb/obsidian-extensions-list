@@ -2,8 +2,7 @@
 aliases:
 - Pia viewer
 author:
-- dldisud
-author_page: https://github.com/dldisud
+- '[[dldisud|dldisud]]'
 categories: []
 description: Make it look like a mobile
 downloads: 298

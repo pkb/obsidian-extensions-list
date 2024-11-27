@@ -2,8 +2,7 @@
 aliases:
 - Dust Calendar
 author:
-- 纳米级尘埃
-author_page: https://github.com/a-nano-dust
+- '[[a-nano-dust|纳米级尘埃]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。

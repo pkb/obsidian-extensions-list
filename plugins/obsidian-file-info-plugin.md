@@ -2,8 +2,7 @@
 aliases:
 - File Info Panel
 author:
-- T. L. Ford
-author_page: https://www.Cattail.Nu
+- '[[CattailNu|T. L. Ford]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Plugin for Obsidian that creates a File Information view that displays
@@ -12,7 +11,6 @@ description: Plugin for Obsidian that creates a File Information view that displ
   statistics (character, word, sentence, and paragraph counts) and a word frequency
   analysis.
 downloads: 15579
-funding_page: https://www.Cattail.Nu
 mobile: true
 number: 407
 title: File Info Panel

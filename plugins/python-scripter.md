@@ -2,12 +2,10 @@
 aliases:
 - Python Scripter
 author:
-- Nick Allison
-author_page: https://github.com/nickrallison
+- '[[nickrallison|Nick Allison]]'
 categories: []
 description: Run Python scripts directly as Obsidian commands.
 downloads: 8049
-funding_page: https://github.com/sponsors/nickrallison
 mobile: false
 number: 1079
 title: Python Scripter

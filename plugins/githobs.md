@@ -2,12 +2,10 @@
 aliases:
 - GitHobs
 author:
-- GabAlpha and MarcoG
-author_page: https://github.com/GabAlpha
+- '[[GabAlpha|GabAlpha and MarcoG]]'
 categories: []
 description: Use Obsidian as Github issue editor!
 downloads: 1893
-funding_page: https://www.buymeacoffee.com/gabalpha
 mobile: false
 number: 1361
 title: GitHobs

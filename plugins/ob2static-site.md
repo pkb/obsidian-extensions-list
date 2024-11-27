@@ -2,8 +2,7 @@
 aliases:
 - Static Site MD Exporter
 author:
-- Yunfi
-author_page: https://yfi.moe
+- '[[yy4382|Yunfi]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export specific notes to general md for static site generator like Hugo,

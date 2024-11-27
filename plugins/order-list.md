@@ -2,8 +2,7 @@
 aliases:
 - Order List
 author:
-- Henry Gustafson
-author_page: https://github.com/lizard-heart/
+- '[[lizard-heart|Henry Gustafson]]'
 categories: []
 description: Orders list by number at end of line
 downloads: 3757

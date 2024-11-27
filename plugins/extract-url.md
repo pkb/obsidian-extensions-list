@@ -2,8 +2,7 @@
 aliases:
 - Extract url content
 author:
-- Stephen Solka
-author_page: https://github.com/trashhalo
+- '[[trashhalo|Stephen Solka]]'
 categories: []
 description: Extract url converting content into markdown
 downloads: 27394

@@ -2,8 +2,7 @@
 aliases:
 - Execute Code
 author:
-- twibiral
-author_page: https://www.github.com/twibiral
+- '[[twibiral|twibiral]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: 'Allows to execute code snippets within a note. Supported programming

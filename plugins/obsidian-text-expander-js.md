@@ -2,8 +2,7 @@
 aliases:
 - Inline Scripts
 author:
-- Jonathan Heard
-author_page: https://github.com/jon-heard
+- '[[jon-heard|Jonathan Heard]]'
 categories: []
 description: Type text shortcuts which are then replaced with JavaScript generated
   text.

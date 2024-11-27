@@ -2,8 +2,7 @@
 aliases:
 - Admonition
 author:
-- Jeremy Valentine
-author_page: ''
+- '[[javalent|Jeremy Valentine]]'
 categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Enhanced callouts for Obsidian.md

@@ -2,12 +2,10 @@
 aliases:
 - Image Captions
 author:
-- Alan Grainger
-author_page: https://github.com/alangrainger
+- '[[alangrainger|Alan Grainger]]'
 categories: []
 description: Adds captions to images when there is alt-text specified
 downloads: 25138
-funding_page: https://ko-fi.com/alan_
 mobile: true
 number: 768
 title: Image Captions

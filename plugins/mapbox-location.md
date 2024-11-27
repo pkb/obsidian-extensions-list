@@ -2,12 +2,10 @@
 aliases:
 - Mapbox Location Image
 author:
-- Aaron Czichon
-author_page: https://aaronczichon.de
+- '[[aaronczichon|Aaron Czichon]]'
 categories: []
 description: Show a map inside your notes with a specific format.
 downloads: 725
-funding_page: https://buymeacoffee.com/aaronczichon.de
 mobile: true
 number: 1625
 title: Mapbox Location Image

@@ -2,15 +2,13 @@
 aliases:
 - Share Note
 author:
-- Alan Grainger
-author_page: https://github.com/alangrainger
+- '[[alangrainger|Alan Grainger]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Instantly share a note, with the full theme and content exactly like
   you see in Reading View. Data is shared encrypted by default, and only you and the
   person you send it to have the key.
 downloads: 27377
-funding_page: https://ko-fi.com/alan_
 mobile: true
 number: 1188
 title: Share Note

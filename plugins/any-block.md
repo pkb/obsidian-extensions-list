@@ -2,14 +2,12 @@
 aliases:
 - AnyBlock
 author:
-- LincZero
-author_page: https://github.com/LincZero
+- '[[LincZero|LincZero]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: 'You can flexibility to create a ''Block'' by some means. It also provides
   some useful features, like `list to table`. '
 downloads: 15957
-funding_page: https://github.com/LincZero#thank-you-very-much-for-your-support
 mobile: true
 number: 869
 title: AnyBlock

@@ -2,8 +2,7 @@
 aliases:
 - Suggest Notes
 author:
-- Doggy-Footprint
-author_page: https://github.com/Doggy-Footprint
+- '[[Doggy-Footprint|Doggy-Footprint]]'
 categories: []
 description: Quick suggests for linkable notes
 downloads: 122

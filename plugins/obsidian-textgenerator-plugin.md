@@ -2,13 +2,11 @@
 aliases:
 - Text Generator
 author:
-- Noureddine Haouari
-author_page: https://text-gen.com
+- '[[nhaouari|Noureddine Haouari]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Text generation using AI
 downloads: 337523
-funding_page: https://www.buymeacoffee.com/haouarine
 mobile: true
 number: 452
 title: Text Generator

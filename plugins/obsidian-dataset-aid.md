@@ -2,8 +2,7 @@
 aliases:
 - Text Dataset Aid
 author:
-- Conner Ohnesorge
-author_page: https://github.com/conneroisu
+- '[[conneroisu|Conner Ohnesorge]]'
 categories: []
 description: This plugin for obsidian aids in the creation of fine-tuning datasets
   for language models.

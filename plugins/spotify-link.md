@@ -2,13 +2,10 @@
 aliases:
 - Spotify Link
 author:
-- Studio Webux
-author_page: https://studiowebux.com
+- '[[studiowebux|Studio Webux]]'
 categories: []
 description: Include the song you're currently listening to in your note.
 downloads: 3923
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/studiowebux
 mobile: true
 number: 1262
 title: Spotify Link

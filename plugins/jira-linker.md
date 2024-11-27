@@ -2,12 +2,10 @@
 aliases:
 - Jira Linker
 author:
-- Steven Zilberberg
-author_page: stevenzilberberg.com
+- '[[srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Jira issue tag as a link to you Jira instance.
 downloads: 3205
-funding_page: https://www.buymeacoffee.com/kvnfnpycl
 mobile: true
 number: 1229
 title: Jira Linker

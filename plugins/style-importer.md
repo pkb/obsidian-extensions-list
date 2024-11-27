@@ -2,12 +2,10 @@
 aliases:
 - Style Importer
 author:
-- Josh Rouwhorst
-author_page: https://github.com/joshrouwhorst
+- '[[joshrouwhorst|Josh Rouwhorst]]'
 categories: []
 description: Import a stylesheet from a URL into your snippets folder.
 downloads: 3761
-funding_page: https://www.buymeacoffee.com/joshrouwhorst
 mobile: true
 number: 1001
 title: Style Importer

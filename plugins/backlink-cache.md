@@ -2,12 +2,10 @@
 aliases:
 - Backlink Cache
 author:
-- mnaoumov
-author_page: https://github.com/mnaoumov/
+- '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`
 downloads: 5214
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1244
 title: Backlink Cache

@@ -2,8 +2,7 @@
 aliases:
 - Image Metadata
 author:
-- alexeiskachykhin
-author_page: https://github.com/alexeiskachykhin
+- '[[alexeiskachykhin|alexeiskachykhin]]'
 categories: []
 description: Annotate photos with Exif and other metadata right from the image viewer
   screen.

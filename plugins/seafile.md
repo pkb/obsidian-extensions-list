@@ -2,8 +2,7 @@
 aliases:
 - Seafile
 author:
-- conql
-author_page: https://github.com/conql
+- '[[conql|conql]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync notes across devices using Seafile.

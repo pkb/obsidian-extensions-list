@@ -2,14 +2,12 @@
 aliases:
 - Git
 author:
-- Vinzent
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Integrate Git version control with automatic backup and other advanced
   features.
 downloads: 1220048
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 3
 title: Git

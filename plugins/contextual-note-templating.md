@@ -2,12 +2,10 @@
 aliases:
 - Contextual note templating
 author:
-- Roman Kubiv
-author_page: https://roman.kubiv.com
+- '[[Balibaloo|Roman Kubiv]]'
 categories: []
 description: Prompts for values and templates to create notes.
 downloads: 2867
-funding_page: buymeacoffee.com/romankubiv
 mobile: true
 number: 1495
 title: Contextual note templating

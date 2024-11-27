@@ -2,8 +2,7 @@
 aliases:
 - autoLiterature
 author:
-- hucorz
-author_page: https://github.com/hucorz
+- '[[hucorz|hucorz]]'
 categories: []
 description: Assist you in taking notes for your literature.
 downloads: 3321

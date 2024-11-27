@@ -2,8 +2,7 @@
 aliases:
 - Better File Link
 author:
-- Marc Julian Schwarz
-author_page: https://www.marc-julian.de
+- '[[marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: A plugin to add better external file links to notes.
 downloads: 22942

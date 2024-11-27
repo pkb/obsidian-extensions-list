@@ -2,8 +2,7 @@
 aliases:
 - Quick Notes
 author:
-- Sean McOwen
-author_page: https://github.com/SeanMcOwen
+- '[[SeanMcOwen|Sean McOwen]]'
 categories: []
 description: Speeds up some note taking abilities and allows for creating notes/links
   in the background

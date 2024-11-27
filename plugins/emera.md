@@ -2,13 +2,11 @@
 aliases:
 - Emera
 author:
-- OlegWock
-author_page: https://sinja.io
+- '[[OlegWock|OlegWock]]'
 categories: []
 description: Enables you to use custom React components and inline JavaScript, kinda
   like MDX.
 downloads: 242
-funding_page: https://sinja.io/support
 mobile: true
 number: 1852
 title: Emera

@@ -2,15 +2,12 @@
 aliases:
 - Augmented Canvas
 author:
-- MetaCorp
-author_page: https://github.com/MetaCorp
+- '[[MetaCorp|MetaCorp]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Canvas|Canvas]]'
 description: Obsidian Canvas with AI features.
 downloads: 1950
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/metacorp
 mobile: true
 number: 1471
 title: Augmented Canvas

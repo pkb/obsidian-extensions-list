@@ -2,8 +2,7 @@
 aliases:
 - File Publisher
 author:
-- Devin Sackett
-author_page: https://github.com/yiglas
+- '[[yiglas|Devin Sackett]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publishes a file to a given api.

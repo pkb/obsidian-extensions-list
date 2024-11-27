@@ -2,8 +2,7 @@
 aliases:
 - Things3 Sync
 author:
-- Royx
-author_page: royxue.me
+- '[[royxue|Royx]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

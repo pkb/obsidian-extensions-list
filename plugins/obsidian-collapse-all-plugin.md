@@ -2,8 +2,7 @@
 aliases:
 - Collapse All
 author:
-- Nathonius
-author_page: https://nathan-smith.org/
+- '[[nathonius|Nathonius]]'
 categories: []
 description: Extends collapse/expand all with commands that can be bound to hotkeys.
 downloads: 54456

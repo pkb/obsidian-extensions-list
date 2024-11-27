@@ -2,8 +2,7 @@
 aliases:
 - Persian Calendar
 author:
-- Hossein Maleknejad
-author_page: https://karfekr.ir
+- '[[maleknejad|Hossein Maleknejad]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: This tool lets you see events, add and organize notes from daily to yearly

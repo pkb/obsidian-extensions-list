@@ -2,8 +2,7 @@
 aliases:
 - Settings Search
 author:
-- Jeremy Valentine
-author_page: https://github.com/valentine195
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Globally search settings in Obsidian.md
 downloads: 124981

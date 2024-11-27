@@ -2,8 +2,7 @@
 aliases:
 - Reading View Enhancer
 author:
-- Galacsh
-author_page: https://github.com/galacsh
+- '[[Galacsh|Galacsh]]'
 categories: []
 description: Enhances reading view. Use arrow keys to navigate between blocks or toggle
   collapse.

@@ -2,8 +2,7 @@
 aliases:
 - Update Relative Links
 author:
-- val
-author_page: https://github.com/val3344/obsidian-update-relative-links
+- '[[val3344|val]]'
 categories: []
 description: Update relative links.
 downloads: 5717

@@ -2,16 +2,11 @@
 aliases:
 - File Property Enhancer
 author:
-- Boninall
-author_page: https://github.com/Quorafind
+- '[[quorafind|Boninall]]'
 categories: []
 description: Improve user experience when using file properties like adding icons
   or custom display view.
 downloads: 5345
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/boninall
-  支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg
-  爱发电: https://afdian.net/a/boninall
 mobile: false
 number: 1193
 title: File Property Enhancer

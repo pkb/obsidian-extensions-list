@@ -2,8 +2,7 @@
 aliases:
 - Simsapa
 author:
-- gambhiro
-author_page: https://simsapa.github.io/
+- '[[simsapa|gambhiro]]'
 categories: []
 description: Pāli dictionary and sutta search using Simsapa Dhamma Reader. Open a
   sidebar or double-click to lookup Pāli words in the dictionary, or search in the

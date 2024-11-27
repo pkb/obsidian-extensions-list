@@ -2,8 +2,7 @@
 aliases:
 - Min3ditorHotkeys
 author:
-- d-sauer
-author_page: https://www.linkedin.com/in/davorsauer/
+- '[[d-sauer|d-sauer]]'
 categories: []
 description: Additional editor hotkeys inspired by coding editors
 downloads: 4480

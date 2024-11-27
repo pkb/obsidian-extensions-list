@@ -2,8 +2,7 @@
 aliases:
 - Markdown Formatting Assistant
 author:
-- Reocin
-author_page: https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin
+- '[[Reocin|Reocin]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This Plugin provides a simple Editor for Markdown, HTML and Colors and

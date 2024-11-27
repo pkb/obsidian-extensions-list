@@ -2,8 +2,7 @@
 aliases:
 - Zotero Bridge
 author:
-- Shmavon Gazanchyan
-author_page: https://github.com/MunGell
+- '[[vanakat|Shmavon Gazanchyan]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Zotero integration

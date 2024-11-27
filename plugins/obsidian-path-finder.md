@@ -2,8 +2,7 @@
 aliases:
 - Path Finder
 author:
-- jerrywcy
-author_page: https://github.com/jerrywcy
+- '[[jerrywcy|jerrywcy]]'
 categories: []
 description: A plugin that can find the shortest path between two notes. Not sure
   who will want to use it...

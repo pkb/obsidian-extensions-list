@@ -2,14 +2,12 @@
 aliases:
 - Metadata Menu
 author:
-- mdelobelle
-author_page: https://github.com/mdelobelle
+- '[[mdelobelle|mdelobelle]]'
 categories:
 - '[[categories/Data management|Data management]]'
 description: 'For data quality enthusiasts (and dataview users): manage the metadata
   of your notes.'
 downloads: 161666
-funding_page: https://github.com/sponsors/mdelobelle/
 mobile: true
 number: 564
 title: Metadata Menu

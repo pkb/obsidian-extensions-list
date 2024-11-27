@@ -2,12 +2,10 @@
 aliases:
 - Timeline View
 author:
-- b-camphart
-author_page: https://github.com/b-camphart
+- '[[b-camphart|b-camphart]]'
 categories: []
 description: Display your obsidian notes in a timeline, based on a given property.
 downloads: 5172
-funding_page: https://buymeacoffee.com/b.camphart
 mobile: false
 number: 1216
 title: Timeline View

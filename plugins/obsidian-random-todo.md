@@ -2,8 +2,7 @@
 aliases:
 - Random To-Do
 author:
-- NatiAris
-author_page: https://github.com/NatiAris/
+- '[[NatiAris|NatiAris]]'
 categories: []
 description: Open a random file containing your custom to-do marker, or a random marker
   at its position

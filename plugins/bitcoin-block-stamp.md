@@ -2,13 +2,10 @@
 aliases:
 - Bitcoin Block Stamp
 author:
-- sefiro
-author_page: https://github.com/sfr0xyz
+- '[[sfr0xyz|sefiro]]'
 categories: []
 description: Stamp your notes with the current Bitcoin block.
 downloads: 393
-funding_page:
-  Alby (Bitcoin/Lightning): https://getalby.com/p/sefiro
 mobile: true
 number: 1603
 title: Bitcoin Block Stamp

@@ -2,13 +2,11 @@
 aliases:
 - Studier
 author:
-- Álvaro
-author_page: https://medium.com/@cuatroy2
+- '[[alvaro-cas|Álvaro]]'
 categories:
 - '[[categories/Learning|Learning]]'
 description: Create quizzes for your Obsidian.md notes and learn better.
 downloads: 2907
-funding_page: https://liberapay.com/Cuatroy2/donate
 mobile: true
 number: 1222
 title: Studier

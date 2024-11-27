@@ -2,8 +2,7 @@
 aliases:
 - Topic Linking
 author:
-- Liam Magee
-author_page: https://github.com/liammagee/obsidian-topic-linking
+- '[[liammagee|Liam Magee]]'
 categories: []
 description: Convert PDF files and web links to Markdown, and create topics from Markdown
 downloads: 20415

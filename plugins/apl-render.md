@@ -2,8 +2,7 @@
 aliases:
 - APL Render
 author:
-- my99n
-author_page: https://github.com/vzsky
+- '[[vzsky|my99n]]'
 categories: []
 description: render APL syntax
 downloads: 3124

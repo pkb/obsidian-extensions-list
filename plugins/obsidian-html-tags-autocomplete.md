@@ -2,8 +2,7 @@
 aliases:
 - HTML Tags Autocomplete
 author:
-- Brian Carlsen
-author_page: https://github.com/bicarlsen
+- '[[bicarlsen|Brian Carlsen]]'
 categories: []
 description: Autocomplete HTML tags.
 downloads: 13625

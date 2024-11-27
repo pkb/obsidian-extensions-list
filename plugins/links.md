@@ -2,8 +2,7 @@
 aliases:
 - Links
 author:
-- MiiKey
-author_page: https://github.com/mii-key
+- '[[mii-key|MiiKey]]'
 categories: []
 description: Manipulate links
 downloads: 42580

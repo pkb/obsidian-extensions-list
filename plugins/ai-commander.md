@@ -2,13 +2,11 @@
 aliases:
 - AI Commander
 author:
-- Simon Yang
-author_page: https://yzh503.github.io
+- '[[yzh503|Simon Yang]]'
 categories: []
 description: Generate audio transcripts, images, and text in context of PDF attachments
   or web search results using OpenAI (ChatGPT) and Bing API.
 downloads: 14046
-funding_page: https://www.buymeacoffee.com/yzh503
 mobile: true
 number: 856
 title: AI Commander

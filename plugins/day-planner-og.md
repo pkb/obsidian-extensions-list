@@ -2,9 +2,8 @@
 aliases:
 - Day Planner (OG)
 author:
-- James Lynch
-- continued by Erin Schnabel
-author_page: https://github.com/ebullient
+- '[[authors/James Lynch|James Lynch]]'
+- '[[ebullient|continued by Erin Schnabel]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: A plugin to help you plan your day and setup pomodoro timers; fork of

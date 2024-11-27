@@ -2,8 +2,7 @@
 aliases:
 - Markdown Sync Scroll
 author:
-- ProjectXero
-author_page: https://github.com/XeroAlpha/
+- '[[XeroAlpha|ProjectXero]]'
 categories: []
 description: Allow two linked markdown views to scroll synchronously.
 downloads: 3551

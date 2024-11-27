@@ -2,8 +2,7 @@
 aliases:
 - Tiff Viewer
 author:
-- Jan Ullmann
-author_page: https://github.com/ullmannJan
+- '[[ullmannJan|Jan Ullmann]]'
 categories: []
 description: View .tif(f) files by generating duplicates in form of .tif(f).png
 downloads: 1216

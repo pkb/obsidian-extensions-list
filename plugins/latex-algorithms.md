@@ -2,12 +2,10 @@
 aliases:
 - LaTeX Algorithms
 author:
-- SamZhang02
-author_page: https://github.com/SamZhang02
+- '[[SamZhang02|SamZhang02]]'
 categories: []
 description: Plugin to facilitate writing algorithm blocks in LaTeX
 downloads: 4709
-funding_page: https://buymeacoffee.com/samzhang
 mobile: true
 number: 803
 title: LaTeX Algorithms

@@ -2,16 +2,11 @@
 aliases:
 - Chord Sheets
 author:
-- Marcel Schaeben
-author_page: https://github.com/olvidalo
+- '[[olvidalo|Marcel Schaeben]]'
 categories: []
 description: 'Work with chord sheets (chords over lyrics) in your Vault: Chord diagrams,
   transpose, autoscroll and more. Works in live preview and reading mode.'
 downloads: 4843
-funding_page:
-  GitHub Sponsors: https://github.com/sponsors/olvidalo
-  Ko-fi: ko-fi.com/olvidalo
-  PayPal: paypal.me/MSchaeben
 mobile: true
 number: 1447
 title: Chord Sheets

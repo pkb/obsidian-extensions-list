@@ -2,13 +2,10 @@
 aliases:
 - Data Entry
 author:
-- Wayne Van Son
-author_page: https://github.com/waynevanson
+- '[[waynevanson|Wayne Van Son]]'
 categories: []
 description: Create forms that save data simply; the data view of data entry
 downloads: 3933
-funding_page:
-  GitHub Sponsors: https://github.com/sponsors/waynevanson
 mobile: true
 number: 1092
 title: Data Entry

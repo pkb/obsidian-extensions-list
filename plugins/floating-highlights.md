@@ -2,8 +2,7 @@
 aliases:
 - Floating Highlights
 author:
-- Karthik S Raju
-author_page: https://twitter.com/karthikraju391
+- '[[KarthikRaju391|Karthik S Raju]]'
 categories: []
 description: Enhanced highlights for Obsidian
 downloads: 4021

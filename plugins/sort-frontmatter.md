@@ -2,8 +2,7 @@
 aliases:
 - Sort Frontmatter
 author:
-- Kanzi
-author_page: https://github.com/mariomui
+- '[[mariomui|Kanzi]]'
 categories: []
 description: Sort frontmatter recursively
 downloads: 2309

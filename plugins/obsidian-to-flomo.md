@@ -2,8 +2,7 @@
 aliases:
 - Share to Flomo
 author:
-- Xiaoyu Li
-author_page: https://www.metalyoung.com/
+- '[[metal-young|Xiaoyu Li]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly share content to Flomo.

@@ -2,13 +2,11 @@
 aliases:
 - Account Viewer
 author:
-- Muaz Yediyüzkırkiki
-author_page: https://github.com/muaz742
+- '[[muaz742|Muaz Yediyüzkırkiki]]'
 categories: []
 description: Automatically generate accounting tables from Markdown code blocks tagged
   with accounting.
 downloads: 950
-funding_page: https://www.patreon.com/muaz742
 mobile: true
 number: 1783
 title: Account Viewer

@@ -2,8 +2,7 @@
 aliases:
 - 复制图文 (Copy Image Text)
 author:
-- msgk
-author_page: https://github.com/msgk239
+- '[[msgk239|msgk]]'
 categories: []
 description: Copy note content (including text and images) to clipboard. 复制笔记内容（包括文本和图片）到剪贴板。
 downloads: 141

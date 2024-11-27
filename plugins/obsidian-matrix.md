@@ -2,8 +2,7 @@
 aliases:
 - Obsidian matrix
 author:
-- Jonas Mohr
-author_page: https://github.com/MohrJonas
+- '[[MohrJonas|Jonas Mohr]]'
 categories: []
 description: Utility to easily create LaTeX matrices
 downloads: 7128

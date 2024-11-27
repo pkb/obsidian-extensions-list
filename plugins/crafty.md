@@ -2,8 +2,7 @@
 aliases:
 - Crafty
 author:
-- liolle
-author_page: https://github.com/liolle
+- '[[liolle|liolle]]'
 categories: []
 description: Add tooltip to any canvas node and Quickly navigate between canvas nodes
 downloads: 2443

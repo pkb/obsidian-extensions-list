@@ -2,8 +2,7 @@
 aliases:
 - Prompt ChatGPT
 author:
-- Coduhuey
-author_page: ''
+- '[[Coduhuey|Coduhuey]]'
 categories: []
 description: Send templates to chatgpt when you open a file
 downloads: 6701

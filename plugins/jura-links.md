@@ -2,13 +2,11 @@
 aliases:
 - Jura Links
 author:
-- Lukas Collier & Emi Le
-author_page: https://github.com/justanotherjurastudent
+- '[[justanotherjurastudent|Lukas Collier & Emi Le]]'
 categories: []
 description: Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen
   mit Gesetzesanbietern.
 downloads: 52
-funding_page: https://buymeacoffee.com/justanotherjurastudent
 mobile: true
 number: 1951
 title: Jura Links

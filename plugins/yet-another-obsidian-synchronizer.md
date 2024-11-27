@@ -2,8 +2,7 @@
 aliases:
 - Yet Another Obsidian Synchronizer
 author:
-- Mahyar Mirrashed
-author_page: https://github.com/mahyarmirrashed
+- '[[mahyarmirrashed|Mahyar Mirrashed]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This is yet another obsidian synchronizer that uses Git to synchronize

@@ -2,8 +2,7 @@
 aliases:
 - Asciidoc Reader
 author:
-- voidgrown
-author_page: http://www.voidgrown.com/
+- '[[Voidgrown|voidgrown]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Enables the rendering of AsciiDoc.

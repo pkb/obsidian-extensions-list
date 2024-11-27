@@ -2,12 +2,10 @@
 aliases:
 - Verse of the Day
 author:
-- Janis Ringli
-author_page: https://github.com/janisringli
+- '[[janisringli|Janis Ringli]]'
 categories: []
 description: Lets you add the verse of the day from YouVersion to your daily notes
 downloads: 893
-funding_page: https://buymeacoffee.com/janisringli
 mobile: false
 number: 1529
 title: Verse of the Day

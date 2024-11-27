@@ -2,12 +2,10 @@
 aliases:
 - Folder Periodic Notes
 author:
-- Andrew Heekin
-author_page: https://andrewheekin.com/
+- '[[andrewheekin|Andrew Heekin]]'
 categories: []
 description: Periodic notes in a year, month, and day folder hierarchy.
 downloads: 888
-funding_page: https://www.buymeacoffee.com/drewheek
 mobile: true
 number: 1641
 title: Folder Periodic Notes

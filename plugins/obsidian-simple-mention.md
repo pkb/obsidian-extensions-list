@@ -2,8 +2,7 @@
 aliases:
 - Simple Mention
 author:
-- der-tobi
-author_page: https://github.com/der-tobi
+- '[[der-tobi|der-tobi]]'
 categories: []
 description: Get highlighted mentions and mention suggestions. Find all occurrences
   of a mention

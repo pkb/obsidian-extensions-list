@@ -2,8 +2,7 @@
 aliases:
 - Daily notes opener
 author:
-- Reorx
-author_page: https://github.com/reorx
+- '[[reorx|Reorx]]'
 categories: []
 description: Easily open daily/periodic notes in new pane, and much more!
 downloads: 7076

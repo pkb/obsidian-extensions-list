@@ -2,8 +2,7 @@
 aliases:
 - Daf Yomi
 author:
-- Adam Lyon
-author_page: https://lyon-fnal.github.io
+- '[[lyonsquark|Adam Lyon]]'
 categories: []
 description: Fill in Daf Yomi pages
 downloads: 4761

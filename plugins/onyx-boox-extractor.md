@@ -2,8 +2,7 @@
 aliases:
 - Onyx Boox Annotation & Highlight Extractor
 author:
-- Akos Balasko
-author_page: https://github.com/akosbalasko
+- '[[akosbalasko|Akos Balasko]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: This plugin extracts annotations and highlights files exported from Onyx

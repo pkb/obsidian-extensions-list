@@ -2,12 +2,10 @@
 aliases:
 - Better Markdown Links
 author:
-- mnaoumov
-author_page: https://github.com/mnaoumov/
+- '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Adds support for angle bracket links and manages relative links properly
 downloads: 1671
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1784
 title: Better Markdown Links

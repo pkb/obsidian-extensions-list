@@ -2,8 +2,7 @@
 aliases:
 - Dangling links
 author:
-- Graydon Hoare
-author_page: https://github.com/graydon
+- '[[graydon|Graydon Hoare]]'
 categories: []
 description: This plugin shows any dangling links in your vault.
 downloads: 14805

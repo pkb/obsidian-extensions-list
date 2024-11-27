@@ -2,15 +2,11 @@
 aliases:
 - AI Summarize
 author:
-- Alp Sariyer
-author_page: https://www.alpsariyer.dev
+- '[[RavenWits|Alp Sariyer]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize your notes using AI
 downloads: 1236
-funding_page:
-  Buy me a Coffee: https://buymeacoffee.com/ravenwits
-  Github Sponsor: https://github.com/sponsors/ravenwits
 mobile: true
 number: 1559
 title: AI Summarize

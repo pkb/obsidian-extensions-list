@@ -2,14 +2,12 @@
 aliases:
 - Univer
 author:
-- DreamNum
-author_page: https://github.com/dream-num
+- '[[dream-num|DreamNum]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create, edit, and view spreadsheets and documents in various formats
   like Excel and Word directly within your knowledge base.
 downloads: 8594
-funding_page: https://opencollective.com/univer
 mobile: false
 number: 1553
 title: Univer

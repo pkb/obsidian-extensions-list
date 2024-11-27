@@ -2,8 +2,7 @@
 aliases:
 - Rewarder
 author:
-- Obsidian
-author_page: https://obsidian.md
+- '[[Gnopps|Obsidian]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Gives you rewards for completing tasks/todos, highly configurable.

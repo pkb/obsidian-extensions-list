@@ -2,8 +2,7 @@
 aliases:
 - UseSemaLogic
 author:
-- SemaLogic UG
-author_page: https://SemaLogic.de
+- '[[MM-GO|SemaLogic UG]]'
 categories: []
 description: Real-time use of the SemaLogic formal language
 downloads: 1251

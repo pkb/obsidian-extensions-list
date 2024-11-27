@@ -2,8 +2,7 @@
 aliases:
 - Task List Kanban
 author:
-- Chris Kerr
-author_page: https://github.com/chrskerr/chrskerr
+- '[[chrskerr|Chris Kerr]]'
 categories: []
 description: Organizes all of the tasks within your files into a kanban view. Reduce
   duplication of effort when managing and prioritising tasks by simply using the task

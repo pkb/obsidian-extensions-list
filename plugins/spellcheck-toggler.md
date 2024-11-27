@@ -2,8 +2,7 @@
 aliases:
 - Spellcheck Toggler
 author:
-- Julian Szachowicz
-author_page: https://github.com/julzerinos
+- '[[julzerinos|Julian Szachowicz]]'
 categories: []
 description: Toggle spellchecking for types of text blocks in the editing view.
 downloads: 1864

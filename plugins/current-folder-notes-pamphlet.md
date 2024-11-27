@@ -2,13 +2,11 @@
 aliases:
 - Current Folder Notes
 author:
-- Pamela Wang
-author_page: https://github.com/Caffa
+- '[[Caffa|Pamela Wang]]'
 categories: []
 description: Shows a list of notes in the current folder, and allows you to filter
   the titles to include or exclude notes.
 downloads: 919
-funding_page: https://ko-fi.com/pamelawang_mwahacookie
 mobile: true
 number: 1570
 title: Current Folder Notes

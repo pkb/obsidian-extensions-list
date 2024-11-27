@@ -2,8 +2,7 @@
 aliases:
 - Vantage - Advanced search builder
 author:
-- ryanjamurphy
-author_page: https://axle.design
+- '[[ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Build advanced search queries in Obsidian.
 downloads: 27287

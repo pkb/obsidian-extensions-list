@@ -2,8 +2,7 @@
 aliases:
 - PubScale
 author:
-- piriwata
-author_page: https://github.com/piriwata
+- '[[piriwata|piriwata]]'
 categories: []
 description: Seamlessly sync markdown notes into PlanetScale tables.
 downloads: 3159

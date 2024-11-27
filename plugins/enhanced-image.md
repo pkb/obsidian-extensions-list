@@ -2,14 +2,12 @@
 aliases:
 - Enhanced Image
 author:
-- situ2001
-author_page: https://situ2001.com
+- '[[situ2001|situ2001]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Enhance the experience of image seamlessly. For example, operations for
   image in context menu, command palette.
 downloads: 236
-funding_page: https://www.paypal.com/paypalme/situ2oo1
 mobile: true
 number: 1898
 title: Enhanced Image

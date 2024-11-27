@@ -2,8 +2,7 @@
 aliases:
 - Ledger
 author:
-- Tony Grosinger
-author_page: https://grosinger.net
+- '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: Plain text accounting
 downloads: 27324

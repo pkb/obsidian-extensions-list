@@ -2,8 +2,7 @@
 aliases:
 - Markdoc
 author:
-- Maciej Jur
-author_page: https://github.com/kamoshi
+- '[[kamoshi|Maciej Jur]]'
 categories: []
 description: Basic support for Markdoc files
 downloads: 3312

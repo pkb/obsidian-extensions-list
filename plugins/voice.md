@@ -2,8 +2,7 @@
 aliases:
 - Voice
 author:
-- Chris Oguntolu
-author_page: https://github.com/chrisurf
+- '[[chrisurf|Chris Oguntolu]]'
 categories: []
 description: Let your notes talk and speak to you and enhance your Obsidian experience
   to effortlessly listen to your notes being read aloud and enjoy the power of sound,

@@ -2,8 +2,7 @@
 aliases:
 - Auto Split
 author:
-- James Sartelle
-author_page: https://github.com/jsartelle
+- '[[jsartelle|James Sartelle]]'
 categories: []
 description: Open notes with side-by-side editor & preview
 downloads: 8753

@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Anki Sync
 author:
-- debanjandhar12
-author_page: https://github.com/debanjandhar12
+- '[[debanjandhar12|debanjandhar12]]'
 categories: []
 description: Obsidian plugin to make flashcards and sync them to Anki.
 downloads: 8659

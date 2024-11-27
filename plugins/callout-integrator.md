@@ -2,8 +2,7 @@
 aliases:
 - Callout Integrator
 author:
-- Cleoche
-author_page: https://github.com/Cleoche
+- '[[Cleoche|Cleoche]]'
 categories: []
 description: Integrate long blocks of text into callouts and easier nested callouts
 downloads: 8204

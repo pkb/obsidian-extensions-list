@@ -2,8 +2,7 @@
 aliases:
 - Vault Chat
 author:
-- Exo Ascension
-author_page: https://github.com/exoascension
+- '[[exoascension|Exo Ascension]]'
 categories: []
 description: A ChatGPT bot trained on your vault notes. Ask your AI questions about
   your own thoughts and ideas!

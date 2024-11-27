@@ -2,8 +2,7 @@
 aliases:
 - Reminder
 author:
-- uphy
-author_page: https://obsidian.md/about
+- '[[uphy|uphy]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Reminder plugin for Obsidian. This plugin adds feature to manage TODOs

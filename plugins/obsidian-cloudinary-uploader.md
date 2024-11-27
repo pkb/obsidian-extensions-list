@@ -2,13 +2,11 @@
 aliases:
 - Cloudinary Uploader
 author:
-- Jordan Handy
-author_page: https://github.com/jordanhandy
+- '[[jordanhandy|Jordan Handy]]'
 categories: []
 description: This plugin uploads the media files in your clipboard (or drag and drop)
   to Cloudinary as unsigned uploads
 downloads: 4526
-funding_page: https://ko-fi.com/jordanhandy
 mobile: false
 number: 353
 title: Cloudinary Uploader

@@ -2,8 +2,7 @@
 aliases:
 - Harper
 author:
-- Elijah Potter
-author_page: https://elijahpotter.dev
+- '[[elijah-potter|Elijah Potter]]'
 categories: []
 description: The Grammar Checker for Developers
 downloads: 2602

@@ -2,14 +2,12 @@
 aliases:
 - S3agle
 author:
-- Turner Monroe (turnercore)
-author_page: https://github.com/turnercore
+- '[[turnercore|Turner Monroe (turnercore)]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Use S3 providers and/or Eagle to manage vault attachments locally and
   remotely.
 downloads: 385
-funding_page: https://github.com/sponsors/turnercore
 mobile: false
 number: 1642
 title: S3agle

@@ -2,8 +2,7 @@
 aliases:
 - Global Hotkeys
 author:
-- Marc Jessome
-author_page: https://github.com/mjessome/obsidian-global-hotkeys/
+- '[[mjessome|Marc Jessome]]'
 categories: []
 description: Add support for global hotkeys
 downloads: 10073

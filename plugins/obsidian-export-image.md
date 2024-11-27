@@ -2,8 +2,7 @@
 aliases:
 - Export Image plugin
 author:
-- Zhou Hua
-author_page: ''
+- '[[zhouhua|Zhou Hua]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Easily convert your article to image.

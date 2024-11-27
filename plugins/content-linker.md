@@ -2,8 +2,7 @@
 aliases:
 - Content Linker
 author:
-- Medill-East
-author_page: https://medill-east.github.io/
+- '[[Medill-East|Medill-East]]'
 categories: []
 description: A plugin for searching and adding bi-directional links to existing content
   in Obsidian Vault.

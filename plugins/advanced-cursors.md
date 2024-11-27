@@ -2,8 +2,7 @@
 aliases:
 - Advanced Cursors
 author:
-- SkepticMystic
-author_page: https://github.com/SkepticMystic/advanced-cursors
+- '[[SkepticMystic|SkepticMystic]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Use multiple cursors even more powerfully.

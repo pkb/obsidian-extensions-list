@@ -2,8 +2,7 @@
 aliases:
 - Editing Toolbar
 author:
-- Cuman
-author_page: https://github.com/cumany/obsidian-editing-toolbar
+- '[[cumany|Cuman]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Note editing and formatting|Note editing and formatting]]'

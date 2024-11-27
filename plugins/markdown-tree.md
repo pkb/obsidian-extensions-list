@@ -2,8 +2,7 @@
 aliases:
 - Markdown Tree
 author:
-- carvah
-author_page: https://github.com/carvah
+- '[[carvah|carvah]]'
 categories: []
 description: Create a beautiful and intuitive directory tree using Markdown-oriented
   code style using tabs, spaces and enters.

@@ -2,13 +2,11 @@
 aliases:
 - Canvas Daily Note
 author:
-- Andrew McGivery
-author_page: https://github.com/andrewmcgivery
+- '[[andrewmcgivery|Andrew McGivery]]'
 categories: []
 description: Allows you to add a daily note node to the canvas that will always show
   todays note.
 downloads: 1834
-funding_page: https://www.buymeacoffee.com/andrewmcgivery
 mobile: false
 number: 1398
 title: Canvas Daily Note

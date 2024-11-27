@@ -2,13 +2,11 @@
 aliases:
 - Translate Inline
 author:
-- Lucas Langholf
-author_page: https://kon.foo/
+- '[[kon-foo|Lucas Langholf]]'
 categories: []
 description: Translations at your fingertips. Get inline Translations when writing
   Notes.
 downloads: 92
-funding_page: https://buymeacoffee.com/kon.foo
 mobile: false
 number: 1960
 title: Translate Inline

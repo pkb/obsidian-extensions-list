@@ -2,13 +2,11 @@
 aliases:
 - Select current line
 author:
-- Gokul
-author_page: https://github.com/gokulk16
+- '[[gokulk16|Gokul]]'
 categories: []
 description: Selects the current line where the cursor is placed. Press 'ESC' button
   to select.
 downloads: 3680
-funding_page: ''
 mobile: true
 number: 875
 title: Select current line

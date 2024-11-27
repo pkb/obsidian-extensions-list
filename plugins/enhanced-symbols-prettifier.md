@@ -2,8 +2,7 @@
 aliases:
 - Enhanced Symbols Prettifier
 author:
-- Noam Schmitt and Florian Woelki
-author_page: https://github.com/noam-sc
+- '[[noam-sc|Noam Schmitt and Florian Woelki]]'
 categories: []
 description: Replace/substitute the symbols with actual symbols you commonly type.
   It also works for emojis shortcuts, abbreviations, greek letters, math symbols or

@@ -2,13 +2,11 @@
 aliases:
 - Arrows
 author:
-- artisticat
-author_page: https://github.com/artisticat1
+- '[[artisticat1|artisticat]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Draw arrows across different parts of your notes, similar to on paper
 downloads: 3919
-funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 1403
 title: Arrows

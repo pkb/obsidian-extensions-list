@@ -2,13 +2,11 @@
 aliases:
 - Open vault in VSCode
 author:
-- NomarCub
-author_page: https://github.com/NomarCub
+- '[[NomarCub|NomarCub]]'
 categories: []
 description: Ribbon button, command and file explorer context menu to open the vault
   as a Visual Studio Code (VSCode) workspace
 downloads: 26164
-funding_page: https://ko-fi.com/nomarcub
 mobile: false
 number: 225
 title: Open vault in VSCode

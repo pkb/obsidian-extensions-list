@@ -2,8 +2,7 @@
 aliases:
 - Double Click Tab
 author:
-- Boninall
-author_page: https://github.com/Quorafind
+- '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin to modify the default behavior when you double click on the
   tab title, like close tab.

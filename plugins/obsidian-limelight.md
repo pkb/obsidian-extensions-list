@@ -2,8 +2,7 @@
 aliases:
 - Limelight
 author:
-- Scott Mikula
-author_page: https://github.com/smikula/obsidian-limelight
+- '[[smikula|Scott Mikula]]'
 categories: []
 description: Put a spotlight on your active pane
 downloads: 5381

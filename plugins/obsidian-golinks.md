@@ -2,8 +2,7 @@
 aliases:
 - GoLinks
 author:
-- David Brownman (@xavdid)
-author_page: https://xavd.id
+- '[[xavdid|David Brownman (@xavdid)]]'
 categories: []
 description: This is a plugin for Obsidian that renders go/links as clickable links.
 downloads: 3835

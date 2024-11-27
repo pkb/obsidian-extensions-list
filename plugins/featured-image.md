@@ -2,14 +2,12 @@
 aliases:
 - Featured Image
 author:
-- Johan Sanneblad
-author_page: https://github.com/johansan
+- '[[johansan|Johan Sanneblad]]'
 categories: []
 description: Automatically sets a featured image property in your notes based on the
   first image, YouTube link, or Auto Card Link image found in your document. This
   allows you to create rich note galleries using Folder Notes and Dataview.
 downloads: 608
-funding_page: https://buymeacoffee.com/johansan
 mobile: true
 number: 1996
 title: Featured Image

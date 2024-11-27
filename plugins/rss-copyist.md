@@ -2,8 +2,7 @@
 aliases:
 - Rss Copyist
 author:
-- aoout
-author_page: https://github.com/aoout
+- '[[aoout|aoout]]'
 categories: []
 description: Get the rss articles as mdfiles.
 downloads: 1650

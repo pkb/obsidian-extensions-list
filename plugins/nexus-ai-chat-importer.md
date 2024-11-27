@@ -2,8 +2,7 @@
 aliases:
 - Nexus AI Chat Importer
 author:
-- Superkikim
-author_page: https://github.com/Superkikim
+- '[[superkikim|Superkikim]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import conversations from ChatGPT export files.

@@ -2,12 +2,10 @@
 aliases:
 - Favorite Note
 author:
-- mahmudz
-author_page: https://github.com/mahmudz
+- '[[mahmudz|mahmudz]]'
 categories: []
 description: Mark your note as favorite.
 downloads: 4581
-funding_page: https://www.buymeacoffee.com/mahmudz
 mobile: true
 number: 1241
 title: Favorite Note

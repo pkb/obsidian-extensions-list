@@ -2,10 +2,9 @@
 aliases:
 - Footnote Shortcut
 author:
-- Alexis Rondeau
-- Micha Brugger
-- Jason Qin
-author_page: https://publish.obsidian.md/alexisrondeau
+- '[[authors/Alexis Rondeau|Alexis Rondeau]]'
+- '[[authors/Micha Brugger|Micha Brugger]]'
+- '[[MichaBrugger|Jason Qin]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Insert and write footnotes faster

@@ -2,15 +2,11 @@
 aliases:
 - AudioPen Sync
 author:
-- Jonas Haefele
-author_page: https://audiopen-obsidian.web.app
+- '[[jonashaefele|Jonas Haefele]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync notes from AudioPen.
 downloads: 170
-funding_page:
-  Buy Me a Coffee: https://ko-fi.com/jonashaefele
-  GitHub Sponsor: https://github.com/sponsors/jonashaefele
 mobile: true
 number: 1700
 title: AudioPen Sync

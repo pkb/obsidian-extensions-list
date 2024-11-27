@@ -2,14 +2,10 @@
 aliases:
 - short tab name
 author:
-- Shumpei-Tanaka
-author_page: https://github.com/Shumpei-Tanaka/
+- '[[shumpei-tanaka|Shumpei-Tanaka]]'
 categories: []
 description: set tab name to short for uid user
 downloads: 2073
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/s6tanaka/
-  Paypal.me: https://www.paypal.me/s6tanaka/
 mobile: true
 number: 1269
 title: short tab name

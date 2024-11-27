@@ -2,15 +2,11 @@
 aliases:
 - Copilot
 author:
-- Logan Yang
-author_page: https://twitter.com/logancyang
+- '[[logancyang|Logan Yang]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI Copilot in Obsidian.
 downloads: 271010
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/logancyang
-  GitHub Sponsor: https://github.com/sponsors/logancyang
 mobile: true
 number: 909
 title: Copilot

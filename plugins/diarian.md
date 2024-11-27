@@ -2,8 +2,7 @@
 aliases:
 - Diarian
 author:
-- Erika Gozar
-author_page: https://github.com/Erallie
+- '[[Erallie|Erika Gozar]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: All-in-one journaling toolkit.

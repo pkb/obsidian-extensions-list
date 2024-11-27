@@ -2,8 +2,7 @@
 aliases:
 - Canvas2Document
 author:
-- slnsys
-author_page: https://github.com/slnsys
+- '[[slnsys|slnsys]]'
 categories: []
 description: Convert a complete Canvas to a long form document, integrating all cards,
   notes, images and other media content into a single markdown file.

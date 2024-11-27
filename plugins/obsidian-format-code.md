@@ -2,8 +2,7 @@
 aliases:
 - Format code
 author:
-- Vladimir Savenkov
-author_page: https://github.com/iVariable
+- '[[iVariable|Vladimir Savenkov]]'
 categories: []
 description: This plugin introduces commands to format code (internally uses prettier)
 downloads: 8654

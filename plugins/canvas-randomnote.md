@@ -2,12 +2,10 @@
 aliases:
 - Canvas Random Note
 author:
-- Obsidian
-author_page: https://obsidian.md
+- '[[jmilldotdev|Obsidian]]'
 categories: []
 description: Add random notes from your vault to the Obsidian canvas
 downloads: 3947
-funding_page: https://obsidian.md/pricing
 mobile: false
 number: 747
 title: Canvas Random Note

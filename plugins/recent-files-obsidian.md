@@ -2,15 +2,10 @@
 aliases:
 - Recent Files
 author:
-- Tony Grosinger
-author_page: https://grosinger.net
+- '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: List files by most recently opened
 downloads: 608582
-funding_page:
-  Buy me a Coffee: https://buymeacoffee.com/tgrosinger
-  Github Sponsor: https://github.com/sponsors/tgrosinger
-  Paypal: https://paypal.me/tgrosinger
 mobile: true
 number: 7
 title: Recent Files

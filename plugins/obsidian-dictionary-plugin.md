@@ -2,12 +2,10 @@
 aliases:
 - Dictionary
 author:
-- phibr0
-author_page: https://github.com/phibr0
+- '[[phibr0|phibr0]]'
 categories: []
 description: This is a simple dictionary for the Obsidian Note-Taking Tool.
 downloads: 170084
-funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 189
 title: Dictionary

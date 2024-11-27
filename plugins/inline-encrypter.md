@@ -2,8 +2,7 @@
 aliases:
 - Inline Encrypter
 author:
-- Alexander Cheryomukhin
-author_page: https://github.com/solargate
+- '[[solargate|Alexander Cheryomukhin]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Encrypt secrets in your notes.

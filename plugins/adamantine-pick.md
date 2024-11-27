@@ -2,13 +2,11 @@
 aliases:
 - Adamantine Pick
 author:
-- Urist McMiner
-author_page: https://github.com/notlibrary
+- '[[notlibrary|Urist McMiner]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Embeddable Pikchr(https://pikchr.org) diagrams renderer for Obsidian(https://obsidian.md).
 downloads: 4367
-funding_page: https://github.com/notlibrary
 mobile: true
 number: 777
 title: Adamantine Pick

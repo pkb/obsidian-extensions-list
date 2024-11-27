@@ -2,8 +2,7 @@
 aliases:
 - Virtual Linker / Glossary
 author:
-- Valentin Schröter
-author_page: https://github.com/vschroeter/
+- '[[vschroeter|Valentin Schröter]]'
 categories: []
 description: Automatically creates virtual links for text within your notes that match
   the titles or aliases of other notes in your vault. Create a glossary-like functionality,

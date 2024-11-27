@@ -2,13 +2,11 @@
 aliases:
 - Minimal Theme Settings
 author:
-- '@kepano'
-author_page: https://www.twitter.com/kepano
+- '[[kepano|@kepano]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Change the colors, fonts and features of Minimal Theme.
 downloads: 978942
-funding_page: https://www.buymeacoffee.com/kepano
 mobile: true
 number: 22
 title: Minimal Theme Settings

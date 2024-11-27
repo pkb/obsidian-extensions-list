@@ -2,15 +2,11 @@
 aliases:
 - Publish url
 author:
-- Hananoshika Yomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Obsidian Publish url to the clipboard
 downloads: 2218
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: true
 number: 1283
 title: Publish url

@@ -2,8 +2,7 @@
 aliases:
 - Tldraw
 author:
-- Sam Alhaqab
-author_page: https://github.com/holxsam
+- '[[holxsam|Sam Alhaqab]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Integrates Tldraw into Obsidian, allowing users to draw and edit content

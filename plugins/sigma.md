@@ -2,8 +2,7 @@
 aliases:
 - Sigma
 author:
-- monesga
-author_page: https://github.com/velentir/obsidian-sigma
+- '[[monesga|monesga]]'
 categories: []
 description: A plugin to enable using obsidian notes as calculation sheets.
 downloads: 4333

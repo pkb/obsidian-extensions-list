@@ -2,8 +2,7 @@
 aliases:
 - QuickShare
 author:
-- Maxime Cannoodt (@mcndt)
-author_page: https://mcndt.dev
+- '[[mcndt|Maxime Cannoodt (@mcndt)]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Securely share your Obsidian notes with one click. Notes are end-to-end

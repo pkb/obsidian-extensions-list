@@ -2,8 +2,7 @@
 aliases:
 - Symlink Creator
 author:
-- Tobias Heidler
-author_page: https://github.com/pteridin
+- '[[pteridin|Tobias Heidler]]'
 categories: []
 description: Create symlinks to files and folders inside and outside of your vault.
 downloads: 248

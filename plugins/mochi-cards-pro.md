@@ -2,8 +2,7 @@
 aliases:
 - Mochi Cards Pro
 author:
-- Hayden Carpenter
-author_page: https://hayden.gg
+- '[[xHayden|Hayden Carpenter]]'
 categories: []
 description: Create flashcards on Mochi.cards using the API provided by Mochi's Pro
   subscription.

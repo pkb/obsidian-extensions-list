@@ -2,8 +2,7 @@
 aliases:
 - Things3 Today
 author:
-- wudanyang6
-author_page: https://wudanyang6.github.io/
+- '[[wudanyang6|wudanyang6]]'
 categories: []
 description: Manage today's tasks with Things3
 downloads: 1596

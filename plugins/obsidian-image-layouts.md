@@ -2,8 +2,7 @@
 aliases:
 - Image Layouts
 author:
-- Luke Chadwick
-author_page: https://vertis.io
+- '[[vertis|Luke Chadwick]]'
 categories: []
 description: Add beautiful image layouts to your notes
 downloads: 16783

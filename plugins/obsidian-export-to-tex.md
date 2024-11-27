@@ -2,8 +2,7 @@
 aliases:
 - Export To TeX
 author:
-- Zach Raines
-author_page: https://github.com/raineszm/obsidian-export-to-tex
+- '[[raineszm|Zach Raines]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export vault files in a format amenable to pasting into a tex document

@@ -2,15 +2,12 @@
 aliases:
 - Task Marker
 author:
-- wenlzhang
-author_page: https://github.com/wenlzhang
+- '[[wenlzhang|wenlzhang]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Change task statuses with hotkeys and context menu. Complete, cancel
   and mark tasks, as well as cycle among selected task statuses.
 downloads: 11112
-funding_page:
-  Buy Me a Coffee: https://ko-fi.com/f84556
 mobile: true
 number: 760
 title: Task Marker

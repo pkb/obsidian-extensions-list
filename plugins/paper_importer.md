@@ -2,12 +2,10 @@
 aliases:
 - Paper Importer
 author:
-- Zhe Chen
-author_page: https://zchen.im
+- '[[chenzhekl|Zhe Chen]]'
 categories: []
 description: Import papers from arXiv with one click.
 downloads: 42
-funding_page: ''
 mobile: true
 number: 2028
 title: Paper Importer

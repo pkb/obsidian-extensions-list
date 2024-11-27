@@ -2,8 +2,7 @@
 aliases:
 - Simple Code Formatter
 author:
-- SY
-author_page: https://github.com/wiop93256
+- '[[wiop93256|SY]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format the code block where the cursor is.

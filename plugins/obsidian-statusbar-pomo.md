@@ -2,8 +2,7 @@
 aliases:
 - Status Bar Pomodoro Timer
 author:
-- kzhovn
-author_page: ''
+- '[[kzhovn|kzhovn]]'
 categories: []
 description: Adds a pomodoro timer to your status bar.
 downloads: 41625

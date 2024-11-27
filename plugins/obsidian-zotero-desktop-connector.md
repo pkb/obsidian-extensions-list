@@ -2,8 +2,7 @@
 aliases:
 - Zotero Integration
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-zotero-integration
+- '[[mgmeyers|mgmeyers]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Knowledge management|Knowledge management]]'

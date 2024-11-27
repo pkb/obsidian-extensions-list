@@ -2,14 +2,12 @@
 aliases:
 - Attachment Management
 author:
-- trganda
-author_page: https://github.com/trganda
+- '[[trganda|trganda]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize your attachment path of notes independently with variables
   and auto rename it on change.
 downloads: 29950
-funding_page: https://paypal.me/trganda
 mobile: true
 number: 942
 title: Attachment Management

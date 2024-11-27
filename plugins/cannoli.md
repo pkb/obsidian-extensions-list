@@ -2,12 +2,10 @@
 aliases:
 - Cannoli
 author:
-- blindmansion
-author_page: https://deablabs.com/
+- '[[DeabLabs|blindmansion]]'
 categories: []
 description: Create and run LLM scripts on the Obsidian Canvas.
 downloads: 7796
-funding_page: https://ko-fi.com/blindmansion
 mobile: true
 number: 1143
 title: Cannoli

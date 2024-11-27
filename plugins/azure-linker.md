@@ -2,12 +2,10 @@
 aliases:
 - Azure DevOps Linker
 author:
-- Steven Zilberberg
-author_page: stevenzilberberg.com
+- '[[srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Azure issue tag as a link to you Azure instance.
 downloads: 268
-funding_page: https://www.buymeacoffee.com/kvnfnpycl
 mobile: true
 number: 1629
 title: Azure DevOps Linker

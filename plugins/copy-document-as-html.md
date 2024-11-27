@@ -2,8 +2,7 @@
 aliases:
 - Copy document as HTML
 author:
-- mvdkwast
-author_page: https://github.com/mvdkwast
+- '[[mvdkwast|mvdkwast]]'
 categories: []
 description: Copy the current document to clipboard as HTML, including images, diagrams
   etc...

@@ -2,8 +2,7 @@
 aliases:
 - Colored Text
 author:
-- Erinc Ayaz
-author_page: https://github.com/erincayaz
+- '[[erincayaz|Erinc Ayaz]]'
 categories: []
 description: Color the selected texts.
 downloads: 104599

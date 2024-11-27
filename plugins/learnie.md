@@ -2,8 +2,7 @@
 aliases:
 - Learnie
 author:
-- tankh99
-author_page: https://khanghou.vercel.app/
+- '[[tankh99|tankh99]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Enhance your learning with active recall and spaced repetition. Track

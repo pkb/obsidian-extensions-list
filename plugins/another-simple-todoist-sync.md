@@ -2,13 +2,11 @@
 aliases:
 - Another Simple Todoist Sync
 author:
-- eudennis
-author_page: https://github.com/eudennis/
+- '[[eudennis|eudennis]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync tasks with Todoist from within your notes.
 downloads: 166
-funding_page: ''
 mobile: true
 number: 1959
 title: Another Simple Todoist Sync

@@ -2,8 +2,7 @@
 aliases:
 - Subdivider
 author:
-- Tricster
-author_page: https://github.com/MediosZ
+- '[[MediosZ|Tricster]]'
 categories: []
 description: Converts your notes into nested folders, automatically creating separate
   files for each subheading.

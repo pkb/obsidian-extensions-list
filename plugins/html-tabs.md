@@ -2,8 +2,7 @@
 aliases:
 - HTML Tabs
 author:
-- Patrick Tournet
-author_page: https://github.com/ptournet
+- '[[ptournet|Patrick Tournet]]'
 categories: []
 description: Create and render Tabs and tab panels in your notes.
 downloads: 5436

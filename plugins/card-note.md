@@ -2,8 +2,7 @@
 aliases:
 - CardNote
 author:
-- cycsd
-author_page: https://github.com/cycsd
+- '[[cycsd|cycsd]]'
 categories: []
 description: Help you quickly extract your thoughts in the Canvas and Excalidraw
 downloads: 4883

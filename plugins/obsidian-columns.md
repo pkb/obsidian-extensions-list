@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Columns
 author:
-- Trevor Nichols
-author_page: https://github.com/tnichols217/obsidian-columns
+- '[[tnichols217|Trevor Nichols]]'
 categories: []
 description: Allows you to create columns in Obsidian Markdown
 downloads: 49163

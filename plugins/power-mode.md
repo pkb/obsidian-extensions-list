@@ -2,8 +2,7 @@
 aliases:
 - POWER MODE
 author:
-- Zhou Hua
-author_page: https://zhouhua.site
+- '[[zhouhua|Zhou Hua]]'
 categories: []
 description: Active POWER MODE!!!!
 downloads: 1336

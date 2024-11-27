@@ -2,8 +2,7 @@
 aliases:
 - Footlinks
 author:
-- Daha
-author_page: https://github.com/DahaWong
+- '[[DahaWong|Daha]]'
 categories: []
 description: Extracts links from the main text to footer.
 downloads: 11151

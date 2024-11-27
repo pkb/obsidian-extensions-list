@@ -2,8 +2,7 @@
 aliases:
 - Markpilot
 author:
-- Taichi Maeda
-author_page: https://taichimaeda.github.io
+- '[[taichimaeda|Taichi Maeda]]'
 categories: []
 description: Inline completions and chat view powered by OpenAI
 downloads: 860

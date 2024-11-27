@@ -2,13 +2,11 @@
 aliases:
 - Read Later
 author:
-- Gabriele Cannata
-author_page: https://github.com/Canna71
+- '[[Canna71|Gabriele Cannata]]'
 categories: []
 description: Synch web pages to markdown and integrate with read-it-later apps (Pocket,
   Instapaper)
 downloads: 5914
-funding_page: https://www.buymeacoffee.com/gcannata
 mobile: false
 number: 719
 title: Read Later

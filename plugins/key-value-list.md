@@ -2,8 +2,7 @@
 aliases:
 - Key-Value List
 author:
-- Christian Wannerstedt
-author_page: https://github.com/christianwannerstedt
+- '[[christianwannerstedt|Christian Wannerstedt]]'
 categories: []
 description: Makes it easy to turn lists into formatted key-value lists.
 downloads: 4641

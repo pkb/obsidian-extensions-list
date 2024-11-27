@@ -2,8 +2,7 @@
 aliases:
 - Webhook Plugin
 author:
-- Stephen Solka
-author_page: https://obsidian-buffer.web.app
+- '[[trashhalo|Stephen Solka]]'
 categories: []
 description: Plugin that connects your notes to the internet of things through webhooks!
 downloads: 7204

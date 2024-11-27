@@ -2,8 +2,7 @@
 aliases:
 - Daily Note Structure
 author:
-- Dirk Brenckmann
-author_page: https://slashlib.org
+- '[[db-developer|Dirk Brenckmann]]'
 categories: []
 description: One-Click create a structure for and including your daily notes.
 downloads: 202

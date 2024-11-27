@@ -2,12 +2,10 @@
 aliases:
 - Japanese Novel Ruby
 author:
-- quels <@k-quels>
-author_page: https://kuma.quels.net/
+- '[[k-quels|quels <@k-quels>]]'
 categories: []
 description: Treat ruby(Furigana) ​​marks commonly used in Japanese novels.
 downloads: 112
-funding_page: https://buymeacoffee.com/quels
 mobile: true
 number: 1954
 title: Japanese Novel Ruby

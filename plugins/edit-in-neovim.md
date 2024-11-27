@@ -2,8 +2,7 @@
 aliases:
 - Edit in Neovim
 author:
-- Theseus
-author_page: https://github.com/TheseusGrey
+- '[[TheseusGrey|Theseus]]'
 categories: []
 description: Open a Neovim buffer for the currently open file
 downloads: 1246

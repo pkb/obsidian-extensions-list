@@ -2,8 +2,7 @@
 aliases:
 - Rapid Notes
 author:
-- valteriomon
-author_page: https://github.com/valteriomon
+- '[[valteriomon|valteriomon]]'
 categories: []
 description: Create and place notes quickly in specific folders based on predefined
   prefixes.

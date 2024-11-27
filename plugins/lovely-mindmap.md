@@ -2,16 +2,11 @@
 aliases:
 - Lovely-Mindmap
 author:
-- shaun
-author_page: https://github.com/xincan1949
+- '[[xincan1949|shaun]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Build your own knowledge graph with smiles :-)
 downloads: 13924
-funding_page:
-  By Me a Coffee: https://www.buymeacoffee.com/xincan1949
-  微信: https://cdn.jsdelivr.net/gh/xincan1949/xincan1949.github.io@master/WeChatPay.png
-  支付宝: https://cdn.jsdelivr.net/gh/xincan1949/xincan1949.github.io@master/Alipay.jpeg
 mobile: true
 number: 1064
 title: Lovely-Mindmap

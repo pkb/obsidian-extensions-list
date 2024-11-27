@@ -1,8 +1,8 @@
 ---
 aliases:
 - Quoth
-author: erykwalder
-author_page: https://github.com/erykwalder/quoth
+author:
+- '[[authors/erykwalder|erykwalder]]'
 categories: []
 description: More flexible embedding. Embed precise selections, inline embeds, optionally
   include author and title.

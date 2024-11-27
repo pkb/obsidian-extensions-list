@@ -2,8 +2,7 @@
 aliases:
 - Dialogue
 author:
-- Jakub Holub
-author_page: https://github.com/holubj
+- '[[holubj|Jakub Holub]]'
 categories: []
 description: Create dialogues in Markdown.
 downloads: 14602

@@ -2,8 +2,7 @@
 aliases:
 - Text Wrapper
 author:
-- smx0
-author_page: https://github.com/smx0
+- '[[smx0|smx0]]'
 categories: []
 description: Quickly wrap selected text with HTML tags by using a shortcut or from
   the command palette

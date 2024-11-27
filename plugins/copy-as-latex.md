@@ -2,8 +2,7 @@
 aliases:
 - Copy as Latex
 author:
-- Dave Murray-Rust
-author_page: https://dave.murray-rust.org
+- '[[mo-seph|Dave Murray-Rust]]'
 categories: []
 description: Plugin to quickly copy markdown as Latex, with citations
 downloads: 9246

@@ -2,8 +2,7 @@
 aliases:
 - AI File Organizer 2000
 author:
-- Benjamin Ashgan Shafii
-author_page: https://github.com/different-ai
+- '[[different-ai|Benjamin Ashgan Shafii]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI assistant to organize and chat with your vault

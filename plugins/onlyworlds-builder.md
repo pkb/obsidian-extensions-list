@@ -2,12 +2,10 @@
 aliases:
 - OnlyWorlds Builder
 author:
-- Titus
-author_page: https://onlyworlds.github.io
+- '[[OnlyWorlds|Titus]]'
 categories: []
 description: World building structure with OnlyWorlds integration
 downloads: 154
-funding_page: https://www.onlyworlds.com
 mobile: false
 number: 1928
 title: OnlyWorlds Builder

@@ -2,8 +2,7 @@
 aliases:
 - Front Matter Timestamps
 author:
-- LighthouseDino
-author_page: https://github.com/lighthousedino
+- '[[lighthousedino|LighthouseDino]]'
 categories: []
 description: Automatically manages and updates 'created' and 'modified' timestamps
   in the frontmatter of your notes

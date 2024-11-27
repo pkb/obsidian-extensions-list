@@ -2,8 +2,7 @@
 aliases:
 - D2
 author:
-- Terrastruct
-author_page: https://d2lang.com
+- '[[terrastruct|Terrastruct]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: The official D2 plugin for Obsidian. D2 is a modern diagram scripting

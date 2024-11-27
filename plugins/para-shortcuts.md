@@ -2,8 +2,7 @@
 aliases:
 - PARA Shortcuts
 author:
-- gOAT
-author_page: https://github.com/gOATiful/para-shortcuts
+- '[[gOATiful|gOAT]]'
 categories: []
 description: This plugin serves usefull commands to setup and manage your knowledge
   using the PARA method.

@@ -2,8 +2,7 @@
 aliases:
 - Hints Flow
 author:
-- Hints
-author_page: https://productivity-ai.net/
+- '[[slpbx|Hints]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Save data directly to Obsidian with a specified template. Capture from

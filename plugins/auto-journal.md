@@ -2,8 +2,7 @@
 aliases:
 - Auto Journal
 author:
-- Evan Bonsignori
-author_page: https://github.com/Ebonsignori
+- '[[Ebonsignori|Evan Bonsignori]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Opinionated journaling automation like daily notes but with backfills

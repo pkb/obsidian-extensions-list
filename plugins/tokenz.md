@@ -2,8 +2,7 @@
 aliases:
 - Tokenz
 author:
-- Ferenc Moricz
-author_page: https://github.com/ferenk
+- '[[ferenk|Ferenc Moricz]]'
 categories: []
 description: 'Insert shortcodes into your document, e.g smileys :) or emojis :wink:
   . User-defined short code maps are also supported.'

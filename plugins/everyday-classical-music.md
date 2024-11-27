@@ -2,8 +2,7 @@
 aliases:
 - Everyday Classical Music
 author:
-- the flying markhor
-author_page: https://flyingmarkhor.com
+- '[[Eloliuyx|the flying markhor]]'
 categories: []
 description: Display a different piece of classical music each day with a YouTube
   link in your daily note.

@@ -2,15 +2,11 @@
 aliases:
 - Postfix
 author:
-- Bhagya Nirmaan Silva
-author_page: https://github.com/bhagyas
+- '[[bhagyas|Bhagya Nirmaan Silva]]'
 categories: []
 description: This plugin provides postfix completions for Obsidian. The built-in completions
   are provided for markdown.
 downloads: 3015
-funding_page:
-  Buy me a Coffee: https://www.buymeacoffee.com/bhagyas
-  Say Hello on LinkedIn: https://linkedin.com/in/bhagyas
 mobile: true
 number: 1104
 title: Postfix

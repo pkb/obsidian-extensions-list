@@ -2,8 +2,7 @@
 aliases:
 - obsidian-title-index
 author:
-- renmu123
-author_page: https://github.com/renmu123/obsidian-markdown-index
+- '[[renmu123|renmu123]]'
 categories: []
 description: obsidian-title-index
 downloads: 7092

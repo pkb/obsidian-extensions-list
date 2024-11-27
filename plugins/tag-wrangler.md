@@ -2,13 +2,11 @@
 aliases:
 - Tag Wrangler
 author:
-- PJ Eby
-author_page: https://github.com/pjeby
+- '[[pjeby|PJ Eby]]'
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Rename, merge, toggle, and search tags from the tags view
 downloads: 576042
-funding_page: https://dirtsimple.org/tips/tag-wrangler
 mobile: true
 number: 90
 title: Tag Wrangler

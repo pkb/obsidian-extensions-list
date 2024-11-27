@@ -2,13 +2,11 @@
 aliases:
 - Unofficial Supernote by Ratta Integration
 author:
-- Brandon Philips
-author_page: https://ifup.org
+- '[[philips|Brandon Philips]]'
 categories: []
 description: View Supernote notes, generate markdown from note and capture screen
   mirror.
 downloads: 2767
-funding_page: https://github.com/philips/supernote-obsidian-plugin/blob/main/README.md#funding
 mobile: true
 number: 1567
 title: Unofficial Supernote by Ratta Integration

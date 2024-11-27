@@ -2,8 +2,7 @@
 aliases:
 - Annotator
 author:
-- Obsidian
-author_page: https://obsidian.md/about
+- '[[elias-sundqvist|Obsidian]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: This is a sample plugin for Obsidian. It allows you to open and annotate

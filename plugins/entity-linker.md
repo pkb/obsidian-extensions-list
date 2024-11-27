@@ -2,12 +2,10 @@
 aliases:
 - Entity Linker
 author:
-- Ankush-Chander
-author_page: https://github.com/Ankush-Chander
+- '[[Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Link research terms to standard entities
 downloads: 265
-funding_page: https://buymeacoffee.com/ankushwatce
 mobile: true
 number: 1765
 title: Entity Linker

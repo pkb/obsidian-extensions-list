@@ -2,13 +2,11 @@
 aliases:
 - VSCode Editor
 author:
-- sunxvming
-author_page: https://github.com/sunxvming
+- '[[sunxvming|sunxvming]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Edit Code Files like VSCode.
 downloads: 19712
-funding_page: https://www.buymeacoffee.com/sunxvming
 mobile: true
 number: 1180
 title: VSCode Editor

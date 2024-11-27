@@ -2,12 +2,10 @@
 aliases:
 - Légifrance Intégration
 author:
-- hurj
-author_page: https://carnetdethese.amimms.fr/
+- '[[carnetdethese|hurj]]'
 categories: []
 description: Intégration de l'API Légifrance.
 downloads: 237
-funding_page: https://ko-fi.com/hurj268746
 mobile: true
 number: 1658
 title: Légifrance Intégration

@@ -2,8 +2,7 @@
 aliases:
 - Prompt
 author:
-- Hung-Su
-author_page: https://github.com/hungsu
+- '[[hungsu|Hung-Su]]'
 categories: []
 description: Shows a random text prompt when triggered
 downloads: 5070

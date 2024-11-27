@@ -2,8 +2,7 @@
 aliases:
 - Console Markdown
 author:
-- Daniel Ellermann
-author_page: https://www.amc-world.de
+- '[[dellermann|Daniel Ellermann]]'
 categories: []
 description: Renders console commands and their output.
 downloads: 4525

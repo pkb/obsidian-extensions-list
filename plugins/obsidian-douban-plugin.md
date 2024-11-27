@@ -2,8 +2,7 @@
 aliases:
 - Douban
 author:
-- Wanxp
-author_page: https://obsidian-douban.wanxuping.com
+- '[[Wanxp|Wanxp]]'
 categories: []
 description: This is a plugin that can import movies/books/musics/notes/games info
   data from Douban for Obsidian .

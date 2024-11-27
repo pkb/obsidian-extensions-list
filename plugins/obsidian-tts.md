@@ -2,8 +2,7 @@
 aliases:
 - Text to Speech
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei
+- '[[joethei|Johannes Theiner]]'
 categories: []
 description: Hear your notes.
 downloads: 25293

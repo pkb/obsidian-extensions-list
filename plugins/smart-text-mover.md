@@ -2,12 +2,10 @@
 aliases:
 - Smart Text Mover
 author:
-- Ankush-Chander
-author_page: https://github.com/Ankush-Chander
+- '[[Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Intelligent way to move text in file.
 downloads: 298
-funding_page: https://buymeacoffee.com/ankushwatce
 mobile: true
 number: 1728
 title: Smart Text Mover

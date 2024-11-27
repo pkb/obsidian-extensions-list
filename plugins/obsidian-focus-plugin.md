@@ -2,8 +2,7 @@
 aliases:
 - Focus and Highlight
 author:
-- BO YI TSAI
-author_page: https://github.com/nagi1999a
+- '[[nagi1999a|BO YI TSAI]]'
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that will highlight and focus
   on the currently selected heading

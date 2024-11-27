@@ -2,8 +2,7 @@
 aliases:
 - Days Since
 author:
-- gndclouds
-author_page: https://gndclouds.earth
+- '[[gndclouds|gndclouds]]'
 categories: []
 description: A plugin to show the number of days since a given date.
 downloads: 1901

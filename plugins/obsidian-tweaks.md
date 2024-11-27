@@ -2,8 +2,7 @@
 aliases:
 - ObsidianTweaks
 author:
-- Jeppe Klitgaard
-author_page: jeppe.science
+- '[[JeppeKlitgaard|Jeppe Klitgaard]]'
 categories: []
 description: Adds some convenient tweaks including improved toggling and ergonomic
   commands

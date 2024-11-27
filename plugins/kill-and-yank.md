@@ -2,8 +2,7 @@
 aliases:
 - Kill and Yank
 author:
-- INOUE Takuya
-author_page: https://github.com/inouetakuya
+- '[[inouetakuya|INOUE Takuya]]'
 categories: []
 description: Enable kill and yank (like Emacs) in the editor
 downloads: 3665

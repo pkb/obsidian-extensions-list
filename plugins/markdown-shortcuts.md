@@ -2,8 +2,7 @@
 aliases:
 - Markdown shortcuts
 author:
-- Jules Guesnon
-author_page: https://github.com/JulesGuesnon
+- '[[JulesGuesnon|Jules Guesnon]]'
 categories: []
 description: 'Allows to write markdown from shortcuts (example: >h1 -> #).'
 downloads: 7349

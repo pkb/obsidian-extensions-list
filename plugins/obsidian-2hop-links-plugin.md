@@ -2,8 +2,7 @@
 aliases:
 - 2Hop Links Plugin
 author:
-- Tokuhiro Matsuno
-author_page: https://github.com/tokuhirom/
+- '[[tokuhirom|Tokuhiro Matsuno]]'
 categories: []
 description: Add links to other pages at the bottom of the editor.
 downloads: 7737

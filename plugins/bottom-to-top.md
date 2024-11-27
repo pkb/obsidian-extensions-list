@@ -2,12 +2,10 @@
 aliases:
 - Bottom to Top
 author:
-- Henry Gustafson
-author_page: https://fiverr.com/hen31415
+- '[[lizard-heart|Henry Gustafson]]'
 categories: []
 description: Reverses direction of text.
 downloads: 24
-funding_page: https://www.buymeacoffee.com/lizardheart
 mobile: true
 number: 2004
 title: Bottom to Top

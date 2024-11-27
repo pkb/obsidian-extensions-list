@@ -2,8 +2,7 @@
 aliases:
 - Activity Logger
 author:
-- Creling
-author_page: https://github.com/Creling
+- '[[Creling|Creling]]'
 categories: []
 description: Log your activities like creating notes, modifying notes, deleting notes
   and so on.

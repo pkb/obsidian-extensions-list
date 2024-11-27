@@ -2,8 +2,7 @@
 aliases:
 - Brainframe
 author:
-- Michael J. Pedersen <m.pedersen@icelus.org>
-author_page: https://brainframe.tech/
+- '[[pedersen|Michael J. Pedersen <m.pedersen@icelus.org>]]'
 categories: []
 description: This is a set of tools to help Obsidian manage extras (such as storing
   links like products and software) that it doesn't currently do.

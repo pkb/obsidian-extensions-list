@@ -2,13 +2,11 @@
 aliases:
 - Code::Stats
 author:
-- MiskaMyasa
-author_page: https://github.com/Miskamyasa
+- '[[Miskamyasa|MiskaMyasa]]'
 categories: []
 description: The Code::Stats plugin allows you to track your coding progress and earn
   XP for writing markdown in the Obsidian editor.
 downloads: 3602
-funding_page: https://patreon.com/MiskaMyasa
 mobile: false
 number: 1018
 title: Code::Stats

@@ -2,12 +2,10 @@
 aliases:
 - Group Snippets
 author:
-- Mara-Li
-author_page: https://github.com/Mara-Li
+- '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Create folder of snippets to activate them in one click !
 downloads: 4867
-funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 584
 title: Group Snippets

@@ -2,8 +2,7 @@
 aliases:
 - asciimath
 author:
-- widcardw
-author_page: https://widcard.win
+- '[[widcardw|widcardw]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Add asciimath support for Obsidian.

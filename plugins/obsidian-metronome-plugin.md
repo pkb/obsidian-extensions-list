@@ -2,8 +2,7 @@
 aliases:
 - Metronome
 author:
-- Curt Grimes
-author_page: https://curtgrimes.com
+- '[[curtgrimes|Curt Grimes]]'
 categories: []
 description: Add interactive metronomes to your notes.
 downloads: 4251

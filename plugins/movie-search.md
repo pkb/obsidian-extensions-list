@@ -2,12 +2,10 @@
 aliases:
 - Movie Search
 author:
-- Gubchik123
-author_page: https://nikita-hubariev.me
+- '[[Gubchik123|Gubchik123]]'
 categories: []
 description: Helps you find movies and create notes.
 downloads: 1708
-funding_page: https://www.buymeacoffee.com/gubchik123
 mobile: true
 number: 1497
 title: Movie Search

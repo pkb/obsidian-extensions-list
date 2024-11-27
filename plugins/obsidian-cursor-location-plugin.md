@@ -2,8 +2,7 @@
 aliases:
 - Cursor Location
 author:
-- Sean Slater
-author_page: https://github.com/spslater/obsidian-cursor-location-plugin
+- '[[spslater|Sean Slater]]'
 categories: []
 description: This displays the location of the cursor (character and line number).
 downloads: 9286

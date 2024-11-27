@@ -2,8 +2,7 @@
 aliases:
 - Habitica Sync
 author:
-- Leoh and Ran
-author_page: ''
+- '[[SuperChamp234|Leoh and Ran]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

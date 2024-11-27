@@ -2,8 +2,7 @@
 aliases:
 - Restore Tab Key
 author:
-- jerrymk
-author_page: https://github.com/jrymk
+- '[[jrymk|jerrymk]]'
 categories: []
 description: 'Restore tab key behaviour: tab key inserts a tab character, the way
   it should be.'

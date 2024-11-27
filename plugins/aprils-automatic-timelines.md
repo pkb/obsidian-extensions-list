@@ -2,8 +2,7 @@
 aliases:
 - April's Automatic Timelines
 author:
-- April Gras
-author_page: https://github.com/April-Gras
+- '[[April-Gras|April Gras]]'
 categories: []
 description: Simple timeline generator for story tellers
 downloads: 29393

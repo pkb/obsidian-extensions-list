@@ -2,8 +2,7 @@
 aliases:
 - Repeat
 author:
-- Andre Perunicic
-author_page: https://github.com/prncc/obsidian-repeat-plugin/
+- '[[prncc|Andre Perunicic]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Review notes using periodic or spaced repetition.

@@ -2,12 +2,10 @@
 aliases:
 - ImgBB Uploader
 author:
-- Jordan Handy
-author_page: https://github.com/jordanhandy
+- '[[jordanhandy|Jordan Handy]]'
 categories: []
 description: Upload images from your clipboard to ImgBB.
 downloads: 99
-funding_page: https://ko-fi.com/jordanhandy
 mobile: false
 number: 1872
 title: ImgBB Uploader

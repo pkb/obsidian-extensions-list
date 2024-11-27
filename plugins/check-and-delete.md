@@ -2,12 +2,10 @@
 aliases:
 - Check and Delete
 author:
-- Danitiate
-author_page: https://github.com/Danitiate
+- '[[Danitiate|Danitiate]]'
 categories: []
 description: Quickly clean up temporary list-items with the press of a button
 downloads: 59
-funding_page: https://github.com/sponsors/Danitiate
 mobile: true
 number: 2003
 title: Check and Delete

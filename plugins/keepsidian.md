@@ -2,8 +2,7 @@
 aliases:
 - KeepSidian
 author:
-- lc0rp
-author_page: https://github.com/lc0rp
+- '[[lc0rp|lc0rp]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Google Keep notes.

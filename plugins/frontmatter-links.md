@@ -2,8 +2,7 @@
 aliases:
 - Frontmatter Links
 author:
-- Dion Tryban (Trikzon)
-author_page: https://github.com/Trikzon
+- '[[Trikzon|Dion Tryban (Trikzon)]]'
 categories: []
 description: Renders links in a note's frontmatter as links.
 downloads: 9608

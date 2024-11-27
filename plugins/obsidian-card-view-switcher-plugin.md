@@ -2,8 +2,7 @@
 aliases:
 - Card View Switcher
 author:
-- qawatake
-author_page: https://github.com/qawatake/obsidian-card-view-switcher-plugin
+- '[[qawatake|qawatake]]'
 categories: []
 description: Quick switcher with card view
 downloads: 6852

@@ -2,8 +2,7 @@
 aliases:
 - Vimrc Support
 author:
-- esm
-author_page: ''
+- '[[esm7|esm]]'
 categories: []
 description: Auto-load a startup file with Obsidian Vim commands.
 downloads: 97620

@@ -2,8 +2,7 @@
 aliases:
 - Regex Pipeline
 author:
-- No3371
-author_page: github.com/No3371
+- '[[No3371|No3371]]'
 categories: []
 description: Allows users setup custom regex rules to automatically format notes.
 downloads: 15849

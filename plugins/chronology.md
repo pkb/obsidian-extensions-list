@@ -2,13 +2,11 @@
 aliases:
 - Chronology
 author:
-- Gabriele Cannata
-author_page: https://github.com/Canna71
+- '[[Canna71|Gabriele Cannata]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Provides a calendar and a timeline of the notes creation and modification
 downloads: 38130
-funding_page: https://www.buymeacoffee.com/gcannata
 mobile: true
 number: 617
 title: Chronology

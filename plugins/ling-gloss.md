@@ -2,8 +2,7 @@
 aliases:
 - Interlinear Glossing
 author:
-- Mijyuoon
-author_page: https://github.com/Mijyuoon
+- '[[Mijyuoon|Mijyuoon]]'
 categories: []
 description: Format interlinear glosses used in linguistics texts.
 downloads: 4085

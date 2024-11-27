@@ -2,8 +2,7 @@
 aliases:
 - Apple Reminders
 author:
-- urishiraval
-author_page: https://urishiraval.github.io
+- '[[urishiraval|urishiraval]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'

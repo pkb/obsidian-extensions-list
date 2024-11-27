@@ -2,8 +2,7 @@
 aliases:
 - Tag Formatter
 author:
-- snsvrno
-author_page: https://codeberg.org/snsvrno
+- '[[snsvrno|snsvrno]]'
 categories: []
 description: Gives more options on how to display tags in preview mode.
 downloads: 1451

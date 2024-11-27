@@ -2,8 +2,7 @@
 aliases:
 - Markdown prettifier
 author:
-- Cristian
-author_page: https://github.com/cristianvasquez
+- '[[cristianvasquez|Cristian]]'
 categories: []
 description: Tries to fix and reformat ugly Markdown and adds things like 'modified
   date' etc.

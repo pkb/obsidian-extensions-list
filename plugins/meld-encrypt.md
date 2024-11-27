@@ -2,15 +2,11 @@
 aliases:
 - Meld Encrypt
 author:
-- meld-cp
-author_page: https://github.com/meld-cp/obsidian-encrypt
+- '[[meld-cp|meld-cp]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Hide secrets in your vault
 downloads: 97242
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/cleon
-  GitHub Sponsor: https://github.com/sponsors/meld-cp
 mobile: true
 number: 103
 title: Meld Encrypt

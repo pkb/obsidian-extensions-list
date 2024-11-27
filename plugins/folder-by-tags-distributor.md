@@ -2,8 +2,7 @@
 aliases:
 - Folder by tags distributor
 author:
-- RevoTale
-author_page: https://revotale.com
+- '[[RevoTale|RevoTale]]'
 categories: []
 description: Automatically move notes into existing folders by tags specified in note.
 downloads: 578

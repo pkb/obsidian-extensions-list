@@ -2,13 +2,11 @@
 aliases:
 - Update Time
 author:
-- Sébastien Dubois
-author_page: https://dsebastien.net
+- '[[dsebastien|Sébastien Dubois]]'
 categories: []
 description: Automatically update front matter to include creation and last update
   times.
 downloads: 970
-funding_page: https://www.buymeacoffee.com/dsebastien
 mobile: true
 number: 1661
 title: Update Time

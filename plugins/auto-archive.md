@@ -2,8 +2,7 @@
 aliases:
 - Auto Archive
 author:
-- Shane Burke
-author_page: https://github.com/shanedonburke
+- '[[shanedonburke|Shane Burke]]'
 categories: []
 description: Automatically archive notes once they reach a certain age
 downloads: 3117

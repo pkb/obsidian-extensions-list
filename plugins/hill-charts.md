@@ -2,12 +2,10 @@
 aliases:
 - Hill Charts
 author:
-- stufro
-author_page: https://github.com/stufro
+- '[[stufro|stufro]]'
 categories: []
 description: Add Hill Charts to your notes.
 downloads: 1986
-funding_page: https://www.buymeacoffee.com/stuartfrosg
 mobile: true
 number: 1344
 title: Hill Charts

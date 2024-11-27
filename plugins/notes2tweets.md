@@ -2,8 +2,7 @@
 aliases:
 - Notes 2 Tweets
 author:
-- Tejas Sharma
-author_page: https://x.com/taayjus
+- '[[Tej-Sharma|Tejas Sharma]]'
 categories: []
 description: Generate and schedule tweets automatically from your notes
 downloads: 151

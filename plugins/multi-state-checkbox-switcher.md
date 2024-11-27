@@ -2,15 +2,10 @@
 aliases:
 - Multi State CheckBox Switcher
 author:
-- KubaMiszcz
-author_page: https://github.com/KubaMiszcz
+- '[[KubaMiszcz|KubaMiszcz]]'
 categories: []
 description: Handle with multistate checkboxes.
 downloads: 2980
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/kubamiszcz
-  GitHub Sponsor: https://github.com/sponsors/KubaMiszcz
-  Patreon: https://www.patreon.com/KubaMiszcz/
 mobile: true
 number: 1373
 title: Multi State CheckBox Switcher

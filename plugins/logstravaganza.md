@@ -2,8 +2,7 @@
 aliases:
 - Logstravaganza
 author:
-- Carlo Zottmann
-author_page: https://github.com/czottmann
+- '[[czottmann|Carlo Zottmann]]'
 categories: []
 description: A simple proxy for `console.*()` calls which copies log messages and
   uncaught exceptions to a file.

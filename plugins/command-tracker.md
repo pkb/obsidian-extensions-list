@@ -2,8 +2,7 @@
 aliases:
 - Command Tracker
 author:
-- namikaze-40p
-author_page: https://github.com/namikaze-40p
+- '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Track the number of times the command is used.
 downloads: 207

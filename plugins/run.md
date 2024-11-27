@@ -2,14 +2,10 @@
 aliases:
 - Run
 author:
-- Hananoshika Yomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate markdown from dataview query and javascript
 downloads: 2684
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: true
 number: 1270
 title: Run

@@ -2,13 +2,11 @@
 aliases:
 - Better Math in Callouts & Blockquotes
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Add better Live Preview support for math rendering inside callouts &
   blockquotes.
 downloads: 3984
-funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1327
 title: Better Math in Callouts & Blockquotes

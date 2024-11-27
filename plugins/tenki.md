@@ -2,12 +2,10 @@
 aliases:
 - Tenki
 author:
-- HiroMike
-author_page: https://github.com/ms3056
+- '[[ms3056|HiroMike]]'
 categories: []
 description: Display the weather.
 downloads: 4251
-funding_page: https://buymeacoffee.com/mstam30561
 mobile: true
 number: 1126
 title: Tenki

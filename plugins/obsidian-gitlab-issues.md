@@ -2,8 +2,7 @@
 aliases:
 - Gitlab Issues
 author:
-- Ben Roberts
-author_page: https://github.com/benr77
+- '[[benr77|Ben Roberts]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import issues from Gitlab into Obsidian.

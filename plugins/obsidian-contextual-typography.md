@@ -2,8 +2,7 @@
 aliases:
 - Contextual Typography
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-contextual-typography
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: This plugin adds a data-tag-name attribute to all top-level divs in preview
   mode containing the child's tag name, allowing contextual typography styling.

@@ -2,8 +2,7 @@
 aliases:
 - DocBase (Unofficial)
 author:
-- yurikuvanov
-author_page: https://garden.yuri-k.com/
+- '[[kuvanov-2|yurikuvanov]]'
 categories: []
 description: Pull and push notes to DocBase
 downloads: 64

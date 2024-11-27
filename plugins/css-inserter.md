@@ -2,9 +2,8 @@
 aliases:
 - CSS Inserter
 author:
-- Erika Gozar
-- Juanjo Arranz
-author_page: https://github.com/Erallie
+- '[[authors/Erika Gozar|Erika Gozar]]'
+- '[[Erallie|Juanjo Arranz]]'
 categories: []
 description: Inserts user-defined css snippets into the selected text.
 downloads: 333

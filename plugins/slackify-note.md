@@ -2,12 +2,10 @@
 aliases:
 - Slackify Note
 author:
-- Jeremy Overman
-author_page: https://github.com/jeremyoverman
+- '[[jeremyoverman|Jeremy Overman]]'
 categories: []
 description: Converts a note to a Slack-compliant markdown using [slackify-markdown](https://www.npmjs.com/package/slackify-markdown)
 downloads: 2647
-funding_page: https://www.buymeacoffee.com/jeremyoverman
 mobile: true
 number: 1251
 title: Slackify Note

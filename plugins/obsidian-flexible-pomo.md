@@ -2,8 +2,7 @@
 aliases:
 - Flexible Pomodoro For Obsidian
 author:
-- grassbl8d
-author_page: null
+- '[[grassbl8d|grassbl8d]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Adds a pomodoro timer to your status bar. This pomodoro has additional

@@ -2,8 +2,7 @@
 aliases:
 - GitHub Issue Augmentation
 author:
-- samprintz
-author_page: https://github.com/samprintz
+- '[[samprintz|samprintz]]'
 categories: []
 description: Augments GitHub issue IDs
 downloads: 3545

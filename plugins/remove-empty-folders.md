@@ -2,8 +2,7 @@
 aliases:
 - Remove Empty Folders
 author:
-- fnya
-author_page: https://github.com/fnya
+- '[[fnya|fnya]]'
 categories: []
 description: Easily remove empty folders.
 downloads: 2776

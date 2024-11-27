@@ -2,8 +2,7 @@
 aliases:
 - Copy Block Link
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-copy-block-link
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Get links to blocks and headings from Obsidian's right click menu
 downloads: 48655

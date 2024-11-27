@@ -2,13 +2,11 @@
 aliases:
 - Beautitab
 author:
-- Andrew McGivery
-author_page: https://github.com/andrewmcgivery
+- '[[andrewmcgivery|Andrew McGivery]]'
 categories: []
 description: Creates a customizable new tab view with beautiful backgrounds, quotes,
   search, and more.
 downloads: 23814
-funding_page: https://www.buymeacoffee.com/andrewmcgivery
 mobile: true
 number: 1389
 title: Beautitab

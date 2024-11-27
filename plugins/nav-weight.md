@@ -2,8 +2,7 @@
 aliases:
 - Nav Weight
 author:
-- shu307
-author_page: https://github.com/shu307
+- '[[shu307|shu307]]'
 categories: []
 description: Sort your navigation items by Markdown frontmatter.
 downloads: 73

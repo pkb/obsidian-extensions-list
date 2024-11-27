@@ -2,8 +2,7 @@
 aliases:
 - AI Tagger
 author:
-- Luca Grippa
-author_page: https://lucagrippa.io
+- '[[lucagrippa|Luca Grippa]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Analyze and tag your document with one click for efficient note organization

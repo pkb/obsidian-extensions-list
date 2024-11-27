@@ -2,12 +2,10 @@
 aliases:
 - Lookalike
 author:
-- Jamie Weston
-author_page: https://github.com/jlweston
+- '[[jlweston|Jamie Weston]]'
 categories: []
 description: Find similar notes based on the frequency of terms within the vault.
 downloads: 439
-funding_page: https://buymeacoffee.com/jamieweston
 mobile: false
 number: 1729
 title: Lookalike

@@ -2,8 +2,7 @@
 aliases:
 - Contentful Publisher
 author:
-- Ziya Fenn
-author_page: https://ziyafenn.com
+- '[[ziyafenn|Ziya Fenn]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Manage your Contentful content from Obsidian.

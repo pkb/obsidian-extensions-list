@@ -2,8 +2,7 @@
 aliases:
 - MathLive in Editor Mode
 author:
-- MizarZh
-author_page: https://github.com/MizarZh
+- '[[MizarZh|MizarZh]]'
 categories: []
 description: MathLive input in editor mode
 downloads: 991

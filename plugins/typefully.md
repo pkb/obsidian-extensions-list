@@ -2,14 +2,12 @@
 aliases:
 - Typefully
 author:
-- Sébastien Dubois
-author_page: https://dsebastien.net
+- '[[dsebastien|Sébastien Dubois]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Typefully integration. Publish social media posts with ease
 downloads: 87
-funding_page: https://www.buymeacoffee.com/dsebastien
 mobile: true
 number: 1940
 title: Typefully

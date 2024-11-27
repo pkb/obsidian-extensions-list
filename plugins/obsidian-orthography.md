@@ -2,8 +2,7 @@
 aliases:
 - Orthography
 author:
-- Denisoed
-author_page: https://github.com/denisoed
+- '[[denisoed|Denisoed]]'
 categories: []
 description: Check & fix orthography errors in text.
 downloads: 10301

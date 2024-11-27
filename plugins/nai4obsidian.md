@@ -2,8 +2,7 @@
 aliases:
 - NovelAI
 author:
-- SGreen
-author_page: https://github.com/SalokinGreen
+- '[[SalokinGreen|SGreen]]'
 categories: []
 description: Generate text with NovelAI's models.
 downloads: 4208

@@ -2,8 +2,7 @@
 aliases:
 - Snippetor
 author:
-- ebullient
-author_page: https://github.com/ebullient
+- '[[ebullient|ebullient]]'
 categories: []
 description: Create and tweak common snippets (starting with custom tasks)
 downloads: 8406

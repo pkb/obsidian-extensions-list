@@ -2,8 +2,7 @@
 aliases:
 - Vocabulary Cards
 author:
-- Eugene Myazin
-author_page: https://www.facebook.com/emyazin
+- '[[meniam|Eugene Myazin]]'
 categories: []
 description: An easy way to display vocabulary words as flashcards and as a list.
 downloads: 4575

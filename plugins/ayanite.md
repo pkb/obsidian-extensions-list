@@ -2,8 +2,7 @@
 aliases:
 - Ayanite
 author:
-- jemstelos
-author_page: https://github.com/jemstelos
+- '[[jemstelos|jemstelos]]'
 categories: []
 description: Advanced AI chat interface and knowledge copilot for professionals. Turn
   Obsidian into an Integrated Knowledge Environment. Supports Ollama and cloud GPT

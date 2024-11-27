@@ -2,13 +2,10 @@
 aliases:
 - Title Generator
 author:
-- Jascha Ephraim
-author_page: https://jaschaephriam.com
+- '[[jaschaephraim|Jascha Ephraim]]'
 categories: []
 description: Quickly and easily title your notes using OpenAI's GPT-3.5
 downloads: 3066
-funding_page:
-  PayPal: https://paypal.me/JaschaEphraim
 mobile: true
 number: 1236
 title: Title Generator

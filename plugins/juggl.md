@@ -2,8 +2,7 @@
 aliases:
 - Juggl
 author:
-- Emile
-author_page: https://emilevankrieken.com
+- '[[HEmile|Emile]]'
 categories: []
 description: Adds a completely interactive, stylable and expandable graph view to
   Obsidian.

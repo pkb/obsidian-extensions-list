@@ -2,8 +2,7 @@
 aliases:
 - Rich Links
 author:
-- Asad Dhamani
-author_page: https://www.asad.pw
+- '[[dhamaniasad|Asad Dhamani]]'
 categories: []
 description: Rich Links plugin for Obsidian.
 downloads: 26199

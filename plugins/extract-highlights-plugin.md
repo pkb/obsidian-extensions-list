@@ -2,8 +2,7 @@
 aliases:
 - Extract Highlights
 author:
-- Alexis Rondeau
-author_page: https://publish.obsidian.md/alexisrondeau
+- '[[akaalias|Alexis Rondeau]]'
 categories: []
 description: Create, extract and leverage your markdown highlights
 downloads: 19379

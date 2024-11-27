@@ -2,8 +2,7 @@
 aliases:
 - Enhanced tables
 author:
-- pistacchio
-author_page: https://github.com/pistacchio
+- '[[pistacchio|pistacchio]]'
 categories: []
 description: Add programmable controls to selected tables
 downloads: 3348

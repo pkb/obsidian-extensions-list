@@ -2,8 +2,7 @@
 aliases:
 - Version History Diff
 author:
-- kometenstaub
-author_page: https://github.com/kometenstaub
+- '[[kometenstaub|kometenstaub]]'
 categories: []
 description: Diff the version history of the core Sync and File Recovery plugins and
   Git. Adds a command to open the core Sync version history as well.

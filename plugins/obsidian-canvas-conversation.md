@@ -2,8 +2,7 @@
 aliases:
 - Canvas Conversation
 author:
-- André Baltazar
-author_page: https://github.com/AndreBaltazar8
+- '[[AndreBaltazar8|André Baltazar]]'
 categories: []
 description: Canvas Conversation is a plugin that allows you to create a ChatGPT conversation
   using Canvas Cards.

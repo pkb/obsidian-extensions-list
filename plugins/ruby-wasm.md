@@ -2,8 +2,7 @@
 aliases:
 - ruby.wasm
 author:
-- geeknees
-author_page: https://github.com/geeknees/
+- '[[geeknees|geeknees]]'
 categories: []
 description: Run ruby code in your notes using WebAssembly
 downloads: 175

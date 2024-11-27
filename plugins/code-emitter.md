@@ -2,8 +2,7 @@
 aliases:
 - Code Emitter
 author:
-- YISH
-author_page: https://github.com/mokeyish
+- '[[mokeyish|YISH]]'
 categories: []
 description: An obsidian plugin that allows code blocks executed interactively in
   sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript

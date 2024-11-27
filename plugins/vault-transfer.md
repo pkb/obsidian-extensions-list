@@ -2,8 +2,7 @@
 aliases:
 - Vault Transfer
 author:
-- ImaginaryProgramming
-author_page: https://github.com/ImaginaryProgramming
+- '[[ImaginaryProgramming|ImaginaryProgramming]]'
 categories: []
 description: Copies a note, and pastes it into another vault.
 downloads: 1842

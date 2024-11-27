@@ -2,8 +2,7 @@
 aliases:
 - Cursor Bridge
 author:
-- Adam Cloud
-author_page: https://github.com/lengff123
+- '[[lengff123|Adam Cloud]]'
 categories: []
 description: Seamlessly bridge your notes with Cursor, the AI-powered code editor.
   Open notes directly in Cursor to enhance your workflow.

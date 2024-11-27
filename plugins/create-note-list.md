@@ -2,12 +2,10 @@
 aliases:
 - Create List of Notes
 author:
-- Andrew Heekin
-author_page: https://andrewheekin.com/
+- '[[andrewheekin|Andrew Heekin]]'
 categories: []
 description: Create a bulleted list (with links) of all notes in the current folder.
 downloads: 1016
-funding_page: https://www.buymeacoffee.com/drewheek
 mobile: true
 number: 1587
 title: Create List of Notes

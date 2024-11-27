@@ -2,13 +2,11 @@
 aliases:
 - Regex Mark
 author:
-- rien7
-- Mara-Li
-author_page: https://github.com/mara-li
+- '[[authors/rien7|rien7]]'
+- '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Add custom CSS classes to text based on regular expressions.
 downloads: 1163
-funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 1677
 title: Regex Mark

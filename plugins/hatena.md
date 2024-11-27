@@ -2,8 +2,7 @@
 aliases:
 - Hatena Blog Publisher
 author:
-- Takuro Matsukawa
-author_page: https://github.com/takmatsukawa
+- '[[takmatsukawa|Takuro Matsukawa]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post directly to your Hatena Blog.

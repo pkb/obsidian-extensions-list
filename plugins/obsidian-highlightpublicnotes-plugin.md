@@ -2,8 +2,7 @@
 aliases:
 - Highlight Public Notes
 author:
-- dennis seidel
-author_page: https://dennisseidel.de
+- '[[dennisseidel|dennis seidel]]'
 categories: []
 description: This plugin warns that a note is public (based on a frontmatter attribute)
   by colorizing the note red.

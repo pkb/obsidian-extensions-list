@@ -2,8 +2,7 @@
 aliases:
 - Metal Archives (Unofficial)
 author:
-- Vincenzo Caputo
-author_page: https://github.com/vincenzocaputo
+- '[[vincenzocaputo|Vincenzo Caputo]]'
 categories: []
 description: Create notes about metal bands and album from Metal Archives
 downloads: 2376

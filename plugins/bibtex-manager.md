@@ -2,8 +2,7 @@
 aliases:
 - BibTeX Manager
 author:
-- Akop Kesheshyan
-author_page: https://github.com/akopdev
+- '[[akopdev|Akop Kesheshyan]]'
 categories: []
 description: Create a literature notes from a BibTeX entries.
 downloads: 1017

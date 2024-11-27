@@ -2,8 +2,7 @@
 aliases:
 - Toggl Track
 author:
-- Maxime Cannoodt (@mcndt)
-author_page: https://mcndt.github.io/
+- '[[mcndt|Maxime Cannoodt (@mcndt)]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Time tracking|Time tracking]]'

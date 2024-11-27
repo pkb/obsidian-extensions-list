@@ -2,14 +2,12 @@
 aliases:
 - Antidote Grammar Checker Integration
 author:
-- Heziode
-author_page: https://github.com/Heziode
+- '[[Heziode|Heziode]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Unofficial integration of Antidote, a powerful English and French grammar
   checker
 downloads: 8667
-funding_page: https://www.buymeacoffee.com/Heziode
 mobile: false
 number: 778
 title: Antidote Grammar Checker Integration

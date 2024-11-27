@@ -2,8 +2,7 @@
 aliases:
 - Edge TTS
 author:
-- Travis
-author_page: https://travis.engineer
+- '[[travisvn|Travis]]'
 categories: []
 description: Read notes aloud using Microsoft Edge Read Aloud API (free, high quality
   text-to-speech).

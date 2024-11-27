@@ -2,8 +2,7 @@
 aliases:
 - Link Range
 author:
-- Ryan Mellmer and Eric Sowell
-author_page: https://ryanmellmer.com, https://ericsowell.com
+- '[[rmellmer|Ryan Mellmer and Eric Sowell]]'
 categories: []
 description: This Obsidian plugin brings ranged link support to Obsidian.
 downloads: 4310

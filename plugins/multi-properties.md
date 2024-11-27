@@ -2,8 +2,7 @@
 aliases:
 - Multi Properties
 author:
-- technohiker
-author_page: https://github.com/technohiker
+- '[[fez-github|technohiker]]'
 categories: []
 description: Adds Properties to multiple notes at once.  Either right-click a folder,
   or select multiple notes and right-click the selection.

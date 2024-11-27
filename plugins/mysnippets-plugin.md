@@ -2,8 +2,7 @@
 aliases:
 - MySnippets
 author:
-- chetachi
-author_page: https://github.com/chetachiezikeuzor
+- '[[chetachiezikeuzor|chetachi]]'
 categories: []
 description: "MySnippets is a plugin that adds a status bar menu allowing the user
   to quickly toggle their snippets on and off \U0001F58C."

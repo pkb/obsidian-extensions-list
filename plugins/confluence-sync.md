@@ -2,8 +2,7 @@
 aliases:
 - Confluence Sync
 author:
-- Prateek Grover
-author_page: https://github.com/kerry
+- '[[kerry|Prateek Grover]]'
 categories: []
 description: Sync Obsidian notes with Confluence
 downloads: 1510

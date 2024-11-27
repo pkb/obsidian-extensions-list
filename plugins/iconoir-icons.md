@@ -2,8 +2,7 @@
 aliases:
 - Iconoir Icons
 author:
-- '@gapmiss'
-author_page: https://gihub.com/gapmiss
+- '[[gapmiss|@gapmiss]]'
 categories: []
 description: Create & display customized SVG Iconoir icons.
 downloads: 4196

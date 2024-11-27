@@ -2,15 +2,11 @@
 aliases:
 - Quadro
 author:
-- Chris Grieser (aka pseudometa)
-author_page: https://chris-grieser.de/
+- '[[chrisgrieser|Chris Grieser (aka pseudometa)]]'
 categories: []
 description: Qualitative Data Analysis (QDA) for social scientists. An open alternative
   to `MAXQDA` and `atlas.ti`, using Markdown to store data and research codes.
 downloads: 3356
-funding_page:
-  Ko-Fi: https://ko-fi.com/pseudometa
-  PayPal: https://www.paypal.me/ChrisGrieser
 mobile: true
 number: 1475
 title: Quadro

@@ -2,8 +2,7 @@
 aliases:
 - Wordy
 author:
-- Nate
-author_page: https://nqthqn.com
+- '[[nqthqn|Nate]]'
 categories: []
 description: Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse
   API

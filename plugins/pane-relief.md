@@ -2,8 +2,7 @@
 aliases:
 - Pane Relief
 author:
-- PJ Eby
-author_page: https://github.com/pjeby
+- '[[pjeby|PJ Eby]]'
 categories: []
 description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace,
   and more

@@ -2,14 +2,12 @@
 aliases:
 - Intelligence
 author:
-- John Mavrick
-author_page: https://beacons.ai/johnmavrick
+- '[[ransurf|John Mavrick]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Turn your notes into personalized AI-powered assistants to retrieve ideas,
   think, and write. Powered by the OpenAI GPT Assistant API.
 downloads: 2686
-funding_page: https://patreon.com/johnmavrick
 mobile: true
 number: 1336
 title: Intelligence

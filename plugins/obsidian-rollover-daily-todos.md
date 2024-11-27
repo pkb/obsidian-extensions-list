@@ -2,8 +2,7 @@
 aliases:
 - Rollover Daily Todos
 author:
-- Lukas Mölschl
-author_page: https://moelschl.com
+- '[[lumoe|Lukas Mölschl]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: This Obsidian.md plugin rolls over incomplete TODOs from the previous

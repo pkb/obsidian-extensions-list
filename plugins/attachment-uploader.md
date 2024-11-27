@@ -2,8 +2,7 @@
 aliases:
 - Attachment Uploader
 author:
-- zhuxining
-author_page: https://github.com/zhuxining
+- '[[zhuxining|zhuxining]]'
 categories: []
 description: Attachment uploader plugin, which allows you customize the upload command,
   customize upload file type.

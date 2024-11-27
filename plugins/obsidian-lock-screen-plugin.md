@@ -2,8 +2,7 @@
 aliases:
 - Lock Screen
 author:
-- Eric Biewener
-author_page: https://github.com/ericbiewener
+- '[[ericbiewener|Eric Biewener]]'
 categories: []
 description: Protect your vault with a lock screen.
 downloads: 8384

@@ -2,13 +2,11 @@
 aliases:
 - Pinyin Replacer
 author:
-- LarrySAL
-author_page: https://github.com/LarrySAL
+- '[[LarrySAL|LarrySAL]]'
 categories: []
 description: Simple plugin to use the pinyin tones in obsidian without having to install
   extra keyboard layouts.
 downloads: 1296
-funding_page: https://www.paypal.com/paypalme/janLa69
 mobile: false
 number: 1381
 title: Pinyin Replacer

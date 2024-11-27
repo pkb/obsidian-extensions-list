@@ -2,8 +2,7 @@
 aliases:
 - Todos sort
 author:
-- Jiri Sifalda (originally by Ryan Gomba)
-author_page: https://github.com/jsifalda
+- '[[jsifalda|Jiri Sifalda (originally by Ryan Gomba)]]'
 categories: []
 description: Sorting your TODOs (checkboxes) in current note by completion status.
 downloads: 110

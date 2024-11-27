@@ -2,8 +2,7 @@
 aliases:
 - Pug Templates
 author:
-- Nicholas Wilcox
-author_page: https://github.com/nicholas-wilcox
+- '[[nicholas-wilcox|Nicholas Wilcox]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Use the Pug templating engine in your vault.

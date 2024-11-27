@@ -2,8 +2,7 @@
 aliases:
 - BBCode Convertor
 author:
-- Alex Lockhart
-author_page: https://github.com/salockhart/obsidian-bbcode
+- '[[salockhart|Alex Lockhart]]'
 categories: []
 description: Convert Markdown files to BBCode
 downloads: 3789

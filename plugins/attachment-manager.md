@@ -2,8 +2,7 @@
 aliases:
 - Attachment Manager
 author:
-- chenfeicqq
-author_page: https://github.com/chenfeicqq
+- '[[chenfeicqq|chenfeicqq]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: 'Attachment folder name binding note name, automatically rename, automatically

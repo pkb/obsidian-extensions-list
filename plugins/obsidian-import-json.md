@@ -2,8 +2,7 @@
 aliases:
 - JSON/CSV Importer
 author:
-- farling42
-author_page: https://github.com/farling42/
+- '[[farling42|farling42]]'
 categories:
 - '[[categories/Import|Import]]'
 description: This plugin imports a JSON/CSV file (or text block) and creates notes

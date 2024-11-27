@@ -2,12 +2,10 @@
 aliases:
 - Paste From History
 author:
-- Daniel Karakka
-author_page: https://github.com/Karakaz
+- '[[Karakaz|Daniel Karakka]]'
 categories: []
 description: Paste from the editor's recent clipboard history.
 downloads: 1729
-funding_page: https://github.com/sponsors/Karakaz
 mobile: true
 number: 1363
 title: Paste From History

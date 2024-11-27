@@ -2,15 +2,13 @@
 aliases:
 - Snippets Manager
 author:
-- Venkatraman Dhamodaran
-author_page: https://ramandv.com
+- '[[ramandv|Venkatraman Dhamodaran]]'
 categories: []
 description: A versatile text expansion plugin with full mobile support. Easily manage
   code snippets, personal info like passport numbers, email signatures, and more.
   Includes seamless Alfred integration and the ability to sync Awesome ChatGPT prompts
   as snippets.
 downloads: 708
-funding_page: https://buymeacoffee.com/ramandv
 mobile: true
 number: 1868
 title: Snippets Manager

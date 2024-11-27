@@ -2,8 +2,7 @@
 aliases:
 - Obsidian TODO | Text-based GTD
 author:
-- Lars Lockefeer
-author_page: https://lars.lockefeer.online
+- '[[larslockefeer|Lars Lockefeer]]'
 categories: []
 description: Text-based GTD in Obsidian. Collects all outstanding TODOs from your
   vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe.

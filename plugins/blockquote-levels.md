@@ -2,8 +2,7 @@
 aliases:
 - Blockquote Levels
 author:
-- Carlo Zottmann
-author_page: https://github.com/czottmann
+- '[[czottmann|Carlo Zottmann]]'
 categories: []
 description: Adds commands for increasing/decreasing the blockquote level of the current
   line or selection.

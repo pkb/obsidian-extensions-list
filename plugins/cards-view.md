@@ -2,8 +2,7 @@
 aliases:
 - Cards View
 author:
-- Maud Royer
-author_page: https://maudroyer.fr
+- '[[jillro|Maud Royer]]'
 categories: []
 description: Displays a card view of your notes.
 downloads: 6282

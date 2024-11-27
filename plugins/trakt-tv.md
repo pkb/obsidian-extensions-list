@@ -2,8 +2,7 @@
 aliases:
 - Trakt.tv Sync
 author:
-- Nick Felker
-author_page: https://felker.dev
+- '[[fleker|Nick Felker]]'
 categories: []
 description: Syncs your Trakt.tv shows.
 downloads: 23

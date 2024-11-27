@@ -2,12 +2,10 @@
 aliases:
 - Graphs
 author:
-- Dylan Hojnoski
-author_page: https://github.com/DylanHojnoski
+- '[[DylanHojnoski|Dylan Hojnoski]]'
 categories: []
 description: Create interactive graphs by writing YAML
 downloads: 2468
-funding_page: https://github.com/sponsors/DylanHojnoski
 mobile: true
 number: 1441
 title: Graphs

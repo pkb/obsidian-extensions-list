@@ -2,8 +2,7 @@
 aliases:
 - TimeDiff
 author:
-- Grzegorz Dominiczak (https://github.com/dominiczaq)
-author_page: https://github.com/dominiczaq/obsidian-plugin-time-diff
+- '[[dominiczaq|Grzegorz Dominiczak (https://github.com/dominiczaq)]]'
 categories: []
 description: Plugin which calculates and displays diff in hours and minutes between
   two dates in `timediff` markdown block

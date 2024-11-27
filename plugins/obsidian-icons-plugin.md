@@ -2,8 +2,7 @@
 aliases:
 - Icons
 author:
-- Camillo Visini
-author_page: https://github.com/visini
+- '[[visini|Camillo Visini]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add icons to your Obsidian notes.

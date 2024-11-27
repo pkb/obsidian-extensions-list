@@ -2,12 +2,10 @@
 aliases:
 - Whisper
 author:
-- Nik Danilov
-author_page: https://nikdanilov.com
+- '[[nikdanilov|Nik Danilov]]'
 categories: []
 description: Speech-to-text in Obsidian using OpenAI Whisper
 downloads: 21544
-funding_page: patreon.com/nikdanilov
 mobile: true
 number: 865
 title: Whisper

@@ -2,8 +2,7 @@
 aliases:
 - Snippetsaurus
 author:
-- Christian Humbert
-author_page: https://github.com/Chrstn67/
+- '[[Chrstn67|Christian Humbert]]'
 categories: []
 description: Create and managing text and code snippets.
 downloads: 21

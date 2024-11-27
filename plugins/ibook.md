@@ -2,8 +2,7 @@
 aliases:
 - ibook
 author:
-- bingryan
-author_page: https://github.com/bingryan
+- '[[bingryan|bingryan]]'
 categories: []
 description: plugin for apple ibook.
 downloads: 11867

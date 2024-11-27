@@ -2,17 +2,12 @@
 aliases:
 - PDF++
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: The most Obsidian-native PDF annotation tool ever.
 downloads: 127976
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
-  GitHub Sponsor: https://github.com/sponsors/RyotaUshio
-  Ko-fi: https://ko-fi.com/ryotaushio
 mobile: true
 number: 1437
 title: PDF++

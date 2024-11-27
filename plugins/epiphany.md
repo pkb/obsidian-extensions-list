@@ -2,8 +2,7 @@
 aliases:
 - Epiphany
 author:
-- Epiphany
-author_page: https://github.com/Epiphany-Notes
+- '[[Epiphany-Notes|Epiphany]]'
 categories: []
 description: Synchronize voice notes from the Epiphany app directly into your vault
 downloads: 102

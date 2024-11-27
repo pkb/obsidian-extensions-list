@@ -2,8 +2,7 @@
 aliases:
 - InsightA
 author:
-- Hongjian Tang
-author_page: https://github.com/HongjianTang
+- '[[HongjianTang|Hongjian Tang]]'
 categories: []
 description: "InsightA can transform extensive articles into concise, atomic notes
   and generate MOC based on note title using LLM. \U0001F680\U0001F4DD"

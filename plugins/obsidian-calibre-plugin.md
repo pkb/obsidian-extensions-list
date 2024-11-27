@@ -2,8 +2,7 @@
 aliases:
 - Calibre
 author:
-- caronchen
-author_page: https://github.com/caronchen/obsidian-calibre-plugin
+- '[[caronchen|caronchen]]'
 categories: []
 description: This plugin allows you to access your calibre libraries and read books
   directly in Obsidian.

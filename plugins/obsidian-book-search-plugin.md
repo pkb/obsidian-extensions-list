@@ -2,8 +2,7 @@
 aliases:
 - Book Search
 author:
-- anpigon
-author_page: https://github.com/anpigon
+- '[[anpigon|anpigon]]'
 categories: []
 description: Helps you find books and create notes.
 downloads: 131364

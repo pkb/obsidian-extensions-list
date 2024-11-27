@@ -2,8 +2,7 @@
 aliases:
 - Notes Merger
 author:
-- Nika Lopusna
-author_page: https://github.com/niffka
+- '[[niffka|Nika Lopusna]]'
 categories: []
 description: Merge notes into a single markdown document based on index Markdown file.
 downloads: 3043

@@ -2,13 +2,11 @@
 aliases:
 - Quiet Outline
 author:
-- the_tree
-author_page: ''
+- '[[guopenghui|the_tree]]'
 categories: []
 description: Make outline quiet and more powerful, including no-auto-expand, rendering
   heading as markdown, and search support.
 downloads: 124380
-funding_page: https://www.buymeacoffee.com/thtree
 mobile: true
 number: 471
 title: Quiet Outline

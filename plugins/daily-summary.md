@@ -2,8 +2,7 @@
 aliases:
 - Daily Summary
 author:
-- Luke
-author_page: https://github.com/CSLukkun
+- '[[CSLukkun|Luke]]'
 categories: []
 description: Auto generate daily summary
 downloads: 72

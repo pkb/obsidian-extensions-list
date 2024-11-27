@@ -2,8 +2,7 @@
 aliases:
 - Textgrams
 author:
-- Akop Kesheshyan
-author_page: https://github.com/akopdev
+- '[[akopdev|Akop Kesheshyan]]'
 categories: []
 description: Store and visualise ASCII graphics and charts
 downloads: 168

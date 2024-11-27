@@ -2,13 +2,11 @@
 aliases:
 - Tracker+
 author:
-- greater-than
-author_page: http://greaterthan.solutions
+- '[[greater-than|greater-than]]'
 categories: []
 description: Track and visualize data from your notes. Compatible with original Tracker
   plugin.
 downloads: 4245
-funding_page: https://www.buymeacoffee.com/gr8rthan
 mobile: true
 number: 1215
 title: Tracker+

@@ -2,9 +2,8 @@
 aliases:
 - Cloudinary
 author:
-- Uday Samsani
-- Jordan Handy
-author_page: https://github.com/uday-samsani
+- '[[authors/Uday Samsani|Uday Samsani]]'
+- '[[uday-samsani|Jordan Handy]]'
 categories: []
 description: Make you notes lighter by uploading all content(images, videos, audio)
   to Cloudinary and insert(copy or drag both) them into your notes.

@@ -2,8 +2,7 @@
 aliases:
 - Note Linker
 author:
-- Alexander Weichart
-author_page: https://github.com/AlexW00
+- '[[AlexW00|Alexander Weichart]]'
 categories: []
 description: Automatically find and link notes in Obsidian
 downloads: 24765

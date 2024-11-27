@@ -2,13 +2,11 @@
 aliases:
 - Archiver
 author:
-- Ivan Lednev
-author_page: https://github.com/ivan-lednev
+- '[[ivan-lednev|Ivan Lednev]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Move completed tasks to an archive with a date tree
 downloads: 25744
-funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 289
 title: Archiver

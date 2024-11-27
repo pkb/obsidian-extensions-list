@@ -2,12 +2,10 @@
 aliases:
 - Etymology Lookup
 author:
-- Claire Froelich
-author_page: https://github.com/clairefro
+- '[[clairefro|Claire Froelich]]'
 categories: []
 description: Get the etymology of words in your notes
 downloads: 2419
-funding_page: https://www.buymeacoffee.com/clairefro
 mobile: true
 number: 1530
 title: Etymology Lookup

@@ -2,8 +2,7 @@
 aliases:
 - Bluesky
 author:
-- eharris128
-author_page: https://bsky.app/profile/evanharris.bsky.social
+- '[[eharris128|eharris128]]'
 categories: []
 description: Post to Bluesky.
 downloads: 55

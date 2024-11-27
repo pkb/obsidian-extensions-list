@@ -2,8 +2,7 @@
 aliases:
 - Babashka
 author:
-- Filipe Silva
-author_page: https://github.com/filipesilva
+- '[[filipesilva|Filipe Silva]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Evaluate Clojure(Script) codeblocks in Babashka.

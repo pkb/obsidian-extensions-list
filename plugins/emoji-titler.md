@@ -2,8 +2,7 @@
 aliases:
 - Emoji Titler
 author:
-- Hyeonseo Nam
-author_page: https://github.com/HyeonseoNam/obsidian-emoji-titler
+- '[[HyeonseoNam|Hyeonseo Nam]]'
 categories: []
 description: This plugin is emoji titler to easily insert an emoji in the title using
   a keyboard shortcut.

@@ -2,8 +2,7 @@
 aliases:
 - Tag & Word Cloud
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei
+- '[[joethei|Johannes Theiner]]'
 categories: []
 description: Show a cloud of your tags/words in a note
 downloads: 13388

@@ -2,13 +2,11 @@
 aliases:
 - Orion Publish
 author:
-- Sean Collings
-author_page: https://seancollings.dev
+- '[[seanrcollings|Sean Collings]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily publish your notes to the web with Orion Publish.
 downloads: 977
-funding_page: https://ko-fi.com/seancollings
 mobile: true
 number: 1504
 title: Orion Publish

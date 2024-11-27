@@ -2,12 +2,10 @@
 aliases:
 - my anime list text exporter
 author:
-- XmoncocoX
-author_page: https://www.github.com/Xmoncoco
+- '[[Xmoncoco|XmoncocoX]]'
 categories: []
 description: add anime data for your notes
 downloads: 1049
-funding_page: https://ko-fi.com/xmoncocox
 mobile: true
 number: 1605
 title: my anime list text exporter

@@ -2,8 +2,7 @@
 aliases:
 - Auto Definition Link
 author:
-- Nolan Carpenter
-author_page: https://github.com/nmcarp99
+- '[[nmcarp99|Nolan Carpenter]]'
 categories: []
 description: Automatically converts text to definition links within the current folder
   when you type them.

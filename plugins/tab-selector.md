@@ -2,8 +2,7 @@
 aliases:
 - Tab Selector
 author:
-- namikaze-40p
-author_page: https://github.com/namikaze-40p
+- '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Quickly switch tabs in various ways.
 downloads: 3613

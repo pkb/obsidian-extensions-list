@@ -2,13 +2,11 @@
 aliases:
 - Sheet Plus
 author:
-- ljcoder
-author_page: https://github.com/ljcoder2015
+- '[[ljcoder2015|ljcoder]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create Excel-like spreadsheets and easily embed them in Markdown.
 downloads: 16299
-funding_page: https://ko-fi.com/ljcoder
 mobile: true
 number: 1722
 title: Sheet Plus

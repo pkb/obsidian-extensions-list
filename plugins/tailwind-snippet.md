@@ -2,8 +2,7 @@
 aliases:
 - Tailwind Snippet
 author:
-- Nicholas Wilcox
-author_page: https://github.com/nicholas-wilcox
+- '[[nicholas-wilcox|Nicholas Wilcox]]'
 categories: []
 description: Use TailwindCSS utility classes in your markup.
 downloads: 219

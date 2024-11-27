@@ -2,12 +2,10 @@
 aliases:
 - Spoilers
 author:
-- Jacobtread
-author_page: https://github.com/Jacobtread
+- '[[jacobtread|Jacobtread]]'
 categories: []
 description: Hide and reveal blocks of information
 downloads: 989
-funding_page: https://github.com/sponsors/jacobtread
 mobile: true
 number: 1734
 title: Spoilers

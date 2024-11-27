@@ -2,8 +2,7 @@
 aliases:
 - Expiration-Date-Tracker
 author:
-- Marius Wörfel
-author_page: https://github.com/Raboro
+- '[[Raboro|Marius Wörfel]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all expiration dates, for example, for your groceries.

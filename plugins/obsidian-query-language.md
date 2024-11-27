@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Query Language
 author:
-- Joost Plattel
-author_page: https://jplattel.nl
+- '[[jplattel|Joost Plattel]]'
 categories: []
 description: This plugin allows you to query notes and represent data within Obsidian
 downloads: 13691

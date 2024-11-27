@@ -2,13 +2,11 @@
 aliases:
 - Sync Google Calendar
 author:
-- Dexin Qi
-author_page: https://me.dustinksi.cn
+- '[[dexin-qi|Dexin Qi]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize events from Google Calendar and manage them like tasks.
 downloads: 8192
-funding_page: https://www.buymeacoffee.com/dexin.qi
 mobile: false
 number: 940
 title: Sync Google Calendar

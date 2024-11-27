@@ -2,8 +2,7 @@
 aliases:
 - Advanced Codeblock
 author:
-- Lijyze
-author_page: https://github.com/lijyze
+- '[[lijyze|Lijyze]]'
 categories: []
 description: Give additioinal features to  code blocks.
 downloads: 12288

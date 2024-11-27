@@ -2,8 +2,7 @@
 aliases:
 - Custom State for Task List
 author:
-- Okami Wong
-author_page: https://github.com/OkamiWong
+- '[[OkamiWong|Okami Wong]]'
 categories: []
 description: Add custom states to task list items.
 downloads: 4712

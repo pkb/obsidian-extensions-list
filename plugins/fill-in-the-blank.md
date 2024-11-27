@@ -2,8 +2,7 @@
 aliases:
 - Fill in the Blank (FITB)
 author:
-- Shawn McGee
-author_page: https://github.com/mister-mcgee
+- '[[mister-mcgee|Shawn McGee]]'
 categories: []
 description: Use --magic-- to render inline text as blank line(s) instead.
 downloads: 3475

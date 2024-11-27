@@ -2,13 +2,10 @@
 aliases:
 - Soomda
 author:
-- Michael Lee
-author_page: https://michaelsoolee.com
+- '[[michaellee|Michael Lee]]'
 categories: []
 description: Quickly hide your sidebars
 downloads: 3557
-funding_page:
-  Buy me a slice of pizza: https://michaellee.gumroad.com/l/buy-michael-pizza
 mobile: false
 number: 888
 title: Soomda

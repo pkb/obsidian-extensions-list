@@ -1,12 +1,11 @@
 ---
 aliases:
 - Writing Goals
-author: lynchjames
-author_page: https://github.com/lynchjames
+author:
+- '[[authors/lynchjames|lynchjames]]'
 categories: []
 description: Set dynamic writing goals for notes and folders in Obsidian.
 downloads: 13550
-funding_page: https://ko-fi.com/lynchjames
 mobile: true
 number: 1169
 title: Writing Goals

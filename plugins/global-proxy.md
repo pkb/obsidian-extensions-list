@@ -2,13 +2,11 @@
 aliases:
 - Global Proxy
 author:
-- windingblack
-author_page: https://github.com/windingblack
+- '[[windingblack|windingblack]]'
 categories: []
 description: Use network proxy throughout Obsidian according to the rules configured
   in this plugin.
 downloads: 5989
-funding_page: https://www.buymeacoffee.com/windingblack
 mobile: false
 number: 1331
 title: Global Proxy

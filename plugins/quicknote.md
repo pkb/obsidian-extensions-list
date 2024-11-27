@@ -2,13 +2,11 @@
 aliases:
 - Quick note
 author:
-- James Greenhalgh CITP MBCS
-author_page: https://jamesgreenblue.com
+- '[[jamesgreenblue|James Greenhalgh CITP MBCS]]'
 categories: []
 description: Create a quick note in a floating window (on command or by right-clicking
   the Obsidian app icon)
 downloads: 3881
-funding_page: https://www.buymeacoffee.com/jamesgreenblue
 mobile: false
 number: 1080
 title: Quick note

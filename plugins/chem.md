@@ -2,13 +2,11 @@
 aliases:
 - Chem
 author:
-- Acylation
-author_page: https://github.com/Acylation
+- '[[Acylation|Acylation]]'
 categories: []
 description: Providing chemistry supports. Rendering SMILES strings into chemistry
   structures.
 downloads: 10251
-funding_page: https://ko-fi.com/Acylation
 mobile: true
 number: 922
 title: Chem

@@ -2,8 +2,7 @@
 aliases:
 - Influx
 author:
-- Jens M Gleditsch
-author_page: https://github.com/jensmtg
+- '[[jensmtg|Jens M Gleditsch]]'
 categories: []
 description: An alternative backlinks plugin, which displays relevant and formatted
   excerpts from notes with linked mentions, based on the position of mentions in the

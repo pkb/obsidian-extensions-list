@@ -2,8 +2,7 @@
 aliases:
 - OpenWeather
 author:
-- willasm
-author_page: https://github.com/willasm
+- '[[willasm|willasm]]'
 categories: []
 description: This plugin returns the current weather from OpenWeather in a configurable
   string format.

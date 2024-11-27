@@ -2,12 +2,10 @@
 aliases:
 - ProgressBar
 author:
-- Wei Zhang
-author_page: https://github.com/zwpaper
+- '[[zwpaper|Wei Zhang]]'
 categories: []
 description: Render CodeBlock into a ProgressBar based on Time or Manually.
 downloads: 9529
-funding_page: https://github.com/sponsors/zwpaper
 mobile: true
 number: 798
 title: ProgressBar

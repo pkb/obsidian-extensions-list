@@ -2,12 +2,10 @@
 aliases:
 - Nothing
 author:
-- pseudometa
-author_page: https://chris-grieser.de/
+- '[[chrisgrieser|pseudometa]]'
 categories: []
 description: Adds a no-op command to disable hotkeys.
 downloads: 2430
-funding_page: https://ko-fi.com/pseudometa
 mobile: true
 number: 1250
 title: Nothing

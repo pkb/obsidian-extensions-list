@@ -2,8 +2,7 @@
 aliases:
 - Iconic
 author:
-- Holo
-author_page: https://github.com/gfxholo
+- '[[gfxholo|Holo]]'
 categories: []
 description: Customize your icons and their colors directly from the UI, including
   tabs, files, bookmarks, properties, and ribbon commands.

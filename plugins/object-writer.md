@@ -2,8 +2,7 @@
 aliases:
 - Object Writer
 author:
-- Iago Grah
-author_page: https://github.com/IagoGrah
+- '[[IagoGrah|Iago Grah]]'
 categories: []
 description: Quickly create a note with a prompt for object writing.
 downloads: 1866

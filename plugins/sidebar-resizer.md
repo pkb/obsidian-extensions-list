@@ -2,13 +2,10 @@
 aliases:
 - Sidebar Resizer
 author:
-- Jeet Sukumaran
-author_page: https://github/jeetsukumaran/obsidian-sidebar-resizer
+- '[[jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Adjust the sidebar sizes easily.
 downloads: 350
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/jeetsukumaran
 mobile: true
 number: 1768
 title: Sidebar Resizer

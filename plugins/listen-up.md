@@ -2,8 +2,7 @@
 aliases:
 - Listen Up!
 author:
-- Tejas H
-author_page: https://freedomwithtruth.com/
+- '[[tejas-hosamani|Tejas H]]'
 categories: []
 description: Covert text to natural voice audio, locally - Listen Up!
 downloads: 505

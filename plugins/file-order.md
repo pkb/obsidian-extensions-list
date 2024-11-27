@@ -2,13 +2,11 @@
 aliases:
 - File Order
 author:
-- Lukas Bach
-author_page: https://lukasbach.com
+- '[[lukasbach|Lukas Bach]]'
 categories: []
 description: Use number-prefixes in your file names to define a custom order, and
   drag-and-drop the files to update that order
 downloads: 24717
-funding_page: https://github.com/sponsors/lukasbach
 mobile: true
 number: 871
 title: File Order

@@ -2,8 +2,7 @@
 aliases:
 - IOC Lens
 author:
-- Aaron Gabbert
-author_page: https://gabbert.me
+- '[[acgabbert|Aaron Gabbert]]'
 categories: []
 description: Extracts and displays security-relevant indicators such as IP addresses,
   domains, and file hashes to enhance your cyber security note-taking process.

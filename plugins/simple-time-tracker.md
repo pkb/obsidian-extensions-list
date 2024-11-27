@@ -2,13 +2,11 @@
 aliases:
 - Super Simple Time Tracker
 author:
-- Ellpeck
-author_page: https://ellpeck.de
+- '[[Ellpeck|Ellpeck]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Multi-purpose time trackers for your notes!
 downloads: 23142
-funding_page: https://ellpeck.de/support
 mobile: true
 number: 607
 title: Super Simple Time Tracker

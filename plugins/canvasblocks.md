@@ -2,8 +2,7 @@
 aliases:
 - Canvas Blocks
 author:
-- Kay606
-author_page: https://github.com/Kay607
+- '[[Kay607|Kay606]]'
 categories: []
 description: Execute scripts from canvas
 downloads: 937

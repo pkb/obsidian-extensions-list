@@ -2,14 +2,12 @@
 aliases:
 - Journaling
 author:
-- Ordeeper
-author_page: https://github.com/Ordeeper/
+- '[[Ordeeper|Ordeeper]]'
 categories: []
 description: View daily notes in a journal-like format, similar to Logseq. It enhances
   note organization and facilitates better reflection by consolidating daily notes
   into a continuous journaling view.
 downloads: 1145
-funding_page: https://github.com/sponsors/Ordeeper/
 mobile: true
 number: 1890
 title: Journaling

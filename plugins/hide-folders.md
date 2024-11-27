@@ -2,13 +2,11 @@
 aliases:
 - Hide Folders
 author:
-- JonasDoesThings
-author_page: https://jonasdoesthings.com/
+- '[[JonasDoesThings|JonasDoesThings]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Hides & Toggles configured folders (e.g. attachments folders).
 downloads: 17119
-funding_page: https://www.buymeacoffee.com/jonasdoesthings
 mobile: true
 number: 1000
 title: Hide Folders

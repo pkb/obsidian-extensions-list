@@ -2,12 +2,10 @@
 aliases:
 - Truth Table+
 author:
-- Maximilian Schulten
-author_page: https://maxschulten.info
+- '[[Max-Schulten|Maximilian Schulten]]'
 categories: []
 description: Generate truth tables quickly in your .md files
 downloads: 292
-funding_page: https://buymeacoffee.com/maxschulten
 mobile: true
 number: 1832
 title: Truth Table+

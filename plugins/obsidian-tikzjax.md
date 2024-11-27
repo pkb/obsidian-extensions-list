@@ -2,8 +2,7 @@
 aliases:
 - TikZJax
 author:
-- artisticat
-author_page: https://github.com/artisticat1
+- '[[artisticat1|artisticat]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render LaTeX and TikZ diagrams in your notes

@@ -2,13 +2,11 @@
 aliases:
 - Calendar
 author:
-- Liam Cain
-author_page: https://github.com/liamcain/
+- '[[liamcain|Liam Cain]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Calendar view of your daily notes
 downloads: 1454021
-funding_page: https://www.buymeacoffee.com/liamcain
 mobile: true
 number: 10
 title: Calendar

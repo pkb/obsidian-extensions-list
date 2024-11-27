@@ -2,8 +2,7 @@
 aliases:
 - RPG Stat Tracker
 author:
-- Cunjur
-author_page: https://xn--1-kmb.com/
+- '[[name|Cunjur]]'
 categories: []
 description: RPG-like stat tracker.
 downloads: 494

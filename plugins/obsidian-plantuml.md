@@ -2,8 +2,7 @@
 aliases:
 - PlantUML
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei/
+- '[[joethei|Johannes Theiner]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'

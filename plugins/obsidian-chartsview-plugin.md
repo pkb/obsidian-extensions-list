@@ -2,13 +2,11 @@
 aliases:
 - Charts View
 author:
-- caronchen
-author_page: https://github.com/caronchen/obsidian-chartsview-plugin
+- '[[caronchen|caronchen]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: Data visualization solution in Obsidian based on Ant Design Charts.
 downloads: 55401
-funding_page: https://paypal.me/caronchenhz
 mobile: true
 number: 188
 title: Charts View

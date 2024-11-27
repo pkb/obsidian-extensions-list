@@ -2,8 +2,7 @@
 aliases:
 - Remove Newlines
 author:
-- Elias Jaffe
-author_page: https://github.com/HandcartCactus
+- '[[HandcartCactus|Elias Jaffe]]'
 categories: []
 description: Remove newlines or blank lines from selected or pasted text.
 downloads: 582

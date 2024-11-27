@@ -2,8 +2,7 @@
 aliases:
 - Unique attachments
 author:
-- Dmitry Savosh
-author_page: https://github.com/dy-sh/
+- '[[dy-sh|Dmitry Savosh]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Rename attachments, making their names unique (based on hashing of file

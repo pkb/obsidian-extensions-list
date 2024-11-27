@@ -2,8 +2,7 @@
 aliases:
 - Autocorrect Formatter
 author:
-- b-yp
-author_page: https://github.com/b-yp
+- '[[b-yp|b-yp]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format MarkDown content using Autocorrect.

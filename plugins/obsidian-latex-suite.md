@@ -2,14 +2,12 @@
 aliases:
 - Latex Suite
 author:
-- artisticat
-author_page: https://github.com/artisticat1
+- '[[artisticat1|artisticat]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Make typesetting LaTeX math as fast as handwriting through snippets,
   text expansion, and editor enhancements
 downloads: 208413
-funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 484
 title: Latex Suite

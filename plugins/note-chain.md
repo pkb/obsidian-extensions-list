@@ -2,8 +2,7 @@
 aliases:
 - Note Chain
 author:
-- ZigHolding
-author_page: https://github.com/zigholding
+- '[[zigholding|ZigHolding]]'
 categories: []
 description: Thoughts as river, notes as chain. Add prev and next notes to a notes,
   and order files by the chain in File Explorer.

@@ -2,8 +2,7 @@
 aliases:
 - PARA Workflower
 author:
-- KevTheDevX
-author_page: https://github.com/trucke
+- '[[trucke|KevTheDevX]]'
 categories: []
 description: Helpful commands for starting and working in your vault with the PARA
   method.

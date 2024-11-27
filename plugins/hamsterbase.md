@@ -2,8 +2,7 @@
 aliases:
 - HamsterBase Official
 author:
-- HamsterBase
-author_page: https://hamsterbase.com
+- '[[hamsterbase|HamsterBase]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official HamsterBase -> Obsidian integration

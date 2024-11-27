@@ -2,8 +2,7 @@
 aliases:
 - Search Templates Library
 author:
-- Pentchaff
-author_page: https://github.com/Pentchaff
+- '[[Pentchaff|Pentchaff]]'
 categories: []
 description: Allows you to save search templates for future re-use
 downloads: 3280

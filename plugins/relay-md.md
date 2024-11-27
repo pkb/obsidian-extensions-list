@@ -2,12 +2,10 @@
 aliases:
 - Relay.md
 author:
-- xeroc
-author_page: https://chainsquad.com
+- '[[relay-md|xeroc]]'
 categories: []
 description: Markdown workflows for teams.
 downloads: 1634
-funding_page: https://www.buymeacoffee.com/fabian.schuh
 mobile: true
 number: 1374
 title: Relay.md

@@ -2,8 +2,7 @@
 aliases:
 - "NoteTweet\U0001F426"
 author:
-- Christian B. B. Houmann
-author_page: https://bagerbach.com/
+- '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: This plugin allows you to post tweets directly from Obsidian.
 downloads: 6065

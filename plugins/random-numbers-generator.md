@@ -2,12 +2,10 @@
 aliases:
 - Random Number Generator
 author:
-- iRewiewer
-author_page: https://irewiewer.net
+- '[[iRewiewer|iRewiewer]]'
 categories: []
 description: Insert a random number.
 downloads: 2363
-funding_page: https://ko-fi.com/irewiewer
 mobile: true
 number: 1268
 title: Random Number Generator

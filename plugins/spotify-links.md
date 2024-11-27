@@ -2,13 +2,10 @@
 aliases:
 - Song Links
 author:
-- Dillon Cutaiar
-author_page: https://cutaiar.io
+- '[[cutaiar|Dillon Cutaiar]]'
 categories: []
 description: Insert a link to the song currently playing on your Spotify
 downloads: 2522
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/cutaiar
 mobile: false
 number: 1288
 title: Song Links

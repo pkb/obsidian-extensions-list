@@ -2,8 +2,7 @@
 aliases:
 - Pomodoro Widget
 author:
-- bitegw
-author_page: github.com/bitegw
+- '[[bitegw|bitegw]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Provides a widget based on a pomodoro kitchen timer. It's designed to

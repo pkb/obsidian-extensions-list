@@ -2,8 +2,7 @@
 aliases:
 - QB Reader Parser
 author:
-- Jedi_4
-author_page: https://github.com/J-Barta
+- '[[J-Barta|Jedi_4]]'
 categories: []
 description: Parse tossups from QB Reader into individual clues to send to Anki.
 downloads: 2918

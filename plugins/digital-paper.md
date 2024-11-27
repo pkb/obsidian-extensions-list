@@ -2,13 +2,10 @@
 aliases:
 - digital paper
 author:
-- Daniel Fernandes
-author_page: https://github.com/danferns
+- '[[danferns|Daniel Fernandes]]'
 categories: []
 description: turn off backspace and undo, just like writing with a pen on real paper.
 downloads: 3306
-funding_page:
-  Buy my music: https://twinklingkites.bandcamp.com/
 mobile: true
 number: 1176
 title: digital paper

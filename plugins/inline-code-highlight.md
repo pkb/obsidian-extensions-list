@@ -2,8 +2,7 @@
 aliases:
 - InlineCodeHighlight
 author:
-- Dimava
-author_page: https://github.com/dimava
+- '[[Dimava|Dimava]]'
 categories: []
 description: Highlight inline `'md **code**` blocks as well as you do the ```md **big**```
   ones

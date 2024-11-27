@@ -2,9 +2,8 @@
 aliases:
 - LanguageTool
 author:
-- Lars Wrenger
-- Clemens Ertle
-author_page: https://github.com/wrenger
+- '[[authors/Lars Wrenger|Lars Wrenger]]'
+- '[[wrenger|Clemens Ertle]]'
 categories: []
 description: Unofficial integration of the LanguageTool spell and grammar checker.
 downloads: 5260

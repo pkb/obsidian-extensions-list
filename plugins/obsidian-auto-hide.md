@@ -2,8 +2,7 @@
 aliases:
 - Auto Hide
 author:
-- skelato1
-author_page: https://github.com/skelato1
+- '[[skelato1|skelato1]]'
 categories: []
 description: Collapse sidebars when clicking on the editor/viewer panel
 downloads: 11583

@@ -2,8 +2,7 @@
 aliases:
 - InfraNodus AI Graph View
 author:
-- Nodus Labs
-author_page: https://github.com/noduslabs
+- '[[noduslabs|Nodus Labs]]'
 categories: []
 description: 'Interactive 3D graph view: text analysis, topic modeling, gap detection,
   and AI.'

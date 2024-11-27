@@ -2,12 +2,10 @@
 aliases:
 - MSG Handler
 author:
-- Ozan Tellioglu
-author_page: https://www.ozan.pl
+- '[[ozntel|Ozan Tellioglu]]'
 categories: []
 description: Easily display and search MSG files from Outlook in your Obsidian Vault
 downloads: 6184
-funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 811
 title: MSG Handler

@@ -2,12 +2,10 @@
 aliases:
 - Note Linker with Previewer
 author:
-- Nick Allison
-author_page: https://github.com/nickrallison
+- '[[nickrallison|Nick Allison]]'
 categories: []
 description: Link your notes together
 downloads: 559
-funding_page: https://github.com/sponsors/nickrallison
 mobile: true
 number: 1807
 title: Note Linker with Previewer

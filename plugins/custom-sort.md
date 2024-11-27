@@ -2,8 +2,7 @@
 aliases:
 - Custom File Explorer sorting
 author:
-- SebastianMC
-author_page: https://github.com/SebastianMC
+- '[[SebastianMC|SebastianMC]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Search and navigation|Search and navigation]]'

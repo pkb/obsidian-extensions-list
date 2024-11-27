@@ -2,8 +2,7 @@
 aliases:
 - Copy Section
 author:
-- skztr
-author_page: https://github.com/skztr
+- '[[skztr|skztr]]'
 categories: []
 description: adds a Copy button to the top of Headed sections
 downloads: 176

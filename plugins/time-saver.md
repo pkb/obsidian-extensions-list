@@ -2,8 +2,7 @@
 aliases:
 - TimeSaver
 author:
-- tommy.li
-author_page: https://github.com/odayou/
+- '[[odayou|tommy.li]]'
 categories: []
 description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the
   time spent on tasks in the current note and the total time spent.

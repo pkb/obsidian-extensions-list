@@ -2,8 +2,7 @@
 aliases:
 - Ring a secretary
 author:
-- vorotamoroz
-author_page: https://github.com/vrtmrz
+- '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: Yet another ChatGPT-powered digital secretary
 downloads: 3911

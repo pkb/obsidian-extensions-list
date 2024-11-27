@@ -2,8 +2,7 @@
 aliases:
 - Virus Total Enrichment
 author:
-- ytisf
-author_page: https://www.github.com/ytisf/
+- '[[ytisf|ytisf]]'
 categories: []
 description: Enrich your notes with information from VirusTotal.
 downloads: 251

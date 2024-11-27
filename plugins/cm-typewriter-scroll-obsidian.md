@@ -2,8 +2,7 @@
 aliases:
 - Typewriter Scroll
 author:
-- death_au
-author_page: https://github.com/deathau
+- '[[deathau|death_au]]'
 categories: []
 description: Typewriter-style scrolling which keeps the view centered in the editor.
 downloads: 74104

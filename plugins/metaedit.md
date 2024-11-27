@@ -2,8 +2,7 @@
 aliases:
 - MetaEdit
 author:
-- Christian B. B. Houmann
-author_page: https://bagerbach.com
+- '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: MetaEdit helps you manage your metadata.
 downloads: 92589

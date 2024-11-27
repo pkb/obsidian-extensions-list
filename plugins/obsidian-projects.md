@@ -2,13 +2,11 @@
 aliases:
 - Projects
 author:
-- Marcus Olsson
-author_page: https://marcus.se.net
+- '[[marcusolsson|Marcus Olsson]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: Plain text project planning.
 downloads: 353543
-funding_page: https://www.buymeacoffee.com/marcusolsson
 mobile: true
 number: 635
 title: Projects

@@ -2,8 +2,7 @@
 aliases:
 - Card Navigator
 author:
-- wakeyi
-author_page: wakeyi-git/obsidian-card-navigator-plugin
+- '[[wakeyi-git|wakeyi]]'
 categories: []
 description: Navigate your notes visually with card-based interface
 downloads: 315

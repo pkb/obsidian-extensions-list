@@ -2,8 +2,7 @@
 aliases:
 - Kroki
 author:
-- Greg Zuro
-author_page: https://github.com/gregzuro/
+- '[[gregzuro|Greg Zuro]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Mermaid, PlantUML, GraphViz, D2, Excalidraw, Vega, Pikchr, WireViz,

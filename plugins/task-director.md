@@ -2,12 +2,10 @@
 aliases:
 - Task Director
 author:
-- cybertramp
-author_page: https://cybertramp.net
+- '[[cybertramp|cybertramp]]'
 categories: []
 description: Manage and change tasks targeting a specific page
 downloads: 22
-funding_page: https://www.buymeacoffee.com/cybertramp
 mobile: true
 number: 2010
 title: Task Director

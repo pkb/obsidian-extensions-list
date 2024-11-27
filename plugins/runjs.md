@@ -2,12 +2,10 @@
 aliases:
 - RunJS
 author:
-- eoureo
-author_page: https://github.com/eoureo
+- '[[eoureo|eoureo]]'
 categories: []
 description: Run easily JavaScript codes for managing Obsidian and its notes.
 downloads: 5101
-funding_page: https://buymeacoffee.com/eoureo
 mobile: true
 number: 1051
 title: RunJS

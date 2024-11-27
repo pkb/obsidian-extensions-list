@@ -2,8 +2,7 @@
 aliases:
 - Messager
 author:
-- Rainyluo
-author_page: https://wechatobsidian.com/
+- '[[xiaotianhu|Rainyluo]]'
 categories: []
 description: Save messages into vault which sending through WeChat / HTTP API / Email
 downloads: 1456

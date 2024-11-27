@@ -2,8 +2,7 @@
 aliases:
 - Link Exploder
 author:
-- Ben Hughes
-author_page: https://github.com/benhughes
+- '[[benhughes|Ben Hughes]]'
 categories: []
 description: Link Exploder is a Obsidian plugin that creates a canvas from a note,
   embedding it's incoming (i.e. backlinks) and outgoing links onto the canvas (as

@@ -2,13 +2,11 @@
 aliases:
 - Advanced Merger
 author:
-- Anto Keinänen
-author_page: https://github.com/antoKeinanen
+- '[[antoKeinanen|Anto Keinänen]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Merge a folder of notes for easier export.
 downloads: 8052
-funding_page: https://www.buymeacoffee.com/antokeinanen
 mobile: true
 number: 858
 title: Advanced Merger

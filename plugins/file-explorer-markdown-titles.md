@@ -2,8 +2,7 @@
 aliases:
 - File Explorer Markdown Titles
 author:
-- Dylan Elliott
-author_page: https://github.com/dyldog
+- '[[Dyldog|Dylan Elliott]]'
 categories: []
 description: Shows the first markdown header of a note in the file explorer
 downloads: 5943

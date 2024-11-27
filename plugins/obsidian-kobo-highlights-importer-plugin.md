@@ -2,8 +2,7 @@
 aliases:
 - Kobo Highlights Importer
 author:
-- Kevin Hellemun
-author_page: https://github.com/OGKevin
+- '[[OGKevin|Kevin Hellemun]]'
 categories: []
 description: Import highlights from your Kobo device
 downloads: 7770

@@ -2,8 +2,7 @@
 aliases:
 - Uncheck All
 author:
-- Shahar Har-Shuv
-author_page: https://github.com/ShacharHarshuv
+- '[[ShacharHarshuv|Shahar Har-Shuv]]'
 categories: []
 description: This plugin adds a command to uncheck all checkboxes in the current note.
 downloads: 7178

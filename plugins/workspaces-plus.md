@@ -2,8 +2,7 @@
 aliases:
 - Workspaces Plus
 author:
-- NothingIsLost and Johnny ✨
-author_page: https://github.com/nothingislost
+- '[[nothingislost|NothingIsLost and Johnny ✨]]'
 categories: []
 description: Quickly switch and manage workspaces
 downloads: 59138

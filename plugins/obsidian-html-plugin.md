@@ -2,8 +2,7 @@
 aliases:
 - HTML Reader
 author:
-- Nuthrash
-author_page: https://github.com/nuthrash/obsidian-html-plugin
+- '[[nuthrash|Nuthrash]]'
 categories: []
 description: This is a HTML file reader plugin for Obsidian. Can open document with
   ".html" and ".htm" file extensions.

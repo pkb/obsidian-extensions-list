@@ -2,12 +2,10 @@
 aliases:
 - Writing
 author:
-- johackim
-author_page: https://johackim.com
+- '[[johackim|johackim]]'
 categories: []
 description: Write and format your next book directly from Obsidian
 downloads: 7272
-funding_page: https://www.buymeacoffee.com/johackim
 mobile: false
 number: 701
 title: Writing

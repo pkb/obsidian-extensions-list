@@ -2,8 +2,7 @@
 aliases:
 - Desmos
 author:
-- Nigecat
-author_page: https://github.com/Nigecat
+- '[[Nigecat|Nigecat]]'
 categories: []
 description: Embed Desmos graphs into your notes
 downloads: 15444

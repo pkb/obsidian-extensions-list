@@ -2,8 +2,7 @@
 aliases:
 - Medium Importer
 author:
-- David Zachariae
-author_page: https://github.com/arumie
+- '[[arumie|David Zachariae]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Medium posts into your vault

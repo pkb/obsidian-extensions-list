@@ -2,8 +2,7 @@
 aliases:
 - Lite Gallery
 author:
-- Jordan Poles
-author_page: https://github.com/jpoles1/
+- '[[jpoles1|Jordan Poles]]'
 categories: []
 description: Easily create carousel galleries to better organize/view images in your
   notes.

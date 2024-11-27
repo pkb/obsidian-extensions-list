@@ -2,8 +2,7 @@
 aliases:
 - Nested Daily Todos
 author:
-- Thomas Brezinski
-author_page: https://github.com/thomasbrezinski
+- '[[thomasbrezinski|Thomas Brezinski]]'
 categories: []
 description: Carry over incomplete todos from Daily Notes grouped by headers, with
   support for nesting and flexible todo states.

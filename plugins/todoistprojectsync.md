@@ -2,8 +2,7 @@
 aliases:
 - Todoist Project sync
 author:
-- Jonas Dam
-author_page: http://jonasdam.com
+- '[[stuporfly|Jonas Dam]]'
 categories: []
 description: synchronizes projects from Todoist, creating a note for each.
 downloads: 1327

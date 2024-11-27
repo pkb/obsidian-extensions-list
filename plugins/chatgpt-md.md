@@ -2,12 +2,10 @@
 aliases:
 - ChatGPT MD
 author:
-- Bram Adams
-author_page: https://www.bramadams.dev
+- '[[bramses|Bram Adams]]'
 categories: []
 description: A (nearly) seamless integration of ChatGPT into Obsidian.
 downloads: 38038
-funding_page: https://www.bramadams.dev/#/portal/
 mobile: true
 number: 822
 title: ChatGPT MD

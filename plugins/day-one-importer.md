@@ -2,16 +2,12 @@
 aliases:
 - Day One Importer
 author:
-- Marc Donald
-author_page: https://marcdonald.com
+- '[[marcdonald|Marc Donald]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 - '[[categories/Import|Import]]'
 description: Import Day One journals
 downloads: 787
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/MarcDonald?frequency=one-time
-  Tip Jar: https://buy.stripe.com/14kfZD1Wv8xTaUo7st
 mobile: false
 number: 1627
 title: Day One Importer

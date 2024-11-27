@@ -2,8 +2,7 @@
 aliases:
 - Simple Prompt
 author:
-- arumie
-author_page: https://github.com/arumie
+- '[[arumie|arumie]]'
 categories: []
 description: Simple interface to generate or rewrite content using LLMs based on user
   input.

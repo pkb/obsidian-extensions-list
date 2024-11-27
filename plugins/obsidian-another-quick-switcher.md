@@ -2,8 +2,7 @@
 aliases:
 - Another Quick Switcher
 author:
-- tadashi-aikawa
-author_page: https://github.com/tadashi-aikawa
+- '[[tadashi-aikawa|tadashi-aikawa]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: This is an Obsidian plugin which is another choice of Quick switcher.

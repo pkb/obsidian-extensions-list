@@ -2,8 +2,7 @@
 aliases:
 - Markmind
 author:
-- Mark
-author_page: https://github.com/MarkMindCkm/obsidian-markmind
+- '[[MarkMindCkm|Mark]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: This is a mindmap，outline tool for obsidian.

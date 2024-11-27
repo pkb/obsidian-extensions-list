@@ -2,8 +2,7 @@
 aliases:
 - Numerals
 author:
-- RyanC
-author_page: https://github.com/gtg922r/obsidian-numerals
+- '[[gtg922r|RyanC]]'
 categories: []
 description: Numerals turns any code block into an advanced calculator. Evaluates
   math expressions on each line of a code block, including units, currency, and optional

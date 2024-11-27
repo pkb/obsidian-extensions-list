@@ -2,8 +2,7 @@
 aliases:
 - Remotely Sync
 author:
-- sboesen
-author_page: https://github.com/sboesen
+- '[[sboesen|sboesen]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Security and feature updates for the remotely-save unofficial plugin

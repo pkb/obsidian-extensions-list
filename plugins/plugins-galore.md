@@ -2,8 +2,7 @@
 aliases:
 - Plugins Galore
 author:
-- Dylan Pizzo
-author_page: https://github.com/dylanpizzo
+- '[[plugins-galore|Dylan Pizzo]]'
 categories: []
 description: This is an Obsidian plugin to allow easily sideloading other plugins.
 downloads: 5299

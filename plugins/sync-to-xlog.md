@@ -2,13 +2,10 @@
 aliases:
 - sync-to-xlog
 author:
-- Otto-J@github
-author_page: https://github.com/Otto-J
+- '[[Otto-J|Otto-J@github]]'
 categories: []
 description: Publish your obsidian file to xlog.app
 downloads: 2371
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ottoj
 mobile: false
 number: 1246
 title: sync-to-xlog

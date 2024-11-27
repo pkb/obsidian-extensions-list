@@ -1,8 +1,8 @@
 ---
 aliases:
 - Note Folder Autorename
-author: pjeby
-author_page: https://github.com/pjeby
+author:
+- '[[authors/pjeby|pjeby]]'
 categories: []
 description: Turn notes into folders and automaticaly move/rename their folders when
   they move or are renamed.

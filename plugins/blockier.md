@@ -2,8 +2,7 @@
 aliases:
 - Blockier
 author:
-- blorbb
-author_page: https://github.com/blorbb
+- '[[blorbb|blorbb]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extra block editing utilities.

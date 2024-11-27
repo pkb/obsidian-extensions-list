@@ -2,8 +2,7 @@
 aliases:
 - Draft Indicator
 author:
-- Brian Boucheron
-author_page: https://boucheron.org/brian
+- '[[beardicus|Brian Boucheron]]'
 categories: []
 description: Show draft status with ✎ icons in the file explorer.
 downloads: 427

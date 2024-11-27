@@ -2,13 +2,11 @@
 aliases:
 - Header Enhancer
 author:
-- Hobee Liu
-author_page: https://github.com/HoBeedzc
+- '[[HoBeedzc|Hobee Liu]]'
 categories: []
 description: Level up your headers, customize your notes. Header Enhancer makes your
   notes header better and more useful.
 downloads: 5263
-funding_page: https://bmc.link/hobee
 mobile: true
 number: 1111
 title: Header Enhancer

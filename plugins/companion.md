@@ -2,13 +2,11 @@
 aliases:
 - Companion
 author:
-- rizerphe
-author_page: https://github.com/rizerphe
+- '[[rizerphe|rizerphe]]'
 categories: []
 description: Autocomplete with AI, including ChatGPT and ollama, through a copilot-like
   interface.
 downloads: 17411
-funding_page: https://www.buymeacoffee.com/rizerphe
 mobile: true
 number: 861
 title: Companion

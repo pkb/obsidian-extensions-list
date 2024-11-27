@@ -2,8 +2,7 @@
 aliases:
 - Lineage
 author:
-- ycnmhd
-author_page: https://github.com/ycnmhd
+- '[[ycnmhd|ycnmhd]]'
 categories: []
 description: Edit Markdown in a keyboard-centric Miller columns interface. Inspired
   by Gingko Writer.

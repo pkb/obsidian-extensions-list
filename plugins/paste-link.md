@@ -2,8 +2,7 @@
 aliases:
 - Paste Link
 author:
-- Jose Elias Alvarez
-author_page: https://github.com/jose-elias-alvarez
+- '[[jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Intelligently paste Markdown links.
 downloads: 5233

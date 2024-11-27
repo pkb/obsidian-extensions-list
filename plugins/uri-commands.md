@@ -2,8 +2,7 @@
 aliases:
 - URI Commands
 author:
-- kzhovn
-author_page: https://github.com/kzhovn
+- '[[kzhovn|kzhovn]]'
 categories: []
 description: Execute URIs from the Obsidian command palette.
 downloads: 5540

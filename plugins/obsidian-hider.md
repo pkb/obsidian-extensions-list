@@ -2,13 +2,11 @@
 aliases:
 - Hider
 author:
-- '@kepano'
-author_page: https://www.twitter.com/kepano
+- '[[kepano|@kepano]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Hide UI elements such as tooltips, status, titlebar and more
 downloads: 253736
-funding_page: https://www.buymeacoffee.com/kepano
 mobile: true
 number: 21
 title: Hider

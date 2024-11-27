@@ -2,8 +2,7 @@
 aliases:
 - Custom Font Loader
 author:
-- Amir Pourmand
-author_page: https://amirpourmand.ir
+- '[[pourmand1376|Amir Pourmand]]'
 categories: []
 description: Customize your Obsidian vault with any font you want (+ Support for Android
   and IOS)

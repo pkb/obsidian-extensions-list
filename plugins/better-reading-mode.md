@@ -2,8 +2,7 @@
 aliases:
 - Better Reading Mode
 author:
-- Boninall
-author_page: https://github.com/Quorafind
+- '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin to enable better reading mode in Live preview mode of Obsidian,
   which works similar to bionic reading mode.

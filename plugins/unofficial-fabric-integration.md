@@ -2,12 +2,10 @@
 aliases:
 - Unofficial Fabric Integration
 author:
-- Chasebank87
-author_page: https://chaseelder.com
+- '[[chasebank87|Chasebank87]]'
 categories: []
 description: Integrates Fabric into your vault
 downloads: 1646
-funding_page: https://buymeacoffee.com/chasebank87
 mobile: false
 number: 1791
 title: Unofficial Fabric Integration

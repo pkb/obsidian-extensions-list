@@ -2,8 +2,7 @@
 aliases:
 - Grandfather
 author:
-- Danny Hernandez
-author_page: https://github.com/noatpad
+- '[[noatpad|Danny Hernandez]]'
 categories: []
 description: A simple plugin to display the time and date on the status bar
 downloads: 7986

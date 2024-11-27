@@ -2,8 +2,7 @@
 aliases:
 - historica
 author:
-- Nhan Nguyen
-author_page: https://github.com/nhannht
+- '[[nhannht|Nhan Nguyen]]'
 categories: []
 description: Intelligently generates timeline from your content ... like a bro!
 downloads: 3351

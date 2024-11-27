@@ -2,14 +2,12 @@
 aliases:
 - Update modified date
 author:
-- Alan Grainger
-author_page: https://github.com/alangrainger
+- '[[alangrainger|Alan Grainger]]'
 categories: []
 description: Automatically update a frontmatter modified date field when you modify
   your note. This will not use the filesystem time, but only when you modify the file
   through Obsidian. Optionally store a history of edit times.
 downloads: 17728
-funding_page: https://ko-fi.com/alan_
 mobile: true
 number: 1081
 title: Update modified date

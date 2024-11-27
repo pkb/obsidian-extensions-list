@@ -2,8 +2,7 @@
 aliases:
 - Google Drive Sync
 author:
-- Richard Xiong
-author_page: https://ogd.richardxiong.com
+- '[[RichardX366|Richard Xiong]]'
 categories: []
 description: Syncs a vault into Google Drive for cross-platform use (works for iOS).
 downloads: 417

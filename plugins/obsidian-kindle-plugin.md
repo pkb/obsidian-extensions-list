@@ -2,8 +2,7 @@
 aliases:
 - Kindle Highlights
 author:
-- Hady Osman
-author_page: https://hady.geek.nz
+- '[[hadynz|Hady Osman]]'
 categories: []
 description: Sync your Kindle book highlights using your Amazon login or uploading
   your My Clippings file

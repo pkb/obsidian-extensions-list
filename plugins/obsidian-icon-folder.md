@@ -2,8 +2,7 @@
 aliases:
 - Iconize
 author:
-- Florian Woelki
-author_page: https://florianwoelki.com/
+- '[[FlorianWoelki|Florian Woelki]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add icons to anything you desire in Obsidian, including files, folders,

@@ -2,12 +2,10 @@
 aliases:
 - Root Folder Context Menu
 author:
-- mnaoumov
-author_page: https://github.com/mnaoumov
+- '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Enables context menu for vault root folder
 downloads: 1882
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1386
 title: Root Folder Context Menu

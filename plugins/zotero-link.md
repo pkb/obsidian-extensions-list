@@ -2,8 +2,7 @@
 aliases:
 - Zotero Link
 author:
-- Shmavon Gazanchyan
-author_page: https://github.com/MunGell
+- '[[vanakat|Shmavon Gazanchyan]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Insert link to Zotero items from Obsidian interface using Zotero Bridge

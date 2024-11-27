@@ -2,8 +2,7 @@
 aliases:
 - Unicode Search
 author:
-- BambusControl
-author_page: https://github.com/BambusControl
+- '[[BambusControl|BambusControl]]'
 categories: []
 description: Search and insert Unicode characters into your editor
 downloads: 11870

@@ -2,8 +2,7 @@
 aliases:
 - New Note New Window
 author:
-- Pr0dt0s
-author_page: https://github.com/Pr0dt0s
+- '[[Pr0dt0s|Pr0dt0s]]'
 categories: []
 description: Plugin for easily opening new notes in a floating window.
 downloads: 4355

@@ -2,12 +2,10 @@
 aliases:
 - Title renamer
 author:
-- Peter Strøiman
-author_page: https://stroiman.com
+- '[[stroiman|Peter Strøiman]]'
 categories: []
 description: Synchronise title in markdown when file is renamed.
 downloads: 1288
-funding_page: https://www.buymeacoffee.com/stroiman
 mobile: false
 number: 1515
 title: Title renamer

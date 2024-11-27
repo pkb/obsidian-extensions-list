@@ -2,8 +2,7 @@
 aliases:
 - File Hider
 author:
-- Oliver Akins
-author_page: https://github.com/Oliver-Akins
+- '[[Oliver-Akins|Oliver Akins]]'
 categories: []
 description: An Obsidian plugin that allows hiding files and folders in the built-in
   file explorer

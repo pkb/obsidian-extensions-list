@@ -2,8 +2,7 @@
 aliases:
 - Spreadsheets
 author:
-- Divam Gupta
-author_page: https://divam.io
+- '[[divamgupta|Divam Gupta]]'
 categories: []
 description: Plugin to create spreadsheets in Obsidian.
 downloads: 20837

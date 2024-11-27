@@ -2,8 +2,7 @@
 aliases:
 - Pinboard Sync
 author:
-- Mathew Spolin
-author_page: https://twitter.com/Automatt
+- '[[Automatt|Mathew Spolin]]'
 categories: []
 description: Syncs Pinboard.in links with Daily Notes
 downloads: 3982

@@ -2,8 +2,7 @@
 aliases:
 - Kinopoisk search
 author:
-- Alintor
-author_page: https://github.com/Alintor
+- '[[Alintor|Alintor]]'
 categories: []
 description: Helps you find movies and tv shows via Kinopoisk and create notes.
 downloads: 1086

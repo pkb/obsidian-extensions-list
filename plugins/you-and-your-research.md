@@ -2,13 +2,11 @@
 aliases:
 - You and Your Research
 author:
-- Neo Zhang
-author_page: https://pt.plus
+- '[[neozhang|Neo Zhang]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Research with the help of A.I.
 downloads: 404
-funding_page: https://www.buymeacoffee.com/neozhang
 mobile: false
 number: 1726
 title: You and Your Research

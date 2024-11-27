@@ -2,8 +2,7 @@
 aliases:
 - SyncFTP
 author:
-- Alex Donnan
-author_page: https://github.com/alex-donnan/
+- '[[alex-donnan|Alex Donnan]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This plugin syncs files to an SFTP, with credentials in settings.

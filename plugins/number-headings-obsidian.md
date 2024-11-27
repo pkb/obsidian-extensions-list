@@ -2,8 +2,7 @@
 aliases:
 - Number Headings
 author:
-- Kevin Albrecht (onlyafly@gmail.com)
-author_page: https://www.kevinalbrecht.com
+- '[[onlyafly|Kevin Albrecht (onlyafly@gmail.com)]]'
 categories: []
 description: Automatically number or re-number headings in an Obsidian document
 downloads: 49359

@@ -2,8 +2,7 @@
 aliases:
 - Buttons
 author:
-- shabegom
-author_page: https://shbgm.ca
+- '[[shabegom|shabegom]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Create Buttons in your Obsidian notes to run commands, open links, and

@@ -2,13 +2,11 @@
 aliases:
 - Relay
 author:
-- System 3
-author_page: https://system3.md
+- '[[no-instructions|System 3]]'
 categories: []
 description: Collaborate in real time with live cursors. Create relays, add folders,
   and manage user access.
 downloads: 4142
-funding_page: https://www.buymeacoffee.com/dtkav
 mobile: false
 number: 1835
 title: Relay

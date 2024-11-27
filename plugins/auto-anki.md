@@ -2,8 +2,7 @@
 aliases:
 - Auto Anki
 author:
-- ad2969
-author_page: https://github.com/ad2969/
+- '[[ad2969|ad2969]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 - '[[categories/AI assistance|AI assistance]]'

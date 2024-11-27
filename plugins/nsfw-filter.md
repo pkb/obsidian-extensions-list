@@ -2,8 +2,7 @@
 aliases:
 - NSFW filter
 author:
-- catvatar
-author_page: https://github.com/catvatar
+- '[[catvatar|catvatar]]'
 categories: []
 description: Adds customizable and easly togglable NSFW filter
 downloads: 203

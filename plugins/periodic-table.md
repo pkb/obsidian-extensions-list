@@ -2,8 +2,7 @@
 aliases:
 - Periodic Table
 author:
-- jake-cramer
-author_page: https://github.com/Jake-Cramer
+- '[[Jake-Cramer|jake-cramer]]'
 categories: []
 description: View a periodic table in the sidebar
 downloads: 3129

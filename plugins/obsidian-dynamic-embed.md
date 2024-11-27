@@ -2,8 +2,7 @@
 aliases:
 - Dynamic Embed
 author:
-- Ivaylo Dabravin <ivaylo.dabravin@gmail.com>
-author_page: https://github.com/dybrawin/obsidian-dynamic-embed
+- '[[dabravin|Ivaylo Dabravin <ivaylo.dabravin@gmail.com>]]'
 categories: []
 description: Dynamicly interpreted inline embeds.
 downloads: 6209

@@ -2,8 +2,7 @@
 aliases:
 - Confluence Link
 author:
-- Razvan Bunga
-author_page: https://github.com/BungaRazvan
+- '[[BungaRazvan|Razvan Bunga]]'
 categories: []
 description: Upload files to confluence pages
 downloads: 495

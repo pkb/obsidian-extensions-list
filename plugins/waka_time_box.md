@@ -2,8 +2,7 @@
 aliases:
 - Waka time box
 author:
-- complexzeng
-author_page: https://github.com/simonla
+- '[[simonla|complexzeng]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Show daily coding activity from WakaTime

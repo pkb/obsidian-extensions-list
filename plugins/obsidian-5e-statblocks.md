@@ -2,12 +2,10 @@
 aliases:
 - Fantasy Statblocks
 author:
-- Jeremy Valentine
-author_page: ''
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Create Fantasy Statblocks in Obsidian.md
 downloads: 171760
-funding_page: https://www.buymeacoffee.com/valentine195
 mobile: true
 number: 185
 title: Fantasy Statblocks

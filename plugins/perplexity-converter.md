@@ -2,8 +2,7 @@
 aliases:
 - Perplexity Converter
 author:
-- Henrik Seidel
-author_page: https://github.com/heseber/
+- '[[heseber|Henrik Seidel]]'
 categories: []
 description: Fix references in text pasted from Perplexity.
 downloads: 155

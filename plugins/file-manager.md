@@ -2,8 +2,7 @@
 aliases:
 - File Manager
 author:
-- Juan Sicilia
-author_page: https://github.com/jfsicilia
+- '[[jfsicilia|Juan Sicilia]]'
 categories: []
 description: Adds missing features to the file explorer.
 downloads: 163

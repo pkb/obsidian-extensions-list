@@ -2,8 +2,7 @@
 aliases:
 - Incremental ID
 author:
-- Adrian Karwowski
-author_page: https://github.com/adziok
+- '[[adziok|Adrian Karwowski]]'
 categories: []
 description: Allow to generate Jira like ids.
 downloads: 4191

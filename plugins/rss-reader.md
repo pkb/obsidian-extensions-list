@@ -2,8 +2,7 @@
 aliases:
 - RSS Reader
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei
+- '[[joethei|Johannes Theiner]]'
 categories: []
 description: Read RSS Feeds from within obsidian
 downloads: 28377

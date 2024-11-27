@@ -2,9 +2,8 @@
 aliases:
 - Smart Second Brain
 author:
-- Leo310
-- nicobrauchtgit
-author_page: https://github.com/nicobrauchtgit
+- '[[authors/Leo310|Leo310]]'
+- '[[your-papa|nicobrauchtgit]]'
 categories: []
 description: Interact with your privacy focused assistant, leveraging Ollama or OpenAI,
   making your second brain even smarter.

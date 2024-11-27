@@ -2,8 +2,7 @@
 aliases:
 - Caret
 author:
-- Jake Colling
-author_page: https://twitter.com/JacobColling
+- '[[jcollingj|Jake Colling]]'
 categories: []
 description: Accelerate your work with LLMs in canvas and your notes
 downloads: 2759

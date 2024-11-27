@@ -2,8 +2,7 @@
 aliases:
 - Vika Sync
 author:
-- romantic-black
-author_page: https://github.com/romantic-black
+- '[[romantic-black|romantic-black]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync your note to vika

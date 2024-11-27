@@ -2,8 +2,7 @@
 aliases:
 - Checklist Progress
 author:
-- acidghost
-author_page: https://github.com/acidghost
+- '[[acidghost|acidghost]]'
 categories: []
 description: Automatically fill progress (as fraction or percentage) of check-lists.
 downloads: 872

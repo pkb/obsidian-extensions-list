@@ -2,14 +2,12 @@
 aliases:
 - File Tree Alternative
 author:
-- Ozan Tellioglu
-author_page: https://www.ozan.pl
+- '[[ozntel|Ozan Tellioglu]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/File management|File management]]'
 description: This plugin allows you to have an alternative file tree view.
 downloads: 263425
-funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 198
 title: File Tree Alternative

@@ -2,13 +2,11 @@
 aliases:
 - Open with Natural Language Dates
 author:
-- Charlie Chao
-author_page: https://github.com/charliecm
+- '[[charliecm|Charlie Chao]]'
 categories: []
 description: Open a daily note using natural language. Requires "Natural Language
   Dates" plugin to work.
 downloads: 74
-funding_page: https://www.buymeacoffee.com/charliecm
 mobile: true
 number: 1976
 title: Open with Natural Language Dates

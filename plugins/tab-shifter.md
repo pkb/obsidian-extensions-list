@@ -2,8 +2,7 @@
 aliases:
 - Tab Shifter
 author:
-- Joshua Rozner
-author_page: github.com/jsrozner
+- '[[jsrozner|Joshua Rozner]]'
 categories: []
 description: Enables shifting tabs between different tab splits and some other basic
   IDE tab functionalities

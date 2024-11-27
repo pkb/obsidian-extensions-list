@@ -2,8 +2,7 @@
 aliases:
 - Prominent Bookmarked Files
 author:
-- Jeremy Valentine
-author_page: ''
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Prominently display bookmarked notes in the file explorer
 downloads: 9229

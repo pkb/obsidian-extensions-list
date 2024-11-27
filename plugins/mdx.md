@@ -2,8 +2,7 @@
 aliases:
 - MDX
 author:
-- Yulei Chen
-author_page: https://github.com/yuleicul
+- '[[yuleicul|Yulei Chen]]'
 categories: []
 description: Preview MDX in Obsidian, with support for Code Hike
 downloads: 3610

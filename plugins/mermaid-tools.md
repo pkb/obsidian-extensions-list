@@ -2,13 +2,11 @@
 aliases:
 - Mermaid Tools
 author:
-- dartungar
-author_page: https://dartungar.com
+- '[[dartungar|dartungar]]'
 categories: []
 description: 'Improved Mermaid.js experience for Obsidian: visual toolbar with common
   elements & more'
 downloads: 98603
-funding_page: https://www.paypal.com/paypalme/dartungar
 mobile: true
 number: 739
 title: Mermaid Tools

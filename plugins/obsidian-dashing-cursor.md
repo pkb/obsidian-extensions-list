@@ -2,8 +2,7 @@
 aliases:
 - Dashing cursor
 author:
-- Shukai Ni
-author_page: https://github.com/9r0x/obsidian-dashing-cursor
+- '[[9r0x|Shukai Ni]]'
 categories: []
 description: Enables dashing cursor that follows the page scroll
 downloads: 4419

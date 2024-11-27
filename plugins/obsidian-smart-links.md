@@ -2,8 +2,7 @@
 aliases:
 - Smart Links
 author:
-- David Lynch
-author_page: https://davidlynch.org
+- '[[kemayo|David Lynch]]'
 categories: []
 description: This is a plugin for Obsidian that allows users to define custom link
   formats

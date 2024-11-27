@@ -2,8 +2,7 @@
 aliases:
 - Global Markdown Encryption
 author:
-- shlemiel
-author_page: https://github.com/shlemiel
+- '[[shlemiel|shlemiel]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: In-memory AES256-GCM Markdown Encryption

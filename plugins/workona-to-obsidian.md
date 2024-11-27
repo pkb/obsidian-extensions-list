@@ -2,8 +2,7 @@
 aliases:
 - Workona Import
 author:
-- Holmes555
-author_page: https://github.com/Holmes555
+- '[[Holmes555|Holmes555]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Workona resources, tabs, notes and tasks through generated JSON

@@ -2,8 +2,7 @@
 aliases:
 - Image Tools
 author:
-- Andrey Serov
-author_page: https://github.com/Hosstell
+- '[[Hosstell|Andrey Serov]]'
 categories: []
 description: Formatter for image on page
 downloads: 227

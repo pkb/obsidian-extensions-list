@@ -2,8 +2,7 @@
 aliases:
 - Stenography
 author:
-- bramses
-author_page: https://stenography.dev/
+- '[[bramses|bramses]]'
 categories: []
 description: Auto Describe your code with machine learning using the Stenography API
 downloads: 4452

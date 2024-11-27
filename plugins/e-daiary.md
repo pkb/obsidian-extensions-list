@@ -2,8 +2,7 @@
 aliases:
 - e-Daiary
 author:
-- Thomas Campanholi
-author_page: https://github.com/wholetomy/
+- '[[wholetomy|Thomas Campanholi]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Creates directories and notes based on the day of the year.

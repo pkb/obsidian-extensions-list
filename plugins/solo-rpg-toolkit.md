@@ -2,8 +2,7 @@
 aliases:
 - Solo RPG Toolkit
 author:
-- Alex Kurowski
-author_page: https://github.com/alexkurowski
+- '[[alexkurowski|Alex Kurowski]]'
 categories: []
 description: Random generator tools geared towards solo TTRPG gameplay
 downloads: 6441

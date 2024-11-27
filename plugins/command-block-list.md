@@ -2,15 +2,10 @@
 aliases:
 - Command Block List
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Hide unwanted commands from the command palette.
 downloads: 1154
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
-  GitHub Sponsor: https://github.com/sponsors/RyotaUshio
-  Ko-fi: https://ko-fi.com/ryotaushio
 mobile: true
 number: 1507
 title: Command Block List

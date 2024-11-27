@@ -2,8 +2,7 @@
 aliases:
 - floating toc
 author:
-- 'Cuman '
-author_page: https://github.com/cumany/obsidian-floating-toc-plugin
+- '[[cumany|Cuman ]]'
 categories: []
 description: This is a floating Toc plugin that  hovers a table of content  containing
   a header level on the notes sidebar.

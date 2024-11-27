@@ -2,8 +2,7 @@
 aliases:
 - Pocket
 author:
-- Nimalan Mahendran
-author_page: https://twitter.com/nimalan
+- '[[nybbles|Nimalan Mahendran]]'
 categories: []
 description: Access your Pocket reading list entries and create notes for them easily
 downloads: 18399

@@ -2,8 +2,7 @@
 aliases:
 - Confluence Integration
 author:
-- andymac4182
-author_page: https://github.com/andymac4182
+- '[[markdown-confluence|andymac4182]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: This plugin allows you to publish your notes to Confluence

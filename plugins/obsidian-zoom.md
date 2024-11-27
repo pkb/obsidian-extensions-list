@@ -2,8 +2,7 @@
 aliases:
 - Zoom
 author:
-- Viacheslav Slinko
-author_page: https://github.com/vslinko
+- '[[vslinko|Viacheslav Slinko]]'
 categories: []
 description: Zoom into heading and lists.
 downloads: 92260

@@ -2,8 +2,7 @@
 aliases:
 - 'Interactivity: Calculations and Scripts'
 author:
-- ichichikin
-author_page: https://github.com/ichichikin/
+- '[[ichichikin|ichichikin]]'
 categories: []
 description: Interactivity allows you to run shell commands and scripts directly within
   your notes, providing their output right alongside your written content, making

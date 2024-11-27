@@ -2,8 +2,7 @@
 aliases:
 - File Preview
 author:
-- Huajin
-author_page: https://github.com/xhuajin
+- '[[xhuajin|Huajin]]'
 categories: []
 description: Add file preview contents under file in file explorer.
 downloads: 1611

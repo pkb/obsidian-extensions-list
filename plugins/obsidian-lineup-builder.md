@@ -2,8 +2,7 @@
 aliases:
 - Lineup Builder
 author:
-- James Fallon
-author_page: https://github.com/James-Fallon
+- '[[James-Fallon|James Fallon]]'
 categories: []
 description: Build football lineups in Obsidian.
 downloads: 3442

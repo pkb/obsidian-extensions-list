@@ -2,8 +2,7 @@
 aliases:
 - Typing
 author:
-- Nikita Konodyuk
-author_page: https://github.com/konodyuk
+- '[[konodyuk|Nikita Konodyuk]]'
 categories: []
 description: Programmatic customizations for groups of notes
 downloads: 3228

@@ -2,13 +2,11 @@
 aliases:
 - Lemons Search
 author:
-- Moritz Jung
-author_page: https://www.moritzjung.dev
+- '[[mProjectsCode|Moritz Jung]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A blazingly fast fuzzy finder with file preview.
 downloads: 466
-funding_page: https://github.com/sponsors/mProjectsCode
 mobile: false
 number: 1944
 title: Lemons Search

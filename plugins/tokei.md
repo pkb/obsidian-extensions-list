@@ -2,12 +2,10 @@
 aliases:
 - Tokei
 author:
-- HiroMike
-author_page: https://github.com/ms3056
+- '[[ms3056|HiroMike]]'
 categories: []
 description: A simple clock.
 downloads: 3968
-funding_page: https://buymeacoffee.com/mstam30561
 mobile: true
 number: 1127
 title: Tokei

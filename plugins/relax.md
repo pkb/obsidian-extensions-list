@@ -2,8 +2,7 @@
 aliases:
 - R.E.L.A.X.
 author:
-- Syr
-author_page: https://github.com/Syr0
+- '[[Syr0|Syr]]'
 categories: []
 description: Multi-regex management for data linking and batch processing across selection,
   files and folders. Ideal for academics, data scientists, forensics, reverse-engineerer

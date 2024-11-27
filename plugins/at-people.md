@@ -2,8 +2,7 @@
 aliases:
 - At People
 author:
-- saibotsivad
-author_page: https://davistobias.com
+- '[[saibotsivad|saibotsivad]]'
 categories: []
 description: Use the @ to create links to people files.
 downloads: 5358

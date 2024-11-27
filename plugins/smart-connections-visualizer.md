@@ -2,12 +2,10 @@
 aliases:
 - Smart Connections Visualizer
 author:
-- Evan Moscoso
-author_page: https://github.com/mossy1022
+- '[[mossy1022|Evan Moscoso]]'
 categories: []
 description: View your Smart Connections in a visualized format.
 downloads: 8061
-funding_page: https://buymeacoffee.com/evansoasis
 mobile: false
 number: 1707
 title: Smart Connections Visualizer

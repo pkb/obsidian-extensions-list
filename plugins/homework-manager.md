@@ -2,12 +2,10 @@
 aliases:
 - Homework Manager
 author:
-- Kadison McLellan
-author_page: https://github.com/KadisonM
+- '[[KadisonM|Kadison McLellan]]'
 categories: []
 description: Keeps track of homework through a to-do list.
 downloads: 4411
-funding_page: https://www.buymeacoffee.com/kadisonm
 mobile: true
 number: 1210
 title: Homework Manager

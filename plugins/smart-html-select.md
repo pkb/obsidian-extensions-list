@@ -2,8 +2,7 @@
 aliases:
 - Smart HTML Select
 author:
-- Isaia Riva
-author_page: https://github.com/IsaiaScope
+- '[[IsaiaScope|Isaia Riva]]'
 categories: []
 description: This plugin is useful to add an HTML select to your note with the possibility
   to configure the number of options. Integrates a logic behind the scene to change

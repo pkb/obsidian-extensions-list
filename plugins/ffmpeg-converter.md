@@ -2,8 +2,7 @@
 aliases:
 - FFmpeg Converter
 author:
-- MrAnyx
-author_page: https://github.com/MrAnyx
+- '[[MrAnyx|MrAnyx]]'
 categories: []
 description: Convert most used file formats into another format using FFmpeg and FFprobe
   to optimize your vault space

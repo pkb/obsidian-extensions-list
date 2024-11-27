@@ -2,8 +2,7 @@
 aliases:
 - Upcoming
 author:
-- Charlie Chao
-author_page: https://github.com/charliecm
+- '[[charliecm|Charlie Chao]]'
 categories: []
 description: Open upcoming and/or past daily notes in their own panes, tabs, or windows.
 downloads: 4298

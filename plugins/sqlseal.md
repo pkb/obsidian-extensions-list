@@ -2,12 +2,10 @@
 aliases:
 - SQLSeal
 author:
-- hypersphere
-author_page: https://hypersphere.blog/
+- '[[h-sphere|hypersphere]]'
 categories: []
 description: Use SQL in your notes to query your vault files and CSV content.
 downloads: 742
-funding_page: ko-fi.com/hypersphere
 mobile: true
 number: 1733
 title: SQLSeal

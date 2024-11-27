@@ -2,8 +2,7 @@
 aliases:
 - Abbreviations expander
 author:
-- Yann POMIE (WoodenMaiden)
-author_page: https://yann-pomie.fr
+- '[[WoodenMaiden|Yann POMIE (WoodenMaiden)]]'
 categories: []
 description: Easily create abbreviations that will be expanded after hitting `Space`.
 downloads: 3655

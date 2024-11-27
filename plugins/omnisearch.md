@@ -2,15 +2,11 @@
 aliases:
 - Omnisearch
 author:
-- Simon Cambier
-author_page: https://github.com/scambier/obsidian-omnisearch
+- '[[scambier|Simon Cambier]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A search engine that just works
 downloads: 609227
-funding_page:
-  Github: https://github.com/sponsors/scambier
-  Ko-fi: https://ko-fi.com/scambier
 mobile: true
 number: 504
 title: Omnisearch

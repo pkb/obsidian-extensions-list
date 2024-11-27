@@ -2,8 +2,7 @@
 aliases:
 - Persistent Key-Value Store
 author:
-- Ara Adkins
-author_page: https://github.com/iamrecursion
+- '[[iamrecursion|Ara Adkins]]'
 categories: []
 description: Provides a persistent key-value store for use in scripts, along with
   a portable web inspector.

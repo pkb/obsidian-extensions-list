@@ -2,8 +2,7 @@
 aliases:
 - Flowershow
 author:
-- Rufus Pollock
-author_page: https://flowershow.app/
+- '[[datopian|Rufus Pollock]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish with Flowershow directly from your Obsidian vault.

@@ -2,14 +2,12 @@
 aliases:
 - Epub Importer
 author:
-- aoout
-author_page: https://github.com/aoout
+- '[[aoout|aoout]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Other formats|Other formats]]'
 description: Import EPUB files as Markdown.
 downloads: 13084
-funding_page: https://ko-fi.com/aoout46551
 mobile: false
 number: 1261
 title: Epub Importer

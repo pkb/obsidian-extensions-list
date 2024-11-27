@@ -2,8 +2,7 @@
 aliases:
 - Improved Random Note
 author:
-- ShockThunder
-author_page: https://github.com/ShockThunder
+- '[[ShockThunder|ShockThunder]]'
 categories: []
 description: Improved interaction with the knowledge base in so-called wandering mode
   by opening specific Random Notes.

@@ -2,8 +2,7 @@
 aliases:
 - 盘古 PanGu
 author:
-- Natumsol
-author_page: https://github.com/natumsol
+- '[[Natumsol|Natumsol]]'
 categories: []
 description: 自动为中英文之间插入空格，排版强迫者的福音。
 downloads: 22352

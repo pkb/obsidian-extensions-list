@@ -2,8 +2,7 @@
 aliases:
 - Pandoc Reference List
 author:
-- mgmeyers
-author_page: https://github.com/mgmeyers/obsidian-pandoc-reference-list
+- '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Displays a formatted reference in the sidebar for each pandoc citekey
   present in the current document.

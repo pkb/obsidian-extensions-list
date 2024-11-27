@@ -2,14 +2,10 @@
 aliases:
 - Better Comment Toggle
 author:
-- Gino Valente
-author_page: https://github.com/MrGVSV
+- '[[MrGVSV|Gino Valente]]'
 categories: []
 description: Improved comment toggling.
 downloads: 4168
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/ginov
-  GitHub Sponsor: https://github.com/sponsors/MrGVSV
 mobile: true
 number: 1043
 title: Better Comment Toggle

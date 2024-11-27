@@ -2,8 +2,7 @@
 aliases:
 - Prettier Format
 author:
-- Andrew Lisowski
-author_page: https://twitter.com/hipstersmoothie
+- '[[hipstersmoothie|Andrew Lisowski]]'
 categories: []
 description: Opinionated formatting for your notes.
 downloads: 15336

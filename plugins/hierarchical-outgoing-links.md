@@ -2,12 +2,10 @@
 aliases:
 - Hierarchical Outgoing Links
 author:
-- Jason Motylinski
-author_page: https://jason.motylinski.com
+- '[[jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays outgoing links in a hierarchy
 downloads: 1312
-funding_page: https://www.buymeacoffee.com/jasonmotylinski
 mobile: true
 number: 1586
 title: Hierarchical Outgoing Links

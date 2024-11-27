@@ -1,8 +1,8 @@
 ---
 aliases:
 - Map View
-author: esm7
-author_page: https://github.com/esm7
+author:
+- '[[authors/esm7|esm7]]'
 categories: []
 description: An interactive map view.
 downloads: 75529

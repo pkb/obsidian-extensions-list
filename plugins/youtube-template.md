@@ -2,12 +2,10 @@
 aliases:
 - YouTube Template
 author:
-- sundevista
-author_page: https://github.com/sundevista
+- '[[sundevista|sundevista]]'
 categories: []
 description: A plugin that would help you to fetch YouTube videos data into your vault.
 downloads: 4598
-funding_page: https://www.buymeacoffee.com/sundevistax
 mobile: true
 number: 1352
 title: YouTube Template

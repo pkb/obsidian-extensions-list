@@ -2,8 +2,7 @@
 aliases:
 - Week Planner
 author:
-- Ralf Wirdemann
-author_page: https://github.com/rwirdemann/obsidian-week-planner
+- '[[rwirdemann|Ralf Wirdemann]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: Week Planner plugin for Obsidian. This plugin defines commands for creating

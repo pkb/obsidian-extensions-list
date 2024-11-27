@@ -2,12 +2,10 @@
 aliases:
 - Text2Audio
 author:
-- luhaifeng666
-author_page: https://github.com/luhaifeng666
+- '[[luhaifeng666|luhaifeng666]]'
 categories: []
 description: Convert text to speech
 downloads: 1291
-funding_page: https://buymeacoffee.com/luhaifeng
 mobile: true
 number: 1632
 title: Text2Audio

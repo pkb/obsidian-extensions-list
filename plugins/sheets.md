@@ -2,13 +2,11 @@
 aliases:
 - Sheets Extended
 author:
-- NicoNekoru
-author_page: https://github.com/NicoNekoru
+- '[[NicoNekoru|NicoNekoru]]'
 categories: []
 description: Vertical headers, merged cells, and custom css tables with advanced table
   compatibility
 downloads: 21926
-funding_page: https://www.buymeacoffee.com/niconekoru
 mobile: true
 number: 1118
 title: Sheets Extended

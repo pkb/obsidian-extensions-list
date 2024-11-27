@@ -2,8 +2,7 @@
 aliases:
 - Arcane Obfuscate
 author:
-- Shusako
-author_page: https://github.com/Shusako
+- '[[Shusako|Shusako]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Obfuscate text with an arcane runic effect.

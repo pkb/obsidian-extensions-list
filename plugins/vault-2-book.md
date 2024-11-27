@@ -2,8 +2,7 @@
 aliases:
 - Vault 2 Book
 author:
-- Mitra98t
-author_page: https://github.com/Mitra98t
+- '[[Mitra98t|Mitra98t]]'
 categories: []
 description: Converts your notes to a book creating a single file containing all the
   notes linked

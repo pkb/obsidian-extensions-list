@@ -2,8 +2,7 @@
 aliases:
 - Progress Clocks
 author:
-- Nathan Clark
-author_page: https://github.com/tokenshift
+- '[[tokenshift|Nathan Clark]]'
 categories: []
 description: Progress clocks and other useful widgets for real-time status tracking.
 downloads: 1997

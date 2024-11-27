@@ -2,8 +2,7 @@
 aliases:
 - VirtFolder
 author:
-- mr.grogrig
-author_page: https://github.com/gr0grig
+- '[[gr0grig|mr.grogrig]]'
 categories: []
 description: Creating a hierarchical structure like Luhmann's Zettelkasten
 downloads: 849

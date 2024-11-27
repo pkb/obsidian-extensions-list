@@ -2,8 +2,7 @@
 aliases:
 - YouHaveBeenStaring
 author:
-- Felix Almer
-author_page: https://almer.dev
+- '[[fxal|Felix Almer]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: This plugin tells you in the status bar for how long you've been staring

@@ -2,8 +2,7 @@
 aliases:
 - gpgCrypt
 author:
-- Tjado Mäcke
-author_page: https://github.com/tejado
+- '[[tejado|Tjado Mäcke]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced

@@ -2,8 +2,7 @@
 aliases:
 - ChatGPT Definition
 author:
-- julix14
-author_page: https://github.com/julix14
+- '[[julix14|julix14]]'
 categories: []
 description: Let your AI assistant ChatGPT define words and concepts for you.
 downloads: 3853

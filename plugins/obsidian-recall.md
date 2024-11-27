@@ -2,8 +2,7 @@
 aliases:
 - Recall
 author:
-- Martin Jirlow
-author_page: https://github.com/martin-jw/obsidian-recall
+- '[[martin-jw|Martin Jirlow]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: A flexible and configurable Spaced Repetition System built into Obsidian.

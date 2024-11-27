@@ -2,8 +2,7 @@
 aliases:
 - Wikipedia
 author:
-- Jonathan Miller
-author_page: https://jmill.dev
+- '[[jmilldotdev|Jonathan Miller]]'
 categories: []
 description: Grabs information from Wikipedia for a topic and brings it into Obsidian
   notes

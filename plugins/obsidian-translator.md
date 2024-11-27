@@ -2,8 +2,7 @@
 aliases:
 - Translator
 author:
-- Haifeng Lu
-author_page: https://github.com/luhaifeng666
+- '[[luhaifeng666|Haifeng Lu]]'
 categories: []
 description: This is a plugin for Obsidian to translate selected text.
 downloads: 10137

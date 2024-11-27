@@ -2,8 +2,7 @@
 aliases:
 - Editor Autofocus
 author:
-- Mgussekloo
-author_page: https://github.com/mgussekloo
+- '[[mgussekloo|Mgussekloo]]'
 categories: []
 description: Autofocus the editor when opening a new file.
 downloads: 2313

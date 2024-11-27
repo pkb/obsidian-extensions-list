@@ -2,8 +2,7 @@
 aliases:
 - Workbench
 author:
-- ryanjamurphy
-author_page: fulcra.design
+- '[[ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Keep a workbench of knowledge materials.
 downloads: 25710

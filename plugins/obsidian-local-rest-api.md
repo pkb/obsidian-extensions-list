@@ -2,8 +2,7 @@
 aliases:
 - Local REST API
 author:
-- Adam Coddington
-author_page: https://coddingtonbear.net/
+- '[[coddingtonbear|Adam Coddington]]'
 categories: []
 description: Get, change or otherwise interact with your notes in Obsidian via a REST
   API.

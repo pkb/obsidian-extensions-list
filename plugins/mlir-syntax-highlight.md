@@ -2,8 +2,7 @@
 aliases:
 - MLIR Syntax Highlight
 author:
-- Lewuathe
-author_page: https://github.com/Lewuathe
+- '[[Lewuathe|Lewuathe]]'
 categories: []
 description: Show syntax highlighing for MLIR in code blocks the editor
 downloads: 5927

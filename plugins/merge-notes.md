@@ -2,8 +2,7 @@
 aliases:
 - Merge Notes
 author:
-- fnya
-author_page: https://github.com/fnya
+- '[[fnya|fnya]]'
 categories: []
 description: Merge the selected notes.
 downloads: 6029

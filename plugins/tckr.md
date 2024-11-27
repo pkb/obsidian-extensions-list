@@ -2,8 +2,7 @@
 aliases:
 - tckr
 author:
-- Git-Sum
-author_page: https://github.com/Git-Sum
+- '[[Git-Sum|Git-Sum]]'
 categories: []
 description: Get your TickTicks!
 downloads: 2111

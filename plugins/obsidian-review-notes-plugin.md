@@ -2,8 +2,7 @@
 aliases:
 - Review Notes Plugin
 author:
-- tjandy98
-author_page: https://github.com/tjandy98
+- '[[tjandy98|tjandy98]]'
 categories: []
 description: This plugin shows recently modified and newly created files
 downloads: 5287

@@ -2,8 +2,7 @@
 aliases:
 - Mindmap NextGen
 author:
-- james-tindal
-author_page: https://github.com/james-tindal
+- '[[authors/james-tindal|james-tindal]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: View your Markdown as a mindmap

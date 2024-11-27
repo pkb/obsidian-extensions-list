@@ -2,8 +2,7 @@
 aliases:
 - random-retrieval
 author:
-- Rachninomav
-author_page: https://github.com/JeanJean-rxl
+- '[[JeanJean-rxl|Rachninomav]]'
 categories: []
 description: Random Note Retrieval based on LLMs.
 downloads: 32

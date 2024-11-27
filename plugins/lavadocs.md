@@ -2,8 +2,7 @@
 aliases:
 - Lavadocs
 author:
-- Saalik Lokhandwala
-author_page: https://saaliklok.com
+- '[[saaliklok|Saalik Lokhandwala]]'
 categories: []
 description: Public docs, from the fires of your vault.
 downloads: 760

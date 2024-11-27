@@ -2,8 +2,7 @@
 aliases:
 - Command Palette--
 author:
-- qawatake
-author_page: https://github.com/qawatake/obsidian-command-palette-minus-plugin
+- '[[qawatake|qawatake]]'
 categories: []
 description: Command palette without unwanted commands
 downloads: 4562

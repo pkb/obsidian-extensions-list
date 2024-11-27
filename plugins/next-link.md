@@ -2,8 +2,7 @@
 aliases:
 - Next Link
 author:
-- Juan Luque
-author_page: https://github.com/jdluque
+- '[[jdluque|Juan Luque]]'
 categories: []
 description: Jump quickly between note links.
 downloads: 2797

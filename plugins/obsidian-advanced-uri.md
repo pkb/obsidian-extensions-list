@@ -2,12 +2,10 @@
 aliases:
 - Advanced URI
 author:
-- Vinzent
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent]]'
 categories: []
 description: Advanced modes for Obsidian URI
 downloads: 365990
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 143
 title: Advanced URI

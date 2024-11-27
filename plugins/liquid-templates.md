@@ -2,8 +2,7 @@
 aliases:
 - Liquid Templates
 author:
-- diomedet
-author_page: https://diomedet.com/
+- '[[oeN|diomedet]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Empower your template with LiquidJS tags

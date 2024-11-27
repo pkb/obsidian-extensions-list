@@ -2,8 +2,7 @@
 aliases:
 - Auto Periodic Notes
 author:
-- Jamie Hurst
-author_page: https://jamiehurst.co.uk
+- '[[jamiefdhurst|Jamie Hurst]]'
 categories: []
 description: Creates new periodic notes automatically in the background and allows
   these to be pinned in your open tabs, requires the Periodic Notes plugin.

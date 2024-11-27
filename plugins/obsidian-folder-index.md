@@ -2,12 +2,10 @@
 aliases:
 - Folder Index
 author:
-- turulix
-author_page: https://turulix.de/
+- '[[turulix|turulix]]'
 categories: []
 description: This Plugin will automatically generate a TOC for the current Folder.
 downloads: 22745
-funding_page: https://www.buymeacoffee.com/turulix
 mobile: true
 number: 510
 title: Folder Index

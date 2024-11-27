@@ -2,8 +2,7 @@
 aliases:
 - File Cleaner Redux
 author:
-- husjon
-author_page: https://github.com/husjon
+- '[[husjon|husjon]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.

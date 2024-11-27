@@ -2,8 +2,7 @@
 aliases:
 - Hugo Publish
 author:
-- kirito
-author_page: https://www.kirito.info
+- '[[kirito41dd|kirito]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your blog to hugo site.

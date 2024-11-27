@@ -2,8 +2,7 @@
 aliases:
 - BookNav
 author:
-- Josh Emberton
-author_page: https://github.com/jemberton
+- '[[jemberton|Josh Emberton]]'
 categories: []
 description: Adds a codeblock language to parse internal links and render them in
   a book style navigation.

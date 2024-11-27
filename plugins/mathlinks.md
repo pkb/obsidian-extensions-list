@@ -2,8 +2,7 @@
 aliases:
 - MathLinks
 author:
-- zhaoshenzhai
-author_page: https://github.com/zhaoshenzhai/obsidian-mathlinks
+- '[[zhaoshenzhai|zhaoshenzhai]]'
 categories: []
 description: Render MathJax in your links
 downloads: 15631

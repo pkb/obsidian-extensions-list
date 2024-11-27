@@ -2,8 +2,7 @@
 aliases:
 - Custom window title
 author:
-- Joost Plattel
-author_page: https://jplattel.nl
+- '[[jplattel|Joost Plattel]]'
 categories: []
 description: Allows template-based customization of the app window title
 downloads: 13869

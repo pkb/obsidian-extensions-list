@@ -2,8 +2,7 @@
 aliases:
 - Typezen
 author:
-- Ilgam Gabdullin
-author_page: https://github.com/IlgamGabdullin
+- '[[IlgamGabdullin|Ilgam Gabdullin]]'
 categories: []
 description: Type and get in zen mode instantly, no more distraction between you and
   your thoughts

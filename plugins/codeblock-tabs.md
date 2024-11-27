@@ -2,12 +2,10 @@
 aliases:
 - CodeBlock Tabs
 author:
-- Jemin Mau
-author_page: https://github.com/JeminMau
+- '[[JeminMau|Jemin Mau]]'
 categories: []
 description: Create tab group for contiguous CodeBlocks.
 downloads: 5085
-funding_page: https://buymeacoffee.com/JeminMau
 mobile: true
 number: 1067
 title: CodeBlock Tabs

@@ -2,8 +2,7 @@
 aliases:
 - Inline spoilers
 author:
-- logonoff
-author_page: https://logonoff.co
+- '[[logonoff|logonoff]]'
 categories: []
 description: Adds Discord-like syntax for inline spoilers.
 downloads: 1284

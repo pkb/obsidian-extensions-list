@@ -2,8 +2,7 @@
 aliases:
 - Divide & Conquer
 author:
-- geoffreysflaminglasersword & pseudometa
-author_page: https://github.com/chrisgrieser
+- '[[chrisgrieser|geoffreysflaminglasersword & pseudometa]]'
 categories: []
 description: Provides commands for bulk enabling/disabling of plugins. Useful for
   debugging when you have many plugins.

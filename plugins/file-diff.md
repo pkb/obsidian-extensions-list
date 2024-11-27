@@ -2,8 +2,7 @@
 aliases:
 - File Diff
 author:
-- Till Friebe
-author_page: https://friebetill.github.io/
+- '[[friebetill|Till Friebe]]'
 categories: []
 description: Shows the differences between two files..
 downloads: 8836

@@ -2,8 +2,7 @@
 aliases:
 - Halo
 author:
-- Ryan Wang
-author_page: https://github.com/ruibaby
+- '[[halo-sigs|Ryan Wang]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'

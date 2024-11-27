@@ -2,8 +2,7 @@
 aliases:
 - Image to notes by Photes.IO
 author:
-- Kanaries Data Inc.
-author_page: https://github.com/Kanaries
+- '[[Kanaries|Kanaries Data Inc.]]'
 categories: []
 description: Turn your images into text notes with AI
 downloads: 251

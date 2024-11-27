@@ -2,8 +2,7 @@
 aliases:
 - AI image analyzer
 author:
-- Swaggeroo
-author_page: https://swaggeroo.de
+- '[[Swaggeroo|Swaggeroo]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Image handling|Image handling]]'

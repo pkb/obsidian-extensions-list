@@ -2,13 +2,11 @@
 aliases:
 - Codeblock Customizer
 author:
-- mugiwara
-author_page: https://github.com/mugiwara85
+- '[[mugiwara85|mugiwara]]'
 categories: []
 description: This Obsidian plugin lets you customize your codeblocks in editing, and
   reading mode as well.
 downloads: 23876
-funding_page: https://www.buymeacoffee.com/ThePirateKing
 mobile: true
 number: 882
 title: Codeblock Customizer

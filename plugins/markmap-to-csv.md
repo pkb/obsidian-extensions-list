@@ -2,12 +2,10 @@
 aliases:
 - Markmap to CSV
 author:
-- Max Lee
-author_page: https://github.com/pj4316
+- '[[pj4316|Max Lee]]'
 categories: []
 description: Converts Markmap data to CSV format.
 downloads: 1029
-funding_page: https://github.com/sponsors/pj4316
 mobile: true
 number: 1510
 title: Markmap to CSV

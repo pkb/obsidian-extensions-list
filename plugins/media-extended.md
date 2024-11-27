@@ -2,8 +2,7 @@
 aliases:
 - Media Extended
 author:
-- AidenLx
-author_page: https://github.com/AidenLx/
+- '[[aidenlx|AidenLx]]'
 categories:
 - '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Media(Video/Audio) Playback Enhancement for Obsidian.md

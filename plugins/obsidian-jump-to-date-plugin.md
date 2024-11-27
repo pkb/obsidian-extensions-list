@@ -2,14 +2,11 @@
 aliases:
 - Jump-to-Date
 author:
-- TfT Hacker
-author_page: https://github.com/TfTHacker/obsidian42-jump-to-date
+- '[[TfTHacker|TfT Hacker]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Popup calendar for quickly navigating dates
 downloads: 15717
-funding_page:
-  Visit my site: https://tfthacker.com
 mobile: true
 number: 279
 title: Jump-to-Date

@@ -2,8 +2,7 @@
 aliases:
 - Reset Font Size
 author:
-- luckman212
-author_page: https://github.com/luckman212/obsidian-reset-font-size
+- '[[luckman212|luckman212]]'
 categories: []
 description: Adds button and command to reset the font size back to its default value.
 downloads: 6027

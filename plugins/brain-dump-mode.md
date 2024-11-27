@@ -2,14 +2,12 @@
 aliases:
 - Brain Dump Mode
 author:
-- yesjinu
-author_page: https://yesjinu.github.io
+- '[[yesjinu|yesjinu]]'
 categories: []
 description: "Done is better than perfect. Complete your first-messy-draft before
   you make it perfect. Your delete key will be DISABLED and all you can do is JUST
   BURN YOUR KEYBOARDS\U0001F525"
 downloads: 111
-funding_page: buymeacoffee.com/rcxzwh81qd
 mobile: true
 number: 2001
 title: Brain Dump Mode

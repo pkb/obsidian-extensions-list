@@ -2,12 +2,10 @@
 aliases:
 - Alignment Tracker
 author:
-- LittleOwl
-author_page: https://github.com/FioPio
+- '[[FioPio|LittleOwl]]'
 categories: []
 description: Track character alignment using a 3x3 grid.
 downloads: 78
-funding_page: ''
 mobile: true
 number: 1905
 title: Alignment Tracker

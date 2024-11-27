@@ -2,8 +2,7 @@
 aliases:
 - Hyphenation
 author:
-- Cassandra McCarthy
-author_page: https://github.com/7596ff
+- '[[7596ff|Cassandra McCarthy]]'
 categories: []
 description: Enables justified text and hyphenation
 downloads: 6568

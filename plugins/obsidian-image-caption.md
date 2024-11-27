@@ -2,8 +2,7 @@
 aliases:
 - Image Caption
 author:
-- Brian Carlsen
-author_page: https://github.com/bicarlsen
+- '[[bicarlsen|Brian Carlsen]]'
 categories: []
 description: Add captions to images.
 downloads: 25310

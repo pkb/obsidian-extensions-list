@@ -2,13 +2,10 @@
 aliases:
 - Text Transporter
 author:
-- TfTHacker
-author_page: https://github.com/TfTHacker/obsidian42-text-transporter
+- '[[TfTHacker|TfTHacker]]'
 categories: []
 description: Advanced text tools for working with text in your vault
 downloads: 25105
-funding_page:
-  Sponsor my work: https://tfthacker.com/sponsor
 mobile: true
 number: 296
 title: Text Transporter

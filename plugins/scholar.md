@@ -2,8 +2,7 @@
 aliases:
 - Scholar
 author:
-- Shannon Shen
-author_page: https://www.szj.io
+- '[[lolipopshock|Shannon Shen]]'
 categories: []
 description: Streamline Research Workflow in Obsidian
 downloads: 5070

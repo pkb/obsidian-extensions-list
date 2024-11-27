@@ -2,8 +2,7 @@
 aliases:
 - Regex Find/Replace
 author:
-- Martin Eder
-author_page: https://www.gruware.org
+- '[[Gru80|Martin Eder]]'
 categories: []
 description: Find and replace text using regular expressions.
 downloads: 33369

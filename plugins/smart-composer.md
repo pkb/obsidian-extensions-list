@@ -2,14 +2,12 @@
 aliases:
 - Smart Composer
 author:
-- Heesu Suh
-author_page: https://github.com/glowingjade
+- '[[glowingjade|Heesu Suh]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI chat with note context, smart writing assistance, and one-click edits
   for your vault.
 downloads: 1367
-funding_page: https://buymeacoffee.com/glowingjade
 mobile: true
 number: 1971
 title: Smart Composer

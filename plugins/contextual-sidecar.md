@@ -2,8 +2,7 @@
 aliases:
 - Contextual Sidecar
 author:
-- Matthew Turk
-author_page: https://matthewturk.github.io/
+- '[[matthewturk|Matthew Turk]]'
 categories: []
 description: Add a context-dependent sidecar panel.
 downloads: 1236

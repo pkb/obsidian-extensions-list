@@ -2,8 +2,7 @@
 aliases:
 - Chinese Calendar
 author:
-- DevilRoshan
-author_page: https://github.com/DevilRoshan
+- '[[DevilRoshan|DevilRoshan]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 符合中国习惯的日历，可以显示农历、节日、调休、节气等信息，支持月视图和年视图切换，支持点击日期创建笔记，支持使用QuickAdd插件创建笔记。

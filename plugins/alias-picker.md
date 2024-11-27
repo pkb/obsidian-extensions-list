@@ -2,8 +2,7 @@
 aliases:
 - Alias Picker
 author:
-- rostunic
-author_page: https://github.com/rostunic
+- '[[rostunic|rostunic]]'
 categories: []
 description: Pick aliases or blocks of links.
 downloads: 559

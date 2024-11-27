@@ -2,8 +2,7 @@
 aliases:
 - Arweave Uploader
 author:
-- makesimple
-author_page: https://github.com/konfuzz
+- '[[konfuzz|makesimple]]'
 categories: []
 description: Convert your notes to HTML and upload to Arweave
 downloads: 35

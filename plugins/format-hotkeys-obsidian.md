@@ -2,8 +2,7 @@
 aliases:
 - Format Hotkeys
 author:
-- Ansel Santosa
-author_page: https://ansel.santosa.family
+- '[[anstosa|Ansel Santosa]]'
 categories: []
 description: Google Docs style formatting hotkeys for Obsidian
 downloads: 6714

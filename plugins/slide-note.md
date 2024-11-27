@@ -2,12 +2,10 @@
 aliases:
 - Slide Note
 author:
-- Jinyan Xu
-author_page: https://github.com/Phantom1003
+- '[[Phantom1003|Jinyan Xu]]'
 categories: []
 description: Conveniently take notes on PDF course slides :P
 downloads: 8805
-funding_page: https://www.buymeacoffee.com/Phantom1003
 mobile: true
 number: 921
 title: Slide Note

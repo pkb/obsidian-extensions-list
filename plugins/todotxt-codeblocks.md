@@ -2,12 +2,10 @@
 aliases:
 - TodoTxt Codeblocks
 author:
-- Benjamin Nguyen
-author_page: https://github.com/benjamonnguyen
+- '[[benjamonnguyen|Benjamin Nguyen]]'
 categories: []
 description: Manage your tasks inside codeblocks according to the Todo.txt specification.
 downloads: 3677
-funding_page: https://www.buymeacoffee.com/benjamonn
 mobile: true
 number: 1189
 title: TodoTxt Codeblocks

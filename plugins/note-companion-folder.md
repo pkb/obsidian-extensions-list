@@ -2,8 +2,7 @@
 aliases:
 - Note Companion Folder
 author:
-- Chris Verbree
-author_page: https://vmac.ch
+- '[[vkodocha|Chris Verbree]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Manage a separate folder of attachments for each note.

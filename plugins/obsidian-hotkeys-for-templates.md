@@ -2,8 +2,7 @@
 aliases:
 - Hotkeys for templates
 author:
-- Vinzent03
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent03]]'
 categories: []
 description: Add hotkeys to insert specific templates
 downloads: 24505

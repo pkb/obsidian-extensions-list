@@ -2,8 +2,7 @@
 aliases:
 - Awesome Flashcard
 author:
-- AwesomeDog
-author_page: https://github.com/AwesomeDog/obsidian-awesome-flashcard
+- '[[AwesomeDog|AwesomeDog]]'
 categories: []
 description: Handy Anki integration for Obsidian.
 downloads: 4677

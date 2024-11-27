@@ -2,12 +2,10 @@
 aliases:
 - Ribbon Divider
 author:
-- Andrew McGivery
-author_page: https://github.com/andrewmcgivery
+- '[[andrewmcgivery|Andrew McGivery]]'
 categories: []
 description: Allows you to add dividers to the ribbon to space out your icons.
 downloads: 4176
-funding_page: https://www.buymeacoffee.com/andrewmcgivery
 mobile: true
 number: 1343
 title: Ribbon Divider

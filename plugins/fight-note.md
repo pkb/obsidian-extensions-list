@@ -2,8 +2,7 @@
 aliases:
 - Fight Note
 author:
-- Dmitry Loac
-author_page: https://github.com/Loac
+- '[[Loac|Dmitry Loac]]'
 categories: []
 description: 'Render Tekken notation into an easy-to-read format (partially useful
   for other fighting games: Guilty Gear, Street Fighter and etc).'

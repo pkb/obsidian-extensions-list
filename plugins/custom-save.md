@@ -2,14 +2,10 @@
 aliases:
 - Custom save
 author:
-- HananoshikaYomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Run any commands when you save a file in the editor
 downloads: 2166
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: true
 number: 1319
 title: Custom save

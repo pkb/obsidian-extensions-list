@@ -2,8 +2,7 @@
 aliases:
 - Pathfinder 2E Action Icons
 author:
-- Thiago Coutinho
-author_page: https://github.com/thiagocoutinhor
+- '[[thiagocoutinhor|Thiago Coutinho]]'
 categories: []
 description: Displays Pathfinder 2E action icons easily
 downloads: 5606

@@ -2,8 +2,7 @@
 aliases:
 - Youtube Iframe Timestamps
 author:
-- Nils Leo
-author_page: https://github.com/NilsLeo
+- '[[NilsLeo|Nils Leo]]'
 categories: []
 description: Allows you to embed YouTube videos with timestamps directly in your notes,
   enabling seamless referencing and note-taking without needing to open a separate

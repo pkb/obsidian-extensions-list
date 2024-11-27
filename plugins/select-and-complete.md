@@ -2,12 +2,10 @@
 aliases:
 - Select & Complete
 author:
-- Mario De Luca
-author_page: https://mariodeluca.com
+- '[[macro21KGB|Mario De Luca]]'
 categories: []
 description: Select something and let the AI complete it for you.
 downloads: 1229
-funding_page: https://www.buymeacoffee.com/macro21kgb
 mobile: true
 number: 1467
 title: Select & Complete

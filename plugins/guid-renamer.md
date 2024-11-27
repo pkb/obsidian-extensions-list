@@ -2,9 +2,8 @@
 aliases:
 - Guid Renamer
 author:
-- Taskscape LTD
-- Kacper Pabianiak
-author_page: https://taskscape.com/
+- '[[authors/taskscape|Taskscape LTD]]'
+- '[[authors/taskscape|Kacper Pabianiak]]'
 categories: []
 description: Rename selected file with a random GUID.
 downloads: 132

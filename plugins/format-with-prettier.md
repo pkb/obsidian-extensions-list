@@ -2,12 +2,10 @@
 aliases:
 - Format with Prettier
 author:
-- Alex Gavrusev
-author_page: https://gavrusev.dev
+- '[[alexgavrusev|Alex Gavrusev]]'
 categories: []
 description: Format files in your vault using Prettier.
 downloads: 1782
-funding_page: https://ko-fi.com/gavrusev
 mobile: true
 number: 1439
 title: Format with Prettier

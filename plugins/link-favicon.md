@@ -2,8 +2,7 @@
 aliases:
 - Link Favicons
 author:
-- Johannes Theiner
-author_page: https://github.com/joethei
+- '[[joethei|Johannes Theiner]]'
 categories: []
 description: 'See the favicon for a linked website. '
 downloads: 40451

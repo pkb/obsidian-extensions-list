@@ -2,8 +2,7 @@
 aliases:
 - Flomo Importer
 author:
-- Jialu Y
-author_page: https://github.com/jia6y
+- '[[jia6y|Jialu Y]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Make Flomo Memos to Obsidian Notes

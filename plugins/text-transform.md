@@ -2,13 +2,11 @@
 aliases:
 - Text Transform
 author:
-- ipshing
-author_page: https://github.com/ipshing
+- '[[ipshing|ipshing]]'
 categories: []
 description: Transform text to different casings using the command palette or keyboard
   shortcuts.
 downloads: 3216
-funding_page: https://ko-fi.com/ipshing
 mobile: true
 number: 1162
 title: Text Transform

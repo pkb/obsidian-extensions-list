@@ -2,8 +2,7 @@
 aliases:
 - Zotero Sync
 author:
-- Frithjof Gressmann
-author_page: https://frthjf.com
+- '[[frthjf|Frithjof Gressmann]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Zotero API client to sync your Zotero library into your vault

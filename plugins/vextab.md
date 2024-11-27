@@ -2,8 +2,7 @@
 aliases:
 - Vextab
 author:
-- Luis Guzman
-author_page: https://www.luisjguzman.com/
+- '[[luigman|Luis Guzman]]'
 categories: []
 description: An Obsidian plugin for rendering guitar tablature and music notation
   using Vextab.

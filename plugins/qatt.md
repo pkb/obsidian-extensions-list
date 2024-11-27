@@ -2,8 +2,7 @@
 aliases:
 - Query all the things
 author:
-- Sytone
-author_page: https://github.com/sytone
+- '[[sytone|Sytone]]'
 categories: []
 description: Execute SQL base queries against your data in Obsidian and render it
   how you want using templates.

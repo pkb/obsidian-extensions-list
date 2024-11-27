@@ -2,8 +2,7 @@
 aliases:
 - Table of Contents
 author:
-- Andrew Lisowski
-author_page: https://twitter.com/hipstersmoothie
+- '[[hipstersmoothie|Andrew Lisowski]]'
 categories: []
 description: Create a table of contents for a note.
 downloads: 141299

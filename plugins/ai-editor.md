@@ -2,8 +2,7 @@
 aliases:
 - AI Editor
 author:
-- Zekun Shen
-author_page: https://github.com/buszk
+- '[[buszk|Zekun Shen]]'
 categories: []
 description: Empower your note editor with LLM capabilities. Customizable to work
   for your use cases.

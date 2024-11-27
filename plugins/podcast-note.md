@@ -2,8 +2,7 @@
 aliases:
 - Podcast Note
 author:
-- Marc Julian Schwarz
-author_page: https://www.marc-julian.de
+- '[[marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: Podcast Note lets you automatically add podcast information to your notes.
 downloads: 8183

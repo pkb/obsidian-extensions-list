@@ -2,13 +2,11 @@
 aliases:
 - Geulo
 author:
-- Junyoung Bang
-author_page: https://github.com/zzunebye
+- '[[zzunebye|Junyoung Bang]]'
 categories: []
 description: Effortlessly fetch and manage all the YouTube videos you've liked, search
   and sort them, and add them to your daily note.
 downloads: 405
-funding_page: https://www.buymeacoffee.com/junyoungbang
 mobile: false
 number: 1838
 title: Geulo

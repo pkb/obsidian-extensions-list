@@ -2,8 +2,7 @@
 aliases:
 - Link to Verse
 author:
-- aygjiay
-author_page: https://github.com/aygjiay
+- '[[aygjiay|aygjiay]]'
 categories: []
 description: From a Bible reference selected, creates a markdown link to a configured
   Bible site.

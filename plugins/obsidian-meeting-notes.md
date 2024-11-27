@@ -2,8 +2,7 @@
 aliases:
 - Meeting notes
 author:
-- Tim Hiller
-author_page: https://github.com/TimHi
+- '[[TimHi|Tim Hiller]]'
 categories: []
 description: Plugin to automatically create a note if a new file is created in a meeting
   folder.

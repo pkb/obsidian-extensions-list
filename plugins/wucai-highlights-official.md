@@ -2,8 +2,7 @@
 aliases:
 - WuCai highlights Official
 author:
-- 希果壳五彩
-author_page: https://www.dotalk.cn/product/wucai
+- '[[makediff|希果壳五彩]]'
 categories: []
 description: Official WuCai highlights <-> Obsidian integration
 downloads: 13810

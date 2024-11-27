@@ -2,8 +2,7 @@
 aliases:
 - Path Title
 author:
-- jdeal
-author_page: https://github.com/jdeal
+- '[[jdeal|jdeal]]'
 categories: []
 description: Adds path (or optional replacement) to the filename title of each pane
 downloads: 8350

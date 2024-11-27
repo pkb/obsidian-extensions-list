@@ -2,12 +2,10 @@
 aliases:
 - Paste As Html
 author:
-- maotong06
-author_page: https://github.com/maotong06/obsidian-paste-as-html-plugin
+- '[[maotong06|maotong06]]'
 categories: []
 description: Paste As Html, Keep the original css style. Paste from web browser
 downloads: 8906
-funding_page: https://github.com/maotong06/obsidian-paste-as-html-plugin
 mobile: true
 number: 724
 title: Paste As Html

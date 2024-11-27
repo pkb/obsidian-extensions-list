@@ -2,8 +2,7 @@
 aliases:
 - Text Conversions
 author:
-- Juan D Frias
-author_page: https://github.com/ironsigma
+- '[[ironsigma|Juan D Frias]]'
 categories: []
 description: Perform various text conversions on the selected text
 downloads: 3061

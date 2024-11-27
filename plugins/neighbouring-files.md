@@ -2,12 +2,10 @@
 aliases:
 - Neighbouring Files
 author:
-- Fabian Untermoser
-author_page: https://www.ederbit.xyz
+- '[[FabianUntermoser|Fabian Untermoser]]'
 categories: []
 description: Navigate to the next and previous file in the current directory
 downloads: 2912
-funding_page: https://www.ederbit.xyz/coffee
 mobile: true
 number: 1337
 title: Neighbouring Files

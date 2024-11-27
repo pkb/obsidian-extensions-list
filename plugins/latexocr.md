@@ -2,8 +2,7 @@
 aliases:
 - LaTeX-OCR
 author:
-- Jack Barker
-author_page: https://github.com/JackBarker7
+- '[[JackBarker7|Jack Barker]]'
 categories: []
 description: Run LaTeX-OCR if it is installed locally.
 downloads: 1795

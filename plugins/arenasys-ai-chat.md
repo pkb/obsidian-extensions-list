@@ -2,12 +2,10 @@
 aliases:
 - AI Chat
 author:
-- arenasys
-author_page: https://github.com/arenasys
+- '[[arenasys|arenasys]]'
 categories: []
 description: Chat with AI about your notes.
 downloads: 655
-funding_page: https://github.com/sponsors/arenasys
 mobile: false
 number: 1630
 title: AI Chat

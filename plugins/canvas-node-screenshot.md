@@ -2,8 +2,7 @@
 aliases:
 - Node Screenshot
 author:
-- Fredy Taboutsa
-author_page: https://istfredy.tech
+- '[[istfredy|Fredy Taboutsa]]'
 categories: []
 description: Capture node effortlessly with precision screenshot.
 downloads: 1136

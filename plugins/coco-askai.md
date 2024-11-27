@@ -2,8 +2,7 @@
 aliases:
 - CoCo AskAI
 author:
-- Yukee
-author_page: https://ai.yamfeel.com
+- '[[yamfeel|Yukee]]'
 categories: []
 description: Let your questions flow swiftly with CoCo AskAI. (Closed source)
 downloads: 629

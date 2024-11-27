@@ -2,14 +2,12 @@
 aliases:
 - Wechat Public Platform
 author:
-- Blake Chan
-author_page: https://ai-chen2050.github.io/
+- '[[ai-chen2050|Blake Chan]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Release the article from your vault to WeChat, Baidu Baijiahao, or another
   article release platform.
 downloads: 574
-funding_page: https://www.buymeacoffee.com/blakechan
 mobile: false
 number: 1744
 title: Wechat Public Platform

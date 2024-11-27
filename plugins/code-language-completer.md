@@ -2,8 +2,7 @@
 aliases:
 - Code Language Completer
 author:
-- Stanley Wang
-author_page: https://github.com/Stanley-Wang910
+- '[[Stanley-Wang910|Stanley Wang]]'
 categories: []
 description: Autosuggests and completes codeblock language options based on history.
 downloads: 362

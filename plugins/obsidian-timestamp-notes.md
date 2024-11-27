@@ -2,8 +2,7 @@
 aliases:
 - Timestamp Notes
 author:
-- Julian Grunauer
-author_page: https://github.com/juliang22/ObsidianTimestampNotes
+- '[[juliang22|Julian Grunauer]]'
 categories: []
 description: This plugin allows side-by-side notetaking with videos. Annotate your
   notes with timestamps to directly control the video and remember where each note

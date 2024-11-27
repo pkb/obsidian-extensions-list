@@ -2,13 +2,11 @@
 aliases:
 - Bulk Exporter
 author:
-- symunona
-author_page: https://github.com/symunona
+- '[[symunona|symunona]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Use Dataview queries to export a set of notes with assets
 downloads: 4880
-funding_page: https://bmc.link/symunona
 mobile: false
 number: 1020
 title: Bulk Exporter

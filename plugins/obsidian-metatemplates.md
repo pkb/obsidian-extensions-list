@@ -2,8 +2,7 @@
 aliases:
 - metatemplates
 author:
-- avirut
-author_page: https://github.com/avirut
+- '[[avirut|avirut]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Generate notes from templates using YAML front-matter

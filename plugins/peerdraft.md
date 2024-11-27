@@ -2,8 +2,7 @@
 aliases:
 - Peerdraft
 author:
-- Peerdraft
-author_page: https://www.peerdraft.app
+- '[[peerdraft|Peerdraft]]'
 categories: []
 description: Real-time, instant collaboration on Obsidian documents or folders. Whether
   for quick note-taking or building a team knowledge base, Peerdaft syncs with your

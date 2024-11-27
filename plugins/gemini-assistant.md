@@ -2,13 +2,11 @@
 aliases:
 - Gemini Assistant
 author:
-- eatgrass
-author_page: https://github.com/eatgrass
+- '[[eatgrass|eatgrass]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Your Gemini AI assistant
 downloads: 6297
-funding_page: https://www.buymeacoffee.com/eatgrass
 mobile: true
 number: 1397
 title: Gemini Assistant

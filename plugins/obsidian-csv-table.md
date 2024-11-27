@@ -2,8 +2,7 @@
 aliases:
 - CSV Table
 author:
-- Adam Coddington <me@adamcoddington.net>
-author_page: https://coddingtonbear.net/
+- '[[coddingtonbear|Adam Coddington <me@adamcoddington.net>]]'
 categories: []
 description: Render CSV data as a table within your notes.
 downloads: 20892

@@ -2,8 +2,7 @@
 aliases:
 - Cron
 author:
-- Callum Loh
-author_page: https://github.com/cdloh
+- '[[cdloh|Callum Loh]]'
 categories: []
 description: Simple CRON / schedular plugin to regularly run user scripts or Obsidian
   commands.

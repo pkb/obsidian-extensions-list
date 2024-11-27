@@ -2,8 +2,7 @@
 aliases:
 - VLC Bridge
 author:
-- zuluwi
-author_page: https://github.com/zuluwi
+- '[[zuluwi|zuluwi]]'
 categories: []
 description: Take video/movie notes with timestamp links and snapshots from VLC Player.
 downloads: 1330

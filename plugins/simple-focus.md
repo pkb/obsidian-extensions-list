@@ -2,8 +2,7 @@
 aliases:
 - Simple Focus
 author:
-- linqing
-author_page: https://github.com/linqing24
+- '[[linqing24|linqing]]'
 categories: []
 description: Allows you to focus on a specific file or folder
 downloads: 54

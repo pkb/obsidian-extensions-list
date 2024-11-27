@@ -2,13 +2,11 @@
 aliases:
 - Digital Garden
 author:
-- Ole Eskild Steensen
-author_page: https://dg-docs.ole.dev/
+- '[[oleeskild|Ole Eskild Steensen]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to the web for others to enjoy. For free.
 downloads: 40957
-funding_page: https://ko-fi.com/oleeskild
 mobile: true
 number: 436
 title: Digital Garden

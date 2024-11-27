@@ -2,8 +2,7 @@
 aliases:
 - Contacts
 author:
-- Vadim Beskrovnov
-author_page: https://github.com/vbeskrovnov
+- '[[vbeskrovnov|Vadim Beskrovnov]]'
 categories: []
 description: Allows you to manage and organize your contacts.
 downloads: 6699

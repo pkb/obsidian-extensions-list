@@ -2,8 +2,7 @@
 aliases:
 - Masking Type
 author:
-- Telehakke
-author_page: https://github.com/Telehakke
+- '[[Telehakke|Telehakke]]'
 categories: []
 description: Mask bold, italic, and highlight
 downloads: 63

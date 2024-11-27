@@ -2,12 +2,10 @@
 aliases:
 - Click Clack
 author:
-- Acylation
-author_page: https://github.com/Acylation
+- '[[Acylation|Acylation]]'
 categories: []
 description: Simulates typewriter / mechanical keyboard sounds.
 downloads: 3690
-funding_page: https://ko-fi.com/Acylation
 mobile: true
 number: 1573
 title: Click Clack

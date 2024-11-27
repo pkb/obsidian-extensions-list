@@ -2,8 +2,7 @@
 aliases:
 - Readwise Official
 author:
-- Readwise
-author_page: https://readwise.io
+- '[[readwiseio|Readwise]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official Readwise <-> Obsidian integration

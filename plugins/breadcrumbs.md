@@ -2,12 +2,10 @@
 aliases:
 - Breadcrumbs
 author:
-- SkepticMystic
-author_page: https://github.com/SkepticMystic/breadcrumbs
+- '[[SkepticMystic|SkepticMystic]]'
 categories: []
 description: Add structured hierarchies to your notes
 downloads: 121335
-funding_page: https://github.com/SkepticMystic/breadcrumbs#donations
 mobile: true
 number: 224
 title: Breadcrumbs

@@ -2,8 +2,7 @@
 aliases:
 - Target Word Count
 author:
-- TwoFive Labs
-author_page: https://github.com/twofive-labs
+- '[[twofive-labs|TwoFive Labs]]'
 categories: []
 description: Disable editing until you've added a target number of words.
 downloads: 632

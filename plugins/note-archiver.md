@@ -2,8 +2,7 @@
 aliases:
 - Note archiver
 author:
-- thenomadlad
-author_page: https://github.com/thenomadlad/
+- '[[thenomadlad|thenomadlad]]'
 categories: []
 description: Tools to archive your notes in another folder
 downloads: 4568

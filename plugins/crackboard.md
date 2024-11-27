@@ -2,8 +2,7 @@
 aliases:
 - Crackboard
 author:
-- Franklin
-author_page: https://github.com/bruce-pain
+- '[[bruce-pain|Franklin]]'
 categories: []
 description: tpot leaderboard productivity tracker
 downloads: 46

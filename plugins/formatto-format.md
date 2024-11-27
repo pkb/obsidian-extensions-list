@@ -2,8 +2,7 @@
 aliases:
 - Formatto
 author:
-- Eva
-author_page: https://github.com/evasquare
+- '[[evasquare|Eva]]'
 categories: []
 description: Simple, fast, and easy-to-use Markdown formatter.
 downloads: 4812

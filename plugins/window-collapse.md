@@ -2,8 +2,7 @@
 aliases:
 - Window Collapse
 author:
-- Guilherme Quental
-author_page: https://obsidian.md/about
+- '[[gquental|Guilherme Quental]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: This plugins provides an easy way to collapse the sidebars without going

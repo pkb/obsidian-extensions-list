@@ -2,8 +2,7 @@
 aliases:
 - Tagged Documents Viewer
 author:
-- Marcus Geduld
-author_page: https://github.com/mgeduld/obsidian-tagged-documents-viewer
+- '[[mgeduld|Marcus Geduld]]'
 categories: []
 description: Opens a modal with scrollable content of all documents that contain a
   specific tag or tags.

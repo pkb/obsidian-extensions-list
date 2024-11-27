@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Attendance
 author:
-- Tiim
-author_page: https://tiim.ch/
+- '[[Tiim|Tiim]]'
 categories: []
 description: This plugin helps you track attendance.
 downloads: 3841

@@ -2,13 +2,11 @@
 aliases:
 - ZettelGPT
 author:
-- Overraddit
-author_page: https://github.com/OverRaddit
+- '[[OverRaddit|Overraddit]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: 'ZettelGPT: Turbocharge Your Note-taking with AI Assistance'
 downloads: 4373
-funding_page: https://www.buymeacoffee.com/Overraddit
 mobile: true
 number: 1029
 title: ZettelGPT

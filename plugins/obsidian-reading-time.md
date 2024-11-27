@@ -2,8 +2,7 @@
 aliases:
 - Reading Time
 author:
-- avr
-author_page: https://github.com/avr
+- '[[avr|avr]]'
 categories: []
 description: Add the current note's reading time to Obsidian's status bar.
 downloads: 71507

@@ -2,8 +2,7 @@
 aliases:
 - Battery Indicator
 author:
-- Kacper Darowski
-author_page: https://opisek.net/
+- '[[Opisek|Kacper Darowski]]'
 categories: []
 description: Displays current battery level in the status bar.
 downloads: 261

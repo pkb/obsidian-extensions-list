@@ -2,8 +2,7 @@
 aliases:
 - Crypto Lookup
 author:
-- Andrew Lombardi
-author_page: https://mysticcoders.com
+- '[[kinabalu|Andrew Lombardi]]'
 categories: []
 description: A plugin for Obsidian which uses the Cryptonator API to pull back prices
   for crypto in a target currency

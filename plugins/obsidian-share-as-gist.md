@@ -2,8 +2,7 @@
 aliases:
 - Share as Gist
 author:
-- Tim Rogers
-author_page: https://github.com/timrogers
+- '[[timrogers|Tim Rogers]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares an Obsidian note as a GitHub.com gist

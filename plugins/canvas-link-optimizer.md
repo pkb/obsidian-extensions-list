@@ -2,8 +2,7 @@
 aliases:
 - Canvas Link Optimizer
 author:
-- khaelar
-author_page: https://github.com/khaelar
+- '[[khaelar|khaelar]]'
 categories: []
 description: Optimize canvas links by displaying a page thumbnail.
 downloads: 2626

@@ -2,14 +2,12 @@
 aliases:
 - Commander
 author:
-- jsmorabito & phibr0
-author_page: https://github.com/phibr0
+- '[[phibr0|jsmorabito & phibr0]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize your workspace by adding commands everywhere, create Macros
   and supercharge your mobile toolbar.
 downloads: 259692
-funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 568
 title: Commander

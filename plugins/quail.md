@@ -2,8 +2,7 @@
 aliases:
 - Quail
 author:
-- Lyric
-author_page: https://quail.ink
+- '[[lyricat|Lyric]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Save, publish, delivery notes via Quail.ink as newsletters and blogs.

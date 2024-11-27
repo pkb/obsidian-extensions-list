@@ -2,8 +2,7 @@
 aliases:
 - Send to Ghost
 author:
-- Southpaw1496
-author_page: https://southpaw1496.me
+- '[[southpaw1496|Southpaw1496]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Send and publish notes to your Ghost blog with a single click

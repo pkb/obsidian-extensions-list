@@ -2,8 +2,7 @@
 aliases:
 - File Cooker
 author:
-- iuian
-author_page: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4MjQ1ODIzMA==&scene=124#wechat_redirect
+- '[[ivaneye|iuian]]'
 categories: []
 description: Deal multi notes from Search results、current file、Dataview query string...
 downloads: 9565

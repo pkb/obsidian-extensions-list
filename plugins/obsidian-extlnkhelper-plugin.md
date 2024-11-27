@@ -2,8 +2,7 @@
 aliases:
 - External Link Helper
 author:
-- Jhonghee Park
-author_page: https://github.com/nakalsio/obsidian-danpung
+- '[[nakalsio|Jhonghee Park]]'
 categories: []
 description: This is a plugin for making entering external links easier.
 downloads: 3959

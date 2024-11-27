@@ -2,8 +2,7 @@
 aliases:
 - New Bullet With Time
 author:
-- Boninall
-author_page: https://github.com/quorafind
+- '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin allows you to auto add current time to new bullet line.
 downloads: 5022

@@ -2,8 +2,7 @@
 aliases:
 - Memos Sync
 author:
-- RyoJerryYu
-author_page: https://github.com/RyoJerryYu
+- '[[RyoJerryYu|RyoJerryYu]]'
 categories: []
 description: Syncing memos from a [Memos](https://github.com/usememos/memos) server
   to your daily note. Fully compatible with official Daily Notes plugin, Calendar

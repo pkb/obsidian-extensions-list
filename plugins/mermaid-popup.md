@@ -2,8 +2,7 @@
 aliases:
 - Diagram Popup
 author:
-- ChenPengyuan
-author_page: https://github.com/gitcpy
+- '[[gitcpy|ChenPengyuan]]'
 categories: []
 description: Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable
   and zoomable popup

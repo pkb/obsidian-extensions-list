@@ -2,8 +2,7 @@
 aliases:
 - Waypoint
 author:
-- Idrees Hassan
-author_page: https://idreesinc.com
+- '[[IdreesInc|Idrees Hassan]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Easily generate dynamic content maps in your folder notes using waypoints.

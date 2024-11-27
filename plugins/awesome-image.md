@@ -2,8 +2,7 @@
 aliases:
 - Awesome Image
 author:
-- AwesomeDog
-author_page: https://github.com/AwesomeDog
+- '[[AwesomeDog|AwesomeDog]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: One-stop solution for image management.

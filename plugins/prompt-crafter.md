@@ -2,8 +2,7 @@
 aliases:
 - PromptCrafter
 author:
-- Fabrice Hong
-author_page: https://github.com/fabricehong
+- '[[fabricehong|Fabrice Hong]]'
 categories: []
 description: Create reusable, modular prompts.
 downloads: 91

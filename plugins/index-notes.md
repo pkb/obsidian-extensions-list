@@ -2,8 +2,7 @@
 aliases:
 - Index Notes
 author:
-- Alejandro Daniel Noel
-author_page: https://adanielnoel.com
+- '[[adanielnoel|Alejandro Daniel Noel]]'
 categories: []
 description: Keep your notes indexed based on their (hierarchical) tags
 downloads: 759

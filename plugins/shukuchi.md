@@ -2,8 +2,7 @@
 aliases:
 - Shukuchi
 author:
-- tadashi-aikawa
-author_page: https://minerva.mamansoft.net/
+- '[[tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: Teleport to links (URL or internal link) and jump to their destinations.
 downloads: 3853

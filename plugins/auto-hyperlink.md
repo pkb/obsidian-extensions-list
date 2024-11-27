@@ -2,8 +2,7 @@
 aliases:
 - Auto Hyperlink
 author:
-- take6
-author_page: https://github.com/take6
+- '[[take6|take6]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Insert hyperlink according to user-defined rule

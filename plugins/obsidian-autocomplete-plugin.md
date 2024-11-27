@@ -2,8 +2,7 @@
 aliases:
 - Autocomplete
 author:
-- Yeboster
-author_page: https://github.com/Yeboster/
+- '[[Yeboster|Yeboster]]'
 categories: []
 description: This plugin provides a text autocomplete feature to enhance typing speed.
 downloads: 30777

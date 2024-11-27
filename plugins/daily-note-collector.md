@@ -2,8 +2,7 @@
 aliases:
 - Daily Note Collector
 author:
-- Adar Butel
-author_page: https://adar.la
+- '[[LA|Adar Butel]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Adds links to new notes to your daily note.

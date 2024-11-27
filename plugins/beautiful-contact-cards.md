@@ -2,8 +2,7 @@
 aliases:
 - Beautiful Contact Cards
 author:
-- Seth Tenembaum
-author_page: ''
+- '[[seth10|Seth Tenembaum]]'
 categories: []
 description: Renders "contact" code blocks with tappable links for phone, social media,
   etc.

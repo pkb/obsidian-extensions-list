@@ -2,8 +2,7 @@
 aliases:
 - Card View Mode
 author:
-- PADAone
-author_page: https://github.com/yo-goto
+- '[[yo-goto|PADAone]]'
 categories: []
 description: Enable to view your notes as cards.
 downloads: 15720

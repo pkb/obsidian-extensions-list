@@ -2,8 +2,7 @@
 aliases:
 - Ollama
 author:
-- hinterdupfinger
-author_page: https://github.com/hinterdupfinger
+- '[[hinterdupfinger|hinterdupfinger]]'
 categories: []
 description: This is a plugin for Obsidian that enables the usage of Ollama within
   your notes.

@@ -2,8 +2,7 @@
 aliases:
 - Sequence Hotkeys
 author:
-- Ruan Moolman
-author_page: https://github.com/moolmanruan
+- '[[moolmanruan|Ruan Moolman]]'
 categories: []
 description: This plugin allows you to set hotkeys with key sequences instead of a
   single chord.

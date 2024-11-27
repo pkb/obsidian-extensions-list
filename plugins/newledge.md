@@ -2,8 +2,7 @@
 aliases:
 - 新枝Newledge
 author:
-- 新枝Newledge
-author_page: https://www.xinzhi.zone
+- '[[DepartingAgain|新枝Newledge]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Newledge data.

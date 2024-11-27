@@ -2,8 +2,7 @@
 aliases:
 - URL Namer
 author:
-- zfei
-author_page: https://github.com/zfei/obsidian-url-namer
+- '[[zfei|zfei]]'
 categories: []
 description: This plugin retrieves the HTML titles to name the raw URL links.
 downloads: 5721

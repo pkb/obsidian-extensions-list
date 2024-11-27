@@ -2,8 +2,7 @@
 aliases:
 - GitHub Sync
 author:
-- Kevin Chin
-author_page: https://kevin.gd/
+- '[[kevinmkchin|Kevin Chin]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync vault to personal GitHub.

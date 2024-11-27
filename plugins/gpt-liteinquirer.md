@@ -2,14 +2,12 @@
 aliases:
 - GPT-LiteInquirer
 author:
-- ittuann
-author_page: https://github.com/ittuann
+- '[[ittuann|ittuann]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Experience OpenAI ChatGPT assistance directly within Obsidian, drafting
   content without interrupting your creative flow.
 downloads: 4909
-funding_page: ''
 mobile: true
 number: 905
 title: GPT-LiteInquirer

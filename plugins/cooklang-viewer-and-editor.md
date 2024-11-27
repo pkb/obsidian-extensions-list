@@ -2,8 +2,7 @@
 aliases:
 - Cooklang
 author:
-- Roger Veciana i Rovira
-author_page: https://geoexamples.com
+- '[[rveciana|Roger Veciana i Rovira]]'
 categories: []
 description: Display and edit recipes written in the Cooklang format.
 downloads: 1738

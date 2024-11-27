@@ -2,14 +2,12 @@
 aliases:
 - Dataview Publisher
 author:
-- UD
-author_page: https://notes.udus.dev
+- '[[udus122|UD]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Output markdown from your Dataview queries and keep them up to date.
   You can also publish them.
 downloads: 900
-funding_page: https://www.buymeacoffee.com/udus
 mobile: true
 number: 1754
 title: Dataview Publisher

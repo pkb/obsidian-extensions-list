@@ -2,8 +2,7 @@
 aliases:
 - Aloud
 author:
-- Adrian Lyjak
-author_page: https://github.com/adrianlyjak
+- '[[adrianlyjak|Adrian Lyjak]]'
 categories: []
 description: Highlight and speak text from your notes. Converts text to speech in
   real-time using lifelike voices from OpenAI.

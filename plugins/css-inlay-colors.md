@@ -2,14 +2,10 @@
 aliases:
 - CSS Inlay Colors
 author:
-- Benji Grant
-author_page: https://bengrant.dev
+- '[[GRA0007|Benji Grant]]'
 categories: []
 description: Show inline color hints for CSS colors
 downloads: 583
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/GRA0007
-  Ko-fi: https://ko-fi.com/benpai
 mobile: true
 number: 1844
 title: CSS Inlay Colors

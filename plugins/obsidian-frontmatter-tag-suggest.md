@@ -2,8 +2,7 @@
 aliases:
 - Frontmatter Tag Suggest
 author:
-- Jonathan Miller
-author_page: https://jmill.dev
+- '[[jmilldotdev|Jonathan Miller]]'
 categories: []
 description: Autocompletes tags in the frontmatter tags field
 downloads: 22016

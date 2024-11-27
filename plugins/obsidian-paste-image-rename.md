@@ -2,8 +2,7 @@
 aliases:
 - Paste image rename
 author:
-- Reorx
-author_page: https://github.com/reorx
+- '[[reorx|Reorx]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Rename pasted images and all the other attchments added to the vault

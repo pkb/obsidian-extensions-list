@@ -2,8 +2,7 @@
 aliases:
 - Mind Map
 author:
-- lynchjames
-author_page: https://github.com/lynchjames
+- '[[authors/lynchjames|lynchjames]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: A plugin to preview notes as Markmap mind maps

@@ -2,8 +2,7 @@
 aliases:
 - Simple RSS
 author:
-- Monnierant
-author_page: https://github.com/monnierant
+- '[[monnierant|Monnierant]]'
 categories: []
 description: Collect RSS articles into notes.
 downloads: 13545

@@ -2,13 +2,11 @@
 aliases:
 - Omg.publish
 author:
-- May Meow
-author_page: https://maymeow.com/
+- '[[MayMeow|May Meow]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish selected text to omg.lol service.
 downloads: 2008
-funding_page: https://ko-fi.com/D1D5DMOTA
 mobile: true
 number: 1285
 title: Omg.publish

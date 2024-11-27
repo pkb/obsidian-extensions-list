@@ -2,8 +2,7 @@
 aliases:
 - Image Uploader
 author:
-- Creling
-author_page: https://github.com/Creling
+- '[[Creling|Creling]]'
 categories: []
 description: This plugin uploads the image in your clipboard to any image hosting
   automatically when pasting.

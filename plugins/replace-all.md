@@ -2,8 +2,7 @@
 aliases:
 - Replace All
 author:
-- patrickchiang
-author_page: https://github.com/patrickchiang
+- '[[patrickchiang|patrickchiang]]'
 categories: []
 description: Replace all in vault.
 downloads: 281

@@ -2,8 +2,7 @@
 aliases:
 - Notification Controller
 author:
-- Juan Miguel
-author_page: https://github.com/juan-miii
+- '[[juan-miii|Juan Miguel]]'
 categories: []
 description: Manages notifications at startup.
 downloads: 1225

@@ -2,8 +2,7 @@
 aliases:
 - Obsidian Stylist
 author:
-- Mikhail Menshikov <ainop@ya.ru>
-author_page: https://ixth.net/
+- '[[ixth|Mikhail Menshikov <ainop@ya.ru>]]'
 categories: []
 description: Obsidian plugin that allows to add classes and styles on markdown blocks
 downloads: 4802

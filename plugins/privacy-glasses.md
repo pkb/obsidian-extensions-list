@@ -2,8 +2,7 @@
 aliases:
 - Privacy Glasses
 author:
-- Jill Alberts
-author_page: https://github.com/jillalberts/privacy-glasses
+- '[[jillalberts|Jill Alberts]]'
 categories: []
 description: Provides a button and command to obfuscate onscreen text for better privacy
   in public settings.

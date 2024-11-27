@@ -2,14 +2,12 @@
 aliases:
 - DB Folder
 author:
-- RafaelGB
-author_page: https://github.com/RafaelGB/obsidian-bd-folder
+- '[[RafaelGB|RafaelGB]]'
 categories:
 - '[[categories/Data management|Data management]]'
 description: Folder with the capability to store and retrieve data from a folder like
   database
 downloads: 288506
-funding_page: https://www.buymeacoffee.com/5tsytn22v9Z
 mobile: true
 number: 532
 title: DB Folder

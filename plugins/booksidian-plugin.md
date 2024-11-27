@@ -2,8 +2,7 @@
 aliases:
 - Booksidian
 author:
-- Micha Brugger and Zachary Wright
-author_page: https://github.com/MichaBrugger
+- '[[MichaBrugger|Micha Brugger and Zachary Wright]]'
 categories: []
 description: Connect Obsidian to your Goodreads.
 downloads: 10496

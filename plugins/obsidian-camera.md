@@ -2,8 +2,7 @@
 aliases:
 - Camera
 author:
-- Aldrin Jenson
-author_page: https://aldrinjenson.github.io/
+- '[[aldrinjenson|Aldrin Jenson]]'
 categories: []
 description: Camera plugin for Obsidian
 downloads: 10214

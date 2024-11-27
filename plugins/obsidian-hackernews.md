@@ -2,8 +2,7 @@
 aliases:
 - HackerNews
 author:
-- Arpit Bhayani
-author_page: https://arpitbhayani.me
+- '[[arpitbbhayani|Arpit Bhayani]]'
 categories: []
 description: Periodically fetches and displays top stories from HackerNews.
 downloads: 5725

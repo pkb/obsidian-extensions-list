@@ -2,8 +2,7 @@
 aliases:
 - Magic Mic
 author:
-- Drew McDonald
-author_page: https://github.com/drewmcdonald
+- '[[drewmcdonald|Drew McDonald]]'
 categories: []
 description: Record, transcribe, and summarize audio directly into your vault with
   custom assistants.

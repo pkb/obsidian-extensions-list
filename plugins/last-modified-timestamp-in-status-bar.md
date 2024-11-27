@@ -2,8 +2,7 @@
 aliases:
 - File Creation and Last Modified Timestamps in Status Bar
 author:
-- Yustynn
-author_page: https://github.com/Yustynn
+- '[[Yustynn|Yustynn]]'
 categories: []
 description: Dynamic display of file modification and creation timestamps in the status
   bar.

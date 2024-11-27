@@ -2,8 +2,7 @@
 aliases:
 - Auto Template Trigger
 author:
-- Numeroflip
-author_page: https://github.com/numeroflip
+- '[[numeroflip|Numeroflip]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Automatically apply or prompt for a template when creating a note. Supports

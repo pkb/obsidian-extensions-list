@@ -2,8 +2,7 @@
 aliases:
 - Cursor Jump
 author:
-- Sangwon Jung
-author_page: https://github.com/LifeFi
+- '[[LifeFi|Sangwon Jung]]'
 categories: []
 description: Quickly jump between list items and headings throughout same or upper/lower
   level

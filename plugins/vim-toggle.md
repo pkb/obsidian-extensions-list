@@ -2,13 +2,11 @@
 aliases:
 - Vim Toggle
 author:
-- Conner Ohnesorge
-author_page: https://connerohnesorge.mixa.site/
+- '[[conneroisu|Conner Ohnesorge]]'
 categories: []
 description: A plugin for Obsidian that enables the toggling vim mode to on and off
   inside of the editor.
 downloads: 4286
-funding_page: https://ko-fi.com/connero
 mobile: true
 number: 877
 title: Vim Toggle

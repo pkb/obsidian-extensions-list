@@ -2,8 +2,7 @@
 aliases:
 - Taskbone
 author:
-- Dominik Schlund
-author_page: https://github.com/schlundd
+- '[[schlundd|Dominik Schlund]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'

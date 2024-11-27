@@ -2,12 +2,10 @@
 aliases:
 - Auto Embed
 author:
-- GnoxNahte
-author_page: https://gnoxnahte.com
+- '[[GnoxNahte|GnoxNahte]]'
 categories: []
 description: Helps to embed links using markdown instead of iframe
 downloads: 4406
-funding_page: https://ko-fi.com/gnoxnahtedev
 mobile: true
 number: 1561
 title: Auto Embed

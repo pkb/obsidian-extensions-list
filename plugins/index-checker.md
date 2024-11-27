@@ -2,8 +2,7 @@
 aliases:
 - Index Checker
 author:
-- Pavlo Deshko
-author_page: https://github.com/pavloDeshko/
+- '[[pavloDeshko|Pavlo Deshko]]'
 categories: []
 description: Make sure your index "MOC" files (notes or Canvas) contain all links
   they should contain.

@@ -2,9 +2,8 @@
 aliases:
 - 2Hop Links Plus
 author:
-- Tokuhiro Matsuno
-- L7Cy
-author_page: https://github.com/L7Cy
+- '[[authors/Tokuhiro Matsuno|Tokuhiro Matsuno]]'
+- '[[L7Cy|L7Cy]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Related links up to 2 hops away are displayed in a card format, allowing

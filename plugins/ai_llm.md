@@ -2,14 +2,12 @@
 aliases:
 - AI LLM
 author:
-- Sparky4567
-author_page: https://artefaktas.eu
+- '[[Sparky4567|Sparky4567]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Integrate local machine learning (OLLAMA) functionality into your notes,
   enhancing their capabilities
 downloads: 3278
-funding_page: https://ko-fi.com/artefaktas
 mobile: true
 number: 1548
 title: AI LLM

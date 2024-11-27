@@ -2,12 +2,10 @@
 aliases:
 - Checkbox Reorder
 author:
-- Ivan Knöfler
-author_page: https://github.com/Erl-koenig
+- '[[Erl-koenig|Ivan Knöfler]]'
 categories: []
 description: Reorder completed checkboxes to the end of the according list.
 downloads: 5223
-funding_page: https://www.buymeacoffee.com/erlkoenig
 mobile: true
 number: 1098
 title: Checkbox Reorder

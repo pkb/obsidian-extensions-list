@@ -2,12 +2,10 @@
 aliases:
 - TinyChart
 author:
-- Alin Coop
-author_page: https://www.linkedin.com/in/alincoop/
+- '[[alincoop|Alin Coop]]'
 categories: []
 description: Dead simple ASCII charts
 downloads: 899
-funding_page: https://buymeacoffee.com/alincoop
 mobile: true
 number: 1634
 title: TinyChart

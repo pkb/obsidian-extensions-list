@@ -2,12 +2,10 @@
 aliases:
 - Local LLM Helper
 author:
-- Mani Mohan
-author_page: https:/warpcast.com/mani
+- '[[manimohans|Mani Mohan]]'
 categories: []
 description: Use your own secure local LLM server to work with your text!
 downloads: 1656
-funding_page: https://buymeacoffee.com/manee
 mobile: true
 number: 1631
 title: Local LLM Helper

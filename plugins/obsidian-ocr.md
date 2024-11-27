@@ -2,12 +2,10 @@
 aliases:
 - Obsidian OCR
 author:
-- Jonas Mohr
-author_page: https://github.com/MohrJonas/obsidian-ocr
+- '[[MohrJonas|Jonas Mohr]]'
 categories: []
 description: Add ocr capabilities to obsidian
 downloads: 15176
-funding_page: https://ko-fi.com/mohrjonas
 mobile: false
 number: 640
 title: Obsidian OCR

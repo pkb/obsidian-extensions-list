@@ -2,8 +2,7 @@
 aliases:
 - Heatmap Calendar
 author:
-- Richard Slettevoll
-author_page: https://richard.sl
+- '[[Richardsl|Richard Slettevoll]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Activity Year Overview for DataviewJS, Github style – Track Goals, Progress,

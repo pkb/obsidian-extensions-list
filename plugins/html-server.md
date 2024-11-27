@@ -2,15 +2,11 @@
 aliases:
 - Html Server
 author:
-- Pr0dt0s
-author_page: https://github.com/Pr0dt0s
+- '[[Pr0dt0s|Pr0dt0s]]'
 categories: []
 description: This plugin lets you spin up a local http server to access your vault
   via a web browser from any device in your network.
 downloads: 6967
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/pr0dt0s
-  Paypal: https://www.paypal.com/donate/?business=JGQK6YQBWZJ4A&currency_code=USD
 mobile: false
 number: 973
 title: Html Server

@@ -2,8 +2,7 @@
 aliases:
 - Link indexer
 author:
-- Yuliya Bagriy
-author_page: https://github.com/aviskase
+- '[[aviskase|Yuliya Bagriy]]'
 categories: []
 description: Generate index notes with links based on various conditions
 downloads: 6817

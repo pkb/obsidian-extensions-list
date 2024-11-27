@@ -2,8 +2,7 @@
 aliases:
 - ToggleList
 author:
-- Lite C
-author_page: https://github.com/thingnotok/obsidian-toggle-list/
+- '[[thingnotok|Lite C]]'
 categories: []
 description: Toggle the list/checklist with custom states/prefixes and suffixes
 downloads: 14462

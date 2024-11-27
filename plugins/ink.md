@@ -2,8 +2,7 @@
 aliases:
 - Ink
 author:
-- Dale de Silva
-author_page: https://designdebt.club
+- '[[daledesilva|Dale de Silva]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Hand write or draw directly between paragraphs in your notes using a
@@ -11,7 +10,6 @@ description: Hand write or draw directly between paragraphs in your notes using 
   or even math equations and scientific notation. Runs on the tldraw framework and
   drawing provides an infinite canvas.
 downloads: 37272
-funding_page: https://ko-fi.com/daledesilva
 mobile: true
 number: 1592
 title: Ink

@@ -2,8 +2,7 @@
 aliases:
 - Heading Shifter
 author:
-- kasahala
-author_page: https://github.com/k4a-l
+- '[[k4a-l|kasahala]]'
 categories: []
 description: Easily Shift and Change markdown headings.
 downloads: 15833

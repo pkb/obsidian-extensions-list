@@ -2,13 +2,11 @@
 aliases:
 - Open files with commands
 author:
-- Lost Paul
-author_page: https://github.com/LostPaul
+- '[[LostPaul|Lost Paul]]'
 categories: []
 description: Create commands that only open one file at the time and that can be used
   with the commander plugin.
 downloads: 5121
-funding_page: https://ko-fi.com/paul305844
 mobile: true
 number: 805
 title: Open files with commands

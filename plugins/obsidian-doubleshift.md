@@ -2,8 +2,7 @@
 aliases:
 - Doubleshift
 author:
-- Qwyntex
-author_page: https://github.com/Qwyntex
+- '[[Qwyntex|Qwyntex]]'
 categories: []
 description: Open the command palette by pressing Shift (or any other key) twice like
   in IntelliJ and create your own shortcuts

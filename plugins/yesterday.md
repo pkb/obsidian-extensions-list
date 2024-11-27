@@ -2,8 +2,7 @@
 aliases:
 - Yesterday
 author:
-- Dominik Mayer
-author_page: https://www.yesterday.md
+- '[[dominikmayer|Dominik Mayer]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Transform your notes into a visually stunning diary, integrating dialogs,

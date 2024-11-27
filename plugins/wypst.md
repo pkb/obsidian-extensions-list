@@ -2,12 +2,10 @@
 aliases:
 - Wypst
 author:
-- 0xpapercut
-author_page: https://0xpapercut.github.io
+- '[[0xpapercut|0xpapercut]]'
 categories: []
 description: Typst math typesetting for Obsidian.
 downloads: 1934
-funding_page: https://0xpapercut.github.io/funding
 mobile: true
 number: 1423
 title: Wypst

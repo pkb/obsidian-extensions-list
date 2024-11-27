@@ -2,12 +2,10 @@
 aliases:
 - Rendered Block Link Suggestions
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Upgrade Obsidian's built-in link suggestions with block markdown rendering.
 downloads: 2564
-funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1311
 title: Rendered Block Link Suggestions

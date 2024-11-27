@@ -2,12 +2,10 @@
 aliases:
 - Graph Link Types
 author:
-- natefrisch01
-author_page: https://natesnote.com
+- '[[natefrisch01|natefrisch01]]'
 categories: []
 description: Link types for graph view.
 downloads: 4335
-funding_page: https://www.buymeacoffee.com/natefrisch
 mobile: true
 number: 1444
 title: Graph Link Types

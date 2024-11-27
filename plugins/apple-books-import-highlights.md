@@ -2,8 +2,7 @@
 aliases:
 - Apple Books - Import Highlights
 author:
-- bandantonio
-author_page: https://github.com/bandantonio
+- '[[bandantonio|bandantonio]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'

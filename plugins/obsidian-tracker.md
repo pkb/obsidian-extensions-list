@@ -2,8 +2,7 @@
 aliases:
 - Tracker
 author:
-- pyrochlore
-author_page: ''
+- '[[pyrochlore|pyrochlore]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: A plugin tracks occurrences and numbers in your notes

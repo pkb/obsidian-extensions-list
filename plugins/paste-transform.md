@@ -2,8 +2,7 @@
 aliases:
 - Paste transform
 author:
-- Timofey Koolin
-author_page: https://github.com/rekby
+- '[[rekby|Timofey Koolin]]'
 categories: []
 description: Handle pasted text and and transform it by regexp rules.
 downloads: 1234

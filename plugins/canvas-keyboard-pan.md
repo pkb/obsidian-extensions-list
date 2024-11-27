@@ -2,8 +2,7 @@
 aliases:
 - Canvas Keyboard Pan
 author:
-- Nathonius
-author_page: https://nathan-smith.org/
+- '[[nathonius|Nathonius]]'
 categories: []
 description: Pan around your canvas using the keyboard
 downloads: 961

@@ -2,15 +2,10 @@
 aliases:
 - Advanced Tables
 author:
-- Tony Grosinger
-author_page: https://grosinger.net
+- '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: Improved table navigation, formatting, manipulation, and formulas
 downloads: 1912079
-funding_page:
-  Buy me a Coffee: https://buymeacoffee.com/tgrosinger
-  Github Sponsor: https://github.com/sponsors/tgrosinger
-  Paypal: https://paypal.me/tgrosinger
 mobile: true
 number: 5
 title: Advanced Tables

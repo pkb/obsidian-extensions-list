@@ -2,8 +2,7 @@
 aliases:
 - Sets
 author:
-- Gabriele Cannata
-author_page: https://github.com/Canna71
+- '[[Canna71|Gabriele Cannata]]'
 categories: []
 description: Create, edit and search sets of notes like Notion or AnyType DBs
 downloads: 7309

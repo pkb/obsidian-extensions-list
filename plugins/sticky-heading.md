@@ -2,8 +2,7 @@
 aliases:
 - Sticky Headings
 author:
-- Shen Shen
-author_page: https://github.com/imshenshen
+- '[[imshenshen|Shen Shen]]'
 categories: []
 description: Sticky Headings and Shows the heading level
 downloads: 2443

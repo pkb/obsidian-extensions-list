@@ -2,8 +2,7 @@
 aliases:
 - Banners
 author:
-- Noatpad
-author_page: https://github.com/noatpad/obsidian-banners
+- '[[noatpad|Noatpad]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add banner images to your notes!

@@ -2,8 +2,7 @@
 aliases:
 - Convert url to preview (iframe)
 author:
-- Hachez Floran
-author_page: https://github.com/FHachez
+- '[[FHachez|Hachez Floran]]'
 categories: []
 description: Convert an url (ex, youtube) into an iframe (preview)
 downloads: 76545

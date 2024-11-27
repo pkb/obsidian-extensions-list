@@ -2,12 +2,10 @@
 aliases:
 - Character Insertion
 author:
-- TakamiChie
-author_page: https://github.com/TakamiChie
+- '[[TakamiChie|TakamiChie]]'
 categories: []
 description: Plugin to insert a specified symbol under the cursor
 downloads: 3578
-funding_page: https://www.buymeacoffee.com/TakamiChie
 mobile: true
 number: 864
 title: Character Insertion

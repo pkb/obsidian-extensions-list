@@ -2,8 +2,7 @@
 aliases:
 - Stashpad Docs
 author:
-- Stashpad
-author_page: https://stashpad.com
+- '[[stashpad|Stashpad]]'
 categories: []
 description: Create a Stashpad Doc from your notes.
 downloads: 158

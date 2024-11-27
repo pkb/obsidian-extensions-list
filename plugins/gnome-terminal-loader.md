@@ -2,8 +2,7 @@
 aliases:
 - Gnome Terminal Loader
 author:
-- David Carmichael
-author_page: https://github.com/CheeseCake87
+- '[[CheeseCake87|David Carmichael]]'
 categories: []
 description: Adds sidebar action icons to quickly open the Gnome Terminal or to have
   the Gnome Terminal run a Python module

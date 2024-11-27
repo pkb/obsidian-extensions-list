@@ -2,8 +2,7 @@
 aliases:
 - Code Block Labels
 author:
-- Sean Bowers
-author_page: https://github.com/stbowers
+- '[[stbowers|Sean Bowers]]'
 categories: []
 description: Adds labels to fenced code blocks
 downloads: 4507

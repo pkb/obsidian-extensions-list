@@ -2,8 +2,7 @@
 aliases:
 - mpv links
 author:
-- patsh90
-author_page: https://github.com/patsh90
+- '[[patsh90|patsh90]]'
 categories: []
 description: Add mpv links with timestamps
 downloads: 104

@@ -2,8 +2,7 @@
 aliases:
 - Remember File State
 author:
-- Ludovic Chabant
-author_page: https://ludovic.chabant.com
+- '[[ludovicchabant|Ludovic Chabant]]'
 categories: []
 description: Remembers cursor position, selection, scrolling, and more for each file
 downloads: 10803

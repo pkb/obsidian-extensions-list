@@ -2,8 +2,7 @@
 aliases:
 - Outline to task list
 author:
-- alexandrerbb
-author_page: https://github.com/alexandrerbb
+- '[[alexandrerbb|alexandrerbb]]'
 categories: []
 description: Convert a note's outline to a task list.
 downloads: 484

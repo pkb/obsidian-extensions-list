@@ -2,12 +2,10 @@
 aliases:
 - Image Magician
 author:
-- luxmargos
-author_page: https://github.com/luxmargos
+- '[[luxmargos|luxmargos]]'
 categories: []
 description: Supports viewing and exporting various image formats powerd by ImageMagick.
 downloads: 2170
-funding_page: https://www.buymeacoffee.com/luxmargos
 mobile: true
 number: 1440
 title: Image Magician

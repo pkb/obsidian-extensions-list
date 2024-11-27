@@ -2,8 +2,7 @@
 aliases:
 - Metafolders
 author:
-- Makary Sharoyan
-author_page: https://github.com/makary-s
+- '[[makary-s|Makary Sharoyan]]'
 categories: []
 description: Multidimensional note navigation
 downloads: 1558

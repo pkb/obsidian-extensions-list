@@ -2,8 +2,7 @@
 aliases:
 - Dynamic Highlights
 author:
-- NothingIsLost
-author_page: https://github.com/nothingislost
+- '[[nothingislost|NothingIsLost]]'
 categories: []
 description: Dynamically highlight text based on cursor selection or search query
   with full regex, mobile, and live preview support

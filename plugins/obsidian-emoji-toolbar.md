@@ -2,8 +2,7 @@
 aliases:
 - Emoji Toolbar
 author:
-- oliveryh
-author_page: https://github.com/oliveryh/obsidian-emoji-toolbar
+- '[[oliveryh|oliveryh]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Quickly search for and insert emojis into your notes.

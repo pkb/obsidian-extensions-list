@@ -2,8 +2,7 @@
 aliases:
 - LLM Summary
 author:
-- QSun
-author_page: https://www.qiaosun.me
+- '[[larksq|QSun]]'
 categories: []
 description: Quick note taking with the help of LLMs. LLMs help you to summarize /
   organize PDFs or existing notes.

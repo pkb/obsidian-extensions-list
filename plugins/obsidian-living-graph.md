@@ -2,8 +2,7 @@
 aliases:
 - Living Graph
 author:
-- Garrett
-author_page: https://github.com/geoffreysflaminglasersword
+- '[[geoffreysflaminglasersword|Garrett]]'
 categories: []
 description: A for-fun graph plugin
 downloads: 9995

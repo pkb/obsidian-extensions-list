@@ -2,8 +2,7 @@
 aliases:
 - Backtick text selector
 author:
-- ram@rachum.com
-author_page: https://github.com/cool-RR
+- '[[cool-RR|ram@rachum.com]]'
 categories: []
 description: Select text between backticks with keyboard shortcuts.
 downloads: 145

@@ -2,12 +2,10 @@
 aliases:
 - Shiki Highlighter
 author:
-- Moritz Jung
-author_page: https://www.moritzjung.dev
+- '[[mProjectsCode|Moritz Jung]]'
 categories: []
 description: Highlight code blocks with Shiki.
 downloads: 4071
-funding_page: https://github.com/sponsors/mProjectsCode
 mobile: true
 number: 1556
 title: Shiki Highlighter

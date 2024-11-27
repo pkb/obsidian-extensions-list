@@ -2,14 +2,10 @@
 aliases:
 - Tag Breakdown Generator
 author:
-- Hananoshika Yomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Breakdown nested tags into multiple parent tags
 downloads: 2519
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: false
 number: 1201
 title: Tag Breakdown Generator

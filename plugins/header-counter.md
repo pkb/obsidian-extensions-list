@@ -2,8 +2,7 @@
 aliases:
 - Header Counter
 author:
-- Nancy Lee
-author_page: https://github.com/nancyel
+- '[[nancyel|Nancy Lee]]'
 categories: []
 description: Count the number of headers in the current note
 downloads: 156

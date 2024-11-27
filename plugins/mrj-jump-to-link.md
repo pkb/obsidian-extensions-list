@@ -2,8 +2,7 @@
 aliases:
 - Jump to link
 author:
-- MrJackphil
-author_page: https://mrjackphil.com
+- '[[mrjackphil|MrJackphil]]'
 categories: []
 description: This plugin allows open a link in current document or regex based navigation
   in editor mode using hotkey

@@ -2,8 +2,7 @@
 aliases:
 - Leaflet
 author:
-- Jeremy Valentine
-author_page: https://github.com/javalent
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Interactive maps inside your notes
 downloads: 185923

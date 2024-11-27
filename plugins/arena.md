@@ -2,8 +2,7 @@
 aliases:
 - Are.na unofficial
 author:
-- 0xroko
-author_page: https://github.com/0xroko
+- '[[0xroko|0xroko]]'
 categories: []
 description: Allows you to save Are.na blocks as notes.
 downloads: 2140

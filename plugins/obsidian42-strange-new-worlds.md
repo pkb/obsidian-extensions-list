@@ -2,13 +2,10 @@
 aliases:
 - Strange New Worlds
 author:
-- TfTHacker
-author_page: https://twitter.com/TfTHacker
+- '[[TfTHacker|TfTHacker]]'
 categories: []
 description: Help see how your vault is interconnected with visual indicators.
 downloads: 73480
-funding_page:
-  Sponsor my work: https://tfthacker.com/sponsor
 mobile: true
 number: 667
 title: Strange New Worlds

@@ -2,8 +2,7 @@
 aliases:
 - obsidian echarts
 author:
-- windily-cloud && Cuman
-author_page: https://github.com/cumany
+- '[[cumany|windily-cloud && Cuman]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: obsidian echarts

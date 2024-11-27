@@ -2,8 +2,7 @@
 aliases:
 - Callout Manager
 author:
-- eth-p
-author_page: https://github.com/eth-p
+- '[[eth-p|eth-p]]'
 categories: []
 description: Easily create and customize callouts.
 downloads: 64057

@@ -2,12 +2,10 @@
 aliases:
 - Blur Mode
 author:
-- dangehub
-author_page: https://github.com/dangehub
+- '[[dangehub|dangehub]]'
 categories: []
 description: Blur anything you want to keep your privacy.
 downloads: 52
-funding_page: ''
 mobile: true
 number: 2030
 title: Blur Mode

@@ -2,8 +2,7 @@
 aliases:
 - Image To Lskypro
 author:
-- NekouTarou
-author_page: https://jiusia.top
+- '[[NekoTarou|NekouTarou]]'
 categories: []
 description: Auto upload images from clipboard to lskypro
 downloads: 3551

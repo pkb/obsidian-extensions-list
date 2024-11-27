@@ -2,15 +2,11 @@
 aliases:
 - Journal Folder
 author:
-- Charl Fourie
-author_page: https://github.com/chfourie
+- '[[chfourie|Charl Fourie]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Utilities for folder-based journaling
 downloads: 1226
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/chfourie
-  Github Sponsor: https://github.com/sponsors/chfourie
 mobile: true
 number: 1796
 title: Journal Folder

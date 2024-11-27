@@ -2,8 +2,7 @@
 aliases:
 - Mxmind Mindmap
 author:
-- mxmind
-author_page: https://mxmind.com
+- '[[webceoboy|mxmind]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Convert Markdown files to a mind map,mind map editor

@@ -2,14 +2,12 @@
 aliases:
 - Syncthing Integration
 author:
-- LBF38
-author_page: https://github.com/LBF38
+- '[[LBF38|LBF38]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 - '[[categories/Integration|Integration]]'
 description: Integrates most of Syncthing features into Obsidian.
 downloads: 17154
-funding_page: https://github.com/sponsors/LBF38
 mobile: true
 number: 1050
 title: Syncthing Integration

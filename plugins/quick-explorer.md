@@ -2,8 +2,7 @@
 aliases:
 - Quick Explorer
 author:
-- PJ Eby
-author_page: https://github.com/pjeby
+- '[[pjeby|PJ Eby]]'
 categories: []
 description: Perform file explorer operations (and see your current file path) from
   the title bar, using the mouse or keyboard

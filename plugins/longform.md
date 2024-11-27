@@ -2,12 +2,10 @@
 aliases:
 - Longform
 author:
-- Kevin Barrett
-author_page: https://kevinbarrett.org
+- '[[kevboh|Kevin Barrett]]'
 categories: []
 description: Write novels, screenplays, and other long projects in Obsidian.
 downloads: 78728
-funding_page: https://github.com/sponsors/kevboh
 mobile: true
 number: 243
 title: Longform

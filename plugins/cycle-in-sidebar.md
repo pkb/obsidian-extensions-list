@@ -2,8 +2,7 @@
 aliases:
 - Cycle In Sidebar
 author:
-- Houcheng
-author_page: https://www.flickr.com/photos/houcheng_tw/
+- '[[houcheng|Houcheng]]'
 categories: []
 description: This a plugin provides hotkeys to cycle through tabs in the left or right
   sidebars.

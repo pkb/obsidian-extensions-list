@@ -2,8 +2,7 @@
 aliases:
 - Custom list character
 author:
-- Lilian POULIQUEN
-author_page: https://github.com/lilian-pouliquen/
+- '[[lilian-pouliquen|Lilian POULIQUEN]]'
 categories: []
 description: Adds the ability to choose the character to use when creating a bullet
   list between '-', '*' and '+'

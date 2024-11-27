@@ -2,8 +2,7 @@
 aliases:
 - Open Link With
 author:
-- MamoruDS
-author_page: https://github.com/MamoruDS
+- '[[MamoruDS|MamoruDS]]'
 categories: []
 description: Open external link with specific browser / in-app view in Obsidian
 downloads: 14440

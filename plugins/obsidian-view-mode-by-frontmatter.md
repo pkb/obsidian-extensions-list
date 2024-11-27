@@ -2,8 +2,7 @@
 aliases:
 - Force note view mode
 author:
-- Benny Wydooghe
-author_page: https://i-net.be
+- '[[bwydoogh|Benny Wydooghe]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: This plugin allows to force the view mode and editing mode for a note

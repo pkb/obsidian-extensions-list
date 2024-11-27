@@ -2,8 +2,7 @@
 aliases:
 - Structured
 author:
-- dobrovolsky
-author_page: https://github.com/dobrovolsky/obsidian-structure
+- '[[dobrovolsky|dobrovolsky]]'
 categories: []
 description: 'Structured plugin. Create hierarchy in notes using . '
 downloads: 5756

@@ -2,15 +2,10 @@
 aliases:
 - Crumbs
 author:
-- Tony Grosinger
-author_page: https://grosinger.net
+- '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: Breadcrumb navigation in Obsidian
 downloads: 5066
-funding_page:
-  Buy me a Coffee: https://buymeacoffee.com/tgrosinger
-  Github Sponsor: https://github.com/sponsors/tgrosinger
-  Paypal: https://paypal.me/tgrosinger
 mobile: false
 number: 712
 title: Crumbs

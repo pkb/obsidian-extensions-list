@@ -2,8 +2,7 @@
 aliases:
 - Avatar
 author:
-- froehlichA
-author_page: https://github.com/froehlichA
+- '[[froehlichA|froehlichA]]'
 categories: []
 description: Display an avatar image in your notes.
 downloads: 7255

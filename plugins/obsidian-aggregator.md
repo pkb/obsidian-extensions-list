@@ -2,8 +2,7 @@
 aliases:
 - Aggregator
 author:
-- SErAphLi
-author_page: https://github.com/Seraphli
+- '[[Seraphli|SErAphLi]]'
 categories: []
 description: This plugin helps you gather information from files, and make a summary
   in the file.

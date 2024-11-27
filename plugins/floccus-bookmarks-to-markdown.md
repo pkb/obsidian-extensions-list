@@ -2,12 +2,10 @@
 aliases:
 - Floccus Bookmarks to Markdown
 author:
-- mddevils
-author_page: https://github.com/mddevils/
+- '[[mddevils|mddevils]]'
 categories: []
 description: Bring your Bookmarks from Floccus to your Obsidian
 downloads: 4660
-funding_page: https://ko-fi.com/mddevils
 mobile: false
 number: 1109
 title: Floccus Bookmarks to Markdown

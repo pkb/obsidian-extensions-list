@@ -2,8 +2,7 @@
 aliases:
 - Apply Patterns
 author:
-- Jacob Levernier
-author_page: https://github.com/publicus
+- '[[jglev|Jacob Levernier]]'
 categories: []
 description: Apply custom patterns of find-and-replace in succession to text.
 downloads: 7715

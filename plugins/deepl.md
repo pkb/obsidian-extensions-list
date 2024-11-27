@@ -2,8 +2,7 @@
 aliases:
 - DeepL
 author:
-- Till Friebe
-author_page: https://friebetill.github.io/
+- '[[friebetill|Till Friebe]]'
 categories: []
 description: Allows translation of selected texts into more than 25 languages with
   DeepL.

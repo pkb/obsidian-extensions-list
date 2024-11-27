@@ -1,8 +1,8 @@
 ---
 aliases:
 - Paste URL into selection
-author: denolehov
-author_page: https://github.com/denolehov
+author:
+- '[[authors/denolehov|denolehov]]'
 categories: []
 description: Paste URL "into" selected text.
 downloads: 260261

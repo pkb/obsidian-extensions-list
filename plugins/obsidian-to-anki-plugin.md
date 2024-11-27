@@ -2,8 +2,7 @@
 aliases:
 - Obsidian_to_Anki
 author:
-- Pseudonium
-author_page: https://github.com/Pseudonium/Obsidian_to_Anki
+- '[[Pseudonium|Pseudonium]]'
 categories: []
 description: This is an Anki integration plugin! Designed for efficient bulk exporting.
 downloads: 91284

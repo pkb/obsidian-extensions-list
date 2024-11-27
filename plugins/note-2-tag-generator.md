@@ -2,8 +2,7 @@
 aliases:
 - Note 2 Tag Generator
 author:
-- Augustin
-author_page: https://augustin.great-site.net
+- '[[augustin7698|Augustin]]'
 categories: []
 description: Generate tags from notes without openai key in multiple languages
 downloads: 470

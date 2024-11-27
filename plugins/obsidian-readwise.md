@@ -2,8 +2,7 @@
 aliases:
 - Readwise Community
 author:
-- Rene Hernandez
-author_page: https://renehernandez.io
+- '[[renehernandez|Rene Hernandez]]'
 categories: []
 description: Sync Readwise highlights into your notes
 downloads: 8786

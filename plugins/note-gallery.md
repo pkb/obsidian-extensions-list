@@ -2,15 +2,11 @@
 aliases:
 - Note Gallery
 author:
-- Pash Shocky
-author_page: https://github.com/pashashocky
+- '[[pashashocky|Pash Shocky]]'
 categories: []
 description: A masonry gallery view for your notes. Allows to have a birds eye view
   over the notes in your vault.
 downloads: 10197
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/pashashocky
-  GitHub Sponsor: https://github.com/sponsors/pashashocky
 mobile: true
 number: 1321
 title: Note Gallery

@@ -2,8 +2,7 @@
 aliases:
 - Canvas Links
 author:
-- aqav
-author_page: https://github.com/aqav
+- '[[aqav|aqav]]'
 categories: []
 description: Show the links between "Canvas" and "File".
 downloads: 8276

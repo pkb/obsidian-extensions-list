@@ -2,8 +2,7 @@
 aliases:
 - RPG Manager
 author:
-- Carlo Nicora
-author_page: https://carlonicora.com
+- '[[carlonicora|Carlo Nicora]]'
 categories: []
 description: Manage your Tabletop Role Playing Game Campaigns in Obsidian
 downloads: 26209

@@ -2,8 +2,7 @@
 aliases:
 - Fantasy Content Generator
 author:
-- 'Gregory Jagermeister '
-author_page: https://github.com/Gregory-Jagermeister
+- '[[Gregory-Jagermeister|Gregory Jagermeister ]]'
 categories: []
 description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
   Needs

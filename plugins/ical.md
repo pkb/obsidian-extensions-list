@@ -2,8 +2,7 @@
 aliases:
 - iCal
 author:
-- Andrew Brereton
-author_page: https://github.com/andrewbrereton
+- '[[andrewbrereton|Andrew Brereton]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Scans your vault for tasks. Creates an iCal file and stores it on Gist.

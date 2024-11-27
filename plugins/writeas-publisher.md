@@ -2,8 +2,7 @@
 aliases:
 - Writeas Blog Publisher
 author:
-- encima
-author_page: https://github.com/encima/obsidian-writeas-plugin
+- '[[encima|encima]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to write.as

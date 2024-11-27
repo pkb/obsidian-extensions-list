@@ -2,8 +2,7 @@
 aliases:
 - HackerOne
 author:
-- Neolex
-author_page: https://blog.neolex.dev
+- '[[Neolex-Security|Neolex]]'
 categories: []
 description: Unofficial plugin to fetch your bug reports from HackerOne. (needs dataview
   plugin)

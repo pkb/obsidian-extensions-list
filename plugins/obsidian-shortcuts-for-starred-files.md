@@ -2,13 +2,11 @@
 aliases:
 - Hotkeys for Bookmarks
 author:
-- Vinzent
-author_page: https://github.com/Vinzent03
+- '[[Vinzent03|Vinzent]]'
 categories: []
 description: Set an individual hotkey for the first 9 bookmarks and open them just
   with your keyboard.
 downloads: 8879
-funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 84
 title: Hotkeys for Bookmarks

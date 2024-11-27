@@ -2,8 +2,7 @@
 aliases:
 - Alias from heading
 author:
-- Chris Basham
-author_page: https://bash.am
+- '[[basham|Chris Basham]]'
 categories: []
 description: Implicitly add an alias matching the first heading in a document.
 downloads: 5006

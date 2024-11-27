@@ -2,8 +2,7 @@
 aliases:
 - Qiniu Image Uploader
 author:
-- Jade Zheng
-author_page: https://github.com/jianzs
+- '[[jianzs|Jade Zheng]]'
 categories: []
 description: Uploads images from your clipboard to qiniu.com and embeds uploaded image
   to your note.

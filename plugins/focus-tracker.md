@@ -2,13 +2,10 @@
 aliases:
 - Focus Tracker
 author:
-- Jeet Sukumaran
-author_page: https://github.com/jeetsukumaran
+- '[[jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Track and align your focus.
 downloads: 596
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/jeetsukumaran
 mobile: true
 number: 1678
 title: Focus Tracker

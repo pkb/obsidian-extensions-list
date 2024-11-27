@@ -2,8 +2,7 @@
 aliases:
 - Link Headers Directly
 author:
-- Signynt
-author_page: https://github.com/Signynt
+- '[[Signynt|Signynt]]'
 categories: []
 description: When a header is linked, preview mode will show only the header, and
   not the note name.

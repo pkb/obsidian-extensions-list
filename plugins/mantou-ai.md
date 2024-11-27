@@ -2,13 +2,11 @@
 aliases:
 - MantouAI
 author:
-- Morino Pan
-author_page: https://ravensanstete.github.io/
+- '[[ravenSanstete|Morino Pan]]'
 categories: []
 description: Work as a personal assistant for translation, writing polish, general
   Q&A, summarizing, using the power of large language models.
 downloads: 1903
-funding_page: ''
 mobile: true
 number: 1487
 title: MantouAI

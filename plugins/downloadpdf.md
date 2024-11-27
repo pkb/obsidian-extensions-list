@@ -2,8 +2,7 @@
 aliases:
 - downloadPDF
 author:
-- Frieda
-author_page: https://www.frieda-universe.de
+- '[[Frieder21|Frieda]]'
 categories: []
 description: Allows you to download all included PDF files
 downloads: 91

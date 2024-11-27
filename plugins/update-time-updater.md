@@ -2,12 +2,10 @@
 aliases:
 - Update Time Updater
 author:
-- MURATAGAWA Kei
-author_page: https://github.com/muratagawa
+- '[[muratagawa|MURATAGAWA Kei]]'
 categories: []
 description: Update the 'update time' element when saving or manually.
 downloads: 555
-funding_page: https://ko-fi.com/muratagawa
 mobile: true
 number: 1584
 title: Update Time Updater

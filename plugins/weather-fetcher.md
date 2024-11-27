@@ -2,8 +2,7 @@
 aliases:
 - Weather Fetcher
 author:
-- fyears
-author_page: https://github.com/fyears/obsidian-weather
+- '[[fyears|fyears]]'
 categories: []
 description: Fetch and insert current weather into the editor of Obsidian.
 downloads: 7470

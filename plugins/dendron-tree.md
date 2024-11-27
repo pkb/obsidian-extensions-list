@@ -2,12 +2,10 @@
 aliases:
 - Dendron Tree
 author:
-- Levi Rizki Saputra
-author_page: https://www.levirs.my.id
+- '[[levirs565|Levi Rizki Saputra]]'
 categories: []
 description: Add tree for exploring Dendron note.
 downloads: 4286
-funding_page: https://www.paypal.me/levirs565
 mobile: true
 number: 945
 title: Dendron Tree

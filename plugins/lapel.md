@@ -2,8 +2,7 @@
 aliases:
 - Lapel
 author:
-- Liam Cain
-author_page: https://github.com/liamcain/
+- '[[liamcain|Liam Cain]]'
 categories: []
 description: Dress up your editor with decorations that mark each of your headings.
 downloads: 21298

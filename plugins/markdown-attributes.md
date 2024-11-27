@@ -2,8 +2,7 @@
 aliases:
 - Markdown Attributes
 author:
-- Jeremy Valentine
-author_page: ''
+- '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Add markdown attributes to elements in Obsidian.md
 downloads: 15140

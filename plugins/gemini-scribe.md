@@ -2,8 +2,7 @@
 aliases:
 - Gemini Scribe
 author:
-- Allen Hutchison
-author_page: https://allen.hutchison.org
+- '[[allenhutchison|Allen Hutchison]]'
 categories: []
 description: Interact with Gemini and use your notes as context.
 downloads: 134

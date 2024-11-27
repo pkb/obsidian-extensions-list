@@ -2,8 +2,7 @@
 aliases:
 - History Today
 author:
-- Yaob1990
-author_page: https://github.com/Yaob1990
+- '[[Yaob1990|Yaob1990]]'
 categories: []
 description: View and review your historical notes from this day across previous years
 downloads: 95

@@ -2,8 +2,7 @@
 aliases:
 - QuranLookup
 author:
-- AbuIbrahim2
-author_page: https://github.com/abuibrahim2/quranlookup
+- '[[abuibrahim2|AbuIbrahim2]]'
 categories: []
 description: This is a Quran Lookup plugin for Obsidian. This replaces chapter:verse
   shorthand with verse text in arabic and translation.

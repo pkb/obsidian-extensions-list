@@ -2,8 +2,7 @@
 aliases:
 - Supercharged Links
 author:
-- mdelobelle & Emile
-author_page: https://github.com/mdelobelle/mdelobelle/tree/main
+- '[[mdelobelle|mdelobelle & Emile]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add properties and menu options to links and style them!

@@ -2,13 +2,11 @@
 aliases:
 - Cardify
 author:
-- joshuakto
-author_page: https://github.com/joshuakto
+- '[[joshuakto|joshuakto]]'
 categories: []
 description: This is a plugin to cardify markdown contents into subsequent markdown
   files.
 downloads: 4266
-funding_page: https://www.buymeacoffee.com/joshuakto
 mobile: true
 number: 1171
 title: Cardify

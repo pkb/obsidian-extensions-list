@@ -2,8 +2,7 @@
 aliases:
 - Encoder/Decoder
 author:
-- Rudi Häusler
-author_page: https://github.com/rudimuc
+- '[[rudimuc|Rudi Häusler]]'
 categories: []
 description: Converts text into other formats (base64, ROT13)
 downloads: 2112

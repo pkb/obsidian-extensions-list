@@ -2,8 +2,7 @@
 aliases:
 - Alt-Click to Copy
 author:
-- Veer Sheth
-author_page: https://veersheth.in
+- '[[veersheth|Veer Sheth]]'
 categories: []
 description: Alt-click to copy code!
 downloads: 1495

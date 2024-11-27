@@ -2,12 +2,10 @@
 aliases:
 - Reverse Prompter
 author:
-- Ryan Halliday
-author_page: https://blog.ryanhalliday.com
+- '[[ryanhalliday|Ryan Halliday]]'
 categories: []
 description: Generate prompts to keep you writing with AI.
 downloads: 838
-funding_page: https://ko-fi.com/ryanhalliday
 mobile: true
 number: 1571
 title: Reverse Prompter

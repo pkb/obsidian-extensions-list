@@ -2,8 +2,7 @@
 aliases:
 - Tags Overview
 author:
-- Christian Wannerstedt
-author_page: https://github.com/christianwannerstedt
+- '[[christianwannerstedt|Christian Wannerstedt]]'
 categories: []
 description: Adds an extended tags panel where tagged files can be overviewed, filtered
   and accessed in an easy way.

@@ -2,13 +2,11 @@
 aliases:
 - Consistent Attachments and Links
 author:
-- Dmitry Savosh
-author_page: https://github.com/dy-sh/
+- '[[dy-sh|Dmitry Savosh]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: This plugin ensures the consistency of attachments and links
 downloads: 40943
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 127
 title: Consistent Attachments and Links

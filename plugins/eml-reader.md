@@ -2,12 +2,10 @@
 aliases:
 - Email Reader
 author:
-- Pulsovi
-author_page: https://marchev.fr
+- '[[pulsovi|Pulsovi]]'
 categories: []
 description: Provide a preview mode for embeded `*.eml` files.
 downloads: 4530
-funding_page: https://www.buymeacoffee.com/pulsovi
 mobile: true
 number: 1153
 title: Email Reader

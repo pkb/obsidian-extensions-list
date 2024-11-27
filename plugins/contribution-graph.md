@@ -2,12 +2,10 @@
 aliases:
 - Contribution Graph
 author:
-- vran
-author_page: https://github.com/vran-dev
+- '[[vran-dev|vran]]'
 categories: []
 description: Generate a interactive heatmap graph to visualize and track your productivity
 downloads: 17534
-funding_page: https://www.buymeacoffee.com/vran
 mobile: true
 number: 1399
 title: Contribution Graph

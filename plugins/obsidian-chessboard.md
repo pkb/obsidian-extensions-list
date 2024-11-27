@@ -2,8 +2,7 @@
 aliases:
 - Chessboard Viewer
 author:
-- Davide Aversa
-author_page: https://www.davideaversa.it
+- '[[THeK3nger|Davide Aversa]]'
 categories: []
 description: Render chess positions diagrams in a note.
 downloads: 6796

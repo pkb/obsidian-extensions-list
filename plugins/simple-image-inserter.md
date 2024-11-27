@@ -2,13 +2,11 @@
 aliases:
 - Simple Image Inserter
 author:
-- jdholtz
-author_page: https://github.com/jdholtz
+- '[[jdholtz|jdholtz]]'
 categories: []
 description: Add images from the file system into Obsidian notes through a built-in
   file explorer.
 downloads: 1666
-funding_page: https://github.com/sponsors/jdholtz
 mobile: false
 number: 1443
 title: Simple Image Inserter

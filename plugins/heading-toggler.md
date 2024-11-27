@@ -2,12 +2,10 @@
 aliases:
 - Heading Toggler
 author:
-- Lord Turmoil
-author_page: https://tonys-studio.top/
+- '[[Lord-Turmoil|Lord Turmoil]]'
 categories: []
 description: Easily toggle heading levels in Markdown documents with shortcuts.
 downloads: 212
-funding_page: https://www.tonys-studio.top/support/
 mobile: true
 number: 1811
 title: Heading Toggler

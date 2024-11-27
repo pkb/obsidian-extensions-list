@@ -2,8 +2,7 @@
 aliases:
 - Laser beam
 author:
-- Bernardo Pires
-author_page: https://github.com/drbap
+- '[[drbap|Bernardo Pires]]'
 categories: []
 description: Improve your reading experience with customizable laser lines.
 downloads: 563

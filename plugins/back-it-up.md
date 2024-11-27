@@ -2,8 +2,7 @@
 aliases:
 - BackItUp
 author:
-- Hammad Javed
-author_page: https://github.com/hammadxp
+- '[[hammadxp|Hammad Javed]]'
 categories: []
 description: Quickly make a copy or snapshot of a note.
 downloads: 804

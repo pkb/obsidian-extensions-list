@@ -2,8 +2,7 @@
 aliases:
 - Generate Hash
 author:
-- zigahertz
-author_page: https://github.com/zigahertz
+- '[[zigahertz|zigahertz]]'
 categories: []
 description: Generates a cryptographically strong pseudorandom hash.
 downloads: 386

@@ -2,12 +2,10 @@
 aliases:
 - Zettelkasten LLM Tools
 author:
-- Karl Smith
-author_page: https://karl.pizza
+- '[[glovguy|Karl Smith]]'
 categories: []
 description: Zettelkasten note taking powered by LLMs
 downloads: 4569
-funding_page: https://bmc.link/karl.pizza
 mobile: true
 number: 1083
 title: Zettelkasten LLM Tools

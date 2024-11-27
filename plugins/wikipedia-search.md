@@ -2,14 +2,10 @@
 aliases:
 - Wikipedia Search
 author:
-- StrangeGirlMurph
-author_page: https://github.com/StrangeGirlMurph/
+- '[[StrangeGirlMurph|StrangeGirlMurph]]'
 categories: []
 description: Search, link and open Wikipedia/Wiki articles, all within the app!
 downloads: 16092
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/StrangeGirlMurph
-  Ko-fi: https://ko-fi.com/murph
 mobile: true
 number: 876
 title: Wikipedia Search

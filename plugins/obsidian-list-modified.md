@@ -2,8 +2,7 @@
 aliases:
 - List Modified
 author:
-- Francis Kafieh
-author_page: https://github.com/franciskafieh
+- '[[franciskafieh|Francis Kafieh]]'
 categories: []
 description: The advanced and adaptive changelog. Links all modified files meeting
   certain criteria to a timed (daily, weekly, monthly) note.

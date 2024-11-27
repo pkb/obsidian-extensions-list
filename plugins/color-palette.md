@@ -2,14 +2,10 @@
 aliases:
 - Color Palette
 author:
-- ALegendsTale
-author_page: https://github.com/ALegendsTale
+- '[[ALegendsTale|ALegendsTale]]'
 categories: []
 description: Create and insert color palettes into your notes.
 downloads: 14988
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/ALegendsTale
-  PayPal: https://www.paypal.com/donate/?hosted_button_id=BHHFMGX822K4S
 mobile: true
 number: 1036
 title: Color Palette

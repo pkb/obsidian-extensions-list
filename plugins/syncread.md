@@ -2,8 +2,7 @@
 aliases:
 - syncread-assistant
 author:
-- flyer1b
-author_page: https://github.com/flyer1b
+- '[[flyer1b|flyer1b]]'
 categories: []
 description: sync articles from syncread app
 downloads: 1913

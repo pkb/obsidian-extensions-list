@@ -2,8 +2,7 @@
 aliases:
 - Tags Routes
 author:
-- Ken
-author_page: https://github.com/kctekn
+- '[[kctekn|Ken]]'
 categories: []
 description: A powerful tool for visualizing 3D graphs and managing orphan files,
   offering a dynamic and colorful 3D graph view for enhanced user experience.

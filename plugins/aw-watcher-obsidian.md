@@ -2,8 +2,7 @@
 aliases:
 - ActivityWatch
 author:
-- Grimmauld
-author_page: https://github.com/LordGrimmauld
+- '[[LordGrimmauld|Grimmauld]]'
 categories: []
 description: This is a plugin bridging compatibility between ActivityWatch and Obsidian.
 downloads: 4955

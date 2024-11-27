@@ -2,8 +2,7 @@
 aliases:
 - URL Display
 author:
-- Stephanie Lin
-author_page: https://github.com/lin-stephanie
+- '[[lin-stephanie|Stephanie Lin]]'
 categories: []
 description: Extract and display external URLs of the note in Obsidian.
 downloads: 4157

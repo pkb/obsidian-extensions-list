@@ -2,8 +2,7 @@
 aliases:
 - Vault Statistics
 author:
-- Bryan Kyle
-author_page: https://github.com/bkyle
+- '[[bkyle|Bryan Kyle]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Status bar item with vault statistics such as number of notes, files,

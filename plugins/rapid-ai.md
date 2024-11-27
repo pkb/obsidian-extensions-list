@@ -2,8 +2,7 @@
 aliases:
 - Rapid AI
 author:
-- Instant AI
-author_page: https://rapidapi.com/organization/instant-ai
+- '[[ahmed3developer|Instant AI]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI Assistant for selected text and generating content with Markdown.

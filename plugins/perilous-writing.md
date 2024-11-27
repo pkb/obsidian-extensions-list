@@ -2,8 +2,7 @@
 aliases:
 - Perilous Writing
 author:
-- Sameer Ismail
-author_page: https://github.com/sameersismail
+- '[[sameersismail|Sameer Ismail]]'
 categories: []
 description: Write continuously—or lose all progress.
 downloads: 4307

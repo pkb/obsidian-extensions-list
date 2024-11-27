@@ -2,8 +2,7 @@
 aliases:
 - Local GPT
 author:
-- Pavel Frankov
-author_page: https://github.com/pfrankov
+- '[[pfrankov|Pavel Frankov]]'
 categories: []
 description: Local GPT assistance for maximum privacy and offline access
 downloads: 19290

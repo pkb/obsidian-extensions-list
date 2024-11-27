@@ -2,8 +2,7 @@
 aliases:
 - Smart Gantt
 author:
-- Nhan Nguyen
-author_page: https://github.com/nhannht
+- '[[nhannht|Nhan Nguyen]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Intelligently generate Gantt chart from your tasks

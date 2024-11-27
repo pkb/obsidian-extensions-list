@@ -2,8 +2,7 @@
 aliases:
 - Save as Gist
 author:
-- ghedamat
-author_page: https://ghedam.at
+- '[[ghedamat|ghedamat]]'
 categories: []
 description: Saving your current note as Gist on github
 downloads: 4078

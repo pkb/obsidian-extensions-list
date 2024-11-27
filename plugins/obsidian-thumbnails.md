@@ -2,8 +2,7 @@
 aliases:
 - Thumbnails
 author:
-- Michael Harris
-author_page: https://github.com/meikul
+- '[[Meikul|Michael Harris]]'
 categories: []
 description: Insert video thumbnails into your notes
 downloads: 13704

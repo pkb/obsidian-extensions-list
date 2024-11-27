@@ -2,8 +2,7 @@
 aliases:
 - Rollover Weekly Todo
 author:
-- Shubham Sethi
-author_page: https://shubhamsethi.com
+- '[[shsethi|Shubham Sethi]]'
 categories: []
 description: Rollover todo items from the previous weekly note.
 downloads: 548

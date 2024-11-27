@@ -2,14 +2,12 @@
 aliases:
 - Feeds
 author:
-- LukeMT
-- pashashocky
-- madx
-author_page: https://github.com/lukemt/
+- '[[authors/LukeMT|LukeMT]]'
+- '[[authors/pashashocky|pashashocky]]'
+- '[[lukemt|madx]]'
 categories: []
 description: Create feeds of topic-specific bullet points in Obsidian.
 downloads: 2457
-funding_page: ''
 mobile: true
 number: 1287
 title: Feeds

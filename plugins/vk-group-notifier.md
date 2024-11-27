@@ -2,8 +2,7 @@
 aliases:
 - Vk group notifier
 author:
-- Filichev.Evgeny
-author_page: https://github.com/filichev-evgeny
+- '[[filichev-evgeny|Filichev.Evgeny]]'
 categories: []
 description: Track news posts from the vk.com groups.
 downloads: 1112

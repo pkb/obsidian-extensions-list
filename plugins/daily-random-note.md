@@ -2,12 +2,10 @@
 aliases:
 - Daily Random Note
 author:
-- Alexandre Silva
-author_page: https://github.com/D4rkP1xel
+- '[[D4rkP1xel|Alexandre Silva]]'
 categories: []
 description: Automatically open daily random notes based on your preferences.
 downloads: 90
-funding_page: https://buymeacoffee.com/alex_swe
 mobile: false
 number: 2005
 title: Daily Random Note

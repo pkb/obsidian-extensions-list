@@ -2,8 +2,7 @@
 aliases:
 - Overdue
 author:
-- Peter Parente
-author_page: https://github.com/parente
+- '[[parente|Peter Parente]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Marks items as [[Overdue]] if they are not checked off by their due date

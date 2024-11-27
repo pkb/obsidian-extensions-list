@@ -2,8 +2,7 @@
 aliases:
 - iDoRecall
 author:
-- dbhandel
-author_page: https://idorecall.com
+- '[[iDoRecall|dbhandel]]'
 categories: []
 description: iDoRecall plugin allows you to create recalls from Obsidian notes
 downloads: 2532

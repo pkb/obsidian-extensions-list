@@ -2,12 +2,10 @@
 aliases:
 - Autogen
 author:
-- Aidan Tilgner
-author_page: https://github.com/AidanTilgner
+- '[[AidanTilgner|Aidan Tilgner]]'
 categories: []
 description: In place autogeneration of content based on prompts.
 downloads: 1220
-funding_page: https://www.buymeacoffee.com/aidantilgner
 mobile: false
 number: 1425
 title: Autogen

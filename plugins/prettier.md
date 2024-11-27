@@ -2,8 +2,7 @@
 aliases:
 - Prettier
 author:
-- GoodbyeNJN
-author_page: https://github.com/GoodbyeNJN
+- '[[GoodbyeNJN|GoodbyeNJN]]'
 categories: []
 description: Format your notes with Prettier and custom formatting options.
 downloads: 820

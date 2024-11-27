@@ -2,12 +2,10 @@
 aliases:
 - Youtube Summarizer
 author:
-- Mehmet Ozdemir
-author_page: https://github.com/ozdemir08
+- '[[ozdemir08|Mehmet Ozdemir]]'
 categories: []
 description: A plugin to summarize the transcripts of Youtube videos.
 downloads: 3696
-funding_page: https://www.buymeacoffee.com/mehmetozdemir
 mobile: true
 number: 1383
 title: Youtube Summarizer

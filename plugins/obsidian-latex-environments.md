@@ -2,8 +2,7 @@
 aliases:
 - Latex Environments
 author:
-- Zach Raines
-author_page: https://github.com/raineszm/obsidian-latex-environments
+- '[[raineszm|Zach Raines]]'
 categories: []
 description: Allows to quickly insert and change latex environments within math environments.
 downloads: 23821

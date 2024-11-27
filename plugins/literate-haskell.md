@@ -2,8 +2,7 @@
 aliases:
 - Literate Haskell
 author:
-- James Jensen
-author_page: https://jajaperson.me
+- '[[jajaperson|James Jensen]]'
 categories: []
 description: An obsidian plugin for integrating `.lhs` files into your PKM.
 downloads: 3372

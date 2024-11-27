@@ -2,8 +2,7 @@
 aliases:
 - External Links
 author:
-- Juan Vimberg
-author_page: https://github.com/jivimberg/
+- '[[jivimberg|Juan Vimberg]]'
 categories: []
 description: List external links and discover which notes reference them.
 downloads: 1587

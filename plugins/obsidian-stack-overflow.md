@@ -2,8 +2,7 @@
 aliases:
 - Stack Overflow Answers
 author:
-- Bram Adams
-author_page: https://www.bramadams.dev/
+- '[[bramses|Bram Adams]]'
 categories: []
 description: Copy and Paste Stack Overflow answers directly into Obsidian.
 downloads: 4093

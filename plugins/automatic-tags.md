@@ -2,8 +2,7 @@
 aliases:
 - Automatic Tags
 author:
-- Jamalam
-author_page: https://jamalam.tech
+- '[[Jamalam360|Jamalam]]'
 categories:
 - '[[categories/Automation|Automation]]'
 - '[[categories/Tag Management|Tag Management]]'

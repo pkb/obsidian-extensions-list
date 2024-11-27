@@ -2,8 +2,7 @@
 aliases:
 - Trello
 author:
-- Nathonius
-author_page: https://nathan-smith.org/
+- '[[nathonius|Nathonius]]'
 categories: []
 description: Connect an existing or new Trello card to an Obsidian note. Once connected,
   see basic info, add and view comments, and check off checklist items.

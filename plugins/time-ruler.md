@@ -2,13 +2,11 @@
 aliases:
 - Time Ruler
 author:
-- Joshua Tazman Reinier
-author_page: https://joshuareinier.com
+- '[[joshuatazrein|Joshua Tazman Reinier]]'
 categories: []
 description: A drag-and-drop time ruler combining the best of a task list and a calendar
   view (integrates with Tasks, Full Calendar, and Dataview).
 downloads: 36010
-funding_page: https://bmc.link/joshuatreinier
 mobile: true
 number: 986
 title: Time Ruler

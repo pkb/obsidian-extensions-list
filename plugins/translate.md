@@ -2,12 +2,10 @@
 aliases:
 - Translate
 author:
-- Fevol
-author_page: https://github.com/Fevol/
+- '[[Fevol|Fevol]]'
 categories: []
 description: Translate text and notes with Google Translate, DeepL, Azure, and more.
 downloads: 31052
-funding_page: https://ko-fi.com/fevol
 mobile: true
 number: 714
 title: Translate

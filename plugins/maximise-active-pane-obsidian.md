@@ -2,8 +2,7 @@
 aliases:
 - Maximise Active Pane
 author:
-- death_au
-author_page: https://github.com/deathau
+- '[[deathau|death_au]]'
 categories: []
 description: Simply fills the workspace with the active pane
 downloads: 14495

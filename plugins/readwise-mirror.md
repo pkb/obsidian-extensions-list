@@ -2,8 +2,7 @@
 aliases:
 - Readwise Mirror
 author:
-- jsonmartin
-author_page: https://github.com/jsonMartin/
+- '[[jsonMartin|jsonmartin]]'
 categories: []
 description: Mirror your Readwise library directly to an Obsidian vault
 downloads: 8417

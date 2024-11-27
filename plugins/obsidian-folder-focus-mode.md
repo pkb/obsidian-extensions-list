@@ -2,8 +2,7 @@
 aliases:
 - Folder Focus Mode
 author:
-- Grochowski
-author_page: https://mgrochowski.com
+- '[[grochowski|Grochowski]]'
 categories: []
 description: Focus file explorer on chosen folder and its files and subdirectories,
   while hiding all the other elements.

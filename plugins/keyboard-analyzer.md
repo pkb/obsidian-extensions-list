@@ -2,8 +2,7 @@
 aliases:
 - Keyboard Analyzer
 author:
-- cogscides
-author_page: https://github.com/cogscides
+- '[[cogscides|cogscides]]'
 categories: []
 description: See and analyse your keyboard hotkeys and shortcuts
 downloads: 13243

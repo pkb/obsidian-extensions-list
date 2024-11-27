@@ -2,8 +2,7 @@
 aliases:
 - Yanki
 author:
-- Kitschpatrol
-author_page: https://ericmika.com
+- '[[kitschpatrol|Kitschpatrol]]'
 categories: []
 description: Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax.
   No fuss.

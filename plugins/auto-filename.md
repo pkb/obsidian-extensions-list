@@ -2,15 +2,13 @@
 aliases:
 - Auto Filename
 author:
-- rcsaquino
-author_page: https://github.com/rcsaquino
+- '[[rcsaquino|rcsaquino]]'
 categories:
 - '[[categories/Automation|Automation]]'
 - '[[categories/File management|File management]]'
 description: Automatically rename files on the go based on the first x characters
   of files.
 downloads: 3975
-funding_page: https://ko-fi.com/rcsaquino
 mobile: true
 number: 1217
 title: Auto Filename

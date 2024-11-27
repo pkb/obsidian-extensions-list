@@ -2,8 +2,7 @@
 aliases:
 - Auto Link Title
 author:
-- Matt Furden
-author_page: https://github.com/zolrath
+- '[[zolrath|Matt Furden]]'
 categories: []
 description: This plugin automatically fetches the titles of links from the web
 downloads: 213696

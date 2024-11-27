@@ -2,8 +2,7 @@
 aliases:
 - Open Related Url
 author:
-- Dan Pickett
-author_page: https://danpickett.com
+- '[[dpickett|Dan Pickett]]'
 categories: []
 description: Opens URLs found in a note's YAML frontmatter
 downloads: 3983

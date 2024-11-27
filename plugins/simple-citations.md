@@ -2,8 +2,7 @@
 aliases:
 - Simple Citations
 author:
-- masaki39
-author_page: https://github.com/masaki39
+- '[[masaki39|masaki39]]'
 categories: []
 description: Add & update simple literature notes from Zotero.
 downloads: 773

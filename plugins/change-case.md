@@ -2,8 +2,7 @@
 aliases:
 - Change Case
 author:
-- David Brockman
-author_page: https://github.com/dbrockman
+- '[[dbrockman|David Brockman]]'
 categories: []
 description: Plugin to let you change the case (UPPER CASE, camelCase, snake_case,
   etc) of the current selection.

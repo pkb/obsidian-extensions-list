@@ -2,8 +2,7 @@
 aliases:
 - Text expand
 author:
-- MrJackphil
-author_page: https://mrjackphil.com
+- '[[mrjackphil|MrJackphil]]'
 categories: []
 description: Search and paste/transclude links to located files.
 downloads: 30646

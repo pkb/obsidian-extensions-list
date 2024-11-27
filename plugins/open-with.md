@@ -2,12 +2,10 @@
 aliases:
 - Open with
 author:
-- phibr0
-author_page: https://phibr0.de
+- '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin allows you to add multiple other programs to open notes with.
 downloads: 8558
-funding_page: https://ko-fi.com/phibr0
 mobile: false
 number: 257
 title: Open with

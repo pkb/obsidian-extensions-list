@@ -2,8 +2,7 @@
 aliases:
 - Carry-Forward
 author:
-- Jacob Levernier
-author_page: https://github.com/jglev/obsidian-carry-forward
+- '[[jglev|Jacob Levernier]]'
 categories: []
 description: An Obsidian Notes plugin for generating and copying block IDs and for
   copying lines with links to the copied line.

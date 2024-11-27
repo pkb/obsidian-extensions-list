@@ -2,13 +2,11 @@
 aliases:
 - Spaced everything
 author:
-- Zach Mueller
-author_page: https://notes.zach.nz
+- '[[zachmueller|Zach Mueller]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Apply spaced repetition algorithms to everything in your vault.
 downloads: 360
-funding_page: https://buymeacoffee.com/zachmueller
 mobile: true
 number: 1900
 title: Spaced everything

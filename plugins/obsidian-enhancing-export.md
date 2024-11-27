@@ -2,8 +2,7 @@
 aliases:
 - Enhancing Export
 author:
-- YISH
-author_page: https://github.com/mokeyish
+- '[[mokeyish|YISH]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a enhancing export plugin for Obsidian. It allows to export to

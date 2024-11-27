@@ -2,8 +2,7 @@
 aliases:
 - BookXNote Sync
 author:
-- CodeListening
-author_page: https://github.com/CodeListening
+- '[[CodeListening|CodeListening]]'
 categories: []
 description: 从bookxnote中同步笔记
 downloads: 110

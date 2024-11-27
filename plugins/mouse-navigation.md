@@ -2,8 +2,7 @@
 aliases:
 - Mouse Navigation
 author:
-- HoBeomJeon
-author_page: https://github.com/hobeom
+- '[[hobeom|HoBeomJeon]]'
 categories: []
 description: Enables smooth navigation using mouse gestures for scrolling and switching
   pages.

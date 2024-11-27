@@ -2,8 +2,7 @@
 aliases:
 - SamePage
 author:
-- samepage-network
-author_page: https://samepage.network
+- '[[samepage-network|samepage-network]]'
 categories: []
 description: Official Obsidian client into the inter-TFT-protocol
 downloads: 5139

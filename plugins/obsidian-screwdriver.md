@@ -2,8 +2,7 @@
 aliases:
 - Screwdriver
 author:
-- vorotamoroz
-author_page: https://github.com/vrtmrz
+- '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: Utility to put any files in and out under your vault.
 downloads: 4437

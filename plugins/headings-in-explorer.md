@@ -2,8 +2,7 @@
 aliases:
 - Headings in Explorer
 author:
-- patrickchiang
-author_page: https://github.com/patrickchiang
+- '[[patrickchiang|patrickchiang]]'
 categories: []
 description: Show headings in the file explorer.
 downloads: 489

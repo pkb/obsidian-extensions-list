@@ -2,8 +2,7 @@
 aliases:
 - Figma Embed
 author:
-- Kyle Kochanek
-author_page: https://github.com/kocheck
+- '[[kocheck|Kyle Kochanek]]'
 categories: []
 description: Embed Figma files as inline previews.
 downloads: 374

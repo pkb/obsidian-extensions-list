@@ -2,12 +2,10 @@
 aliases:
 - Achievements
 author:
-- Zachatoo
-author_page: https://zachyoung.dev
+- '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Add achievements to Obsidian.
 downloads: 5687
-funding_page: https://github.com/sponsors/Zachatoo
 mobile: true
 number: 683
 title: Achievements

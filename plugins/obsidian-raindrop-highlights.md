@@ -2,8 +2,7 @@
 aliases:
 - Raindrop Highlights
 author:
-- kaiiiz
-author_page: https://github.com/kaiiiz
+- '[[kaiiiz|kaiiiz]]'
 categories: []
 description: Sync your Raindrop.io highlights.
 downloads: 21301

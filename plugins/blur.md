@@ -2,8 +2,7 @@
 aliases:
 - Blur
 author:
-- '@gapmiss'
-author_page: https://github.com/gapmiss
+- '[[gapmiss|@gapmiss]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Create obfuscated blocks of text.

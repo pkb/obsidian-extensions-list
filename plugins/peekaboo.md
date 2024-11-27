@@ -2,8 +2,7 @@
 aliases:
 - Peekaboo
 author:
-- Wang Guoshi
-author_page: https://github.com/Lio5n
+- '[[Lio5n|Wang Guoshi]]'
 categories: []
 description: Protect your privacy by setting a password to hide files.
 downloads: 119

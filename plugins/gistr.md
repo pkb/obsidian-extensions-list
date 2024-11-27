@@ -2,8 +2,7 @@
 aliases:
 - Gistr
 author:
-- Aetherinox
-author_page: https://github.com/Aetherinox
+- '[[Aetherinox|Aetherinox]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'

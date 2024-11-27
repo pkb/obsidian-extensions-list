@@ -2,8 +2,7 @@
 aliases:
 - Audio Player
 author:
-- noones img
-author_page: https://github.com/noonesimg
+- '[[noonesimg|noones img]]'
 categories: []
 description: Audio player with background playback, bookmarks and wave visualiser
   instead of the default html5 audio

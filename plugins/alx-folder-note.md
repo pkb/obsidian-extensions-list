@@ -2,8 +2,7 @@
 aliases:
 - AidenLx's Folder Note
 author:
-- AidenLx
-author_page: https://github.com/aidenlx
+- '[[aidenlx|AidenLx]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Add description, summary and more info to folders with folder notes.

@@ -2,8 +2,7 @@
 aliases:
 - Vocabulary View
 author:
-- ''
-author_page: ''
+- '[[nnshi-s|]]'
 categories: []
 description: Write down some words with their explanations and preview them in a vocabulary
   test style

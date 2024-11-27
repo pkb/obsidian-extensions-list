@@ -2,12 +2,10 @@
 aliases:
 - Desci
 author:
-- Taylor Hulsmans
-author_page: https://polusarcticus.gitlab.io/web-portal/
+- '[[Obsidian-Desci|Taylor Hulsmans]]'
 categories: []
 description: A collection of tools that integrate obsidian with web3.
 downloads: 2019
-funding_page: https://etherscan.io/address/0x3be057bbaf734770c8a4ca81e2abbdc29deb39f0
 mobile: false
 number: 1275
 title: Desci

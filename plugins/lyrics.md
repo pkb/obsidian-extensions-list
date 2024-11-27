@@ -2,12 +2,10 @@
 aliases:
 - Lyrics
 author:
-- eatgrass
-author_page: https://github.com/eatgrass
+- '[[eatgrass|eatgrass]]'
 categories: []
 description: Enhance the audio player with interacive lyrics
 downloads: 2631
-funding_page: https://www.buymeacoffee.com/eatgrass
 mobile: true
 number: 1309
 title: Lyrics

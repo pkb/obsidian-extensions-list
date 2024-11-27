@@ -2,12 +2,10 @@
 aliases:
 - Simple Note Review
 author:
-- dartungar
-author_page: https://dartungar.com
+- '[[dartungar|dartungar]]'
 categories: []
 description: Simple, customizable plugin for easy note review, resurfacing  & repetition.
 downloads: 11394
-funding_page: https://www.paypal.com/paypalme/dartungar
 mobile: true
 number: 579
 title: Simple Note Review

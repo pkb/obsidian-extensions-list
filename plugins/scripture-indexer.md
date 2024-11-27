@@ -2,8 +2,7 @@
 aliases:
 - Scripture Indexer
 author:
-- jdrbrn
-author_page: https://github.com/jdrbrn
+- '[[jdrbrn|jdrbrn]]'
 categories: []
 description: Indexes references to scriptures in notes.
 downloads: 128

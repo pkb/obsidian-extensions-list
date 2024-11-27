@@ -2,8 +2,7 @@
 aliases:
 - Enhanced Annotations
 author:
-- ycnmhd
-author_page: https://github.com/ycnmhd
+- '[[ycnmhd|ycnmhd]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Add a sidebar view for comments and highlights.

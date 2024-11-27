@@ -2,12 +2,10 @@
 aliases:
 - doing
 author:
-- rooyca
-author_page: https://github.com/rooyca
+- '[[rooyca|rooyca]]'
 categories: []
 description: It helps you remember what you were doing.
 downloads: 432
-funding_page: https://paypal.me/rooyca
 mobile: false
 number: 1737
 title: doing

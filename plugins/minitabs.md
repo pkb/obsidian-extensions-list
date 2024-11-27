@@ -2,8 +2,7 @@
 aliases:
 - Minitabs
 author:
-- ssjy1919
-author_page: https://github.com/ssjy1919
+- '[[ssjy1919|ssjy1919]]'
 categories: []
 description: Customize a set of nested tabs through code blocks.
 downloads: 2493

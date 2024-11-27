@@ -2,12 +2,10 @@
 aliases:
 - Media Notes
 author:
-- jemstelos
-author_page: https://github.com/jemstelos
+- '[[jemstelos|jemstelos]]'
 categories: []
 description: Take notes on YouTube videos and podcasts with media controls and timestamps.
 downloads: 11189
-funding_page: https://www.buymeacoffee.com/jemstelos
 mobile: false
 number: 1493
 title: Media Notes

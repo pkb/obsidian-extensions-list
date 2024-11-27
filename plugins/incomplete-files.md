@@ -2,14 +2,10 @@
 aliases:
 - Incomplete files
 author:
-- HananoshikaYomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Rule based keep track of your incomplete files
 downloads: 2403
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: true
 number: 1294
 title: Incomplete files

@@ -2,8 +2,7 @@
 aliases:
 - Better PDF Plugin
 author:
-- MSzturc
-author_page: https://github.com/MSzturc
+- '[[MSzturc|MSzturc]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Goal of this Plugin in to implement a native PDF handling workflow

@@ -2,8 +2,7 @@
 aliases:
 - OzanShare Publish
 author:
-- Ozan Tellioglu
-author_page: https://ozan.pl
+- '[[ozntel|Ozan Tellioglu]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your markdown notes with a single click from your vault.

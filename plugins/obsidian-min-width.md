@@ -2,8 +2,7 @@
 aliases:
 - Min Width
 author:
-- doitian
-author_page: https://github.com/doitian
+- '[[doitian|doitian]]'
 categories: []
 description: Set the Minimum Width of the Active Pane in Obsidian
 downloads: 4670

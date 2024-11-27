@@ -2,8 +2,7 @@
 aliases:
 - CardBoard
 author:
-- roovo
-author_page: https://github.com/roovo
+- '[[roovo|roovo]]'
 categories: []
 description: Display markdown tasks on kanban style boards.
 downloads: 103861

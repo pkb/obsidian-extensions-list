@@ -2,8 +2,7 @@
 aliases:
 - Confluence Import
 author:
-- K
-author_page: https://github.com/KkEi34
+- '[[KkEi34|K]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Confluence space into Obsidian vault

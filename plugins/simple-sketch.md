@@ -2,14 +2,12 @@
 aliases:
 - simple-sketch
 author:
-- Yoh
-author_page: https://github.com/Yohh
+- '[[Yohh|Yoh]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Create minimalist sketches in a dedicated view, draw with a pencil, generate
   shapes, add text, save it to the vault or download it as an image.
 downloads: 748
-funding_page: https://buymeacoffee.com/yohh
 mobile: false
 number: 1879
 title: simple-sketch

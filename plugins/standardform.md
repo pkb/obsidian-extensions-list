@@ -2,8 +2,7 @@
 aliases:
 - StandardForm
 author:
-- Phil Baum
-author_page: https://phib.io
+- '[[philphilphil|Phil Baum]]'
 categories: []
 description: Transforms code blocks with Standard Form logical syntax into clean,
   styled renderings. Perfect for philosophy, logic, and argument reconstructions.

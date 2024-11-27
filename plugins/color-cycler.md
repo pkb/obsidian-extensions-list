@@ -2,14 +2,10 @@
 aliases:
 - Color cycler
 author:
-- Taylor Brennan
-author_page: https://github.com/tjbrennan
+- '[[tjbrennan|Taylor Brennan]]'
 categories: []
 description: Dynamically change the accent color of the theme.
 downloads: 2019
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/tjbrennan
-  Ko-fi: https://ko-fi.com/tjbrennan
 mobile: true
 number: 1509
 title: Color cycler

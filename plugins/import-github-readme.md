@@ -2,8 +2,7 @@
 aliases:
 - Import GitHub Readme
 author:
-- Chasebank87
-author_page: https://chaseelder.com
+- '[[chasebank87|Chasebank87]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Fetches and integrates GitHub README files into personal notesmai

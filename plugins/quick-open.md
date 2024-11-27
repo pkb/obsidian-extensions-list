@@ -2,14 +2,11 @@
 aliases:
 - Quick Select
 author:
-- James Alexandre
-author_page: https://github.com/itsonlyjames
+- '[[itsonlyjames|James Alexandre]]'
 categories: []
 description: Quickly select items in any modal using keyboard shortcuts. Supercharge
   your workflow with fast, efficient item selection in Obsidian modals.
 downloads: 748
-funding_page:
-  GitHub Sponsor: https://github.com/sponsors/itsonlyjames
 mobile: true
 number: 1820
 title: Quick Select

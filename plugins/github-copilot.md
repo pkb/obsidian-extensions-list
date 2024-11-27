@@ -2,8 +2,7 @@
 aliases:
 - Github Copilot
 author:
-- Vasseur Pierre-Adrien
-author_page: https://github.com/Pierrad
+- '[[Pierrad|Vasseur Pierre-Adrien]]'
 categories: []
 description: Implement suggestions from Github Copilot directly in your editor.
 downloads: 4726

@@ -2,8 +2,7 @@
 aliases:
 - Find and replace in selection
 author:
-- Dmitry Savosh
-author_page: https://github.com/dy-sh/
+- '[[dy-sh|Dmitry Savosh]]'
 categories: []
 description: Finds what you are looking for in the selected text and replaces it with
   the specified text

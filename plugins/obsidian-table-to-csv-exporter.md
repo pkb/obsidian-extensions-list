@@ -2,8 +2,7 @@
 aliases:
 - Table to CSV Exporter
 author:
-- Stefan Wolfrum
-author_page: https://twitter.com/metawops
+- '[[metawops|Stefan Wolfrum]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This plugin allows for exporting tables from a pane in reading mode into

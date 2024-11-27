@@ -2,8 +2,7 @@
 aliases:
 - Note Definitions
 author:
-- Dominic Let
-author_page: https://github.com/dominiclet
+- '[[dominiclet|Dominic Let]]'
 categories: []
 description: Personal dictionary for your notes
 downloads: 7791

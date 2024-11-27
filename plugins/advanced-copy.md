@@ -2,8 +2,7 @@
 aliases:
 - Advanced Copy
 author:
-- leschuster
-author_page: https://github.com/leschuster
+- '[[leschuster|leschuster]]'
 categories: []
 description: Copy Markdown and transform it according to your needs.
 downloads: 243

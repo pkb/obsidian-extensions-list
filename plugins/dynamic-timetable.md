@@ -2,8 +2,7 @@
 aliases:
 - Dynamic Timetable
 author:
-- L7Cy
-author_page: https://github.com/L7Cy
+- '[[L7Cy|L7Cy]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Calculate the estimated time of completion from the estimated time of

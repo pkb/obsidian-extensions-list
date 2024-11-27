@@ -2,8 +2,7 @@
 aliases:
 - Embed Code File
 author:
-- Obsidian
-author_page: https://obsidian.md
+- '[[almariah|Obsidian]]'
 categories: []
 description: This is a plugin for Obsidian that allows for embedding code files.
 downloads: 6309

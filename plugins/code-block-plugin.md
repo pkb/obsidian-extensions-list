@@ -2,8 +2,7 @@
 aliases:
 - Code Block
 author:
-- Patrik Lindefors
-author_page: https://github.com/paddan/code-block-plugin
+- '[[paddan|Patrik Lindefors]]'
 categories: []
 description: This plugin converts text into code blocks with automatic language detection.
 downloads: 9208

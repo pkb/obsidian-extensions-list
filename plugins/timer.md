@@ -2,8 +2,7 @@
 aliases:
 - Timer
 author:
-- Marius Wörfel
-author_page: https://github.com/Raboro
+- '[[Raboro|Marius Wörfel]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Allows you to measure time.

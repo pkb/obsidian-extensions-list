@@ -2,8 +2,7 @@
 aliases:
 - Open In New Tab
 author:
-- Patrick Lee
-author_page: https://patricklee.nyc
+- '[[patleeman|Patrick Lee]]'
 categories: []
 description: Opens files in new tabs
 downloads: 17944

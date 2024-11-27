@@ -2,8 +2,7 @@
 aliases:
 - Wordnik Definitions
 author:
-- Henry Gustafson
-author_page: https://lizard-heart.github.io
+- '[[lizard-heart|Henry Gustafson]]'
 categories: []
 description: Grabs information from Wordnik for a topic and brings it into Obsidian
   notes

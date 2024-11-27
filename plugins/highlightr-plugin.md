@@ -2,8 +2,7 @@
 aliases:
 - Highlightr
 author:
-- chetachi
-author_page: https://github.com/chetachiezikeuzor
+- '[[chetachiezikeuzor|chetachi]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: "A minimal and aesthetically pleasing highlighting menu that makes color-coded

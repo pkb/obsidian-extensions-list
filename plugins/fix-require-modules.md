@@ -2,13 +2,11 @@
 aliases:
 - Fix Require Modules
 author:
-- mnaoumov
-author_page: https://github.com/mnaoumov/
+- '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Fixes require() calls, supporting JavaScript and TypeScript modules,
   enabling easy invocation, and adding code buttons for enhanced scripting capabilities
 downloads: 1509
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: false
 number: 1445
 title: Fix Require Modules

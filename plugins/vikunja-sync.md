@@ -2,14 +2,12 @@
 aliases:
 - Vikunja Sync
 author:
-- Peter Heiss
-author_page: https://github.com/Heiss
+- '[[Heiss|Peter Heiss]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Integrates Vikunja.
 downloads: 310
-funding_page: https://ko-fi.com/heiss
 mobile: true
 number: 1789
 title: Vikunja Sync

@@ -2,13 +2,11 @@
 aliases:
 - Xournal++
 author:
-- Jon Jampen
-author_page: https://jonjampen.ch
+- '[[jonjampen|Jon Jampen]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Integration with Xournal++ for handwritten notes and annotations.
 downloads: 1704
-funding_page: https://buymeacoffee.com/jonjampen
 mobile: false
 number: 1746
 title: Xournal++

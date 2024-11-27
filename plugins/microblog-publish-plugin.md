@@ -2,13 +2,11 @@
 aliases:
 - Micro.publish
 author:
-- Otavio Cordeiro
-author_page: https://otavio.cc
+- '[[otaviocc|Otavio Cordeiro]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Micro.blog
 downloads: 5062
-funding_page: https://ko-fi.com/otaviocc
 mobile: true
 number: 613
 title: Micro.publish

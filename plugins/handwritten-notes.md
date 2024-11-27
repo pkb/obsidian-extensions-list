@@ -2,15 +2,13 @@
 aliases:
 - Handwritten Notes
 author:
-- FBarrCa
-author_page: https://github.com/FBarrca/
+- '[[FBarrca|FBarrCa]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Annotate PDFs and create handwritten notes inside your vault using a
   stylus.
 downloads: 22355
-funding_page: https://www.buymeacoffee.com/FBarrCa
 mobile: true
 number: 1113
 title: Handwritten Notes

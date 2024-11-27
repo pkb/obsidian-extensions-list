@@ -2,8 +2,7 @@
 aliases:
 - Immich
 author:
-- Talal Abou Haiba
-author_page: https://github.com/Talal-A
+- '[[Talal-A|Talal Abou Haiba]]'
 categories: []
 description: Link your Immich images within your vault.
 downloads: 92

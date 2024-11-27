@@ -2,8 +2,7 @@
 aliases:
 - Filename Emoji Remover
 author:
-- Yüksel Tolun
-author_page: https://twitter.com/ytolun
+- '[[YTolun|Yüksel Tolun]]'
 categories: []
 description: This is a simple plugin to automatically remove emojis from filenames.
   Main purpose is to get rid of Dropbox sync issues for Readwise imported content.

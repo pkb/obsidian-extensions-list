@@ -2,8 +2,7 @@
 aliases:
 - AsciiDoc Blocks Plugin
 author:
-- Juracy Filho
-author_page: https://github.com/juracy/obsidian-asciidoc-blocks
+- '[[juracy|Juracy Filho]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'

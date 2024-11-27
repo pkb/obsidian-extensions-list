@@ -2,8 +2,7 @@
 aliases:
 - GTD No Next Step
 author:
-- saibotsivad
-author_page: https://davistobias.com
+- '[[saibotsivad|saibotsivad]]'
 categories: []
 description: Adds a badge to Getting Things Done (GTD) "project" files with no defined
   next step.

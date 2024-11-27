@@ -2,8 +2,7 @@
 aliases:
 - Rant-Lang
 author:
-- Leander Neiß
-author_page: https://github.com/lanice
+- '[[lanice|Leander Neiß]]'
 categories: []
 description: Thin wrapper around the Rant language Rust crate
 downloads: 4129

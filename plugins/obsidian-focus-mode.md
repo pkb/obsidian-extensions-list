@@ -2,8 +2,7 @@
 aliases:
 - Focus Mode
 author:
-- ryanpcmcquen
-author_page: https://github.com/ryanpcmcquen
+- '[[ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Add Focus Mode to Obsidian.
 downloads: 46847

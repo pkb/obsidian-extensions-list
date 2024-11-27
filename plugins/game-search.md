@@ -2,8 +2,7 @@
 aliases:
 - Game Search
 author:
-- Calvin forked from anpigon
-author_page: https://calvins.pizza
+- '[[CMorooney|Calvin forked from anpigon]]'
 categories: []
 description: Helps you find games and create notes. Optional Steam Library Sync
 downloads: 6431

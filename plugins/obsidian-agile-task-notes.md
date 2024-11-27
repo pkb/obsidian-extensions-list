@@ -2,8 +2,7 @@
 aliases:
 - Agile Task Notes
 author:
-- BoxThatBeat
-author_page: https://github.com/BoxThatBeat
+- '[[BoxThatBeat|BoxThatBeat]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Import your tasks from your TFS (Azure or Jira) to take notes on them

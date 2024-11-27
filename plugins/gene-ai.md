@@ -2,8 +2,7 @@
 aliases:
 - "Gene \U0001F9EC"
 author:
-- Matiss Jurevics
-author_page: https://saetom.xyz
+- '[[MatissJurevics|Matiss Jurevics]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Gene is an ai assistant for your second brain. It makes it easier than

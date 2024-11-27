@@ -2,8 +2,7 @@
 aliases:
 - Dialogue Mode
 author:
-- patrickchiang
-author_page: https://github.com/patrickchiang
+- '[[patrickchiang|patrickchiang]]'
 categories: []
 description: Dialogue mode for editing speech in writing.
 downloads: 539

@@ -2,8 +2,7 @@
 aliases:
 - Auto Classifier
 author:
-- Hyeonseo Nam
-author_page: https://github.com/HyeonseoNam/auto-classifier
+- '[[HyeonseoNam|Hyeonseo Nam]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Tag Management|Tag Management]]'

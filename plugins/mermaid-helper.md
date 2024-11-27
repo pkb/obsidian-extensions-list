@@ -2,8 +2,7 @@
 aliases:
 - Mermaid.js Helper (OMH)
 author:
-- Francesco Di Cursi
-author_page: https://github.com/FrancescoDiCursi
+- '[[FrancescoDiCursi|Francesco Di Cursi]]'
 categories: []
 description: plug in that helps in mermaid.js workflow and more
 downloads: 4758

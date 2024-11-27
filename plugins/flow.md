@@ -2,8 +2,7 @@
 aliases:
 - Flow
 author:
-- Ben Phillips
-author_page: https://ben-phillips.net
+- '[[tavva|Ben Phillips]]'
 categories: []
 description: Implements key processes in David Allen's Getting Things Done (GTD) methodology
   (Closed source)

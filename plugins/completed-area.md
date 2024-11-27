@@ -2,8 +2,7 @@
 aliases:
 - Completed Area
 author:
-- Daha
-author_page: https://github.com/DahaWong
+- '[[DahaWong|Daha]]'
 categories: []
 description: Move completed to-do items to a seperate completed area.
 downloads: 7675

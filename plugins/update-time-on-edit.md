@@ -2,8 +2,7 @@
 aliases:
 - Update time on edit
 author:
-- '@beaussan'
-author_page: https://github.com/beaussan
+- '[[beaussan|@beaussan]]'
 categories: []
 description: Keep front matter in sync with the last edit time
 downloads: 44221

@@ -2,16 +2,11 @@
 aliases:
 - Blockreffer
 author:
-- tyler.earth
-author_page: https://tyler.earth/
+- '[[tyler-dot-earth|tyler.earth]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and embed blocks with ^block-references (aka ^block-ids)
 downloads: 394
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/tyler.earth
-  GitHub Sponsor: https://github.com/sponsors/tyler-dot-earth
-  Ko-Fi: https://ko-fi.com/tylerdotearth
 mobile: true
 number: 1851
 title: Blockreffer

@@ -2,12 +2,10 @@
 aliases:
 - PodNotes
 author:
-- Christian B. B. Houmann
-author_page: https://bagerbach.com
+- '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: Helps you write notes on podcasts.
 downloads: 41320
-funding_page: https://buymeacoffee.com/chhoumann
 mobile: true
 number: 576
 title: PodNotes

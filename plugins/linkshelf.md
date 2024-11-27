@@ -2,8 +2,7 @@
 aliases:
 - LinkStowr
 author:
-- Joel Sequeira
-author_page: https://joelseq.dev
+- '[[joelseq|Joel Sequeira]]'
 categories: []
 description: Save links from your browser directly into Obsidian.
 downloads: 3955

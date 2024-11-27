@@ -2,16 +2,10 @@
 aliases:
 - Telegram Sync
 author:
-- soberhacker
-author_page: https://github.com/soberhacker/obsidian-telegram-sync
+- '[[soberhacker|soberhacker]]'
 categories: []
 description: Transfer messages and files from Telegram to Obsidian.
 downloads: 23718
-funding_page:
-  Buy me a coffee: https://www.buymeacoffee.com/soberhacker
-  Cryptocurrency: https://nowpayments.io/donation?api_key=JMM7NE1-M4X4JY6-N8EK1GJ-H8XQXFK
-  Ko-Fi: https://ko-fi.com/soberhacker
-  PayPal: https://www.paypal.com/donate/?hosted_button_id=VYSCUZX8MYGCU
 mobile: false
 number: 948
 title: Telegram Sync

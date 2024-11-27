@@ -2,12 +2,10 @@
 aliases:
 - Daily note creator
 author:
-- Mario Holubar
-author_page: https://github.com/mario-holubar
+- '[[mario-holubar|Mario Holubar]]'
 categories: []
 description: Automatically creates missing daily notes
 downloads: 1521
-funding_page: https://ko-fi.com/mario_holubar
 mobile: true
 number: 1387
 title: Daily note creator

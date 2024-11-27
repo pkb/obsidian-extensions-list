@@ -2,13 +2,11 @@
 aliases:
 - Spaced Repetition
 author:
-- Stephen Mwangi
-author_page: https://github.com/st3v3nmw
+- '[[st3v3nmw|Stephen Mwangi]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Fight the forgetting curve by reviewing flashcards & entire notes.
 downloads: 296391
-funding_page: https://ko-fi.com/M4M44DEN6
 mobile: true
 number: 152
 title: Spaced Repetition

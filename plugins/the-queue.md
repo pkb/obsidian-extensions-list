@@ -2,14 +2,12 @@
 aliases:
 - The Queue
 author:
-- Kolja Sam Pluemer
-author_page: koljapluemer.com/
+- '[[koljapluemer|Kolja Sam Pluemer]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Randomly exposes you to notes from your vault. Supports habits, to-dos,
   spaced repetition flashcards, iterative reading and more.
 downloads: 935
-funding_page: https://www.buymeacoffee.com/blackbrokkoli
 mobile: true
 number: 1691
 title: The Queue

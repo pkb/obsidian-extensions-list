@@ -2,8 +2,7 @@
 aliases:
 - Google Blogger
 author:
-- Hugo Sansaqua
-author_page: https://github.com/privet-kitty
+- '[[privet-kitty|Hugo Sansaqua]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Google Blogger.

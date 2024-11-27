@@ -2,8 +2,7 @@
 aliases:
 - Automatic List Styles
 author:
-- Max McGuire
-author_page: https://github.com/WiseGuru
+- '[[WiseGuru|Max McGuire]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Automatically formats the styles of ordered lists, incrementing the list

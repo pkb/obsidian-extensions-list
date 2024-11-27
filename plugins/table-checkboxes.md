@@ -2,8 +2,7 @@
 aliases:
 - Markdown table checkboxes
 author:
-- Dylan Giesberts
-author_page: https://github.com/DylanGiesberts
+- '[[DylanGiesberts|Dylan Giesberts]]'
 categories: []
 description: Converts markdown checkboxes in tables to HTML, and reflects the state
   upon (un)checking them.

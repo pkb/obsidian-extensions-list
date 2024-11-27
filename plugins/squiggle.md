@@ -2,8 +2,7 @@
 aliases:
 - Squiggle
 author:
-- Jesse Hoogland
-author_page: https://github.com/jqhoogland
+- '[[jqhoogland|Jesse Hoogland]]'
 categories: []
 description: Enables running squiggle code snippets within a note.
 downloads: 3502

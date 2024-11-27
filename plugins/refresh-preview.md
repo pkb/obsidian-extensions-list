@@ -2,12 +2,10 @@
 aliases:
 - Refresh Preview
 author:
-- mnaoumov
-author_page: https://github.com/mnaoumov/
+- '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Allows to refresh preview mode without reopening the note
 downloads: 809
-funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1769
 title: Refresh Preview

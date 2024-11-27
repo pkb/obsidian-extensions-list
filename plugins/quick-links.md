@@ -2,8 +2,7 @@
 aliases:
 - Quick Links
 author:
-- Ian Fisher
-author_page: https://iafisher.com
+- '[[iafisher|Ian Fisher]]'
 categories: []
 description: Create quick link shortcuts to Wikipedia and other sites
 downloads: 4420

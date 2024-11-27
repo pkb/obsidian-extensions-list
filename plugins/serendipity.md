@@ -2,8 +2,7 @@
 aliases:
 - Serendipity
 author:
-- Gaurav Ramesh
-author_page: https://x.com/outofdesk
+- '[[ggauravr|Gaurav Ramesh]]'
 categories: []
 description: Forces serendipitous discoveries by displaying random notes from your
   vault each time you open the app

@@ -2,8 +2,7 @@
 aliases:
 - Various Complements
 author:
-- tadashi-aikawa
-author_page: https://github.com/tadashi-aikawa
+- '[[tadashi-aikawa|tadashi-aikawa]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: This plugin enables you to complete words like the auto-completion of

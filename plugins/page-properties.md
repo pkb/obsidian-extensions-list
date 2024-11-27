@@ -2,15 +2,10 @@
 aliases:
 - Page Properties
 author:
-- Anton Bulakh
-author_page: https://necauqua.dev
+- '[[necauqua|Anton Bulakh]]'
 categories: []
 description: Render page properties similar to Logseq
 downloads: 6692
-funding_page:
-  Buy Me a Coffee: https://buymeacoffee.com/necauqua
-  Ko-Fi: https://ko-fi.com/necauqua
-  Patreon: https://www.patreon.com/necauqua
 mobile: true
 number: 851
 title: Page Properties

@@ -2,12 +2,10 @@
 aliases:
 - Mesh AI
 author:
-- Chasebank87
-author_page: https://chaseelder.com
+- '[[chasebank87|Chasebank87]]'
 categories: []
 description: Mesh AI prompt manager and gererator
 downloads: 3218
-funding_page: https://buymeacoffee.com/chasebank87
 mobile: true
 number: 1888
 title: Mesh AI

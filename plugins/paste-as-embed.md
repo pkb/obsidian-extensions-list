@@ -2,8 +2,7 @@
 aliases:
 - Paste as Embed
 author:
-- Matt Laporte
-author_page: https://lprt.ca
+- '[[mlprt|Matt Laporte]]'
 categories: []
 description: Paste text into a separate note, and embed the note.
 downloads: 137

@@ -2,8 +2,7 @@
 aliases:
 - Timeline
 author:
-- George Butco
-author_page: ''
+- '[[George-debug|George Butco]]'
 categories: []
 description: Used to build great timelines
 downloads: 41157

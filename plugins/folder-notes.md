@@ -2,13 +2,11 @@
 aliases:
 - Folder notes
 author:
-- Lost Paul
-author_page: https://github.com/LostPaul
+- '[[LostPaul|Lost Paul]]'
 categories: []
 description: Create notes within folders that can be accessed without collapsing the
   folder, similar to the functionality offered in Notion.
 downloads: 96410
-funding_page: https://ko-fi.com/paul305844
 mobile: true
 number: 895
 title: Folder notes

@@ -2,8 +2,7 @@
 aliases:
 - Gemini Generator
 author:
-- Bjarne Rentz
-author_page: https://github.com/BjarneRentz
+- '[[BjarneRentz|Bjarne Rentz]]'
 categories: []
 description: Let Google Gemini generator your notes!
 downloads: 774

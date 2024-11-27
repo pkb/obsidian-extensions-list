@@ -2,8 +2,7 @@
 aliases:
 - Hugo preview
 author:
-- fzdwx
-author_page: https://github.com/fzdwx
+- '[[fzdwx|fzdwx]]'
 categories: []
 description: Hugo preview in obsidian
 downloads: 4281

@@ -2,13 +2,11 @@
 aliases:
 - Natural Language Syntax Highlighting
 author:
-- artisticat
-author_page: https://github.com/artisticat1
+- '[[artisticat1|artisticat]]'
 categories: []
 description: Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the
   editor
 downloads: 11256
-funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 839
 title: Natural Language Syntax Highlighting

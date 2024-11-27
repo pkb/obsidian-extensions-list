@@ -2,14 +2,10 @@
 aliases:
 - Frontmatter generator
 author:
-- Hananoshika Yomaru
-author_page: https://yomaru.dev
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate frontmatter for your notes from json and javascript
 downloads: 3113
-funding_page:
-  Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
-  buymeacoffee: https://www.buymeacoffee.com/yomaru
 mobile: true
 number: 1220
 title: Frontmatter generator

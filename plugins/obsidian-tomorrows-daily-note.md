@@ -2,8 +2,7 @@
 aliases:
 - Tomorrow's Daily Note
 author:
-- Will Olson
-author_page: https://willolson.io
+- '[[frankolson|Will Olson]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: An obsidian plugin that creates tomorrow's daily note for preemtive planning.

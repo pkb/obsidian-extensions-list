@@ -2,13 +2,11 @@
 aliases:
 - Project Browser
 author:
-- Dale de Silva
-author_page: https://designdebt.club
+- '[[daledesilva|Dale de Silva]]'
 categories: []
 description: Replaces your new tab window with a browseable list of the files and
   folders in your vault.
 downloads: 5879
-funding_page: https://ko-fi.com/daledesilva
 mobile: true
 number: 1527
 title: Project Browser

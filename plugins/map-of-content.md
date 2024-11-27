@@ -2,8 +2,7 @@
 aliases:
 - Map of Content
 author:
-- Robin Haupt
-author_page: https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content
+- '[[Robin-Haupt-1|Robin Haupt]]'
 categories: []
 description: Automatically generate a Map of Content for your vault
 downloads: 35908

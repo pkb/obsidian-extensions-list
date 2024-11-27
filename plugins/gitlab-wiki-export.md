@@ -2,14 +2,12 @@
 aliases:
 - Gitlab Wiki Exporter
 author:
-- Josef Rabmer
-author_page: https://github.com/jrabmer
+- '[[jrabmer|Josef Rabmer]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Makes your entire vault Gitlab Wiki compatible and exports it to a specified
   location.
 downloads: 1303
-funding_page: https://ko-fi.com/jrabmer
 mobile: false
 number: 1479
 title: Gitlab Wiki Exporter

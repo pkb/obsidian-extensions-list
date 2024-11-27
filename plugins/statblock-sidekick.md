@@ -2,12 +2,10 @@
 aliases:
 - Statblock Sidekick
 author:
-- n21rl
-author_page: https://github.com/n21rl
+- '[[n21rl|n21rl]]'
 categories: []
 description: Create and expand D&D 5e statblocks.
 downloads: 1511
-funding_page: ko-fi.com/n21rl
 mobile: true
 number: 1681
 title: Statblock Sidekick

@@ -2,12 +2,10 @@
 aliases:
 - Auto-\displaystyle Inline Math
 author:
-- Ryota Ushio
-author_page: https://github.com/RyotaUshio
+- '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Automatically make all inline maths \displaystyle.
 downloads: 2305
-funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1306
 title: Auto-\displaystyle Inline Math

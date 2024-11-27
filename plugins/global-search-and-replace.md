@@ -2,8 +2,7 @@
 aliases:
 - Global Search and Replace
 author:
-- Mahmoud Fawzy Khalil
-author_page: https://github.com/MahmoudFawzyKhalil/
+- '[[MahmoudFawzyKhalil|Mahmoud Fawzy Khalil]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and replace in all vault files

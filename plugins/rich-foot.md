@@ -2,12 +2,10 @@
 aliases:
 - Rich Foot
 author:
-- Justin Parker
-author_page: https://www.jparkerweb.com
+- '[[jparkerweb|Justin Parker (eQui\\ Labs)]]'
 categories: []
 description: Adds backlink tags and created/modified dates to the footer of your notes.
 downloads: 1913
-funding_page: https://ko-fi.com/jparkerweb
 mobile: true
 number: 1903
 title: Rich Foot

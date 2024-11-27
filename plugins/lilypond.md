@@ -2,8 +2,7 @@
 aliases:
 - Lilypond
 author:
-- DOT-ASTERISK
-author_page: https://businesscard.dot-asterisk.nl
+- '[[dot-asterisk-nl|DOT-ASTERISK]]'
 categories: []
 description: Lilypond support in Obsidian
 downloads: 3515

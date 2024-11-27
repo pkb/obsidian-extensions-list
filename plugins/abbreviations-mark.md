@@ -2,12 +2,10 @@
 aliases:
 - Abbreviations and Acronyms
 author:
-- dragonish
-author_page: https://github.com/dragonish
+- '[[dragonish|dragonish]]'
 categories: []
 description: Implements automatic marking of abbreviations and acronyms (terminology).
 downloads: 273
-funding_page: https://ko-fi.com/monogamy
 mobile: true
 number: 1857
 title: Abbreviations and Acronyms

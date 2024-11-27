@@ -2,13 +2,11 @@
 aliases:
 - Additional Icons
 author:
-- Matthew Turk
-author_page: https://matthewturk.github.io/
+- '[[matthewturk|Matthew Turk]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Adds additional iconsets to Obsidian
 downloads: 2741
-funding_page: https://github.com/matthewturk/obsidian-additional-icons/#funding
 mobile: true
 number: 1358
 title: Additional Icons

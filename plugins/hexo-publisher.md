@@ -2,8 +2,7 @@
 aliases:
 - Hexo Publisher
 author:
-- zhenlohuang
-author_page: https://www.yidoo.xyz
+- '[[zhenlohuang|zhenlohuang]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to Hexo

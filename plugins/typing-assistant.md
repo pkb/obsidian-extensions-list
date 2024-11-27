@@ -2,8 +2,7 @@
 aliases:
 - Typing Assistant
 author:
-- Jambo
-author_page: https://github.com/Jambo2018
+- '[[Jambo2018|Jambo]]'
 categories: []
 description: Support multiple shortcut menus to improve input efficiency
 downloads: 12385

@@ -2,13 +2,10 @@
 aliases:
 - Quick File Name
 author:
-- Wapply
-author_page: https://github.com/Wapply
+- '[[Wapply|Wapply]]'
 categories: []
 description: Generates a note with a random string as its name.
 downloads: 812
-funding_page:
-  Buy Me a Coffee: https://ko-fi.com/wapply
 mobile: true
 number: 1542
 title: Quick File Name

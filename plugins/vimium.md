@@ -2,8 +2,7 @@
 aliases:
 - Vimium
 author:
-- Karsten Finderup Pedersen
-author_page: https://github.com/karstenpedersen
+- '[[karstenpedersen|Karsten Finderup Pedersen]]'
 categories: []
 description: Interact with elements using keyboard shortcuts in the spirit of Vim
 downloads: 1283

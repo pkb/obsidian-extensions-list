@@ -2,12 +2,10 @@
 aliases:
 - GDScript Syntax Highlighting
 author:
-- RobTheFiveNine
-author_page: https://github.com/RobTheFiveNine
+- '[[RobTheFiveNine|RobTheFiveNine]]'
 categories: []
 description: Add live GDScript syntax highlighting to code blocks.
 downloads: 1290
-funding_page: https://github.com/sponsors/RobTheFiveNine
 mobile: true
 number: 1648
 title: GDScript Syntax Highlighting

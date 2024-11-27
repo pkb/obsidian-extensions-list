@@ -2,8 +2,7 @@
 aliases:
 - Wielder
 author:
-- Victor Bjelkholm
-author_page: https://victor.earth
+- '[[victorb|Victor Bjelkholm]]'
 categories: []
 description: Clojure inside Obsidian
 downloads: 3613

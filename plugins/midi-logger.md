@@ -2,8 +2,7 @@
 aliases:
 - MIDI Logger
 author:
-- '@maybehelloworld'
-author_page: https://github.com/maybe-hello-world
+- '[[maybe-hello-world|@maybehelloworld]]'
 categories: []
 description: Insert parsed musical notes from MIDI input devices.
 downloads: 200

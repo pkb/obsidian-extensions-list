@@ -2,8 +2,7 @@
 aliases:
 - Bookmarks Caller
 author:
-- namikaze-40p
-author_page: https://github.com/namikaze-40p
+- '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Easily open bookmarks.
 downloads: 1302

@@ -2,8 +2,7 @@
 aliases:
 - Google Tasks
 author:
-- YukiGasai
-author_page: https://github.com/YukiGasai
+- '[[YukiGasai|YukiGasai]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'

@@ -2,8 +2,7 @@
 aliases:
 - Callout Suggestions
 author:
-- cwfryer
-author_page: https://github.com/cwfryer/
+- '[[cwfryer|cwfryer]]'
 categories: []
 description: Adds a fuzzy searched suggestion modal for callouts.
 downloads: 6170

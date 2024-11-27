@@ -2,13 +2,10 @@
 aliases:
 - Timestamp Link
 author:
-- wenlzhang
-author_page: https://github.com/wenlzhang
+- '[[wenlzhang|wenlzhang]]'
 categories: []
 description: Copy timestamped links to blocks, headings and notes.
 downloads: 2497
-funding_page:
-  Buy Me a Coffee: https://ko-fi.com/f84556
 mobile: true
 number: 1252
 title: Timestamp Link

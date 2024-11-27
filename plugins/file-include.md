@@ -2,8 +2,7 @@
 aliases:
 - File Include
 author:
-- Till Hoffmann
-author_page: https://tillahoffmann.github.io
+- '[[tillahoffmann|Till Hoffmann]]'
 categories: []
 description: Include or embed files in Obsidian markdown.
 downloads: 3981

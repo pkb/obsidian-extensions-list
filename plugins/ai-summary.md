@@ -2,8 +2,7 @@
 aliases:
 - AI Notes Summary
 author:
-- R. Ian Bull
-author_page: https://ianbull.com
+- '[[irbull|R. Ian Bull]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize referenced notes using OpenAI.

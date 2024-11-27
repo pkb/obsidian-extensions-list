@@ -2,14 +2,11 @@
 aliases:
 - Bearings
 author:
-- Jeet Sukumaran
-author_page: https://github/jeetsukumaran/obsidian-bearings
+- '[[jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Dynamically-scoped expanding tree views of your vault's semantic and
   logical architectures.
 downloads: 1515
-funding_page:
-  Buy Me a Coffee: https://www.buymeacoffee.com/jeetsukumaran
 mobile: true
 number: 1614
 title: Bearings

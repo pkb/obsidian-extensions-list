@@ -2,8 +2,7 @@
 aliases:
 - Table Extended
 author:
-- AidenLx
-author_page: https://github.com/AidenLx/
+- '[[aidenlx|AidenLx]]'
 categories: []
 description: Enable extended table support with MultiMarkdown 6 syntax
 downloads: 47931
