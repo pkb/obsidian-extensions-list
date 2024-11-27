@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/wanabeunique
 categories: []
 description: Log workouts, track progress, and view exercise statistic.
-downloads: 75
+downloads: 166
 mobile: true
 number: 1991
 title: Workout Tracker

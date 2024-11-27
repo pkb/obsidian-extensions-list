@@ -7,7 +7,7 @@ author_page: https://github.com/itsonlyjames
 categories: []
 description: Quickly select items in any modal using keyboard shortcuts. Supercharge
   your workflow with fast, efficient item selection in Obsidian modals.
-downloads: 734
+downloads: 748
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/itsonlyjames
 mobile: true

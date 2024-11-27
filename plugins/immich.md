@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Talal-A
 categories: []
 description: Link your Immich images within your vault.
-downloads: 86
+downloads: 92
 mobile: true
 number: 1894
 title: Immich

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/noradroid
 categories: []
 description: Easily backup vault on a remote repository.
-downloads: 1837
+downloads: 1854
 mobile: false
 number: 1430
 title: Git Integration

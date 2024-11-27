@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MichaBrugger
 categories: []
 description: Connect Obsidian to your Goodreads.
-downloads: 10444
+downloads: 10496
 mobile: false
 number: 534
 title: Booksidian

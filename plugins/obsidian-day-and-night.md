@@ -7,7 +7,7 @@ author_page: https://github.com/CyberT17
 categories: []
 description: An Obsidian plugin to automatically toggle themes between day theme and
   night theme on a set time schedule.
-downloads: 7243
+downloads: 7282
 mobile: false
 number: 601
 title: Day and Night

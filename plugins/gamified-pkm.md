@@ -7,7 +7,7 @@ author_page: https://github.com/saertna
 categories: []
 description: Enhance your Personal Knowledge Management with gamification elements.
   Boost motivation and achieve growth as you engage with your PKM.
-downloads: 2935
+downloads: 2964
 funding_page: https://ko-fi.com/andreastrebing
 mobile: true
 number: 1323

@@ -7,7 +7,7 @@ author_page: https://github.com/JuckZ
 categories: []
 description: A toolkit tries to solve all the trivial problems most people usually
   encountered in obsidian.
-downloads: 7285
+downloads: 7326
 funding_page: https://github.com/JuckZ/awesome-brain-manager
 mobile: true
 number: 831

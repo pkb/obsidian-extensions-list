@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/terrychenzw
 categories: []
 description: Visualize a Luhmann-style zettelkasten.
-downloads: 2477
+downloads: 2550
 mobile: true
 number: 1636
 title: zettelkasten navigation

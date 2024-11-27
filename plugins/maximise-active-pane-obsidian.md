@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/deathau
 categories: []
 description: Simply fills the workspace with the active pane
-downloads: 14473
+downloads: 14495
 mobile: true
 number: 45
 title: Maximise Active Pane

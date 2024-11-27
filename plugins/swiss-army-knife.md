@@ -7,7 +7,7 @@ author_page: https://github.com/mwoz123/
 categories: []
 description: Collection of various utilities e.g. duplicate empty line remover, Obsidian
   plugin release/tag version downloader (eg. for mobile tests)
-downloads: 3747
+downloads: 3766
 mobile: true
 number: 1149
 title: Swiss army knife

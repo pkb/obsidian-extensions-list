@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/waynevanson
 categories: []
 description: Create forms that save data simply; the data view of data entry
-downloads: 3924
+downloads: 3933
 funding_page:
   GitHub Sponsors: https://github.com/sponsors/waynevanson
 mobile: true

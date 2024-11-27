@@ -6,7 +6,7 @@ author:
 author_page: https://taichimaeda.github.io
 categories: []
 description: Inline completions and chat view powered by OpenAI
-downloads: 853
+downloads: 860
 mobile: false
 number: 1585
 title: Markpilot

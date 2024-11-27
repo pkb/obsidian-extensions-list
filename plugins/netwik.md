@@ -7,7 +7,7 @@ author_page: https://github.com/fivol
 categories: []
 description: This plugin provides access to global network of notes. Anyone can create,
   view or edit notes. All changes will be synchronized between all participants
-downloads: 4032
+downloads: 4037
 mobile: false
 number: 298
 title: Netwik

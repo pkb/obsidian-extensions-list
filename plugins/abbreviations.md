@@ -6,7 +6,7 @@ author:
 author_page: https://yann-pomie.fr
 categories: []
 description: Easily create abbreviations that will be expanded after hitting `Space`.
-downloads: 3630
+downloads: 3655
 mobile: false
 number: 1228
 title: Abbreviations expander

@@ -7,7 +7,7 @@ author_page: https://github.com/danielegrazzini/adjacency-matrix-exporter
 categories: []
 description: 'Create a numerical adjacency matrix of your vault in two ways: Absolute
   and Normalized.'
-downloads: 2002
+downloads: 2011
 mobile: true
 number: 1300
 title: Adjacency Matrix Exporter

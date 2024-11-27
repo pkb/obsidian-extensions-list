@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/holubj
 categories: []
 description: Create dialogues in Markdown.
-downloads: 14494
+downloads: 14602
 mobile: true
 number: 365
 title: Dialogue

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ironsigma
 categories: []
 description: Perform various text conversions on the selected text
-downloads: 3056
+downloads: 3061
 mobile: true
 number: 1164
 title: Text Conversions

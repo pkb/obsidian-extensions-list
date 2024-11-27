@@ -7,7 +7,7 @@ author_page: https://dragonwocky.me/
 categories: []
 description: Run Obsidian from the system tray for customisable window management
   & global quick notes
-downloads: 15316
+downloads: 15542
 mobile: false
 number: 886
 title: Tray

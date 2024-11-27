@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Datetime Language Changer
+- Datetime Language Changer
 author:
-  - Zetab_S
+- Zetab_S
 author_page: https://github.com/ZetabS
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
-description: Customize the language used for datetime formatting by changing moment.js's locale.
-downloads: 2256
+- '[[categories/Date and calendar|Date and calendar]]'
+description: Customize the language used for datetime formatting by changing moment.js's
+  locale.
+downloads: 2266
 mobile: true
 number: 1277
 title: Datetime Language Changer
 type: plugin
-updated: 2023-11-01T00:05:55
+updated: '2023-11-01T00:05:55'
 url: https://github.com/ZetabS/datetime-language-changer
 version: 1.0.2
 ---

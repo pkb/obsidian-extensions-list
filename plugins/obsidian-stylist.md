@@ -6,7 +6,7 @@ author:
 author_page: https://ixth.net/
 categories: []
 description: Obsidian plugin that allows to add classes and styles on markdown blocks
-downloads: 4789
+downloads: 4802
 mobile: true
 number: 709
 title: Obsidian Stylist

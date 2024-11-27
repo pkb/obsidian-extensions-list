@@ -7,7 +7,7 @@ author_page: https://github.com/Superschnizel
 categories: []
 description: Grab movie data from public APIs and transform it into notes with a powerful
   templating engine.
-downloads: 4731
+downloads: 4779
 funding_page: https://ko-fi.com/superschnizel
 mobile: true
 number: 1182

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gapmiss
 categories: []
 description: Logs all notices to the developer console, with optional prefix and timestamp.
-downloads: 784
+downloads: 791
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/gapmiss
   Github Sponsors: https://github.com/sponsors/gapmiss

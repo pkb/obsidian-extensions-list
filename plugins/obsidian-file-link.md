@@ -6,7 +6,7 @@ author:
 author_page: https://www.marc-julian.de
 categories: []
 description: A plugin to add better external file links to notes.
-downloads: 22804
+downloads: 22942
 mobile: false
 number: 276
 title: Better File Link

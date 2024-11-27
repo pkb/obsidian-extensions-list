@@ -7,7 +7,7 @@ author_page: https://github.com/christianwannerstedt
 categories: []
 description: Adds an extended tags panel where tagged files can be overviewed, filtered
   and accessed in an easy way.
-downloads: 11559
+downloads: 11645
 mobile: true
 number: 1167
 title: Tags Overview

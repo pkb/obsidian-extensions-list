@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RyotaUshio
 categories: []
 description: Hide unwanted commands from the command palette.
-downloads: 1143
+downloads: 1154
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
   GitHub Sponsor: https://github.com/sponsors/RyotaUshio

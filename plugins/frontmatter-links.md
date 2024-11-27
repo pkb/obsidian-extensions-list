@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Trikzon
 categories: []
 description: Renders links in a note's frontmatter as links.
-downloads: 9576
+downloads: 9608
 mobile: true
 number: 662
 title: Frontmatter Links

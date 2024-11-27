@@ -6,7 +6,7 @@ author:
 author_page: https://veersheth.in
 categories: []
 description: Alt-click to copy code!
-downloads: 1478
+downloads: 1495
 mobile: true
 number: 1391
 title: Alt-Click to Copy

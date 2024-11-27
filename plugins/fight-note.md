@@ -7,7 +7,7 @@ author_page: https://github.com/Loac
 categories: []
 description: 'Render Tekken notation into an easy-to-read format (partially useful
   for other fighting games: Guilty Gear, Street Fighter and etc).'
-downloads: 915
+downloads: 921
 mobile: true
 number: 1531
 title: Fight Note

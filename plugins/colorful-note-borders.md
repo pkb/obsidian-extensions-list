@@ -7,7 +7,7 @@ author_page: https://github.com/rusi
 categories: []
 description: Add customizable colorful borders to notes based on folder location or
   frontmatter metadata, enhancing visual organization in Obsidian.
-downloads: 9389
+downloads: 9480
 mobile: true
 number: 866
 title: Colorful Note Borders

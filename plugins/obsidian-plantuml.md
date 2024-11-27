@@ -1,19 +1,19 @@
 ---
 aliases:
-  - PlantUML
+- PlantUML
 author:
-  - Johannes Theiner
+- Johannes Theiner
 author_page: https://github.com/joethei/
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
-  - "[[categories/Custom code blocks|Custom code blocks]]"
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
+- '[[categories/Custom code blocks|Custom code blocks]]'
 description: Render PlantUML Diagrams
-downloads: 86490
+downloads: 87274
 mobile: true
 number: 128
 title: PlantUML
 type: plugin
-updated: 2024-04-26T16:45:22
+updated: '2024-04-26T16:45:22'
 url: https://github.com/joethei/obsidian-plantuml
 version: 1.8.0
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/roovo
 categories: []
 description: Display markdown tasks on kanban style boards.
-downloads: 102876
+downloads: 103861
 mobile: true
 number: 348
 title: CardBoard

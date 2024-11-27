@@ -7,7 +7,7 @@ author_page: https://github.com/czottmann
 categories: []
 description: A simple proxy for `console.*()` calls which copies log messages and
   uncaught exceptions to a file.
-downloads: 5080
+downloads: 5128
 mobile: true
 number: 987
 title: Logstravaganza

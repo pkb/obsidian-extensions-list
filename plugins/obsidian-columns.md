@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tnichols217/obsidian-columns
 categories: []
 description: Allows you to create columns in Obsidian Markdown
-downloads: 48880
+downloads: 49163
 mobile: true
 number: 497
 title: Obsidian Columns

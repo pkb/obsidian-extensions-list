@@ -8,7 +8,7 @@ categories: []
 description: Manage settings options, including show enabled/disabled plugins and
   css, grid layout, save current plugins/css enable config for quick enable/disable,
   etc.
-downloads: 1072
+downloads: 1113
 mobile: false
 number: 1672
 title: Settings Management

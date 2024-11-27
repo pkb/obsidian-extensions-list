@@ -7,7 +7,7 @@ author_page: https://github.com/anareaty
 categories: []
 description: Adds some extra options to callouts context menu and allows you to add
   your own custom callouts.
-downloads: 923
+downloads: 1166
 mobile: true
 number: 1897
 title: Callout menu

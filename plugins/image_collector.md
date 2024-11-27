@@ -7,7 +7,7 @@ author_page: tdaykin.github.io
 categories: []
 description: Collects all images from your note and saves them to a new folder called
   "file_name images".
-downloads: 1825
+downloads: 1840
 funding_page: https://www.buymeacoffee.com/tdaykin
 mobile: true
 number: 1427

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Git-Sum
 categories: []
 description: Get metadata from a YouTube video
-downloads: 4310
+downloads: 4333
 funding_page: https://ko-fi.com/V7V7QZED2
 mobile: true
 number: 1245

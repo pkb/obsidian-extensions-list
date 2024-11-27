@@ -7,7 +7,7 @@ author_page: https://portfolio.ckrobinson.net
 categories: []
 description: This plugin adds functionality to create markdown documents with multiple
   columns of content viewable within Obsidian's preview mode
-downloads: 133331
+downloads: 134432
 funding_page: https://www.buymeacoffee.com/ckrobinson
 mobile: true
 number: 409

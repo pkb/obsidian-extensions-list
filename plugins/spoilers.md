@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Jacobtread
 categories: []
 description: Hide and reveal blocks of information
-downloads: 942
+downloads: 989
 funding_page: https://github.com/sponsors/jacobtread
 mobile: true
 number: 1734

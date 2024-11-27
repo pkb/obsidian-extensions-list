@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RyotaUshio
 categories: []
 description: Automatically make all inline maths \displaystyle.
-downloads: 2284
+downloads: 2305
 funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1306

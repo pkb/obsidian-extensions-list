@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/BambusControl
 categories: []
 description: Automatically replace text fragments with symbols or different text
-downloads: 899
+downloads: 931
 mobile: true
 number: 1698
 title: Substitutions

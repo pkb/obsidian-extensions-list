@@ -7,7 +7,7 @@ author_page: https://github.com/petr-nazarov
 categories: []
 description: This plugin allows you to automatically scroll down the content with
   the provided speed
-downloads: 3974
+downloads: 3977
 mobile: true
 number: 708
 title: Autoscroll

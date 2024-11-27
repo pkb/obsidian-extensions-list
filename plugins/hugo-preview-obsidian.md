@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/fzdwx
 categories: []
 description: Hugo preview in obsidian
-downloads: 4274
+downloads: 4281
 mobile: false
 number: 743
 title: Hugo preview

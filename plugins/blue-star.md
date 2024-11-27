@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/Lio5n
 categories: []
 description: Generate Anki flashcards in multiple ways.
-downloads: 121
+downloads: 180
 mobile: false
 number: 1985
 title: Blue Star
 type: plugin
-updated: '2024-11-14T22:47:18'
+updated: '2024-11-20T16:18:31'
 url: https://github.com/Lio5n/blue-star
-version: 1.2.3
+version: 1.2.4
 ---
 
 %% README_START %%

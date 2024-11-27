@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/piriwata
 categories: []
 description: Seamlessly sync markdown notes into PlanetScale tables.
-downloads: 3157
+downloads: 3159
 mobile: true
 number: 933
 title: PubScale

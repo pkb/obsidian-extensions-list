@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vrtmrz
 categories: []
 description: Back our vault up with lesser storage.
-downloads: 1821
+downloads: 1851
 mobile: true
 number: 1492
 title: Differential ZIP Backup

@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Cicada Synchronizer
+- Cicada Synchronizer
 author:
-  - Adapole
-  - Mahyar Mirrashed
+- Adapole
+- Mahyar Mirrashed
 author_page: https://github.com/adapole
 categories:
-  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
+- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: uses Git to synchronize vaults for team collaboration.
-downloads: 904
+downloads: 906
 mobile: false
 number: 1528
 title: Cicada Synchronizer
 type: plugin
-updated: 2024-03-11T22:43:24
+updated: '2024-03-11T22:43:24'
 url: https://github.com/adapole/cicada-sync
 version: 1.0.1
 ---

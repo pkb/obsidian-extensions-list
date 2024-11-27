@@ -7,7 +7,7 @@ author_page: https://github.com/gitcpy
 categories: []
 description: Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable
   and zoomable popup
-downloads: 330
+downloads: 438
 mobile: true
 number: 1923
 title: Diagram Popup

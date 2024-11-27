@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/DarioCasciato
 categories: []
 description: Automatically collapses subfolders when a parent folder is collapsed
-downloads: 1200
+downloads: 1277
 funding_page: https://buymeacoffee.com/dcasciato0s
 mobile: true
 number: 1818

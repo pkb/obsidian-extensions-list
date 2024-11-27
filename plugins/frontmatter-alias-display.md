@@ -7,7 +7,7 @@ author_page: https://github.com/muhammadv-i
 categories: []
 description: A plugin for Obsidian to show front-matter aliases as display names in
   the File Explorer.
-downloads: 4440
+downloads: 4451
 mobile: true
 number: 863
 title: Frontmatter Alias Display

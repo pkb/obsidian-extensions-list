@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ryanpcmcquen
 categories: []
 description: Run JavaScript when Obsidian loads, or any other time.
-downloads: 5393
+downloads: 5406
 mobile: true
 number: 314
 title: JavaScript Init

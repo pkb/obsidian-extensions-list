@@ -1,18 +1,19 @@
 ---
 aliases:
-  - QuickShare
+- QuickShare
 author:
-  - Maxime Cannoodt (@mcndt)
+- Maxime Cannoodt (@mcndt)
 author_page: https://mcndt.dev
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Securely share your Obsidian notes with one click. Notes are end-to-end encrypted. No API keys or configuration required.
-downloads: 21264
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Securely share your Obsidian notes with one click. Notes are end-to-end
+  encrypted. No API keys or configuration required.
+downloads: 21387
 mobile: true
 number: 588
 title: QuickShare
 type: plugin
-updated: 2023-01-07T14:36:55
+updated: '2023-01-07T14:36:55'
 url: https://github.com/mcndt/obsidian-quickshare
 version: 1.3.1
 ---

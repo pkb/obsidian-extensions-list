@@ -7,7 +7,7 @@ author_page: https://github.com/Ebonsignori
 categories: []
 description: Inline timelines generated from human-readable time strings, e.g. 'Walk
   dog (30min)' in a ```schedule codeblock.
-downloads: 2001
+downloads: 2028
 mobile: true
 number: 1370
 title: Timeline Schedule

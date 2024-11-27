@@ -7,7 +7,7 @@ author_page: https://kevingerman.de
 categories: []
 description: Allows you to create, manage and display Laws of Form expressions like
   ((a)) (b) = a (b).
-downloads: 3203
+downloads: 3206
 mobile: true
 number: 1010
 title: Laws of Form

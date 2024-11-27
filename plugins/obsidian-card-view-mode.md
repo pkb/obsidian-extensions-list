@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yo-goto
 categories: []
 description: Enable to view your notes as cards.
-downloads: 15643
+downloads: 15720
 mobile: true
 number: 290
 title: Card View Mode

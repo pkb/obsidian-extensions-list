@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Mindmap
+- Mindmap
 author:
-  - YunXiaoYi
+- YunXiaoYi
 author_page: https://github.com/OneCalmCloud
 categories:
-  - "[[categories/Mind mapping|Mind mapping]]"
+- '[[categories/Mind mapping|Mind mapping]]'
 description: Create notes with Mindmaps.
-downloads: 4556
+downloads: 4726
 mobile: true
 number: 1598
 title: Mindmap
 type: plugin
-updated: 2024-04-15T19:43:14
+updated: '2024-04-15T19:43:14'
 url: https://github.com/OneCalmCloud/obsidian-mindmap
 version: 0.3.3
 ---

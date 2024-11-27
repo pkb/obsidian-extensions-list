@@ -6,7 +6,7 @@ author:
 author_page: https://zachyoung.dev
 categories: []
 description: Send a card in Obsidian Canvas to be behind all other cards.
-downloads: 6032
+downloads: 6117
 funding_page: https://github.com/sponsors/Zachatoo
 mobile: true
 number: 1157

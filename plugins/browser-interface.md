@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jason-lieb/
 categories: []
 description: Save and reopen browser tabs using your vault and a browser extension.
-downloads: 240
+downloads: 254
 mobile: false
 number: 1786
 title: Browser Interface

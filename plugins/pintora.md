@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Pintora
+- Pintora
 author:
-  - Amias Lee
+- Amias Lee
 author_page: https://github.com/amiaslee
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Generates diagrams using Pintora
-downloads: 108
+downloads: 116
 mobile: true
 number: 1904
 title: Pintora
 type: plugin
-updated: 2024-09-09T13:06:21
+updated: '2024-09-09T13:06:21'
 url: https://github.com/amiaslee/obsidian-pintora
 version: 1.0.0
 ---

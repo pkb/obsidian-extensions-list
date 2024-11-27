@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RyotaUshio
 categories: []
 description: Upgrade Obsidian's built-in link suggestions with block markdown rendering.
-downloads: 2553
+downloads: 2564
 funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1311

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Chinese Calendar
+- Chinese Calendar
 author:
-  - DevilRoshan
+- DevilRoshan
 author_page: https://github.com/DevilRoshan
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: 符合中国习惯的日历，可以显示农历、节日、调休、节气等信息，支持月视图和年视图切换，支持点击日期创建笔记，支持使用QuickAdd插件创建笔记。
-downloads: 1412
+downloads: 1471
 mobile: false
 number: 1790
 title: Chinese Calendar
 type: plugin
-updated: 2024-08-04T22:31:56
+updated: '2024-08-04T22:31:56'
 url: https://github.com/DevilRoshan/obsidian-lunar-calendar
 version: 1.0.9
 ---

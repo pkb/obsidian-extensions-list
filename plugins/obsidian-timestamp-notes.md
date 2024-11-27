@@ -8,7 +8,7 @@ categories: []
 description: This plugin allows side-by-side notetaking with videos. Annotate your
   notes with timestamps to directly control the video and remember where each note
   comes from.
-downloads: 19346
+downloads: 19476
 mobile: false
 number: 538
 title: Timestamp Notes

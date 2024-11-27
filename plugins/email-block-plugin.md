@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JoLeaf
 categories: []
 description: This plugin renders an email code block.
-downloads: 5608
+downloads: 5631
 funding_page: https://ko-fi.com/joleaf
 mobile: true
 number: 763

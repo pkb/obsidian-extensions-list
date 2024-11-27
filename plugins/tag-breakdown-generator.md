@@ -6,7 +6,7 @@ author:
 author_page: https://yomaru.dev
 categories: []
 description: Breakdown nested tags into multiple parent tags
-downloads: 2511
+downloads: 2519
 funding_page:
   Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
   buymeacoffee: https://www.buymeacoffee.com/yomaru

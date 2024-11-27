@@ -1,18 +1,18 @@
 ---
 aliases:
-  - obsidian echarts
+- obsidian echarts
 author:
-  - windily-cloud && Cuman
+- windily-cloud && Cuman
 author_page: https://github.com/cumany
 categories:
-  - "[[categories/Charting|Charting]]"
+- '[[categories/Charting|Charting]]'
 description: obsidian echarts
-downloads: 6435
+downloads: 6468
 mobile: true
 number: 555
 title: obsidian echarts
 type: plugin
-updated: 2022-06-23T13:21:32
+updated: '2022-06-23T13:21:32'
 url: https://github.com/cumany/obsidian-echarts
 version: 0.0.3
 ---

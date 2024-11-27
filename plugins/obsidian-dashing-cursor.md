@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/9r0x/obsidian-dashing-cursor
 categories: []
 description: Enables dashing cursor that follows the page scroll
-downloads: 4413
+downloads: 4419
 mobile: true
 number: 587
 title: Dashing cursor

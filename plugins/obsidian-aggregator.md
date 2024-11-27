@@ -7,7 +7,7 @@ author_page: https://github.com/Seraphli
 categories: []
 description: This plugin helps you gather information from files, and make a summary
   in the file.
-downloads: 4244
+downloads: 4252
 mobile: true
 number: 707
 title: Aggregator

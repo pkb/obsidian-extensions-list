@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/soberhacker/obsidian-telegram-sync
 categories: []
 description: Transfer messages and files from Telegram to Obsidian.
-downloads: 23076
+downloads: 23718
 funding_page:
   Buy me a coffee: https://www.buymeacoffee.com/soberhacker
   Cryptocurrency: https://nowpayments.io/donation?api_key=JMM7NE1-M4X4JY6-N8EK1GJ-H8XQXFK

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/modality
 categories: []
 description: Render TOR 2e statblocks in Obsidian.
-downloads: 3463
+downloads: 3464
 mobile: true
 number: 769
 title: The One Ring 2E Statblocks

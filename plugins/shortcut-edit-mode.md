@@ -7,7 +7,7 @@ author_page: https//github.com/Mara-Li
 categories: []
 description: Add a button in file header in edit mode, to switch between source &
   live-preview
-downloads: 327
+downloads: 362
 mobile: true
 number: 1891
 title: Edit mode switch

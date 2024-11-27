@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jackvonhouse
 categories: []
 description: Customize nodes size for improved graph understanding.
-downloads: 604
+downloads: 685
 mobile: true
 number: 1922
 title: Custom Node Size

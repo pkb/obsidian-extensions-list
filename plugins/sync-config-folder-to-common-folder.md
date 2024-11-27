@@ -7,7 +7,7 @@ author_page: https://github.com/codeonquer
 categories: []
 description: Sync contents from config folder to common folder for backup or other
   purposes
-downloads: 560
+downloads: 566
 mobile: false
 number: 1593
 title: Sync config folder to common folder

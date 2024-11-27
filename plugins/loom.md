@@ -6,7 +6,7 @@ author:
 author_page: https://celeste.exposed
 categories: []
 description: Loom in Obsidian
-downloads: 5181
+downloads: 5211
 funding_page: https://www.patreon.com/parafactual
 mobile: false
 number: 906

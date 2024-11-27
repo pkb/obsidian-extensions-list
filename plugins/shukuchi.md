@@ -6,7 +6,7 @@ author:
 author_page: https://minerva.mamansoft.net/
 categories: []
 description: Teleport to links (URL or internal link) and jump to their destinations.
-downloads: 3850
+downloads: 3853
 mobile: true
 number: 965
 title: Shukuchi

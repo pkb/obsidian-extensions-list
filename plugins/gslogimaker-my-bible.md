@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/GsLogiMaker
 categories: []
 description: Your own customizable markdown bible for your personal vault!
-downloads: 3748
+downloads: 4011
 funding_page: https://www.buymeacoffee.com/gslogimake0
 mobile: true
 number: 1410
 title: My Bible
 type: plugin
-updated: '2024-09-08T22:45:11'
+updated: '2024-11-21T23:25:17'
 url: https://github.com/GsLogiMaker/my-bible-obsidian-plugin
-version: 1.2.1
+version: 1.3.3
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://michaeladams.dev
 categories: []
 description: Display low-fi text progress bars in your notes.
-downloads: 5818
+downloads: 5842
 mobile: true
 number: 796
 title: Text Progress Bar

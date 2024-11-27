@@ -6,7 +6,7 @@ author:
 author_page: https://adanielnoel.com
 categories: []
 description: Keep your notes indexed based on their (hierarchical) tags
-downloads: 735
+downloads: 759
 mobile: true
 number: 1777
 title: Index Notes

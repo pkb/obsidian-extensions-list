@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/adziok
 categories: []
 description: Allow to generate Jira like ids.
-downloads: 4177
+downloads: 4191
 mobile: true
 number: 773
 title: Incremental ID

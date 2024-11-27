@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: Add random notes from your vault to the Obsidian canvas
-downloads: 3943
+downloads: 3947
 funding_page: https://obsidian.md/pricing
 mobile: false
 number: 747

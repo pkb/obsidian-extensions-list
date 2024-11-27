@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vkostyanetsky
 categories: []
 description: Intermittent fasting tracker.
-downloads: 1449
+downloads: 1458
 mobile: true
 number: 1388
 title: Fastimer

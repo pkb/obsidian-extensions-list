@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/svonjoi
 categories: []
 description: Indenting content under headers based on their level
-downloads: 11336
+downloads: 11723
 mobile: true
 number: 804
 title: Heading Level Indent

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aqav
 categories: []
 description: Show the links between "Canvas" and "File".
-downloads: 8187
+downloads: 8276
 mobile: true
 number: 951
 title: Canvas Links

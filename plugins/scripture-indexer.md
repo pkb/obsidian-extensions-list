@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jdrbrn
 categories: []
 description: Indexes references to scriptures in notes.
-downloads: 118
+downloads: 128
 mobile: true
 number: 1926
 title: Scripture Indexer

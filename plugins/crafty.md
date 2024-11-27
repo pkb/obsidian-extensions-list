@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/liolle
 categories: []
 description: Add tooltip to any canvas node and Quickly navigate between canvas nodes
-downloads: 2409
+downloads: 2443
 mobile: false
 number: 1508
 title: Crafty

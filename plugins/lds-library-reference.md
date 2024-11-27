@@ -8,7 +8,7 @@ author_page: https://github.com/ingiestein
 categories: []
 description: Easily insert references to scripture and conference talks from the Church
   of Jesus Christ of Latter-day Saints
-downloads: 98
+downloads: 104
 mobile: true
 number: 1843
 title: LDS Library Reference

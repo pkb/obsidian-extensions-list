@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/thenomadlad/
 categories: []
 description: Tools to archive your notes in another folder
-downloads: 4536
+downloads: 4568
 mobile: true
 number: 962
 title: Note archiver

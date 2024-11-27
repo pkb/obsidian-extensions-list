@@ -6,7 +6,7 @@ author:
 author_page: https://ravimashru.dev
 categories: []
 description: Show the full path of the currently open file in the status bar
-downloads: 30415
+downloads: 30522
 mobile: true
 number: 94
 title: Show Current File Path

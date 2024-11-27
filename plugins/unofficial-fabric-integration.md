@@ -6,7 +6,7 @@ author:
 author_page: https://chaseelder.com
 categories: []
 description: Integrates Fabric into your vault
-downloads: 1591
+downloads: 1646
 funding_page: https://buymeacoffee.com/chasebank87
 mobile: false
 number: 1791

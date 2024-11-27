@@ -7,7 +7,7 @@ author_page: https://dave.murray-rust.org
 categories: []
 description: Create new notes from Templates - for each Template, provides a Command
   to trigger it, and a form to fill in any variables in the template
-downloads: 11862
+downloads: 11924
 mobile: true
 number: 363
 title: From Template

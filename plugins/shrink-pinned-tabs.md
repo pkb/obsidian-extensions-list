@@ -6,12 +6,12 @@ author:
 author_page: https://nicolas.loeuillet.org
 categories: []
 description: Shrinks pinned tabs to save screen space.
-downloads: 760
+downloads: 805
 mobile: true
 number: 1763
 title: Shrink pinned tabs
 type: plugin
-updated: '2024-07-15T21:16:48'
+updated: '2024-11-19T18:08:16'
 url: https://github.com/nicosomb/obsidian-shrink-pinned-tabs
 version: 1.0.5
 ---

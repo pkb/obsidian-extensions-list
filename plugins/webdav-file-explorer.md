@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/red0orange
 categories: []
 description: A webdav file explorer for Obsidian.
-downloads: 4128
+downloads: 4156
 funding_page: ''
 mobile: false
 number: 1117

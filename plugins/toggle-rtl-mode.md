@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/YoniA
 categories: []
 description: Toggle RTL mode using command or ribbon action
-downloads: 240
+downloads: 246
 mobile: true
 number: 1660
 title: Toggle RTL mode

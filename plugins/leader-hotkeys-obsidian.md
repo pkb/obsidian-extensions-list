@@ -5,7 +5,7 @@ author: tgrosinger
 author_page: https://github.com/tgrosinger
 categories: []
 description: Add leader hotkey support to any command (like tmux or vim)
-downloads: 11370
+downloads: 11410
 mobile: true
 number: 6
 title: Leader Hotkeys

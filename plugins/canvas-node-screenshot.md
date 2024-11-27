@@ -6,7 +6,7 @@ author:
 author_page: https://istfredy.tech
 categories: []
 description: Capture node effortlessly with precision screenshot.
-downloads: 1132
+downloads: 1136
 mobile: true
 number: 1513
 title: Node Screenshot

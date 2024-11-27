@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/recklyss
 categories: []
 description: Convert markdown into timeline visualization
-downloads: 173
+downloads: 305
 mobile: true
 number: 2002
 title: Markdown Timeline

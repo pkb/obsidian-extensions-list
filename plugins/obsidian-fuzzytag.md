@@ -6,7 +6,7 @@ author:
 author_page: github.com/adriandersen
 categories: []
 description: Fuzzy match autocomplete tags in Frontmatter
-downloads: 5221
+downloads: 5227
 mobile: false
 number: 716
 title: FuzzyTag

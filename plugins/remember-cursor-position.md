@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dy-sh/
 categories: []
 description: Remember cursor and scroll position for each note
-downloads: 92632
+downloads: 93635
 mobile: true
 number: 122
 title: Remember cursor position

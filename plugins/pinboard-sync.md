@@ -6,7 +6,7 @@ author:
 author_page: https://twitter.com/Automatt
 categories: []
 description: Syncs Pinboard.in links with Daily Notes
-downloads: 3970
+downloads: 3982
 mobile: true
 number: 405
 title: Pinboard Sync

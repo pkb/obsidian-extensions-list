@@ -6,7 +6,7 @@ author:
 author_page: https://twitter.com/hipstersmoothie
 categories: []
 description: Opinionated formatting for your notes.
-downloads: 15251
+downloads: 15336
 mobile: true
 number: 110
 title: Prettier Format

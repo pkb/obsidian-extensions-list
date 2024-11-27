@@ -6,7 +6,7 @@ author:
 author_page: https://kaels-kabbage.com
 categories: []
 description: Nextcloud breaks Wiki-links (e.g. [[Some document]]). This fixes them.
-downloads: 199
+downloads: 210
 mobile: true
 number: 1787
 title: Nextcloud Link Fixer

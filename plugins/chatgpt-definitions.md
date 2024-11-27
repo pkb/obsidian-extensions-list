@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/julix14
 categories: []
 description: Let your AI assistant ChatGPT define words and concepts for you.
-downloads: 3837
+downloads: 3853
 mobile: false
 number: 1103
 title: ChatGPT Definition

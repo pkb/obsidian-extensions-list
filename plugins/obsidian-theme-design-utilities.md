@@ -7,7 +7,7 @@ author_page: https://github.com/chrisgrieser/theme-design-utilities
 categories: []
 description: Some Utilities and Quality-of-Life Features for Designers of Obsidian
   Themes.
-downloads: 14648
+downloads: 14712
 funding_page: https://ko-fi.com/pseudometa
 mobile: false
 number: 367

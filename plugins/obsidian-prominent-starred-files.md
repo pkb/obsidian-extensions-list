@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Prominently display bookmarked notes in the file explorer
-downloads: 9190
+downloads: 9229
 mobile: true
 number: 299
 title: Prominent Bookmarked Files

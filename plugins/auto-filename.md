@@ -1,20 +1,21 @@
 ---
 aliases:
-  - Auto Filename
+- Auto Filename
 author:
-  - rcsaquino
+- rcsaquino
 author_page: https://github.com/rcsaquino
 categories:
-  - "[[categories/Automation|Automation]]"
-  - "[[categories/File management|File management]]"
-description: Automatically rename files on the go based on the first x characters of files.
-downloads: 3931
+- '[[categories/Automation|Automation]]'
+- '[[categories/File management|File management]]'
+description: Automatically rename files on the go based on the first x characters
+  of files.
+downloads: 3975
 funding_page: https://ko-fi.com/rcsaquino
 mobile: true
 number: 1217
 title: Auto Filename
 type: plugin
-updated: 2024-01-28T16:09:26
+updated: '2024-01-28T16:09:26'
 url: https://github.com/rcsaquino/obsidian-auto-filename
 version: 1.1.0
 ---

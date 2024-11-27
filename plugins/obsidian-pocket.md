@@ -6,7 +6,7 @@ author:
 author_page: https://twitter.com/nimalan
 categories: []
 description: Access your Pocket reading list entries and create notes for them easily
-downloads: 18330
+downloads: 18399
 mobile: true
 number: 239
 title: Pocket

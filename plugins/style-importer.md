@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/joshrouwhorst
 categories: []
 description: Import a stylesheet from a URL into your snippets folder.
-downloads: 3737
+downloads: 3761
 funding_page: https://www.buymeacoffee.com/joshrouwhorst
 mobile: true
 number: 1001

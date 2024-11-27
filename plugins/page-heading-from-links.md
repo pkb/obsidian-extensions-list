@@ -5,7 +5,7 @@ author: beet
 author_page: https://github.com/beet
 categories: []
 description: Inserts a heading into blank pages from the filename
-downloads: 6566
+downloads: 6571
 mobile: true
 number: 76
 title: Page Heading From Links

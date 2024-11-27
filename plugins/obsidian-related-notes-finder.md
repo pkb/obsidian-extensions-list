@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lifegems/obsidian-related-notes-finder
 categories: []
 description: An Obsidian plugin that adds extra features for finding related notes.
-downloads: 6700
+downloads: 6708
 mobile: true
 number: 178
 title: Related Notes Finder

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/musug
 categories: []
 description: Screenshot png to jpeg and compress and rename
-downloads: 9433
+downloads: 9497
 mobile: true
 number: 509
 title: Paste image Png to Jpeg

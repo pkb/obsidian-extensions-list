@@ -8,7 +8,7 @@ categories: []
 description: Organizes all of the tasks within your files into a kanban view. Reduce
   duplication of effort when managing and prioritising tasks by simply using the task
   format in your files to automatically appear in your Task List Kanban.
-downloads: 5518
+downloads: 5737
 mobile: true
 number: 1724
 title: Task List Kanban

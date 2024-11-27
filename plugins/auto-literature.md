@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/hucorz
 categories: []
 description: Assist you in taking notes for your literature.
-downloads: 3311
+downloads: 3321
 mobile: false
 number: 1101
 title: autoLiterature

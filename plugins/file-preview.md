@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/xhuajin
 categories: []
 description: Add file preview contents under file in file explorer.
-downloads: 1547
+downloads: 1611
 mobile: true
 number: 1676
 title: File Preview

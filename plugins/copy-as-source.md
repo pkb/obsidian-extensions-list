@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gapmiss
 categories: []
 description: Select and copy source HTML in reading view.
-downloads: 1132
+downloads: 1144
 mobile: false
 number: 1435
 title: Copy as source

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/drbap
 categories: []
 description: Improve your reading experience with customizable laser lines.
-downloads: 551
+downloads: 563
 mobile: true
 number: 1673
 title: Laser beam

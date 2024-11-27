@@ -6,7 +6,7 @@ author:
 author_page: https://chris-grieser.de/
 categories: []
 description: Open a note of your choice when creating a new tab, like in the browser.
-downloads: 21142
+downloads: 21345
 funding_page: https://ko-fi.com/pseudometa
 mobile: true
 number: 594

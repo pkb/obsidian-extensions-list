@@ -7,7 +7,7 @@ author_page: https://github.com/Quorafind
 categories: []
 description: Improve user experience when using file properties like adding icons
   or custom display view.
-downloads: 5289
+downloads: 5345
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/boninall
   支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg

@@ -6,7 +6,7 @@ author:
 author_page: https://patricklee.nyc
 categories: []
 description: Opens files in new tabs
-downloads: 17677
+downloads: 17944
 mobile: true
 number: 832
 title: Open In New Tab

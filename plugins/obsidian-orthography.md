@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/denisoed
 categories: []
 description: Check & fix orthography errors in text.
-downloads: 10242
+downloads: 10301
 mobile: true
 number: 86
 title: Orthography

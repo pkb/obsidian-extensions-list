@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gitcpy
 categories: []
 description: Remove HTML tag in Markdown file
-downloads: 137
+downloads: 156
 mobile: true
 number: 1912
 title: Remove HTML Tag

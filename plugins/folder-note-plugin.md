@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/xpgo/obsidian-folder-note
 categories: []
 description: Click a folder node to show a note describing the folder.
-downloads: 109517
+downloads: 110242
 mobile: true
 number: 78
 title: Folder Note

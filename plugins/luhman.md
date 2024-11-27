@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dyldog
 categories: []
 description: Commands for handling a zettelkasten with Luhmann-style IDs as filenames
-downloads: 14451
+downloads: 14511
 mobile: true
 number: 270
 title: Luhman

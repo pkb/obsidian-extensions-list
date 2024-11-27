@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/reuseman
 categories: []
 description: Anki integration
-downloads: 50360
+downloads: 50630
 mobile: false
 number: 51
 title: Flashcards

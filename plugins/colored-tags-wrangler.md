@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AndreasSas
 categories: []
 description: Assign colors to tags. Has integrations with other plugins, like Kanban.
-downloads: 17113
+downloads: 17507
 funding_page: https://ko-fi.com/andreassasdev
 mobile: true
 number: 1272

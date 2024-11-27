@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/hungsu
 categories: []
 description: Shows a random text prompt when triggered
-downloads: 5064
+downloads: 5070
 mobile: true
 number: 329
 title: Prompt

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Zotero Sync
+- Zotero Sync
 author:
-  - Frithjof Gressmann
+- Frithjof Gressmann
 author_page: https://frthjf.com
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Zotero API client to sync your Zotero library into your vault
-downloads: 6184
+downloads: 6244
 mobile: false
 number: 1088
 title: Zotero Sync
 type: plugin
-updated: 2024-02-15T23:12:40
+updated: '2024-02-15T23:12:40'
 url: https://github.com/frthjf/obsidian-zotero-sync-client
 version: 1.3.5
 ---

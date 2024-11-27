@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dybrawin/obsidian-dynamic-embed
 categories: []
 description: Dynamicly interpreted inline embeds.
-downloads: 6183
+downloads: 6209
 mobile: true
 number: 448
 title: Dynamic Embed

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tokenshift
 categories: []
 description: Creates an embeddable gallery based on selected page contents.
-downloads: 11535
+downloads: 11624
 mobile: true
 number: 666
 title: Page Gallery

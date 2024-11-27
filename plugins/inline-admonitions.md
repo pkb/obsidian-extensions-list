@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/scottTomaszewski
 categories: []
 description: Inline callouts to make text pop.
-downloads: 3402
+downloads: 3466
 mobile: false
 number: 1460
 title: Inline Admonitions

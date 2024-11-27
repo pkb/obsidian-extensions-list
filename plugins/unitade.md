@@ -8,14 +8,14 @@ categories: []
 description: Effortlessly treat any file extension as note, organize diverse file
   formats in your vault and take advancements in control of extension system even
   with custom modals.
-downloads: 14970
+downloads: 15500
 mobile: true
 number: 1078
 title: UNITADE.md
 type: plugin
-updated: '2024-11-05T19:14:45'
+updated: '2024-11-22T16:51:23'
 url: https://github.com/Falcion/UNITADE.md
-version: 3.0.1
+version: 3.0.2
 ---
 
 %% README_START %%

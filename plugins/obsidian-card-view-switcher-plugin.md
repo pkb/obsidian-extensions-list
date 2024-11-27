@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/qawatake/obsidian-card-view-switcher-plugin
 categories: []
 description: Quick switcher with card view
-downloads: 6827
+downloads: 6852
 mobile: false
 number: 457
 title: Card View Switcher

@@ -7,7 +7,7 @@ author_page: https://github.com/pavloDeshko/
 categories: []
 description: Make sure your index "MOC" files (notes or Canvas) contain all links
   they should contain.
-downloads: 4279
+downloads: 4305
 mobile: true
 number: 1049
 title: Index Checker

@@ -7,7 +7,7 @@ author_page: https://mateusmolina.github.io
 categories: []
 description: Add relevant git information to detected git repostitories in the file
   explorer.
-downloads: 2031
+downloads: 2045
 mobile: false
 number: 1351
 title: Git File Explorer

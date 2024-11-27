@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/hua03
 categories: []
 description: this is a simple plugin to toggle meta yaml.
-downloads: 7582
+downloads: 7596
 mobile: true
 number: 685
 title: Toggle Meta Yaml

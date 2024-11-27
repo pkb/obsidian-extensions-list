@@ -7,7 +7,7 @@ author_page: https://github.com/TimHi
 categories: []
 description: Plugin to automatically create a note if a new file is created in a meeting
   folder.
-downloads: 6619
+downloads: 6670
 mobile: true
 number: 577
 title: Meeting notes

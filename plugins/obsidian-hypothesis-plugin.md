@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/weichenw
 categories: []
 description: Sync your Hypothesis highlights
-downloads: 13949
+downloads: 13975
 mobile: true
 number: 322
 title: Hypothes.is

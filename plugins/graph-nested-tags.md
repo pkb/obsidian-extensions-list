@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/drPilman
 categories: []
 description: Links nested tags in graph view
-downloads: 8952
+downloads: 9109
 mobile: true
 number: 1096
 title: Nested tags graph

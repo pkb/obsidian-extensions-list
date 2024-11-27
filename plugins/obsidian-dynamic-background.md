@@ -6,7 +6,7 @@ author:
 author_page: https://www.readinghere.com
 categories: []
 description: Adding dynamic effects and/or static wallpapers for Obsidian background
-downloads: 13162
+downloads: 13307
 mobile: true
 number: 636
 title: Dynamic Background

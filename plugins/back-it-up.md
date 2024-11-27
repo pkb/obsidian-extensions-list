@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/hammadxp
 categories: []
 description: Quickly make a copy or snapshot of a note.
-downloads: 796
+downloads: 804
 mobile: true
 number: 1546
 title: BackItUp

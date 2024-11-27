@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dylanpizzo
 categories: []
 description: This is an Obsidian plugin to allow easily sideloading other plugins.
-downloads: 5292
+downloads: 5299
 mobile: true
 number: 505
 title: Plugins Galore

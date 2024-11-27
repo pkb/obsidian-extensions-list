@@ -7,7 +7,7 @@ author_page: https://obsidian.md
 categories: []
 description: Display chord names over lyrics. Supports line wrapping, section headers,
   auto-detection of lines and custom colors.
-downloads: 4794
+downloads: 4815
 mobile: true
 number: 711
 title: Chord Lyrics

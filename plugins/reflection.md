@@ -6,7 +6,7 @@ author:
 author_page: https://brandonkboswell.com/
 categories: []
 description: Shows daily and weekly notes from this day in years past.
-downloads: 3861
+downloads: 3876
 funding_page: https://link.brandonkboswell.com/coffee
 mobile: false
 number: 1084

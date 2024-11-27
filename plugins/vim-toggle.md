@@ -7,7 +7,7 @@ author_page: https://connerohnesorge.mixa.site/
 categories: []
 description: A plugin for Obsidian that enables the toggling vim mode to on and off
   inside of the editor.
-downloads: 4196
+downloads: 4286
 funding_page: https://ko-fi.com/connero
 mobile: true
 number: 877

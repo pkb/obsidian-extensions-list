@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/imshenshen
 categories: []
 description: Sticky Headings and Shows the heading level
-downloads: 2407
+downloads: 2443
 mobile: true
 number: 1543
 title: Sticky Headings

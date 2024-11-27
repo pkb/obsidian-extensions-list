@@ -6,7 +6,7 @@ author:
 author_page: https://nadav.is
 categories: []
 description: Enables relative line numbers in editor mode
-downloads: 69571
+downloads: 70166
 mobile: true
 number: 64
 title: Relative Line Numbers

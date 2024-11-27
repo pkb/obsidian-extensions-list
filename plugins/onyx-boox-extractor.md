@@ -1,18 +1,20 @@
 ---
 aliases:
-  - Onyx Boox Annotation & Highlight Extractor
+- Onyx Boox Annotation & Highlight Extractor
 author:
-  - Akos Balasko
+- Akos Balasko
 author_page: https://github.com/akosbalasko
 categories:
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
-description: This plugin extracts annotations and highlights files exported from Onyx Boox tablets, and converts them to reference, literature and permanent notes fitting to the Zettelkasten method.
-downloads: 5205
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
+description: This plugin extracts annotations and highlights files exported from Onyx
+  Boox tablets, and converts them to reference, literature and permanent notes fitting
+  to the Zettelkasten method.
+downloads: 5231
 mobile: true
 number: 616
 title: Onyx Boox Annotation & Highlight Extractor
 type: plugin
-updated: 2022-10-30T13:53:47
+updated: '2022-10-30T13:53:47'
 url: https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor
 version: 1.1.0
 ---

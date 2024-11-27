@@ -7,7 +7,7 @@ author_page: https://github.com/cakechaser
 categories: []
 description: Release timeline rendered based on notes metadata with a dataview-like
   syntax.
-downloads: 8697
+downloads: 8725
 mobile: true
 number: 516
 title: Release Timeline

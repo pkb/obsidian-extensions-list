@@ -1,19 +1,19 @@
 ---
 aliases:
-  - MBlog Publish
+- MBlog Publish
 author:
-  - Jerry
+- Jerry
 author_page: https://dev.mblog.club
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: 发布文章到MBlog平台,目前支持单篇文章发布
-downloads: 864
-funding_page: ""
+downloads: 865
+funding_page: ''
 mobile: true
 number: 1480
 title: MBlog Publish
 type: plugin
-updated: 2024-02-29T13:48:05
+updated: '2024-02-29T13:48:05'
 url: https://github.com/kingwrcy/obsidian-mblog
 version: 1.0.0
 ---

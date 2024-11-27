@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/seethroughdev
 categories: []
 description: Quickly grab the important contents of any online recipe.
-downloads: 4556
+downloads: 4612
 mobile: true
 number: 961
 title: Recipe Grabber

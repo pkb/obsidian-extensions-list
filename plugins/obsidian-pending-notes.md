@@ -6,7 +6,7 @@ author:
 author_page: https://ulisesantana.dev
 categories: []
 description: Obsidian plugin for searching links without notes in your vault.
-downloads: 7116
+downloads: 7128
 funding_page: https://www.buymeacoffee.com/ulisesantana
 mobile: true
 number: 762

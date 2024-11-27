@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/anselmwang
 categories: []
 description: More flexible ways to select texts in Obsidian Editor
-downloads: 4103
+downloads: 4109
 mobile: true
 number: 443
 title: Mark and Select

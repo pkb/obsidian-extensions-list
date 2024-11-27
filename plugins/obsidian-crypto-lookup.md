@@ -7,7 +7,7 @@ author_page: https://mysticcoders.com
 categories: []
 description: A plugin for Obsidian which uses the Cryptonator API to pull back prices
   for crypto in a target currency
-downloads: 3875
+downloads: 3880
 mobile: true
 number: 343
 title: Crypto Lookup

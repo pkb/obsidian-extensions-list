@@ -6,7 +6,7 @@ author:
 author_page: https://zachyoung.dev
 categories: []
 description: Edit CSS files within Obsidian.
-downloads: 14062
+downloads: 14466
 funding_page: https://github.com/sponsors/Zachatoo
 mobile: true
 number: 1019

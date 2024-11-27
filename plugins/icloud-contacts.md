@@ -1,19 +1,19 @@
 ---
 aliases:
-  - iCloud Contacts
+- iCloud Contacts
 author:
-  - Truls Aagaard
+- Truls Aagaard
 author_page: trulsaagaard.com
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Imports contacts from iCloud and manages a note for each contact.
-downloads: 2286
+downloads: 2321
 funding_page: https://www.buymeacoffee.com/truls
 mobile: true
 number: 1394
 title: iCloud Contacts
 type: plugin
-updated: 2024-08-30T20:28:23
+updated: '2024-08-30T20:28:23'
 url: https://github.com/Trulsaa/obsidian-icloud-contacts
 version: 0.4.9
 ---

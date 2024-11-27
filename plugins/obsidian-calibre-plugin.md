@@ -7,7 +7,7 @@ author_page: https://github.com/caronchen/obsidian-calibre-plugin
 categories: []
 description: This plugin allows you to access your calibre libraries and read books
   directly in Obsidian.
-downloads: 15037
+downloads: 15120
 mobile: false
 number: 503
 title: Calibre

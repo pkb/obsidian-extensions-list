@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RafaelGB
 categories: []
 description: Helps you to create and manage your notes in a Zettelkasten way via Canvas.
-downloads: 11685
+downloads: 11813
 funding_page: https://www.buymeacoffee.com/5tsytn22v9Z
 mobile: true
 number: 1155

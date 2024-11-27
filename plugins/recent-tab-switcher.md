@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/samuelrawrs/
 categories: []
 description: Switch to the most recently used tab.
-downloads: 177
+downloads: 182
 funding_page: https://buymeacoffee.com/samuelrawrs
 mobile: false
 number: 1823

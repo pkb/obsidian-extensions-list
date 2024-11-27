@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pfrankov
 categories: []
 description: Local GPT assistance for maximum privacy and offline access
-downloads: 18011
+downloads: 19290
 mobile: true
 number: 1339
 title: Local GPT

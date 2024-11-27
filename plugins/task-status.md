@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vburzynski/
 categories: []
 description: Quickly select and apply custom task status markers
-downloads: 4349
+downloads: 4439
 mobile: true
 number: 1349
 title: Task Status

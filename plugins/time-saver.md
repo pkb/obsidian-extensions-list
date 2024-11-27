@@ -7,7 +7,7 @@ author_page: https://github.com/odayou/
 categories: []
 description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the
   time spent on tasks in the current note and the total time spent.
-downloads: 559
+downloads: 567
 mobile: true
 number: 1609
 title: TimeSaver

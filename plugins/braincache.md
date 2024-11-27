@@ -6,7 +6,7 @@ author:
 author_page: https://braincache.co
 categories: []
 description: Create flashcards from obsidian notes
-downloads: 4346
+downloads: 4351
 mobile: false
 number: 540
 title: braincache

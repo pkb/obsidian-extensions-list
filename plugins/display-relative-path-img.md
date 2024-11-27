@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dyc2424748461
 categories: []
 description: Display the image of the <img> tag
-downloads: 1453
+downloads: 1476
 mobile: false
 number: 1454
 title: Display Relative Path Img

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/WiNE-iNEFF
 categories: []
 description: Easy color and clear selected text
-downloads: 576
+downloads: 629
 mobile: true
 number: 1917
 title: Colorizelt

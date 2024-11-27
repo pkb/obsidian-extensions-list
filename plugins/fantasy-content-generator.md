@@ -7,7 +7,7 @@ author_page: https://github.com/Gregory-Jagermeister
 categories: []
 description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
   Needs
-downloads: 24062
+downloads: 24362
 mobile: true
 number: 829
 title: Fantasy Content Generator

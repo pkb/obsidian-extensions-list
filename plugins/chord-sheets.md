@@ -7,7 +7,7 @@ author_page: https://github.com/olvidalo
 categories: []
 description: 'Work with chord sheets (chords over lyrics) in your Vault: Chord diagrams,
   transpose, autoscroll and more. Works in live preview and reading mode.'
-downloads: 4697
+downloads: 4843
 funding_page:
   GitHub Sponsors: https://github.com/sponsors/olvidalo
   Ko-fi: ko-fi.com/olvidalo

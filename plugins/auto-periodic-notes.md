@@ -7,7 +7,7 @@ author_page: https://jamiehurst.co.uk
 categories: []
 description: Creates new periodic notes automatically in the background and allows
   these to be pinned in your open tabs, requires the Periodic Notes plugin.
-downloads: 302
+downloads: 340
 mobile: true
 number: 1887
 title: Auto Periodic Notes

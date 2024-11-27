@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Kanaries
 categories: []
 description: Turn your images into text notes with AI
-downloads: 238
+downloads: 251
 mobile: true
 number: 1814
 title: Image to notes by Photes.IO

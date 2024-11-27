@@ -6,15 +6,15 @@ author:
 author_page: https://hypersphere.blog/
 categories: []
 description: Use SQL in your notes to query your vault files and CSV content.
-downloads: 663
+downloads: 742
 funding_page: ko-fi.com/hypersphere
 mobile: true
 number: 1733
 title: SQLSeal
 type: plugin
-updated: '2024-11-08T00:46:51'
+updated: '2024-11-24T22:22:18'
 url: https://github.com/h-sphere/sql-seal
-version: 0.10.1
+version: 0.11.0
 ---
 
 %% README_START %%

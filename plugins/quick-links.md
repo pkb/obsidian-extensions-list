@@ -6,7 +6,7 @@ author:
 author_page: https://iafisher.com
 categories: []
 description: Create quick link shortcuts to Wikipedia and other sites
-downloads: 4406
+downloads: 4420
 mobile: true
 number: 990
 title: Quick Links

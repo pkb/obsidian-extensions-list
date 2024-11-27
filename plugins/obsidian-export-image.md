@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Export Image plugin
+- Export Image plugin
 author:
-  - Zhou Hua
-author_page: ""
+- Zhou Hua
+author_page: ''
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: Easily convert your article to image.
-downloads: 22257
+downloads: 22738
 mobile: true
 number: 665
 title: Export Image plugin
 type: plugin
-updated: 2024-08-25T15:12:01
+updated: '2024-08-25T15:12:01'
 url: https://github.com/zhouhua/obsidian-export-image
 version: 2.3.13
 ---

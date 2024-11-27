@@ -7,7 +7,7 @@ author_page: http://tencent.xyan666.com/
 categories: []
 description: A client for the ExMemo service, used to search, sync, and organize data
   from the server.
-downloads: 21
+downloads: 29
 mobile: true
 number: 1978
 title: ExMemo Client

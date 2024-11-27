@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/KadisonM
 categories: []
 description: Keeps track of homework through a to-do list.
-downloads: 4362
+downloads: 4411
 funding_page: https://www.buymeacoffee.com/kadisonm
 mobile: true
 number: 1210

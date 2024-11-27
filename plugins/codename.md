@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dstack
 categories: []
 description: A plugin to solve the hardest problem - naming things.
-downloads: 3467
+downloads: 3469
 mobile: true
 number: 1071
 title: Codename

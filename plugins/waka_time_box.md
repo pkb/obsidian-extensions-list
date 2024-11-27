@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Waka time box
+- Waka time box
 author:
-  - complexzeng
+- complexzeng
 author_page: https://github.com/simonla
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: Show daily coding activity from WakaTime
-downloads: 3522
+downloads: 3532
 mobile: true
 number: 1070
 title: Waka time box
 type: plugin
-updated: 2023-08-16T23:43:24
+updated: '2023-08-16T23:43:24'
 url: https://github.com/simonla/obsidian_waka_box
 version: 1.0.8
 ---

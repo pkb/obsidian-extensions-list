@@ -7,7 +7,7 @@ author_page: https://github.com/nicojeske/mousewheel-image-zoom
 categories: []
 description: This plugin enables you to increase/decrease the size of an image by
   scrolling
-downloads: 87338
+downloads: 88168
 mobile: false
 number: 355
 title: Mousewheel Image zoom

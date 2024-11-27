@@ -7,7 +7,7 @@ author_page: leolazou.com
 categories: []
 description: Simplify linking notes across multiple languages by automatically adding
   translations of note names into aliases. Designed for multilingual users.
-downloads: 1189
+downloads: 1203
 funding_page: ko-fi.com/leolazou
 mobile: true
 number: 1541

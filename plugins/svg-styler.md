@@ -6,7 +6,7 @@ author:
 author_page: https://argosta.me
 categories: []
 description: Change the color and other style properies of an embded SVG file
-downloads: 39
+downloads: 67
 mobile: false
 number: 1990
 title: SVG Style Editor

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Nomekuma
 categories: []
 description: Automatically adds strikethrough to completed tasks.
-downloads: 142
+downloads: 156
 mobile: true
 number: 1916
 title: Auto Strikethrough Tasks

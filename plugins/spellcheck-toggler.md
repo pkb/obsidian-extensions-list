@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/julzerinos
 categories: []
 description: Toggle spellchecking for types of text blocks in the editing view.
-downloads: 1833
+downloads: 1864
 mobile: true
 number: 1525
 title: Spellcheck Toggler

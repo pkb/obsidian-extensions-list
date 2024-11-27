@@ -6,7 +6,7 @@ author:
 author_page: https://slashlib.org
 categories: []
 description: One-Click create a structure for and including your daily notes.
-downloads: 192
+downloads: 202
 mobile: true
 number: 1738
 title: Daily Note Structure

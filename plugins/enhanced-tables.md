@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pistacchio
 categories: []
 description: Add programmable controls to selected tables
-downloads: 3278
+downloads: 3348
 mobile: true
 number: 1448
 title: Enhanced tables

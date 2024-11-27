@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gr0grig
 categories: []
 description: Creating a hierarchical structure like Luhmann's Zettelkasten
-downloads: 828
+downloads: 849
 mobile: true
 number: 1801
 title: VirtFolder

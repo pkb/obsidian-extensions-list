@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Share to Flomo
+- Share to Flomo
 author:
-  - Xiaoyu Li
+- Xiaoyu Li
 author_page: https://www.metalyoung.com/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly share content to Flomo.
-downloads: 4702
+downloads: 4719
 mobile: true
 number: 651
 title: Share to Flomo
 type: plugin
-updated: 2024-02-03T07:31:32
+updated: '2024-02-03T07:31:32'
 url: https://github.com/metal-young/obsidian-to-flomo
 version: 0.1.9
 ---

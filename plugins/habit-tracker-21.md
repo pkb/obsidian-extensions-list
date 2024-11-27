@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/zoreet
 categories: []
 description: Your 21-day journey to habit formation, simplified
-downloads: 7476
+downloads: 7642
 funding_page: https://buymeacoffee.com/zincplusplus
 mobile: true
 number: 1326

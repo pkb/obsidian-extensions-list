@@ -6,7 +6,7 @@ author:
 author_page: https://slonoed.net
 categories: []
 description: Show list of future dates in vault
-downloads: 178
+downloads: 183
 mobile: false
 number: 1647
 title: Future Dates

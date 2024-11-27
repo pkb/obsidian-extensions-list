@@ -6,7 +6,7 @@ author:
 author_page: https://grosinger.net
 categories: []
 description: Plain text accounting
-downloads: 27085
+downloads: 27324
 mobile: true
 number: 8
 title: Ledger

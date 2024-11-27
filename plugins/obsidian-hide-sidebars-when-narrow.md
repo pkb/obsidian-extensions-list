@@ -7,7 +7,7 @@ author:
 author_page: https://github.com/NomarCub
 categories: []
 description: Automatically hides the sidebars when your window is resized to be narrower
-downloads: 14034
+downloads: 14104
 funding_page: https://ko-fi.com/nomarcub
 mobile: false
 number: 248

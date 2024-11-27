@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Latex Suite
+- Latex Suite
 author:
-  - artisticat
+- artisticat
 author_page: https://github.com/artisticat1
 categories:
-  - "[[categories/Other formats|Other formats]]"
-description: Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements
-downloads: 204625
+- '[[categories/Other formats|Other formats]]'
+description: Make typesetting LaTeX math as fast as handwriting through snippets,
+  text expansion, and editor enhancements
+downloads: 208413
 funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 484
 title: Latex Suite
 type: plugin
-updated: 2024-10-13T22:11:12
+updated: '2024-10-13T22:11:12'
 url: https://github.com/artisticat1/obsidian-latex-suite
 version: 1.9.7
 ---

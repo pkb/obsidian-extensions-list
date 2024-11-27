@@ -7,7 +7,7 @@ author_page: https://twitter.com/duocdev
 categories: []
 description: With this plugin, you can easily generate beautiful gradient images from
   text and share them on social media.
-downloads: 4350
+downloads: 4359
 funding_page:
   Buy Me a Coffee: https://paypal.me/duocnguyen
   Follow me: https://twitter.com/duocdev

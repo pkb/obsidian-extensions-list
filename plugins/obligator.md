@@ -1,19 +1,21 @@
 ---
 aliases:
-  - Obligator
+- Obligator
 author:
-  - Dimitar Dimitrov
+- Dimitar Dimitrov
 author_page: https://github.com/Newbrict
 categories:
-  - "[[categories/Journalling|Journalling]]"
-description: A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you've set up
-downloads: 8293
+- '[[categories/Journalling|Journalling]]'
+description: A fully featured replacement for the built-in daily notes plugin. Obligator
+  functions like a virtual bullet journal by copying over unchecked to-do items to
+  your new daily note, along with adding any scheduled items you've set up
+downloads: 8374
 funding_page: https://ko-fi.com/objectivist
 mobile: true
 number: 1046
 title: Obligator
 type: plugin
-updated: 2024-01-16T23:45:59
+updated: '2024-01-16T23:45:59'
 url: https://github.com/Newbrict/obsidian-obligator
 version: 5.2.0
 ---

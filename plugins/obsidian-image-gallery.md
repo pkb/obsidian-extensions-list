@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lucaorio
 categories: []
 description: A zero setup masonry image gallery for Obsidian
-downloads: 17653
+downloads: 17916
 mobile: true
 number: 549
 title: Image Gallery

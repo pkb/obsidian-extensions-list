@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Vault Statistics
+- Vault Statistics
 author:
-  - Bryan Kyle
+- Bryan Kyle
 author_page: https://github.com/bkyle
 categories:
-  - "[[categories/Statistics|Statistics]]"
-description: Status bar item with vault statistics such as number of notes, files, attachments, and links.
-downloads: 35734
+- '[[categories/Statistics|Statistics]]'
+description: Status bar item with vault statistics such as number of notes, files,
+  attachments, and links.
+downloads: 35912
 mobile: true
 number: 104
 title: Vault Statistics
 type: plugin
-updated: 2022-10-26T11:01:13
+updated: '2022-10-26T11:01:13'
 url: https://github.com/bkyle/obsidian-vault-statistics-plugin
 version: 0.1.3
 ---

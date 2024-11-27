@@ -1,21 +1,21 @@
 ---
 aliases:
-  - Lemons Search
+- Lemons Search
 author:
-  - Moritz Jung
+- Moritz Jung
 author_page: https://www.moritzjung.dev
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: A blazingly fast fuzzy finder with file preview.
-downloads: 326
+downloads: 466
 funding_page: https://github.com/sponsors/mProjectsCode
 mobile: false
 number: 1944
 title: Lemons Search
 type: plugin
-updated: 2024-11-13T03:39:22
+updated: '2024-11-19T03:53:02'
 url: https://github.com/mProjectsCode/obsidian-lemons-search-plugin
-version: 0.0.7
+version: 0.0.8
 ---
 
 %% README_START %%

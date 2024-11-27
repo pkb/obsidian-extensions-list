@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/nicoletanyt
 categories: []
 description: Generates graphs and vectors.
-downloads: 373
+downloads: 395
 mobile: false
 number: 1778
 title: Plot Vectors and Graphs

@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian-buffer.web.app
 categories: []
 description: Plugin that connects your notes to the internet of things through webhooks!
-downloads: 7165
+downloads: 7204
 mobile: true
 number: 334
 title: Webhook Plugin

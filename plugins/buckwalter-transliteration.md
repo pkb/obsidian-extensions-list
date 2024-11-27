@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/amrojjeh
 categories: []
 description: Renders Arabic using Buckwalter's encoding scheme.
-downloads: 662
+downloads: 663
 mobile: true
 number: 1551
 title: Buckwalter Transliteration

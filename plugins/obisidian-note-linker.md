@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AlexW00
 categories: []
 description: Automatically find and link notes in Obsidian
-downloads: 24495
+downloads: 24765
 mobile: false
 number: 586
 title: Note Linker

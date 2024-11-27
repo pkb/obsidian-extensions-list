@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jamiebrynes7/obsidian-todoist-plugin
 categories: []
 description: Materialize Todoist tasks within Obsidian notes.
-downloads: 100718
+downloads: 101400
 funding_page: https://www.buymeacoffee.com/jamiebrynes
 mobile: true
 number: 14

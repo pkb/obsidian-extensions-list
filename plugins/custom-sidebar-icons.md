@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RavenHogWarts
 categories: []
 description: Enhance your workspace with customizable icons for documents and folders.
-downloads: 3744
+downloads: 3829
 funding_page:
   paypal: https://www.paypal.com/paypalme/RavenHogwarts
   微信/支付宝: https://s2.loli.net/2024/05/06/lWBj3ObszUXSV2f.png

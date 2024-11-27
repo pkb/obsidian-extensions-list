@@ -7,7 +7,7 @@ author_page: https://dennisseidel.de
 categories: []
 description: This plugin warns that a note is public (based on a frontmatter attribute)
   by colorizing the note red.
-downloads: 6313
+downloads: 6323
 mobile: true
 number: 148
 title: Highlight Public Notes

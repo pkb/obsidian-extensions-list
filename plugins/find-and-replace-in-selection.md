@@ -7,7 +7,7 @@ author_page: https://github.com/dy-sh/
 categories: []
 description: Finds what you are looking for in the selected text and replaces it with
   the specified text
-downloads: 15282
+downloads: 15355
 mobile: true
 number: 137
 title: Find and replace in selection

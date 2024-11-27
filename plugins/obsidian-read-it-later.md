@@ -1,20 +1,20 @@
 ---
 aliases:
-  - ReadItLater
+- ReadItLater
 author:
-  - Dominik Pieper
+- Dominik Pieper
 author_page: https://github.com/DominikPieper
 categories:
-  - "[[categories/Content capture|Content capture]]"
+- '[[categories/Content capture|Content capture]]'
 description: Saves the clipboard to a new note.
-downloads: 81260
+downloads: 83387
 mobile: true
 number: 295
 title: ReadItLater
 type: plugin
-updated: 2024-10-05T23:43:11
+updated: '2024-11-25T21:53:59'
 url: https://github.com/DominikPieper/obsidian-ReadItLater
-version: 0.6.0
+version: 0.8.0
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author_page: https://github.com/pjeby
 categories: []
 description: Turn notes into folders and automaticaly move/rename their folders when
   they move or are renamed.
-downloads: 11953
+downloads: 11978
 mobile: true
 number: 99
 title: Note Folder Autorename

@@ -7,7 +7,7 @@ author_page: https://github.com/KrazyManJ
 categories: []
 description: Adds classic hotkey/shortcuts commands from popular IDEs like Visual
   Studio Code or JetBrains Family.
-downloads: 9114
+downloads: 9214
 mobile: true
 number: 728
 title: Keyshots

@@ -7,7 +7,7 @@ author_page: https://adiron.me
 categories: []
 description: Strips the selection or current file of internal links and either copies
   to the clipboard, or in-place
-downloads: 1871
+downloads: 1878
 mobile: true
 number: 1350
 title: Strip Internal Links

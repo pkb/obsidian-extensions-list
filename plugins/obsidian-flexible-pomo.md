@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Flexible Pomodoro For Obsidian
+- Flexible Pomodoro For Obsidian
 author:
-  - grassbl8d
-author_page: 
+- grassbl8d
+author_page: null
 categories:
-  - "[[categories/Time management|Time management]]"
-description: Adds a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend.
-downloads: 12349
+- '[[categories/Time management|Time management]]'
+description: Adds a pomodoro timer to your status bar. This pomodoro has additional
+  options such as early log and extend.
+downloads: 12383
 mobile: false
 number: 356
 title: Flexible Pomodoro For Obsidian
 type: plugin
-updated: 2022-08-20T12:40:59
+updated: '2022-08-20T12:40:59'
 url: https://github.com/grassbl8d/flexible-pomo-obsidian
 version: 0.6.0
 ---

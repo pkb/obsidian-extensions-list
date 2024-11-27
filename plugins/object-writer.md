@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/IagoGrah
 categories: []
 description: Quickly create a note with a prompt for object writing.
-downloads: 1847
+downloads: 1866
 mobile: true
 number: 1348
 title: Object Writer

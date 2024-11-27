@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/artisticat1
 categories: []
 description: Highlight the sentence the cursor is currently resting on.
-downloads: 5659
+downloads: 5683
 funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 840

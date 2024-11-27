@@ -7,7 +7,7 @@ author_page: https://github.com/triangular-sneaky
 categories: []
 description: Utilities to work with list outlines. Currently supports selecting the
   outline (current line and children)
-downloads: 2005
+downloads: 2119
 mobile: true
 number: 1655
 title: List Outline Helper

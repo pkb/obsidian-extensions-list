@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ALegendsTale
 categories: []
 description: Create and insert color palettes into your notes.
-downloads: 14832
+downloads: 14988
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/ALegendsTale
   PayPal: https://www.paypal.com/donate/?hosted_button_id=BHHFMGX822K4S

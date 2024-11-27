@@ -7,7 +7,7 @@ author_page: https://github.com/idreamer
 categories: []
 description: Converts a markdown note to the Slack message blocks that enable you
   to send to your Slack
-downloads: 3749
+downloads: 3773
 mobile: true
 number: 1033
 title: Markdown to Slack Message

@@ -7,7 +7,7 @@ author_page: https://github.com/iiz00
 categories: []
 description: Add custom views which show outlines of multiple notes with headings,
   links, tags and list items.
-downloads: 6063
+downloads: 6093
 mobile: true
 number: 1144
 title: Multiple Notes Outline

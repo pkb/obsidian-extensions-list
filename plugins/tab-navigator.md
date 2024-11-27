@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/o02c
 categories: []
 description: Simple Tab Switcher, search open tabs.
-downloads: 2951
+downloads: 3009
 mobile: false
 number: 1626
 title: Tab Navigator

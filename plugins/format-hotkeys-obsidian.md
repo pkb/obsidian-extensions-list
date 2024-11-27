@@ -6,7 +6,7 @@ author:
 author_page: https://ansel.santosa.family
 categories: []
 description: Google Docs style formatting hotkeys for Obsidian
-downloads: 6703
+downloads: 6714
 mobile: true
 number: 120
 title: Format Hotkeys

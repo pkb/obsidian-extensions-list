@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgmeyers/obsidian-kanban
 categories: []
 description: Create markdown-backed Kanban boards in Obsidian.
-downloads: 1421306
+downloads: 1433938
 mobile: true
 number: 159
 title: Kanban

@@ -6,7 +6,7 @@ author:
 author_page: https://www.mmomm.org
 categories: []
 description: Dynamic Embeds for Obsidian.md
-downloads: 4350
+downloads: 4357
 mobile: true
 number: 668
 title: Dynbedded

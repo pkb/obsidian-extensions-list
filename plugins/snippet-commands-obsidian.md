@@ -7,7 +7,7 @@ author_page: https://github.com/deathau
 categories: []
 description: Registers custom css snippets as commands (which you can bind hotkeys
   to)
-downloads: 6001
+downloads: 6025
 mobile: true
 number: 313
 title: Snippet Commands

@@ -7,7 +7,7 @@ author_page: https://github.com/mgmeyers/obsidian-pandoc-reference-list
 categories: []
 description: Displays a formatted reference in the sidebar for each pandoc citekey
   present in the current document.
-downloads: 42034
+downloads: 42676
 mobile: false
 number: 513
 title: Pandoc Reference List

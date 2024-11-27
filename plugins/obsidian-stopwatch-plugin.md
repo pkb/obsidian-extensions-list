@@ -6,7 +6,7 @@ author:
 author_page: https://64p.org
 categories: []
 description: Display stopwatch on Obsidian!
-downloads: 6479
+downloads: 6510
 mobile: true
 number: 175
 title: Stopwatch Plugin

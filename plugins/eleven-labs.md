@@ -7,7 +7,7 @@ author_page: https://github.com/veritas1
 categories: []
 description: Turn your Obsidian notes into text-to-speech audio files with Eleven
   Labs.
-downloads: 3973
+downloads: 4001
 funding_page: https://www.buymeacoffee.com/veritas0x1
 mobile: true
 number: 1175

@@ -6,7 +6,7 @@ author:
 author_page: https://grosinger.net
 categories: []
 description: List files by most recently opened
-downloads: 593110
+downloads: 608582
 funding_page:
   Buy me a Coffee: https://buymeacoffee.com/tgrosinger
   Github Sponsor: https://github.com/sponsors/tgrosinger
@@ -15,9 +15,9 @@ mobile: true
 number: 7
 title: Recent Files
 type: plugin
-updated: '2024-11-08T01:47:29'
+updated: '2024-11-23T00:51:33'
 url: https://github.com/tgrosinger/recent-files-obsidian
-version: 1.7.1
+version: 1.7.2
 ---
 
 %% README_START %%

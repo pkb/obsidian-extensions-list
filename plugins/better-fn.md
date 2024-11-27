@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Footnote popover for Obsidian
-downloads: 31062
+downloads: 31240
 mobile: false
 number: 191
 title: Better footnote

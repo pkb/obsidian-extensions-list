@@ -7,7 +7,7 @@ author_page: https//github.com/Mara-Li
 categories: []
 description: Hide a file or a folder from the explorer (and bookmarks) using a little
   bit of auto-managed CSS!
-downloads: 668
+downloads: 694
 funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 1704

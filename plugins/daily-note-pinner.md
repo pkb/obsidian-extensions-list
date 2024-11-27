@@ -7,7 +7,7 @@ author_page: https://github.com/lukemt/
 categories: []
 description: Pins the Daily Note of the present day. Unpinns all Daily Notes of past
   and future days.
-downloads: 3318
+downloads: 3336
 mobile: true
 number: 1224
 title: Daily Note Pinner

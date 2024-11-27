@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/samlewis0602
 categories: []
 description: This plugin lets you use custom javascript files inside your vault.
-downloads: 36625
+downloads: 36940
 mobile: true
 number: 274
 title: CustomJS

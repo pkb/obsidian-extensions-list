@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AllJavi
 categories: []
 description: Create Spoiler Blocks to hide information until you want to see it
-downloads: 7621
+downloads: 7685
 mobile: true
 number: 748
 title: Spoiler Block

@@ -7,7 +7,7 @@ author_page: https://github.com/nyable
 categories: []
 description: Provides a find/replace window in edit mode similar to VSCode (supports
   regular expressions and case sensitivity).
-downloads: 185
+downloads: 314
 funding_page: https://buymeacoffee.com/nyable
 mobile: true
 number: 1989

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/FrancescoDiCursi
 categories: []
 description: plug in that helps in mermaid.js workflow and more
-downloads: 4730
+downloads: 4758
 mobile: true
 number: 947
 title: Mermaid.js Helper (OMH)

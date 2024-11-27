@@ -7,7 +7,7 @@ author_page: https://github.com/MugishoMp
 categories: []
 description: Customize Obsidian's editor width with a slider for a tailored editing
   experience.
-downloads: 23921
+downloads: 24467
 funding_page: https://www.paypal.com/donate/?hosted_button_id=E4APAMMHVJE4N
 mobile: false
 number: 991

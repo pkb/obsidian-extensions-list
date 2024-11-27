@@ -7,7 +7,7 @@ author_page: https://github.com/jianzs
 categories: []
 description: Uploads images from your clipboard to qiniu.com and embeds uploaded image
   to your note.
-downloads: 3041
+downloads: 3044
 mobile: true
 number: 1178
 title: Qiniu Image Uploader

@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Enveloppe
+- Enveloppe
 author:
-  - Mara-Li
+- Mara-Li
 author_page: https://github.com/enveloppe
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Enveloppe helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
-downloads: 37683
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Enveloppe helps you to publish your notes on a preconfigured GitHub repository,
+  for free, and more!
+downloads: 37819
 funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 498
 title: Enveloppe
 type: plugin
-updated: 2024-10-04T16:25:12
+updated: '2024-10-04T16:25:12'
 url: https://github.com/Enveloppe/obsidian-enveloppe
 version: 7.4.0
 ---

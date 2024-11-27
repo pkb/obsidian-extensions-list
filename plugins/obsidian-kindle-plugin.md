@@ -7,7 +7,7 @@ author_page: https://hady.geek.nz
 categories: []
 description: Sync your Kindle book highlights using your Amazon login or uploading
   your My Clippings file
-downloads: 101830
+downloads: 102321
 mobile: false
 number: 161
 title: Kindle Highlights

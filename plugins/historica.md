@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/nhannht
 categories: []
 description: Intelligently generates timeline from your content ... like a bro!
-downloads: 3230
+downloads: 3351
 mobile: false
 number: 1484
 title: historica
 type: plugin
-updated: '2024-10-27T11:24:56'
+updated: '2024-11-21T10:21:51'
 url: https://github.com/nhannht/obsidian-historica
-version: 0.3.5
+version: 0.3.6
 ---
 
 %% README_START %%

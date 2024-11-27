@@ -7,7 +7,7 @@ author_page: https://emilevankrieken.com
 categories: []
 description: Adds a completely interactive, stylable and expandable graph view to
   Obsidian.
-downloads: 76430
+downloads: 76898
 mobile: true
 number: 151
 title: Juggl

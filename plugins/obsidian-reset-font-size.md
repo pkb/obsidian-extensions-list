@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/luckman212/obsidian-reset-font-size
 categories: []
 description: Adds button and command to reset the font size back to its default value.
-downloads: 6013
+downloads: 6027
 mobile: true
 number: 284
 title: Reset Font Size

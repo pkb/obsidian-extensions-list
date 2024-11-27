@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jsonMartin/
 categories: []
 description: Mirror your Readwise library directly to an Obsidian vault
-downloads: 8393
+downloads: 8417
 mobile: true
 number: 182
 title: Readwise Mirror

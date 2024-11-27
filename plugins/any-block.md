@@ -1,19 +1,20 @@
 ---
 aliases:
-  - AnyBlock
+- AnyBlock
 author:
-  - LincZero
+- LincZero
 author_page: https://github.com/LincZero
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: "You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`. "
-downloads: 15450
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: 'You can flexibility to create a ''Block'' by some means. It also provides
+  some useful features, like `list to table`. '
+downloads: 15957
 funding_page: https://github.com/LincZero#thank-you-very-much-for-your-support
 mobile: true
 number: 869
 title: AnyBlock
 type: plugin
-updated: 2024-11-09T22:19:51
+updated: '2024-11-09T22:19:51'
 url: https://github.com/LincZero/obsidian-any-block
 version: 3.1.8
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ras0q
 categories: []
 description: Display a local graph view to the note header
-downloads: 6541
+downloads: 6767
 funding_page: https://buymeacoffee.com/ras0q
 mobile: true
 number: 1684

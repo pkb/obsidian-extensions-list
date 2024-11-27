@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Another Sticky Headings
+- Another Sticky Headings
 author:
-  - Zhou Hua
+- Zhou Hua
 author_page: https://zhouhua.site
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
-description: Display headings tree during editing and preview to indicate the current position.
-downloads: 2559
+- '[[categories/Search and navigation|Search and navigation]]'
+description: Display headings tree during editing and preview to indicate the current
+  position.
+downloads: 2695
 mobile: true
 number: 1736
 title: Another Sticky Headings
 type: plugin
-updated: 2024-11-09T08:30:36
+updated: '2024-11-09T08:30:36'
 url: https://github.com/zhouhua/obsidian-sticky-headings
 version: 2.0.3
 ---

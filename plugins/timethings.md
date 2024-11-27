@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Time Things
+- Time Things
 author:
-  - Nick Winters
+- Nick Winters
 author_page: https://github.com/plasmabit
 categories:
-  - "[[categories/Time management|Time management]]"
-description: Show clock in the corner. Track total editing time of a note and the last time it was modified.
-downloads: 4070
+- '[[categories/Time management|Time management]]'
+description: Show clock in the corner. Track total editing time of a note and the
+  last time it was modified.
+downloads: 4097
 funding_page: https://www.patreon.com/nickwinters
 mobile: false
 number: 1295
 title: Time Things
 type: plugin
-updated: 2024-04-07T20:15:28
+updated: '2024-04-07T20:15:28'
 url: https://github.com/DynamicPlayerSector/timethings
 version: 1.3.0
 ---

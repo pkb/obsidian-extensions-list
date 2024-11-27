@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/oin
 categories: []
 description: Quickly navigate between headings
-downloads: 3527
+downloads: 3553
 mobile: false
 number: 1186
 title: Go To Heading

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/cycsd
 categories: []
 description: Help you quickly extract your thoughts in the Canvas and Excalidraw
-downloads: 4773
+downloads: 4883
 mobile: true
 number: 1442
 title: CardNote

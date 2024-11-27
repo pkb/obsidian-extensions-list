@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/qawatake/obsidian-command-palette-minus-plugin
 categories: []
 description: Command palette without unwanted commands
-downloads: 4549
+downloads: 4562
 mobile: true
 number: 432
 title: Command Palette--

@@ -1,19 +1,19 @@
 ---
 aliases:
-  - PDF break page
+- PDF break page
 author:
-  - CG
+- CG
 author_page: https://github.com/corentin-godefroy
 categories:
-  - "[[categories/Other formats|Other formats]]"
-  - "[[categories/Export|Export]]"
+- '[[categories/Other formats|Other formats]]'
+- '[[categories/Export|Export]]'
 description: Add shortkey and command to insert a break page formating for pdf exports.
-downloads: 4125
+downloads: 4278
 mobile: true
 number: 1464
 title: PDF break page
 type: plugin
-updated: 2024-02-15T09:35:31
+updated: '2024-02-15T09:35:31'
 url: https://github.com/corentin-godefroy/Obsidian-BreakPage
 version: 1.0.0
 ---

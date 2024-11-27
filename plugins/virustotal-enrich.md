@@ -6,7 +6,7 @@ author:
 author_page: https://www.github.com/ytisf/
 categories: []
 description: Enrich your notes with information from VirusTotal.
-downloads: 231
+downloads: 251
 mobile: false
 number: 1867
 title: Virus Total Enrichment

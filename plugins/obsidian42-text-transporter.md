@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/TfTHacker/obsidian42-text-transporter
 categories: []
 description: Advanced text tools for working with text in your vault
-downloads: 24655
+downloads: 25105
 funding_page:
   Sponsor my work: https://tfthacker.com/sponsor
 mobile: true

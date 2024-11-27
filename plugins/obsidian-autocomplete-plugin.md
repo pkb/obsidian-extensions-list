@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Yeboster/
 categories: []
 description: This plugin provides a text autocomplete feature to enhance typing speed.
-downloads: 30665
+downloads: 30777
 mobile: true
 number: 67
 title: Autocomplete

@@ -6,7 +6,7 @@ author:
 author_page: https://kevinbarrett.org
 categories: []
 description: Write novels, screenplays, and other long projects in Obsidian.
-downloads: 77883
+downloads: 78728
 funding_page: https://github.com/sponsors/kevboh
 mobile: true
 number: 243

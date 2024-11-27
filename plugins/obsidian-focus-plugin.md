@@ -7,7 +7,7 @@ author_page: https://github.com/nagi1999a
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that will highlight and focus
   on the currently selected heading
-downloads: 6876
+downloads: 6900
 mobile: true
 number: 572
 title: Focus and Highlight

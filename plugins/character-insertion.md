@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/TakamiChie
 categories: []
 description: Plugin to insert a specified symbol under the cursor
-downloads: 3576
+downloads: 3578
 funding_page: https://www.buymeacoffee.com/TakamiChie
 mobile: true
 number: 864

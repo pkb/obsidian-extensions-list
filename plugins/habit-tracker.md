@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Narsail
 categories: []
 description: Track your Habits.
-downloads: 8001
+downloads: 8050
 mobile: true
 number: 560
 title: Habit Tracker

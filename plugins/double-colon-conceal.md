@@ -7,7 +7,7 @@ author_page: https://www.msrch.dev
 categories: []
 description: Display double colon (i.e. Dataview inline fields) as a single colon
   for more natural reading experience.
-downloads: 5434
+downloads: 5453
 mobile: true
 number: 784
 title: Double Colon Conceal

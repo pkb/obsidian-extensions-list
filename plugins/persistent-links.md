@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ivan-lednev
 categories: []
 description: Automatically repair internal links to blocks and headings
-downloads: 4848
+downloads: 4868
 funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 911

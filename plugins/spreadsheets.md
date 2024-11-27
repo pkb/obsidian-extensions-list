@@ -6,7 +6,7 @@ author:
 author_page: https://divam.io
 categories: []
 description: Plugin to create spreadsheets in Obsidian.
-downloads: 20601
+downloads: 20837
 mobile: false
 number: 1115
 title: Spreadsheets

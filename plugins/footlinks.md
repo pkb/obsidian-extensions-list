@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/DahaWong
 categories: []
 description: Extracts links from the main text to footer.
-downloads: 11132
+downloads: 11151
 mobile: true
 number: 49
 title: Footlinks

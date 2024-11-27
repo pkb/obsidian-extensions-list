@@ -7,7 +7,7 @@ author_page: https://github.com/zuchka
 categories: []
 description: Score the readabilty of your writing using the Flesch Reading Ease (FRE)
   formula.
-downloads: 4264
+downloads: 4285
 mobile: false
 number: 999
 title: Readability Score

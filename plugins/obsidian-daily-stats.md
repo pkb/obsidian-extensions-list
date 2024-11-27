@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Daily Stats
+- Daily Stats
 author:
-  - Dhruvik Parikh
+- Dhruvik Parikh
 author_page: https://github.com/dhruvik7
 categories:
-  - "[[categories/Statistics|Statistics]]"
+- '[[categories/Statistics|Statistics]]'
 description: Track your daily word count across all notes in your vault.
-downloads: 17517
+downloads: 17634
 mobile: true
 number: 101
 title: Daily Stats
 type: plugin
-updated: 2021-02-25T20:52:50
+updated: '2021-02-25T20:52:50'
 url: https://github.com/dhruvik7/obsidian-daily-stats
 version: 1.0.4
 ---

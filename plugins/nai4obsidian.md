@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SalokinGreen
 categories: []
 description: Generate text with NovelAI's models.
-downloads: 4184
+downloads: 4208
 mobile: true
 number: 1012
 title: NovelAI

@@ -7,14 +7,14 @@ author_page: https://gabbert.me
 categories: []
 description: Extracts and displays security-relevant indicators such as IP addresses,
   domains, and file hashes to enhance your cyber security note-taking process.
-downloads: 60
+downloads: 114
 mobile: false
 number: 2007
 title: IOC Lens
 type: plugin
-updated: '2024-11-12T18:56:12'
+updated: '2024-11-19T18:01:41'
 url: https://github.com/acgabbert/ioc-lens
-version: 1.0.1
+version: 1.0.2
 ---
 
 %% README_START %%

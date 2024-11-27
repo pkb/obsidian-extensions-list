@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/mnaoumov
 categories: []
 description: Enables context menu for vault root folder
-downloads: 1793
+downloads: 1882
 funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1386
 title: Root Folder Context Menu
 type: plugin
-updated: '2024-11-13T11:06:34'
+updated: '2024-11-21T11:04:54'
 url: https://github.com/mnaoumov/obsidian-root-folder-context-menu
-version: 1.3.1
+version: 1.3.2
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://tonys-studio.top/
 categories: []
 description: Easily toggle heading levels in Markdown documents with shortcuts.
-downloads: 200
+downloads: 212
 funding_page: https://www.tonys-studio.top/support/
 mobile: true
 number: 1811

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/TheseusGrey
 categories: []
 description: Open a Neovim buffer for the currently open file
-downloads: 1181
+downloads: 1246
 mobile: false
 number: 1756
 title: Edit in Neovim

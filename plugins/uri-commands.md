@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kzhovn
 categories: []
 description: Execute URIs from the Obsidian command palette.
-downloads: 5531
+downloads: 5540
 mobile: true
 number: 306
 title: URI Commands

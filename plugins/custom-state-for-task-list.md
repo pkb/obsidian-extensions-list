@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/OkamiWong
 categories: []
 description: Add custom states to task list items.
-downloads: 4662
+downloads: 4712
 mobile: true
 number: 926
 title: Custom State for Task List
 type: plugin
-updated: '2023-05-26T21:42:25'
+updated: '2024-11-25T12:40:03'
 url: https://github.com/OkamiWong/obsidian-custom-state-for-task-list
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%

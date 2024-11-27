@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pvojtechovsky
 categories: []
 description: Creates links and aliases in front matter of target document
-downloads: 6495
+downloads: 6535
 funding_page: https://www.buymeacoffee.com/pavel.knowledge
 mobile: true
 number: 957

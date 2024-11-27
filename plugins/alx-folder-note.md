@@ -1,18 +1,18 @@
 ---
 aliases:
-  - AidenLx's Folder Note
+- AidenLx's Folder Note
 author:
-  - AidenLx
+- AidenLx
 author_page: https://github.com/aidenlx
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Add description, summary and more info to folders with folder notes.
-downloads: 48397
+downloads: 48546
 mobile: true
 number: 247
 title: AidenLx's Folder Note
 type: plugin
-updated: 2023-05-05T13:34:04
+updated: '2023-05-05T13:34:04'
 url: https://github.com/aidenlx/alx-folder-note
 version: 0.16.5
 ---

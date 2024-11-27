@@ -6,7 +6,7 @@ author:
 author_page: https://opisek.net/
 categories: []
 description: Lets you rearrange and hide specific status bar elements.
-downloads: 3849
+downloads: 3900
 mobile: false
 number: 1413
 title: Status Bar Organizer

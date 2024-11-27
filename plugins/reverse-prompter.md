@@ -6,7 +6,7 @@ author:
 author_page: https://blog.ryanhalliday.com
 categories: []
 description: Generate prompts to keep you writing with AI.
-downloads: 829
+downloads: 838
 funding_page: https://ko-fi.com/ryanhalliday
 mobile: true
 number: 1571

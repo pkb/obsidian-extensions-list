@@ -6,7 +6,7 @@ author:
 author_page: https://elijahpotter.dev
 categories: []
 description: The Grammar Checker for Developers
-downloads: 2380
+downloads: 2602
 mobile: false
 number: 1837
 title: Harper

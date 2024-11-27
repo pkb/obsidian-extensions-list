@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/liamcain/
 categories: []
 description: Dress up your editor with decorations that mark each of your headings.
-downloads: 21130
+downloads: 21298
 mobile: true
 number: 467
 title: Lapel

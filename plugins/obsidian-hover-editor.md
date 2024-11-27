@@ -7,7 +7,7 @@ author_page: https://github.com/nothingislost
 categories: []
 description: Transform the Page Preview hover popover into a fully working editor
   instance
-downloads: 285408
+downloads: 288017
 mobile: true
 number: 462
 title: Hover Editor

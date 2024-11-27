@@ -7,7 +7,7 @@ author_page: https://www.jdgauchat.com
 categories: []
 description: This plugin creates summaries with paragraphs or blocks of text that
   share the same tag(s).
-downloads: 11144
+downloads: 11212
 mobile: true
 number: 638
 title: Tag Summary

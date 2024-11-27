@@ -7,7 +7,7 @@ author_page: https://github.com/Qwyntex
 categories: []
 description: Open the command palette by pressing Shift (or any other key) twice like
   in IntelliJ and create your own shortcuts
-downloads: 11982
+downloads: 12105
 mobile: true
 number: 482
 title: Doubleshift

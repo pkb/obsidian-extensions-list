@@ -7,7 +7,7 @@ author_page: https://github.com/xaya1001
 categories: []
 description: Render chemical structures from SMILES strings into PNG or SVG format
   using Ketcher and Indigo Service.
-downloads: 4180
+downloads: 4195
 mobile: true
 number: 985
 title: Chemical Structure Renderer

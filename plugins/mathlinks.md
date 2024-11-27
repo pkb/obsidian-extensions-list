@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/zhaoshenzhai/obsidian-mathlinks
 categories: []
 description: Render MathJax in your links
-downloads: 15437
+downloads: 15631
 mobile: true
 number: 624
 title: MathLinks

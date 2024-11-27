@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/sneaky-foxes
 categories: []
 description: Lints filenames for invalid or troublesome characters
-downloads: 3970
+downloads: 3988
 mobile: true
 number: 1056
 title: Safe Filename Linter

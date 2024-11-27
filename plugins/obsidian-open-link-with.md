@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MamoruDS
 categories: []
 description: Open external link with specific browser / in-app view in Obsidian
-downloads: 14380
+downloads: 14440
 mobile: false
 number: 174
 title: Open Link With

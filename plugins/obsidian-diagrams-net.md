@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Diagrams.net
+- Diagrams.net
 author:
-  - Jens M Gleditsch
+- Jens M Gleditsch
 author_page: https://github.com/jensmtg
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
-description: Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor.
-downloads: 30013
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
+description: Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net
+  embedded editor.
+downloads: 30402
 mobile: false
 number: 556
 title: Diagrams.net
 type: plugin
-updated: 2022-06-23T11:13:19
+updated: '2022-06-23T11:13:19'
 url: https://github.com/jensmtg/obsidian-diagrams-net
 version: 1.0.4
 ---

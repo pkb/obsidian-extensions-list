@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MarcosNicolau
 categories: []
 description: Render graphs using Wolfram Mathematica code!
-downloads: 1793
+downloads: 1819
 funding_page: https://www.buymeacoffee.com/marcosnicolau
 mobile: false
 number: 1401

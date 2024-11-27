@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/rostunic
 categories: []
 description: Pick aliases or blocks of links.
-downloads: 548
+downloads: 559
 mobile: true
 number: 1588
 title: Alias Picker

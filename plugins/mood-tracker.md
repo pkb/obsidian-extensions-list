@@ -7,7 +7,7 @@ author_page: https://dartungar.com
 categories: []
 description: Track your moods & emotions easily. Visualize tracked history and browse
   the past entries.
-downloads: 12669
+downloads: 12802
 funding_page: https://www.paypal.com/paypalme/dartungar
 mobile: true
 number: 935

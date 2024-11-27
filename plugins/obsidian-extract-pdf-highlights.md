@@ -1,19 +1,19 @@
 ---
 aliases:
-  - PDF Highlights
+- PDF Highlights
 author:
-  - Alexis Rondeau
+- Alexis Rondeau
 author_page: https://publish.obsidian.md/alexisrondeau
 categories:
-  - "[[categories/Other formats|Other formats]]"
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+- '[[categories/Other formats|Other formats]]'
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Extract highlights, underlines and annotations from your PDFs into Obsidian
-downloads: 90412
+downloads: 90740
 mobile: true
 number: 69
 title: PDF Highlights
 type: plugin
-updated: 2021-02-17T16:58:44
+updated: '2021-02-17T16:58:44'
 url: https://github.com/akaalias/obsidian-extract-pdf-highlights
 version: 0.0.4
 ---

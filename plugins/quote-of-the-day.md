@@ -6,7 +6,7 @@ author:
 author_page: https://florin.page
 categories: []
 description: Inserts random quotes in the editor
-downloads: 10853
+downloads: 10940
 mobile: true
 number: 327
 title: Quote of the Day

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/zfei/obsidian-url-namer
 categories: []
 description: This plugin retrieves the HTML titles to name the raw URL links.
-downloads: 5698
+downloads: 5721
 mobile: true
 number: 626
 title: URL Namer

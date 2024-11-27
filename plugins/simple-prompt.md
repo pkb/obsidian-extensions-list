@@ -7,7 +7,7 @@ author_page: https://github.com/arumie
 categories: []
 description: Simple interface to generate or rewrite content using LLMs based on user
   input.
-downloads: 420
+downloads: 431
 mobile: true
 number: 1703
 title: Simple Prompt

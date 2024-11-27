@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Task Collector (TC)
+- Task Collector (TC)
 author:
-  - ebullient
+- ebullient
 author_page: https://github.com/ebullient
 categories:
-  - "[[categories/Task management|Task management]]"
-description: Change task status and collect tasks within a document using hotkeys and context menus.
-downloads: 27604
+- '[[categories/Task management|Task management]]'
+description: Change task status and collect tasks within a document using hotkeys
+  and context menus.
+downloads: 27806
 mobile: true
 number: 302
 title: Task Collector (TC)
 type: plugin
-updated: 2024-10-30T03:10:11
+updated: '2024-10-30T03:10:11'
 url: https://github.com/ebullient/obsidian-task-collector
 version: 1.1.5
 ---

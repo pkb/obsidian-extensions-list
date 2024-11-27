@@ -8,7 +8,7 @@ categories: []
 description: Generate and brainstorm ideas while creating your notes using Large Language
   Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI,
   and more for Obsidian.
-downloads: 23837
+downloads: 24187
 funding_page: https://ko-fi.com/longy2k
 mobile: true
 number: 979

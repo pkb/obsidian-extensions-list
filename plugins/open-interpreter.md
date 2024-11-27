@@ -6,7 +6,7 @@ author:
 author_page: https://www.github.com/MikeBirdTech
 categories: []
 description: Use Open Interpreter to run automatic operations on your vault
-downloads: 199
+downloads: 217
 mobile: false
 number: 1942
 title: Open Interpreter

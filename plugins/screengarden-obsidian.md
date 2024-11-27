@@ -1,18 +1,18 @@
 ---
 aliases:
-  - screen.garden
+- screen.garden
 author:
-  - screen.garden
+- screen.garden
 author_page: https://screen.garden/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Collaborate, publish, and work across PKM systems with screen.garden.
-downloads: 2834
+downloads: 2838
 mobile: true
 number: 1190
 title: screen.garden
 type: plugin
-updated: 2024-03-16T21:52:27
+updated: '2024-03-16T21:52:27'
 url: https://github.com/screendotgarden/screengarden-obsidian
 version: 0.0.14
 ---

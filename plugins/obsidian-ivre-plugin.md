@@ -7,7 +7,7 @@ author_page: https://ivre.rocks/
 categories: []
 description: 'IVRE integration for Obsidian: grab data from IVRE and brings it into
   Obsidian notes.'
-downloads: 3349
+downloads: 3353
 mobile: false
 number: 766
 title: IVRE

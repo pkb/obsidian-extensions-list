@@ -6,14 +6,14 @@ author:
 author_page: https://usysrc.dev
 categories: []
 description: Focus the text area when creating new notes.
-downloads: 1087
+downloads: 1104
 mobile: true
 number: 1481
 title: Text Focus
 type: plugin
-updated: '2024-02-29T04:13:24'
+updated: '2024-11-26T23:40:35'
 url: https://github.com/usysrc/obsidian-text-focus-plugin
-version: 1.0.0
+version: 1.0.5
 ---
 
 %% README_START %%

@@ -7,7 +7,7 @@ author_page: https://danielo.es
 categories: []
 description: Define forms for filling data that you will be able to open from anywhere
   you can run JS
-downloads: 17346
+downloads: 17538
 funding_page: https://www.buymeacoffee.com/danielo515
 mobile: true
 number: 1198

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/karstenpedersen
 categories: []
 description: Interact with elements using keyboard shortcuts in the spirit of Vim
-downloads: 1194
+downloads: 1283
 mobile: false
 number: 1758
 title: Vimium

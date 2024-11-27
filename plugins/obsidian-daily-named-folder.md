@@ -7,7 +7,7 @@ author_page: http://nemoandrea.github.io/
 categories: []
 description: Like daily notes, but nested in a named daily folder. Better for attachment
   management. Includes more flexible naming.
-downloads: 16066
+downloads: 16243
 mobile: true
 number: 271
 title: Daily Named Folder

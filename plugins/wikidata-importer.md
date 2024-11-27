@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Wikidata Importer
+- Wikidata Importer
 author:
-  - Sam Rose
+- Sam Rose
 author_page: https://samwho.dev
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import data from Wikidata into your vault.
-downloads: 4500
+downloads: 4529
 mobile: true
 number: 1076
 title: Wikidata Importer
 type: plugin
-updated: 2024-07-02T03:20:32
+updated: '2024-07-02T03:20:32'
 url: https://github.com/samwho/obsidian-wikidata-importer
 version: 1.0.9
 ---

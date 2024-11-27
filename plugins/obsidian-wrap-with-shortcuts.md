@@ -7,7 +7,7 @@ author_page: https://github.com/manic/obsidian-wrap-with-shortcuts
 categories: []
 description: 'Wrap selected text in custom tags with shortcuts. E.g.: underline, sub,
   ruby(フリガナ)'
-downloads: 8700
+downloads: 8750
 mobile: true
 number: 386
 title: Wrap with shortcuts

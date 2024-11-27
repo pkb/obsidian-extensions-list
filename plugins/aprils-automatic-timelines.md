@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/April-Gras
 categories: []
 description: Simple timeline generator for story tellers
-downloads: 28986
+downloads: 29393
 mobile: true
 number: 913
 title: April's Automatic Timelines

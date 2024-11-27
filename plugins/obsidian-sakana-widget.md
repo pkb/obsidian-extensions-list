@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: Add the Sakana! Widget to your own Obsidian!
-downloads: 4774
+downloads: 4781
 mobile: true
 number: 614
 title: Sakana Widget

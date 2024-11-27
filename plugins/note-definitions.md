@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/dominiclet
 categories: []
 description: Personal dictionary for your notes
-downloads: 7442
+downloads: 7791
 mobile: true
 number: 1669
 title: Note Definitions
 type: plugin
-updated: '2024-10-19T21:40:19'
+updated: '2024-11-23T18:30:12'
 url: https://github.com/dominiclet/obsidian-note-definitions
-version: 0.26.1
+version: 0.27.0
 ---
 
 %% README_START %%

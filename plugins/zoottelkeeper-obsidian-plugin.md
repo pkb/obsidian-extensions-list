@@ -8,7 +8,7 @@ author_page: https://github.com/akosbalasko, https://github.com/michabrugger
 categories: []
 description: This plugin automatically creates, maintains and tags MOCs for all your
   folders.
-downloads: 59829
+downloads: 60239
 mobile: true
 number: 197
 title: Zoottelkeeper Plugin

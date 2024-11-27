@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Odaimoko
 categories: []
 description: 'A Project Management Tool: Tag tasks everywhere, Manage in One page.'
-downloads: 5701
+downloads: 5742
 funding_page: https://ko-fi.com/odaimoko
 mobile: true
 number: 1248

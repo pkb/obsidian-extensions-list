@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jsifalda
 categories: []
 description: Sorting your TODOs (checkboxes) in current note by completion status.
-downloads: 65
+downloads: 110
 mobile: true
 number: 1994
 title: Todos sort

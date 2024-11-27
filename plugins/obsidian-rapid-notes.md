@@ -7,7 +7,7 @@ author_page: https://github.com/valteriomon
 categories: []
 description: Create and place notes quickly in specific folders based on predefined
   prefixes.
-downloads: 5504
+downloads: 5518
 mobile: true
 number: 675
 title: Rapid Notes

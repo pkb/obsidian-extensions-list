@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/LuCrypto
 categories: []
 description: Search and insert gifs in a note.
-downloads: 483
+downloads: 517
 funding_page: https://buymeacoffee.com/lucrypto
 mobile: true
 number: 1794

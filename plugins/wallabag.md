@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/huseyz
 categories: []
 description: Sync your Wallabag articles.
-downloads: 4024
+downloads: 4079
 mobile: true
 number: 1086
 title: Wallabag

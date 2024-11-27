@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/XeroAlpha/
 categories: []
 description: Allow two linked markdown views to scroll synchronously.
-downloads: 3543
+downloads: 3551
 mobile: false
 number: 1024
 title: Markdown Sync Scroll

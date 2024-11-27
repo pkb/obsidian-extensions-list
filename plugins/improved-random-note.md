@@ -7,7 +7,7 @@ author_page: https://github.com/ShockThunder
 categories: []
 description: Improved interaction with the knowledge base in so-called wandering mode
   by opening specific Random Notes.
-downloads: 4669
+downloads: 4773
 mobile: true
 number: 1226
 title: Improved Random Note

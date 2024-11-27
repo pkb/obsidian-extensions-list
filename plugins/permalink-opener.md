@@ -6,7 +6,7 @@ author:
 author_page: https://www.twitter.com/kepano
 categories: []
 description: Opens URLs based on a permalink or slug in the file properties
-downloads: 2870
+downloads: 2877
 funding_page: https://www.buymeacoffee.com/kepano
 mobile: true
 number: 1195

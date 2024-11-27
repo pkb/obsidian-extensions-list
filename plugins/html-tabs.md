@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ptournet
 categories: []
 description: Create and render Tabs and tab panels in your notes.
-downloads: 5399
+downloads: 5436
 mobile: true
 number: 1179
 title: HTML Tabs

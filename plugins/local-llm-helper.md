@@ -6,7 +6,7 @@ author:
 author_page: https:/warpcast.com/mani
 categories: []
 description: Use your own secure local LLM server to work with your text!
-downloads: 1586
+downloads: 1656
 funding_page: https://buymeacoffee.com/manee
 mobile: true
 number: 1631

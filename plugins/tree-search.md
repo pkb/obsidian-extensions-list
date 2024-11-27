@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/catacgc
 categories: []
 description: Quickly search hierarchical line trees
-downloads: 147
+downloads: 355
 funding_page: https://github.com/sponsors/catacgc
 mobile: true
 number: 1986
 title: Tree Search
 type: plugin
-updated: '2024-11-18T00:44:13'
+updated: '2024-11-26T13:19:26'
 url: https://github.com/catacgc/obsidian-tree-search
-version: 0.9.3
+version: 0.9.5
 ---
 
 %% README_START %%

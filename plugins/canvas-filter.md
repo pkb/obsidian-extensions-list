@@ -7,7 +7,7 @@ author_page: https://ikoshelev.azurewebsites.net/
 categories: []
 description: This plugin lets you filter Canvas to only show items of specific color,
   tags or only connected to currently selected node.
-downloads: 10690
+downloads: 10765
 funding_page: https://github.com/IKoshelev/Obsidian-Canvas-Filter
 mobile: true
 number: 780

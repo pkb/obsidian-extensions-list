@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/TravisLinkey
 categories: []
 description: Help knowledge retention by reviewing and filtering notes.
-downloads: 174
+downloads: 182
 funding_page: https://www.buymeacoffee.com/travislinkey
 mobile: true
 number: 1856

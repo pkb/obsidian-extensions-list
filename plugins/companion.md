@@ -7,7 +7,7 @@ author_page: https://github.com/rizerphe
 categories: []
 description: Autocomplete with AI, including ChatGPT and ollama, through a copilot-like
   interface.
-downloads: 16909
+downloads: 17411
 funding_page: https://www.buymeacoffee.com/rizerphe
 mobile: true
 number: 861

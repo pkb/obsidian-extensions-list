@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Google Blogger
+- Google Blogger
 author:
-  - Hugo Sansaqua
+- Hugo Sansaqua
 author_page: https://github.com/privet-kitty
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Google Blogger.
-downloads: 560
+downloads: 570
 mobile: true
 number: 1596
 title: Google Blogger
 type: plugin
-updated: 2024-04-26T23:04:35
+updated: '2024-04-26T23:04:35'
 url: https://github.com/privet-kitty/obsidian-blogger
 version: 0.9.7
 ---

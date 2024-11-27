@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ericbiewener
 categories: []
 description: Protect your vault with a lock screen.
-downloads: 8344
+downloads: 8384
 mobile: true
 number: 404
 title: Lock Screen

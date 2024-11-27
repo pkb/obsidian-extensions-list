@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Metadata Menu
+- Metadata Menu
 author:
-  - mdelobelle
+- mdelobelle
 author_page: https://github.com/mdelobelle
 categories:
-  - "[[categories/Data management|Data management]]"
-description: "For data quality enthusiasts (and dataview users): manage the metadata of your notes."
-downloads: 160894
+- '[[categories/Data management|Data management]]'
+description: 'For data quality enthusiasts (and dataview users): manage the metadata
+  of your notes.'
+downloads: 161666
 funding_page: https://github.com/sponsors/mdelobelle/
 mobile: true
 number: 564
 title: Metadata Menu
 type: plugin
-updated: 2024-03-25T00:23:32
+updated: '2024-03-25T00:23:32'
 url: https://github.com/mdelobelle/metadatamenu
 version: 0.8.7
 ---

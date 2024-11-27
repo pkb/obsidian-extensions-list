@@ -7,14 +7,14 @@ author_page: https://github.com/kctekn
 categories: []
 description: A powerful tool for visualizing 3D graphs and managing orphan files,
   offering a dynamic and colorful 3D graph view for enhanced user experience.
-downloads: 5122
+downloads: 5540
 mobile: true
 number: 1806
 title: Tags Routes
 type: plugin
-updated: '2024-11-12T15:25:45'
+updated: '2024-11-26T18:03:03'
 url: https://github.com/kctekn/obsidian-TagsRoutes
-version: 1.2.0
+version: 1.2.2
 ---
 
 %% README_START %%

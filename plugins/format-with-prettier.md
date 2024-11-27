@@ -6,7 +6,7 @@ author:
 author_page: https://gavrusev.dev
 categories: []
 description: Format files in your vault using Prettier.
-downloads: 1768
+downloads: 1782
 funding_page: https://ko-fi.com/gavrusev
 mobile: true
 number: 1439

@@ -6,7 +6,7 @@ author:
 author_page: https://maudroyer.fr
 categories: []
 description: Displays a card view of your notes.
-downloads: 6050
+downloads: 6282
 mobile: true
 number: 1532
 title: Cards View

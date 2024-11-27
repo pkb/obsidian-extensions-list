@@ -6,14 +6,14 @@ author:
 author_page: https://twitter.com/JacobColling
 categories: []
 description: Accelerate your work with LLMs in canvas and your notes
-downloads: 2535
+downloads: 2759
 mobile: false
 number: 1792
 title: Caret
 type: plugin
-updated: '2024-11-01T01:12:06'
+updated: '2024-11-19T02:03:39'
 url: https://github.com/jcollingj/caret
-version: 0.2.62
+version: 0.2.63
 ---
 
 %% README_START %%

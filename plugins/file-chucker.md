@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kenlim/obsidian-file-chucker
 categories: []
 description: Quickly move a file to a new or existing folder, then open the next file.
-downloads: 4202
+downloads: 4209
 mobile: true
 number: 744
 title: File Chucker

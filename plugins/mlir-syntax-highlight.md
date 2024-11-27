@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Lewuathe
 categories: []
 description: Show syntax highlighing for MLIR in code blocks the editor
-downloads: 5838
+downloads: 5927
 mobile: true
 number: 1112
 title: MLIR Syntax Highlight

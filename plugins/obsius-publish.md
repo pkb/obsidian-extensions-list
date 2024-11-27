@@ -6,7 +6,7 @@ author:
 author_page: https://jonstodle.com
 categories: []
 description: Make single notes instantly available on the web.
-downloads: 13113
+downloads: 13217
 funding_page: https://ko-fi.com/jonstodle
 mobile: true
 number: 492

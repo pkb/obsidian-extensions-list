@@ -6,7 +6,7 @@ author:
 author_page: https://x.com/taayjus
 categories: []
 description: Generate and schedule tweets automatically from your notes
-downloads: 148
+downloads: 151
 mobile: true
 number: 1668
 title: Notes 2 Tweets

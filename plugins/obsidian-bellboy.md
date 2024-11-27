@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/shakedlokits
 categories: []
 description: Opinionated file structure manager.
-downloads: 3673
+downloads: 3674
 mobile: true
 number: 522
 title: Bellboy

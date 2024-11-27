@@ -5,7 +5,7 @@ author: denolehov
 author_page: https://github.com/denolehov
 categories: []
 description: Paste URL "into" selected text.
-downloads: 258236
+downloads: 260261
 mobile: true
 number: 4
 title: Paste URL into selection

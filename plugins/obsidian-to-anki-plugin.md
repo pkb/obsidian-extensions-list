@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Pseudonium/Obsidian_to_Anki
 categories: []
 description: This is an Anki integration plugin! Designed for efficient bulk exporting.
-downloads: 90740
+downloads: 91284
 mobile: false
 number: 54
 title: Obsidian_to_Anki

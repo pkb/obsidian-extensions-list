@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/alexkurowski
 categories: []
 description: Random generator tools geared towards solo TTRPG gameplay
-downloads: 6215
+downloads: 6441
 mobile: true
 number: 1662
 title: Solo RPG Toolkit

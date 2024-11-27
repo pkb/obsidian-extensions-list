@@ -6,7 +6,7 @@ author:
 author_page: https://lastknightcoder.github.io/hexo-blog
 categories: []
 description: embed your notion video in obsidian
-downloads: 4136
+downloads: 4144
 mobile: false
 number: 499
 title: Notion Video

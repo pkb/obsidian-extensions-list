@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/makary-s
 categories: []
 description: Multidimensional note navigation
-downloads: 1542
+downloads: 1558
 mobile: true
 number: 1524
 title: Metafolders

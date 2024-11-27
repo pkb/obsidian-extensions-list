@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aaachen
 categories: []
 description: Sync your IMDb list
-downloads: 585
+downloads: 591
 mobile: false
 number: 1581
 title: IMDb

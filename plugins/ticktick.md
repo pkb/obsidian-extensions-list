@@ -1,20 +1,20 @@
 ---
 aliases:
-  - TickTick
+- TickTick
 author:
-  - Viduy Cheung
+- Viduy Cheung
 author_page: https://ticktick.com
 categories:
-  - "[[categories/Task management|Task management]]"
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Task management|Task management]]'
+- '[[categories/Integration|Integration]]'
 description: Check and create tasks in TickTick via Obsidian
-downloads: 7494
+downloads: 7532
 funding_page: https://ticktick.com/about/upgrade
 mobile: true
 number: 1116
 title: TickTick
 type: plugin
-updated: 2023-11-30T14:13:40
+updated: '2023-11-30T14:13:40'
 url: https://github.com/viduycheung/ticktick-obsidian
 version: 1.0.4
 ---

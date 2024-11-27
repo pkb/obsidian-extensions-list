@@ -6,7 +6,7 @@ author:
 author_page: https://aldrinjenson.github.io/
 categories: []
 description: Camera plugin for Obsidian
-downloads: 10132
+downloads: 10214
 mobile: true
 number: 536
 title: Camera

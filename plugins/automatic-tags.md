@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Automatic Tags
+- Automatic Tags
 author:
-  - Jamalam
+- Jamalam
 author_page: https://jamalam.tech
 categories:
-  - "[[categories/Automation|Automation]]"
-  - "[[categories/Tag Management|Tag Management]]"
+- '[[categories/Automation|Automation]]'
+- '[[categories/Tag Management|Tag Management]]'
 description: Add tags to new notes automatically based on their path.
-downloads: 3920
+downloads: 3962
 mobile: true
 number: 1260
 title: Automatic Tags
 type: plugin
-updated: 2024-04-14T17:35:50
+updated: '2024-04-14T17:35:50'
 url: https://github.com/Jamalam360/obsidian-automatic-tags
 version: 1.1.1
 ---

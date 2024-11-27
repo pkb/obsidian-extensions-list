@@ -7,7 +7,7 @@ author_page: https://ravensanstete.github.io/
 categories: []
 description: Work as a personal assistant for translation, writing polish, general
   Q&A, summarizing, using the power of large language models.
-downloads: 1874
+downloads: 1903
 funding_page: ''
 mobile: true
 number: 1487

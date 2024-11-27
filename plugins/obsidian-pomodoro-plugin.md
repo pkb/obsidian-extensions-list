@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tokuhirom/
 categories: []
 description: This is a simple pomodoro plugin for Obsidian.
-downloads: 13525
+downloads: 13577
 mobile: true
 number: 184
 title: Pomodoro Plugin

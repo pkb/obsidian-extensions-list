@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ckt1031
 categories: []
 description: Compress images using TinyPNG to save your storage.
-downloads: 3833
+downloads: 3841
 mobile: true
 number: 1017
 title: TinyPNG Image

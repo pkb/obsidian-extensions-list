@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/rudimuc
 categories: []
 description: Converts text into other formats (base64, ROT13)
-downloads: 2099
+downloads: 2112
 mobile: true
 number: 1325
 title: Encoder/Decoder

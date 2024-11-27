@@ -7,7 +7,7 @@ author_page: https://axle.design
 categories: []
 description: Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency
   and get right to writing.
-downloads: 8071
+downloads: 8091
 mobile: true
 number: 319
 title: "Lumberjack \U0001FA93 \U0001FAB5"

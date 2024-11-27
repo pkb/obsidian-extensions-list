@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Ankush-Chander
 categories: []
 description: Intelligent way to move text in file.
-downloads: 290
+downloads: 298
 funding_page: https://buymeacoffee.com/ankushwatce
 mobile: true
 number: 1728

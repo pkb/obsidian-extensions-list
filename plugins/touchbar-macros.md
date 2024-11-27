@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Frostplexx
 categories: []
 description: Run custom macros from your Mac's Touch Bar.
-downloads: 3412
+downloads: 3416
 funding_page: https://Ko-fi.com/frostplexx
 mobile: false
 number: 1052

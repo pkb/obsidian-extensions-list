@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yasd251
 categories: []
 description: Adds a nice completion sound when a checkbox is ticked-off
-downloads: 1382
+downloads: 1414
 funding_page: https://buymeacoffee.com/yasd251
 mobile: false
 number: 1635

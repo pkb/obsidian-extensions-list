@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/wenlzhang
 categories: []
 description: Copy timestamped links to blocks, headings and notes.
-downloads: 2489
+downloads: 2497
 funding_page:
   Buy Me a Coffee: https://ko-fi.com/f84556
 mobile: true

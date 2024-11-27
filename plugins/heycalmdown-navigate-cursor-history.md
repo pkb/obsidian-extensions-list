@@ -7,7 +7,7 @@ author_page: https://github.com/heycalmdown
 categories: []
 description: This plugin remembers the recent 50 cursor positions history and allows
   you to jump to them back and forth like VSCode
-downloads: 5897
+downloads: 5925
 mobile: false
 number: 459
 title: Navigate Cursor History

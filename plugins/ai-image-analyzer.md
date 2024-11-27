@@ -1,19 +1,19 @@
 ---
 aliases:
-  - AI image analyzer
+- AI image analyzer
 author:
-  - Swaggeroo
+- Swaggeroo
 author_page: https://swaggeroo.de
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-  - "[[categories/Image handling|Image handling]]"
+- '[[categories/AI assistance|AI assistance]]'
+- '[[categories/Image handling|Image handling]]'
 description: Analyze images with AI to get keywords of the image.
-downloads: 2883
+downloads: 3124
 mobile: false
 number: 1800
 title: AI image analyzer
 type: plugin
-updated: 2024-08-01T13:00:06
+updated: '2024-08-01T13:00:06'
 url: https://github.com/Swaggeroo/obsidian-ai-image-analyzer
 version: 0.1.10
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/chetachiezikeuzor
 categories: []
 description: "MySnippets is a plugin that adds a status bar menu allowing the user
   to quickly toggle their snippets on and off \U0001F58C."
-downloads: 27399
+downloads: 27591
 mobile: false
 number: 321
 title: MySnippets

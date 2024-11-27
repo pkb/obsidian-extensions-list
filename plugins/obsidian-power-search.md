@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Searches Obsidian and Anki Notes based on current line
-downloads: 5221
+downloads: 5232
 mobile: false
 number: 421
 title: Power Search

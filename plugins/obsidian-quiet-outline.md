@@ -7,7 +7,7 @@ author_page: ''
 categories: []
 description: Make outline quiet and more powerful, including no-auto-expand, rendering
   heading as markdown, and search support.
-downloads: 123310
+downloads: 124380
 funding_page: https://www.buymeacoffee.com/thtree
 mobile: true
 number: 471

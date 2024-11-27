@@ -6,7 +6,7 @@ author:
 author_page: https://augustin.great-site.net
 categories: []
 description: Generate tags from notes without openai key in multiple languages
-downloads: 440
+downloads: 470
 mobile: true
 number: 1815
 title: Note 2 Tag Generator

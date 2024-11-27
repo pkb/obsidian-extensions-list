@@ -6,7 +6,7 @@ author:
 author_page: https://revotale.com
 categories: []
 description: Automatically move notes into existing folders by tags specified in note.
-downloads: 555
+downloads: 578
 mobile: true
 number: 1692
 title: Folder by tags distributor

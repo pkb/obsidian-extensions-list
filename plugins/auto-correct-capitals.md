@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Ummler
 categories: []
 description: Automatically correct words with the first two letters in uppercase.
-downloads: 746
+downloads: 816
 mobile: true
 number: 1840
 title: Auto Correct Capitals Misspellings

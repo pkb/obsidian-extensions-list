@@ -6,7 +6,7 @@ author:
 author_page: https://www.micahelias.com
 categories: []
 description: Create a note using OpenAI's GPT-3 language model.
-downloads: 31813
+downloads: 31982
 funding_page: https://www.buymeacoffee.com/mkelias
 mobile: true
 number: 736

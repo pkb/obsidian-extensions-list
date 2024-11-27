@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/christianwannerstedt
 categories: []
 description: Makes it easy to turn lists into formatted key-value lists.
-downloads: 4602
+downloads: 4641
 mobile: true
 number: 1301
 title: Key-Value List

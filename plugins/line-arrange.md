@@ -7,7 +7,7 @@ author_page: https://github.com/chitwan27
 categories: []
 description: Shuffle, reverse, or sort lines, using either visual width or lexical
   order.
-downloads: 1463
+downloads: 1599
 mobile: true
 number: 1720
 title: Line Arrange

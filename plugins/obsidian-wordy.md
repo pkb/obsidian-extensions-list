@@ -7,7 +7,7 @@ author_page: https://nqthqn.com
 categories: []
 description: Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse
   API
-downloads: 9980
+downloads: 10057
 mobile: true
 number: 729
 title: Wordy

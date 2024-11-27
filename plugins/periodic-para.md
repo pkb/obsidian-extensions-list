@@ -7,7 +7,7 @@ author_page: https://blog.lifeos.vip
 categories: []
 description: Life management system(Assist in practicing the PARA method with periodic
   notes and usememos).
-downloads: 24572
+downloads: 25070
 funding_page: https://lifeos.vip
 mobile: true
 number: 1031

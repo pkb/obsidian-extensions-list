@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/icealtria
 categories: []
 description: Receive messages from Telegram bot and add them to daily note.
-downloads: 2006
+downloads: 2055
 funding_page: https://ko-fi.com/icealtria
 mobile: true
 number: 1554

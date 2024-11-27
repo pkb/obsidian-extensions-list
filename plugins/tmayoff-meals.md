@@ -7,7 +7,7 @@ author_page: https://github.com/tmayoff
 categories: []
 description: Store and manage recipes, create weekly meal plans and generate shopping
   lists.
-downloads: 2486
+downloads: 2528
 mobile: true
 number: 1340
 title: Meal Plan

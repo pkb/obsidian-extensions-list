@@ -1,18 +1,18 @@
 ---
 aliases:
-  - 新枝Newledge
+- 新枝Newledge
 author:
-  - 新枝Newledge
+- 新枝Newledge
 author_page: https://www.xinzhi.zone
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import Newledge data.
-downloads: 117
+downloads: 143
 mobile: true
 number: 1924
 title: 新枝Newledge
 type: plugin
-updated: 2024-09-26T20:56:52
+updated: '2024-09-26T20:56:52'
 url: https://github.com/DepartingAgain/obsidian-newledge
 version: 1.0.0
 ---

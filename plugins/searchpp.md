@@ -7,7 +7,7 @@ author_page: https://haouari.com
 categories: []
 description: Allow inserting text context search results on the active note, the plugin
   is based on the plugin mrj-text-expand-witb-text of MrJackphil.
-downloads: 6067
+downloads: 6081
 mobile: true
 number: 26
 title: Search++

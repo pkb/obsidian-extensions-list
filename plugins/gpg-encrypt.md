@@ -1,19 +1,21 @@
 ---
 aliases:
-  - GPG Encrypt
+- GPG Encrypt
 author:
-  - Luis Jaramillo
+- Luis Jaramillo
 author_page: https://www.lajg.dev
 categories:
-  - "[[categories/Security and privacy|Security and privacy]]"
-description: Plugin to encrypt partial text or complete notes using GPG technology, it is compatible with security keys such as YubiKey or traditional GPG encryption methods
-downloads: 1606
+- '[[categories/Security and privacy|Security and privacy]]'
+description: Plugin to encrypt partial text or complete notes using GPG technology,
+  it is compatible with security keys such as YubiKey or traditional GPG encryption
+  methods
+downloads: 1634
 funding_page: https://www.lajg.dev/donate/
 mobile: false
 number: 1417
 title: GPG Encrypt
 type: plugin
-updated: 2024-08-26T07:02:16
+updated: '2024-08-26T07:02:16'
 url: https://github.com/lajg-dev/obsidian-plugin-gpg-inline-encrypt
 version: 1.1.4
 ---

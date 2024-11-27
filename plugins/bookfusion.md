@@ -1,19 +1,19 @@
 ---
 aliases:
-  - BookFusion
+- BookFusion
 author:
-  - BookFusion
+- BookFusion
 author_page: https://www.bookfusion.com
 categories:
-  - "[[categories/Import|Import]]"
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+- '[[categories/Import|Import]]'
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import your BookFusion highlights & annotations into your vault.
-downloads: 1781
+downloads: 1806
 mobile: true
 number: 1489
 title: BookFusion
 type: plugin
-updated: 2024-03-18T18:28:59
+updated: '2024-03-18T18:28:59'
 url: https://github.com/BookFusion/obsidian-plugin
 version: 1.0.4
 ---

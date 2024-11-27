@@ -7,7 +7,7 @@ author_page: https://github.com/czottmann
 categories: []
 description: Adds commands for increasing/decreasing the blockquote level of the current
   line or selection.
-downloads: 4494
+downloads: 4507
 mobile: true
 number: 608
 title: Blockquote Levels

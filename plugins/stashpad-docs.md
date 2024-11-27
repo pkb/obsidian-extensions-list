@@ -6,7 +6,7 @@ author:
 author_page: https://stashpad.com
 categories: []
 description: Create a Stashpad Doc from your notes.
-downloads: 156
+downloads: 158
 mobile: true
 number: 1665
 title: Stashpad Docs

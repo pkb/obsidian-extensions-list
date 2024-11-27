@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kenset
 categories: []
 description: Quickly preview installed themes
-downloads: 26737
+downloads: 26964
 mobile: false
 number: 253
 title: Theme Picker

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Canna71
 categories: []
 description: Create, edit and search sets of notes like Notion or AnyType DBs
-downloads: 7199
+downloads: 7309
 mobile: true
 number: 1209
 title: Sets

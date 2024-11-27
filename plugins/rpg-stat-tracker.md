@@ -6,7 +6,7 @@ author:
 author_page: https://xn--1-kmb.com/
 categories: []
 description: RPG-like stat tracker.
-downloads: 474
+downloads: 494
 mobile: false
 number: 1739
 title: RPG Stat Tracker

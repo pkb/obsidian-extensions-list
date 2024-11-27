@@ -6,7 +6,7 @@ author:
 author_page: https://carlonicora.com
 categories: []
 description: Manage your Tabletop Role Playing Game Campaigns in Obsidian
-downloads: 25965
+downloads: 26209
 mobile: true
 number: 589
 title: RPG Manager

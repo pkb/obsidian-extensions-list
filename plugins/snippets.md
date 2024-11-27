@@ -6,7 +6,7 @@ author:
 author_page: https://cristianvasquez.me
 categories: []
 description: Execute simple scripts/snippets from obsidian. This plugin is experimental
-downloads: 5744
+downloads: 5752
 mobile: true
 number: 62
 title: Snippets plugin

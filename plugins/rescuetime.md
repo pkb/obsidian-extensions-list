@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Tatz884
 categories: []
 description: View your RescueTime data in Obsidian.
-downloads: 2637
+downloads: 2642
 mobile: false
 number: 1213
 title: RescueTime

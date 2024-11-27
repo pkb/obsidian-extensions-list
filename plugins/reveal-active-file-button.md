@@ -6,7 +6,7 @@ author:
 author_page: https://claremacrae.co.uk
 categories: []
 description: Add a button to the top of the File Explorer, to reveal the active file.
-downloads: 12227
+downloads: 12302
 mobile: true
 number: 358
 title: Reveal Active File Button

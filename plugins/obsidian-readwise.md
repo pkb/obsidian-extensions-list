@@ -6,7 +6,7 @@ author:
 author_page: https://renehernandez.io
 categories: []
 description: Sync Readwise highlights into your notes
-downloads: 8774
+downloads: 8786
 mobile: true
 number: 153
 title: Readwise Community

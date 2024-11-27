@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Razumihin
 categories: []
 description: This plugin allows viewing a single document in fullscreen focus mode
-downloads: 34648
+downloads: 34761
 mobile: true
 number: 48
 title: Fullscreen mode plugin

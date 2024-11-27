@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/juan-miii
 categories: []
 description: Manages notifications at startup.
-downloads: 1215
+downloads: 1225
 mobile: true
 number: 1499
 title: Notification Controller

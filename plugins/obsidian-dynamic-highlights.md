@@ -7,7 +7,7 @@ author_page: https://github.com/nothingislost
 categories: []
 description: Dynamically highlight text based on cursor selection or search query
   with full regex, mobile, and live preview support
-downloads: 19971
+downloads: 20070
 mobile: true
 number: 400
 title: Dynamic Highlights

@@ -7,7 +7,7 @@ author_page: https://paultreanor.com
 categories: []
 description: Adds created on and last updated on dates of the active note to the status
   bar.
-downloads: 4609
+downloads: 4645
 mobile: false
 number: 1006
 title: Notes dater

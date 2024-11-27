@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/karstenpedersen
 categories: []
 description: Navigate between sequential daily notes with ease.
-downloads: 3747
+downloads: 3794
 mobile: true
 number: 1503
 title: Daily Note Navbar

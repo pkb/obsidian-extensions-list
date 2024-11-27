@@ -6,7 +6,7 @@ author:
 author_page: https://www.ederbit.xyz
 categories: []
 description: Navigate to the next and previous file in the current directory
-downloads: 2891
+downloads: 2912
 funding_page: https://www.ederbit.xyz/coffee
 mobile: true
 number: 1337

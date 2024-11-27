@@ -6,7 +6,7 @@ author:
 author_page: https://geoexamples.com
 categories: []
 description: Display and edit recipes written in the Cooklang format.
-downloads: 1715
+downloads: 1738
 mobile: true
 number: 1494
 title: Cooklang

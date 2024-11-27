@@ -7,7 +7,7 @@ author_page: https://github.com/buszk
 categories: []
 description: Empower your note editor with LLM capabilities. Customizable to work
   for your use cases.
-downloads: 4720
+downloads: 4753
 mobile: true
 number: 1132
 title: AI Editor

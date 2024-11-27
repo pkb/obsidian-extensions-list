@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/StinsonZhao
 categories: []
 description: Obsidian plugin for recording Go games (SGF format goban).
-downloads: 1074
+downloads: 1078
 mobile: false
 number: 1453
 title: Goban SGF

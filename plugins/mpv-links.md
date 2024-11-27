@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/patsh90
 categories: []
 description: Add mpv links with timestamps
-downloads: 97
+downloads: 104
 mobile: false
 number: 1780
 title: mpv links

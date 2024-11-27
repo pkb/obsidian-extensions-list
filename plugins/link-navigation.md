@@ -7,7 +7,7 @@ author_page: https://github.com/xryul
 categories: []
 description: Navigate between incoming links (inlinks), outgoing links (outlinks)
   N levels deep. Links from Canvas are also supported.
-downloads: 337
+downloads: 363
 mobile: true
 number: 1933
 title: Link Navigation

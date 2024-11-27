@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Seafile
+- Seafile
 author:
-  - conql
+- conql
 author_page: https://github.com/conql
 categories:
-  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
+- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync notes across devices using Seafile.
-downloads: 2299
+downloads: 2332
 mobile: true
 number: 1466
 title: Seafile
 type: plugin
-updated: 2024-11-02T17:27:57
+updated: '2024-11-02T17:27:57'
 url: https://github.com/conql/obsidian-seafile
 version: 0.3.6
 ---

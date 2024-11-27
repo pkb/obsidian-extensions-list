@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/andrewmcgivery
 categories: []
 description: Allows you to add dividers to the ribbon to space out your icons.
-downloads: 4120
+downloads: 4176
 funding_page: https://www.buymeacoffee.com/andrewmcgivery
 mobile: true
 number: 1343

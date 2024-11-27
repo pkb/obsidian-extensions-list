@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/qwegat
 categories: []
 description: Plugin for describing external service accounts in the front matter
-downloads: 4141
+downloads: 4147
 mobile: true
 number: 642
 title: Account Linker

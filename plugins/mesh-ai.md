@@ -6,7 +6,7 @@ author:
 author_page: https://chaseelder.com
 categories: []
 description: Mesh AI prompt manager and gererator
-downloads: 2994
+downloads: 3218
 funding_page: https://buymeacoffee.com/chasebank87
 mobile: true
 number: 1888

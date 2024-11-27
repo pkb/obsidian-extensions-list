@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/eatgrass
 categories: []
 description: Hightlight vocabulary based on the word frequency
-downloads: 3649
+downloads: 3678
 funding_page: https://www.buymeacoffee.com/eatgrass
 mobile: true
 number: 1255

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Acylation
 categories: []
 description: Simulates typewriter / mechanical keyboard sounds.
-downloads: 3550
+downloads: 3690
 funding_page: https://ko-fi.com/Acylation
 mobile: true
 number: 1573

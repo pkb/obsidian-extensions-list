@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/palfrey
 categories: []
 description: Generates random names
-downloads: 560
+downloads: 568
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/palfrey
   Ko-fi: https://ko-fi.com/palfrey

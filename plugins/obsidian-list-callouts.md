@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgmeyers/obsidian-list-callouts
 categories: []
 description: Create simple callouts in lists.
-downloads: 80426
+downloads: 81562
 mobile: true
 number: 562
 title: List Callouts

@@ -7,7 +7,7 @@ author_page: https://lila.rest
 categories: []
 description: Custom Classes is a minimalist plugin that allows you to add custom HTML
   classes to markdown blocks
-downloads: 6202
+downloads: 6234
 funding_page: https://lila.rest/donations
 mobile: true
 number: 790

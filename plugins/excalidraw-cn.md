@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Excalidraw CN
+- Excalidraw CN
 author:
-  - Korbin Zhao
+- Korbin Zhao
 author_page: https://korbinzhao.deno.dev/
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
-description: 支持中文手写效果的 Excalidraw。Excalidraw supporting Chinese hand write font by default.
-downloads: 12629
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
+description: 支持中文手写效果的 Excalidraw。Excalidraw supporting Chinese hand write font by
+  default.
+downloads: 12738
 funding_page: https://afdian.net/a/wantian
 mobile: true
 number: 1106
 title: Excalidraw CN
 type: plugin
-updated: 2023-07-08T21:15:53
+updated: '2023-07-08T21:15:53'
 url: https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin
 version: 1.0.0
 ---

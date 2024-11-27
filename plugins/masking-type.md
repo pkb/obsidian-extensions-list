@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Telehakke
 categories: []
 description: Mask bold, italic, and highlight
-downloads: 33
+downloads: 63
 mobile: true
 number: 1995
 title: Masking Type

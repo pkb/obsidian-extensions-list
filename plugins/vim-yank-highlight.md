@@ -7,7 +7,7 @@ author_page: https://github.com/aleksey-rowan
 categories: []
 description: Highlight yanked text in Vim mode. Enjoy that subtle animation you've
   missed so much.
-downloads: 3591
+downloads: 3642
 funding_page: https://www.buymeacoffee.com/alekseyrowan
 mobile: false
 number: 1316

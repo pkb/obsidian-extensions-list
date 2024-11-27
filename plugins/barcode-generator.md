@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/noxonad
 categories: []
 description: Generates customizable barcodes into your notes.
-downloads: 2509
+downloads: 2518
 mobile: true
 number: 1263
 title: Barcode Generator

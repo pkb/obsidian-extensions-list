@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dobrovolsky/obsidian-structure
 categories: []
 description: 'Structured plugin. Create hierarchy in notes using . '
-downloads: 5744
+downloads: 5756
 mobile: true
 number: 359
 title: Structured

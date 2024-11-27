@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Writeas Blog Publisher
+- Writeas Blog Publisher
 author:
-  - encima
+- encima
 author_page: https://github.com/encima/obsidian-writeas-plugin
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to write.as
-downloads: 2959
+downloads: 2961
 mobile: true
 number: 1110
 title: Writeas Blog Publisher
 type: plugin
-updated: 2023-09-03T22:36:41
+updated: '2023-09-03T22:36:41'
 url: https://github.com/encima/obsidian-writeas-plugin
 version: 1.0.2
 ---

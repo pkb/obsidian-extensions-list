@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Just Share Please
+- Just Share Please
 author:
-  - Ellpeck
+- Ellpeck
 author_page: https://ellpeck.de
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Quickly and easily share individual notes online using an anonymized link. Also easy to self-host!
-downloads: 3584
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Quickly and easily share individual notes online using an anonymized
+  link. Also easy to self-host!
+downloads: 3594
 funding_page: https://ellpeck.de/support
 mobile: true
 number: 1138
 title: Just Share Please
 type: plugin
-updated: 2023-10-26T15:57:25
+updated: '2023-10-26T15:57:25'
 url: https://github.com/Ellpeck/ObsidianJustSharePlease
 version: 0.1.5
 ---

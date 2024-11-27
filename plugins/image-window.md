@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Allow images & notes to be viewed in new Obsidian windows.
-downloads: 23879
+downloads: 24073
 mobile: false
 number: 371
 title: Second Window

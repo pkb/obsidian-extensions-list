@@ -6,7 +6,7 @@ author:
 author_page: https://idorecall.com
 categories: []
 description: iDoRecall plugin allows you to create recalls from Obsidian notes
-downloads: 2524
+downloads: 2532
 mobile: false
 number: 1196
 title: iDoRecall

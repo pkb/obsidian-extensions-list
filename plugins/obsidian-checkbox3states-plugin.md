@@ -6,7 +6,7 @@ author:
 author_page: https://novagaia.fr
 categories: []
 description: This is a simple plugin for add a third state to checkbox list.
-downloads: 5990
+downloads: 6030
 mobile: true
 number: 648
 title: Checkbox 3 states

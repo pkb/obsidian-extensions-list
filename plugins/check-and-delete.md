@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/Danitiate
 categories: []
 description: Quickly clean up temporary list-items with the press of a button
-downloads: 27
+downloads: 59
 funding_page: https://github.com/sponsors/Danitiate
 mobile: true
 number: 2003
 title: Check and Delete
 type: plugin
-updated: '2024-11-08T04:11:46'
+updated: '2024-11-21T22:18:57'
 url: https://github.com/Danitiate/check-and-delete
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%

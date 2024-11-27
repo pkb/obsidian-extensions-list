@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kocheck
 categories: []
 description: Embed Figma files as inline previews.
-downloads: 341
+downloads: 374
 mobile: true
 number: 1914
 title: Figma Embed

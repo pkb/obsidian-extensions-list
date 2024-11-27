@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Arcane Obfuscate
+- Arcane Obfuscate
 author:
-  - Shusako
+- Shusako
 author_page: https://github.com/Shusako
 categories:
-  - "[[categories/Security and privacy|Security and privacy]]"
+- '[[categories/Security and privacy|Security and privacy]]'
 description: Obfuscate text with an arcane runic effect.
-downloads: 213
+downloads: 225
 mobile: true
 number: 1848
 title: Arcane Obfuscate
 type: plugin
-updated: 2024-07-26T04:09:14
+updated: '2024-07-26T04:09:14'
 url: https://github.com/Shusako/arcane-obfuscate
 version: 1.0.3
 ---

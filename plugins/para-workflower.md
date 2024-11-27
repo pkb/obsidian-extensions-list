@@ -7,7 +7,7 @@ author_page: https://github.com/trucke
 categories: []
 description: Helpful commands for starting and working in your vault with the PARA
   method.
-downloads: 1421
+downloads: 1442
 mobile: true
 number: 1538
 title: PARA Workflower

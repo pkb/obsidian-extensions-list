@@ -7,7 +7,7 @@ author_page: https://github.com/elias-sundqvist
 categories: []
 description: This is a plugin for Obsidian. It allows you to write and use React components
   with Jsx inside your Obsidian notes.
-downloads: 16382
+downloads: 16518
 mobile: true
 number: 180
 title: React Components

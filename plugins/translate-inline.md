@@ -7,7 +7,7 @@ author_page: https://kon.foo/
 categories: []
 description: Translations at your fingertips. Get inline Translations when writing
   Notes.
-downloads: 76
+downloads: 92
 funding_page: https://buymeacoffee.com/kon.foo
 mobile: false
 number: 1960

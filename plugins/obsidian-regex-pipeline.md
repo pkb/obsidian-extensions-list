@@ -6,7 +6,7 @@ author:
 author_page: github.com/No3371
 categories: []
 description: Allows users setup custom regex rules to automatically format notes.
-downloads: 15740
+downloads: 15849
 mobile: true
 number: 150
 title: Regex Pipeline

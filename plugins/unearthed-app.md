@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/cheerscal
 categories: []
 description: Auto Sync Kindle Highlights and Daily Reflection via Unearthed
-downloads: 35
+downloads: 68
 funding_page: https://unearthed.app
 mobile: true
 number: 1988

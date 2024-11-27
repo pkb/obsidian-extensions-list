@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/maotong06/obsidian-paste-as-html-plugin
 categories: []
 description: Paste As Html, Keep the original css style. Paste from web browser
-downloads: 8831
+downloads: 8906
 funding_page: https://github.com/maotong06/obsidian-paste-as-html-plugin
 mobile: true
 number: 724

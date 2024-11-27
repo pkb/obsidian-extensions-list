@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Developer-Mike
 categories: []
 description: Calculate LaTeX formulas inside Obsidian.
-downloads: 4718
+downloads: 4758
 mobile: true
 number: 1173
 title: Calctex

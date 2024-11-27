@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Notes Sync Share
+- Notes Sync Share
 author:
-  - Alt-er
+- Alt-er
 author_page: https://github.com/Alt-er
 categories:
-  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
+- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync and share (publish) your notes in your own private service.
-downloads: 4679
-funding_page: 
+downloads: 4722
+funding_page: null
 mobile: true
 number: 1011
 title: Notes Sync Share
 type: plugin
-updated: 2023-11-28T21:24:07
+updated: '2023-11-28T21:24:07'
 url: https://github.com/Alt-er/obsidian-sync-share
 version: 1.2.3
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/iVariable
 categories: []
 description: This plugin introduces commands to format code (internally uses prettier)
-downloads: 8588
+downloads: 8654
 mobile: true
 number: 465
 title: Format code

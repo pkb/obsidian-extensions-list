@@ -7,7 +7,7 @@ author_page: https://github.com/sonarAIT
 categories: []
 description: A patch for Obsidian's built-in CodeMirror Editor to support Japanese
   word splitting
-downloads: 5076
+downloads: 5095
 mobile: false
 number: 427
 title: Word Splitting for Japanese in Edit Mode

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dragonish
 categories: []
 description: Implements automatic marking of abbreviations and acronyms (terminology).
-downloads: 260
+downloads: 273
 funding_page: https://ko-fi.com/monogamy
 mobile: true
 number: 1857

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bicarlsen
 categories: []
 description: Add captions to images.
-downloads: 25095
+downloads: 25310
 mobile: true
 number: 339
 title: Image Caption

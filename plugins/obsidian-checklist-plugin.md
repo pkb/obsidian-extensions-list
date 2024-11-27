@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/delashum
 categories: []
 description: Combines checklists across pages into users sidebar
-downloads: 338770
+downloads: 340267
 mobile: true
 number: 73
 title: Checklist

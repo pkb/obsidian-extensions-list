@@ -7,7 +7,7 @@ author_page: https://github.com/HyeonseoNam/obsidian-emoji-titler
 categories: []
 description: This plugin is emoji titler to easily insert an emoji in the title using
   a keyboard shortcut.
-downloads: 5274
+downloads: 5304
 mobile: true
 number: 824
 title: Emoji Titler

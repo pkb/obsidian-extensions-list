@@ -7,7 +7,7 @@ author_page: https://jmill.dev
 categories: []
 description: Grabs information from Wikipedia for a topic and brings it into Obsidian
   notes
-downloads: 20104
+downloads: 20234
 mobile: true
 number: 318
 title: Wikipedia

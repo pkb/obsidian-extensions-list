@@ -7,7 +7,7 @@ author_page: https://github.com/aedans
 categories: []
 description: 'Link to Magic: the Gathering cards by enclosing the card name in square
   brackets.'
-downloads: 3297
+downloads: 3303
 mobile: true
 number: 1108
 title: MTG Card Links

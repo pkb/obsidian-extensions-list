@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/stbowers
 categories: []
 description: Adds labels to fenced code blocks
-downloads: 4499
+downloads: 4507
 mobile: true
 number: 414
 title: Code Block Labels

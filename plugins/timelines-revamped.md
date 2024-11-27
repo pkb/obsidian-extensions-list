@@ -7,7 +7,7 @@ author_page: https://github.com/seanlowe/
 categories: []
 description: 'Successor to darakah''s Timelines plugin: Generate a chronological timeline
   in which all ''events'' are notes that include a specific tag or set of tags.'
-downloads: 8807
+downloads: 9028
 mobile: true
 number: 1396
 title: Timelines (Revamped)

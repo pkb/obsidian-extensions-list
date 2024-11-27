@@ -6,7 +6,7 @@ author:
 author_page: https://www.steffo.eu
 categories: []
 description: Create a metadata file about the files present in the Vault
-downloads: 2621
+downloads: 2644
 funding_page: https://ko-fi.com/steffo
 mobile: true
 number: 1264

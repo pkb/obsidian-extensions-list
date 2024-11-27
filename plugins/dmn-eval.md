@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JoLeaf
 categories: []
 description: This plugin enables evaluating DMNs in an obsidian note.
-downloads: 3449
+downloads: 3451
 funding_page: https://ko-fi.com/joleaf
 mobile: false
 number: 792

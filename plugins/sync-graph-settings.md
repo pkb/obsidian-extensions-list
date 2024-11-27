@@ -6,7 +6,7 @@ author:
 author_page: github.com/Xallt
 categories: []
 description: This is a plugin for syncing various graph settings to Local Graphs
-downloads: 9251
+downloads: 9350
 mobile: true
 number: 700
 title: Sync Graph Settings

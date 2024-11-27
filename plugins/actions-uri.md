@@ -7,7 +7,7 @@ author_page: https://github.com/czottmann
 categories: []
 description: Adds additional `x-callback-url` endpoints to the app for common actions
   — it's a clean, super-charged addition to Obsidian URI.
-downloads: 48753
+downloads: 49195
 mobile: true
 number: 634
 title: Actions URI

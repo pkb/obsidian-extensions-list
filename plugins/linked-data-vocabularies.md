@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kometenstaub
 categories: []
 description: Add linked data (LCSH) as metadata to your notes.
-downloads: 5061
+downloads: 5074
 mobile: true
 number: 916
 title: Linked Data Vocabularies

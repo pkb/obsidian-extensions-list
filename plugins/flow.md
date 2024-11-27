@@ -7,14 +7,14 @@ author_page: https://ben-phillips.net
 categories: []
 description: Implements key processes in David Allen's Getting Things Done (GTD) methodology
   (Closed source)
-downloads: 503
+downloads: 692
 mobile: true
 number: 1945
 title: Flow
 type: plugin
-updated: '2024-08-04T19:00:17'
+updated: '2024-11-26T13:08:44'
 url: https://github.com/tavva/flow-release
-version: 0.6.0
+version: 0.6.3
 ---
 
 %% README_START %%

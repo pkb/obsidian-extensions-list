@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lenalebt
 categories: []
 description: Imports notes and highlights from your Pocketbook Cloud account.
-downloads: 3886
+downloads: 3898
 funding_page: https://www.buymeacoffee.com/lenalebt
 mobile: true
 number: 896

@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Kroki
+- Kroki
 author:
-  - Greg Zuro
+- Greg Zuro
 author_page: https://github.com/gregzuro/
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
-description: Render Mermaid, PlantUML, GraphViz, D2, Excalidraw, Vega, Pikchr, WireViz, Structurizr and many others diagrams using Kroki
-downloads: 8820
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
+description: Render Mermaid, PlantUML, GraphViz, D2, Excalidraw, Vega, Pikchr, WireViz,
+  Structurizr and many others diagrams using Kroki
+downloads: 8857
 mobile: true
 number: 217
 title: Kroki
 type: plugin
-updated: 2024-01-25T08:47:55
+updated: '2024-01-25T08:47:55'
 url: https://github.com/gregzuro/obsidian-kroki
 version: 1.2.4
 ---

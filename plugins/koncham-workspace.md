@@ -6,7 +6,7 @@ author:
 author_page: https://manogna4.github.io
 categories: []
 description: 'obsidian workspace enhancements: vertical tabs, and more...'
-downloads: 4639
+downloads: 4646
 mobile: false
 number: 179
 title: koncham workspace

@@ -6,7 +6,7 @@ author:
 author_page: https://yesjinu.github.io
 categories: []
 description: Show your favorite quote in obsidian status bar
-downloads: 3965
+downloads: 3970
 mobile: true
 number: 649
 title: Status Bar Quote

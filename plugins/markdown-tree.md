@@ -7,7 +7,7 @@ author_page: https://github.com/carvah
 categories: []
 description: Create a beautiful and intuitive directory tree using Markdown-oriented
   code style using tabs, spaces and enters.
-downloads: 5197
+downloads: 5249
 mobile: true
 number: 992
 title: Markdown Tree

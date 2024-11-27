@@ -1,19 +1,19 @@
 ---
 aliases:
-  - AnkiSync+
+- AnkiSync+
 author:
-  - RochaG0
+- RochaG0
 author_page: https://github.com/RochaG07
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Integration between Obsidian and Anki.
-downloads: 3663
+downloads: 3680
 funding_page: https://ko-fi.com/rochag07
 mobile: false
 number: 1181
 title: AnkiSync+
 type: plugin
-updated: 2023-10-06T00:18:18
+updated: '2023-10-06T00:18:18'
 url: https://github.com/RochaG07/anki-sync-plus
 version: 1.0.1
 ---

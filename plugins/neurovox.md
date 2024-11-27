@@ -6,7 +6,7 @@ author:
 author_page: https://www.synapticlabs.ai
 categories: []
 description: Enhances your note-taking with voice transcription and AI capabilities
-downloads: 79
+downloads: 132
 funding_page: https://donate.stripe.com/bIY4gsgDo2mJ5kkfZ6
 mobile: true
 number: 1993

@@ -6,7 +6,7 @@ author:
 author_page: https://larsmagnus.co
 categories: []
 description: Toggle the theme in Obsidian's panels.
-downloads: 5118
+downloads: 5149
 mobile: false
 number: 620
 title: Theme Toggler

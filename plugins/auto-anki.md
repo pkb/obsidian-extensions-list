@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Auto Anki
+- Auto Anki
 author:
-  - ad2969
+- ad2969
 author_page: https://github.com/ad2969/
 categories:
-  - "[[categories/Spaced repetition|Spaced repetition]]"
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/Spaced repetition|Spaced repetition]]'
+- '[[categories/AI assistance|AI assistance]]'
 description: Using GPT to automate card creation for Spaced Repetiton in Anki
-downloads: 4686
+downloads: 4712
 mobile: false
 number: 955
 title: Auto Anki
 type: plugin
-updated: 2024-01-14T15:41:24
+updated: '2024-01-14T15:41:24'
 url: https://github.com/ad2969/obsidian-auto-anki
 version: 0.2.1
 ---

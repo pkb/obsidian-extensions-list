@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/EnderInvader
 categories: []
 description: Render BattleSnake positions diagrams in note preview.
-downloads: 2866
+downloads: 2869
 mobile: true
 number: 1107
 title: BattleSnake Board Viewer

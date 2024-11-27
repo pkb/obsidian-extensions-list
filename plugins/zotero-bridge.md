@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Zotero Bridge
+- Zotero Bridge
 author:
-  - Shmavon Gazanchyan
+- Shmavon Gazanchyan
 author_page: https://github.com/MunGell
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Zotero integration
-downloads: 9560
+downloads: 9668
 mobile: false
 number: 546
 title: Zotero Bridge
 type: plugin
-updated: 2024-10-28T01:06:03
+updated: '2024-10-28T01:06:03'
 url: https://github.com/vanakat/zotero-bridge
 version: 1.6.4
 ---

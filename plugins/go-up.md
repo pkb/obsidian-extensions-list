@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JinMuGo
 categories: []
 description: Go to the pages that says 'up' property
-downloads: 1138
+downloads: 1144
 mobile: false
 number: 1438
 title: Go Up

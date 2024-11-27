@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/alythobani/
 categories: []
 description: Quickly add, change, or remove callouts in your notes.
-downloads: 421
+downloads: 507
 funding_page: https://buymeacoffee.com/alythobani
 mobile: true
 number: 1964

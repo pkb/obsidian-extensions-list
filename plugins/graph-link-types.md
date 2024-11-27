@@ -6,7 +6,7 @@ author:
 author_page: https://natesnote.com
 categories: []
 description: Link types for graph view.
-downloads: 4260
+downloads: 4335
 funding_page: https://www.buymeacoffee.com/natefrisch
 mobile: true
 number: 1444

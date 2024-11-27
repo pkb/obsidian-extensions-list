@@ -6,7 +6,7 @@ author:
 author_page: https://tiim.ch/
 categories: []
 description: This plugin helps you track attendance.
-downloads: 3837
+downloads: 3841
 mobile: true
 number: 569
 title: Obsidian Attendance

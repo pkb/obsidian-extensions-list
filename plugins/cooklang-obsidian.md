@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/deathau
 categories: []
 description: Edit and display CookLang recipes in Obsidian
-downloads: 8053
+downloads: 8093
 mobile: true
 number: 360
 title: CookLang Editor

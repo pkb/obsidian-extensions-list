@@ -8,7 +8,7 @@ categories: []
 description: This plugin provides an initial support for viewing files with .qmd extension.
   QMD files contain a combination of markdown and executable code cells and are a
   format supported by Quarto open source publishing system.
-downloads: 4500
+downloads: 4531
 mobile: true
 number: 650
 title: qmd as md

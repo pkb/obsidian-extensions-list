@@ -7,7 +7,7 @@ author_page: https://github.com/manibatra
 categories: []
 description: This is an obsidian plugin that uses OpenAI to generate flashcards from
   text and add them to Anki.
-downloads: 3989
+downloads: 3998
 mobile: false
 number: 899
 title: text2anki-openai

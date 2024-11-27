@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Quorafind
 categories: []
 description: Set start and end marker, and then fold any text anywhere.
-downloads: 3288
+downloads: 3309
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/boninall
   支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg

@@ -7,7 +7,7 @@ author_page: https://github.com/omardelarosa
 categories: []
 description: 'A plugin for managing Magic: The Gathering decks and card lists as Obsidian
   notes'
-downloads: 4473
+downloads: 4491
 mobile: true
 number: 644
 title: Obsidian MtG

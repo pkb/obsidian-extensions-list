@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/magooup
 categories: []
 description: Automatically extract tag and alias from the title.
-downloads: 4573
+downloads: 4700
 funding_page: https://github.com/magooup
 mobile: true
 number: 1322

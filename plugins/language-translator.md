@@ -6,7 +6,7 @@ author:
 author_page: https://florin.page
 categories: []
 description: Translates given text to desired language
-downloads: 35023
+downloads: 35472
 mobile: true
 number: 351
 title: Language Translator

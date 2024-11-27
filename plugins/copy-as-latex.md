@@ -6,7 +6,7 @@ author:
 author_page: https://dave.murray-rust.org
 categories: []
 description: Plugin to quickly copy markdown as Latex, with citations
-downloads: 9190
+downloads: 9246
 mobile: false
 number: 344
 title: Copy as Latex

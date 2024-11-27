@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ayuhito
 categories: []
 description: Load custom fonts from Fontsource into your notes.
-downloads: 2430
+downloads: 2534
 funding_page: https://github.com/sponsors/ayuhito
 mobile: true
 number: 1589

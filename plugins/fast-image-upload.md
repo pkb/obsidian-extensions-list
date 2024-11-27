@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/eust-w
 categories: []
 description: Uploads clipboard images using goPic
-downloads: 179
+downloads: 188
 mobile: false
 number: 1817
 title: Fast Image Auto Uploader

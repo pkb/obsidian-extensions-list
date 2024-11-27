@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tabibyte
 categories: []
 description: Create temporary session or one-off notes
-downloads: 49
+downloads: 72
 mobile: true
 number: 1972
 title: Session Notes

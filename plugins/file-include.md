@@ -6,7 +6,7 @@ author:
 author_page: https://tillahoffmann.github.io
 categories: []
 description: Include or embed files in Obsidian markdown.
-downloads: 3966
+downloads: 3981
 mobile: true
 number: 969
 title: File Include

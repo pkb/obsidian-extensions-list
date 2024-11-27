@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/BambusControl
 categories: []
 description: Search and insert Unicode characters into your editor
-downloads: 11771
+downloads: 11870
 mobile: true
 number: 801
 title: Unicode Search

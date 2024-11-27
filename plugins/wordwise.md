@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ckt1031
 categories: []
 description: Writing companion for AI content generation.
-downloads: 2608
+downloads: 2714
 mobile: true
 number: 1429
 title: WordWise

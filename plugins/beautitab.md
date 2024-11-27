@@ -7,7 +7,7 @@ author_page: https://github.com/andrewmcgivery
 categories: []
 description: Creates a customizable new tab view with beautiful backgrounds, quotes,
   search, and more.
-downloads: 23228
+downloads: 23814
 funding_page: https://www.buymeacoffee.com/andrewmcgivery
 mobile: true
 number: 1389

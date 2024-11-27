@@ -7,7 +7,7 @@ author_page: https://github.com/CheeseCake87
 categories: []
 description: Adds sidebar action icons to quickly open the Gnome Terminal or to have
   the Gnome Terminal run a Python module
-downloads: 3716
+downloads: 3735
 mobile: false
 number: 1099
 title: Gnome Terminal Loader

@@ -7,7 +7,7 @@ author_page: https://github.com/SeanMcOwen
 categories: []
 description: Speeds up some note taking abilities and allows for creating notes/links
   in the background
-downloads: 116
+downloads: 126
 mobile: false
 number: 1939
 title: Quick Notes

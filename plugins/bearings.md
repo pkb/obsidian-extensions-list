@@ -7,7 +7,7 @@ author_page: https://github/jeetsukumaran/obsidian-bearings
 categories: []
 description: Dynamically-scoped expanding tree views of your vault's semantic and
   logical architectures.
-downloads: 1495
+downloads: 1515
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/jeetsukumaran
 mobile: true

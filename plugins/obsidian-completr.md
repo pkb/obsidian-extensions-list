@@ -7,7 +7,7 @@ author_page: https://github.com/tth05
 categories: []
 description: This plugin provides advanced auto-completion functionality for LaTeX,
   Frontmatter and standard writing.
-downloads: 57881
+downloads: 58372
 mobile: false
 number: 392
 title: Completr

@@ -6,7 +6,7 @@ author:
 author_page: https://roman.kubiv.com
 categories: []
 description: Prompts for values and templates to create notes.
-downloads: 2750
+downloads: 2867
 funding_page: buymeacoffee.com/romankubiv
 mobile: true
 number: 1495

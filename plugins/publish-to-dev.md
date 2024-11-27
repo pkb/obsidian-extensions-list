@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Publish to DEV
+- Publish to DEV
 author:
-  - Peter Strøiman
+- Peter Strøiman
 author_page: https://stroiman.com
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish and update notes as articles on DEV (https://dev.to)
-downloads: 130
+downloads: 133
 funding_page: https://www.buymeacoffee.com/stroiman
 mobile: true
 number: 1752
 title: Publish to DEV
 type: plugin
-updated: 2024-07-08T15:03:29
+updated: '2024-07-08T15:03:29'
 url: https://github.com/stroiman/obsidian-dev-publish
 version: 0.11.2
 ---

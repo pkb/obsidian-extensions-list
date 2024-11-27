@@ -7,7 +7,7 @@ author_page: https://github.com/NailAhmed
 categories: []
 description: Watches for changes in metadata and performs user-specified actions based
   on these changes.
-downloads: 174
+downloads: 180
 funding_page: https://www.buymeacoffee.com/NailAhmed
 mobile: true
 number: 1723

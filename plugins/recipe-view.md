@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lachholden
 categories: []
 description: View your notes as interactive recipe cards while you cook.
-downloads: 16390
+downloads: 16941
 funding_page: https://ko-fi.com/lachholden
 mobile: true
 number: 1197

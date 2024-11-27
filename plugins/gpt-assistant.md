@@ -7,7 +7,7 @@ author_page: https://github.com/M7mdisk
 categories: []
 description: Use a GPT-3 based model on your notes and get personalized answers from
   your knowledge base.
-downloads: 5718
+downloads: 5729
 funding_page: https://github.com/M7mdisk
 mobile: true
 number: 860

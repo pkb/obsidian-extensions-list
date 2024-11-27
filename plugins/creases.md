@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/liamcain/
 categories: []
 description: Tools for efficiently folding markdown sections in Obsidian
-downloads: 24669
+downloads: 24826
 mobile: true
 number: 446
 title: Creases

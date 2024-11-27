@@ -7,7 +7,7 @@ author_page: https://github.com/AlessandroRuggiero
 categories: []
 description: This pulgin allows you to launch scripts from the Obsidian app. You can
   add scripts shortcuts on your bottom bar and launch them with just one click!
-downloads: 7944
+downloads: 7957
 mobile: false
 number: 599
 title: Script Launcher

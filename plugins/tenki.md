@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ms3056
 categories: []
 description: Display the weather.
-downloads: 4222
+downloads: 4251
 funding_page: https://buymeacoffee.com/mstam30561
 mobile: true
 number: 1126

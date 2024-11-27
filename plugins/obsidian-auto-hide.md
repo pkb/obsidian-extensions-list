@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/skelato1
 categories: []
 description: Collapse sidebars when clicking on the editor/viewer panel
-downloads: 11511
+downloads: 11583
 mobile: false
 number: 597
 title: Auto Hide

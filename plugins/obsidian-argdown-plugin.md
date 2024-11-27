@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/amdecker/
 categories: []
 description: Allows you to write argdown codeblocks and view the maps in Preview
-downloads: 6957
+downloads: 6969
 mobile: false
 number: 206
 title: Argument Map with Argdown

@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Gemini Assistant
+- Gemini Assistant
 author:
-  - eatgrass
+- eatgrass
 author_page: https://github.com/eatgrass
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Your Gemini AI assistant
-downloads: 6207
+downloads: 6297
 funding_page: https://www.buymeacoffee.com/eatgrass
 mobile: true
 number: 1397
 title: Gemini Assistant
 type: plugin
-updated: 2024-03-05T11:51:08
+updated: '2024-03-05T11:51:08'
 url: https://github.com/eatgrass/obsidian-gemini-assistant
 version: 1.0.4
 ---

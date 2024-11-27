@@ -7,7 +7,7 @@ author_page: https://designdebt.club
 categories: []
 description: Replaces your new tab window with a browseable list of the files and
   folders in your vault.
-downloads: 5741
+downloads: 5879
 funding_page: https://ko-fi.com/daledesilva
 mobile: true
 number: 1527

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Erl-koenig
 categories: []
 description: Reorder completed checkboxes to the end of the according list.
-downloads: 5190
+downloads: 5223
 funding_page: https://www.buymeacoffee.com/erlkoenig
 mobile: true
 number: 1098

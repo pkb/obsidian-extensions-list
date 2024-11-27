@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/beaushinkle/obsidian-generic-initiative-tracker
 categories: []
 description: TTRPG Generic Initiative Tracker for Obsidian.md
-downloads: 6364
+downloads: 6391
 mobile: true
 number: 368
 title: Generic Initiative Tracker

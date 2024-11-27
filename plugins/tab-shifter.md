@@ -7,7 +7,7 @@ author_page: github.com/jsrozner
 categories: []
 description: Enables shifting tabs between different tab splits and some other basic
   IDE tab functionalities
-downloads: 1184
+downloads: 1190
 mobile: false
 number: 1482
 title: Tab Shifter

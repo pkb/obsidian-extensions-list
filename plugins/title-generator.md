@@ -6,7 +6,7 @@ author:
 author_page: https://jaschaephriam.com
 categories: []
 description: Quickly and easily title your notes using OpenAI's GPT-3.5
-downloads: 3045
+downloads: 3066
 funding_page:
   PayPal: https://paypal.me/JaschaEphraim
 mobile: true

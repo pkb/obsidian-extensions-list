@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Quarto Exporter
+- Quarto Exporter
 author:
-  - Andreas Varotsis
+- Andreas Varotsis
 author_page: https://andreasthinks.me/
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: Export notes to Quarto-compatible QMD files.
-downloads: 86
+downloads: 103
 mobile: true
 number: 1946
 title: Quarto Exporter
 type: plugin
-updated: 2024-11-01T04:40:18
+updated: '2024-11-01T04:40:18'
 url: https://github.com/AndreasThinks/obsidian-to-quarto-exporter
 version: 1.0.5
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/ostoe
 categories: []
 description: paste your image like typora, the image link name not `![[Paste xxx]]`
   but `![some name](relative-directory/xxx.png)`with a relative directory. 类比于typora的方式粘贴图片到本地，存放在以当前md文档命名的文件夹里。
-downloads: 2841
+downloads: 2855
 mobile: false
 number: 1282
 title: Image Classify Paste

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/James-Fallon
 categories: []
 description: Build football lineups in Obsidian.
-downloads: 3440
+downloads: 3442
 mobile: true
 number: 357
 title: Lineup Builder

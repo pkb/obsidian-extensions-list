@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Jake-Cramer
 categories: []
 description: View a periodic table in the sidebar
-downloads: 3101
+downloads: 3129
 mobile: false
 number: 1291
 title: Periodic Table

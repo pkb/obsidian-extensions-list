@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Calendarium
+- Calendarium
 author:
-  - Jeremy Valentine
+- Jeremy Valentine
 author_page: https://plugins.javalent.com
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: Craft mind-bending fantasy and sci-fi calendars.
-downloads: 33690
+downloads: 36036
 funding_page: https://www.buymeacoffee.com/valentine195
 mobile: true
 number: 1500
 title: Calendarium
 type: plugin
-updated: 2024-11-02T01:44:19
+updated: '2024-11-25T07:32:12'
 url: https://github.com/javalent/calendarium
 version: 1.5.0
 ---

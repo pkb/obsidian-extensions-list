@@ -7,7 +7,7 @@ author_page: https://github.com/dominiczaq/obsidian-plugin-time-diff
 categories: []
 description: Plugin which calculates and displays diff in hours and minutes between
   two dates in `timediff` markdown block
-downloads: 4994
+downloads: 5001
 mobile: true
 number: 565
 title: TimeDiff

@@ -7,7 +7,7 @@ author_page: https://github.com/nhaouari
 categories: []
 description: Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased
   answers about how words is spoken by real people and in context.
-downloads: 10285
+downloads: 10342
 mobile: true
 number: 42
 title: Youglish Plugin

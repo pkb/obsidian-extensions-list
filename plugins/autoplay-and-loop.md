@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Wapply
 categories: []
 description: Auto reproduces videos/audio inside notes.
-downloads: 984
+downloads: 1008
 funding_page:
   Buy Me a Coffee: https://ko-fi.com/wapply
 mobile: true

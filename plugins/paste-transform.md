@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/rekby
 categories: []
 description: Handle pasted text and and transform it by regexp rules.
-downloads: 1224
+downloads: 1234
 mobile: true
 number: 1433
 title: Paste transform

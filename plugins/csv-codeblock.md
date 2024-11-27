@@ -7,7 +7,7 @@ author_page: https://github.com/elrindir/
 categories: []
 description: This is a plugin for Obsidian. This plugin renders codeblocks with csv
   format.
-downloads: 3563
+downloads: 3608
 mobile: true
 number: 1218
 title: CSV Codeblock

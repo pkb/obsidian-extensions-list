@@ -7,7 +7,7 @@ author_page: https://github.com/Emile-Durkheim
 categories: []
 description: Simply CTRL+C CTRL+V Discord messages from the Desktop client and have
   them automatically formatted
-downloads: 3425
+downloads: 3445
 mobile: false
 number: 1219
 title: Discord Message Formatter

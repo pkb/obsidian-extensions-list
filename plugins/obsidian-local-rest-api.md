@@ -7,14 +7,14 @@ author_page: https://coddingtonbear.net/
 categories: []
 description: Get, change or otherwise interact with your notes in Obsidian via a REST
   API.
-downloads: 86453
+downloads: 88644
 mobile: false
 number: 413
 title: Local REST API
 type: plugin
-updated: '2024-11-17T23:38:26'
+updated: '2024-11-19T22:39:53'
 url: https://github.com/coddingtonbear/obsidian-local-rest-api
-version: 3.0.2
+version: 3.0.4
 ---
 
 %% README_START %%

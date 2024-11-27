@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ifree
 categories: []
 description: For easy navigation in large canvas
-downloads: 4672
+downloads: 4787
 mobile: true
 number: 1517
 title: Canvas minimap

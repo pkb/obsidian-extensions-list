@@ -1,18 +1,18 @@
 ---
 aliases:
-  - ExcaliBrain
+- ExcaliBrain
 author:
-  - Zsolt Viczian
+- Zsolt Viczian
 author_page: https://zsolt.blog
 categories:
-  - "[[categories/Visualization|Visualization]]"
+- '[[categories/Visualization|Visualization]]'
 description: A clean, intuitive and editable graph view for Obsidian
-downloads: 198297
+downloads: 199569
 mobile: true
 number: 530
 title: ExcaliBrain
 type: plugin
-updated: 2024-03-21T10:53:47
+updated: '2024-03-21T10:53:47'
 url: https://github.com/zsviczian/excalibrain
 version: 0.2.15
 ---

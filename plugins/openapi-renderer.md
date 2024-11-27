@@ -7,14 +7,14 @@ author_page: https://github.com/Ssentiago
 categories: []
 description: Integrate OpenAPI specification management with features for version
   control, visualization, editing, and easy navigation of API specs.
-downloads: 477
+downloads: 554
 mobile: false
 number: 1805
 title: OpenAPI Renderer
 type: plugin
-updated: '2024-10-12T05:03:31'
+updated: '2024-11-24T02:54:19'
 url: https://github.com/Ssentiago/obsidian-openapi-renderer
-version: 4.2.0
+version: 4.5.1
 ---
 
 %% README_START %%

@@ -7,7 +7,7 @@ author_page: https://github.com/zhuxining
 categories: []
 description: Attachment uploader plugin, which allows you customize the upload command,
   customize upload file type.
-downloads: 2189
+downloads: 2198
 mobile: false
 number: 1303
 title: Attachment Uploader

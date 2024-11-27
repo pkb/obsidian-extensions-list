@@ -1,19 +1,21 @@
 ---
 aliases:
-  - Invio
+- Invio
 author:
-  - frontend-engineering
+- frontend-engineering
 author_page: https://github.com/frontend-engineering
 categories:
-  - "[[categories/Export|Export]]"
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Export documents as static websites and deploy to AWS S3 or compatible COS. Streamlining Obsidian Sync and Publish, Invio lets you share notes online, retaining data control via self-hosting.
-downloads: 4059
+- '[[categories/Export|Export]]'
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Export documents as static websites and deploy to AWS S3 or compatible
+  COS. Streamlining Obsidian Sync and Publish, Invio lets you share notes online,
+  retaining data control via self-hosting.
+downloads: 4066
 mobile: false
 number: 1030
 title: Invio
 type: plugin
-updated: 2024-09-26T11:02:32
+updated: '2024-09-26T11:02:32'
 url: https://github.com/frontend-engineering/Invio
 version: 0.7.31
 ---

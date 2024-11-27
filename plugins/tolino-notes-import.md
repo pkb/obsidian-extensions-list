@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Tolino notes Importer
+- Tolino notes Importer
 author:
-  - Jürgen Breitenbaumer
+- Jürgen Breitenbaumer
 author_page: hhttps://github.com/juergenbr
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: This is a plugin for Obsidian to import notes from a Tolino E-Reader.
-downloads: 3322
+downloads: 3324
 funding_page: https://www.buymeacoffee.com/jbat
 mobile: false
 number: 881
 title: Tolino notes Importer
 type: plugin
-updated: 2024-01-03T22:42:45
+updated: '2024-01-03T22:42:45'
 url: https://github.com/juergenbr/obsidian-tolino-notes-import
 version: 1.1.1
 ---

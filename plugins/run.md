@@ -6,7 +6,7 @@ author:
 author_page: https://yomaru.dev
 categories: []
 description: Generate markdown from dataview query and javascript
-downloads: 2675
+downloads: 2684
 funding_page:
   Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
   buymeacoffee: https://www.buymeacoffee.com/yomaru

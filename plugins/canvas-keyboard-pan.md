@@ -6,7 +6,7 @@ author:
 author_page: https://nathan-smith.org/
 categories: []
 description: Pan around your canvas using the keyboard
-downloads: 927
+downloads: 961
 mobile: false
 number: 1644
 title: Canvas Keyboard Pan

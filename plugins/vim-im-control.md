@@ -7,7 +7,7 @@ author_page: https://github.com/hideakitai
 categories: []
 description: Control Input Method (IM) when `InsertLeave` and `InsertEnter` in Vim
   mode. Supports macOS, Windows, and Linux.
-downloads: 2311
+downloads: 2320
 mobile: false
 number: 1330
 title: Vim IM Control

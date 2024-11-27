@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JeanJean-rxl
 categories: []
 description: Random Note Retrieval based on LLMs.
-downloads: 25
+downloads: 32
 mobile: false
 number: 1962
 title: random-retrieval

@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/nickrallison
 categories: []
 description: Run Python scripts directly as Obsidian commands.
-downloads: 7737
+downloads: 8049
 funding_page: https://github.com/sponsors/nickrallison
 mobile: false
 number: 1079
 title: Python Scripter
 type: plugin
-updated: '2024-10-20T06:01:42'
+updated: '2024-11-20T22:56:37'
 url: https://github.com/nickrallison/obsidian-python-scripter
-version: 1.0.13
+version: 1.0.14
 ---
 
 %% README_START %%

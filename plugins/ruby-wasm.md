@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/geeknees/
 categories: []
 description: Run ruby code in your notes using WebAssembly
-downloads: 171
+downloads: 175
 mobile: true
 number: 1633
 title: ruby.wasm

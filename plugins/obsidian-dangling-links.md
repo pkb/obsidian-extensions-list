@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/graydon
 categories: []
 description: This plugin shows any dangling links in your vault.
-downloads: 14764
+downloads: 14805
 mobile: true
 number: 43
 title: Dangling links

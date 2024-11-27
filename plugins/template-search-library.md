@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Pentchaff
 categories: []
 description: Allows you to save search templates for future re-use
-downloads: 3271
+downloads: 3280
 mobile: true
 number: 1136
 title: Search Templates Library

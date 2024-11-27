@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/leschuster
 categories: []
 description: Copy Markdown and transform it according to your needs.
-downloads: 199
+downloads: 243
 mobile: true
 number: 1952
 title: Advanced Copy

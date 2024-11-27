@@ -6,7 +6,7 @@ author:
 author_page: https://www.marc-julian.de
 categories: []
 description: Podcast Note lets you automatically add podcast information to your notes.
-downloads: 8169
+downloads: 8183
 mobile: true
 number: 285
 title: Podcast Note

@@ -6,7 +6,7 @@ author:
 author_page: https://friebetill.github.io/
 categories: []
 description: Shows the differences between two files..
-downloads: 8741
+downloads: 8836
 mobile: true
 number: 898
 title: File Diff

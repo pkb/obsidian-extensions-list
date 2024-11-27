@@ -6,7 +6,7 @@ author:
 author_page: https://SemaLogic.de
 categories: []
 description: Real-time use of the SemaLogic formal language
-downloads: 1242
+downloads: 1251
 mobile: true
 number: 1384
 title: UseSemaLogic

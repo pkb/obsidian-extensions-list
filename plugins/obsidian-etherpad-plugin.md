@@ -6,7 +6,7 @@ author:
 author_page: https://www.gradman.com
 categories: []
 description: Etherpad Integration
-downloads: 4206
+downloads: 4217
 mobile: true
 number: 470
 title: Etherpad

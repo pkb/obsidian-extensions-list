@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/mnaoumov/
 categories: []
 description: Adds support for angle bracket links and manages relative links properly
-downloads: 1501
+downloads: 1671
 funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1784
 title: Better Markdown Links
 type: plugin
-updated: '2024-11-13T10:41:51'
+updated: '2024-11-26T08:19:33'
 url: https://github.com/mnaoumov/obsidian-better-markdown-links
-version: 2.9.8
+version: 2.9.11
 ---
 
 %% README_START %%

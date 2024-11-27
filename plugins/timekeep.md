@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Timekeep
+- Timekeep
 author:
-  - Jacobtread
+- Jacobtread
 author_page: https://jacobtread.com
 categories:
-  - "[[categories/Time tracking|Time tracking]]"
+- '[[categories/Time tracking|Time tracking]]'
 description: Time tracking
-downloads: 2252
+downloads: 2324
 funding_page: https://www.buymeacoffee.com/jacobtread
 mobile: true
 number: 1638
 title: Timekeep
 type: plugin
-updated: 2024-08-08T15:42:41
+updated: '2024-08-08T15:42:41'
 url: https://github.com/jacobtread/obsidian-timekeep
 version: 1.5.1
 ---

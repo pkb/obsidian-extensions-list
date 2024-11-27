@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Adds a pomodoro timer to your status bar.
-downloads: 41375
+downloads: 41625
 mobile: false
 number: 216
 title: Status Bar Pomodoro Timer

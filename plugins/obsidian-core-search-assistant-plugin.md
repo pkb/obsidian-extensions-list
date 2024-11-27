@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/qawatake/obsidian-core-search-assistant-plugin
 categories: []
 description: 'Enhance built-in search: keyboard interface, card preview, bigger preview'
-downloads: 26095
+downloads: 26180
 mobile: false
 number: 417
 title: Core Search Assistant

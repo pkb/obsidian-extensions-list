@@ -7,7 +7,7 @@ author_page: https://github.com/ShockThunder
 categories: []
 description: This is a plugin for picking random questions from prepared question
   list. It allows you answer on different questions each time.
-downloads: 6761
+downloads: 6779
 mobile: true
 number: 275
 title: Random Structural Diary

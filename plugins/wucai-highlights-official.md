@@ -6,14 +6,14 @@ author:
 author_page: https://www.dotalk.cn/product/wucai
 categories: []
 description: Official WuCai highlights <-> Obsidian integration
-downloads: 13551
+downloads: 13810
 mobile: true
 number: 870
 title: WuCai highlights Official
 type: plugin
-updated: '2024-11-12T16:02:33'
+updated: '2024-11-26T12:47:28'
 url: https://github.com/makediff/obsidian-wucai
-version: 24.11.12
+version: 24.11.26
 ---
 
 %% README_START %%

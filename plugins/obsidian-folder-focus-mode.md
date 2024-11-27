@@ -7,7 +7,7 @@ author_page: https://mgrochowski.com
 categories: []
 description: Focus file explorer on chosen folder and its files and subdirectories,
   while hiding all the other elements.
-downloads: 12455
+downloads: 12536
 mobile: true
 number: 517
 title: Folder Focus Mode

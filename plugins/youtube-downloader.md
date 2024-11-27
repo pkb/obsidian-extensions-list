@@ -6,7 +6,7 @@ author:
 author_page: https://ai-chen2050.github.io/
 categories: []
 description: Download video from YouTube
-downloads: 647
+downloads: 680
 funding_page: https://www.buymeacoffee.com/blakechan
 mobile: false
 number: 1813

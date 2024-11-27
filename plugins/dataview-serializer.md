@@ -7,15 +7,15 @@ author_page: https://dsebastien.net
 categories: []
 description: Serialize Dataview queries to Markdown, and keep the Markdown representation
   up to date.
-downloads: 1691
+downloads: 1849
 funding_page: https://www.buymeacoffee.com/dsebastien
 mobile: true
 number: 1747
 title: Dataview Serializer
 type: plugin
-updated: '2024-10-27T08:50:59'
+updated: '2024-11-27T00:08:55'
 url: https://github.com/dsebastien/obsidian-dataview-serializer
-version: 1.4.1
+version: 1.5.1
 ---
 
 %% README_START %%

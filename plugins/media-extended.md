@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Media Extended
+- Media Extended
 author:
-  - AidenLx
+- AidenLx
 author_page: https://github.com/AidenLx/
 categories:
-  - "[[categories/Media handling and embedding|Media handling and embedding]]"
+- '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Media(Video/Audio) Playback Enhancement for Obsidian.md
-downloads: 181672
+downloads: 183332
 mobile: false
 number: 149
 title: Media Extended
 type: plugin
-updated: 2024-08-16T13:32:09
+updated: '2024-08-16T13:32:09'
 url: https://github.com/aidenlx/media-extended
 version: 3.2.6
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/Oliver-Akins
 categories: []
 description: An Obsidian plugin that allows hiding files and folders in the built-in
   file explorer
-downloads: 23841
+downloads: 24078
 mobile: true
 number: 570
 title: File Hider

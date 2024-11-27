@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/geoffreysflaminglasersword
 categories: []
 description: A for-fun graph plugin
-downloads: 9924
+downloads: 9995
 mobile: true
 number: 437
 title: Living Graph

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vincenzocaputo
 categories: []
 description: Create notes about metal bands and album from Metal Archives
-downloads: 2369
+downloads: 2376
 mobile: true
 number: 1232
 title: Metal Archives (Unofficial)

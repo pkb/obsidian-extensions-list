@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AwesomeDog
 categories: []
 description: Make Obsidian a proper Reader.
-downloads: 7600
+downloads: 7696
 mobile: true
 number: 802
 title: Awesome Reader

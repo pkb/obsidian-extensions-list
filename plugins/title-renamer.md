@@ -6,7 +6,7 @@ author:
 author_page: https://stroiman.com
 categories: []
 description: Synchronise title in markdown when file is renamed.
-downloads: 1272
+downloads: 1288
 funding_page: https://www.buymeacoffee.com/stroiman
 mobile: false
 number: 1515

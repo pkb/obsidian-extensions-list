@@ -6,7 +6,7 @@ author:
 author_page: https://hq.getmatter.app
 categories: []
 description: The official Matter <> Obsidian plugin
-downloads: 19094
+downloads: 19140
 mobile: true
 number: 375
 title: Matter

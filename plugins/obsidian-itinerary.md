@@ -7,7 +7,7 @@ author_page: https://coddingtonbear.net/
 categories: []
 description: Make planning your trip or event easier by rendering a calendar from
   event information found in your notes.
-downloads: 8870
+downloads: 8897
 mobile: true
 number: 305
 title: Itinerary

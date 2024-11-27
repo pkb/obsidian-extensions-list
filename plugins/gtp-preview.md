@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Barba828
 categories: []
 description: Supports rendering of GuitarPro files such as `gtp/gp/gp5/gpx`.
-downloads: 170
+downloads: 173
 mobile: true
 number: 1845
 title: GTP Preview

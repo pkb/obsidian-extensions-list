@@ -7,7 +7,7 @@ author_page: https://github.com/Superschnizel
 categories: []
 description: Quickly apply fully integrated text coloring and formatting with a custom
   syntax and a keyboard-centric interface.
-downloads: 7663
+downloads: 8206
 funding_page: https://ko-fi.com/superschnizel
 mobile: true
 number: 1748

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tokenshift
 categories: []
 description: Progress clocks and other useful widgets for real-time status tracking.
-downloads: 1961
+downloads: 1997
 mobile: true
 number: 1520
 title: Progress Clocks

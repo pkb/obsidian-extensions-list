@@ -7,7 +7,7 @@ author_page: https://adityakh.info/
 categories: []
 description: This links all of the files you have created in the last week into a
   Weekly Review note.
-downloads: 384
+downloads: 394
 mobile: true
 number: 1645
 title: Weekly Review notes linker

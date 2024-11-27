@@ -6,7 +6,7 @@ author:
 author_page: https://raven.guhcat.com/
 categories: []
 description: Opens the sidebar by hovering over it.
-downloads: 511
+downloads: 704
 mobile: false
 number: 1927
 title: Open Sidebar on Hover

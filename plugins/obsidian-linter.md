@@ -1,18 +1,21 @@
 ---
 aliases:
-  - Linter
+- Linter
 author:
-  - Victor Tao
+- Victor Tao
 author_page: https://github.com/platers
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: Formats and styles your notes. It can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown contents like list, italics, and bold styles; and more with the use of custom rule options as well.
-downloads: 461251
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: Formats and styles your notes. It can be used to format YAML tags, aliases,
+  arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown
+  contents like list, italics, and bold styles; and more with the use of custom rule
+  options as well.
+downloads: 466069
 mobile: true
 number: 249
 title: Linter
 type: plugin
-updated: 2024-10-14T21:22:50
+updated: '2024-10-14T21:22:50'
 url: https://github.com/platers/obsidian-linter
 version: 1.27.1
 ---

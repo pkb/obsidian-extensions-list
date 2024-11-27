@@ -7,7 +7,7 @@ author_page: https://sinja.io
 categories: []
 description: Enables you to use custom React components and inline JavaScript, kinda
   like MDX.
-downloads: 231
+downloads: 242
 funding_page: https://sinja.io/support
 mobile: true
 number: 1852

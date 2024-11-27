@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/b-camphart
 categories: []
 description: Display your obsidian notes in a timeline, based on a given property.
-downloads: 5116
+downloads: 5172
 funding_page: https://buymeacoffee.com/b.camphart
 mobile: false
 number: 1216

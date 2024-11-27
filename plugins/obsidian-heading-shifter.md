@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/k4a-l
 categories: []
 description: Easily Shift and Change markdown headings.
-downloads: 15689
+downloads: 15833
 mobile: true
 number: 583
 title: Heading Shifter

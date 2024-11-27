@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Pug Templates
+- Pug Templates
 author:
-  - Nicholas Wilcox
+- Nicholas Wilcox
 author_page: https://github.com/nicholas-wilcox
 categories:
-  - "[[categories/Templates|Templates]]"
+- '[[categories/Templates|Templates]]'
 description: Use the Pug templating engine in your vault.
-downloads: 71
+downloads: 77
 mobile: false
 number: 1880
 title: Pug Templates
 type: plugin
-updated: 2024-09-08T22:09:52
+updated: '2024-09-08T22:09:52'
 url: https://github.com/nicholas-wilcox/pug-templates-obsidian-plugin
 version: 0.4.1
 ---

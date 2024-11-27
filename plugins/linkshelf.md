@@ -6,7 +6,7 @@ author:
 author_page: https://joelseq.dev
 categories: []
 description: Save links from your browser directly into Obsidian.
-downloads: 3945
+downloads: 3955
 mobile: true
 number: 1065
 title: LinkStowr

@@ -7,7 +7,7 @@ author_page: https://github.com/windingblack
 categories: []
 description: Use network proxy throughout Obsidian according to the rules configured
   in this plugin.
-downloads: 5849
+downloads: 5989
 funding_page: https://www.buymeacoffee.com/windingblack
 mobile: false
 number: 1331

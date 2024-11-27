@@ -7,7 +7,7 @@ author_page: https://ellpeck.de
 categories: []
 description: A plugin that turns web apps into panes using iframes with custom styling.
   Also comes with presets for Google Keep, Todoist and more.
-downloads: 125534
+downloads: 126856
 funding_page: https://ellpeck.de/support
 mobile: true
 number: 469

@@ -7,7 +7,7 @@ author_page: https://github.com/ikuyarihS
 categories: []
 description: This is a plugin for Obsidian (https://obsidian.md) for Amazing Marvin
   (https://app.amazingmarvin.com/)
-downloads: 4351
+downloads: 4355
 mobile: true
 number: 215
 title: Amazing Marvin

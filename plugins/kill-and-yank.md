@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/inouetakuya
 categories: []
 description: Enable kill and yank (like Emacs) in the editor
-downloads: 3659
+downloads: 3665
 mobile: false
 number: 783
 title: Kill and Yank

@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Archiver
+- Archiver
 author:
-  - Ivan Lednev
+- Ivan Lednev
 author_page: https://github.com/ivan-lednev
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Move completed tasks to an archive with a date tree
-downloads: 25585
+downloads: 25744
 funding_page: https://www.buymeacoffee.com/machineelf
 mobile: true
 number: 289
 title: Archiver
 type: plugin
-updated: 2023-09-05T14:19:42
+updated: '2023-09-05T14:19:42'
 url: https://github.com/ivan-lednev/obsidian-task-archiver
 version: 0.26.1
 ---

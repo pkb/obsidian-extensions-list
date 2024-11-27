@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JackBarker7
 categories: []
 description: Run LaTeX-OCR if it is installed locally.
-downloads: 1780
+downloads: 1795
 mobile: false
 number: 1356
 title: LaTeX-OCR

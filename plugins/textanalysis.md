@@ -9,14 +9,14 @@ description: 'Real-time text analysis on readability, structure, and complexity,
   over 30 tests like Average Syllables per Word, percent of difficult words, Lexical
   Diversity, Flesch Reading Ease Score, Gunning Fog Index, SMOG indes, Rix, Lix, Reading
   level and Reading/Speaking time. Built on top of textstat library. '
-downloads: 2885
+downloads: 2974
 mobile: true
 number: 1307
 title: Text Analysis
 type: plugin
-updated: '2024-01-06T08:25:11'
+updated: '2024-11-22T23:02:08'
 url: https://github.com/mihakralj/obsidian-textanalysis
-version: 1.1.0
+version: 1.2.1
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://boucheron.org/brian
 categories: []
 description: Show draft status with ✎ icons in the file explorer.
-downloads: 414
+downloads: 427
 mobile: true
 number: 1628
 title: Draft Indicator

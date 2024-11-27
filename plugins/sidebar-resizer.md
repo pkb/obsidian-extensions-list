@@ -6,7 +6,7 @@ author:
 author_page: https://github/jeetsukumaran/obsidian-sidebar-resizer
 categories: []
 description: Adjust the sidebar sizes easily.
-downloads: 335
+downloads: 350
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/jeetsukumaran
 mobile: true

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/stufro
 categories: []
 description: Add Hill Charts to your notes.
-downloads: 1976
+downloads: 1986
 funding_page: https://www.buymeacoffee.com/stuartfrosg
 mobile: true
 number: 1344

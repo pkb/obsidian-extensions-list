@@ -6,7 +6,7 @@ author:
 author_page: https://rooyca.github.io/
 categories: []
 description: Read, query and work with JSON.
-downloads: 701
+downloads: 728
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/rooyca
   Githubn Sponsors: https://github.com/sponsors/Rooyca/

@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/Lio5n
 categories: []
 description: Protect your privacy by setting a password to hide files.
-downloads: 56
+downloads: 119
 mobile: true
 number: 1984
 title: Peekaboo
 type: plugin
-updated: '2024-11-04T21:57:06'
+updated: '2024-11-20T17:20:31'
 url: https://github.com/Lio5n/peekaboo
-version: 1.2.4
+version: 1.3.0
 ---
 
 %% README_START %%

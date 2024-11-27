@@ -6,7 +6,7 @@ author:
 author_page: https://yomaru.dev
 categories: []
 description: Generate frontmatter for your notes from json and javascript
-downloads: 3095
+downloads: 3113
 funding_page:
   Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
   buymeacoffee: https://www.buymeacoffee.com/yomaru

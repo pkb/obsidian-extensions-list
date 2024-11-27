@@ -6,7 +6,7 @@ author:
 author_page: https://www.instagram.com/klaudyul/
 categories: []
 description: have formulas like in excel a1+a2, or sum()
-downloads: 4525
+downloads: 4587
 funding_page: https://buymeacoffee.com/klaudyul
 mobile: true
 number: 1298

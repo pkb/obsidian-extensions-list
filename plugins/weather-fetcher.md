@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/fyears/obsidian-weather
 categories: []
 description: Fetch and insert current weather into the editor of Obsidian.
-downloads: 7437
+downloads: 7470
 mobile: true
 number: 403
 title: Weather Fetcher

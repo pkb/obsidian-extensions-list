@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/catvatar
 categories: []
 description: Adds customizable and easly togglable NSFW filter
-downloads: 198
+downloads: 203
 mobile: true
 number: 1755
 title: NSFW filter

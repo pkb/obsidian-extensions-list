@@ -5,7 +5,7 @@ author: Klojer
 author_page: https://github.com/Klojer
 categories: []
 description: Partial emulation of Emacs text editor for Obisidian
-downloads: 4614
+downloads: 4644
 mobile: true
 number: 1069
 title: Emacs text editor

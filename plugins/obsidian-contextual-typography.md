@@ -7,7 +7,7 @@ author_page: https://github.com/mgmeyers/obsidian-contextual-typography
 categories: []
 description: This plugin adds a data-tag-name attribute to all top-level divs in preview
   mode containing the child's tag name, allowing contextual typography styling.
-downloads: 90676
+downloads: 91015
 mobile: true
 number: 60
 title: Contextual Typography

@@ -6,7 +6,7 @@ author:
 author_page: https://jaanonim.github.io/
 categories: []
 description: Automatically link bible verses in your notes to YouVersion bible.
-downloads: 6296
+downloads: 6410
 mobile: true
 number: 1097
 title: YouVersion Linker

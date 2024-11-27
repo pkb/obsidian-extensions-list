@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/fnya
 categories: []
 description: Merge the selected notes.
-downloads: 5928
+downloads: 6029
 mobile: false
 number: 1177
 title: Merge Notes

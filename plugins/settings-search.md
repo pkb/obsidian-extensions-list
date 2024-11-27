@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/valentine195
 categories: []
 description: Globally search settings in Obsidian.md
-downloads: 123863
+downloads: 124981
 mobile: true
 number: 426
 title: Settings Search

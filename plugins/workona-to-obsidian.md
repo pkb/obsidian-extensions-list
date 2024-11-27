@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Workona Import
+- Workona Import
 author:
-  - Holmes555
+- Holmes555
 author_page: https://github.com/Holmes555
 categories:
-  - "[[categories/Import|Import]]"
-description: Import Workona resources, tabs, notes and tasks through generated JSON file.
-downloads: 3914
+- '[[categories/Import|Import]]'
+description: Import Workona resources, tabs, notes and tasks through generated JSON
+  file.
+downloads: 3919
 mobile: false
 number: 718
 title: Workona Import
 type: plugin
-updated: 2024-04-02T02:23:07
+updated: '2024-04-02T02:23:07'
 url: https://github.com/Holmes555/workona-to-obsidian
 version: 0.3.3
 ---

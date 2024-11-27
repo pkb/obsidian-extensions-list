@@ -7,7 +7,7 @@ author_page: https://medill-east.github.io/
 categories: []
 description: A plugin for searching and adding bi-directional links to existing content
   in Obsidian Vault.
-downloads: 3417
+downloads: 3424
 mobile: false
 number: 1148
 title: Content Linker

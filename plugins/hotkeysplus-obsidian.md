@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Hotkeys++
+- Hotkeys++
 author:
-  - Argentina Ortega Sainz
+- Argentina Ortega Sainz
 author_page: https://argentinaos.com
 categories:
-  - "[[categories/UI customization|UI customization]]"
+- '[[categories/UI customization|UI customization]]'
 description: Additional hotkeys to do common things in Obsidian
-downloads: 81936
+downloads: 82132
 mobile: true
 number: 2
 title: Hotkeys++
 type: plugin
-updated: 2021-12-09T04:03:01
+updated: '2021-12-09T04:03:01'
 url: https://github.com/argenos/hotkeysplus-obsidian
 version: 0.2.7
 ---

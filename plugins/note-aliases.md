@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pulsovi
 categories: []
 description: This plugin manage aliases of notes in Obsidian.
-downloads: 4379
+downloads: 4386
 funding_page: https://www.buymeacoffee.com/pulsovi
 mobile: true
 number: 781

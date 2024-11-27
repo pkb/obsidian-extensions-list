@@ -7,7 +7,7 @@ author_page: https://github.com/mattcoleanderson
 categories: []
 description: Conceal or replace user configured text patterns in Live Preview and
   Read Mode.
-downloads: 1227
+downloads: 1234
 funding_page: https://www.buymeacoffee.com/mattcoleanderson
 mobile: true
 number: 1395

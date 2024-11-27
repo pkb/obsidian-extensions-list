@@ -7,7 +7,7 @@ author_page: https://github.com/noonesimg
 categories: []
 description: Audio player with background playback, bookmarks and wave visualiser
   instead of the default html5 audio
-downloads: 10284
+downloads: 10400
 mobile: true
 number: 759
 title: Audio Player

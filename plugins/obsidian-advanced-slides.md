@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MSzturc
 categories: []
 description: Create markdown-based presentations in Obsidian
-downloads: 748185
+downloads: 749538
 mobile: false
 number: 380
 title: Advanced Slides

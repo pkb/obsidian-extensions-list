@@ -6,7 +6,7 @@ author:
 author_page: https://maxschulten.info
 categories: []
 description: Generate truth tables quickly in your .md files
-downloads: 284
+downloads: 292
 funding_page: https://buymeacoffee.com/maxschulten
 mobile: true
 number: 1832

@@ -6,7 +6,7 @@ author:
 author_page: https://opisek.net/
 categories: []
 description: Displays current battery level in the status bar.
-downloads: 247
+downloads: 261
 mobile: false
 number: 1866
 title: Battery Indicator

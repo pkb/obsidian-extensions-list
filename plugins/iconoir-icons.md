@@ -6,7 +6,7 @@ author:
 author_page: https://gihub.com/gapmiss
 categories: []
 description: Create & display customized SVG Iconoir icons.
-downloads: 4187
+downloads: 4196
 mobile: true
 number: 963
 title: Iconoir Icons

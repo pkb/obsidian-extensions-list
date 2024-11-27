@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Plugins Annotations
+- Plugins Annotations
 author:
-  - Andrea Alberti
+- Andrea Alberti
 author_page: https://www.linkedin.com/in/dr-andrea-alberti/
 categories:
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Allows adding personal comments to each installed plugin.
-downloads: 1908
+downloads: 1984
 funding_page: https://buymeacoffee.com/alberti
 mobile: true
 number: 1715
 title: Plugins Annotations
 type: plugin
-updated: 2024-10-20T20:16:29
+updated: '2024-10-20T20:16:29'
 url: https://github.com/alberti42/obsidian-plugins-annotations
 version: 1.7.8
 ---

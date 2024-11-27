@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/czottmann
 categories: []
 description: Adds a button to the search view for copying the Obsidian search URL.
-downloads: 4922
+downloads: 4927
 mobile: false
 number: 606
 title: Copy Search URL

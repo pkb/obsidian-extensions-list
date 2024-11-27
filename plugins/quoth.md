@@ -6,7 +6,7 @@ author_page: https://github.com/erykwalder/quoth
 categories: []
 description: More flexible embedding. Embed precise selections, inline embeds, optionally
   include author and title.
-downloads: 6599
+downloads: 6616
 mobile: true
 number: 384
 title: Quoth

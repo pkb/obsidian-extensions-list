@@ -7,7 +7,7 @@ author_page: https://lizard-heart.github.io
 categories: []
 description: An Obsidian plugin to automatically create notes with some specified
   content when you link to a note that doesn't yet exist.
-downloads: 3777
+downloads: 3784
 mobile: true
 number: 637
 title: Note Content Pusher

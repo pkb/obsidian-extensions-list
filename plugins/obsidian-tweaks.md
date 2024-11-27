@@ -7,7 +7,7 @@ author_page: jeppe.science
 categories: []
 description: Adds some convenient tweaks including improved toggling and ergonomic
   commands
-downloads: 5384
+downloads: 5389
 mobile: true
 number: 396
 title: ObsidianTweaks

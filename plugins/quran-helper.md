@@ -6,7 +6,7 @@ author:
 author_page: https://ammar.codes
 categories: []
 description: Find and insert any Quran Ayah (verse) in your notes.
-downloads: 188
+downloads: 192
 mobile: true
 number: 1742
 title: Quran Helper

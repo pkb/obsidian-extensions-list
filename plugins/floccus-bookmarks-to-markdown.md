@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mddevils/
 categories: []
 description: Bring your Bookmarks from Floccus to your Obsidian
-downloads: 4621
+downloads: 4660
 funding_page: https://ko-fi.com/mddevils
 mobile: false
 number: 1109

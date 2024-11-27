@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jdluque
 categories: []
 description: Jump quickly between note links.
-downloads: 2791
+downloads: 2797
 mobile: false
 number: 1168
 title: Next Link

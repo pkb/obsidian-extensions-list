@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/linjunpop/obsidian-badge
 categories: []
 description: This is a plugin to show badge for Obsidian.
-downloads: 5509
+downloads: 5537
 mobile: true
 number: 494
 title: Obsidian Badge

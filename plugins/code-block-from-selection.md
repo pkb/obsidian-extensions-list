@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dy-sh/
 categories: []
 description: Adds code block for the selected text
-downloads: 10347
+downloads: 10380
 mobile: true
 number: 119
 title: Code block from selection

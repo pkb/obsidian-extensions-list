@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Hexo Publisher
+- Hexo Publisher
 author:
-  - zhenlohuang
+- zhenlohuang
 author_page: https://www.yidoo.xyz
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to Hexo
-downloads: 99
+downloads: 111
 mobile: false
 number: 1825
 title: Hexo Publisher
 type: plugin
-updated: 2024-06-30T18:24:49
+updated: '2024-06-30T18:24:49'
 url: https://github.com/zhenlohuang/obsidian-hexo-publisher
 version: 0.0.5
 ---

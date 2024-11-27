@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Visualize Juggling Pattern Siteswap via the JugglingLab gif server.
-downloads: 3472
+downloads: 3474
 mobile: true
 number: 395
 title: Siteswap

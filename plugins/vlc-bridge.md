@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/zuluwi
 categories: []
 description: Take video/movie notes with timestamp links and snapshots from VLC Player.
-downloads: 1303
+downloads: 1330
 mobile: false
 number: 1519
 title: VLC Bridge

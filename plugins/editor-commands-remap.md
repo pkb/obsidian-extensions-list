@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/c4ctus5
 categories: []
 description: Map hotkeys to editor commands.
-downloads: 4123
+downloads: 4130
 mobile: true
 number: 258
 title: Editor Commands Remap

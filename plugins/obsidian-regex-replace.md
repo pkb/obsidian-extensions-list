@@ -6,7 +6,7 @@ author:
 author_page: https://www.gruware.org
 categories: []
 description: Find and replace text using regular expressions.
-downloads: 33012
+downloads: 33369
 mobile: true
 number: 376
 title: Regex Find/Replace

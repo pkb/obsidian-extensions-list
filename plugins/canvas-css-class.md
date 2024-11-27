@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Canvas CSS class
+- Canvas CSS class
 author:
-  - Mara-Li
+- Mara-Li
 author_page: https://github.com/Mara-Li
 categories:
-  - "[[categories/Canvas]]"
+- '[[categories/Canvas]]'
 description: Add a CSS class to the canvas, but also other attributes.
-downloads: 18468
+downloads: 18618
 funding_page: https://ko-fi.com/Mara__Li
 mobile: true
 number: 753
 title: Canvas CSS class
 type: plugin
-updated: 2024-06-06T19:26:26
+updated: '2024-06-06T19:26:26'
 url: https://github.com/Mara-Li/obsidian-canvas-css-class
 version: 2.5.0
 ---

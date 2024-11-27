@@ -7,7 +7,7 @@ author_page: https://www.moritzjung.dev/
 categories: []
 description: Make your notes interactive with inline input fields, metadata displays,
   and buttons.
-downloads: 108160
+downloads: 110738
 funding_page: https://github.com/sponsors/mProjectsCode
 mobile: true
 number: 612

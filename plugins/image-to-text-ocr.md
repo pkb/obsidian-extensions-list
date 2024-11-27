@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dario-baumberger
 categories: []
 description: Convert a image in your note to text.
-downloads: 2207
+downloads: 2258
 funding_page: https://www.buymeacoffee.com/dariobaumberger
 mobile: true
 number: 1463

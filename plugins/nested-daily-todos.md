@@ -7,7 +7,7 @@ author_page: https://github.com/thomasbrezinski
 categories: []
 description: Carry over incomplete todos from Daily Notes grouped by headers, with
   support for nesting and flexible todo states.
-downloads: 2621
+downloads: 2647
 mobile: true
 number: 1385
 title: Nested Daily Todos

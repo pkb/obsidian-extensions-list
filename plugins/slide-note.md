@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Phantom1003
 categories: []
 description: Conveniently take notes on PDF course slides :P
-downloads: 8751
+downloads: 8805
 funding_page: https://www.buymeacoffee.com/Phantom1003
 mobile: true
 number: 921

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/luhaifeng666
 categories: []
 description: Convert text to speech
-downloads: 1263
+downloads: 1291
 funding_page: https://buymeacoffee.com/luhaifeng
 mobile: true
 number: 1632

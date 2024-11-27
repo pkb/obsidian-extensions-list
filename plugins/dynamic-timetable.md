@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Dynamic Timetable
+- Dynamic Timetable
 author:
-  - L7Cy
+- L7Cy
 author_page: https://github.com/L7Cy
 categories:
-  - "[[categories/Time management|Time management]]"
-description: Calculate the estimated time of completion from the estimated time of the task and dynamically create a timetable.
-downloads: 8617
+- '[[categories/Time management|Time management]]'
+description: Calculate the estimated time of completion from the estimated time of
+  the task and dynamically create a timetable.
+downloads: 8652
 mobile: true
 number: 887
 title: Dynamic Timetable
 type: plugin
-updated: 2023-10-23T09:16:28
+updated: '2023-10-23T09:16:28'
 url: https://github.com/L7Cy/obsidian-dynamic-timetable
 version: 4.6.1
 ---

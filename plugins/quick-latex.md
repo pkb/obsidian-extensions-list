@@ -7,7 +7,7 @@ author_page: https://github.com/joeyuping/quick_latex_obsidian
 categories: []
 description: Speedup latex math typing with auto fraction, custom shorthand, align
   block shortcut, matrix shortcut...etc
-downloads: 169330
+downloads: 170056
 mobile: true
 number: 304
 title: Quick Latex

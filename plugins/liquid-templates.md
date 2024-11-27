@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Liquid Templates
+- Liquid Templates
 author:
-  - diomedet
+- diomedet
 author_page: https://diomedet.com/
 categories:
-  - "[[categories/Templates|Templates]]"
+- '[[categories/Templates|Templates]]'
 description: Empower your template with LiquidJS tags
-downloads: 5110
+downloads: 5117
 mobile: false
 number: 190
 title: Liquid Templates
 type: plugin
-updated: 2022-02-17T03:07:11
+updated: '2022-02-17T03:07:11'
 url: https://github.com/oeN/liquid-template
 version: 0.3.1
 ---

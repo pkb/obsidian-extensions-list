@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Shumpei-Tanaka/
 categories: []
 description: set tab name to short for uid user
-downloads: 2069
+downloads: 2073
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/s6tanaka/
   Paypal.me: https://www.paypal.me/s6tanaka/

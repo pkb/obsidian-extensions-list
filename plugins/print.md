@@ -6,7 +6,7 @@ author:
 author_page: https://marijnbent.nl
 categories: []
 description: Print notes and documents directly from your workspace.
-downloads: 2120
+downloads: 2385
 funding_page: https://buymeacoffee.com/marijnbent
 mobile: false
 number: 1892

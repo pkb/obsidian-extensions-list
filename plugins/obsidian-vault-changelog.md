@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MrZeroo00
 categories: []
 description: Obsidian plugin to maintain a notes changelog in a vault
-downloads: 11907
+downloads: 11950
 mobile: true
 number: 112
 title: Vault Changelog

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/DahaWong
 categories: []
 description: Move completed to-do items to a seperate completed area.
-downloads: 7658
+downloads: 7675
 mobile: true
 number: 52
 title: Completed Area

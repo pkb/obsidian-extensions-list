@@ -6,7 +6,7 @@ author:
 author_page: https://chris-grieser.de/
 categories: []
 description: Adds a no-op command to disable hotkeys.
-downloads: 2427
+downloads: 2430
 funding_page: https://ko-fi.com/pseudometa
 mobile: true
 number: 1250

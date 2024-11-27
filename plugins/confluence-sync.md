@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kerry
 categories: []
 description: Sync Obsidian notes with Confluence
-downloads: 1489
+downloads: 1510
 mobile: true
 number: 1501
 title: Confluence Sync

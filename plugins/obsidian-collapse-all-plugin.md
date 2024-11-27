@@ -6,7 +6,7 @@ author:
 author_page: https://nathan-smith.org/
 categories: []
 description: Extends collapse/expand all with commands that can be bound to hotkeys.
-downloads: 54259
+downloads: 54456
 mobile: true
 number: 187
 title: Collapse All

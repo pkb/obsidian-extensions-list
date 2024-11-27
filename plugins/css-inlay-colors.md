@@ -6,7 +6,7 @@ author:
 author_page: https://bengrant.dev
 categories: []
 description: Show inline color hints for CSS colors
-downloads: 550
+downloads: 583
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/GRA0007
   Ko-fi: https://ko-fi.com/benpai

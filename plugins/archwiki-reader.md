@@ -1,19 +1,19 @@
 ---
 aliases:
-  - ArchWiki Reader
+- ArchWiki Reader
 author:
-  - Lucy Gschwantner
+- Lucy Gschwantner
 author_page: https://github.com/Jackboxx
 categories:
-  - "[[categories/Other formats|Other formats]]"
+- '[[categories/Other formats|Other formats]]'
 description: Read any ArchWiki page directly in Obsidian
-downloads: 3238
+downloads: 3242
 funding_page: https://bmc.link/Jackboxx
 mobile: false
 number: 1059
 title: ArchWiki Reader
 type: plugin
-updated: 2023-09-07T01:18:00
+updated: '2023-09-07T01:18:00'
 url: https://github.com/Jackboxx/archwiki-obsidian
 version: 2.0.0
 ---

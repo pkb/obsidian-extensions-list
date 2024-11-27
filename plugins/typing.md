@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/konodyuk
 categories: []
 description: Programmatic customizations for groups of notes
-downloads: 3227
+downloads: 3228
 mobile: true
 number: 1211
 title: Typing

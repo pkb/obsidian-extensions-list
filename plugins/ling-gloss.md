@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Mijyuoon
 categories: []
 description: Format interlinear glosses used in linguistics texts.
-downloads: 4067
+downloads: 4085
 mobile: true
 number: 938
 title: Interlinear Glossing

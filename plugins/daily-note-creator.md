@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mario-holubar
 categories: []
 description: Automatically creates missing daily notes
-downloads: 1505
+downloads: 1521
 funding_page: https://ko-fi.com/mario_holubar
 mobile: true
 number: 1387

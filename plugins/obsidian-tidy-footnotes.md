@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/charliecm
 categories: []
 description: Tidy your footnotes seamlessly.
-downloads: 15799
+downloads: 15992
 funding_page: https://www.buymeacoffee.com/charliecm
 mobile: true
 number: 164

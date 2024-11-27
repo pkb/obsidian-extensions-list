@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/eth-p
 categories: []
 description: Easily create and customize callouts.
-downloads: 62672
+downloads: 64057
 mobile: true
 number: 816
 title: Callout Manager

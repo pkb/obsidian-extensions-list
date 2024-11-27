@@ -1,18 +1,18 @@
 ---
 aliases:
-  - XMind Viewer
+- XMind Viewer
 author:
-  - Sentiago
+- Sentiago
 author_page: https://github.com/Ssentiago
 categories:
-  - "[[categories/Mind mapping|Mind mapping]]"
+- '[[categories/Mind mapping|Mind mapping]]'
 description: Integrate viewing of your XMind files
-downloads: 809
+downloads: 980
 mobile: true
 number: 1915
 title: XMind Viewer
 type: plugin
-updated: 2024-09-09T19:05:12
+updated: '2024-09-09T19:05:12'
 url: https://github.com/Ssentiago/obsidian-xmind-viewer
 version: 0.1.0
 ---

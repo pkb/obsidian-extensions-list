@@ -1,19 +1,19 @@
 ---
 aliases:
-  - OZ Calendar
+- OZ Calendar
 author:
-  - Ozan Tellioglu
+- Ozan Tellioglu
 author_page: https://www.ozan.pl
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: View your notes in Calendar using any YAML key with date
-downloads: 13921
+downloads: 14036
 funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 854
 title: OZ Calendar
 type: plugin
-updated: 2024-03-31T18:23:47
+updated: '2024-03-31T18:23:47'
 url: https://github.com/ozntel/oz-calendar
 version: 0.3.4
 ---

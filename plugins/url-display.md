@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lin-stephanie
 categories: []
 description: Extract and display external URLs of the note in Obsidian.
-downloads: 4136
+downloads: 4157
 mobile: true
 number: 1145
 title: URL Display

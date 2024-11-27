@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/nickrallison
 categories: []
 description: Link your notes together
-downloads: 543
+downloads: 559
 funding_page: https://github.com/sponsors/nickrallison
 mobile: true
 number: 1807

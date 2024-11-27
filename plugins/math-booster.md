@@ -8,7 +8,7 @@ categories: []
 description: A powerful indexing & referencing system for theorems & equations in
   your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic
   equation numbering, and more.
-downloads: 16326
+downloads: 16626
 funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1122

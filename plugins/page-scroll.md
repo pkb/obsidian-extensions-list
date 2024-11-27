@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/chenshutian9610
 categories: []
 description: Page Up|Down|Top|Bottom
-downloads: 540
+downloads: 554
 mobile: true
 number: 1743
 title: Page Scroll

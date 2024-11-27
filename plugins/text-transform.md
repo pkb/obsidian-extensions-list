@@ -7,7 +7,7 @@ author_page: https://github.com/ipshing
 categories: []
 description: Transform text to different casings using the command palette or keyboard
   shortcuts.
-downloads: 3208
+downloads: 3216
 funding_page: https://ko-fi.com/ipshing
 mobile: true
 number: 1162

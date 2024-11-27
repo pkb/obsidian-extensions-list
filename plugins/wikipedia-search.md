@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/StrangeGirlMurph/
 categories: []
 description: Search, link and open Wikipedia/Wiki articles, all within the app!
-downloads: 15993
+downloads: 16092
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/StrangeGirlMurph
   Ko-fi: https://ko-fi.com/murph

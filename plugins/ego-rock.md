@@ -6,7 +6,7 @@ author:
 author_page: https://blog.echobravoyahoo.net
 categories: []
 description: A basic taskwarrior UI for listing and modifying tasks.
-downloads: 3172
+downloads: 3285
 mobile: false
 number: 1470
 title: Ego Rock

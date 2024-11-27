@@ -7,7 +7,7 @@ author_page: https://github.com/zigholding
 categories: []
 description: Thoughts as river, notes as chain. Add prev and next notes to a notes,
   and order files by the chain in File Explorer.
-downloads: 1106
+downloads: 1117
 mobile: true
 number: 1640
 title: Note Chain

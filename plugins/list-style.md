@@ -7,7 +7,7 @@ author_page: https://github.com/erykwalder/obsidian-list-style
 categories: []
 description: Set ordered list style inline in Obsidian.md. Alphabetic lists, roman
   numeral lists, etc.
-downloads: 6934
+downloads: 6995
 mobile: true
 number: 654
 title: Ordered List Style

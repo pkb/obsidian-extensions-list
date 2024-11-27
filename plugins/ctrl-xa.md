@@ -7,7 +7,7 @@ author_page: https://github.com/nbossard
 categories: []
 description: Cycle through various items with keyboard shortcuts. Such as days, months,
   log level,... anything you need.
-downloads: 1312
+downloads: 1314
 mobile: true
 number: 1360
 title: Ctrl-XA cycle various items

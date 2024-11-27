@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Daily Note Collector
+- Daily Note Collector
 author:
-  - Adar Butel
+- Adar Butel
 author_page: https://adar.la
 categories:
-  - "[[categories/Journalling|Journalling]]"
+- '[[categories/Journalling|Journalling]]'
 description: Adds links to new notes to your daily note.
-downloads: 450
+downloads: 472
 mobile: true
 number: 1875
 title: Daily Note Collector
 type: plugin
-updated: 2024-09-19T02:10:36
+updated: '2024-09-19T02:10:36'
 url: https://github.com/LA/obsidian-daily-note-collector
 version: 1.0.5
 ---

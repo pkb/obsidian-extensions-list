@@ -6,7 +6,7 @@ author:
 author_page: https://www.ozan.pl
 categories: []
 description: Easily display and search MSG files from Outlook in your Obsidian Vault
-downloads: 6125
+downloads: 6184
 funding_page: https://ko-fi.com/ozante
 mobile: true
 number: 811

@@ -7,7 +7,7 @@ author_page: https://andybaxter.me
 categories: []
 description: This adds shortcuts to insert due dates for end of this week or end of
   next week.
-downloads: 3495
+downloads: 3500
 funding_page:
   Buy me a coffee: https://www.buymeacoffee.com/andybaxter
   Ko-Fi: https://ko-fi.com/andybaxter

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Alddar
 categories: []
 description: Easily copy the contents of an inline code element with a single click.
-downloads: 6489
+downloads: 6571
 funding_page: https://ko-fi.com/alddar
 mobile: true
 number: 1057

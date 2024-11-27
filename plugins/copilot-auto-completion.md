@@ -7,7 +7,7 @@ author_page: https://jordismit.com
 categories: []
 description: Adds a highly configurable copilot-like auto-completion to Obsidian using
   the ChatGPT API.
-downloads: 7800
+downloads: 7867
 mobile: false
 number: 1077
 title: Copilot auto completion

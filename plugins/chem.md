@@ -7,7 +7,7 @@ author_page: https://github.com/Acylation
 categories: []
 description: Providing chemistry supports. Rendering SMILES strings into chemistry
   structures.
-downloads: 10137
+downloads: 10251
 funding_page: https://ko-fi.com/Acylation
 mobile: true
 number: 922

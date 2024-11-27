@@ -6,7 +6,7 @@ author:
 author_page: https://saaliklok.com
 categories: []
 description: Public docs, from the fires of your vault.
-downloads: 758
+downloads: 760
 mobile: true
 number: 1539
 title: Lavadocs

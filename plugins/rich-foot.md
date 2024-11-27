@@ -6,15 +6,15 @@ author:
 author_page: https://www.jparkerweb.com
 categories: []
 description: Adds backlink tags and created/modified dates to the footer of your notes.
-downloads: 1378
+downloads: 1913
 funding_page: https://ko-fi.com/jparkerweb
 mobile: true
 number: 1903
 title: Rich Foot
 type: plugin
-updated: '2024-11-14T23:39:07'
+updated: '2024-11-24T08:01:14'
 url: https://github.com/jparkerweb/rich-foot
-version: 1.6.1
+version: 1.7.0
 ---
 
 %% README_START %%

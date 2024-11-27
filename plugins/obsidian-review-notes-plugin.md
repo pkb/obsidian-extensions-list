@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tjandy98
 categories: []
 description: This plugin shows recently modified and newly created files
-downloads: 5268
+downloads: 5287
 mobile: true
 number: 735
 title: Review Notes Plugin

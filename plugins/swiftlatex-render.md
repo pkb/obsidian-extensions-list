@@ -7,7 +7,7 @@ author_page: https://github.com/gboyd068
 categories: []
 description: Render LaTeX in codeblocks into pdf or svg, without needing to install
   LaTeX separately.
-downloads: 1521
+downloads: 1550
 mobile: false
 number: 1533
 title: SwiftLaTeX Render

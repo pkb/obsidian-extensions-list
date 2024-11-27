@@ -6,7 +6,7 @@ author:
 author_page: https://lprt.ca
 categories: []
 description: Paste text into a separate note, and embed the note.
-downloads: 131
+downloads: 137
 mobile: false
 number: 1808
 title: Paste as Embed

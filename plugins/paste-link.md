@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/jose-elias-alvarez
 categories: []
 description: Intelligently paste Markdown links.
-downloads: 4717
+downloads: 5233
 mobile: true
 number: 1293
 title: Paste Link
 type: plugin
-updated: '2024-11-18T04:23:08'
+updated: '2024-11-25T02:23:55'
 url: https://github.com/jose-elias-alvarez/obsidian-paste-link
-version: 2.0.2
+version: 3.0.0
 ---
 
 %% README_START %%

@@ -7,7 +7,7 @@ author_page: https://x.com/outofdesk
 categories: []
 description: Forces serendipitous discoveries by displaying random notes from your
   vault each time you open the app
-downloads: 297
+downloads: 319
 mobile: true
 number: 1855
 title: Serendipity

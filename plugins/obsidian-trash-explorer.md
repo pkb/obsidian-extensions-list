@@ -6,7 +6,7 @@ author:
 author_page: https://permortensen.com
 categories: []
 description: Restore and delete files from the Obsidian .trash folder
-downloads: 24231
+downloads: 24800
 mobile: true
 number: 655
 title: Trash Explorer

@@ -7,7 +7,7 @@ author_page: https://github.com/aygjiay
 categories: []
 description: From a Bible reference selected, creates a markdown link to a configured
   Bible site.
-downloads: 224
+downloads: 245
 mobile: true
 number: 1687
 title: Link to Verse

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vkostyanetsky
 categories: []
 description: Food tracker, macronutrient and calorie calculator.
-downloads: 1187
+downloads: 1204
 mobile: true
 number: 1557
 title: Foodiary

@@ -6,7 +6,7 @@ author:
 author_page: https://ghedam.at
 categories: []
 description: Saving your current note as Gist on github
-downloads: 4074
+downloads: 4078
 mobile: true
 number: 418
 title: Save as Gist

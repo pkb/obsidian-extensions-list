@@ -6,7 +6,7 @@ author:
 author_page: https://x.com/sashakryzh
 categories: []
 description: Randomly review your vault and track progress.
-downloads: 41
+downloads: 54
 mobile: true
 number: 1973
 title: Vault Review

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/0918nobita
 categories: []
 description: Provides code blocks with features for Chinese learners
-downloads: 3043
+downloads: 3064
 funding_page: https://github.com/sponsors/0918nobita
 mobile: true
 number: 1254

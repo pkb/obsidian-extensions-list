@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Share as Gist
+- Share as Gist
 author:
-  - Tim Rogers
+- Tim Rogers
 author_page: https://github.com/timrogers
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares an Obsidian note as a GitHub.com gist
-downloads: 7035
+downloads: 7069
 mobile: true
 number: 541
 title: Share as Gist
 type: plugin
-updated: 2024-10-07T01:39:40
+updated: '2024-10-07T01:39:40'
 url: https://github.com/timrogers/obsidian-share-as-gist
 version: 1.7.0
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/Benature
 categories: []
 description: Add underline(`<u>xxx</u>`) with shortcut, and `<center>xxx</center>`,
   `[[#xxx]]`, `[[#^xxx]]`
-downloads: 40655
+downloads: 40985
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/benature
   微信/支付宝: https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png

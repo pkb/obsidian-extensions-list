@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Google Tasks
+- Google Tasks
 author:
-  - YukiGasai
+- YukiGasai
 author_page: https://github.com/YukiGasai
 categories:
-  - "[[categories/Integration|Integration]]"
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Integration|Integration]]'
+- '[[categories/Task management|Task management]]'
 description: Interact with your Google Tasks from Inside Obsidian
-downloads: 13606
+downloads: 13687
 mobile: true
 number: 487
 title: Google Tasks
 type: plugin
-updated: 2023-03-26T06:50:57
+updated: '2023-03-26T06:50:57'
 url: https://github.com/YukiGasai/obsidian-google-tasks
 version: 1.5.2
 ---

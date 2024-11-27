@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Markdown Formatting Assistant
+- Markdown Formatting Assistant
 author:
-  - Reocin
+- Reocin
 author_page: https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: This Plugin provides a simple Editor for Markdown, HTML and Colors and in addition a command interface. The command interface facilitate a faster workflow.
-downloads: 81199
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: This Plugin provides a simple Editor for Markdown, HTML and Colors and
+  in addition a command interface. The command interface facilitate a faster workflow.
+downloads: 81937
 mobile: true
 number: 88
 title: Markdown Formatting Assistant
 type: plugin
-updated: 2022-11-15T17:16:02
+updated: '2022-11-15T17:16:02'
 url: https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin
 version: 0.4.1
 ---

@@ -6,7 +6,7 @@ author_page: https://github.com/DonkeyPacific
 categories: []
 description: Fullscreen focus across all platforms. It helps you get more display
   space when you focus on reading notes, especially on mobile devices.
-downloads: 2224
+downloads: 2288
 funding_page:
   Afdian(爱发电): https://afdian.net/a/donkeypacific
   Buy Me a Coffee: https://www.buymeacoffee.com/donkeypacific

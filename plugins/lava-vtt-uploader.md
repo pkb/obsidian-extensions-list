@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lavaforge
 categories: []
 description: Display images from your vault in Lava VTT.
-downloads: 278
+downloads: 280
 mobile: false
 number: 1616
 title: Lava VTT Uploader

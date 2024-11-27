@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/abcamus
 categories: []
 description: cardify your files
-downloads: 506
+downloads: 531
 mobile: true
 number: 1876
 title: Quick Cards

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/razeghi71
 categories: []
 description: Search and insert images using Google API
-downloads: 816
+downloads: 834
 funding_page: https://www.buymeacoffee.com/marzghi
 mobile: true
 number: 1615

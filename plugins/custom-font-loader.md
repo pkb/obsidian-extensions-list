@@ -7,7 +7,7 @@ author_page: https://amirpourmand.ir
 categories: []
 description: Customize your Obsidian vault with any font you want (+ Support for Android
   and IOS)
-downloads: 19712
+downloads: 20105
 mobile: true
 number: 1130
 title: Custom Font Loader

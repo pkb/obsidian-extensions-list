@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ryanpcmcquen
 categories: []
 description: Add Org Mode support to Obsidian.
-downloads: 11049
+downloads: 11089
 mobile: true
 number: 173
 title: Org Mode

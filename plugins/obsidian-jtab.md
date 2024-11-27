@@ -7,7 +7,7 @@ author_page: https://github.com/davfive/obsidian-jtab
 categories: []
 description: Adds the ability to show guitar chords and tabs directly in your notes
   using jTab.
-downloads: 7205
+downloads: 7248
 mobile: true
 number: 488
 title: jTab Guitar Codeblocks

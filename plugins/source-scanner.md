@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gerrie-myburgh
 categories: []
 description: Scan java source and test code for comments then place it in md files.
-downloads: 4075
+downloads: 4078
 mobile: true
 number: 1032
 title: Source Scanner

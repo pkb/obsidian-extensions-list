@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/GabAlpha
 categories: []
 description: Use Obsidian as Github issue editor!
-downloads: 1876
+downloads: 1893
 funding_page: https://www.buymeacoffee.com/gabalpha
 mobile: false
 number: 1361

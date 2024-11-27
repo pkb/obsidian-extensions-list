@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/joethei
 categories: []
 description: Show a cloud of your tags/words in a note
-downloads: 13325
+downloads: 13388
 mobile: true
 number: 422
 title: Tag & Word Cloud

@@ -6,7 +6,7 @@ author:
 author_page: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4MjQ1ODIzMA==&scene=124#wechat_redirect
 categories: []
 description: Deal multi notes from Search results、current file、Dataview query string...
-downloads: 9512
+downloads: 9565
 mobile: true
 number: 573
 title: File Cooker

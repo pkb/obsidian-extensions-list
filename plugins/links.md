@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mii-key
 categories: []
 description: Manipulate links
-downloads: 42143
+downloads: 42580
 mobile: true
 number: 907
 title: Links

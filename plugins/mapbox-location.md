@@ -6,7 +6,7 @@ author:
 author_page: https://aaronczichon.de
 categories: []
 description: Show a map inside your notes with a specific format.
-downloads: 709
+downloads: 725
 funding_page: https://buymeacoffee.com/aaronczichon.de
 mobile: true
 number: 1625

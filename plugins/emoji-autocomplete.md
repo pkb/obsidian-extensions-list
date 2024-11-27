@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/KraXen72
 categories: []
 description: 'Smart suggestions when typing emoji shortcodes & more! :star:'
-downloads: 5628
+downloads: 5707
 funding_page: https://ko-fi.com/kraxen72
 mobile: true
 number: 1341

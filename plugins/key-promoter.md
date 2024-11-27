@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/joethei
 categories: []
 description: Learn keyboard shortcuts by showing them when using the mouse
-downloads: 12522
+downloads: 12557
 mobile: true
 number: 315
 title: Key Promoter

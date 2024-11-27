@@ -6,7 +6,7 @@ author:
 author_page: https://minimarimo3.jp
 categories: []
 description: Enables posting and embedding Misskey notes.
-downloads: 681
+downloads: 684
 mobile: true
 number: 1555
 title: Misskey Connector

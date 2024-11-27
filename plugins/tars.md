@@ -7,7 +7,7 @@ author_page: https://github.com/tarslab
 categories: []
 description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama,
   Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.
-downloads: 2666
+downloads: 2867
 mobile: false
 number: 1717
 title: Tars

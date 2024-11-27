@@ -6,7 +6,7 @@ author:
 author_page: https://curtgrimes.com
 categories: []
 description: Add interactive metronomes to your notes.
-downloads: 4239
+downloads: 4251
 mobile: true
 number: 385
 title: Metronome

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yuanotes
 categories: []
 description: Switch input method with fcitx-remote when Vim keymap is enabled.
-downloads: 6369
+downloads: 6387
 mobile: false
 number: 269
 title: Vim Input Method Switch

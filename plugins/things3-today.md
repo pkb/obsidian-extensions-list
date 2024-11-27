@@ -6,7 +6,7 @@ author:
 author_page: https://wudanyang6.github.io/
 categories: []
 description: Manage today's tasks with Things3
-downloads: 1571
+downloads: 1596
 mobile: false
 number: 1506
 title: Things3 Today

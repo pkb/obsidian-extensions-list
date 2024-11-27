@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Automation
+- Automation
 author:
-  - Benature
+- Benature
 author_page: https://github.com/Benature
 categories:
-  - "[[categories/Automation|Automation]]"
+- '[[categories/Automation|Automation]]'
 description: Execute commands on specific events.
-downloads: 1236
+downloads: 1259
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/benature
   微信/支付宝: https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png
@@ -16,7 +16,7 @@ mobile: true
 number: 1572
 title: Automation
 type: plugin
-updated: 2024-05-31T17:37:35
+updated: '2024-05-31T17:37:35'
 url: https://github.com/Benature/obsidian-automation
 version: 0.1.1
 ---

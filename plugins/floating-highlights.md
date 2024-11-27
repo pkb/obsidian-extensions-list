@@ -6,7 +6,7 @@ author:
 author_page: https://twitter.com/karthikraju391
 categories: []
 description: Enhanced highlights for Obsidian
-downloads: 4016
+downloads: 4021
 mobile: false
 number: 827
 title: Floating Highlights

@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Multiplatform Highlights Importer
+- Multiplatform Highlights Importer
 author:
-  - wwwkieran
+- wwwkieran
 author_page: https://github.com/wwwkieran
 categories:
-  - "[[categories/Import|Import]]"
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
-description: Import and consolidate highlights from different reading sources. Supports reconciling books across reading sources.
-downloads: 130
+- '[[categories/Import|Import]]'
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
+description: Import and consolidate highlights from different reading sources. Supports
+  reconciling books across reading sources.
+downloads: 138
 mobile: false
 number: 1750
 title: Multiplatform Highlights Importer
 type: plugin
-updated: 2024-06-25T04:58:08
+updated: '2024-06-25T04:58:08'
 url: https://github.com/wwwkieran/obsidian-multiplatform-highlights-import
 version: 0.1.2
 ---

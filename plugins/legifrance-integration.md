@@ -6,7 +6,7 @@ author:
 author_page: https://carnetdethese.amimms.fr/
 categories: []
 description: Intégration de l'API Légifrance.
-downloads: 233
+downloads: 237
 funding_page: https://ko-fi.com/hurj268746
 mobile: true
 number: 1658

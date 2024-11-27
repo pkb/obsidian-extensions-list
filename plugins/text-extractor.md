@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Text Extractor
+- Text Extractor
 author:
-  - Simon Cambier
+- Simon Cambier
 author_page: https://github.com/scambier/obsidian-text-extractor
 categories:
-  - "[[categories/Image handling|Image handling]]"
-description: A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
-downloads: 134918
+- '[[categories/Image handling|Image handling]]'
+description: A (companion) plugin to facilitate the extraction of text from images
+  (OCR) and PDFs.
+downloads: 136310
 funding_page:
   Github: https://github.com/sponsors/scambier
   Ko-fi: https://ko-fi.com/scambier
@@ -15,7 +16,7 @@ mobile: true
 number: 734
 title: Text Extractor
 type: plugin
-updated: 2024-05-27T01:34:08
+updated: '2024-05-27T01:34:08'
 url: https://github.com/scambier/obsidian-text-extractor
 version: 0.5.2
 ---

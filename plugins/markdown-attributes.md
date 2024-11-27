@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Add markdown attributes to elements in Obsidian.md
-downloads: 15029
+downloads: 15140
 mobile: true
 number: 236
 title: Markdown Attributes

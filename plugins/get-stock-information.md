@@ -7,7 +7,7 @@ author_page: https://mikej.design
 categories: []
 description: This plugin takes a stock symbol and returns a callout block with the
   latest stock information.
-downloads: 4139
+downloads: 4157
 mobile: true
 number: 862
 title: Get Stock Information

@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Hunchly
+- Hunchly
 author:
-  - sapperlabs
+- sapperlabs
 author_page: https://github.com/shadowoption
 categories:
-  - "[[categories/Import|Import]]"
-description: This plugin converts Hunchly's notes and captioned images into obsidian notes. Also adds selectors from hunchly as obsidian tags.
-downloads: 2028
+- '[[categories/Import|Import]]'
+description: This plugin converts Hunchly's notes and captioned images into obsidian
+  notes. Also adds selectors from hunchly as obsidian tags.
+downloads: 2031
 mobile: false
 number: 1289
 title: Hunchly
 type: plugin
-updated: 2023-12-16T00:34:56
+updated: '2023-12-16T00:34:56'
 url: https://github.com/shadowoption/Hunchly-obsidian-plugin
 version: 1.0.1
 ---

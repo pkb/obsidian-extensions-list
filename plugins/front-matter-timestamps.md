@@ -7,7 +7,7 @@ author_page: https://github.com/lighthousedino
 categories: []
 description: Automatically manages and updates 'created' and 'modified' timestamps
   in the frontmatter of your notes
-downloads: 1964
+downloads: 2047
 mobile: true
 number: 1751
 title: Front Matter Timestamps

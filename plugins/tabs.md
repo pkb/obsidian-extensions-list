@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/xhuajin
 categories: []
 description: Create tabs in your notes.
-downloads: 9260
+downloads: 9553
 mobile: true
 number: 1696
 title: Tabs

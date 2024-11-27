@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jmxo
 categories: []
 description: Hides the cursor when scrolling and shows it again when moving the mouse.
-downloads: 3814
+downloads: 3834
 funding_page: ''
 mobile: false
 number: 932

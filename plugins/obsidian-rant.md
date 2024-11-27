@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lanice
 categories: []
 description: Thin wrapper around the Rant language Rust crate
-downloads: 4124
+downloads: 4129
 mobile: true
 number: 388
 title: Rant-Lang

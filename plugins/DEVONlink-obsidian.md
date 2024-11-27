@@ -6,7 +6,7 @@ author:
 author_page: https://axle.design
 categories: []
 description: Open or reveal the current note in DEVONthink.
-downloads: 8495
+downloads: 8515
 mobile: false
 number: 124
 title: DEVONlink

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gapmiss
 categories: []
 description: Add inline badges/callouts to notes.
-downloads: 7761
+downloads: 7849
 mobile: true
 number: 998
 title: Badges

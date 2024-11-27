@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/meikul
 categories: []
 description: Insert video thumbnails into your notes
-downloads: 13600
+downloads: 13704
 mobile: true
 number: 550
 title: Thumbnails

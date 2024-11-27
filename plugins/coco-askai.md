@@ -6,7 +6,7 @@ author:
 author_page: https://ai.yamfeel.com
 categories: []
 description: Let your questions flow swiftly with CoCo AskAI. (Closed source)
-downloads: 624
+downloads: 629
 mobile: false
 number: 1606
 title: CoCo AskAI

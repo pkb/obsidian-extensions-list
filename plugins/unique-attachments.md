@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Unique attachments
+- Unique attachments
 author:
-  - Dmitry Savosh
+- Dmitry Savosh
 author_page: https://github.com/dy-sh/
 categories:
-  - "[[categories/Attachments management|Attachments management]]"
-description: Rename attachments, making their names unique (based on hashing of file content)
-downloads: 10419
+- '[[categories/Attachments management|Attachments management]]'
+description: Rename attachments, making their names unique (based on hashing of file
+  content)
+downloads: 10464
 mobile: true
 number: 131
 title: Unique attachments
 type: plugin
-updated: 2021-08-30T21:23:09
+updated: '2021-08-30T21:23:09'
 url: https://github.com/dy-sh/obsidian-unique-attachments
 version: 1.0.3
 ---

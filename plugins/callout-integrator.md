@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Cleoche
 categories: []
 description: Integrate long blocks of text into callouts and easier nested callouts
-downloads: 8131
+downloads: 8204
 mobile: true
 number: 818
 title: Callout Integrator

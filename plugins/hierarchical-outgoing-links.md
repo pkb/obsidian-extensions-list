@@ -6,7 +6,7 @@ author:
 author_page: https://jason.motylinski.com
 categories: []
 description: Displays outgoing links in a hierarchy
-downloads: 1187
+downloads: 1312
 funding_page: https://www.buymeacoffee.com/jasonmotylinski
 mobile: true
 number: 1586

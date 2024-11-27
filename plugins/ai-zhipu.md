@@ -1,18 +1,18 @@
 ---
 aliases:
-  - AI Zhipu
+- AI Zhipu
 author:
-  - Tarslab
+- Tarslab
 author_page: https://github.com/tarslab
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Generate text using the ZhipuAI API.
-downloads: 1270
+downloads: 1319
 mobile: true
 number: 1544
 title: AI Zhipu
 type: plugin
-updated: 2024-06-07T07:31:17
+updated: '2024-06-07T07:31:17'
 url: https://github.com/TarsLab/obsidian-ai-zhipu
 version: 2.0.2
 ---

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Tracker
+- Tracker
 author:
-  - pyrochlore
-author_page: ""
+- pyrochlore
+author_page: ''
 categories:
-  - "[[categories/Charting|Charting]]"
+- '[[categories/Charting|Charting]]'
 description: A plugin tracks occurrences and numbers in your notes
-downloads: 183119
+downloads: 184430
 mobile: true
 number: 140
 title: Tracker
 type: plugin
-updated: 2024-04-29T10:47:23
+updated: '2024-04-29T10:47:23'
 url: https://github.com/pyrochlore/obsidian-tracker
 version: 1.14.0
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://juuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuulia.dev
 categories: []
 description: Adds a command to toggle dark mode on and off
-downloads: 753
+downloads: 791
 mobile: true
 number: 1714
 title: Toggle Dark Mode

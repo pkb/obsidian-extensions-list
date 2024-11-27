@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Chronology
+- Chronology
 author:
-  - Gabriele Cannata
+- Gabriele Cannata
 author_page: https://github.com/Canna71
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: Provides a calendar and a timeline of the notes creation and modification
-downloads: 37844
+downloads: 38130
 funding_page: https://www.buymeacoffee.com/gcannata
 mobile: true
 number: 617
 title: Chronology
 type: plugin
-updated: 2023-10-15T22:44:11
+updated: '2023-10-15T22:44:11'
 url: https://github.com/Canna71/obsidian-chronology
 version: 1.1.11
 ---

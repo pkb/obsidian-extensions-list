@@ -6,7 +6,7 @@ author:
 author_page: https://my99n.now.sh
 categories: []
 description: Fold text by making it completely hidden.
-downloads: 4254
+downloads: 4267
 mobile: true
 number: 967
 title: BlindFold

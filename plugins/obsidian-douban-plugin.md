@@ -7,7 +7,7 @@ author_page: https://obsidian-douban.wanxuping.com
 categories: []
 description: This is a plugin that can import movies/books/musics/notes/games info
   data from Douban for Obsidian .
-downloads: 18633
+downloads: 18765
 mobile: true
 number: 627
 title: Douban

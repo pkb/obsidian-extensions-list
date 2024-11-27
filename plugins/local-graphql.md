@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Local GraphQL
+- Local GraphQL
 author:
-  - Hawtian Wang
+- Hawtian Wang
 author_page: https://twistoy.cn
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: Export Obsidian data as a local GraphQL server.
-downloads: 2216
+downloads: 2225
 mobile: false
 number: 1286
 title: Local GraphQL
 type: plugin
-updated: 2024-03-03T14:05:33
+updated: '2024-03-03T14:05:33'
 url: https://github.com/TwIStOy/obsidian-local-graphql
 version: 1.0.2
 ---

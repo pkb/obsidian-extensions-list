@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Natural Language Dates
+- Natural Language Dates
 author:
-  - Argentina Ortega Sainz
+- Argentina Ortega Sainz
 author_page: https://argentinaos.com/
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: Create date-links based on natural language
-downloads: 368324
+downloads: 370615
 mobile: true
 number: 1
 title: Natural Language Dates
 type: plugin
-updated: 2023-12-02T02:31:44
+updated: '2023-12-02T02:31:44'
 url: https://github.com/argenos/nldates-obsidian
 version: 0.6.2
 ---

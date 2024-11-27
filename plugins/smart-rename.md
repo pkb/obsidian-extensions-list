@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/mnaoumov
 categories: []
 description: Renames notes keeping previous title in existing links
-downloads: 4996
+downloads: 5193
 funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 894
 title: Smart Rename
 type: plugin
-updated: '2024-11-13T11:40:36'
+updated: '2024-11-21T23:51:08'
 url: https://github.com/mnaoumov/obsidian-smart-rename
-version: 2.0.1
+version: 2.0.3
 ---
 
 %% README_START %%

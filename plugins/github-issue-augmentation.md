@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/samprintz
 categories: []
 description: Augments GitHub issue IDs
-downloads: 3535
+downloads: 3545
 mobile: true
 number: 910
 title: GitHub Issue Augmentation

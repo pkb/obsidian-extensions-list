@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Vinzent03
 categories: []
 description: Set hotkeys for specific files and open them just with your keyboard.
-downloads: 25172
+downloads: 25306
 funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 106

@@ -8,7 +8,7 @@ categories: []
 description: Easily adjust header levels in Markdown documents by increasing or decreasing
   their levels. Supports full document adjustments or specified line ranges, with
   default settings and commands for convenience
-downloads: 326
+downloads: 347
 funding_page: https://buymeacoffee.com/vpt87
 mobile: true
 number: 1730

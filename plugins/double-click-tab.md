@@ -7,7 +7,7 @@ author_page: https://github.com/Quorafind
 categories: []
 description: A plugin to modify the default behavior when you double click on the
   tab title, like close tab.
-downloads: 4467
+downloads: 4475
 mobile: true
 number: 691
 title: Double Click Tab

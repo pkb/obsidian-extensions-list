@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kaffarell
 categories: []
 description: Runs OCR on images and copies content in image caption.
-downloads: 5154
+downloads: 5181
 funding_page: ''
 mobile: false
 number: 904

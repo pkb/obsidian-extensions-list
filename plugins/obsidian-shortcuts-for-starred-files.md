@@ -7,7 +7,7 @@ author_page: https://github.com/Vinzent03
 categories: []
 description: Set an individual hotkey for the first 9 bookmarks and open them just
   with your keyboard.
-downloads: 8859
+downloads: 8879
 funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 84

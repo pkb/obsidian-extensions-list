@@ -6,7 +6,7 @@ author:
 author_page: http://foldl.me
 categories: []
 description: Automatically search and insert citations from a Zotero library
-downloads: 173255
+downloads: 174001
 mobile: false
 number: 53
 title: Citations

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/huedaya
 categories: []
 description: Push Markdown file to API endpoint.
-downloads: 1001
+downloads: 1004
 mobile: true
 number: 1432
 title: Simple File Push

@@ -6,7 +6,7 @@ author:
 author_page: https://grosinger.net
 categories: []
 description: Breadcrumb navigation in Obsidian
-downloads: 5046
+downloads: 5066
 funding_page:
   Buy me a Coffee: https://buymeacoffee.com/tgrosinger
   Github Sponsor: https://github.com/sponsors/tgrosinger

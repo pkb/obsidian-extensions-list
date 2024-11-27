@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/wenlzhang
 categories: []
 description: Copy file metadata to clipboard. Insert copied metadata to file name.
-downloads: 2914
+downloads: 2919
 funding_page:
   Buy Me a Coffee: https://ko-fi.com/f84556
 mobile: true

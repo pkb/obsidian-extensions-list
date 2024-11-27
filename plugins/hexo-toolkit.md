@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/sissilab
 categories: []
 description: Maintain Hexo posts.
-downloads: 13
+downloads: 34
 mobile: false
 number: 1987
 title: Hexo Toolkit
 type: plugin
-updated: '2024-11-09T06:02:07'
+updated: '2024-11-20T12:16:34'
 url: https://github.com/sissilab/obsidian-hexo-toolkit
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%

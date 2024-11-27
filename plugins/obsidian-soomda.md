@@ -6,7 +6,7 @@ author:
 author_page: https://michaelsoolee.com
 categories: []
 description: Quickly hide your sidebars
-downloads: 3553
+downloads: 3557
 funding_page:
   Buy me a slice of pizza: https://michaellee.gumroad.com/l/buy-michael-pizza
 mobile: false

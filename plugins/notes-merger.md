@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/niffka
 categories: []
 description: Merge notes into a single markdown document based on index Markdown file.
-downloads: 3014
+downloads: 3043
 mobile: false
 number: 1265
 title: Notes Merger

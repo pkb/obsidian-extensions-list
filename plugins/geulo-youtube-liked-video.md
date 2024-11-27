@@ -7,7 +7,7 @@ author_page: https://github.com/zzunebye
 categories: []
 description: Effortlessly fetch and manage all the YouTube videos you've liked, search
   and sort them, and add them to your daily note.
-downloads: 381
+downloads: 405
 funding_page: https://www.buymeacoffee.com/junyoungbang
 mobile: false
 number: 1838

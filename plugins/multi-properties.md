@@ -7,7 +7,7 @@ author_page: https://github.com/technohiker
 categories: []
 description: Adds Properties to multiple notes at once.  Either right-click a folder,
   or select multiple notes and right-click the selection.
-downloads: 19479
+downloads: 19884
 mobile: true
 number: 1249
 title: Multi Properties

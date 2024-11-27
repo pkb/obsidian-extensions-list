@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/meld-cp/obsidian-calc
 categories: []
 description: Do math
-downloads: 11630
+downloads: 11669
 mobile: true
 number: 325
 title: Meld Calc

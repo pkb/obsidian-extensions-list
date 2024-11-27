@@ -6,7 +6,7 @@ author:
 author_page: https://marchev.fr
 categories: []
 description: Provide a preview mode for embeded `*.eml` files.
-downloads: 4491
+downloads: 4530
 funding_page: https://www.buymeacoffee.com/pulsovi
 mobile: true
 number: 1153

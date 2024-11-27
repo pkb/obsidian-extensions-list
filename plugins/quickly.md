@@ -7,7 +7,7 @@ author_page: https://github.com/tmfelwu
 categories: []
 description: Quickly empowers you to add your thoughts into obsidian with a shortcut
   key.
-downloads: 3501
+downloads: 3505
 mobile: true
 number: 889
 title: Quickly

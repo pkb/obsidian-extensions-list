@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aidenlx
 categories: []
 description: An Obsidian plugin to bridge MarginNote 3 and Obsidian
-downloads: 12892
+downloads: 12934
 mobile: true
 number: 297
 title: MarginNote Companion

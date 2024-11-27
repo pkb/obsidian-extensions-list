@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mkozhukharenko
 categories: []
 description: Edit mdx files as if they were markdown
-downloads: 5198
+downloads: 5218
 mobile: true
 number: 155
 title: mdx as md

@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Static Site MD Exporter
+- Static Site MD Exporter
 author:
-  - Yunfi
+- Yunfi
 author_page: https://yfi.moe
 categories:
-  - "[[categories/Export|Export]]"
-description: Export specific notes to general md for static site generator like Hugo, Hexo, Astro and more.
-downloads: 886
+- '[[categories/Export|Export]]'
+description: Export specific notes to general md for static site generator like Hugo,
+  Hexo, Astro and more.
+downloads: 943
 mobile: true
 number: 1590
 title: Static Site MD Exporter
 type: plugin
-updated: 2024-11-13T05:20:47
+updated: '2024-11-13T05:20:47'
 url: https://github.com/yy4382/obsidian-static-site-export
 version: 2.1.0
 ---

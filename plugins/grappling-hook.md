@@ -7,7 +7,7 @@ author_page: https://github.com/chrisgrieser/grappling-hook
 categories: []
 description: Obsidian Plugin for blazingly fast file switching. For those who find
   the Quick Switcher still too slow.
-downloads: 7825
+downloads: 7857
 funding_page:
   Ko-Fi: https://ko-fi.com/pseudometa
   PayPal: https://www.paypal.me/ChrisGrieser

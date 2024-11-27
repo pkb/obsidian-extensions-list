@@ -7,7 +7,7 @@ author_page: https://loyalpotato.com/
 categories: []
 description: Allow generation of a content index based on your selection or of the
   whole file.
-downloads: 3260
+downloads: 3268
 mobile: true
 number: 1139
 title: Potato Indexer

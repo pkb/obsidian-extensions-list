@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Quick Switcher++
+- Quick Switcher++
 author:
-  - darlal
+- darlal
 author_page: https://github.com/darlal/obsidian-switcher-plus
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Enhanced Quick Switcher, search open panels, and symbols.
-downloads: 239883
+downloads: 241839
 mobile: true
 number: 18
 title: Quick Switcher++
 type: plugin
-updated: 2024-11-02T07:27:24
+updated: '2024-11-02T07:27:24'
 url: https://github.com/darlal/obsidian-switcher-plus
 version: 4.6.2
 ---

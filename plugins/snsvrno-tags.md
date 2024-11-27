@@ -6,7 +6,7 @@ author:
 author_page: https://codeberg.org/snsvrno
 categories: []
 description: Gives more options on how to display tags in preview mode.
-downloads: 1441
+downloads: 1451
 mobile: true
 number: 1421
 title: Tag Formatter

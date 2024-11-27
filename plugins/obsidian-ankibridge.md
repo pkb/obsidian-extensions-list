@@ -6,7 +6,7 @@ author:
 author_page: https://jeppe.science
 categories: []
 description: Yet Another Anki Bridge
-downloads: 6491
+downloads: 6504
 mobile: false
 number: 369
 title: AnkiBridge

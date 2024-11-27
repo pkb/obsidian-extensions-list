@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/alexandrerbb
 categories: []
 description: Convert a note's outline to a task list.
-downloads: 480
+downloads: 484
 mobile: true
 number: 1617
 title: Outline to task list

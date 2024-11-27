@@ -7,7 +7,7 @@ author_page: https://github.com/NomarCub
 categories: []
 description: Ribbon button, command and file explorer context menu to open the vault
   as a Visual Studio Code (VSCode) workspace
-downloads: 25587
+downloads: 26164
 funding_page: https://ko-fi.com/nomarcub
 mobile: false
 number: 225

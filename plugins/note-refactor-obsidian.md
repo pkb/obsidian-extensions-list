@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Note Refactor
+- Note Refactor
 author:
-  - lynchjames
+- lynchjames
 author_page: https://github.com/lynchjames
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extract note content into new notes and split notes
-downloads: 252438
+downloads: 253749
 mobile: true
 number: 9
 title: Note Refactor
 type: plugin
-updated: 2023-09-19T05:06:00
+updated: '2023-09-19T05:06:00'
 url: https://github.com/lynchjames/note-refactor-obsidian
 version: 1.8.2
 ---

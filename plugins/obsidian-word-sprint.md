@@ -6,7 +6,7 @@ author:
 author_page: https://mysticcoders.com
 categories: []
 description: Word Sprint for Obsidian plugin for your writing projects like Nanowrimo
-downloads: 14201
+downloads: 14286
 mobile: true
 number: 346
 title: Word Sprint

@@ -7,14 +7,14 @@ author_page: ''
 categories: []
 description: Looks for missing linked mentions or notes with a specific tag or alias
   and imports them into the current note.
-downloads: 11601
+downloads: 11839
 mobile: true
 number: 508
 title: AutoMOC
 type: plugin
-updated: '2024-11-05T02:49:06'
+updated: '2024-11-25T21:34:17'
 url: https://github.com/dalcantara7/obsidian-auto-moc
-version: 1.5.0
+version: 1.5.1
 ---
 
 %% README_START %%

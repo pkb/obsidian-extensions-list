@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Calendar Event Sync
+- Calendar Event Sync
 author:
-  - Stephen Dolan
+- Stephen Dolan
 author_page: https://stephendolan.com
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: Sync a relevant calendar event to your current note.
-downloads: 574
+downloads: 591
 mobile: false
 number: 1610
 title: Calendar Event Sync
 type: plugin
-updated: 2024-10-29T21:32:06
+updated: '2024-10-29T21:32:06'
 url: https://github.com/stephendolan/obsidian-calendar-event-sync
 version: 2.0.3
 ---

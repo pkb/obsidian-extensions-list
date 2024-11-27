@@ -6,7 +6,7 @@ author:
 author_page: https://mang.al
 categories: []
 description: Create and manage daily notes in a single file.
-downloads: 2461
+downloads: 2483
 mobile: true
 number: 1376
 title: Single File Daily Notes

@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Week Planner
+- Week Planner
 author:
-  - Ralf Wirdemann
+- Ralf Wirdemann
 author_page: https://github.com/rwirdemann/obsidian-week-planner
 categories:
-  - "[[categories/Planning|Planning]]"
-description: Week Planner plugin for Obsidian. This plugin defines commands for creating planning documents and moving tasks between them.
-downloads: 8678
+- '[[categories/Planning|Planning]]'
+description: Week Planner plugin for Obsidian. This plugin defines commands for creating
+  planning documents and moving tasks between them.
+downloads: 8718
 mobile: true
 number: 622
 title: Week Planner
 type: plugin
-updated: 2023-01-24T21:48:38
+updated: '2023-01-24T21:48:38'
 url: https://github.com/rwirdemann/obsidian-week-planner
 version: 0.1.4
 ---

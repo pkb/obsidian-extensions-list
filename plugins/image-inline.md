@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ZackaryW
 categories: []
 description: Paste your image without attachment files
-downloads: 3441
+downloads: 3498
 mobile: true
 number: 1414
 title: Image Inline

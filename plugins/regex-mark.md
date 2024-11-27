@@ -7,7 +7,7 @@ author:
 author_page: https://github.com/mara-li
 categories: []
 description: Add custom CSS classes to text based on regular expressions.
-downloads: 1105
+downloads: 1163
 funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 1677

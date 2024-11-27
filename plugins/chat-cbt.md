@@ -7,7 +7,7 @@ author_page: https://github.com/clairefro
 categories: []
 description: Guides you in reframing negative thoughts and keeping record of your
   discoveries
-downloads: 3682
+downloads: 3719
 funding_page: https://www.buymeacoffee.com/clairefro
 mobile: false
 number: 1305

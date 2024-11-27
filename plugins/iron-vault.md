@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/iron-vault-plugin
 categories: []
 description: Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs.
-downloads: 2748
+downloads: 2922
 mobile: true
 number: 1781
 title: Iron Vault
 type: plugin
-updated: '2024-11-07T08:21:13'
+updated: '2024-11-21T08:16:16'
 url: https://github.com/iron-vault-plugin/iron-vault
-version: 1.87.0
+version: 1.88.0
 ---
 
 %% README_START %%

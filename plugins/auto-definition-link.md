@@ -7,7 +7,7 @@ author_page: https://github.com/nmcarp99
 categories: []
 description: Automatically converts text to definition links within the current folder
   when you type them.
-downloads: 1369
+downloads: 1379
 mobile: true
 number: 1446
 title: Auto Definition Link

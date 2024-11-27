@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ohm-en
 categories: []
 description: Extends plugin management of Obsidian.MD
-downloads: 8219
+downloads: 8379
 mobile: true
 number: 936
 title: Plugin Manager

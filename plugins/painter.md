@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/KraXen72
 categories: []
 description: Paint text different colors
-downloads: 6046
+downloads: 6191
 funding_page: https://ko-fi.com/kraxen72
 mobile: true
 number: 1611

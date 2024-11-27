@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aoout
 categories: []
 description: Get the rss articles as mdfiles.
-downloads: 1630
+downloads: 1650
 mobile: true
 number: 1378
 title: Rss Copyist

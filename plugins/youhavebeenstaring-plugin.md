@@ -1,18 +1,19 @@
 ---
 aliases:
-  - YouHaveBeenStaring
+- YouHaveBeenStaring
 author:
-  - Felix Almer
+- Felix Almer
 author_page: https://almer.dev
 categories:
-  - "[[categories/Statistics|Statistics]]"
-description: This plugin tells you in the status bar for how long you've been staring at your obsidian vault. Well - at least how long your vault is open.
-downloads: 5115
+- '[[categories/Statistics|Statistics]]'
+description: This plugin tells you in the status bar for how long you've been staring
+  at your obsidian vault. Well - at least how long your vault is open.
+downloads: 5122
 mobile: true
 number: 70
 title: YouHaveBeenStaring
 type: plugin
-updated: 2021-05-23T15:04:20
+updated: '2021-05-23T15:04:20'
 url: https://github.com/fxal/obsidian-youhavebeenstaring-plugin
 version: 1.2.2
 ---

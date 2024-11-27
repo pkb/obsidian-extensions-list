@@ -6,7 +6,7 @@ author:
 author_page: https://medium.com/@beromkoh
 categories: []
 description: Automatically classifies and applies metadata to your notes.
-downloads: 292
+downloads: 332
 funding_page: buymeacoffee.com/gobeumsu9
 mobile: true
 number: 1957

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bjsi/incremental-writing
 categories: []
 description: Incrementally review notes and blocks over time.
-downloads: 11108
+downloads: 11137
 mobile: false
 number: 160
 title: Incremental Writing

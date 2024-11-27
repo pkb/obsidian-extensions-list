@@ -7,7 +7,7 @@ author_page: https://github.com/singh-inder
 categories: []
 description: Upload images to your GitHub secret Gists. Also, resize uploaded images
   on the fly.
-downloads: 239
+downloads: 252
 funding_page: https://buymeacoffee.com/_inder1
 mobile: true
 number: 1810

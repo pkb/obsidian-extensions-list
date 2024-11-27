@@ -7,7 +7,7 @@ author_page: https://github.com/LifeFi
 categories: []
 description: Quickly jump between list items and headings throughout same or upper/lower
   level
-downloads: 556
+downloads: 573
 mobile: true
 number: 1653
 title: Cursor Jump

@@ -7,7 +7,7 @@ author_page: https://github.com/mgmeyers/obsidian-smart-typography
 categories: []
 description: Converts quotes to curly quotes, dashes to em dashes, and periods to
   ellipses
-downloads: 86589
+downloads: 87619
 mobile: true
 number: 200
 title: Smart Typography

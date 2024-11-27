@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/akopdev
 categories: []
 description: Store and visualise ASCII graphics and charts
-downloads: 85
+downloads: 168
 mobile: true
 number: 1999
 title: Textgrams

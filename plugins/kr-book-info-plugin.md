@@ -6,7 +6,7 @@ author:
 author_page: github.com/kmsk99
 categories: []
 description: A plugin that crawls Yes24 to get book information.
-downloads: 11128
+downloads: 11220
 mobile: true
 number: 495
 title: KoreanBook Info Plugin

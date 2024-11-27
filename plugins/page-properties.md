@@ -6,7 +6,7 @@ author:
 author_page: https://necauqua.dev
 categories: []
 description: Render page properties similar to Logseq
-downloads: 6661
+downloads: 6692
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/necauqua
   Ko-Fi: https://ko-fi.com/necauqua

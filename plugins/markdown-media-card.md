@@ -7,7 +7,7 @@ author_page: https://zhouhua.site
 categories: []
 description: Insert media information cards in Markdown, such as books, music, movies,
   etc.
-downloads: 1732
+downloads: 1768
 mobile: true
 number: 1516
 title: Markdown Media Card

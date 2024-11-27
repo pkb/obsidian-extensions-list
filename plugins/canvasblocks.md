@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Kay607
 categories: []
 description: Execute scripts from canvas
-downloads: 908
+downloads: 937
 mobile: false
 number: 1637
 title: Canvas Blocks

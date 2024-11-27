@@ -7,7 +7,7 @@ author_page: https://github.com/DylanGiesberts
 categories: []
 description: Converts markdown checkboxes in tables to HTML, and reflects the state
   upon (un)checking them.
-downloads: 8734
+downloads: 8880
 mobile: true
 number: 1199
 title: Markdown table checkboxes

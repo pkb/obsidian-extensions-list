@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/BogdanCodreanu
 categories: []
 description: Helps with some MOC janitor-linking tasks.
-downloads: 155
+downloads: 266
 funding_page: https://buymeacoffee.com/bogdancod
 mobile: false
 number: 1983
 title: MOC Link Helper
 type: plugin
-updated: '2024-11-14T15:28:43'
+updated: '2024-11-19T18:18:03'
 url: https://github.com/BogdanCodreanu/obsidian-moc-link-helper
-version: 1.1.9
+version: 1.1.11
 ---
 
 %% README_START %%

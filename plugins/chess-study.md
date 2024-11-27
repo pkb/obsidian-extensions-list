@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/chrislicodes
 categories: []
 description: A chess study helper and PGN viewer/editor.
-downloads: 5291
+downloads: 5322
 mobile: false
 number: 943
 title: Chess Study

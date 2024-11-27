@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/thiagocoutinhor
 categories: []
 description: Displays Pathfinder 2E action icons easily
-downloads: 5526
+downloads: 5606
 mobile: true
 number: 997
 title: Pathfinder 2E Action Icons

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AndyReifman
 categories: []
 description: Automatically adds links to defined regex.
-downloads: 546
+downloads: 551
 mobile: false
 number: 1624
 title: LinkMagic

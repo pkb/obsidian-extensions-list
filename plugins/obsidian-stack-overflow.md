@@ -6,7 +6,7 @@ author:
 author_page: https://www.bramadams.dev/
 categories: []
 description: Copy and Paste Stack Overflow answers directly into Obsidian.
-downloads: 4091
+downloads: 4093
 mobile: false
 number: 544
 title: Stack Overflow Answers

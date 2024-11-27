@@ -7,7 +7,7 @@ author_page: https://github.com/iamrecursion
 categories: []
 description: Provides a persistent key-value store for use in scripts, along with
   a portable web inspector.
-downloads: 1252
+downloads: 1258
 mobile: true
 number: 1366
 title: Persistent Key-Value Store

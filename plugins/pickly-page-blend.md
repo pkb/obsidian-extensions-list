@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Pickly PageBlend
+- Pickly PageBlend
 author:
-  - Dmitrii Mitrichev at Pickly
+- Dmitrii Mitrichev at Pickly
 author_page: https://pb.pickly.space
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your Obsidian notes in one click
-downloads: 2846
+downloads: 2847
 funding_page: https://ko-fi.com/mitrichev
 mobile: true
 number: 1131
 title: Pickly PageBlend
 type: plugin
-updated: 2023-08-28T06:15:54
+updated: '2023-08-28T06:15:54'
 url: https://github.com/dmitrichev/pickly-page-blend
 version: 1.0.1
 ---

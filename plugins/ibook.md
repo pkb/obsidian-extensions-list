@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bingryan
 categories: []
 description: plugin for apple ibook.
-downloads: 11822
+downloads: 11867
 mobile: false
 number: 826
 title: ibook

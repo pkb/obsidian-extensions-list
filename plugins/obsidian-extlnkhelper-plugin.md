@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/nakalsio/obsidian-danpung
 categories: []
 description: This is a plugin for making entering external links easier.
-downloads: 3955
+downloads: 3959
 mobile: true
 number: 730
 title: External Link Helper

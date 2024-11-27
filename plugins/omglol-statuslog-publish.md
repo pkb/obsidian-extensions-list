@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Omg.publish
+- Omg.publish
 author:
-  - May Meow
+- May Meow
 author_page: https://maymeow.com/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish selected text to omg.lol service.
-downloads: 2004
+downloads: 2008
 funding_page: https://ko-fi.com/D1D5DMOTA
 mobile: true
 number: 1285
 title: Omg.publish
 type: plugin
-updated: 2023-11-25T23:44:15
+updated: '2023-11-25T23:44:15'
 url: https://github.com/MayMeow/obsidian-omglol-statuslog
 version: 1.0.3
 ---

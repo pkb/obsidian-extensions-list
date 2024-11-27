@@ -1,20 +1,22 @@
 ---
 aliases:
-  - Self-hosted LiveSync
+- Self-hosted LiveSync
 author:
-  - vorotamoroz
+- vorotamoroz
 author_page: https://github.com/vrtmrz
 categories:
-  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
-description: Community implementation of self-hosted livesync. Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication.
-downloads: 228681
+- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
+description: Community implementation of self-hosted livesync. Reflect your vault
+  changes to some other devices immediately. Please make sure to disable other synchronize
+  solutions to avoid content corruption or duplication.
+downloads: 233193
 mobile: true
 number: 316
 title: Self-hosted LiveSync
 type: plugin
-updated: 2024-11-11T07:25:09
+updated: '2024-11-21T17:44:01'
 url: https://github.com/vrtmrz/obsidian-livesync
-version: 0.24.1
+version: 0.24.2
 ---
 
 %% README_START %%

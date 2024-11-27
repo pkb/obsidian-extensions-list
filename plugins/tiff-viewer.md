@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ullmannJan
 categories: []
 description: View .tif(f) files by generating duplicates in form of .tif(f).png
-downloads: 1204
+downloads: 1216
 mobile: true
 number: 1465
 title: Tiff Viewer

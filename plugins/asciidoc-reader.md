@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Asciidoc Reader
+- Asciidoc Reader
 author:
-  - voidgrown
+- voidgrown
 author_page: http://www.voidgrown.com/
 categories:
-  - "[[categories/Other formats|Other formats]]"
+- '[[categories/Other formats|Other formats]]'
 description: Enables the rendering of AsciiDoc.
-downloads: 293
+downloads: 302
 mobile: false
 number: 1735
 title: Asciidoc Reader
 type: plugin
-updated: 2024-06-24T13:24:24
+updated: '2024-06-24T13:24:24'
 url: https://github.com/Voidgrown/obsidian-asciidoc
 version: 0.2.0
 ---

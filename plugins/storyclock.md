@@ -6,7 +6,7 @@ author:
 author_page: https://jonzfisher.com
 categories: []
 description: Maps timing onto a storyclock. Inspired by Plot Devices Storyclock.
-downloads: 2232
+downloads: 2248
 funding_page: https://www.buymeacoffee.com/jonzfisher
 mobile: true
 number: 1338

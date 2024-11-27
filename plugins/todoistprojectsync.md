@@ -6,7 +6,7 @@ author:
 author_page: http://jonasdam.com
 categories: []
 description: synchronizes projects from Todoist, creating a note for each.
-downloads: 1189
+downloads: 1327
 mobile: false
 number: 1849
 title: Todoist Project sync

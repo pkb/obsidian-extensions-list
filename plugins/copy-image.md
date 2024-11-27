@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/felipe-ds-lima
 categories: []
 description: Easily copy image from Obsidian to clipboard by right clicking image.
-downloads: 4775
+downloads: 4880
 funding_page: https://www.buymeacoffee.com/felipe.ds.lima
 mobile: true
 number: 1353

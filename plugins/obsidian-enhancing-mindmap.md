@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Enhancing Mindmap
+- Enhancing Mindmap
 author:
-  - Mark
+- Mark
 author_page: https://github.com/MarkMindCkm/obsidian-enhancing-mindmap
 categories:
-  - "[[categories/Mind mapping|Mind mapping]]"
-description: This is a enhancing mindmap plugin for Obsidian. You can edit mindmap on markdown.
-downloads: 170525
+- '[[categories/Mind mapping|Mind mapping]]'
+description: This is a enhancing mindmap plugin for Obsidian. You can edit mindmap
+  on markdown.
+downloads: 171519
 mobile: true
 number: 223
 title: Enhancing Mindmap
 type: plugin
-updated: 2023-08-03T12:21:48
+updated: '2023-08-03T12:21:48'
 url: https://github.com/MarkMindCkm/obsidian-enhancing-mindmap
 version: 0.2.5
 ---

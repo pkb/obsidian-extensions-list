@@ -7,7 +7,7 @@ author_page: https://github.com/andrewmcgivery
 categories: []
 description: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar
   to help with concentration. Also allows you to play your own local music files.
-downloads: 8765
+downloads: 8997
 funding_page: https://www.buymeacoffee.com/andrewmcgivery
 mobile: false
 number: 1362

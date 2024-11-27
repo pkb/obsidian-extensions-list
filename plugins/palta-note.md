@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mrniket
 categories: []
 description: Render Bhatkhande notation for Tabla.
-downloads: 2747
+downloads: 2750
 mobile: true
 number: 1165
 title: Palta Note

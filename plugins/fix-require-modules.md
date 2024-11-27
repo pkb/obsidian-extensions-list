@@ -7,15 +7,15 @@ author_page: https://github.com/mnaoumov/
 categories: []
 description: Fixes require() calls, supporting JavaScript and TypeScript modules,
   enabling easy invocation, and adding code buttons for enhanced scripting capabilities
-downloads: 1456
+downloads: 1509
 funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: false
 number: 1445
 title: Fix Require Modules
 type: plugin
-updated: '2024-11-14T08:30:12'
+updated: '2024-11-21T13:40:20'
 url: https://github.com/mnaoumov/obsidian-fix-require-modules
-version: 5.2.2
+version: 6.1.0
 ---
 
 %% README_START %%

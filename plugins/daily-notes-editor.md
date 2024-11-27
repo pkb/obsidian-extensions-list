@@ -7,7 +7,7 @@ author_page: https://obsidian.md
 categories: []
 description: Edit a bunch of daily notes in one page(inline), which works similar
   to Roam Research's default daily note view.
-downloads: 16865
+downloads: 17050
 mobile: true
 number: 687
 title: Daily Notes Editor

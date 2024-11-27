@@ -7,7 +7,7 @@ author_page: https://github.com/mossy1022
 categories: []
 description: Create personalized and intelligent analysis, summaries, and more for
   audio recordings that can be imported or spoken directly into a note
-downloads: 3422
+downloads: 3562
 funding_page: https://buymeacoffee.com/evansoasis
 mobile: true
 number: 1740

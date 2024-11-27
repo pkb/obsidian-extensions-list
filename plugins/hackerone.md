@@ -7,7 +7,7 @@ author_page: https://blog.neolex.dev
 categories: []
 description: Unofficial plugin to fetch your bug reports from HackerOne. (needs dataview
   plugin)
-downloads: 3419
+downloads: 3423
 mobile: true
 number: 958
 title: HackerOne

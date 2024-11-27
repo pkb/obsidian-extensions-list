@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Vinzent03
 categories: []
 description: Advanced modes for Obsidian URI
-downloads: 361439
+downloads: 365990
 funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 143

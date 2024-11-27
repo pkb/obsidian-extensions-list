@@ -7,7 +7,7 @@ author_page: https://github.com/marc0l92
 categories: []
 description: This plugin allows you to track the progress of Atlassian Jira issues
   from your Obsidian notes.
-downloads: 28015
+downloads: 28267
 funding_page: https://ko-fi.com/marc0l92
 mobile: true
 number: 476

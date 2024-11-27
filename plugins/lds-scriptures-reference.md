@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pacokwon
 categories: []
 description: Easily insert references to LDS scriptures
-downloads: 3365
+downloads: 3369
 mobile: false
 number: 1014
 title: LDS Scriptures Reference

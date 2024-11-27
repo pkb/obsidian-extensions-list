@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/shu307
 categories: []
 description: Sort your navigation items by Markdown frontmatter.
-downloads: 35
+downloads: 73
 mobile: false
 number: 1981
 title: Nav Weight
 type: plugin
-updated: '2024-11-03T08:17:57'
+updated: '2024-11-19T11:53:36'
 url: https://github.com/shu307/obsidian-nav-weight
-version: 1.1.2
+version: 1.1.3
 ---
 
 %% README_START %%

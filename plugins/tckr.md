@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Git-Sum
 categories: []
 description: Get your TickTicks!
-downloads: 2108
+downloads: 2111
 mobile: false
 number: 1290
 title: tckr

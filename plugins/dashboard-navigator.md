@@ -7,14 +7,14 @@ author_page: https://github.com/drbap
 categories: []
 description: Vault dashboard and navigator. Show recent files by type, files per day,
   week, month, search files by name, date, tags and more.
-downloads: 11544
+downloads: 13534
 mobile: true
 number: 1819
 title: Dashboard navigator
 type: plugin
-updated: '2024-11-18T04:11:54'
+updated: '2024-11-27T06:19:40'
 url: https://github.com/drbap/dashboard-navigator-for-obsidian
-version: 5.2.0
+version: 5.3.0
 ---
 
 %% README_START %%

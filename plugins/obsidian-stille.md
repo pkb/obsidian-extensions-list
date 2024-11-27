@@ -6,7 +6,7 @@ author:
 author_page: https://michaelsoolee.com
 categories: []
 description: Focus on your writing, a section at a time.
-downloads: 25092
+downloads: 25235
 funding_page:
   Buy me a slice of pizza: https://michaellee.gumroad.com/l/buy-michael-pizza
 mobile: true

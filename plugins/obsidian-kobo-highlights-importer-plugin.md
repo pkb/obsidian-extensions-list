@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/OGKevin
 categories: []
 description: Import highlights from your Kobo device
-downloads: 7735
+downloads: 7770
 mobile: false
 number: 447
 title: Kobo Highlights Importer

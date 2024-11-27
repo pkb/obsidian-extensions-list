@@ -8,7 +8,7 @@ categories: []
 description: Replace/substitute the symbols with actual symbols you commonly type.
   It also works for emojis shortcuts, abbreviations, greek letters, math symbols or
   other snippets/aliases you define
-downloads: 2595
+downloads: 2704
 mobile: true
 number: 1827
 title: Enhanced Symbols Prettifier

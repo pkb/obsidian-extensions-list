@@ -7,7 +7,7 @@ author_page: https://www.henri-jamet.com/
 categories: []
 description: Explore your Obsidian vault by adding or ignoring linked notes, generating
   a customizable canvas with note sorting and section exclusion.
-downloads: 566
+downloads: 598
 funding_page: https://www.henri-jamet.com/
 mobile: true
 number: 1864

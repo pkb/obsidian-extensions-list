@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/polyipseity
 categories: []
 description: Integrate consoles, shells, and terminals inside Obsidian.
-downloads: 27834
+downloads: 28125
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/polyipseity
   GitHub Sponsors: https://github.com/sponsors/polyipseity

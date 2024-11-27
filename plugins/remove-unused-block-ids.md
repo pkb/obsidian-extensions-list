@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/isdmg
 categories: []
 description: Remove unused block ids in your vault.
-downloads: 175
+downloads: 183
 mobile: true
 number: 1910
 title: Remove Unused Block IDs

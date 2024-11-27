@@ -7,7 +7,7 @@ author_page: https://iulianonofrei.com
 categories: []
 description: Scrape different webpages, builds lists with the items as Markdown tables,
   and allows you to track their status.
-downloads: 1632
+downloads: 1656
 funding_page: https://paypal.me/IulianOnofrei
 mobile: true
 number: 1469

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MohrJonas/obsidian-ocr
 categories: []
 description: Add ocr capabilities to obsidian
-downloads: 15048
+downloads: 15176
 funding_page: https://ko-fi.com/mohrjonas
 mobile: false
 number: 640

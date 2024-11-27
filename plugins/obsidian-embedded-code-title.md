@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tadashi-aikawa
 categories: []
 description: This is an Obsidian plugin which can embeds title to code blocks.
-downloads: 12927
+downloads: 12970
 mobile: true
 number: 231
 title: Embedded Code Title

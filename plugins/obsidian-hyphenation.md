@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/7596ff
 categories: []
 description: Enables justified text and hyphenation
-downloads: 6502
+downloads: 6568
 mobile: true
 number: 756
 title: Hyphenation

@@ -7,7 +7,7 @@ author_page: https://github.com/MediosZ
 categories: []
 description: Converts your notes into nested folders, automatically creating separate
   files for each subheading.
-downloads: 3170
+downloads: 3184
 mobile: true
 number: 1332
 title: Subdivider

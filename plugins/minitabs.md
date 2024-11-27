@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ssjy1919
 categories: []
 description: Customize a set of nested tabs through code blocks.
-downloads: 2484
+downloads: 2493
 mobile: true
 number: 1308
 title: Minitabs

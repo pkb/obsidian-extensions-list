@@ -10,7 +10,7 @@ description: The Unfilled Stats Highlighter is a practical Obsidian plugin desig
   prefixing unfilled stats, making them easier to spot and fill out. This plugin is
   perfect for users who frequently work with templates and require a quick and easy
   way to locate and complete missing information.
-downloads: 3460
+downloads: 3463
 mobile: true
 number: 859
 title: Unfilled Stats Highlighter

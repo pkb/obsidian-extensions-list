@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kdnk
 categories: []
 description: Display the hierarchy instead of just the file name.
-downloads: 209
+downloads: 221
 mobile: true
 number: 1920
 title: Hierarchy

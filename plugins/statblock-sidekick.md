@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/n21rl
 categories: []
 description: Create and expand D&D 5e statblocks.
-downloads: 1445
+downloads: 1511
 funding_page: ko-fi.com/n21rl
 mobile: true
 number: 1681

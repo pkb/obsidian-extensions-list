@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mister-mcgee
 categories: []
 description: Use --magic-- to render inline text as blank line(s) instead.
-downloads: 3469
+downloads: 3475
 mobile: true
 number: 1047
 title: Fill in the Blank (FITB)

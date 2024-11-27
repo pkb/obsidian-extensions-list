@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/skztr
 categories: []
 description: adds a Copy button to the top of Headed sections
-downloads: 92
+downloads: 176
 mobile: true
 number: 1947
 title: Copy Section
 type: plugin
-updated: '2024-09-27T23:22:14'
+updated: '2024-11-22T19:54:22'
 url: https://github.com/skztr/obsidian-plugin-section-copy
-version: 1.1.2
+version: 1.2.1
 ---
 
 %% README_START %%

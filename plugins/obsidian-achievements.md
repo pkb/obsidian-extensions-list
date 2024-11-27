@@ -6,7 +6,7 @@ author:
 author_page: https://zachyoung.dev
 categories: []
 description: Add achievements to Obsidian.
-downloads: 5666
+downloads: 5687
 funding_page: https://github.com/sponsors/Zachatoo
 mobile: true
 number: 683

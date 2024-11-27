@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vslinko
 categories: []
 description: Zoom into heading and lists.
-downloads: 91973
+downloads: 92260
 mobile: true
 number: 186
 title: Zoom

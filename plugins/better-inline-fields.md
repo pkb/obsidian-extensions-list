@@ -6,7 +6,7 @@ author:
 author_page: https://sarman.work
 categories: []
 description: Obsidian plugin to enhance Dataview style inline fields
-downloads: 9543
+downloads: 9570
 mobile: true
 number: 580
 title: Better Inline Fields

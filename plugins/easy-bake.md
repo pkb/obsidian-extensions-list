@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgmeyers
 categories: []
 description: Easily compile many Obsidian notes down to a single file.
-downloads: 5738
+downloads: 5812
 funding_page: https://www.buymeacoffee.com/mgme
 mobile: true
 number: 1060

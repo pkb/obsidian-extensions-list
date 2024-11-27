@@ -7,7 +7,7 @@ author_page: https://github.com/shmolf
 categories: []
 description: This allows you to specify a remote URL as the background image, and
   a few settings to tweak the experience.
-downloads: 8351
+downloads: 8464
 mobile: true
 number: 972
 title: Background Image

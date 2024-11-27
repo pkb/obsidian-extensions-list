@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/moeyua
 categories: []
 description: 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。
-downloads: 984
+downloads: 1025
 mobile: true
 number: 1664
 title: heti

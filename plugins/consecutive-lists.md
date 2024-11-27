@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jtucker2
 categories: []
 description: Create consecutive lists that are displayed separately in reading mode.
-downloads: 1199
+downloads: 1202
 mobile: true
 number: 1390
 title: Consecutive Lists

@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md/about
 categories: []
 description: Hover on external links to see the destination URL.
-downloads: 6731
+downloads: 6748
 mobile: false
 number: 266
 title: Hover External Link Plugin

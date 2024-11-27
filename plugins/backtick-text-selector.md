@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/cool-RR
 categories: []
 description: Select text between backticks with keyboard shortcuts.
-downloads: 141
+downloads: 145
 mobile: true
 number: 1874
 title: Backtick text selector

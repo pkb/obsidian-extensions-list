@@ -7,14 +7,14 @@ author_page: https://github.com/dbrockman
 categories: []
 description: Plugin to let you change the case (UPPER CASE, camelCase, snake_case,
   etc) of the current selection.
-downloads: 15734
+downloads: 16373
 mobile: true
 number: 1146
 title: Change Case
 type: plugin
-updated: '2024-11-15T13:00:33'
+updated: '2024-11-26T15:55:57'
 url: https://github.com/dbrockman/obsidian-change-case
-version: 2.0.130
+version: 2.0.136
 ---
 
 %% README_START %%

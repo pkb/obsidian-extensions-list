@@ -7,7 +7,7 @@ author_page: https://github.com/mgeduld/obsidian-tagged-documents-viewer
 categories: []
 description: Opens a modal with scrollable content of all documents that contain a
   specific tag or tags.
-downloads: 30992
+downloads: 31239
 mobile: true
 number: 578
 title: Tagged Documents Viewer

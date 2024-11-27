@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgussekloo
 categories: []
 description: Autofocus the editor when opening a new file.
-downloads: 2301
+downloads: 2313
 mobile: true
 number: 1258
 title: Editor Autofocus

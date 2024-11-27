@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/shoedler
 categories: []
 description: Find possible backlinks in your notes.
-downloads: 6743
+downloads: 6765
 mobile: true
 number: 902
 title: Crossbow

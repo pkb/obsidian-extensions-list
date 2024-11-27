@@ -6,7 +6,7 @@ author:
 author_page: https://grosinger.net
 categories: []
 description: Improved table navigation, formatting, manipulation, and formulas
-downloads: 1891252
+downloads: 1912079
 funding_page:
   Buy me a Coffee: https://buymeacoffee.com/tgrosinger
   Github Sponsor: https://github.com/sponsors/tgrosinger

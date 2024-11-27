@@ -6,7 +6,7 @@ author:
 author_page: https://www.github.com/Xmoncoco
 categories: []
 description: add anime data for your notes
-downloads: 1031
+downloads: 1049
 funding_page: https://ko-fi.com/xmoncocox
 mobile: true
 number: 1605

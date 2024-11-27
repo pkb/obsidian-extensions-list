@@ -7,7 +7,7 @@ author_page: https://github.com/mwoz123/
 categories: []
 description: Allows to create single file archive/trash and merge(archive) old notes
   with it.
-downloads: 2472
+downloads: 2477
 mobile: true
 number: 1231
 title: Archive/trash to single note

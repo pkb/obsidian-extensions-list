@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/cabra-arretado
 categories: []
 description: Set Vim keybiddings via .vimrc file.
-downloads: 3682
+downloads: 3711
 mobile: true
 number: 1205
 title: Mini Vimrc

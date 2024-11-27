@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/gapmiss
 categories: []
 description: Client-side code editor playground - Powered by LiveCodes
-downloads: 952
+downloads: 960
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/gapmiss
   Github Sponsors: https://github.com/sponsors/gapmiss

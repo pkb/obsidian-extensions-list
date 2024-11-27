@@ -7,7 +7,7 @@ author_page: https://davistobias.com
 categories: []
 description: Adds a badge to Getting Things Done (GTD) "project" files with no defined
   next step.
-downloads: 3905
+downloads: 3917
 mobile: true
 number: 1055
 title: GTD No Next Step

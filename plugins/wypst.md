@@ -6,7 +6,7 @@ author:
 author_page: https://0xpapercut.github.io
 categories: []
 description: Typst math typesetting for Obsidian.
-downloads: 1903
+downloads: 1934
 funding_page: https://0xpapercut.github.io/funding
 mobile: true
 number: 1423

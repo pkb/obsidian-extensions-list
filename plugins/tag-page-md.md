@@ -7,7 +7,7 @@ author_page: https://matthewsumpter.org
 categories: []
 description: Dynamically generate and update tag-specific pages, offering a consolidated
   view of each tag's references across your vault.
-downloads: 6477
+downloads: 6555
 funding_page: https://www.buymeacoffee.com/buymeacofftu
 mobile: true
 number: 1159

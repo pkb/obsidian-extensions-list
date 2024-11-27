@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/paddan/code-block-plugin
 categories: []
 description: This plugin converts text into code blocks with automatic language detection.
-downloads: 9130
+downloads: 9208
 mobile: true
 number: 542
 title: Code Block

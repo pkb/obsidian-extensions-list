@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/sameersismail
 categories: []
 description: Write continuously—or lose all progress.
-downloads: 4298
+downloads: 4307
 mobile: false
 number: 825
 title: Perilous Writing

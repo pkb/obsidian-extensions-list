@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Otto-J
 categories: []
 description: Publish your obsidian file to xlog.app
-downloads: 2368
+downloads: 2371
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/ottoj
 mobile: false

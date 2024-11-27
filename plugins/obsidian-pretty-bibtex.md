@@ -6,7 +6,7 @@ author:
 author_page: https://sandrofigo.com
 categories: []
 description: Shows raw BibTeX bibliography entries in a prettier way
-downloads: 7458
+downloads: 7518
 mobile: true
 number: 661
 title: Pretty BibTeX

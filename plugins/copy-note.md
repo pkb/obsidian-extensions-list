@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kzhovn
 categories: []
 description: Augments native Obsidian note copying.
-downloads: 6210
+downloads: 6253
 mobile: true
 number: 292
 title: Enhance Copy Note

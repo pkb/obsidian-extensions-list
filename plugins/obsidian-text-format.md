@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Text Format
+- Text Format
 author:
-  - Benature
+- Benature
 author_page: https://github.com/Benature
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: Format text such as lowercase/uppercase/capitalize/titlecase, converting order/bullet list, removing redundant spaces/newline characters.
-downloads: 149928
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: Format text such as lowercase/uppercase/capitalize/titlecase, converting
+  order/bullet list, removing redundant spaces/newline characters.
+downloads: 150983
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/benature
   微信/支付宝: https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png
@@ -16,7 +17,7 @@ mobile: true
 number: 202
 title: Text Format
 type: plugin
-updated: 2024-07-21T15:37:00
+updated: '2024-07-21T15:37:00'
 url: https://github.com/Benature/obsidian-text-format
 version: 3.1.0
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yekingyan/obsidian-open-in-other-editor
 categories: []
 description: Open current active file in gVim or VScode.
-downloads: 5637
+downloads: 5657
 mobile: false
 number: 595
 title: Open in other editor

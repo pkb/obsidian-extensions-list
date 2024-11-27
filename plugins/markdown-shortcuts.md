@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JulesGuesnon
 categories: []
 description: 'Allows to write markdown from shortcuts (example: >h1 -> #).'
-downloads: 7329
+downloads: 7349
 mobile: true
 number: 435
 title: Markdown shortcuts

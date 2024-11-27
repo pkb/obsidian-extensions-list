@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/phasip/canvas-llm-extender
 categories: []
 description: Let the OpenAI LLVM add nodes to your canvas.
-downloads: 2936
+downloads: 2948
 mobile: true
 number: 1242
 title: Canvas LLM Extender

@@ -7,7 +7,7 @@ author_page: https://github.com/MatthewAlner/obsidian-toggle-case
 categories: []
 description: This is an Obsidian plugin to toggle between `lowercase` `UPPERCASE`
   and `Title Case`
-downloads: 5555
+downloads: 5571
 mobile: true
 number: 721
 title: Toggle Case

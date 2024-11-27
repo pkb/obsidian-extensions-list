@@ -1,18 +1,18 @@
 ---
 aliases:
-  - e-Daiary
+- e-Daiary
 author:
-  - Thomas Campanholi
+- Thomas Campanholi
 author_page: https://github.com/wholetomy/
 categories:
-  - "[[categories/Journalling|Journalling]]"
+- '[[categories/Journalling|Journalling]]'
 description: Creates directories and notes based on the day of the year.
-downloads: 123
+downloads: 128
 mobile: true
 number: 1753
 title: e-Daiary
 type: plugin
-updated: 2024-06-08T18:27:24
+updated: '2024-06-08T18:27:24'
 url: https://github.com/wholetomy/obsidian-e-daiary
 version: 1.0.1
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Signynt
 categories: []
 description: Add a Link to a Heading
-downloads: 4559
+downloads: 4565
 mobile: true
 number: 425
 title: Insert Heading Link

@@ -6,7 +6,7 @@ author:
 author_page: https://www.linkedin.com/in/alincoop/
 categories: []
 description: Dead simple ASCII charts
-downloads: 884
+downloads: 899
 funding_page: https://buymeacoffee.com/alincoop
 mobile: true
 number: 1634

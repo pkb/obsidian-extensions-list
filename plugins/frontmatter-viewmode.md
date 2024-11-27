@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AlexDavies8
 categories: []
 description: Use YAML frontmatter to specify a view mode per note.
-downloads: 1451
+downloads: 1469
 funding_page: https://ko-fi.com/alexdavies
 mobile: true
 number: 1428

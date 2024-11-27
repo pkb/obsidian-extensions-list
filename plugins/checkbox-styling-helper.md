@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jaewonE
 categories: []
 description: Helps you styling checkboxes in preview mode.
-downloads: 1088
+downloads: 1112
 mobile: true
 number: 1759
 title: Checkbox styling helper

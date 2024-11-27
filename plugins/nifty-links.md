@@ -7,7 +7,7 @@ author_page: https://github.com/x-Ai
 categories: []
 description: Generate elegant, Notion-style rich link cards to enhance your note-taking
   experience
-downloads: 6431
+downloads: 6494
 mobile: true
 number: 1120
 title: Nifty Links

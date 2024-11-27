@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/BjarneRentz
 categories: []
 description: Let Google Gemini generator your notes!
-downloads: 745
+downloads: 774
 mobile: true
 number: 1731
 title: Gemini Generator

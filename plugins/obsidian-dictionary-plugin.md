@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/phibr0
 categories: []
 description: This is a simple dictionary for the Obsidian Note-Taking Tool.
-downloads: 169350
+downloads: 170084
 funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 189

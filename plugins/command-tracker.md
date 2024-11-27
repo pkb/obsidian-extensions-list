@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/namikaze-40p
 categories: []
 description: Track the number of times the command is used.
-downloads: 195
+downloads: 207
 mobile: false
 number: 1929
 title: Command Tracker

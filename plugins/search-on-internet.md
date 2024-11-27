@@ -6,7 +6,7 @@ author:
 author_page: https://twitter.com/emilevankrieken
 categories: []
 description: Add context menu items to search the internet within Obsidian.
-downloads: 26099
+downloads: 26160
 mobile: false
 number: 74
 title: Search on Internet

@@ -6,7 +6,7 @@ author:
 author_page: https://yomaru.dev
 categories: []
 description: Run any commands when you save a file in the editor
-downloads: 2153
+downloads: 2166
 funding_page:
   Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
   buymeacoffee: https://www.buymeacoffee.com/yomaru

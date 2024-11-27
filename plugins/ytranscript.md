@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lstrzepek
 categories: []
 description: This is simple plugin to fetch transcription for Youtube.
-downloads: 17881
+downloads: 18106
 mobile: true
 number: 786
 title: YTranscript

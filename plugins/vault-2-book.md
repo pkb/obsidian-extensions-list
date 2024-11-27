@@ -7,7 +7,7 @@ author_page: https://github.com/Mitra98t
 categories: []
 description: Converts your notes to a book creating a single file containing all the
   notes linked
-downloads: 3977
+downloads: 3995
 mobile: true
 number: 1008
 title: Vault 2 Book

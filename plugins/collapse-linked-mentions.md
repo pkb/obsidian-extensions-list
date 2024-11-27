@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/n810K
 categories: []
 description: Automatically collapse embedded backlink mentions
-downloads: 146
+downloads: 163
 mobile: false
 number: 1911
 title: Collapse Linked Mentions

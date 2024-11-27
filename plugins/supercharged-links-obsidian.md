@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Supercharged Links
+- Supercharged Links
 author:
-  - mdelobelle & Emile
+- mdelobelle & Emile
 author_page: https://github.com/mdelobelle/mdelobelle/tree/main
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Add properties and menu options to links and style them!
-downloads: 124476
+downloads: 125111
 mobile: true
 number: 176
 title: Supercharged Links
 type: plugin
-updated: 2024-03-18T21:58:41
+updated: '2024-03-18T21:58:41'
 url: https://github.com/mdelobelle/obsidian_supercharged_links
 version: 0.12.1
 ---

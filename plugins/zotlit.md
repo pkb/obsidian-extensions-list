@@ -1,20 +1,21 @@
 ---
 aliases:
-  - ZotLit
+- ZotLit
 author:
-  - AidenLx
+- AidenLx
 author_page: https://github.com/aidenlx
 categories:
-  - "[[categories/Integration|Integration]]"
-description: Plugin to integrate with Zotero, create literature notes and insert citations from a Zotero library.
-downloads: 25862
+- '[[categories/Integration|Integration]]'
+description: Plugin to integrate with Zotero, create literature notes and insert citations
+  from a Zotero library.
+downloads: 26723
 mobile: false
 number: 1161
 title: ZotLit
 type: plugin
-updated: 2024-07-23T10:44:21
+updated: '2024-11-20T14:21:43'
 url: https://github.com/PKM-er/obsidian-zotlit
-version: 1.1.8
+version: 1.1.9
 ---
 
 %% README_START %%

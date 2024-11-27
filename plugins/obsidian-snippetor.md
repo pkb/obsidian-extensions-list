@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ebullient
 categories: []
 description: Create and tweak common snippets (starting with custom tasks)
-downloads: 8376
+downloads: 8406
 mobile: true
 number: 402
 title: Snippetor

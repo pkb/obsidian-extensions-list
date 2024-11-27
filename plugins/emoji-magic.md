@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/simplgy
 categories: []
 description: "Easily add emoji, with a powerful keyword search. \U0001F52E ✨ \U0001F407"
-downloads: 13214
+downloads: 13351
 mobile: true
 number: 819
 title: Emoji Magic

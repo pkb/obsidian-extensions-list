@@ -6,7 +6,7 @@ author:
 author_page: https://freedomwithtruth.com/
 categories: []
 description: Covert text to natural voice audio, locally - Listen Up!
-downloads: 475
+downloads: 505
 mobile: false
 number: 1854
 title: Listen Up!

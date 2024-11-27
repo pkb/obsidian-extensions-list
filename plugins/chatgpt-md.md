@@ -6,7 +6,7 @@ author:
 author_page: https://www.bramadams.dev
 categories: []
 description: A (nearly) seamless integration of ChatGPT into Obsidian.
-downloads: 37775
+downloads: 38038
 funding_page: https://www.bramadams.dev/#/portal/
 mobile: true
 number: 822

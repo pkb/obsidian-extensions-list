@@ -1,21 +1,22 @@
 ---
 aliases:
-  - simple-sketch
+- simple-sketch
 author:
-  - Yoh
+- Yoh
 author_page: https://github.com/Yohh
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
-description: Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image.
-downloads: 681
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
+description: Create minimalist sketches in a dedicated view, draw with a pencil, generate
+  shapes, add text, save it to the vault or download it as an image.
+downloads: 748
 funding_page: https://buymeacoffee.com/yohh
 mobile: false
 number: 1879
 title: simple-sketch
 type: plugin
-updated: 2024-09-04T17:43:20
+updated: '2024-11-26T21:49:58'
 url: https://github.com/Yohh/obsidian-simple-sketch
-version: 1.0.8
+version: 1.0.9
 ---
 
 %% README_START %%

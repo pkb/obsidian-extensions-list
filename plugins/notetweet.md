@@ -6,7 +6,7 @@ author:
 author_page: https://bagerbach.com/
 categories: []
 description: This plugin allows you to post tweets directly from Obsidian.
-downloads: 6051
+downloads: 6065
 mobile: true
 number: 118
 title: "NoteTweet\U0001F426"

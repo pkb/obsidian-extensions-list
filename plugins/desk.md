@@ -6,7 +6,7 @@ author:
 author_page: https://blog.dlandry.xyz
 categories: []
 description: A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency.
-downloads: 3075
+downloads: 3093
 funding_page: https://ko-fi.com/davidlandry
 mobile: false
 number: 1313

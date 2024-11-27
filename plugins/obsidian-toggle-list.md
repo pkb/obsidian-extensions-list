@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/thingnotok/obsidian-toggle-list/
 categories: []
 description: Toggle the list/checklist with custom states/prefixes and suffixes
-downloads: 14352
+downloads: 14462
 mobile: true
 number: 618
 title: ToggleList

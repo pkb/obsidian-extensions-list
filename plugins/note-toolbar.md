@@ -6,7 +6,7 @@ author:
 author_page: https://chrisgurney.ca
 categories: []
 description: Add customizable toolbars to your notes.
-downloads: 38897
+downloads: 39484
 funding_page: https://www.buymeacoffee.com/cheznine
 mobile: true
 number: 1566

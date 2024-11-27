@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tmcw
 categories: []
 description: Make visualizations and run arbitrary code with JavaScript + iframe blocks.
-downloads: 472
+downloads: 485
 mobile: true
 number: 1674
 title: Freeform

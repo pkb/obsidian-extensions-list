@@ -7,7 +7,7 @@ author_page: https://github.com/edonyzpc
 categories: []
 description: Streamline workflows within Obsidian, managing memos and plugins with
   just one command.
-downloads: 11229
+downloads: 11304
 mobile: false
 number: 912
 title: Personal Assistant

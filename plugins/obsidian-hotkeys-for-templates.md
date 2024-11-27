@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Vinzent03
 categories: []
 description: Add hotkeys to insert specific templates
-downloads: 24374
+downloads: 24505
 mobile: true
 number: 141
 title: Hotkeys for templates

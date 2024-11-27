@@ -7,7 +7,7 @@ author_page: https://github.com/moolmanruan
 categories: []
 description: This plugin allows you to set hotkeys with key sequences instead of a
   single chord.
-downloads: 6064
+downloads: 6086
 mobile: true
 number: 528
 title: Sequence Hotkeys

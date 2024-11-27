@@ -7,7 +7,7 @@ author_page: yeeshue99.github.io
 categories: []
 description: A plug and play solution that allows you to average and simulate dice
   formulas.
-downloads: 4991
+downloads: 5017
 mobile: true
 number: 535
 title: Simple Dice Roller

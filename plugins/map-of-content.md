@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content
 categories: []
 description: Automatically generate a Map of Content for your vault
-downloads: 35786
+downloads: 35908
 mobile: true
 number: 309
 title: Map of Content

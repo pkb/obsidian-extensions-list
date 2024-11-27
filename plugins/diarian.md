@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Diarian
+- Diarian
 author:
-  - Erika Gozar
+- Erika Gozar
 author_page: https://github.com/Erallie
 categories:
-  - "[[categories/Journalling|Journalling]]"
+- '[[categories/Journalling|Journalling]]'
 description: All-in-one journaling toolkit.
-downloads: 1369
+downloads: 1465
 mobile: true
 number: 1885
 title: Diarian
 type: plugin
-updated: 2024-10-13T22:14:47
+updated: '2024-10-13T22:14:47'
 url: https://github.com/Erallie/diarian
 version: 1.2.11
 ---

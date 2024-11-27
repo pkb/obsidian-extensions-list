@@ -7,7 +7,7 @@ author_page: https://github.com/bhagyas
 categories: []
 description: This plugin provides postfix completions for Obsidian. The built-in completions
   are provided for markdown.
-downloads: 3011
+downloads: 3015
 funding_page:
   Buy me a Coffee: https://www.buymeacoffee.com/bhagyas
   Say Hello on LinkedIn: https://linkedin.com/in/bhagyas

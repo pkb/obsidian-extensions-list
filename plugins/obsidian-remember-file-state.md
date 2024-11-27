@@ -6,7 +6,7 @@ author:
 author_page: https://ludovic.chabant.com
 categories: []
 description: Remembers cursor position, selection, scrolling, and more for each file
-downloads: 10735
+downloads: 10803
 mobile: true
 number: 433
 title: Remember File State

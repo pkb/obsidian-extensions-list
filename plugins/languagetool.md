@@ -7,14 +7,14 @@ author:
 author_page: https://github.com/wrenger
 categories: []
 description: Unofficial integration of the LanguageTool spell and grammar checker.
-downloads: 4636
+downloads: 5260
 mobile: true
 number: 1785
 title: LanguageTool
 type: plugin
-updated: '2024-10-29T15:54:13'
+updated: '2024-11-24T03:53:14'
 url: https://github.com/wrenger/obsidian-languagetool
-version: 1.0.10
+version: 1.0.12
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/TfTHacker/
 categories: []
 description: Integrating help systems into the Obsidian UI.
-downloads: 6215
+downloads: 6425
 funding_page:
   Support my work: https://tfthacker.com/sponsor
 mobile: true

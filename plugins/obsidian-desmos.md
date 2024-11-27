@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Nigecat
 categories: []
 description: Embed Desmos graphs into your notes
-downloads: 15274
+downloads: 15444
 mobile: true
 number: 468
 title: Desmos

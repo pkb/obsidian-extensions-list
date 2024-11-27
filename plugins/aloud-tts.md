@@ -7,7 +7,7 @@ author_page: https://github.com/adrianlyjak
 categories: []
 description: Highlight and speak text from your notes. Converts text to speech in
   real-time using lifelike voices from OpenAI.
-downloads: 4792
+downloads: 4884
 mobile: true
 number: 1407
 title: Aloud

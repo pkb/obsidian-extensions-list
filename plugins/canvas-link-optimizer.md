@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/khaelar
 categories: []
 description: Optimize canvas links by displaying a page thumbnail.
-downloads: 2574
+downloads: 2626
 mobile: false
 number: 1459
 title: Canvas Link Optimizer

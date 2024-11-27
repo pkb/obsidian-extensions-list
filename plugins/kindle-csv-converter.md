@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Kindle CSV Converter
+- Kindle CSV Converter
 author:
-  - Álvaro
+- Álvaro
 author_page: https://medium.com/@cuatroy2
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import your Kindle notes in .csv format to Obsidian.
-downloads: 4223
+downloads: 4235
 funding_page: https://liberapay.com/Cuatroy2/donate
 mobile: false
 number: 799
 title: Kindle CSV Converter
 type: plugin
-updated: 2024-05-02T10:57:58
+updated: '2024-05-02T10:57:58'
 url: https://github.com/alvaro-cas/kindle-csv-converter-obsidian
 version: 1.2.1
 ---

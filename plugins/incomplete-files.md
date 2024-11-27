@@ -6,7 +6,7 @@ author:
 author_page: https://yomaru.dev
 categories: []
 description: Rule based keep track of your incomplete files
-downloads: 2388
+downloads: 2403
 funding_page:
   Github Sponsor: https://github.com/sponsors/HananoshikaYomaru
   buymeacoffee: https://www.buymeacoffee.com/yomaru

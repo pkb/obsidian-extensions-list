@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Shreshth-mehra
 categories: []
 description: A Movie and TV show tracker.
-downloads: 1982
+downloads: 2003
 funding_page: https://www.buymeacoffee.com/shreshthmehra
 mobile: true
 number: 1424

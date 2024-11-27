@@ -7,7 +7,7 @@ author_page: https://www.luisjguzman.com/
 categories: []
 description: An Obsidian plugin for rendering guitar tablature and music notation
   using Vextab.
-downloads: 4310
+downloads: 4330
 mobile: true
 number: 815
 title: Vextab

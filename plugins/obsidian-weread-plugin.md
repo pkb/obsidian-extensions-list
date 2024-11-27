@@ -6,7 +6,7 @@ author:
 author_page: https://zhaohongxuan.github.io
 categories: []
 description: This is obsidian plugin for Tencent weread.
-downloads: 77578
+downloads: 78118
 mobile: true
 number: 557
 title: Weread

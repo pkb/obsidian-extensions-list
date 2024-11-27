@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bkis/obsidian-hard-breaks
 categories: []
 description: Turn soft line breaks in Markdown into hard line breaks
-downloads: 5470
+downloads: 5489
 mobile: true
 number: 574
 title: Hard Breaks

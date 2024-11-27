@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/StevenGann
 categories: []
 description: Integrating CircuitJS and Obsidian
-downloads: 4236
+downloads: 4247
 mobile: false
 number: 445
 title: Obsidian CircuitJS

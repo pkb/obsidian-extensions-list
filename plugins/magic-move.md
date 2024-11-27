@@ -7,7 +7,7 @@ author_page: https://github.com/imfenghuang
 categories: []
 description: Animating code blocks with markdown and code syntax highlighting with
   beautiful themes.
-downloads: 580
+downloads: 603
 mobile: false
 number: 1802
 title: Magic Move

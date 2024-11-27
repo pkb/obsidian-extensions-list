@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/duoani
 categories: []
 description: This plguin creates a simple Month view for visualizing your punch records.
-downloads: 13366
+downloads: 13443
 mobile: true
 number: 214
 title: Habit Tracker

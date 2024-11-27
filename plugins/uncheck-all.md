@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ShacharHarshuv
 categories: []
 description: This plugin adds a command to uncheck all checkboxes in the current note.
-downloads: 7080
+downloads: 7178
 mobile: true
 number: 1073
 title: Uncheck All

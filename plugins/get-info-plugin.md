@@ -7,7 +7,7 @@ author_page: https://github.com/chetachiezikeuzor
 categories: []
 description: "Get Info is a plugin that tucks a menu inside your status bar and shows
   helpful information for your chosen file \U0001F4C4."
-downloads: 6137
+downloads: 6152
 mobile: false
 number: 374
 title: Get Info

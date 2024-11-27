@@ -7,7 +7,7 @@ author_page: https://github.com/HoBeedzc
 categories: []
 description: Level up your headers, customize your notes. Header Enhancer makes your
   notes header better and more useful.
-downloads: 5229
+downloads: 5263
 funding_page: https://bmc.link/hobee
 mobile: true
 number: 1111

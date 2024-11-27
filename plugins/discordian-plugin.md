@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/radekkozak
 categories: []
 description: Discordian plugin for tweaking Discordian theme
-downloads: 14737
+downloads: 14781
 mobile: true
 number: 66
 title: Discordian Theme

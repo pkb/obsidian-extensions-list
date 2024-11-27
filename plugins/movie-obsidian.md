@@ -6,7 +6,7 @@ author:
 author_page: https://onuraycicek.com.tr
 categories: []
 description: Search for movies and trailers.
-downloads: 6911
+downloads: 6974
 mobile: true
 number: 977
 title: Movie

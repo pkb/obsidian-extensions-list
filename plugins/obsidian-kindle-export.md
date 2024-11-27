@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SimeonLukas
 categories: []
 description: Send .md as .epub to Ereader/Kindle/Pocketbook
-downloads: 8022
+downloads: 8059
 mobile: true
 number: 450
 title: Kindle

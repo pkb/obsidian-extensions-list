@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JichouP
 categories: []
 description: Plugin for using Marp on Obsidian.
-downloads: 10417
+downloads: 10497
 mobile: false
 number: 807
 title: Marp

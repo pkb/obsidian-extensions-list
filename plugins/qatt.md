@@ -7,7 +7,7 @@ author_page: https://github.com/sytone
 categories: []
 description: Execute SQL base queries against your data in Obsidian and render it
   how you want using templates.
-downloads: 6926
+downloads: 6986
 mobile: true
 number: 983
 title: Query all the things

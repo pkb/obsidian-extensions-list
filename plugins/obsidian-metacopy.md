@@ -7,7 +7,7 @@ author_page: https://github.com/Mara-Li
 categories: []
 description: Copy the value of a frontmatter key and allows to create link from it
   using various settings.
-downloads: 4993
+downloads: 4996
 funding_page: https://ko-fi.com/mara__li
 mobile: true
 number: 338

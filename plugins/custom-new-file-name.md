@@ -7,7 +7,7 @@ author_page: https://github.com/homu-konamilk
 categories: []
 description: Enables the creation of new notes with custom formatted names, including
   dynamic datetime stamps.
-downloads: 1599
+downloads: 1613
 mobile: true
 number: 1621
 title: Custom new file name

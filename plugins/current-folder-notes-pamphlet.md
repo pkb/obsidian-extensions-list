@@ -7,7 +7,7 @@ author_page: https://github.com/Caffa
 categories: []
 description: Shows a list of notes in the current folder, and allows you to filter
   the titles to include or exclude notes.
-downloads: 908
+downloads: 919
 funding_page: https://ko-fi.com/pamelawang_mwahacookie
 mobile: true
 number: 1570

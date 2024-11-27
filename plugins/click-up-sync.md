@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/hokim-m/
 categories: []
 description: Manage ClickUp space from notes
-downloads: 588
+downloads: 612
 mobile: false
 number: 1695
 title: ClickUp sync

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Hugo-Persson
 categories: []
 description: Convert your images to Markdown and MathJax
-downloads: 4453
+downloads: 4494
 mobile: false
 number: 1200
 title: Image2LaTEX

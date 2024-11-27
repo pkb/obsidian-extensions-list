@@ -7,7 +7,7 @@ author_page: https://github.com/lengff123
 categories: []
 description: Seamlessly bridge your notes with Cursor, the AI-powered code editor.
   Open notes directly in Cursor to enhance your workflow.
-downloads: 61
+downloads: 108
 mobile: false
 number: 1980
 title: Cursor Bridge

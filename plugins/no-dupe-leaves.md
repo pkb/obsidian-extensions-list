@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Don't reopen notes that are already open
-downloads: 10462
+downloads: 10523
 mobile: false
 number: 581
 title: No dupe leaves

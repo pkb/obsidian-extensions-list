@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/scooper4711
 categories: []
 description: Control Syrinscape Online Player from inside of notes.
-downloads: 277
+downloads: 279
 mobile: true
 number: 1741
 title: Syrinscape Online Player

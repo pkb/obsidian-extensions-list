@@ -7,7 +7,7 @@ author_page: https://github.com/NicoNekoru
 categories: []
 description: Vertical headers, merged cells, and custom css tables with advanced table
   compatibility
-downloads: 21529
+downloads: 21926
 funding_page: https://www.buymeacoffee.com/niconekoru
 mobile: true
 number: 1118

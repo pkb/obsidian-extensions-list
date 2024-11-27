@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kursad-k
 categories: []
 description: Edit non-md file types as markdown files
-downloads: 2408
+downloads: 2432
 mobile: true
 number: 1342
 title: open-as-md

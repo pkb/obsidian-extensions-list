@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yefengr
 categories: []
 description: Count the number of words written each day and display it on a calendar.
-downloads: 778
+downloads: 819
 mobile: false
 number: 1841
 title: Daily Statistics

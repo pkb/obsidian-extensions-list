@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jdbrice/obsidian-css-snippets
 categories: []
 description: Load and manage css snippets
-downloads: 15969
+downloads: 16096
 mobile: false
 number: 32
 title: css snippets

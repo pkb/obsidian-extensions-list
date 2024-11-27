@@ -7,7 +7,7 @@ author_page: https://github.com/fnya
 categories: []
 description: Downloads media files(eg. images, PDFs) from the URLs in documents and
   displays the content.
-downloads: 5222
+downloads: 5265
 mobile: false
 number: 1100
 title: Media Sync

@@ -7,7 +7,7 @@ author_page: https://twitter.com/Bailey_Jennings
 categories: []
 description: This is a simple plugin that converts the selected markdown to HTML and
   copies it to the clipboard.
-downloads: 32499
+downloads: 32766
 mobile: true
 number: 410
 title: Copy as HTML

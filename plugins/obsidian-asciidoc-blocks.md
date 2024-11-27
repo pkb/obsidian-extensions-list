@@ -1,19 +1,19 @@
 ---
 aliases:
-  - AsciiDoc Blocks Plugin
+- AsciiDoc Blocks Plugin
 author:
-  - Juracy Filho
+- Juracy Filho
 author_page: https://github.com/juracy/obsidian-asciidoc-blocks
 categories:
-  - "[[categories/Other formats|Other formats]]"
-  - "[[categories/Custom code blocks|Custom code blocks]]"
+- '[[categories/Other formats|Other formats]]'
+- '[[categories/Custom code blocks|Custom code blocks]]'
 description: A plugin to render asciidoc blocks in Obsidian, initially asciidoc tables.
-downloads: 5357
+downloads: 5371
 mobile: true
 number: 479
 title: AsciiDoc Blocks Plugin
 type: plugin
-updated: 2022-04-06T00:45:29
+updated: '2022-04-06T00:45:29'
 url: https://github.com/juracy/obsidian-asciidoc-blocks
 version: 1.0.2
 ---

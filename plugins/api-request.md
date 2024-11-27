@@ -7,7 +7,7 @@ author_page: https://github.com/rooyca
 categories: []
 description: Fetch data from APIs or other sources. Responses in JSON, MD or HTML
   directly in your notes.
-downloads: 8843
+downloads: 8933
 funding_page: https://ko-fi.com/rooyca
 mobile: true
 number: 956

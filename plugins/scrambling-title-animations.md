@@ -7,7 +7,7 @@ author_page: https://github.com/DvorakDwarf
 categories: []
 description: Animates the title of any note you open by scrambling and revealing it
   in several visually appealing ways.
-downloads: 216
+downloads: 234
 funding_page: https://buymeacoffee.com/histidinedwarf
 mobile: false
 number: 1943

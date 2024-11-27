@@ -7,7 +7,7 @@ author_page: https://github.com/conneroisu
 categories: []
 description: This plugin for obsidian aids in the creation of fine-tuning datasets
   for language models.
-downloads: 3604
+downloads: 3607
 mobile: false
 number: 710
 title: Text Dataset Aid

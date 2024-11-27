@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/smikula/obsidian-limelight
 categories: []
 description: Put a spotlight on your active pane
-downloads: 5369
+downloads: 5381
 mobile: true
 number: 328
 title: Limelight

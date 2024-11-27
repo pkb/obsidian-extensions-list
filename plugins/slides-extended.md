@@ -7,7 +7,7 @@ author:
 author_page: https://github.com/ebullient
 categories: []
 description: Create markdown-based presentations using reveal.js
-downloads: 4338
+downloads: 4528
 mobile: false
 number: 1604
 title: Slides Extended

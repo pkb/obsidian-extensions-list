@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/filichev-evgeny
 categories: []
 description: Track news posts from the vk.com groups.
-downloads: 1110
+downloads: 1112
 mobile: true
 number: 1380
 title: Vk group notifier

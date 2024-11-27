@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mariomui
 categories: []
 description: Sort frontmatter recursively
-downloads: 2302
+downloads: 2309
 mobile: false
 number: 1281
 title: Sort Frontmatter

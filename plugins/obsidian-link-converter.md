@@ -6,7 +6,7 @@ author:
 author_page: https://ozan.pl
 categories: []
 description: Scan all your links in the vault and convert them to your desired format.
-downloads: 21416
+downloads: 21541
 mobile: true
 number: 320
 title: Link Converter

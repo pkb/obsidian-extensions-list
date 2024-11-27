@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Hide Folders
+- Hide Folders
 author:
-  - JonasDoesThings
+- JonasDoesThings
 author_page: https://jonasdoesthings.com/
 categories:
-  - "[[categories/UI customization|UI customization]]"
+- '[[categories/UI customization|UI customization]]'
 description: Hides & Toggles configured folders (e.g. attachments folders).
-downloads: 16875
+downloads: 17119
 funding_page: https://www.buymeacoffee.com/jonasdoesthings
 mobile: true
 number: 1000
 title: Hide Folders
 type: plugin
-updated: 2024-06-26T00:30:35
+updated: '2024-06-26T00:30:35'
 url: https://github.com/JonasDoesThings/obsidian-hide-folders
 version: 1.5.1
 ---

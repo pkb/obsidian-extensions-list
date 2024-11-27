@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/quorafind
 categories: []
 description: A plugin allows you to auto add current time to new bullet line.
-downloads: 5011
+downloads: 5022
 mobile: true
 number: 681
 title: New Bullet With Time

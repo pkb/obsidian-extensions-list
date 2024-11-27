@@ -7,7 +7,7 @@ author_page: https://github.com/artisticat1
 categories: []
 description: Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the
   editor
-downloads: 11131
+downloads: 11256
 funding_page: https://ko-fi.com/artisticat
 mobile: true
 number: 839

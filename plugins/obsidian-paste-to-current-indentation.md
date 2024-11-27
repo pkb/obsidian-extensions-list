@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jglev/obsidian-paste-to-current-indentation
 categories: []
 description: Paste content and mark block quotes at any level of indentation.
-downloads: 14687
+downloads: 14777
 mobile: true
 number: 228
 title: Paste Mode

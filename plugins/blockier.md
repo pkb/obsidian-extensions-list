@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Blockier
+- Blockier
 author:
-  - blorbb
+- blorbb
 author_page: https://github.com/blorbb
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extra block editing utilities.
-downloads: 3241
+downloads: 3259
 mobile: true
 number: 1271
 title: Blockier
 type: plugin
-updated: 2024-07-19T12:59:16
+updated: '2024-07-19T12:59:16'
 url: https://github.com/blorbb/obsidian-blockier
 version: 1.1.0
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/jvsteiner
 categories: []
 description: Makes it easy to apply custom mermaid.js themes and apply other tweaks.
   This plugin is supported by advertisements.
-downloads: 7461
+downloads: 7582
 funding_page: https://www.buymeacoffee.com/jvsteiner
 mobile: true
 number: 971

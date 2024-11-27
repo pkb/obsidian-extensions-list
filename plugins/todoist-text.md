@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Todoist Text
+- Todoist Text
 author:
-  - wesmoncrief
+- wesmoncrief
 author_page: https://github.com/wesmoncrief/obsidian-todoist-text
 categories:
-  - "[[categories/Integration|Integration]]"
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Integration|Integration]]'
+- '[[categories/Task management|Task management]]'
 description: This obsidian plugin integrates your Todoist tasks with markdown checkboxes.
-downloads: 12720
+downloads: 12802
 mobile: true
 number: 430
 title: Todoist Text
 type: plugin
-updated: 2023-01-12T10:27:15
+updated: '2023-01-12T10:27:15'
 url: https://github.com/wesmoncrief/obsidian-todoist-text
 version: 1.4.0
 ---

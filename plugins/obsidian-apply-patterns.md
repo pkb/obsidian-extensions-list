@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/publicus
 categories: []
 description: Apply custom patterns of find-and-replace in succession to text.
-downloads: 7698
+downloads: 7715
 mobile: true
 number: 242
 title: Apply Patterns

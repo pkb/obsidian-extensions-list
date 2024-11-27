@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/alangrainger
 categories: []
 description: Adds captions to images when there is alt-text specified
-downloads: 24320
+downloads: 25138
 funding_page: https://ko-fi.com/alan_
 mobile: true
 number: 768

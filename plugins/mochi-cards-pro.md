@@ -7,7 +7,7 @@ author_page: https://hayden.gg
 categories: []
 description: Create flashcards on Mochi.cards using the API provided by Mochi's Pro
   subscription.
-downloads: 2512
+downloads: 2521
 mobile: true
 number: 1223
 title: Mochi Cards Pro

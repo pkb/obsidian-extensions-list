@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/Epiphany-Notes
 categories: []
 description: Synchronize voice notes from the Epiphany app directly into your vault
-downloads: 87
+downloads: 102
 mobile: true
 number: 1901
 title: Epiphany
 type: plugin
-updated: '2024-10-25T15:26:45'
+updated: '2024-11-25T17:50:08'
 url: https://github.com/Epiphany-Notes/epiphany-obsidian-plugin
-version: 1.1.3
+version: 1.1.5
 ---
 
 %% README_START %%

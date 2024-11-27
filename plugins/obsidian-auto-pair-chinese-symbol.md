@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/renmu123/obsidian-auto-pair-chinese-symbol
 categories: []
 description: Auto pair chinese symbol
-downloads: 10711
+downloads: 10734
 mobile: false
 number: 183
 title: Auto pair chinese symbol

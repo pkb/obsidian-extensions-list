@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Clemens-E
 categories: []
 description: Inofficial LanguageTool plugin
-downloads: 207057
+downloads: 208379
 mobile: true
 number: 133
 title: LanguageTool Integration

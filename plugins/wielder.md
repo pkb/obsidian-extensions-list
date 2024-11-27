@@ -6,7 +6,7 @@ author:
 author_page: https://victor.earth
 categories: []
 description: Clojure inside Obsidian
-downloads: 3610
+downloads: 3613
 mobile: true
 number: 547
 title: Wielder

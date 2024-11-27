@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Sync Google Calendar
+- Sync Google Calendar
 author:
-  - Dexin Qi
+- Dexin Qi
 author_page: https://me.dustinksi.cn
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Synchronize events from Google Calendar and manage them like tasks.
-downloads: 8123
+downloads: 8192
 funding_page: https://www.buymeacoffee.com/dexin.qi
 mobile: false
 number: 940
 title: Sync Google Calendar
 type: plugin
-updated: 2023-06-09T07:56:10
+updated: '2023-06-09T07:56:10'
 url: https://github.com/dexin-qi/obsidian-sync-calendar
 version: 1.1.6
 ---

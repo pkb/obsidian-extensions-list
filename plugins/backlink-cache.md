@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/mnaoumov/
 categories: []
 description: Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`
-downloads: 4987
+downloads: 5214
 funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1244
 title: Backlink Cache
 type: plugin
-updated: '2024-11-13T10:40:27'
+updated: '2024-11-21T10:43:11'
 url: https://github.com/mnaoumov/obsidian-backlink-cache
-version: 1.11.4
+version: 1.11.5
 ---
 
 %% README_START %%

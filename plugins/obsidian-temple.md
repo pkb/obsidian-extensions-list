@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/garyng/obsidian-temple
 categories: []
 description: A plugin for templating in Obsidian, powered by Nunjucks.
-downloads: 5195
+downloads: 5204
 mobile: true
 number: 63
 title: Obsidian Temple

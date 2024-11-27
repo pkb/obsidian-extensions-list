@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/erincayaz
 categories: []
 description: Color the selected texts.
-downloads: 102496
+downloads: 104599
 mobile: true
 number: 920
 title: Colored Text

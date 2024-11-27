@@ -7,7 +7,7 @@ author_page: https://github.com/Telehakke
 categories: []
 description: Display 'Jisage' (indenting with a full-width space at the beginning
   of a line) text correctly.
-downloads: 60
+downloads: 83
 mobile: true
 number: 1975
 title: Jisage -Japanese Indentation-

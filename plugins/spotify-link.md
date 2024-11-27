@@ -6,16 +6,16 @@ author:
 author_page: https://studiowebux.com
 categories: []
 description: Include the song you're currently listening to in your note.
-downloads: 3822
+downloads: 3923
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/studiowebux
 mobile: true
 number: 1262
 title: Spotify Link
 type: plugin
-updated: '2024-11-16T07:04:54'
+updated: '2024-11-25T20:04:56'
 url: https://github.com/studiowebux/obsidian-spotify-link
-version: 1.7.0
+version: 1.8.0
 ---
 
 %% README_START %%

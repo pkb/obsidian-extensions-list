@@ -7,14 +7,14 @@ author_page: https://ericmika.com
 categories: []
 description: Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax.
   No fuss.
-downloads: 1042
+downloads: 1132
 mobile: false
 number: 1771
 title: Yanki
 type: plugin
-updated: '2024-09-19T21:31:21'
+updated: '2024-11-19T13:02:16'
 url: https://github.com/kitschpatrol/yanki-obsidian
-version: 1.5.0
+version: 1.5.1
 ---
 
 %% README_START %%

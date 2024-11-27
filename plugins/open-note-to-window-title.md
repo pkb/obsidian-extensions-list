@@ -6,7 +6,7 @@ author:
 author_page: https://jplattel.nl
 categories: []
 description: Allows template-based customization of the app window title
-downloads: 13848
+downloads: 13869
 mobile: true
 number: 102
 title: Custom window title

@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Docxer
+- Docxer
 author:
-  - Developer-Mike
+- Developer-Mike
 author_page: https://github.com/Developer-Mike
 categories:
-  - "[[categories/Import|Import]]"
-description: Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files.
-downloads: 9789
+- '[[categories/Import|Import]]'
+description: Import Word files easily. Adds a preview mode for .docx files and the
+  ability to convert them to markdown (.md) files.
+downloads: 10451
 mobile: true
 number: 1690
 title: Docxer
 type: plugin
-updated: 2024-10-19T15:55:21
+updated: '2024-10-19T15:55:21'
 url: https://github.com/Developer-Mike/obsidian-docxer
 version: 2.1.1
 ---

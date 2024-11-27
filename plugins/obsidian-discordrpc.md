@@ -7,7 +7,7 @@ author_page: https://lukeleppan.com
 categories: []
 description: Update your Discord Status to show your friends what you are working
   on in Obsidian. With Discord Rich Presence.
-downloads: 21725
+downloads: 21906
 mobile: false
 number: 23
 title: Discord Rich Presence

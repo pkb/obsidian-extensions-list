@@ -7,7 +7,7 @@ author_page: https://github.com/smx0
 categories: []
 description: Quickly wrap selected text with HTML tags by using a shortcut or from
   the command palette
-downloads: 4336
+downloads: 4356
 mobile: true
 number: 782
 title: Text Wrapper

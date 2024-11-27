@@ -5,7 +5,7 @@ author: esm7
 author_page: https://github.com/esm7
 categories: []
 description: An interactive map view.
-downloads: 74952
+downloads: 75529
 mobile: true
 number: 219
 title: Map View

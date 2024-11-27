@@ -7,7 +7,7 @@ author_page: https://github.com/cumany/obsidian-floating-toc-plugin
 categories: []
 description: This is a floating Toc plugin that  hovers a table of content  containing
   a header level on the notes sidebar.
-downloads: 64128
+downloads: 64662
 mobile: true
 number: 647
 title: floating toc

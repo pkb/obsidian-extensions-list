@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Ankush-Chander
 categories: []
 description: Link research terms to standard entities
-downloads: 260
+downloads: 265
 funding_page: https://buymeacoffee.com/ankushwatce
 mobile: true
 number: 1765

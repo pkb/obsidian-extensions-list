@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Inline Encrypter
+- Inline Encrypter
 author:
-  - Alexander Cheryomukhin
+- Alexander Cheryomukhin
 author_page: https://github.com/solargate
 categories:
-  - "[[categories/Security and privacy|Security and privacy]]"
+- '[[categories/Security and privacy|Security and privacy]]'
 description: Encrypt secrets in your notes.
-downloads: 3664
+downloads: 3689
 mobile: true
 number: 1238
 title: Inline Encrypter
 type: plugin
-updated: 2023-11-19T08:30:22
+updated: '2023-11-19T08:30:22'
 url: https://github.com/solargate/obsidian-inline-encrypter
 version: 1.1.0
 ---

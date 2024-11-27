@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/heseber/
 categories: []
 description: Fix references in text pasted from Perplexity.
-downloads: 86
+downloads: 155
 mobile: true
 number: 2004
 title: Perplexity Converter

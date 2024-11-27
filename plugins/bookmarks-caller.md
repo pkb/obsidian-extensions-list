@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/namikaze-40p
 categories: []
 description: Easily open bookmarks.
-downloads: 1281
+downloads: 1302
 mobile: true
 number: 1622
 title: Bookmarks Caller

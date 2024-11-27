@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/luxmargos
 categories: []
 description: You can make the background of cards transparent in the Canvas
-downloads: 3310
+downloads: 3354
 funding_page: https://www.buymeacoffee.com/luxmargos
 mobile: true
 number: 1346

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/fnya
 categories: []
 description: Easily remove empty folders.
-downloads: 2768
+downloads: 2776
 mobile: false
 number: 1230
 title: Remove Empty Folders

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AwesomeDog/obsidian-awesome-flashcard
 categories: []
 description: Handy Anki integration for Obsidian.
-downloads: 4664
+downloads: 4677
 mobile: false
 number: 658
 title: Awesome Flashcard

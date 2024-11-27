@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/fabricehong
 categories: []
 description: Create reusable, modular prompts.
-downloads: 64
+downloads: 91
 mobile: true
 number: 1979
 title: PromptCrafter

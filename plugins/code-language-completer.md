@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Stanley-Wang910
 categories: []
 description: Autosuggests and completes codeblock language options based on history.
-downloads: 334
+downloads: 362
 mobile: false
 number: 1907
 title: Code Language Completer

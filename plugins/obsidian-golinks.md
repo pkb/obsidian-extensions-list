@@ -6,7 +6,7 @@ author:
 author_page: https://xavd.id
 categories: []
 description: This is a plugin for Obsidian that renders go/links as clickable links.
-downloads: 3828
+downloads: 3835
 mobile: true
 number: 559
 title: GoLinks

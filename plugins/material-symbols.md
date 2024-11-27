@@ -6,7 +6,7 @@ author:
 author_page: https://www.berane-it.de
 categories: []
 description: This plugin adds the material symbols (outlined) to obsidian
-downloads: 3869
+downloads: 3877
 mobile: true
 number: 800
 title: Material Symbols

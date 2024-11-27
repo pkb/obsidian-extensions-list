@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/skipadu/
 categories: []
 description: Focused on the current line, others faded like a ghost!
-downloads: 9437
+downloads: 9464
 mobile: false
 number: 281
 title: Ghost Fade Focus

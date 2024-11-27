@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Plugin Update Tracker
+- Plugin Update Tracker
 author:
-  - Obsidian
+- Obsidian
 author_page: https://github.com/swar8080/obsidian-plugin-update-tracker
 categories:
-  - "[[categories/Plugin management|Plugin management]]"
+- '[[categories/Plugin management|Plugin management]]'
 description: Know when installed plugins have updates and evaluate the risk of upgrading
-downloads: 83987
+downloads: 85206
 mobile: true
 number: 630
 title: Plugin Update Tracker
 type: plugin
-updated: 2024-10-14T07:11:10
+updated: '2024-10-14T07:11:10'
 url: https://github.com/swar8080/obsidian-plugin-update-tracker
 version: 1.6.0
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/unarray
 categories: []
 description: Generate a file tree using Obsidian callouts.
-downloads: 3043
+downloads: 3051
 mobile: true
 number: 1206
 title: File Tree Generator

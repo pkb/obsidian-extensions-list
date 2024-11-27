@@ -6,7 +6,7 @@ author:
 author_page: stevenzilberberg.com
 categories: []
 description: Quickly format a Azure issue tag as a link to you Azure instance.
-downloads: 261
+downloads: 268
 funding_page: https://www.buymeacoffee.com/kvnfnpycl
 mobile: true
 number: 1629

@@ -6,7 +6,7 @@ author:
 author_page: https://timpeters.net
 categories: []
 description: Allows the user to edit and create .mdx files.
-downloads: 2548
+downloads: 2565
 mobile: true
 number: 1267
 title: Edit MDX

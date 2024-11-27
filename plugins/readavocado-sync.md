@@ -6,7 +6,7 @@ author:
 author_page: https://readavocado.com
 categories: []
 description: Sync your Readavocado highlights with Obsidian
-downloads: 3299
+downloads: 3301
 mobile: true
 number: 632
 title: Readavocado Sync

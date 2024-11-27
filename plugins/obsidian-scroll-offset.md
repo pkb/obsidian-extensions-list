@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lijyze
 categories: []
 description: Preserve minmium distances before and after cursor.
-downloads: 6817
+downloads: 6874
 mobile: false
 number: 491
 title: Scroll Offset

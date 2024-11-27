@@ -7,7 +7,7 @@ author_page: https://github.com/AndreBaltazar8
 categories: []
 description: Canvas Conversation is a plugin that allows you to create a ChatGPT conversation
   using Canvas Cards.
-downloads: 6311
+downloads: 6322
 mobile: false
 number: 767
 title: Canvas Conversation

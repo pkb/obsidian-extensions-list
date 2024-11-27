@@ -6,7 +6,7 @@ author:
 author_page: https://lyon-fnal.github.io
 categories: []
 description: Fill in Daf Yomi pages
-downloads: 4757
+downloads: 4761
 mobile: true
 number: 235
 title: Daf Yomi

@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Send templates to chatgpt when you open a file
-downloads: 6476
+downloads: 6701
 mobile: false
 number: 1472
 title: Prompt ChatGPT

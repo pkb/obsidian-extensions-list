@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: This plugin adds serial numbers to your markdown title.
-downloads: 6254
+downloads: 6268
 mobile: true
 number: 366
 title: Title Serial Number Plugin

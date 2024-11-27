@@ -6,7 +6,7 @@ author:
 author_page: https://publish.obsidian.md/alexisrondeau
 categories: []
 description: Discover the stories between your notes.
-downloads: 19304
+downloads: 19348
 mobile: true
 number: 89
 title: Journey

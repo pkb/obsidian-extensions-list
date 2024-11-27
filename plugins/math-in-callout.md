@@ -7,7 +7,7 @@ author_page: https://github.com/RyotaUshio
 categories: []
 description: Add better Live Preview support for math rendering inside callouts &
   blockquotes.
-downloads: 3921
+downloads: 3984
 funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1327

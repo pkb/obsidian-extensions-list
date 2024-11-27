@@ -7,7 +7,7 @@ author_page: https://github.com/IlgamGabdullin
 categories: []
 description: Type and get in zen mode instantly, no more distraction between you and
   your thoughts
-downloads: 145
+downloads: 239
 mobile: false
 number: 2006
 title: Typezen

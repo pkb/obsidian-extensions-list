@@ -7,7 +7,7 @@ author_page: https://github.com/tim-hub
 categories: []
 description: 'Taking Bible Study note in Obsidian.md application easily. Automatically
   suggesting Bible Verses as references. '
-downloads: 34023
+downloads: 34237
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/tim-hub
 mobile: true

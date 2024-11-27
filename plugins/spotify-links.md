@@ -6,7 +6,7 @@ author:
 author_page: https://cutaiar.io
 categories: []
 description: Insert a link to the song currently playing on your Spotify
-downloads: 2510
+downloads: 2522
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/cutaiar
 mobile: false

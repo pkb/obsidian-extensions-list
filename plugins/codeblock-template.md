@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Codeblock Template
+- Codeblock Template
 author:
-  - Super10
+- Super10
 author_page: https://github.com/sylcool
 categories:
-  - "[[categories/Templates|Templates]]"
+- '[[categories/Templates|Templates]]'
 description: Re-use content within codeblocks using variables.
-downloads: 3064
+downloads: 3070
 mobile: true
 number: 1128
 title: Codeblock Template
 type: plugin
-updated: 2023-06-14T10:18:47
+updated: '2023-06-14T10:18:47'
 url: https://github.com/sylcool/obsidian-codeblock-template
 version: 1.3.1
 ---

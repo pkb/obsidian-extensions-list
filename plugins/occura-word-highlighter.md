@@ -7,7 +7,7 @@ author_page: https://www.linkedin.com/in/sedoykin
 categories: []
 description: Find and highlight all occurrences of selected text in notes, similar
   to Notepad++ or IDEs.
-downloads: 476
+downloads: 588
 mobile: true
 number: 1963
 title: Occura

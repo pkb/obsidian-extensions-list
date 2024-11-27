@@ -7,7 +7,7 @@ author_page: https://github.com/RyotaUshio
 categories: []
 description: Fix issues of the built-in outline view & optionally render markdown
   in it.
-downloads: 1533
+downloads: 1550
 funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1404

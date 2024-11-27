@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ljcoder2015
 categories: []
 description: Create spreadsheets and easily embed them in Markdown
-downloads: 39939
+downloads: 40520
 funding_page: https://ko-fi.com/ljcoder
 mobile: true
 number: 1156

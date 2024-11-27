@@ -7,7 +7,7 @@ author_page: https://zhouhua.site
 categories: []
 description: Integrate vConsole for developers to facilitate the debugging of mobile
   plugins.
-downloads: 1130
+downloads: 1148
 mobile: true
 number: 1576
 title: vConsole

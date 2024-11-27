@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Auto Template Trigger
+- Auto Template Trigger
 author:
-  - Numeroflip
+- Numeroflip
 author_page: https://github.com/numeroflip
 categories:
-  - "[[categories/Automation|Automation]]"
-description: Automatically apply or prompt for a template when creating a note. Supports assigning templates to folders.
-downloads: 14521
+- '[[categories/Automation|Automation]]'
+description: Automatically apply or prompt for a template when creating a note. Supports
+  assigning templates to folders.
+downloads: 14780
 mobile: true
 number: 928
 title: Auto Template Trigger
 type: plugin
-updated: 2024-06-06T14:56:51
+updated: '2024-11-20T04:26:57'
 url: https://github.com/numeroflip/obsidian-auto-template-prompt
 version: 1.2.2
 ---

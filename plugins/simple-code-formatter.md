@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Simple Code Formatter
+- Simple Code Formatter
 author:
-  - SY
+- SY
 author_page: https://github.com/wiop93256
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format the code block where the cursor is.
-downloads: 87
+downloads: 180
 mobile: true
 number: 1974
 title: Simple Code Formatter
 type: plugin
-updated: 2024-11-04T07:56:16
+updated: '2024-11-18T08:45:42'
 url: https://github.com/wiop93256/Simple-Code-Formmater
 version: 1.1.0
 ---

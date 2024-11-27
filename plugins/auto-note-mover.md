@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Auto Note Mover
+- Auto Note Mover
 author:
-  - faru
+- faru
 author_page: https://github.com/farux/
 categories:
-  - "[[categories/Automation|Automation]]"
-description: Auto Note Mover will automatically move the active notes to their respective folders according to the rules.
-downloads: 49323
+- '[[categories/Automation|Automation]]'
+description: Auto Note Mover will automatically move the active notes to their respective
+  folders according to the rules.
+downloads: 50004
 mobile: true
 number: 424
 title: Auto Note Mover
 type: plugin
-updated: 2022-04-16T16:11:22
+updated: '2022-04-16T16:11:22'
 url: https://github.com/farux/obsidian-auto-note-mover
 version: 1.2.0
 ---

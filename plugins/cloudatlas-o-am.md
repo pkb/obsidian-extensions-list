@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Amazing Marvin Integration
+- Amazing Marvin Integration
 author:
-  - Cloud Atlas
+- Cloud Atlas
 author_page: https://cloud-atlas.ai
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Integration with Amazing Marvin
-downloads: 646
+downloads: 655
 mobile: true
 number: 1579
 title: Amazing Marvin Integration
 type: plugin
-updated: 2024-04-09T07:53:56
+updated: '2024-04-09T07:53:56'
 url: https://github.com/cloud-atlas-ai/obsidian-am
 version: 0.9.9
 ---

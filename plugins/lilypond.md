@@ -6,7 +6,7 @@ author:
 author_page: https://businesscard.dot-asterisk.nl
 categories: []
 description: Lilypond support in Obsidian
-downloads: 3499
+downloads: 3515
 mobile: false
 number: 984
 title: Lilypond

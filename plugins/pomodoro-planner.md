@@ -6,7 +6,7 @@ author:
 author_page: https://onurnesvat.com
 categories: []
 description: Generates a pomodoro schedule plan
-downloads: 1808
+downloads: 1832
 mobile: true
 number: 1488
 title: Pomodoro Planner

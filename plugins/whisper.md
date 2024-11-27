@@ -6,7 +6,7 @@ author:
 author_page: https://nikdanilov.com
 categories: []
 description: Speech-to-text in Obsidian using OpenAI Whisper
-downloads: 21249
+downloads: 21544
 funding_page: patreon.com/nikdanilov
 mobile: true
 number: 865

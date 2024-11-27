@@ -6,7 +6,7 @@ author:
 author_page: https://alexccavaco.com
 categories: []
 description: Create Interactive Exercises along side your Obsidian Notes
-downloads: 3738
+downloads: 3758
 funding_page: https://ko-fi.com/alexccavaco
 mobile: true
 number: 1121

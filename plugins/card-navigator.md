@@ -6,7 +6,7 @@ author:
 author_page: wakeyi-git/obsidian-card-navigator-plugin
 categories: []
 description: Navigate your notes visually with card-based interface
-downloads: 279
+downloads: 315
 mobile: true
 number: 1896
 title: Card Navigator

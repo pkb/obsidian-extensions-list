@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/BungaRazvan
 categories: []
 description: Upload files to confluence pages
-downloads: 461
+downloads: 495
 mobile: false
 number: 1834
 title: Confluence Link

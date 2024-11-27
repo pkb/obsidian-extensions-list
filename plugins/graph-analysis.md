@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SkepticMystic/graph-analysis
 categories: []
 description: Analyse your Obsidian graph.
-downloads: 43195
+downloads: 43457
 mobile: true
 number: 340
 title: Graph Analysis

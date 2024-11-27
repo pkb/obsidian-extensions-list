@@ -1,19 +1,19 @@
 ---
 aliases:
-  - You and Your Research
+- You and Your Research
 author:
-  - Neo Zhang
+- Neo Zhang
 author_page: https://pt.plus
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Research with the help of A.I.
-downloads: 392
+downloads: 404
 funding_page: https://www.buymeacoffee.com/neozhang
 mobile: false
 number: 1726
 title: You and Your Research
 type: plugin
-updated: 2024-07-19T05:43:11
+updated: '2024-07-19T05:43:11'
 url: https://github.com/neozhang/you-and-your-research
 version: 0.9.8.2
 ---

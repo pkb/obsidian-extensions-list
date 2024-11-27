@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Vika Sync
+- Vika Sync
 author:
-  - romantic-black
+- romantic-black
 author_page: https://github.com/romantic-black
 categories:
-  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
+- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync your note to vika
 downloads: 3865
 mobile: true
 number: 656
 title: Vika Sync
 type: plugin
-updated: 2022-11-17T16:12:08
+updated: '2022-11-17T16:12:08'
 url: https://github.com/romantic-black/obsidain-vika-sync
 version: 0.2.12
 ---

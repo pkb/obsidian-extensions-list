@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/janisringli
 categories: []
 description: Lets you add the verse of the day from YouVersion to your daily notes
-downloads: 887
+downloads: 893
 funding_page: https://buymeacoffee.com/janisringli
 mobile: false
 number: 1529

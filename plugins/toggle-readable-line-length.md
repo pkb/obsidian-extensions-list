@@ -6,7 +6,7 @@ author:
 author_page: https://dougrichardson.us/
 categories: []
 description: Add command to toggle Readable line length editor setting.
-downloads: 576
+downloads: 604
 funding_page: https://buymeacoffee.com/dougrichardson
 mobile: true
 number: 1718

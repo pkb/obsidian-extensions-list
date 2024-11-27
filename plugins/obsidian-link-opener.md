@@ -6,7 +6,7 @@ author:
 author_page: https://zorazrr.github.io/
 categories: []
 description: Open external links within Obsidian using a modal or a tab.
-downloads: 4476
+downloads: 4487
 mobile: false
 number: 704
 title: External Link Opener

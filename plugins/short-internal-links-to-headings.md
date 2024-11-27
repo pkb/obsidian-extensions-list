@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/scottwillmoore
 categories: []
 description: An Obsidian plugin to display short internal links.
-downloads: 10395
+downloads: 10450
 mobile: true
 number: 755
 title: Short links

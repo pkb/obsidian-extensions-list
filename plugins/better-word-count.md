@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Better Word Count
+- Better Word Count
 author:
-  - Luke Leppan
+- Luke Leppan
 author_page: https://lukeleppan.com
 categories:
-  - "[[categories/Statistics|Statistics]]"
+- '[[categories/Statistics|Statistics]]'
 description: Counts the words of selected text in the editor.
-downloads: 403256
+downloads: 406184
 mobile: true
 number: 27
 title: Better Word Count
 type: plugin
-updated: 2024-01-23T20:34:19
+updated: '2024-01-23T20:34:19'
 url: https://github.com/lukeleppan/better-word-count
 version: 0.10.1
 ---

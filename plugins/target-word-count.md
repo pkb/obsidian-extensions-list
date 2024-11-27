@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/twofive-labs
 categories: []
 description: Disable editing until you've added a target number of words.
-downloads: 624
+downloads: 632
 mobile: true
 number: 1578
 title: Target Word Count

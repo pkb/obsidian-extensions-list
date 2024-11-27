@@ -8,7 +8,7 @@ categories: []
 description: Add musical chord notation and chord diagrams for stringed instruments
   (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including
   extended jazz chords.
-downloads: 3854
+downloads: 3861
 mobile: true
 number: 1009
 title: Markdown Chords

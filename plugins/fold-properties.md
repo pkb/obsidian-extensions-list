@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/itsonlyjames
 categories: []
 description: Adds fold/unfold properties function to folder context menu
-downloads: 101
+downloads: 174
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/itsonlyjames
 mobile: true

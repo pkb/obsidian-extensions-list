@@ -1,18 +1,18 @@
 ---
 aliases:
-  - asciimath
+- asciimath
 author:
-  - widcardw
+- widcardw
 author_page: https://widcard.win
 categories:
-  - "[[categories/Other formats|Other formats]]"
+- '[[categories/Other formats|Other formats]]'
 description: Add asciimath support for Obsidian.
-downloads: 7128
+downloads: 7153
 mobile: true
 number: 690
 title: asciimath
 type: plugin
-updated: 2024-06-15T08:35:13
+updated: '2024-06-15T08:35:13'
 url: https://github.com/widcardw/obsidian-asciimath
 version: 0.7.5
 ---

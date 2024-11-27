@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Pr0dt0s
 categories: []
 description: Plugin for easily opening new notes in a floating window.
-downloads: 4349
+downloads: 4355
 mobile: true
 number: 657
 title: New Note New Window

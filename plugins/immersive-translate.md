@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/imfenghuang
 categories: []
 description: A free-to-use translatation service for foreign language markdown file.
-downloads: 538
+downloads: 659
 mobile: false
 number: 1925
 title: Immersive Translate

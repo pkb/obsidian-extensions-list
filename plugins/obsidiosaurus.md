@@ -6,7 +6,7 @@ author:
 author_page: https://cimsta.com
 categories: []
 description: Connect your vault to Docusaurus
-downloads: 3525
+downloads: 3540
 mobile: false
 number: 1053
 title: Obsidiosaurus

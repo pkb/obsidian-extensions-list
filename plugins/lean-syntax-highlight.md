@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tomaz1502
 categories: []
 description: Provides live syntax highlight for the Lean programming language
-downloads: 1432
+downloads: 1445
 mobile: true
 number: 1450
 title: Lean Syntax Highlight

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ptrsvltns
 categories: []
 description: File Forgetting Curve
-downloads: 3430
+downloads: 3434
 mobile: false
 number: 725
 title: File Forgetting Curve

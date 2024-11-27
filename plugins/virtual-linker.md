@@ -8,7 +8,7 @@ categories: []
 description: Automatically creates virtual links for text within your notes that match
   the titles or aliases of other notes in your vault. Create a glossary-like functionality,
   show unlinked mentions and transform them to real links.
-downloads: 8560
+downloads: 8908
 mobile: true
 number: 1761
 title: Virtual Linker / Glossary

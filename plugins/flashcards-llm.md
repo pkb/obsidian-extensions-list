@@ -7,7 +7,7 @@ author_page: https://github.com/crybot
 categories: []
 description: Use Large Language Models (such as ChatGPT) to automatically generate
   flashcards from obsidian notes
-downloads: 6227
+downloads: 6275
 funding_page:
   Buy Me a Coffee: https://bmc.link/crybot
   GitHub Sponsor: https://github.com/sponsors/crybot

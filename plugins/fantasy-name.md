@@ -6,7 +6,7 @@ author:
 author_page: https://lukewh.com
 categories: []
 description: Insert a random fantasy name.
-downloads: 16930
+downloads: 17209
 funding_page: https://ko-fi.com/lukewh
 mobile: true
 number: 1040

@@ -7,7 +7,7 @@ author_page: https://joshuareinier.com
 categories: []
 description: A drag-and-drop time ruler combining the best of a task list and a calendar
   view (integrates with Tasks, Full Calendar, and Dataview).
-downloads: 35543
+downloads: 36010
 funding_page: https://bmc.link/joshuatreinier
 mobile: true
 number: 986

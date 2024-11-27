@@ -7,7 +7,7 @@ author_page: https://github.com/wei2912/obsidian-latex
 categories: []
 description: Adds support for a MathJax preamble and enables additional MathJax extensions
   for specific domains (chemistry, proofs).
-downloads: 33517
+downloads: 33872
 mobile: true
 number: 58
 title: Extended MathJax

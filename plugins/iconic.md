@@ -7,7 +7,7 @@ author_page: https://github.com/gfxholo
 categories: []
 description: Customize your icons and their colors directly from the UI, including
   tabs, files, bookmarks, properties, and ribbon commands.
-downloads: 10944
+downloads: 11686
 mobile: true
 number: 1772
 title: Iconic

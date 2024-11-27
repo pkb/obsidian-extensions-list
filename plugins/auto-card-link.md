@@ -7,7 +7,7 @@ author_page: https://github.com/nekoshita
 categories: []
 description: Automatically fetches metadata from a url and makes it as a card-styled
   link
-downloads: 36429
+downloads: 37085
 mobile: true
 number: 506
 title: Auto Card Link

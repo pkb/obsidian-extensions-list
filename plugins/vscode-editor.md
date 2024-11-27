@@ -1,19 +1,19 @@
 ---
 aliases:
-  - VSCode Editor
+- VSCode Editor
 author:
-  - sunxvming
+- sunxvming
 author_page: https://github.com/sunxvming
 categories:
-  - "[[categories/Code and development|Code and development]]"
+- '[[categories/Code and development|Code and development]]'
 description: Edit Code Files like VSCode.
-downloads: 19249
+downloads: 19712
 funding_page: https://www.buymeacoffee.com/sunxvming
 mobile: true
 number: 1180
 title: VSCode Editor
 type: plugin
-updated: 2023-11-03T11:53:36
+updated: '2023-11-03T11:53:36'
 url: https://github.com/sunxvming/obsidian-vscode-editor
 version: 1.0.4
 ---

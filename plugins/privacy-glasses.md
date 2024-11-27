@@ -7,7 +7,7 @@ author_page: https://github.com/jillalberts/privacy-glasses
 categories: []
 description: Provides a button and command to obfuscate onscreen text for better privacy
   in public settings.
-downloads: 65016
+downloads: 65451
 mobile: true
 number: 147
 title: Privacy Glasses

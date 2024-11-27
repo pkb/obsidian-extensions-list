@@ -7,7 +7,7 @@ author_page: https://jamesgreenblue.com
 categories: []
 description: Create a quick note in a floating window (on command or by right-clicking
   the Obsidian app icon)
-downloads: 3865
+downloads: 3881
 funding_page: https://www.buymeacoffee.com/jamesgreenblue
 mobile: false
 number: 1080

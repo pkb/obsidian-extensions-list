@@ -7,7 +7,7 @@ author_page: https://github.com/cdloh
 categories: []
 description: Simple CRON / schedular plugin to regularly run user scripts or Obsidian
   commands.
-downloads: 4460
+downloads: 4479
 mobile: true
 number: 885
 title: Cron

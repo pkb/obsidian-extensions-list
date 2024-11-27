@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aarol
 categories: []
 description: Highlights lines in codeblocks using Hugo's hl_lines syntax.
-downloads: 1736
+downloads: 1758
 mobile: true
 number: 1512
 title: Hugo codeblock highlight

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aviskase
 categories: []
 description: Generate index notes with links based on various conditions
-downloads: 6804
+downloads: 6817
 mobile: true
 number: 33
 title: Link indexer

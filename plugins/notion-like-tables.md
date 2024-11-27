@@ -1,19 +1,20 @@
 ---
 aliases:
-  - DataLoom
+- DataLoom
 author:
-  - DecafDev
+- DecafDev
 author_page: https://github.com/decaf-dev
 categories:
-  - "[[categories/Data management|Data management]]"
-description: Weave together data from diverse sources into different views. Inspired by Excel Spreadsheets and Notion.so.
-downloads: 260888
+- '[[categories/Data management|Data management]]'
+description: Weave together data from diverse sources into different views. Inspired
+  by Excel Spreadsheets and Notion.so.
+downloads: 261569
 funding_page: https://ko-fi.com/decaf_dev
 mobile: true
 number: 507
 title: DataLoom
 type: plugin
-updated: 2024-06-28T12:25:12
+updated: '2024-06-28T12:25:12'
 url: https://github.com/decaf-dev/obsidian-dataloom
 version: 8.16.1
 ---

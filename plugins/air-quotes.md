@@ -8,7 +8,7 @@ categories: []
 description: Search and insert quotes from a source text as you type. This is great
   for reading a physical book or eReader while taking notes on a separate laptop or
   phone. The plugin can also convert ePub files to Markdown notes.
-downloads: 4707
+downloads: 4731
 funding_page: https://ko-fi.com/alan_
 mobile: true
 number: 1007

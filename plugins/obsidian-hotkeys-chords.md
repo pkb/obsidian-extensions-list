@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/trenta3
 categories: []
 description: Set hotkeys chords to activate commands
-downloads: 3984
+downloads: 3995
 mobile: false
 number: 438
 title: Hotkeys Chords

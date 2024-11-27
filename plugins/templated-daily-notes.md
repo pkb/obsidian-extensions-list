@@ -7,7 +7,7 @@ author_page: https://github.com/digitorum
 categories: []
 description: Adds the ability to create daily notes with a specified template according
   to the described settings
-downloads: 1558
+downloads: 1577
 mobile: true
 number: 1406
 title: Templated daily notes

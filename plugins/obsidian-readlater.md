@@ -7,7 +7,7 @@ author_page: https://github.com/Canna71
 categories: []
 description: Synch web pages to markdown and integrate with read-it-later apps (Pocket,
   Instapaper)
-downloads: 5889
+downloads: 5914
 funding_page: https://www.buymeacoffee.com/gcannata
 mobile: false
 number: 719

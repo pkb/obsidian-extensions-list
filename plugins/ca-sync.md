@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bhavers/
 categories: []
 description: Synchronise Cognitive Architect (aka IBM IT Architect Assistant) architectures.
-downloads: 88
+downloads: 92
 mobile: false
 number: 1799
 title: Cognitive Architect Sync

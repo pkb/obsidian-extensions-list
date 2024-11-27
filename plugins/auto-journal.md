@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Auto Journal
+- Auto Journal
 author:
-  - Evan Bonsignori
+- Evan Bonsignori
 author_page: https://github.com/Ebonsignori
 categories:
-  - "[[categories/Journalling|Journalling]]"
-description: Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn't opened
-downloads: 4420
+- '[[categories/Journalling|Journalling]]'
+description: Opinionated journaling automation like daily notes but with backfills
+  for the days when Obsidian wasn't opened
+downloads: 4434
 mobile: true
 number: 1119
 title: Auto Journal
 type: plugin
-updated: 2024-02-14T03:12:16
+updated: '2024-02-14T03:12:16'
 url: https://github.com/Ebonsignori/obsidian-auto-journal
 version: 1.4.0
 ---

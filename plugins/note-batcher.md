@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MrAnyx
 categories: []
 description: Create all unresolvered links with a single click on your Obsidian vault
-downloads: 2318
+downloads: 2322
 mobile: true
 number: 1259
 title: Note Batcher

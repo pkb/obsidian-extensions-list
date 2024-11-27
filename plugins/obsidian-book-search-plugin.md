@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/anpigon
 categories: []
 description: Helps you find books and create notes.
-downloads: 129732
+downloads: 131364
 mobile: true
 number: 489
 title: Book Search

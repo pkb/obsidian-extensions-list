@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mossy1022
 categories: []
 description: View your Smart Connections in a visualized format.
-downloads: 7698
+downloads: 8061
 funding_page: https://buymeacoffee.com/evansoasis
 mobile: false
 number: 1707

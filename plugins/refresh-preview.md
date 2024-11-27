@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/mnaoumov/
 categories: []
 description: Allows to refresh preview mode without reopening the note
-downloads: 671
+downloads: 809
 funding_page: https://www.buymeacoffee.com/mnaoumov
 mobile: true
 number: 1769
 title: Refresh Preview
 type: plugin
-updated: '2024-11-13T11:03:18'
+updated: '2024-11-21T11:01:44'
 url: https://github.com/mnaoumov/obsidian-refresh-preview
-version: 2.0.1
+version: 2.0.2
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://kevinbarrett.org
 categories: []
 description: Quickly create notes in Obsidian from web pages.
-downloads: 9178
+downloads: 9189
 mobile: false
 number: 212
 title: Pluck

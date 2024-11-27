@@ -7,7 +7,7 @@ author_page: https://github.com/mvdkwast
 categories: []
 description: Copy the current document to clipboard as HTML, including images, diagrams
   etc...
-downloads: 21466
+downloads: 21707
 mobile: false
 number: 669
 title: Copy document as HTML

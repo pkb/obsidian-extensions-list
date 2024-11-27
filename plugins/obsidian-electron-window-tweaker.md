@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgmeyers/obsidian-electron-window-tweaker
 categories: []
 description: Tweak various Electron window settings.
-downloads: 10332
+downloads: 10385
 mobile: false
 number: 199
 title: Electron Window Tweaker

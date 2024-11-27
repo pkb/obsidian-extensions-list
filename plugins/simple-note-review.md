@@ -6,7 +6,7 @@ author:
 author_page: https://dartungar.com
 categories: []
 description: Simple, customizable plugin for easy note review, resurfacing  & repetition.
-downloads: 11359
+downloads: 11394
 funding_page: https://www.paypal.com/paypalme/dartungar
 mobile: true
 number: 579

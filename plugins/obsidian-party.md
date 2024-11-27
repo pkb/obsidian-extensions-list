@@ -7,7 +7,7 @@ author_page: https://github.com/shap-po/
 categories: []
 description: An implementation of party.js for Obsidian. Create confetti, sparkles
   and even custom effects in your notes!
-downloads: 5716
+downloads: 5732
 mobile: true
 number: 600
 title: "Party\U0001F389"

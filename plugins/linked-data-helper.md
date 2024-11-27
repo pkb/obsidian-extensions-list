@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kometenstaub
 categories: []
 description: Parse Linked data for Linked Data Vocabularies.
-downloads: 3949
+downloads: 3953
 mobile: false
 number: 917
 title: Linked Data Helper

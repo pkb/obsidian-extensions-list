@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ratibus11
 categories: []
 description: Display your vault folder structure into your graphs.
-downloads: 4071
+downloads: 4320
 funding_page: https://paypal.me/bastianlucas
 mobile: true
 number: 1449

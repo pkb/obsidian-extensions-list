@@ -6,7 +6,7 @@ author:
 author_page: https://www.manictime.com/
 categories: []
 description: Sends path of active file to locally installed ManicTime client.
-downloads: 1974
+downloads: 1977
 mobile: false
 number: 1297
 title: ManicTime

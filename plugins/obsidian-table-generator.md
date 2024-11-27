@@ -7,7 +7,7 @@ author_page: https://github.com/Quorafind
 categories: []
 description: A plugin for generate markdown table quickly like Typora /card table
   in canvas .
-downloads: 43038
+downloads: 43300
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/boninall
   支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg

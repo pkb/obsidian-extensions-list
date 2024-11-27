@@ -8,7 +8,7 @@ author:
 author_page: https://github.com/lukemt/
 categories: []
 description: Create feeds of topic-specific bullet points in Obsidian.
-downloads: 2451
+downloads: 2457
 funding_page: ''
 mobile: true
 number: 1287

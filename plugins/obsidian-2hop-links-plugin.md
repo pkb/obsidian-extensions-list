@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/tokuhirom/
 categories: []
 description: Add links to other pages at the bottom of the editor.
-downloads: 7728
+downloads: 7737
 mobile: true
 number: 171
 title: 2Hop Links Plugin

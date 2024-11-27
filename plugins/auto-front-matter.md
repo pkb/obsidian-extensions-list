@@ -6,7 +6,7 @@ author:
 author_page: https://conorzhong.com
 categories: []
 description: Auto update front matter
-downloads: 3864
+downloads: 3868
 mobile: false
 number: 993
 title: Auto Front Matter

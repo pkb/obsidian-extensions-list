@@ -9,7 +9,7 @@ description: A versatile text expansion plugin with full mobile support. Easily 
   code snippets, personal info like passport numbers, email signatures, and more.
   Includes seamless Alfred integration and the ability to sync Awesome ChatGPT prompts
   as snippets.
-downloads: 665
+downloads: 708
 funding_page: https://buymeacoffee.com/ramandv
 mobile: true
 number: 1868

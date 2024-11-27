@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/git-no
 categories: []
 description: Use additional files like .mdx / .svx as if they were markdown.
-downloads: 4021
+downloads: 4031
 mobile: true
 number: 645
 title: Addional Markdown suffix (.mdx/.svx).

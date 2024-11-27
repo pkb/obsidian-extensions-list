@@ -7,7 +7,7 @@ author_page: https://github.com/exoascension
 categories: []
 description: A ChatGPT bot trained on your vault notes. Ask your AI questions about
   your own thoughts and ideas!
-downloads: 6323
+downloads: 6366
 mobile: false
 number: 970
 title: Vault Chat

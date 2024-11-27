@@ -7,7 +7,7 @@ author_page: https://ifup.org
 categories: []
 description: View Supernote notes, generate markdown from note and capture screen
   mirror.
-downloads: 2706
+downloads: 2767
 funding_page: https://github.com/philips/supernote-obsidian-plugin/blob/main/README.md#funding
 mobile: true
 number: 1567

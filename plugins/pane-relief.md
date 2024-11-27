@@ -7,7 +7,7 @@ author_page: https://github.com/pjeby
 categories: []
 description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace,
   and more
-downloads: 116383
+downloads: 117585
 mobile: false
 number: 123
 title: Pane Relief

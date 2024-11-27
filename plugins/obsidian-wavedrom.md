@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kingsquirrel152
 categories: []
 description: This is very rough and quick integration of WaveDrom into obsidian
-downloads: 4451
+downloads: 4464
 mobile: false
 number: 237
 title: WaveDrom

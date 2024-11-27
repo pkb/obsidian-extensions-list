@@ -7,7 +7,7 @@ author_page: https://www.flickr.com/photos/houcheng_tw/
 categories: []
 description: This a plugin provides hotkeys to cycle through tabs in the left or right
   sidebars.
-downloads: 4454
+downloads: 4473
 mobile: true
 number: 776
 title: Cycle In Sidebar

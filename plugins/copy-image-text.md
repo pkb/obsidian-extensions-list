@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/msgk239
 categories: []
 description: Copy note content (including text and images) to clipboard. 复制笔记内容（包括文本和图片）到剪贴板。
-downloads: 86
+downloads: 141
 mobile: true
 number: 1965
 title: 复制图文 (Copy Image Text)

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/namikaze-40p
 categories: []
 description: Quickly switch tabs in various ways.
-downloads: 3580
+downloads: 3613
 mobile: true
 number: 1522
 title: Tab Selector

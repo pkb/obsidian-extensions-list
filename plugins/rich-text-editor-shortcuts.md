@@ -7,7 +7,7 @@ author_page: https://github.com/joshuawootonn
 categories: []
 description: Create and toggle checkboxes, paste links wrapping your current selection,
   and toggle underline without leaving the keyboard.
-downloads: 376
+downloads: 403
 mobile: true
 number: 1821
 title: Rich Text Editor Shortcuts

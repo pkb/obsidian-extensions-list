@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: A plugin for transforming bullet content into note.
-downloads: 4692
+downloads: 4702
 mobile: true
 number: 531
 title: Expand Bullet

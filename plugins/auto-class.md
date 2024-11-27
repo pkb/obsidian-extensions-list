@@ -7,7 +7,7 @@ author_page: https://nathan-smith.org
 categories: []
 description: Automatically apply CSS classes to the markdown view based on a note's
   path and tags.
-downloads: 3738
+downloads: 3756
 mobile: true
 number: 352
 title: Auto Class

@@ -7,7 +7,7 @@ author_page: https://github.com/Quorafind
 categories: []
 description: A plugin to enable better reading mode in Live preview mode of Obsidian,
   which works similar to bionic reading mode.
-downloads: 10692
+downloads: 10785
 mobile: true
 number: 680
 title: Better Reading Mode

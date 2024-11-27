@@ -6,7 +6,7 @@ author:
 author_page: https://www.frieda-universe.de
 categories: []
 description: Allows you to download all included PDF files
-downloads: 57
+downloads: 91
 mobile: true
 number: 1968
 title: downloadPDF

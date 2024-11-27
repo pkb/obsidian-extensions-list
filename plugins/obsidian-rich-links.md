@@ -6,7 +6,7 @@ author:
 author_page: https://www.asad.pw
 categories: []
 description: Rich Links plugin for Obsidian.
-downloads: 26083
+downloads: 26199
 mobile: true
 number: 260
 title: Rich Links

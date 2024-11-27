@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/GoodbyeNJN
 categories: []
 description: Format your notes with Prettier and custom formatting options.
-downloads: 795
+downloads: 820
 mobile: true
 number: 1708
 title: Prettier

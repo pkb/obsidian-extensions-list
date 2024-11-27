@@ -7,7 +7,7 @@ author_page: https://github.com/HamzaBenyazid
 categories: []
 description: Define variables in your note's properties and reuse them throughout
   your content.
-downloads: 1017
+downloads: 1082
 funding_page: ' https://github.com/sponsors/HamzaBenyazid'
 mobile: true
 number: 1871

@@ -7,7 +7,7 @@ author_page: https://github.com/timhor
 categories: []
 description: Add keyboard shortcuts (hotkeys) commonly found in code editors such
   as Visual Studio Code (vscode) or Sublime Text
-downloads: 35720
+downloads: 35953
 funding_page: https://ko-fi.com/timhor
 mobile: true
 number: 301

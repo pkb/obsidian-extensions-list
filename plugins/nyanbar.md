@@ -6,7 +6,7 @@ author:
 author_page: https://xhyabunny.org
 categories: []
 description: Nyan Cat Progress Bar generator!
-downloads: 236
+downloads: 247
 funding_page: https://paypal.me/xhyabunny
 mobile: true
 number: 1779

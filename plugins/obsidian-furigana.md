@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/uonr
 categories: []
 description: Helper plugin for furigana and <ruby>
-downloads: 4764
+downloads: 4776
 mobile: true
 number: 111
 title: Furigana

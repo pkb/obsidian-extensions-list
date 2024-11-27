@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Google Calendar
+- Google Calendar
 author:
-  - YukiGasai
+- YukiGasai
 author_page: https://github.com/YukiGasai
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: Interact with your Google Calendar from Inside Obsidian
-downloads: 111507
+downloads: 112981
 funding_page: https://ko-fi.com/YukiGasai
 mobile: true
 number: 605
 title: Google Calendar
 type: plugin
-updated: 2024-09-02T19:28:26
+updated: '2024-09-02T19:28:26'
 url: https://github.com/YukiGasai/obsidian-google-calendar
 version: 1.10.15
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/KubaMiszcz
 categories: []
 description: Handle with multistate checkboxes.
-downloads: 2936
+downloads: 2980
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/kubamiszcz
   GitHub Sponsor: https://github.com/sponsors/KubaMiszcz

@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Wechat Public Platform
+- Wechat Public Platform
 author:
-  - Blake Chan
+- Blake Chan
 author_page: https://ai-chen2050.github.io/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform.
-downloads: 554
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Release the article from your vault to WeChat, Baidu Baijiahao, or another
+  article release platform.
+downloads: 574
 funding_page: https://www.buymeacoffee.com/blakechan
 mobile: false
 number: 1744
 title: Wechat Public Platform
 type: plugin
-updated: 2024-09-07T22:35:14
+updated: '2024-09-07T22:35:14'
 url: https://github.com/ai-chen2050/obsidian-wechat-public-platform
 version: 1.0.6
 ---

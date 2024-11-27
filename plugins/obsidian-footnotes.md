@@ -1,20 +1,20 @@
 ---
 aliases:
-  - Footnote Shortcut
+- Footnote Shortcut
 author:
-  - Alexis Rondeau
-  - Micha Brugger
-  - Jason Qin
+- Alexis Rondeau
+- Micha Brugger
+- Jason Qin
 author_page: https://publish.obsidian.md/alexisrondeau
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Insert and write footnotes faster
-downloads: 108860
+downloads: 109767
 mobile: true
 number: 116
 title: Footnote Shortcut
 type: plugin
-updated: 2023-08-25T10:20:09
+updated: '2023-08-25T10:20:09'
 url: https://github.com/MichaBrugger/obsidian-footnotes
 version: 0.1.3
 ---

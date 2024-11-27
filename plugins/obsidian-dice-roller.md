@@ -6,14 +6,14 @@ author:
 author_page: ''
 categories: []
 description: Inline dice rolling for Obsidian.md
-downloads: 179602
+downloads: 182402
 mobile: true
 number: 132
 title: Dice Roller
 type: plugin
-updated: '2024-11-05T21:25:16'
+updated: '2024-11-20T23:18:28'
 url: https://github.com/javalent/dice-roller
-version: 11.4.0
+version: 11.4.1
 ---
 
 %% README_START %%

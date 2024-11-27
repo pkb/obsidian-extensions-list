@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/danferns
 categories: []
 description: turn off backspace and undo, just like writing with a pen on real paper.
-downloads: 3288
+downloads: 3306
 funding_page:
   Buy my music: https://twinklingkites.bandcamp.com/
 mobile: true

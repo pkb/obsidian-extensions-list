@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/raineszm/obsidian-latex-environments
 categories: []
 description: Allows to quickly insert and change latex environments within math environments.
-downloads: 23735
+downloads: 23821
 mobile: true
 number: 29
 title: Latex Environments

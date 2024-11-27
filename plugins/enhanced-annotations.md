@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Enhanced Annotations
+- Enhanced Annotations
 author:
-  - ycnmhd
+- ycnmhd
 author_page: https://github.com/ycnmhd
 categories:
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Add a sidebar view for comments and highlights.
-downloads: 4844
+downloads: 5033
 mobile: false
 number: 1476
 title: Enhanced Annotations
 type: plugin
-updated: 2024-09-04T00:37:20
+updated: '2024-09-04T00:37:20'
 url: https://github.com/ycnmhd/obsidian-enhanced-annotations
 version: 0.1.6
 ---

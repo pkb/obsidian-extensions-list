@@ -6,7 +6,7 @@ author:
 author_page: https://flolu.de
 categories: []
 description: This plugin allows you to change the scroll speed inside Obsidian notes.
-downloads: 5137
+downloads: 5152
 mobile: true
 number: 553
 title: Scroll Speed

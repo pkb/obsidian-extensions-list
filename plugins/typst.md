@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/fenjalien
 categories: []
 description: Renders `typst` code blocks and math blocks with Typst.
-downloads: 7068
+downloads: 7118
 funding_page:
   GitHub Sponsor: https://github.com/sponsors/fenjalien
   ko-fi: https://ko-fi.com/fenjalien

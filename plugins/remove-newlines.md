@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/HandcartCactus
 categories: []
 description: Remove newlines or blank lines from selected or pasted text.
-downloads: 530
+downloads: 582
 mobile: true
 number: 1764
 title: Remove Newlines

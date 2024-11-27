@@ -1,19 +1,20 @@
 ---
 aliases:
-  - AI Mentor
+- AI Mentor
 author:
-  - Clément POIRET
+- Clément POIRET
 author_page: https://github.com/clementpoiret
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: Meet your open source AI mentor in Obsidian. Ask questions, get answers, and learn new things.
-downloads: 5803
+- '[[categories/AI assistance|AI assistance]]'
+description: Meet your open source AI mentor in Obsidian. Ask questions, get answers,
+  and learn new things.
+downloads: 5835
 funding_page: https://www.buymeacoffee.com/poiretclement
 mobile: true
 number: 914
 title: AI Mentor
 type: plugin
-updated: 2024-09-06T20:48:48
+updated: '2024-09-06T20:48:48'
 url: https://github.com/clementpoiret/ai-mentor
 version: 1.3.1
 ---

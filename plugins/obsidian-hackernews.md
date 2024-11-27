@@ -6,7 +6,7 @@ author:
 author_page: https://arpitbhayani.me
 categories: []
 description: Periodically fetches and displays top stories from HackerNews.
-downloads: 5706
+downloads: 5725
 mobile: true
 number: 283
 title: HackerNews

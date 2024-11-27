@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/linjunpop/obsidian-gist
 categories: []
 description: This is a plugin to display the GitHub Gist.
-downloads: 9142
+downloads: 9169
 mobile: true
 number: 205
 title: Gist

@@ -7,7 +7,7 @@ author_page: https://smort.io
 categories: []
 description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate
   and share articles.
-downloads: 3686
+downloads: 3688
 mobile: true
 number: 477
 title: Smort

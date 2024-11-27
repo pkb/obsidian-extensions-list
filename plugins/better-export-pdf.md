@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Better Export PDF
+- Better Export PDF
 author:
-  - l1xnan
+- l1xnan
 author_page: https://github.com/l1xnan
 categories:
-  - "[[categories/Export|Export]]"
-description: Export your notes to PDF, support export preview, add bookmarks outline and header/footer.
-downloads: 66320
+- '[[categories/Export|Export]]'
+description: Export your notes to PDF, support export preview, add bookmarks outline
+  and header/footer.
+downloads: 68390
 funding_page: https://www.buymeacoffee.com/l1xnan
 mobile: false
 number: 1408
 title: Better Export PDF
 type: plugin
-updated: 2024-08-18T15:24:50
+updated: '2024-08-18T15:24:50'
 url: https://github.com/l1xnan/obsidian-better-export-pdf
 version: 1.9.2
 ---

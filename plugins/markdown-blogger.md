@@ -8,7 +8,7 @@ categories: []
 description: Allows developers to push markdown notes to their local blog, portfolio,
   or static site. Works with Astro.js, Next.js, and any other framework configured
   to render markdown pages.
-downloads: 3895
+downloads: 3909
 funding_page: https://www.buymeacoffee.com/alexafazio
 mobile: false
 number: 988

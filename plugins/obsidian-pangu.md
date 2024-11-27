@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/natumsol
 categories: []
 description: 自动为中英文之间插入空格，排版强迫者的福音。
-downloads: 22167
+downloads: 22352
 mobile: false
 number: 177
 title: 盘古 PanGu

@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/levi-ivel
 categories: []
 description: Creates a top 100 of the most used words in your notes
-downloads: 472
+downloads: 511
 mobile: true
 number: 1651
 title: MostUsed
 type: plugin
-updated: '2024-08-18T20:32:23'
+updated: '2024-11-25T18:54:51'
 url: https://github.com/levi-ivel/MostUsed
-version: 1.0.1
+version: 1.0.2
 ---
 
 %% README_START %%

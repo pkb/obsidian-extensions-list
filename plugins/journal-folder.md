@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Journal Folder
+- Journal Folder
 author:
-  - Charl Fourie
+- Charl Fourie
 author_page: https://github.com/chfourie
 categories:
-  - "[[categories/Journalling|Journalling]]"
+- '[[categories/Journalling|Journalling]]'
 description: Utilities for folder-based journaling
-downloads: 1196
+downloads: 1226
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/chfourie
   Github Sponsor: https://github.com/sponsors/chfourie
@@ -15,7 +15,7 @@ mobile: true
 number: 1796
 title: Journal Folder
 type: plugin
-updated: 2024-10-07T20:53:39
+updated: '2024-10-07T20:53:39'
 url: https://github.com/chfourie/obsidian-journal-folder
 version: 1.2.2
 ---

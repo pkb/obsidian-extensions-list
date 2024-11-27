@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/patrickchiang
 categories: []
 description: Dialogue mode for editing speech in writing.
-downloads: 517
+downloads: 539
 mobile: true
 number: 1727
 title: Dialogue Mode

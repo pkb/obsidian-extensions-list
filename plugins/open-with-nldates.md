@@ -7,7 +7,7 @@ author_page: https://github.com/charliecm
 categories: []
 description: Open a daily note using natural language. Requires "Natural Language
   Dates" plugin to work.
-downloads: 48
+downloads: 74
 funding_page: https://www.buymeacoffee.com/charliecm
 mobile: true
 number: 1976

@@ -7,7 +7,7 @@ author_page: https://github.com/AurelienStebe
 categories: []
 description: Gladdis (Generative Language Artificial Dedicated & Diligent Intelligence
   System) - it's an AI chatbot.
-downloads: 2875
+downloads: 2960
 mobile: true
 number: 1233
 title: Gladdis

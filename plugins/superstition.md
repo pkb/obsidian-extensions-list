@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/shuxueshuxue
 categories: []
 description: Manage routines with traditional calendar concept of 宜/忌
-downloads: 22
+downloads: 43
 mobile: true
 number: 1992
 title: Superstition

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/velentir/obsidian-sigma
 categories: []
 description: A plugin to enable using obsidian notes as calculation sheets.
-downloads: 4328
+downloads: 4333
 mobile: true
 number: 679
 title: Sigma

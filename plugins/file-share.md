@@ -1,18 +1,19 @@
 ---
 aliases:
-  - File Share
+- File Share
 author:
-  - muckmuck
+- muckmuck
 author_page: https://github.com/muckmuck96
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Enables end-to-end encrypted file sharing directly between vaults via a socket server.
-downloads: 216
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Enables end-to-end encrypted file sharing directly between vaults via
+  a socket server.
+downloads: 225
 mobile: false
 number: 1863
 title: File Share
 type: plugin
-updated: 2024-09-16T01:41:36
+updated: '2024-09-16T01:41:36'
 url: https://github.com/muckmuck96/obsidian-file-share
 version: 1.1.0
 ---

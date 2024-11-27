@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kzhovn/
 categories: []
 description: Allows you to add any command to Obsidian's right-click menu.
-downloads: 23955
+downloads: 24059
 mobile: true
 number: 293
 title: Customizable Menu

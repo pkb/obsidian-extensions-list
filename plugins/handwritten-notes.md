@@ -1,20 +1,21 @@
 ---
 aliases:
-  - Handwritten Notes
+- Handwritten Notes
 author:
-  - FBarrCa
+- FBarrCa
 author_page: https://github.com/FBarrca/
 categories:
-  - "[[categories/Other formats|Other formats]]"
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
-description: Annotate PDFs and create handwritten notes inside your vault using a stylus.
-downloads: 21905
+- '[[categories/Other formats|Other formats]]'
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
+description: Annotate PDFs and create handwritten notes inside your vault using a
+  stylus.
+downloads: 22355
 funding_page: https://www.buymeacoffee.com/FBarrCa
 mobile: true
 number: 1113
 title: Handwritten Notes
 type: plugin
-updated: 2024-09-20T05:06:04
+updated: '2024-09-20T05:06:04'
 url: https://github.com/FBarrca/obsidian-handwritten-notes
 version: 1.3.6
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pbrw
 categories: []
 description: Admire the growth of your Obsidian vault with a "hand-drawn" chart.
-downloads: 3682
+downloads: 3695
 mobile: true
 number: 1154
 title: Size History

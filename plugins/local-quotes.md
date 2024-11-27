@@ -7,7 +7,7 @@ author_page: https://github.com/decatetsu
 categories: []
 description: Collect your quotes from all over the repository and embed them in different
   locations with refresh delays.
-downloads: 6272
+downloads: 6297
 mobile: true
 number: 525
 title: Local Quotes

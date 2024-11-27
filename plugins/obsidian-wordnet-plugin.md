@@ -7,7 +7,7 @@ author_page: https://github.com/TfTHacker/Obsidian-WordNet
 categories: []
 description: WordNet is a large lexical database of English developed by Princeton
   University.
-downloads: 18889
+downloads: 19135
 funding_page:
   Visit my site: https://tfthacker.com
 mobile: true

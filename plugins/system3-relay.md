@@ -7,15 +7,15 @@ author_page: https://system3.md
 categories: []
 description: Collaborate in real time with live cursors. Create relays, add folders,
   and manage user access.
-downloads: 3728
+downloads: 4142
 funding_page: https://www.buymeacoffee.com/dtkav
 mobile: false
 number: 1835
 title: Relay
 type: plugin
-updated: '2024-11-16T02:02:43'
+updated: '2024-11-27T05:04:30'
 url: https://github.com/no-instructions/relay
-version: 0.3.5
+version: 0.4.1
 ---
 
 %% README_START %%

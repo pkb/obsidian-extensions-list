@@ -6,15 +6,15 @@ author:
 author_page: https://karl.pizza
 categories: []
 description: Zettelkasten note taking powered by LLMs
-downloads: 4493
+downloads: 4569
 funding_page: https://bmc.link/karl.pizza
 mobile: true
 number: 1083
 title: Zettelkasten LLM Tools
 type: plugin
-updated: '2024-10-29T08:00:43'
+updated: '2024-11-19T10:48:59'
 url: https://github.com/glovguy/obsidian-gpt-zettelkasten
-version: 1.3.0
+version: 1.4.0
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/arenasys
 categories: []
 description: Chat with AI about your notes.
-downloads: 641
+downloads: 655
 funding_page: https://github.com/sponsors/arenasys
 mobile: false
 number: 1630

@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: Purpose of this plugin rename files based on pattern
-downloads: 11262
+downloads: 11352
 mobile: true
 number: 592
 title: Bulk Rename

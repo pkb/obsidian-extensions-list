@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/aptend
 categories: []
 description: Improved, configurable auto formatting as typing
-downloads: 6475
+downloads: 6631
 mobile: true
 number: 561
 title: Typing Transformer
 type: plugin
-updated: '2024-11-06T16:13:43'
+updated: '2024-11-22T15:26:13'
 url: https://github.com/aptend/typing-transformer-obsidian
-version: 0.4.1
+version: 0.4.2
 ---
 
 %% README_START %%

@@ -7,7 +7,7 @@ author_page: https://lizard-heart.github.io
 categories: []
 description: Grabs information from Wordnik for a topic and brings it into Obsidian
   notes
-downloads: 3807
+downloads: 3809
 mobile: true
 number: 485
 title: Wordnik Definitions

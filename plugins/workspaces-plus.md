@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/nothingislost
 categories: []
 description: Quickly switch and manage workspaces
-downloads: 58898
+downloads: 59138
 mobile: false
 number: 294
 title: Workspaces Plus

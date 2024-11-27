@@ -1,20 +1,21 @@
 ---
 aliases:
-  - Infostacker Note Publish
+- Infostacker Note Publish
 author:
-  - Taskscape LTD
-  - Patryk Nowak
-  - Kacper Pabianiak
+- Taskscape LTD
+- Patryk Nowak
+- Kacper Pabianiak
 author_page: https://infostacker.com/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Easily share your notes, images and attachments publicly using private links
-downloads: 247
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Easily share your notes, images and attachments publicly using private
+  links
+downloads: 255
 mobile: true
 number: 1699
 title: Infostacker Note Publish
 type: plugin
-updated: 2024-08-28T16:05:50
+updated: '2024-08-28T16:05:50'
 url: https://github.com/taskscape/InfostackerPlugin
 version: 1.0.8
 ---

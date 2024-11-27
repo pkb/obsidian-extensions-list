@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mjessome/obsidian-global-hotkeys/
 categories: []
 description: Add support for global hotkeys
-downloads: 9995
+downloads: 10073
 mobile: false
 number: 389
 title: Global Hotkeys

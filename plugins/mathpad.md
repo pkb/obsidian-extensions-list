@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Canna71
 categories: []
 description: Computer Algebra System and Calculator for Obsidian
-downloads: 11542
+downloads: 11642
 funding_page: https://www.buymeacoffee.com/gcannata
 mobile: false
 number: 653

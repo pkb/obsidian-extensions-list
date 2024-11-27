@@ -6,15 +6,15 @@ author:
 author_page: https://jason.motylinski.com
 categories: []
 description: Displays backlinks in a hierarchy
-downloads: 85
+downloads: 211
 funding_page: https://www.buymeacoffee.com/jasonmotylinski
 mobile: true
 number: 1977
 title: Hierarchical Backlinks
 type: plugin
-updated: '2024-11-05T19:45:34'
+updated: '2024-11-20T06:13:42'
 url: https://github.com/jasonmotylinski/hierarchical-backlinks
-version: 1.0.3
+version: 1.0.4
 ---
 
 %% README_START %%

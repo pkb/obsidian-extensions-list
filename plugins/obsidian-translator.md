@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/luhaifeng666
 categories: []
 description: This is a plugin for Obsidian to translate selected text.
-downloads: 10038
+downloads: 10137
 mobile: false
 number: 554
 title: Translator

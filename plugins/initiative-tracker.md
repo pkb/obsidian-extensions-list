@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/valentine195/obsidian-initiative-tracker
 categories: []
 description: TTRPG Initiative Tracker for Obsidian.md
-downloads: 89926
+downloads: 90685
 mobile: true
 number: 221
 title: Initiative Tracker

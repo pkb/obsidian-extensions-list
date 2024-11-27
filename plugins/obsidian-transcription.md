@@ -8,7 +8,7 @@ categories: []
 description: Transcription 3.0, now with Swiftink.io domain-aware speech-to-text!
   Create high-quality text transcriptions from any media file, on any device. Best-in-class
   ASR
-downloads: 21171
+downloads: 21370
 mobile: true
 number: 702
 title: Transcription

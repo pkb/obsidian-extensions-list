@@ -6,7 +6,7 @@ author:
 author_page: https://northlandcreativewonders.com
 categories: []
 description: Adds definition lists to the markdown parser.
-downloads: 649
+downloads: 691
 funding_page: https://buymeacoffee.com/ncwonders
 mobile: true
 number: 1719

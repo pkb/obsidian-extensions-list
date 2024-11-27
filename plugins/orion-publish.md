@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Orion Publish
+- Orion Publish
 author:
-  - Sean Collings
+- Sean Collings
 author_page: https://seancollings.dev
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily publish your notes to the web with Orion Publish.
-downloads: 976
+downloads: 977
 funding_page: https://ko-fi.com/seancollings
 mobile: true
 number: 1504
 title: Orion Publish
 type: plugin
-updated: 2024-01-12T12:22:21
+updated: '2024-01-12T12:22:21'
 url: https://github.com/seanrcollings/orion-publish-plugin
 version: 0.2.2
 ---

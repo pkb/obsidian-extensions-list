@@ -6,7 +6,7 @@ author:
 author_page: https://www.facebook.com/emyazin
 categories: []
 description: An easy way to display vocabulary words as flashcards and as a list.
-downloads: 4556
+downloads: 4575
 mobile: true
 number: 1172
 title: Vocabulary Cards

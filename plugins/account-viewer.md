@@ -7,7 +7,7 @@ author_page: https://github.com/muaz742
 categories: []
 description: Automatically generate accounting tables from Markdown code blocks tagged
   with accounting.
-downloads: 900
+downloads: 950
 funding_page: https://www.patreon.com/muaz742
 mobile: true
 number: 1783

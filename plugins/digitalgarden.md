@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Digital Garden
+- Digital Garden
 author:
-  - Ole Eskild Steensen
+- Ole Eskild Steensen
 author_page: https://dg-docs.ole.dev/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to the web for others to enjoy. For free.
-downloads: 40681
+downloads: 40957
 funding_page: https://ko-fi.com/oleeskild
 mobile: true
 number: 436
 title: Digital Garden
 type: plugin
-updated: 2024-06-13T19:23:23
+updated: '2024-06-13T19:23:23'
 url: https://github.com/oleeskild/obsidian-digital-garden
 version: 2.57.2
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/davisriedel
 categories: []
 description: Typewriter scrolling, highlighting of the current line, dimming of unfocused
   paragraphs, writing focus and more.
-downloads: 30066
+downloads: 30898
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/davis.riedel
   GitHub Sponsors: https://github.com/sponsors/davisriedel

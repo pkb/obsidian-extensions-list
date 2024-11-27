@@ -7,7 +7,7 @@ author_page: https://github.com/madpin
 categories: []
 description: Records audio directly, with input device and folder configuration, similar
   to the core one, but better
-downloads: 1070
+downloads: 1141
 mobile: false
 number: 1830
 title: Super Duper Audio Recorder

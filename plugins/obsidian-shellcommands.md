@@ -8,7 +8,7 @@ categories: []
 description: You can predefine system commands that you want to run frequently, and
   assign hotkeys for them. For example open external applications. Automatic execution
   is also supported, and execution via URI links.
-downloads: 46418
+downloads: 47084
 funding_page: https://publish.obsidian.md/shellcommands/Donate
 mobile: false
 number: 265

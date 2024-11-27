@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/maybe-hello-world
 categories: []
 description: Insert parsed musical notes from MIDI input devices.
-downloads: 194
+downloads: 200
 mobile: true
 number: 1711
 title: MIDI Logger

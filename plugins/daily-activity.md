@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Daily Activity
+- Daily Activity
 author:
-  - Trevor Rydalch
+- Trevor Rydalch
 author_page: https://github.com/trydalch
 categories:
-  - "[[categories/Journalling|Journalling]]"
+- '[[categories/Journalling|Journalling]]'
 description: A collection of commands to track your writing activity.
-downloads: 13801
+downloads: 13854
 mobile: true
 number: 100
 title: Daily Activity
 type: plugin
-updated: 2024-02-18T00:20:32
+updated: '2024-02-18T00:20:32'
 url: https://github.com/trydalch/obsidian-daily-activity
 version: 0.5.0
 ---

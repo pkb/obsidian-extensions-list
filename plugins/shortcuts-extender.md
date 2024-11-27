@@ -6,7 +6,7 @@ author_page: https://github.com/ryjjin
 categories: []
 description: Use shortcuts for text formatting or input special symbols without language
   switching
-downloads: 21288
+downloads: 21386
 mobile: true
 number: 16
 title: Shortcuts extender

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vrtmrz/
 categories: []
 description: The plugin which enhance cursor visibility.
-downloads: 10700
+downloads: 10762
 mobile: true
 number: 567
 title: Ninja Cursor

@@ -7,7 +7,7 @@ author_page: https://friebetill.github.io/
 categories: []
 description: Allows translation of selected texts into more than 25 languages with
   DeepL.
-downloads: 12610
+downloads: 12737
 mobile: true
 number: 677
 title: DeepL

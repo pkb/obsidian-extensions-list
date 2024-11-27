@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/renmu123/obsidian-image-auto-upload-plugin
 categories: []
 description: This plugin uploads images from your clipboard by PicGo
-downloads: 88175
+downloads: 90235
 funding_page: https://afdian.com/a/renmu123
 mobile: false
 number: 172
 title: Image auto upload
 type: plugin
-updated: '2023-10-23T16:43:17'
+updated: '2024-11-20T11:51:20'
 url: https://github.com/renmu123/obsidian-image-auto-upload-plugin
-version: 4.0.0
+version: 4.0.1
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 author_page: https://atfzl.com
 categories: []
 description: Sync your Apple Books highlights automatically
-downloads: 5267
+downloads: 5288
 mobile: false
 number: 810
 title: Apple Books Highlights

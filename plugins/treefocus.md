@@ -7,7 +7,7 @@ author_page: https://iOSonntag.com
 categories: []
 description: Dim, highlight & style your files & folders in the vault file explorer
   (foldable item navigator) based on predefined / custom rules.
-downloads: 4718
+downloads: 4763
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/iOSonntag
   GitHub Sponsor: https://github.com/sponsors/iOSonntag

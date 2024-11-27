@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/renmu123/obsidian-markdown-index
 categories: []
 description: obsidian-title-index
-downloads: 7066
+downloads: 7092
 mobile: true
 number: 210
 title: obsidian-title-index

@@ -7,7 +7,7 @@ author_page: https://github.com/jpoles1/
 categories: []
 description: Easily create carousel galleries to better organize/view images in your
   notes.
-downloads: 1336
+downloads: 1400
 mobile: true
 number: 1797
 title: Lite Gallery

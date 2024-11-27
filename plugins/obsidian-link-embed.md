@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Seraphli
 categories: []
 description: This plugin allows you to convert URLs in your notes into embedded previews.
-downloads: 37813
+downloads: 38210
 mobile: true
 number: 496
 title: Link Embed

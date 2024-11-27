@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Pierrad
 categories: []
 description: Implement suggestions from Github Copilot directly in your editor.
-downloads: 4515
+downloads: 4726
 mobile: false
 number: 1659
 title: Github Copilot

@@ -7,7 +7,7 @@ author_page: https://github.com/timhor
 categories: []
 description: Manipulate sentences as a unit of movement. Select, move and delete by
   whole sentences.
-downloads: 5328
+downloads: 5335
 funding_page: https://ko-fi.com/timhor
 mobile: true
 number: 350

@@ -7,7 +7,7 @@ author_page: https://github.com/antoKeinanen
 categories: []
 description: Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä,
   joka hyödyntää Voikkoa.
-downloads: 3647
+downloads: 3658
 mobile: false
 number: 1062
 title: Finnish Spellcheck

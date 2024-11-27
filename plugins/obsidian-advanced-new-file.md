@@ -6,7 +6,7 @@ author:
 author_page: https://vanadium23.me/
 categories: []
 description: This is a plugin for choosing folder on note creation.
-downloads: 17860
+downloads: 17925
 mobile: true
 number: 208
 title: Advanced new file

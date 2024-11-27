@@ -6,7 +6,7 @@ author:
 author_page: https://chuangcaleb.com
 categories: []
 description: Fountain (screenplay) syntax highlighting in the editor
-downloads: 5061
+downloads: 5145
 mobile: true
 number: 1235
 title: Fountain Editor

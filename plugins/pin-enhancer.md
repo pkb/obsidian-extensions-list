@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Sheeplet1
 categories: []
 description: Enhances the pin function to prevent closing the pinned tab.
-downloads: 365
+downloads: 386
 mobile: false
 number: 1686
 title: Pin Enhancer

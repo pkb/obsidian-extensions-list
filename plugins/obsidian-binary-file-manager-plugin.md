@@ -7,7 +7,7 @@ author_page: https://github.com/qawatake/obsidian-binary-file-manager-plugin
 categories: []
 description: Detects new binary files in the vault and create markdown files with
   metadata.
-downloads: 7453
+downloads: 7497
 mobile: true
 number: 393
 title: Binary File Manager

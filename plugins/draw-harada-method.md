@@ -7,7 +7,7 @@ author_page: https://github.com/yildbs
 categories: []
 description: This plugin is used to draw the harada method. Create your own 1 goal,
   8 plans, and 64 actions
-downloads: 4867
+downloads: 4888
 funding_page: https://paypal.me/yildbs?country.x=KR&locale.x=ko_KR
 mobile: true
 number: 878

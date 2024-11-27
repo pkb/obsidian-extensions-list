@@ -6,7 +6,7 @@ author:
 author_page: https://knds.art
 categories: []
 description: Automatically creates a Markdown link for Pivotal Tracker stories.
-downloads: 54
+downloads: 56
 mobile: true
 number: 1701
 title: Pivotal Tracker URL Helper

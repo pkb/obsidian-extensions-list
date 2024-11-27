@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Medium Importer
+- Medium Importer
 author:
-  - David Zachariae
+- David Zachariae
 author_page: https://github.com/arumie
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import Medium posts into your vault
-downloads: 2107
+downloads: 2137
 mobile: true
 number: 1706
 title: Medium Importer
 type: plugin
-updated: 2024-10-22T00:35:31
+updated: '2024-10-22T00:35:31'
 url: https://github.com/arumie/obsidian-medium-importer-plugin
 version: 0.4.1
 ---

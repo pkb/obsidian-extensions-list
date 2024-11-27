@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/watsonbox
 categories: []
 description: Sync activities from Strava.
-downloads: 45
+downloads: 57
 mobile: true
 number: 1958
 title: Strava Sync

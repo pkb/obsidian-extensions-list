@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ALONELUR
 categories: []
 description: Support auto select the apposite input method in different vim mode
-downloads: 8179
+downloads: 8219
 mobile: false
 number: 382
 title: Vim IM Select

@@ -7,7 +7,7 @@ author_page: https://github.com/MichalBures
 categories: []
 description: Convert file path to uri for easier use of links to local files outside
   of Obsidian
-downloads: 19513
+downloads: 19573
 mobile: true
 number: 75
 title: File path to URI

@@ -8,7 +8,7 @@ categories: []
 description: Parse multiple ICS files to include in your notes. Designed for Daily
   Notes and the Day Planner format. Through templates you can customize it for other
   use cases.
-downloads: 10162
+downloads: 10269
 mobile: true
 number: 1039
 title: ICS

@@ -7,7 +7,7 @@ author_page: https://github.com/dimava
 categories: []
 description: Highlight inline `'md **code**` blocks as well as you do the ```md **big**```
   ones
-downloads: 4110
+downloads: 4125
 mobile: true
 number: 1048
 title: InlineCodeHighlight

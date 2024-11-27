@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/spslater/obsidian-cursor-location-plugin
 categories: []
 description: This displays the location of the cursor (character and line number).
-downloads: 9244
+downloads: 9286
 mobile: false
 number: 222
 title: Cursor Location

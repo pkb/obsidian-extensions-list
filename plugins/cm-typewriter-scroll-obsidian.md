@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/deathau
 categories: []
 description: Typewriter-style scrolling which keeps the view centered in the editor.
-downloads: 73590
+downloads: 74104
 mobile: true
 number: 41
 title: Typewriter Scroll

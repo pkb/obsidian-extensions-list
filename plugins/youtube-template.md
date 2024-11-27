@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/sundevista
 categories: []
 description: A plugin that would help you to fetch YouTube videos data into your vault.
-downloads: 4549
+downloads: 4598
 funding_page: https://www.buymeacoffee.com/sundevistax
 mobile: true
 number: 1352

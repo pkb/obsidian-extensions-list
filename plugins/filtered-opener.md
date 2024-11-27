@@ -6,7 +6,7 @@ author:
 author_page: https://roman.kubiv.com
 categories: []
 description: Open notes and folders. Chose from sets defined by filters.
-downloads: 2491
+downloads: 2504
 funding_page: https://www.buymeacoffee.com/romankubiv
 mobile: true
 number: 1461

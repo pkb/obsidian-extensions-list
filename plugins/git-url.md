@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/khuongduy354/
 categories: []
 description: Create a url to your file on your git remote repo
-downloads: 3645
+downloads: 3646
 funding_page:
   Buy Me A Coffee: https://www.buymeacoffee.com/khuongduy3E
   Plugin Repo: https://github.com/khuongduy354/obsidian-git-url

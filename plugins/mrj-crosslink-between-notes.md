@@ -7,7 +7,7 @@ author_page: https://mrjackphil.com
 categories: []
 description: This plugin adds a command which allows to add a link to the current
   note at the bottom of selected notes
-downloads: 10941
+downloads: 10959
 mobile: true
 number: 17
 title: Add links to current note

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Alintor
 categories: []
 description: Helps you find movies and tv shows via Kinopoisk and create notes.
-downloads: 1069
+downloads: 1086
 mobile: true
 number: 1540
 title: Kinopoisk search

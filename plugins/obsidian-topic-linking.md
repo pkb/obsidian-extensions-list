@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/liammagee/obsidian-topic-linking
 categories: []
 description: Convert PDF files and web links to Markdown, and create topics from Markdown
-downloads: 20319
+downloads: 20415
 mobile: false
 number: 408
 title: Topic Linking

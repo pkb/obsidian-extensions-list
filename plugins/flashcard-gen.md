@@ -1,20 +1,22 @@
 ---
 aliases:
-  - Flashcard Generator
+- Flashcard Generator
 author:
-  - ChloeDia (improved by lulmer)
+- ChloeDia (improved by lulmer)
 author_page: https://github.com/chloedia
 categories:
-  - "[[categories/Learning|Learning]]"
-  - "[[categories/AI assistance|AI assistance]]"
-description: "Craft insightful quizzes: Generate key questions/answers pairs from your notes effortlessly using Open ai's GPT-3/4 or local models. Elevate and optimize your learning journey."
-downloads: 4058
+- '[[categories/Learning|Learning]]'
+- '[[categories/AI assistance|AI assistance]]'
+description: 'Craft insightful quizzes: Generate key questions/answers pairs from
+  your notes effortlessly using Open ai''s GPT-3/4 or local models. Elevate and optimize
+  your learning journey.'
+downloads: 4063
 funding_page: https://www.buymeacoffee.com/chloedia
 mobile: true
 number: 1114
 title: Flashcard Generator
 type: plugin
-updated: 2023-08-08T17:51:21
+updated: '2023-08-08T17:51:21'
 url: https://github.com/chloedia/Obsidian_Quiz_Generator
 version: 1.1.0
 ---

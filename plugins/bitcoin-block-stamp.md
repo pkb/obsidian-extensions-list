@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/sfr0xyz
 categories: []
 description: Stamp your notes with the current Bitcoin block.
-downloads: 391
+downloads: 393
 funding_page:
   Alby (Bitcoin/Lightning): https://getalby.com/p/sefiro
 mobile: true

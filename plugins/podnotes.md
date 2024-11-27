@@ -6,7 +6,7 @@ author:
 author_page: https://bagerbach.com
 categories: []
 description: Helps you write notes on podcasts.
-downloads: 40923
+downloads: 41320
 funding_page: https://buymeacoffee.com/chhoumann
 mobile: true
 number: 576

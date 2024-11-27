@@ -7,7 +7,7 @@ author_page: https://github.com/jrymk
 categories: []
 description: 'Restore tab key behaviour: tab key inserts a tab character, the way
   it should be.'
-downloads: 9208
+downloads: 9301
 mobile: true
 number: 793
 title: Restore Tab Key

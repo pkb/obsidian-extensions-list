@@ -7,7 +7,7 @@ author_page: https://www.linkedin.com/in/tconnormeyers/
 categories: []
 description: Type multiple letters at the same time to trigger text insertion, template
   insertion, or command execution.
-downloads: 4316
+downloads: 4333
 mobile: false
 number: 670
 title: Chorded Hotkeys

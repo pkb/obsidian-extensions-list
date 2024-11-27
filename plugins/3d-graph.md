@@ -1,18 +1,18 @@
 ---
 aliases:
-  - 3D Graph
+- 3D Graph
 author:
-  - Alexander Weichart
+- Alexander Weichart
 author_page: https://github.com/AlexW00
 categories:
-  - "[[categories/Visualization|Visualization]]"
+- '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian
-downloads: 30894
+downloads: 31258
 mobile: true
 number: 673
 title: 3D Graph
 type: plugin
-updated: 2023-10-25T00:05:24
+updated: '2023-10-25T00:05:24'
 url: https://github.com/AlexW00/obsidian-3d-graph
 version: 1.0.5
 ---

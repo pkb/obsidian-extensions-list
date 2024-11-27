@@ -7,7 +7,7 @@ author_page: https://github.com/autohub7
 categories: []
 description: This plugin rotates opened files to the left or right with a specified
   interval
-downloads: 3313
+downloads: 3317
 funding_page: https://ko-fi.com/stevenjin
 mobile: true
 number: 872

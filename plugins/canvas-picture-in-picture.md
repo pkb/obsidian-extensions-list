@@ -7,7 +7,7 @@ author_page: https://hypersphere.blog/
 categories: []
 description: Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture
   mode)
-downloads: 417
+downloads: 445
 funding_page: ko-fi.com/hypersphere
 mobile: true
 number: 1829

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/leonhma
 categories: []
 description: A plugin for displaying mathematical graphs in obsidian.md.
-downloads: 14245
+downloads: 14379
 mobile: true
 number: 523
 title: Obsidian Functionplot

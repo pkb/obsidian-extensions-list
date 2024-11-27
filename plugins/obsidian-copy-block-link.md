@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgmeyers/obsidian-copy-block-link
 categories: []
 description: Get links to blocks and headings from Obsidian's right click menu
-downloads: 48373
+downloads: 48655
 mobile: true
 number: 267
 title: Copy Block Link

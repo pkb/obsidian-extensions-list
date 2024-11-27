@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/0skater0
 categories: []
 description: Let's you adjust the line width on a note-by-note basis.
-downloads: 6063
+downloads: 6198
 funding_page: https://ko-fi.com/skater_
 mobile: false
 number: 1296

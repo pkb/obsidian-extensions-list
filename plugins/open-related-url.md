@@ -6,7 +6,7 @@ author:
 author_page: https://danpickett.com
 categories: []
 description: Opens URLs found in a note's YAML frontmatter
-downloads: 3979
+downloads: 3983
 mobile: true
 number: 575
 title: Open Related Url

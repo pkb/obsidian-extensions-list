@@ -6,7 +6,7 @@ author:
 author_page: https://axle.design
 categories: []
 description: Build advanced search queries in Obsidian.
-downloads: 27238
+downloads: 27287
 mobile: true
 number: 79
 title: Vantage - Advanced search builder

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SimonTC
 categories: []
 description: Automatically create notes when links are created to them.
-downloads: 10846
+downloads: 10884
 mobile: true
 number: 524
 title: Note Auto Creator

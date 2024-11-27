@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aaaaayushh
 categories: []
 description: Convert natural language to LaTeX equations using a local LLM.
-downloads: 302
+downloads: 319
 mobile: false
 number: 1853
 title: AI LaTeX Generator

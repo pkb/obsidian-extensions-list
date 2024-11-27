@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Advanced Canvas
+- Advanced Canvas
 author:
-  - Developer-Mike
+- Developer-Mike
 author_page: https://github.com/Developer-Mike
 categories:
-  - "[[categories/Canvas|Canvas]]"
-description: Supercharge your canvas experience! Create presentations, flowcharts and more!
-downloads: 72231
+- '[[categories/Canvas|Canvas]]'
+description: Supercharge your canvas experience! Create presentations, flowcharts
+  and more!
+downloads: 75525
 funding_page: https://ko-fi.com/X8X27IA08
 mobile: true
 number: 1474
 title: Advanced Canvas
 type: plugin
-updated: 2024-11-08T22:33:39
+updated: '2024-11-08T22:33:39'
 url: https://github.com/Developer-Mike/obsidian-advanced-canvas
 version: 3.2.0
 ---

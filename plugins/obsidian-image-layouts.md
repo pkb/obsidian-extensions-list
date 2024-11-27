@@ -6,7 +6,7 @@ author:
 author_page: https://vertis.io
 categories: []
 description: Add beautiful image layouts to your notes
-downloads: 16522
+downloads: 16783
 mobile: true
 number: 689
 title: Image Layouts

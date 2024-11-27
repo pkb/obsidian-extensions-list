@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SkepticMystic/adjacency-matrix-maker
 categories: []
 description: Create an interactive image of an adjacency matrix of your vault
-downloads: 5665
+downloads: 5682
 mobile: true
 number: 203
 title: Adjacency Matrix Maker

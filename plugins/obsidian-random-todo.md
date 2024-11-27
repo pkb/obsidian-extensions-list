@@ -7,7 +7,7 @@ author_page: https://github.com/NatiAris/
 categories: []
 description: Open a random file containing your custom to-do marker, or a random marker
   at its position
-downloads: 4541
+downloads: 4550
 mobile: true
 number: 233
 title: Random To-Do

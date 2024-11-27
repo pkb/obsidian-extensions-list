@@ -6,7 +6,7 @@ author:
 author_page: https://www.seebin.com
 categories: []
 description: Upload images, videos, audio, pdf, and other files to Minio OSS.
-downloads: 2839
+downloads: 2859
 mobile: true
 number: 1278
 title: Minio Uploader

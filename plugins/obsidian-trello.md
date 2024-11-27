@@ -7,7 +7,7 @@ author_page: https://nathan-smith.org/
 categories: []
 description: Connect an existing or new Trello card to an Obsidian note. Once connected,
   see basic info, add and view comments, and check off checklist items.
-downloads: 12141
+downloads: 12284
 mobile: true
 number: 272
 title: Trello

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jqhoogland
 categories: []
 description: Enables running squiggle code snippets within a note.
-downloads: 3501
+downloads: 3502
 mobile: false
 number: 619
 title: Squiggle

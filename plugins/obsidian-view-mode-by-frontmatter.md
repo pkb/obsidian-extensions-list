@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Force note view mode
+- Force note view mode
 author:
-  - Benny Wydooghe
+- Benny Wydooghe
 author_page: https://i-net.be
 categories:
-  - "[[categories/UI customization|UI customization]]"
-description: This plugin allows to force the view mode and editing mode for a note by using front matter
-downloads: 44536
+- '[[categories/UI customization|UI customization]]'
+description: This plugin allows to force the view mode and editing mode for a note
+  by using front matter
+downloads: 44969
 mobile: true
 number: 251
 title: Force note view mode
 type: plugin
-updated: 2023-12-08T01:40:27
+updated: '2023-12-08T01:40:27'
 url: https://github.com/bwydoogh/obsidian-force-view-mode-of-note
 version: 1.2.2
 ---

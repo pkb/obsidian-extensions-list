@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Quorafind
 categories: []
 description: mini context toolbar in editor
-downloads: 4783
+downloads: 4805
 mobile: false
 number: 1044
 title: Mini Toolbar

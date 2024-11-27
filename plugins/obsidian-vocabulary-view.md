@@ -7,7 +7,7 @@ author_page: ''
 categories: []
 description: Write down some words with their explanations and preview them in a vocabulary
   test style
-downloads: 6742
+downloads: 6761
 mobile: true
 number: 311
 title: Vocabulary View

@@ -1,19 +1,21 @@
 ---
 aliases:
-  - Image Context Menus
+- Image Context Menus
 author:
-  - NomarCub
+- NomarCub
 author_page: https://github.com/NomarCub
 categories:
-  - "[[categories/Image handling|Image handling]]"
-description: Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab context menus for images. Also has an pen PDF externally context menu.
-downloads: 41027
+- '[[categories/Image handling|Image handling]]'
+description: Copy to clipboard, Open in default app, Show in system explorer, Reveal
+  file in navigation, Open in new tab context menus for images. Also has an pen PDF
+  externally context menu.
+downloads: 41343
 funding_page: https://ko-fi.com/nomarcub
 mobile: true
 number: 220
 title: Image Context Menus
 type: plugin
-updated: 2024-09-07T19:34:03
+updated: '2024-09-07T19:34:03'
 url: https://github.com/NomarCub/obsidian-copy-url-in-preview
 version: 1.9.1
 ---

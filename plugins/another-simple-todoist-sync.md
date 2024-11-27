@@ -1,21 +1,21 @@
 ---
 aliases:
-  - Another Simple Todoist Sync
+- Another Simple Todoist Sync
 author:
-  - eudennis
+- eudennis
 author_page: https://github.com/eudennis/
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Sync tasks with Todoist from within your notes.
-downloads: 91
-funding_page: ""
+downloads: 166
+funding_page: ''
 mobile: true
 number: 1959
 title: Another Simple Todoist Sync
 type: plugin
-updated: 2024-11-18T01:40:00
+updated: '2024-11-24T05:13:53'
 url: https://github.com/eudennis/ultimate-todoist-sync-for-obsidian-experiment
-version: 0.4.7
+version: 0.4.8
 ---
 
 %% README_START %%

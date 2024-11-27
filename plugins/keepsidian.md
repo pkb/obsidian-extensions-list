@@ -1,18 +1,18 @@
 ---
 aliases:
-  - KeepSidian
+- KeepSidian
 author:
-  - lc0rp
+- lc0rp
 author_page: https://github.com/lc0rp
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import Google Keep notes.
-downloads: 293
+downloads: 308
 mobile: false
 number: 1861
 title: KeepSidian
 type: plugin
-updated: 2024-10-11T17:52:40
+updated: '2024-10-11T17:52:40'
 url: https://github.com/lc0rp/KeepSidian
 version: 1.0.10
 ---

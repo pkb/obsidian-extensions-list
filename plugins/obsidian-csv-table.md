@@ -6,7 +6,7 @@ author:
 author_page: https://coddingtonbear.net/
 categories: []
 description: Render CSV data as a table within your notes.
-downloads: 20749
+downloads: 20892
 mobile: true
 number: 207
 title: CSV Table

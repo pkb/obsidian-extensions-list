@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lijyze
 categories: []
 description: Keep you away from directly operating of yaml front matter
-downloads: 9299
+downloads: 9338
 mobile: true
 number: 526
 title: Yaml Manager

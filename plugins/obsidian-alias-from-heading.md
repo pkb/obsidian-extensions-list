@@ -6,7 +6,7 @@ author:
 author_page: https://bash.am
 categories: []
 description: Implicitly add an alias matching the first heading in a document.
-downloads: 4987
+downloads: 5006
 mobile: true
 number: 639
 title: Alias from heading

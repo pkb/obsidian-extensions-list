@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lijyze
 categories: []
 description: Give additioinal features to  code blocks.
-downloads: 12200
+downloads: 12288
 mobile: true
 number: 533
 title: Advanced Codeblock

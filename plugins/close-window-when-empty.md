@@ -6,7 +6,7 @@ author:
 author_page: https://jadin.me
 categories: []
 description: Close the window when the last note is closed, kind of how browsers work.
-downloads: 101
+downloads: 105
 mobile: false
 number: 1716
 title: Close Window When Empty

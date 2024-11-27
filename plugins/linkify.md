@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Converts matching text into links.
-downloads: 6573
+downloads: 6599
 mobile: true
 number: 539
 title: Linkify

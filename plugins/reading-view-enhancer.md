@@ -7,12 +7,12 @@ author_page: https://github.com/galacsh
 categories: []
 description: Enhances reading view. Use arrow keys to navigate between blocks or toggle
   collapse.
-downloads: 4593
+downloads: 4713
 mobile: true
 number: 901
 title: Reading View Enhancer
 type: plugin
-updated: '2024-08-10T12:37:56'
+updated: '2024-11-18T09:50:45'
 url: https://github.com/Galacsh/obsidian-reading-view-enhancer
 version: 0.1.8
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/byfun/
 categories: []
 description: Helper to copy and paste highlights
-downloads: 2192
+downloads: 2202
 funding_page: https://ko-fi.com/byfun
 mobile: true
 number: 1334

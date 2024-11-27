@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/javalent
 categories: []
 description: Interactive maps inside your notes
-downloads: 184459
+downloads: 185923
 mobile: true
 number: 121
 title: Leaflet

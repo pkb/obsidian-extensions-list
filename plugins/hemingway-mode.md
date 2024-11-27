@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jobedom
 categories: []
 description: Prevents any editing, only letting you write ahead.
-downloads: 1109
+downloads: 1125
 funding_page: https://ko-fi.com/jobedom
 mobile: true
 number: 1552

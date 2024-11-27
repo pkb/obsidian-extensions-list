@@ -7,7 +7,7 @@ author_page: https://studiowebux.com
 categories: []
 description: Financial Documentation and Tracking using CSV format and Chart.js directly
   in Obsidian
-downloads: 5249
+downloads: 5273
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/studiowebux
 mobile: true

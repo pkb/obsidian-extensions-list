@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/greasycat
 categories: []
 description: Provide math autocompletion and customizable snippets.
-downloads: 6230
+downloads: 6305
 funding_page: https://www.buymeacoffee.com/greasycat
 mobile: true
 number: 937

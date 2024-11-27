@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Gitlab Issues
+- Gitlab Issues
 author:
-  - Ben Roberts
+- Ben Roberts
 author_page: https://github.com/benr77
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import issues from Gitlab into Obsidian.
-downloads: 4583
+downloads: 4595
 mobile: true
 number: 641
 title: Gitlab Issues
 type: plugin
-updated: 2024-05-30T12:39:46
+updated: '2024-05-30T12:39:46'
 url: https://github.com/benr77/obsidian-gitlab-issues
 version: 0.1.10
 ---

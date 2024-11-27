@@ -6,7 +6,7 @@ author:
 author_page: https://ztdp.ca/
 categories: []
 description: Allows tags to be opened as links using a hotkey.
-downloads: 777
+downloads: 785
 mobile: true
 number: 1549
 title: Tag Links

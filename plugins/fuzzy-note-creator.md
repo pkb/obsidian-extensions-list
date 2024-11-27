@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/HaloGamer33
 categories: []
 description: Create notes in folders with the help of a fuzzy finder.
-downloads: 337
+downloads: 362
 funding_page: https://ko-fi.com/halogamer33
 mobile: false
 number: 1649

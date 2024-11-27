@@ -7,7 +7,7 @@ author_page: https://github.com/DearVikki
 categories: []
 description: Convert highlights, underlines, bolded texts or any selected texts into
   clozes.
-downloads: 10034
+downloads: 10123
 mobile: true
 number: 1075
 title: Cloze

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/thisdotrob/
 categories: []
 description: Displays relative line numbers in the editor's gutter.
-downloads: 4458
+downloads: 4469
 mobile: false
 number: 416
 title: Relativenumber (relative line numbers)

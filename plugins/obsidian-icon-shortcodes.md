@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aidenlx
 categories: []
 description: Insert emoji and custom icons with shortcodes
-downloads: 43347
+downloads: 43562
 mobile: true
 number: 378
 title: Icon Shortcodes

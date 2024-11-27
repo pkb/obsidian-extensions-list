@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Advanced Random Note
+- Advanced Random Note
 author:
-  - Karsten Finderup Pedersen
+- Karsten Finderup Pedersen
 author_page: https://github.com/karstenpedersen
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
-description: Open random notes with custom queries in languages like Dataview and Regex.
-downloads: 5648
+- '[[categories/Search and navigation|Search and navigation]]'
+description: Open random notes with custom queries in languages like Dataview and
+  Regex.
+downloads: 5676
 mobile: true
 number: 995
 title: Advanced Random Note
 type: plugin
-updated: 2023-10-16T19:03:48
+updated: '2023-10-16T19:03:48'
 url: https://github.com/karstenpedersen/obsidian-advanced-random-note
 version: 0.0.11
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://jmill.dev
 categories: []
 description: Autocompletes tags in the frontmatter tags field
-downloads: 21936
+downloads: 22016
 mobile: true
 number: 411
 title: Frontmatter Tag Suggest

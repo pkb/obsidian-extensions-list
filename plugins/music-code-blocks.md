@@ -7,7 +7,7 @@ author_page: https://github.com/abcjs-music/obsidian-plugin-abcjs
 categories: []
 description: Obsidian plugin which renders ABC music notation from code blocks using
   the `abc` language specifier.
-downloads: 17654
+downloads: 17849
 mobile: true
 number: 40
 title: ABC Music Notation

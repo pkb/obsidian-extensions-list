@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MohrJonas
 categories: []
 description: Utility to easily create LaTeX matrices
-downloads: 7085
+downloads: 7128
 mobile: false
 number: 460
 title: Obsidian matrix

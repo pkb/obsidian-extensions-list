@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Pomodoro Widget
+- Pomodoro Widget
 author:
-  - bitegw
+- bitegw
 author_page: github.com/bitegw
 categories:
-  - "[[categories/Time management|Time management]]"
-description: Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.
-downloads: 3068
+- '[[categories/Time management|Time management]]'
+description: Provides a widget based on a pomodoro kitchen timer. It's designed to
+  be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.
+downloads: 3142
 mobile: true
 number: 1477
 title: Pomodoro Widget
 type: plugin
-updated: 2024-03-01T21:11:02
+updated: '2024-03-01T21:11:02'
 url: https://github.com/bitegw/obsidian-pomodoro-widget
 version: 1.0.1
 ---

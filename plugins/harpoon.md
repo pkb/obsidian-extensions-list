@@ -7,7 +7,7 @@ author_page: github.com/rodrez
 categories: []
 description: Use shortcuts to manage and navigate your top four frequently-used files
   in Obsidian.
-downloads: 3425
+downloads: 3427
 funding_page: https://www.buymeacoffee.com/devmask
 mobile: true
 number: 1089

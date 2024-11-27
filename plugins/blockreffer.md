@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Blockreffer
+- Blockreffer
 author:
-  - tyler.earth
+- tyler.earth
 author_page: https://tyler.earth/
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Search and embed blocks with ^block-references (aka ^block-ids)
-downloads: 314
+downloads: 394
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/tyler.earth
   GitHub Sponsor: https://github.com/sponsors/tyler-dot-earth
@@ -16,7 +16,7 @@ mobile: true
 number: 1851
 title: Blockreffer
 type: plugin
-updated: 2024-11-18T00:47:38
+updated: '2024-11-18T00:47:38'
 url: https://github.com/tyler-dot-earth/obsidian-blockreffer
 version: 1.5.0
 ---

@@ -8,7 +8,7 @@ categories: []
 description: "Done is better than perfect. Complete your first-messy-draft before
   you make it perfect. Your delete key will be DISABLED and all you can do is JUST
   BURN YOUR KEYBOARDS\U0001F525"
-downloads: 60
+downloads: 111
 funding_page: buymeacoffee.com/rcxzwh81qd
 mobile: true
 number: 2001

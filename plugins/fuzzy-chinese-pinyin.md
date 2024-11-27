@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lazyloong
 categories: []
 description: Provide the function of fuzzy search using Chinese Pinyin.
-downloads: 14729
+downloads: 15044
 mobile: true
 number: 927
 title: Fuzzy Chinese Pinyin

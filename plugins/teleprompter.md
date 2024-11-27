@@ -6,7 +6,7 @@ author:
 author_page: https://www.lumetrium.com
 categories: []
 description: Teleprompter window for live presentations and video production.
-downloads: 4650
+downloads: 4694
 mobile: true
 number: 1243
 title: Teleprompter

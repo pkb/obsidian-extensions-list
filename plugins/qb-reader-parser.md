@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/J-Barta
 categories: []
 description: Parse tossups from QB Reader into individual clues to send to Anki.
-downloads: 2907
+downloads: 2918
 mobile: false
 number: 1166
 title: QB Reader Parser

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/typhoon-kim
 categories: []
 description: Syntax highlighting for Svelte code blocks.
-downloads: 311
+downloads: 326
 funding_page: https://github.com/sponsors/typhoon-kim
 mobile: true
 number: 1710

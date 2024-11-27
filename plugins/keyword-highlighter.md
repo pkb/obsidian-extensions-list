@@ -7,7 +7,7 @@ author_page: https://marcel-goldammer.de/
 categories: []
 description: Automatically highlight specified keywords within your Obsidian notes
   for enhanced visibility and quick reference.
-downloads: 5531
+downloads: 5609
 mobile: true
 number: 1253
 title: Keyword Highlighter

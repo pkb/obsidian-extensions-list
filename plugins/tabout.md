@@ -6,7 +6,7 @@ author:
 author_page: https://phibr0.de
 categories: []
 description: Easily "tab out" of Links or other Markdown Formatting Characters.
-downloads: 8520
+downloads: 8568
 funding_page: https://ko-fi.com/phibr0
 mobile: false
 number: 326

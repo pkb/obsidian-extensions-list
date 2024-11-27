@@ -6,7 +6,7 @@ author:
 author_page: https://www.tylersuzukinelson.com
 categories: []
 description: Provides a list representation for your Zettelkasten.
-downloads: 3000
+downloads: 3022
 mobile: true
 number: 1256
 title: Zettelkasten Outliner

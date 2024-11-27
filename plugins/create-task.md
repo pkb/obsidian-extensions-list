@@ -6,7 +6,7 @@ author:
 author_page: https://simonknittel.de
 categories: []
 description: Create tasks faster from anywhere.
-downloads: 2620
+downloads: 2635
 funding_page:
   Buy Me A Coffee: https://buymeacoffee.com/simonknittel
 mobile: true

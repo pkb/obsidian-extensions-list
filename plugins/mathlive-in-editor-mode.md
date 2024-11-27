@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MizarZh
 categories: []
 description: MathLive input in editor mode
-downloads: 965
+downloads: 991
 mobile: true
 number: 1670
 title: MathLive in Editor Mode

@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Enhanced Image
+- Enhanced Image
 author:
-  - situ2001
+- situ2001
 author_page: https://situ2001.com
 categories:
-  - "[[categories/Image handling|Image handling]]"
-description: Enhance the experience of image seamlessly. For example, operations for image in context menu, command palette.
-downloads: 212
+- '[[categories/Image handling|Image handling]]'
+description: Enhance the experience of image seamlessly. For example, operations for
+  image in context menu, command palette.
+downloads: 236
 funding_page: https://www.paypal.com/paypalme/situ2oo1
 mobile: true
 number: 1898
 title: Enhanced Image
 type: plugin
-updated: 2024-09-04T07:16:17
+updated: '2024-09-04T07:16:17'
 url: https://github.com/situ2001/obsidian-enhanced-image
 version: 0.0.1
 ---

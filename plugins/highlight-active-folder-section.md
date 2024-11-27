@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/justanotherjurastudent
 categories: []
 description: Highlight the active folder section and the title in the file explorer.
-downloads: 694
+downloads: 746
 mobile: true
 number: 1882
 title: Highlight active folder section

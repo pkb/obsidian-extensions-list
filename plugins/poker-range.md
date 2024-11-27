@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/marplek
 categories: []
 description: Create a poker range grid
-downloads: 60
+downloads: 68
 mobile: true
 number: 1899
 title: Poker Range

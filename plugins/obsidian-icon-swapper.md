@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mgmeyers/obsidian-icon-swapper
 categories: []
 description: Allows swapping out Obsidian's default icons.
-downloads: 8318
+downloads: 8341
 mobile: true
 number: 154
 title: Icon Swapper

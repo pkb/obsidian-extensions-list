@@ -7,7 +7,7 @@ author_page: https://github.com/justanotherjurastudent
 categories: []
 description: Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen
   mit Gesetzesanbietern.
-downloads: 45
+downloads: 52
 funding_page: https://buymeacoffee.com/justanotherjurastudent
 mobile: true
 number: 1951

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/beaussan
 categories: []
 description: Keep front matter in sync with the last edit time
-downloads: 43850
+downloads: 44221
 mobile: true
 number: 307
 title: Update time on edit

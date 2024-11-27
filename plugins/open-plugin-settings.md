@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Mara-Li
 categories: []
 description: Create a command to open a specified plugin settings.
-downloads: 4305
+downloads: 4313
 funding_page: https://ko-fi.com/Mara__Li
 mobile: true
 number: 930

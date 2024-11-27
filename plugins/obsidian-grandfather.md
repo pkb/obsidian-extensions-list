@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/noatpad
 categories: []
 description: A simple plugin to display the time and date on the status bar
-downloads: 7936
+downloads: 7986
 mobile: true
 number: 201
 title: Grandfather

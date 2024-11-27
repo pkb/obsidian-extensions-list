@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Charts
+- Charts
 author:
-  - phibr0
+- phibr0
 author_page: https://github.com/phibr0
 categories:
-  - "[[categories/Charting|Charting]]"
+- '[[categories/Charting|Charting]]'
 description: This Plugin lets you create Charts within Obsidian
-downloads: 199290
+downloads: 200675
 funding_page: https://ko-fi.com/phibr0
 mobile: true
 number: 65
 title: Charts
 type: plugin
-updated: 2024-01-26T16:13:43
+updated: '2024-01-26T16:13:43'
 url: https://github.com/phibr0/obsidian-charts
 version: 3.9.0
 ---

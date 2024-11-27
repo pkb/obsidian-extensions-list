@@ -6,7 +6,7 @@ author:
 author_page: https://felker.dev
 categories: []
 description: Syncs your public Letterboxd diary.
-downloads: 542
+downloads: 569
 mobile: true
 number: 1602
 title: Letterboxd Diary RSS Sync

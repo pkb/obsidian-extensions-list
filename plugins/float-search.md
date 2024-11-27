@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Floating Search
+- Floating Search
 author:
-  - Boninall
+- Boninall
 author_page: https://github.com/Quorafind
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: You can use search view in modal/leaf/popout window now.
-downloads: 22056
+downloads: 22463
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/boninall
   支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg
@@ -16,7 +16,7 @@ mobile: true
 number: 848
 title: Floating Search
 type: plugin
-updated: 2024-10-31T14:26:55
+updated: '2024-10-31T14:26:55'
 url: https://github.com/Quorafind/Obsidian-Float-Search
 version: 4.0.0
 ---

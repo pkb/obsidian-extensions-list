@@ -7,7 +7,7 @@ author_page: https://github.com/gitcpy
 categories: []
 description: Add zoom and drag functionality to diagrams from Mermaid, Plantuml, Graphviz,
   Gravizo and so on
-downloads: 1305
+downloads: 1492
 mobile: true
 number: 1913
 title: Diagram Zoom Drag

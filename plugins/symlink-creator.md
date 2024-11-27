@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/pteridin
 categories: []
 description: Create symlinks to files and folders inside and outside of your vault.
-downloads: 224
+downloads: 248
 mobile: false
 number: 1909
 title: Symlink Creator

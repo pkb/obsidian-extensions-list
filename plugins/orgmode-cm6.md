@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bbazard
 categories: []
 description: Edit Orgmode files in Obsidian.
-downloads: 3078
+downloads: 3144
 mobile: true
 number: 1379
 title: Orgmode (cm6)

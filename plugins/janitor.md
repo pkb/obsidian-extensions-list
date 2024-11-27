@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Canna71
 categories: []
 description: Performs cleanup tasks on the Obsidian vault
-downloads: 31299
+downloads: 31565
 funding_page: https://www.buymeacoffee.com/gcannata
 mobile: true
 number: 598

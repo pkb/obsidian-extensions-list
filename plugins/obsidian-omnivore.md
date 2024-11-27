@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/omnivore-app
 categories: []
 description: This is an Omnivore plugin for Obsidian.
-downloads: 120692
+downloads: 121218
 mobile: true
 number: 794
 title: Omnivore

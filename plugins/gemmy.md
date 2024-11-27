@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: 2023 April Fool's plugin brought to you by Obsidian
-downloads: 5284
+downloads: 5330
 funding_page: https://obsidian.md/pricing
 mobile: true
 number: 843

@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Micro templates
+- Micro templates
 author:
-  - Konstantin Epishev
+- Konstantin Epishev
 author_page: https://epishev.me
 categories:
-  - "[[categories/Templates|Templates]]"
+- '[[categories/Templates|Templates]]'
 description: Flexible embedded micro templates powered by javascript functions
-downloads: 3510
+downloads: 3518
 mobile: true
 number: 1034
 title: Micro templates
 type: plugin
-updated: 2023-07-31T02:59:17
+updated: '2023-07-31T02:59:17'
 url: https://github.com/epszaw/obsidian-micro-templates
 version: 1.0.3
 ---

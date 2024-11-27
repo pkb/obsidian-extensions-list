@@ -1,18 +1,18 @@
 ---
 aliases:
-  - File Cleaner
+- File Cleaner
 author:
-  - Johnson0907
+- Johnson0907
 author_page: https://github.com/Johnson0907
 categories:
-  - "[[categories/Attachments management|Attachments management]]"
+- '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.
-downloads: 20994
+downloads: 21156
 mobile: true
 number: 456
 title: File Cleaner
 type: plugin
-updated: 2022-04-01T18:49:05
+updated: '2022-04-01T18:49:05'
 url: https://github.com/Johnson0907/obsidian-file-cleaner
 version: 0.1.5
 ---

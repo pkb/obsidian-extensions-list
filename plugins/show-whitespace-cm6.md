@@ -7,7 +7,7 @@ author_page: https://github.com/ebullient
 categories: []
 description: CSS styles and CM6 extensions to highlight whitespace in Source and Live
   Preview modes.
-downloads: 5623
+downloads: 5730
 mobile: true
 number: 1310
 title: Show Whitespace

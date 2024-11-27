@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/benjamonnguyen
 categories: []
 description: Manage your tasks inside codeblocks according to the Todo.txt specification.
-downloads: 3645
+downloads: 3677
 funding_page: https://www.buymeacoffee.com/benjamonn
 mobile: true
 number: 1189

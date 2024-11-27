@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vincentbavitz
 categories: []
 description: Intelligently trancribe and categorize your voice notes
-downloads: 5156
+downloads: 5209
 mobile: false
 number: 1124
 title: Vox

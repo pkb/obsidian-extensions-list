@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/rpggio
 categories: []
 description: Create branching GPT chats using canvas notes.
-downloads: 7049
+downloads: 7076
 funding_page:
   Buy Me a Coffee: https://bmc.link/ryanp
 mobile: false

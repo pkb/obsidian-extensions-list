@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Vinzent03
 categories: []
 description: ''
-downloads: 37646
+downloads: 37834
 funding_page: https://ko-fi.com/vinzent
 mobile: true
 number: 80

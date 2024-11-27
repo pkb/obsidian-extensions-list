@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Admonition
+- Admonition
 author:
-  - Jeremy Valentine
-author_page: ""
+- Jeremy Valentine
+author_page: ''
 categories:
-  - "[[categories/Custom code blocks|Custom code blocks]]"
+- '[[categories/Custom code blocks|Custom code blocks]]'
 description: Enhanced callouts for Obsidian.md
-downloads: 733957
+downloads: 736820
 mobile: true
 number: 139
 title: Admonition
 type: plugin
-updated: 2024-06-02T06:06:28
+updated: '2024-06-02T06:06:28'
 url: https://github.com/javalent/admonitions
 version: 10.3.2
 ---

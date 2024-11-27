@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/masaki39
 categories: []
 description: Add & update simple literature notes from Zotero.
-downloads: 750
+downloads: 773
 mobile: false
 number: 1620
 title: Simple Citations

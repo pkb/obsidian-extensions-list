@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RyotaUshio
 categories: []
 description: Remove flickering inline math.
-downloads: 4670
+downloads: 4753
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
   GitHub Sponsor: https://github.com/sponsors/RyotaUshio

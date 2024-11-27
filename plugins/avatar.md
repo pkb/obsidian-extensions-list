@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/froehlichA
 categories: []
 description: Display an avatar image in your notes.
-downloads: 7199
+downloads: 7255
 mobile: true
 number: 849
 title: Avatar

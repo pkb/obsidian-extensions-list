@@ -7,7 +7,7 @@ author_page: https://github.com/gavvvr
 categories: []
 description: This plugin uploads images from your clipboard to imgur.com and embeds
   uploaded image to your note
-downloads: 47137
+downloads: 47628
 mobile: true
 number: 72
 title: Imgur

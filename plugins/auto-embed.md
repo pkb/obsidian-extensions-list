@@ -6,7 +6,7 @@ author:
 author_page: https://gnoxnahte.com
 categories: []
 description: Helps to embed links using markdown instead of iframe
-downloads: 4311
+downloads: 4406
 funding_page: https://ko-fi.com/gnoxnahtedev
 mobile: true
 number: 1561

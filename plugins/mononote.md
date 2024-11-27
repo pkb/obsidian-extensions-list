@@ -7,7 +7,7 @@ author_page: https://github.com/czottmann
 categories: []
 description: Ensures each note occupies only one tab. If a note is already open, its
   existing tab will be focussed instead of opening the same file in the current tab.
-downloads: 13825
+downloads: 14103
 mobile: true
 number: 1142
 title: Mononote

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/patrickchiang
 categories: []
 description: Replace all in vault.
-downloads: 242
+downloads: 281
 mobile: true
 number: 1956
 title: Replace All

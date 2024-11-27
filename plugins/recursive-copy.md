@@ -9,7 +9,7 @@ description: Recursively copies all markdown files in a folder, concatenates the
   and copies them into the clipboard. Useful for quickly loading context into AI.
   Can be triggered by right clicking a folder and selecting the context menu item,
   or by binding a key (will copy everything in the active file's folder).
-downloads: 158
+downloads: 168
 funding_page: ''
 mobile: true
 number: 1850

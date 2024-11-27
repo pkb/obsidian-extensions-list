@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jemstelos
 categories: []
 description: Take notes on YouTube videos and podcasts with media controls and timestamps.
-downloads: 10813
+downloads: 11189
 funding_page: https://www.buymeacoffee.com/jemstelos
 mobile: false
 number: 1493

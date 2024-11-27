@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/liamcain/
 categories: []
 description: Sync your Things.app Logbook with daily notes
-downloads: 9269
+downloads: 9291
 mobile: false
 number: 83
 title: Things Logbook

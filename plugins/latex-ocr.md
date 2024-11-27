@@ -6,7 +6,7 @@ author:
 author_page: github.com/lucasvanmol
 categories: []
 description: Generate LaTeX equations from images in your vault or clipboard.
-downloads: 5919
+downloads: 6077
 funding_page: https://www.buymeacoffee.com/lucasvanmol
 mobile: false
 number: 1347

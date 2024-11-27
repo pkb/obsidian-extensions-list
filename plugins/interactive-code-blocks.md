@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Windesheim-HBO-ICT
 categories: []
 description: Preview interactive code blocks!
-downloads: 144
+downloads: 149
 mobile: false
 number: 1725
 title: Interactive Code Blocks

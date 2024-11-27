@@ -7,7 +7,7 @@ author_page: https://github.com/RyotaUshio
 categories: []
 description: Dynamically adjust line height for lines & paragraphs containing CJK
   characters.
-downloads: 2067
+downloads: 2076
 funding_page: https://www.buymeacoffee.com/ryotaushio
 mobile: true
 number: 1328

@@ -7,7 +7,7 @@ author_page: https://flyingmarkhor.com
 categories: []
 description: Display a different piece of classical music each day with a YouTube
   link in your daily note.
-downloads: 249
+downloads: 256
 mobile: true
 number: 1788
 title: Everyday Classical Music

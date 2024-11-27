@@ -6,7 +6,7 @@ author:
 author_page: https://xuer.tech
 categories: []
 description: make cursor goaway after open a text file
-downloads: 9063
+downloads: 9285
 mobile: true
 number: 1371
 title: cursor-goaway

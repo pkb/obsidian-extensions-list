@@ -7,7 +7,7 @@ author:
 author_page: https://github.com/Erallie
 categories: []
 description: Inserts user-defined css snippets into the selected text.
-downloads: 312
+downloads: 333
 mobile: true
 number: 1869
 title: CSS Inserter

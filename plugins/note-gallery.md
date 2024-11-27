@@ -7,7 +7,7 @@ author_page: https://github.com/pashashocky
 categories: []
 description: A masonry gallery view for your notes. Allows to have a birds eye view
   over the notes in your vault.
-downloads: 9739
+downloads: 10197
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/pashashocky
   GitHub Sponsor: https://github.com/sponsors/pashashocky
@@ -15,9 +15,9 @@ mobile: true
 number: 1321
 title: Note Gallery
 type: plugin
-updated: '2024-02-12T02:35:40'
+updated: '2024-11-24T18:52:56'
 url: https://github.com/pashashocky/obsidian-note-gallery
-version: 0.0.59
+version: 0.0.60
 ---
 
 %% README_START %%

@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Vault Full Statistics
+- Vault Full Statistics
 author:
-  - Mikhail Savin
+- Mikhail Savin
 author_page: https://github.com/jtprogru
 categories:
-  - "[[categories/Statistics|Statistics]]"
-description: Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
-downloads: 110
+- '[[categories/Statistics|Statistics]]'
+description: Status bar item with vault full statistics such as number of notes, files,
+  attachments, links, tags and quality of vault.
+downloads: 176
 mobile: true
 number: 1967
 title: Vault Full Statistics
 type: plugin
-updated: 2024-10-01T17:58:28
+updated: '2024-10-01T17:58:28'
 url: https://github.com/jtprogru/obsidian-vault-full-statistics-plugin
 version: 1.0.1
 ---

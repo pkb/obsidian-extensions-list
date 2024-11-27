@@ -7,7 +7,7 @@ author_page: https://github.com/drewmcdonald
 categories: []
 description: Record, transcribe, and summarize audio directly into your vault with
   custom assistants.
-downloads: 730
+downloads: 794
 mobile: true
 number: 1918
 title: Magic Mic

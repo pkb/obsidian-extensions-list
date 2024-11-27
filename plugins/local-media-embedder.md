@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Local Media Embedder
+- Local Media Embedder
 author:
-  - seyf1elislam
+- seyf1elislam
 author_page: https://seyf1elislam.netlify.app/me
 categories:
-  - "[[categories/Media handling and embedding|Media handling and embedding]]"
+- '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Embed videos and images and audios from your local device  in your notes.
-downloads: 233
+downloads: 312
 mobile: false
 number: 1949
 title: Local Media Embedder
 type: plugin
-updated: 2024-10-21T17:51:43
+updated: '2024-10-21T17:51:43'
 url: https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin
 version: 0.1.2
 ---

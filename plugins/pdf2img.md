@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/rasmusachr
 categories: []
 description: Turns a PDF into a series of images.
-downloads: 77
+downloads: 117
 mobile: false
 number: 1970
 title: PDF2Image

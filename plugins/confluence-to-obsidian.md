@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Confluence Import
+- Confluence Import
 author:
-  - K
+- K
 author_page: https://github.com/KkEi34
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import Confluence space into Obsidian vault
-downloads: 4773
+downloads: 4802
 mobile: false
 number: 959
 title: Confluence Import
 type: plugin
-updated: 2024-01-26T22:17:11
+updated: '2024-01-26T22:17:11'
 url: https://github.com/KkEi34/confluence-to-obsidian-plugin
 version: 0.2.6
 ---

@@ -6,16 +6,16 @@ author:
 author_page: https://github.com/jeetsukumaran
 categories: []
 description: Track and align your focus.
-downloads: 538
+downloads: 596
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/jeetsukumaran
 mobile: true
 number: 1678
 title: Focus Tracker
 type: plugin
-updated: '2024-10-29T13:20:00'
+updated: '2024-11-26T12:45:33'
 url: https://github.com/jeetsukumaran/obsidian-focus-tracker
-version: 2.1.0
+version: 3.0.5
 ---
 
 %% README_START %%

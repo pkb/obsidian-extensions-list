@@ -6,7 +6,7 @@ author:
 author_page: https://fleetingnotes.app
 categories: []
 description: This is a plugin to sync Fleeting Notes with Obsidian
-downloads: 30658
+downloads: 30778
 mobile: true
 number: 480
 title: Fleeting Notes Sync

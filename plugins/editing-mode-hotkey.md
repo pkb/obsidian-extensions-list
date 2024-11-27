@@ -7,7 +7,7 @@ author_page: https://github.com/Signynt
 categories: []
 description: Adds a command and hotkey to toggle the default editing mode (between
   Live Preview and Source)
-downloads: 121
+downloads: 136
 mobile: true
 number: 1919
 title: Editing Mode Hotkey

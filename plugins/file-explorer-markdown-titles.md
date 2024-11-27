@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dyldog
 categories: []
 description: Shows the first markdown header of a note in the file explorer
-downloads: 5931
+downloads: 5943
 mobile: true
 number: 252
 title: File Explorer Markdown Titles

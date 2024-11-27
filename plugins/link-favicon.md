@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/joethei
 categories: []
 description: 'See the favicon for a linked website. '
-downloads: 40152
+downloads: 40451
 mobile: true
 number: 373
 title: Link Favicons

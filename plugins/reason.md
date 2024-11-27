@@ -6,7 +6,7 @@ author:
 author_page: https://jpham.space
 categories: []
 description: a REPL to digest your thoughts
-downloads: 2184
+downloads: 2208
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/jpham
 mobile: false

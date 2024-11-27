@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jgchristopher/
 categories: []
 description: This plugin helps you capture highlights from the web.
-downloads: 28662
+downloads: 28981
 funding_page: https://www.buymeacoffee.com/jgchristopher
 mobile: true
 number: 705

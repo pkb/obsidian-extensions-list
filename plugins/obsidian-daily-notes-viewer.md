@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Johnson0907
 categories: []
 description: Help you to view some recent daily notes on one page.
-downloads: 13924
+downloads: 13987
 mobile: true
 number: 472
 title: Daily Notes Viewer

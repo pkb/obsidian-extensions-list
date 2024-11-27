@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/masaki39
 categories: []
 description: Convert outline to continuous text.
-downloads: 789
+downloads: 807
 mobile: false
 number: 1599
 title: Outline Converter

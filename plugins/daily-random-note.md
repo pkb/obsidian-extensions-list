@@ -6,15 +6,15 @@ author:
 author_page: https://github.com/D4rkP1xel
 categories: []
 description: Automatically open daily random notes based on your preferences.
-downloads: 44
+downloads: 90
 funding_page: https://buymeacoffee.com/alex_swe
 mobile: false
 number: 2005
 title: Daily Random Note
 type: plugin
-updated: '2024-11-15T02:02:00'
+updated: '2024-11-18T21:20:18'
 url: https://github.com/D4rkP1xel/daily-random-note
-version: 1.0.1
+version: 1.0.2
 ---
 
 %% README_START %%

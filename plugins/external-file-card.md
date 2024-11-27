@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/James-Yu
 categories: []
 description: Display file cards for external files.
-downloads: 244
+downloads: 257
 mobile: true
 number: 1859
 title: External File Card

@@ -6,7 +6,7 @@ author:
 author_page: https://turulix.de/
 categories: []
 description: This Plugin will automatically generate a TOC for the current Folder.
-downloads: 22531
+downloads: 22745
 funding_page: https://www.buymeacoffee.com/turulix
 mobile: true
 number: 510

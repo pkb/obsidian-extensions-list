@@ -7,7 +7,7 @@ author_page: https://www.moulinette.cloud
 categories: []
 description: Search, browse and download TTRPG (tabletop role-playing game) content
   from Moulinette Cloud.
-downloads: 1488
+downloads: 1504
 funding_page: https://www.patreon.com/moulinette
 mobile: false
 number: 1535

@@ -7,7 +7,7 @@ author_page: https://github.com/cloudy9101
 categories: []
 description: This plugin helps users easily search and insert images to editors from
   Unsplash / Pixabay / Pexels.
-downloads: 11781
+downloads: 11860
 mobile: true
 number: 628
 title: Image Inserter

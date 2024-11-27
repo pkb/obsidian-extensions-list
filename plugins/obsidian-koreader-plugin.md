@@ -7,7 +7,7 @@ author_page: https://federicogranata.dev
 categories: []
 description: This is a plugin for Obsidian. This plugin syncs highlights and notes
   taken in KOReader.
-downloads: 4365
+downloads: 4375
 mobile: false
 number: 401
 title: KOReader Highlights

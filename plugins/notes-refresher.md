@@ -7,7 +7,7 @@ author_page: https://github.com/connorpark24
 categories: []
 description: Provides AI-generated summaries (GPT) of three notes from your Vault
   every day.
-downloads: 262
+downloads: 270
 mobile: false
 number: 1773
 title: Notes Refresher

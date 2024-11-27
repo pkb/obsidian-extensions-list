@@ -7,7 +7,7 @@ author_page: https://www.macstories.net
 categories: []
 description: Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom
   commands.
-downloads: 12722
+downloads: 12829
 mobile: true
 number: 406
 title: Shortcut Launcher

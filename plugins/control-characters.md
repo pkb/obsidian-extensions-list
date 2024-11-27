@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/joethei
 categories: []
 description: Show control/non-printing characters in edit mode.
-downloads: 5455
+downloads: 5473
 mobile: true
 number: 478
 title: Control Characters

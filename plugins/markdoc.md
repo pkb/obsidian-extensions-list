@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kamoshi
 categories: []
 description: Basic support for Markdoc files
-downloads: 3311
+downloads: 3312
 mobile: true
 number: 919
 title: Markdoc

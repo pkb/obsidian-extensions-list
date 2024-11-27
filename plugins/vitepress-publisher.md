@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Vitepress Publisher
+- Vitepress Publisher
 author:
-  - mistj
+- mistj
 author_page: https://mistj.com
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: This is an plugin for more convenient preview and publishing of .md files using vitepress
-downloads: 160
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: This is an plugin for more convenient preview and publishing of .md files
+  using vitepress
+downloads: 166
 mobile: false
 number: 1860
 title: Vitepress Publisher
 type: plugin
-updated: 2024-09-30T20:27:39
+updated: '2024-09-30T20:27:39'
 url: https://github.com/tyrad/obsidian-vitepress
 version: 1.2.0
 ---

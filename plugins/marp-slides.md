@@ -6,7 +6,7 @@ author:
 author_page: https://samuele-cozzi.web.app/
 categories: []
 description: Create markdown-based Marp presentations in Obsidian
-downloads: 17706
+downloads: 17939
 mobile: true
 number: 879
 title: Marp Slides

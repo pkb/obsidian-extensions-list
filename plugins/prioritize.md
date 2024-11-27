@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/EloiMusk/
 categories: []
 description: Prioritize your tasks and notes in Obsidian.
-downloads: 4342
+downloads: 4351
 funding_page: https://www.buymeacoffee.com/eloimusk
 mobile: false
 number: 846

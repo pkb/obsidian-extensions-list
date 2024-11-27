@@ -7,7 +7,7 @@ author_page: https://github.com/pedersen
 categories: []
 description: This allows a developer to make a random vault of arbitrary size for
   testing their plugins.
-downloads: 3683
+downloads: 3687
 mobile: true
 number: 852
 title: Testing Vault

@@ -7,7 +7,7 @@ author_page: https://github.com/jemberton
 categories: []
 description: Adds a codeblock language to parse internal links and render them in
   a book style navigation.
-downloads: 50
+downloads: 86
 mobile: true
 number: 1969
 title: BookNav

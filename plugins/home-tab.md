@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/olrenso
 categories: []
 description: A browser-like search tab for your local files.
-downloads: 35244
+downloads: 36084
 mobile: true
 number: 821
 title: Home tab

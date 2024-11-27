@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/akopdev
 categories: []
 description: Create a literature notes from a BibTeX entries.
-downloads: 960
+downloads: 1017
 mobile: true
 number: 1650
 title: BibTeX Manager

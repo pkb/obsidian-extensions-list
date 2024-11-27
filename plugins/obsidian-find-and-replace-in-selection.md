@@ -6,7 +6,7 @@ author:
 author_page: https://thomasclark.io/
 categories: []
 description: Replace text within your current selection.
-downloads: 6457
+downloads: 6472
 mobile: true
 number: 230
 title: Find & Replace in Selection

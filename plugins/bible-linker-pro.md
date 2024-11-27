@@ -6,7 +6,7 @@ author:
 author_page: https://floydv.rf.gd
 categories: []
 description: Convert Bible texts to JW Library links.
-downloads: 1572
+downloads: 1587
 mobile: true
 number: 1411
 title: Bible linker Pro

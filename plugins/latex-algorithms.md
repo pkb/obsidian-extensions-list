@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SamZhang02
 categories: []
 description: Plugin to facilitate writing algorithm blocks in LaTeX
-downloads: 4683
+downloads: 4709
 funding_page: https://buymeacoffee.com/samzhang
 mobile: true
 number: 803

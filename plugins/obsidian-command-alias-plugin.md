@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yajamon/obsidian-command-alias-plugin
 categories: []
 description: This plugin gives aliases to Obsidian commands.
-downloads: 6058
+downloads: 6073
 mobile: true
 number: 259
 title: Command Alias

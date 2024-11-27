@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/shanedonburke
 categories: []
 description: Automatically archive notes once they reach a certain age
-downloads: 3101
+downloads: 3117
 mobile: true
 number: 1170
 title: Auto Archive

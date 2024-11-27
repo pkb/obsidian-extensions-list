@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/khoj-ai
 categories: []
 description: Your Second Brain
-downloads: 29349
+downloads: 30016
 mobile: true
 number: 771
 title: Khoj
 type: plugin
-updated: '2024-11-13T00:33:34'
+updated: '2024-11-24T13:01:21'
 url: https://github.com/khoj-ai/khoj
-version: 1.30.0
+version: 1.30.7
 ---
 
 %% README_START %%

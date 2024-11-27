@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/eoureo
 categories: []
 description: Run easily JavaScript codes for managing Obsidian and its notes.
-downloads: 5067
+downloads: 5101
 funding_page: https://buymeacoffee.com/eoureo
 mobile: true
 number: 1051

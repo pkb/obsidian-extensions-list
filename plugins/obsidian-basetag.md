@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/darrenkuro
 categories: []
 description: This plugin renders the basename of tags.
-downloads: 5660
+downloads: 5670
 mobile: true
 number: 726
 title: Base Tag Renderer

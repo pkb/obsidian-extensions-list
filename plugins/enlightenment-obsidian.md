@@ -8,7 +8,7 @@ categories: []
 description: Pay attention to what you're paying attention to. Enlightenment adds
   a 'zen mode' for Preview, hiding the contents of your notes except for what's underneath
   your pointer.
-downloads: 5120
+downloads: 5134
 mobile: true
 number: 515
 title: Enlightenment ✨

@@ -7,7 +7,7 @@ author_page: https://github.com/ryangomba
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that sorts todos by completion
   status.
-downloads: 5692
+downloads: 5740
 mobile: true
 number: 727
 title: Todo sort

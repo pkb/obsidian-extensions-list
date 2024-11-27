@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/cwfryer/
 categories: []
 description: Adds a fuzzy searched suggestion modal for callouts.
-downloads: 5999
+downloads: 6170
 mobile: true
 number: 1547
 title: Callout Suggestions

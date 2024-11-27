@@ -6,15 +6,15 @@ author:
 author_page: https://www.jparkerweb.com
 categories: []
 description: Apply an image from various sources as a banner to your notes.
-downloads: 2671
+downloads: 3423
 funding_page: https://ko-fi.com/jparkerweb
 mobile: true
 number: 1902
 title: Pixel Banner
 type: plugin
-updated: '2024-11-15T01:05:33'
+updated: '2024-11-26T02:30:07'
 url: https://github.com/jparkerweb/pixel-banner
-version: 2.10.1
+version: 2.10.2
 ---
 
 %% README_START %%

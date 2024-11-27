@@ -7,7 +7,7 @@ author_page: https://github.com/lusob
 categories: []
 description: This is a brAIn for Obsidian. This plugin implements a ChatGPT retrieval
   for your obsidian notes.
-downloads: 4501
+downloads: 4506
 funding_page: https://bmc.link/lusob
 mobile: false
 number: 939

@@ -8,7 +8,7 @@ author_page: https://github.com/nicobrauchtgit
 categories: []
 description: Interact with your privacy focused assistant, leveraging Ollama or OpenAI,
   making your second brain even smarter.
-downloads: 24801
+downloads: 25566
 mobile: false
 number: 1418
 title: Smart Second Brain

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Jambo2018
 categories: []
 description: Support multiple shortcut menus to improve input efficiency
-downloads: 12339
+downloads: 12385
 mobile: true
 number: 1105
 title: Typing Assistant

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/acidghost
 categories: []
 description: Automatically fill progress (as fraction or percentage) of check-lists.
-downloads: 827
+downloads: 872
 mobile: true
 number: 1712
 title: Checklist Progress

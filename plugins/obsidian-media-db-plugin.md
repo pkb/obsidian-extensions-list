@@ -7,7 +7,7 @@ author_page: https://www.moritzjung.dev
 categories: []
 description: A plugin that can query multiple APIs for movies, series, anime, games,
   music and wiki articles, and import them into your vault.
-downloads: 25502
+downloads: 25716
 funding_page: https://github.com/sponsors/mProjectsCode
 mobile: true
 number: 527

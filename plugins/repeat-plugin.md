@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Repeat
+- Repeat
 author:
-  - Andre Perunicic
+- Andre Perunicic
 author_page: https://github.com/prncc/obsidian-repeat-plugin/
 categories:
-  - "[[categories/Spaced repetition|Spaced repetition]]"
+- '[[categories/Spaced repetition|Spaced repetition]]'
 description: Review notes using periodic or spaced repetition.
-downloads: 9655
+downloads: 9710
 mobile: true
 number: 633
 title: Repeat
 type: plugin
-updated: 2024-09-04T02:29:51
+updated: '2024-09-04T02:29:51'
 url: https://github.com/prncc/obsidian-repeat-plugin
 version: 1.8.0
 ---

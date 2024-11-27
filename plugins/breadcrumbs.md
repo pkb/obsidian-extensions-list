@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SkepticMystic/breadcrumbs
 categories: []
 description: Add structured hierarchies to your notes
-downloads: 120810
+downloads: 121335
 funding_page: https://github.com/SkepticMystic/breadcrumbs#donations
 mobile: true
 number: 224

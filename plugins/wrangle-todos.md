@@ -6,7 +6,7 @@ author:
 author_page: https://jeelshah.com
 categories: []
 description: Wrangles your TODOs and puts them at the bottom of the file.
-downloads: 3148
+downloads: 3169
 mobile: true
 number: 1191
 title: TODO Wrangler

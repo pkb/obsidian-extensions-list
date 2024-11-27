@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/salockhart/obsidian-bbcode
 categories: []
 description: Convert Markdown files to BBCode
-downloads: 3781
+downloads: 3789
 mobile: true
 number: 518
 title: BBCode Convertor

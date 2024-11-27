@@ -10,7 +10,7 @@ description: Displays all open notes in a tab group as if they were a continuous
   from a folder, search results, or links in a file or Dataview/query block; use arrow
   keys to navigate between notes; reorder notes via tab header drag-and-drop, sorting,
   more.
-downloads: 11042
+downloads: 11178
 funding_page: https://www.buymeacoffee.com/fiLtliTFxQ
 mobile: true
 number: 1372

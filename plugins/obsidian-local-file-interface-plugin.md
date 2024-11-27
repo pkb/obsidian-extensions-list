@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/qawatake/obsidian-local-file-interface-plugin
 categories: []
 description: Provides commands for moving files in and out of the vault
-downloads: 5015
+downloads: 5023
 mobile: true
 number: 394
 title: Local File Interface

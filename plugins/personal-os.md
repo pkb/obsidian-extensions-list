@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/GengAd
 categories: []
 description: Streamlining task management and productivity with a touch of gamification
-downloads: 708
+downloads: 736
 funding_page: https://www.buymeacoffee.com/swandyos
 mobile: true
 number: 1608

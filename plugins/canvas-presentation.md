@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/quorafind
 categories: []
 description: A plugin to help you display cards based on sequence.
-downloads: 10642
+downloads: 10707
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/boninall
   支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg

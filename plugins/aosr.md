@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Aosr
+- Aosr
 author:
-  - linanwx
+- linanwx
 author_page: https://github.com/linanwx/aosr
 categories:
-  - "[[categories/Spaced repetition|Spaced repetition]]"
+- '[[categories/Spaced repetition|Spaced repetition]]'
 description: Another obsidian spaced repetition
-downloads: 10560
+downloads: 10622
 mobile: true
 number: 611
 title: Aosr
 type: plugin
-updated: 2024-07-21T17:03:11
+updated: '2024-07-21T17:03:11'
 url: https://github.com/linanwx/aosr
 version: 1.1.4
 ---

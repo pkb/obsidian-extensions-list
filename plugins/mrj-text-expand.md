@@ -6,7 +6,7 @@ author:
 author_page: https://mrjackphil.com
 categories: []
 description: Search and paste/transclude links to located files.
-downloads: 30553
+downloads: 30646
 mobile: true
 number: 11
 title: Text expand

@@ -7,7 +7,7 @@ author_page: https://sanqui.net
 categories: []
 description: Adds commands to save and restore the positions of nodes on the global
   graph view
-downloads: 20687
+downloads: 20977
 mobile: true
 number: 423
 title: Persistent Graph

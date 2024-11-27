@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/yuleicul
 categories: []
 description: Preview MDX in Obsidian, with support for Code Hike
-downloads: 3596
+downloads: 3610
 mobile: false
 number: 1068
 title: MDX

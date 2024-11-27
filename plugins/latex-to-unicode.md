@@ -6,7 +6,7 @@ author:
 author_page: https://fjdu.github.io
 categories: []
 description: Convert LaTeX commands into unicode sqeuences
-downloads: 3963
+downloads: 3974
 funding_page: https://www.buymeacoffee.com/fjdu
 mobile: true
 number: 838

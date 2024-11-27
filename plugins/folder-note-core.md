@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/aidenlx
 categories: []
 description: Provide core features and API for folder notes
-downloads: 38842
+downloads: 38958
 mobile: true
 number: 282
 title: Folder Note Core

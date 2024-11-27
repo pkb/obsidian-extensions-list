@@ -7,7 +7,7 @@ author_page: https://github.com/joeriddles
 categories: []
 description: Extended reader view support for task lists, including in-progress and
   won't do task items.
-downloads: 2550
+downloads: 2574
 mobile: true
 number: 1359
 title: Extended Task Lists

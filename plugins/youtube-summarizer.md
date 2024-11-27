@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ozdemir08
 categories: []
 description: A plugin to summarize the transcripts of Youtube videos.
-downloads: 3636
+downloads: 3696
 funding_page: https://www.buymeacoffee.com/mehmetozdemir
 mobile: true
 number: 1383

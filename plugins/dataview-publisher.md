@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Dataview Publisher
+- Dataview Publisher
 author:
-  - UD
+- UD
 author_page: https://notes.udus.dev
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
-description: Output markdown from your Dataview queries and keep them up to date. You can also publish them.
-downloads: 762
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
+description: Output markdown from your Dataview queries and keep them up to date.
+  You can also publish them.
+downloads: 900
 funding_page: https://www.buymeacoffee.com/udus
 mobile: true
 number: 1754
 title: Dataview Publisher
 type: plugin
-updated: 2024-11-16T15:02:32
+updated: '2024-11-16T15:02:32'
 url: https://github.com/udus122/dataview-publisher
 version: 0.3.10
 ---

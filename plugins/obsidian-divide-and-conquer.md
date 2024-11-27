@@ -7,7 +7,7 @@ author_page: https://github.com/chrisgrieser
 categories: []
 description: Provides commands for bulk enabling/disabling of plugins. Useful for
   debugging when you have many plugins.
-downloads: 7530
+downloads: 7561
 mobile: true
 number: 419
 title: Divide & Conquer

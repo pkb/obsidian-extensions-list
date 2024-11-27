@@ -6,15 +6,15 @@ author:
 author_page: ''
 categories: []
 description: Create Fantasy Statblocks in Obsidian.md
-downloads: 169432
+downloads: 171760
 funding_page: https://www.buymeacoffee.com/valentine195
 mobile: true
 number: 185
 title: Fantasy Statblocks
 type: plugin
-updated: '2024-11-05T21:20:36'
+updated: '2024-11-21T07:39:19'
 url: https://github.com/javalent/fantasy-statblocks
-version: 4.8.0
+version: 4.8.1
 ---
 
 %% README_START %%

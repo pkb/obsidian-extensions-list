@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/CodeListening
 categories: []
 description: 从bookxnote中同步笔记
-downloads: 96
+downloads: 110
 mobile: false
 number: 1931
 title: BookXNote Sync

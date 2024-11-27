@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/charliecm
 categories: []
 description: Open upcoming and/or past daily notes in their own panes, tabs, or windows.
-downloads: 4293
+downloads: 4298
 mobile: true
 number: 519
 title: Upcoming

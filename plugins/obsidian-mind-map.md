@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Mind Map
+- Mind Map
 author:
-  - lynchjames
+- lynchjames
 author_page: https://github.com/lynchjames
 categories:
-  - "[[categories/Mind mapping|Mind mapping]]"
+- '[[categories/Mind mapping|Mind mapping]]'
 description: A plugin to preview notes as Markmap mind maps
-downloads: 550448
+downloads: 554844
 mobile: true
 number: 50
 title: Mind Map
 type: plugin
-updated: 2020-12-13T22:33:04
+updated: '2020-12-13T22:33:04'
 url: https://github.com/lynchjames/obsidian-mind-map
 version: 1.1.0
 ---

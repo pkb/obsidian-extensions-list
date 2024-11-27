@@ -6,7 +6,7 @@ author:
 author_page: https://scrybble.ink
 categories: []
 description: Synchronize highlights from your ReMarkable to Obsidian!
-downloads: 12078
+downloads: 12310
 mobile: true
 number: 692
 title: Scrybble

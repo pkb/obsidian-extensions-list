@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/nicholas-wilcox
 categories: []
 description: Use TailwindCSS utility classes in your markup.
-downloads: 197
+downloads: 219
 mobile: false
 number: 1878
 title: Tailwind Snippet

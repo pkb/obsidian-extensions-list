@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Auto Glossary
+- Auto Glossary
 author:
-  - Ennio Italiano
+- Ennio Italiano
 author_page: https://ennioitaliano.github.io
 categories:
-  - "[[categories/Automation|Automation]]"
-description: Obsidian plugin to automatically create a file with an index (MOC), a glossary or both.
-downloads: 6934
+- '[[categories/Automation|Automation]]'
+description: Obsidian plugin to automatically create a file with an index (MOC), a
+  glossary or both.
+downloads: 6975
 mobile: false
 number: 693
 title: Auto Glossary
 type: plugin
-updated: 2023-03-06T16:02:06
+updated: '2023-03-06T16:02:06'
 url: https://github.com/ennioitaliano/obsidian-auto-glossary
 version: 0.9.0
 ---

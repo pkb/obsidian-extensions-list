@@ -6,7 +6,7 @@ author:
 author_page: https://deablabs.com/
 categories: []
 description: Create and run LLM scripts on the Obsidian Canvas.
-downloads: 7732
+downloads: 7796
 funding_page: https://ko-fi.com/blindmansion
 mobile: true
 number: 1143

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/huterguier
 categories: []
 description: Enables you to put Markdown inside of Mermaid diagrams.
-downloads: 6897
+downloads: 7218
 mobile: true
 number: 1565
 title: Mehrmaid

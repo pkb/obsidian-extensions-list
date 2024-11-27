@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/zlovatt
 categories: []
 description: Trims unnecessary whitespace from your Obsidian documents
-downloads: 8407
+downloads: 8454
 mobile: true
 number: 566
 title: Trim Whitespace

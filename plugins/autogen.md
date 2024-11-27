@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AidanTilgner
 categories: []
 description: In place autogeneration of content based on prompts.
-downloads: 1214
+downloads: 1220
 funding_page: https://www.buymeacoffee.com/aidantilgner
 mobile: false
 number: 1425

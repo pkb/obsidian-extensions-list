@@ -7,15 +7,15 @@ author_page: https://github.com/Rudtrack
 categories: []
 description: A file explorer similar to Dendron for navigating hierarchical notes
   separated by '.'
-downloads: 976
+downloads: 1102
 funding_page: https://github.com/sponsors/Rudtrack
 mobile: true
 number: 1846
 title: Structured Tree
 type: plugin
-updated: '2024-11-16T17:43:57'
+updated: '2024-11-23T22:28:48'
 url: https://github.com/Rudtrack/structured-tree
-version: 2.0.4
+version: 2.0.6
 ---
 
 %% README_START %%

@@ -7,7 +7,7 @@ author_page: https://fngt.nl/joshua
 categories: []
 description: Add the same tag(s) to multiple notes in a folder (optionally including
   subfolders) at once.
-downloads: 4822
+downloads: 4842
 mobile: false
 number: 1041
 title: TagMany

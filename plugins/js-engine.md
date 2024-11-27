@@ -6,7 +6,7 @@ author:
 author_page: https://www.moritzjung.dev/
 categories: []
 description: Run JavaScript from within your notes.
-downloads: 13869
+downloads: 14301
 funding_page: https://github.com/sponsors/mProjectsCode
 mobile: true
 number: 1141

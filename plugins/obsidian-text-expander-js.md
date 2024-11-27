@@ -7,7 +7,7 @@ author_page: https://github.com/jon-heard
 categories: []
 description: Type text shortcuts which are then replaced with JavaScript generated
   text.
-downloads: 12856
+downloads: 12921
 mobile: true
 number: 563
 title: Inline Scripts

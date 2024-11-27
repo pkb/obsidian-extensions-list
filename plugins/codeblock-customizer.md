@@ -7,7 +7,7 @@ author_page: https://github.com/mugiwara85
 categories: []
 description: This Obsidian plugin lets you customize your codeblocks in editing, and
   reading mode as well.
-downloads: 23524
+downloads: 23876
 funding_page: https://www.buymeacoffee.com/ThePirateKing
 mobile: true
 number: 882

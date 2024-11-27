@@ -6,7 +6,7 @@ author:
 author_page: https://gndclouds.earth
 categories: []
 description: A plugin to show the number of days since a given date.
-downloads: 1873
+downloads: 1901
 mobile: true
 number: 1409
 title: Days Since

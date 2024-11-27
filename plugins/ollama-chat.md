@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/brumik
 categories: []
 description: Chat with your notes with the help of Ollama.
-downloads: 5948
+downloads: 6044
 mobile: true
 number: 1345
 title: Ollama Chat

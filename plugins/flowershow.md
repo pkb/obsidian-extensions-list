@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Flowershow
+- Flowershow
 author:
-  - Rufus Pollock
+- Rufus Pollock
 author_page: https://flowershow.app/
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish with Flowershow directly from your Obsidian vault.
-downloads: 4465
+downloads: 4491
 mobile: true
 number: 976
 title: Flowershow
 type: plugin
-updated: 2023-07-17T21:10:26
+updated: '2023-07-17T21:10:26'
 url: https://github.com/datopian/obsidian-flowershow
 version: 1.0.0
 ---

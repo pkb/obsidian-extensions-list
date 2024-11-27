@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/bicarlsen
 categories: []
 description: Autocomplete HTML tags.
-downloads: 13546
+downloads: 13625
 mobile: true
 number: 331
 title: HTML Tags Autocomplete

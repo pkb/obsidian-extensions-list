@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/dorisxx
 categories: []
 description: Start a simple quiz on your current note
-downloads: 4841
+downloads: 4854
 mobile: false
 number: 412
 title: Simple Note Quiz

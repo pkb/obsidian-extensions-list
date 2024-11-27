@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/mvgrimes
 categories: []
 description: Manage Todo.txt files.
-downloads: 8353
+downloads: 8415
 mobile: true
 number: 953
 title: TodoTxt

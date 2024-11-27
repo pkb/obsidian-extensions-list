@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Style Settings
+- Style Settings
 author:
-  - mgmeyers
+- mgmeyers
 author_page: https://github.com/mgmeyers/obsidian-style-settings
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Offers controls for adjusting theme, plugin, and snippet CSS variables.
-downloads: 1249950
+downloads: 1266095
 mobile: true
 number: 142
 title: Style Settings
 type: plugin
-updated: 2024-08-24T23:45:16
+updated: '2024-08-24T23:45:16'
 url: https://github.com/mgmeyers/obsidian-style-settings
 version: 1.0.9
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jlweston
 categories: []
 description: Find similar notes based on the frequency of terms within the vault.
-downloads: 430
+downloads: 439
 funding_page: https://buymeacoffee.com/jamieweston
 mobile: false
 number: 1729

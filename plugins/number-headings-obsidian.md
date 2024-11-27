@@ -6,7 +6,7 @@ author:
 author_page: https://www.kevinalbrecht.com
 categories: []
 description: Automatically number or re-number headings in an Obsidian document
-downloads: 48837
+downloads: 49359
 mobile: true
 number: 250
 title: Number Headings

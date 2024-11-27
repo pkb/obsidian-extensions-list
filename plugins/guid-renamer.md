@@ -7,7 +7,7 @@ author:
 author_page: https://taskscape.com/
 categories: []
 description: Rename selected file with a random GUID.
-downloads: 125
+downloads: 132
 mobile: true
 number: 1749
 title: Guid Renamer

@@ -7,7 +7,7 @@ author_page: https://github.com/Creling
 categories: []
 description: This plugin uploads the image in your clipboard to any image hosting
   automatically when pasting.
-downloads: 6266
+downloads: 6287
 mobile: false
 number: 226
 title: Image Uploader

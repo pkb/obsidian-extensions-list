@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/k4a-l
 categories: []
 description: Render a directory Structure Diagram from a markdown lists in codeblock.
-downloads: 5428
+downloads: 5451
 mobile: true
 number: 671
 title: Dirtreeist

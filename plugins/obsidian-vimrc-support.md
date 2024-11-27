@@ -6,7 +6,7 @@ author:
 author_page: ''
 categories: []
 description: Auto-load a startup file with Obsidian Vim commands.
-downloads: 96290
+downloads: 97620
 mobile: true
 number: 15
 title: Vimrc Support

@@ -6,7 +6,7 @@ author:
 author_page: https://www.davideaversa.it
 categories: []
 description: Render chess positions diagrams in a note.
-downloads: 6765
+downloads: 6796
 mobile: true
 number: 115
 title: Chessboard Viewer

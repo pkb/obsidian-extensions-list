@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/SilentVoid13
 categories: []
 description: A chess game viewer/editor
-downloads: 9662
+downloads: 9695
 mobile: true
 number: 113
 title: Chesser

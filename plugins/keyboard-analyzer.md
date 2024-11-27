@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/cogscides
 categories: []
 description: See and analyse your keyboard hotkeys and shortcuts
-downloads: 13148
+downloads: 13243
 mobile: true
 number: 629
 title: Keyboard Analyzer

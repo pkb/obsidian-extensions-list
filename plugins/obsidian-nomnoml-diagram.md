@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Nomnoml Diagram
+- Nomnoml Diagram
 author:
-  - Daeik Kim
-author_page: ""
+- Daeik Kim
+author_page: ''
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw nomnoml diagrams in Obsidian notes
-downloads: 8971
+downloads: 8995
 mobile: true
 number: 308
 title: Nomnoml Diagram
 type: plugin
-updated: 2023-09-26T21:47:37
+updated: '2023-09-26T21:47:37'
 url: https://github.com/Daeik/obsidian-nomnoml-diagram
 version: 1.2.0
 ---

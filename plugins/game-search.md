@@ -6,7 +6,7 @@ author:
 author_page: https://calvins.pizza
 categories: []
 description: Helps you find games and create notes. Optional Steam Library Sync
-downloads: 6361
+downloads: 6431
 mobile: true
 number: 915
 title: Game Search

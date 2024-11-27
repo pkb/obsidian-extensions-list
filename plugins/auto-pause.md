@@ -7,7 +7,7 @@ author_page: https://github.com/ckep1
 categories: []
 description: Allows one audio track to be played at a time, pausing or stopping any
   others.
-downloads: 69
+downloads: 79
 mobile: true
 number: 1906
 title: AutoPause

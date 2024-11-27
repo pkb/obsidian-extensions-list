@@ -6,7 +6,7 @@ author:
 author_page: https://charlbotha.com/
 categories: []
 description: Multiple branching AI conversations as Markdown hierarchy
-downloads: 380
+downloads: 387
 mobile: true
 number: 1767
 title: AI Chat as Markdown

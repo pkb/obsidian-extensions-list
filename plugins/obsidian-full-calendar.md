@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Full Calendar
+- Full Calendar
 author:
-  - Davis Haupt
+- Davis Haupt
 author_page: https://davi.sh
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
+- '[[categories/Date and calendar|Date and calendar]]'
 description: Obsidian integration with Full Calendar (fullcalendar.io)
-downloads: 246263
+downloads: 248753
 funding_page: https://ko-fi.com/davish
 mobile: true
 number: 440
 title: Full Calendar
 type: plugin
-updated: 2023-04-06T21:22:12
+updated: '2023-04-06T21:22:12'
 url: https://github.com/obsidian-community/obsidian-full-calendar
 version: 0.10.7
 ---

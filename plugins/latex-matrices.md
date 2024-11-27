@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Deltekk
 categories: []
 description: Speedup latex matrices writing.
-downloads: 3928
+downloads: 3947
 funding_page: https://www.paypal.com/paypalme/DanieleSus
 mobile: true
 number: 893

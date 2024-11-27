@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/val3344/obsidian-update-relative-links
 categories: []
 description: Update relative links.
-downloads: 5681
+downloads: 5717
 mobile: true
 number: 631
 title: Update Relative Links

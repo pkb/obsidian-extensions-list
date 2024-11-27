@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Contentful Publisher
+- Contentful Publisher
 author:
-  - Ziya Fenn
+- Ziya Fenn
 author_page: https://ziyafenn.com
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Manage your Contentful content from Obsidian.
-downloads: 2632
+downloads: 2633
 mobile: true
 number: 1160
 title: Contentful Publisher
 type: plugin
-updated: 2023-09-03T17:03:22
+updated: '2023-09-03T17:03:22'
 url: https://github.com/ziyafenn/obsidian-contentful-publisher
 version: 1.0.0
 ---

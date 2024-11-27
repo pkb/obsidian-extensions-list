@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Spaced Repetition
+- Spaced Repetition
 author:
-  - Stephen Mwangi
+- Stephen Mwangi
 author_page: https://github.com/st3v3nmw
 categories:
-  - "[[categories/Spaced repetition|Spaced repetition]]"
+- '[[categories/Spaced repetition|Spaced repetition]]'
 description: Fight the forgetting curve by reviewing flashcards & entire notes.
-downloads: 293437
+downloads: 296391
 funding_page: https://ko-fi.com/M4M44DEN6
 mobile: true
 number: 152
 title: Spaced Repetition
 type: plugin
-updated: 2024-10-21T14:07:18
+updated: '2024-10-21T14:07:18'
 url: https://github.com/st3v3nmw/obsidian-spaced-repetition
 version: 1.13.2
 ---

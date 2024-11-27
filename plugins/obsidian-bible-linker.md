@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kuchejak
 categories: []
 description: Link multiple bible verses easily
-downloads: 12244
+downloads: 12331
 mobile: true
 number: 444
 title: Bible Linker

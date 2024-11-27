@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Doggy-Footprint
 categories: []
 description: Quick suggests for linkable notes
-downloads: 120
+downloads: 122
 mobile: true
 number: 1862
 title: Suggest Notes

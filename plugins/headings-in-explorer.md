@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/patrickchiang
 categories: []
 description: Show headings in the file explorer.
-downloads: 476
+downloads: 489
 mobile: false
 number: 1705
 title: Headings in Explorer

@@ -7,7 +7,7 @@ author_page: https://github.com/noduslabs
 categories: []
 description: 'Interactive 3D graph view: text analysis, topic modeling, gap detection,
   and AI.'
-downloads: 965
+downloads: 1199
 mobile: true
 number: 1941
 title: InfraNodus AI Graph View

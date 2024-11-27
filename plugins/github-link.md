@@ -6,7 +6,7 @@ author:
 author_page: https://nathan-smith.org/
 categories: []
 description: Enrich your notes with issue and pull request content from GitHub
-downloads: 2291
+downloads: 2312
 mobile: true
 number: 1431
 title: GitHub Link

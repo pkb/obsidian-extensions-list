@@ -6,14 +6,14 @@ author:
 author_page: https://github.com/evasquare
 categories: []
 description: Simple, fast, and easy-to-use Markdown formatter.
-downloads: 4711
+downloads: 4812
 mobile: true
 number: 1304
 title: Formatto
 type: plugin
-updated: '2024-09-01T14:44:48'
+updated: '2024-11-24T21:03:29'
 url: https://github.com/evasquare/formatto
-version: 1.2.9
+version: 1.2.11
 ---
 
 %% README_START %%

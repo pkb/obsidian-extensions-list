@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/nancyel
 categories: []
 description: Count the number of headers in the current note
-downloads: 154
+downloads: 156
 mobile: true
 number: 1679
 title: Header Counter

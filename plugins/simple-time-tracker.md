@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Super Simple Time Tracker
+- Super Simple Time Tracker
 author:
-  - Ellpeck
+- Ellpeck
 author_page: https://ellpeck.de
 categories:
-  - "[[categories/Time tracking|Time tracking]]"
+- '[[categories/Time tracking|Time tracking]]'
 description: Multi-purpose time trackers for your notes!
-downloads: 22936
+downloads: 23142
 funding_page: https://ellpeck.de/support
 mobile: true
 number: 607
 title: Super Simple Time Tracker
 type: plugin
-updated: 2024-08-09T23:57:24
+updated: '2024-08-09T23:57:24'
 url: https://github.com/Ellpeck/ObsidianSimpleTimeTracker
 version: 1.0.3
 ---

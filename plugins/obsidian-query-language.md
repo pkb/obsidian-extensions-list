@@ -6,7 +6,7 @@ author:
 author_page: https://jplattel.nl
 categories: []
 description: This plugin allows you to query notes and represent data within Obsidian
-downloads: 13659
+downloads: 13691
 mobile: true
 number: 87
 title: Obsidian Query Language

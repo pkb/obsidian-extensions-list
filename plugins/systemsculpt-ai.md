@@ -7,7 +7,7 @@ author_page: systemsculpt.com
 categories: []
 description: Enhance your data flow with AI-powered tools for note-taking, task management,
   templates, and so much more.
-downloads: 6698
+downloads: 6814
 funding_page: https://www.patreon.com/SystemSculpt
 mobile: false
 number: 1618

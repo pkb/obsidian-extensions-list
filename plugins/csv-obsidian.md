@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/deathau
 categories: []
 description: Edit CSV files in Obsidian
-downloads: 18519
+downloads: 18612
 mobile: true
 number: 107
 title: CSV Editor

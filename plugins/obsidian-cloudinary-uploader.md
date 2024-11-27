@@ -7,7 +7,7 @@ author_page: https://github.com/jordanhandy
 categories: []
 description: This plugin uploads the media files in your clipboard (or drag and drop)
   to Cloudinary as unsigned uploads
-downloads: 4521
+downloads: 4526
 funding_page: https://ko-fi.com/jordanhandy
 mobile: false
 number: 353

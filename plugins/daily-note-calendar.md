@@ -6,14 +6,14 @@ author:
 author_page: https://bartkessels.net
 categories: []
 description: Navigate to your weekly- and daily-notes using a calendar view.
-downloads: 204
+downloads: 537
 mobile: true
 number: 1997
 title: Daily notes calendar
 type: plugin
-updated: '2024-11-17T19:15:25'
+updated: '2024-11-25T09:37:38'
 url: https://github.com/bartkessels/daily-note-calendar
-version: 1.4.0
+version: 1.6.1
 ---
 
 %% README_START %%

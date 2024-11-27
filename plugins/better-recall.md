@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Better Recall
+- Better Recall
 author:
-  - Florian Woelki
+- Florian Woelki
 author_page: https://florianwoelki.com
 categories:
-  - "[[categories/Spaced repetition|Spaced repetition]]"
+- '[[categories/Spaced repetition|Spaced repetition]]'
 description: Add anki-like spaced repetition and recall to your vault.
-downloads: 704
+downloads: 734
 mobile: true
 number: 1809
 title: Better Recall
 type: plugin
-updated: 2024-07-23T12:50:57
+updated: '2024-07-23T12:50:57'
 url: https://github.com/FlorianWoelki/obsidian-better-recall
 version: 0.0.1
 ---

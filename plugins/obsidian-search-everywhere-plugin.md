@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: Search Everywhere with pressing Double Shift like in IntelliJ
-downloads: 6446
+downloads: 6471
 mobile: false
 number: 451
 title: Search Everywhere

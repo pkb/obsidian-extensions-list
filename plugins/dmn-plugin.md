@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JoLeaf
 categories: []
 description: This plugin enables viewing DMNs using dmn-js.
-downloads: 3549
+downloads: 3554
 funding_page: https://ko-fi.com/joleaf
 mobile: true
 number: 715

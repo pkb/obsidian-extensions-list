@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Agile Task Notes
+- Agile Task Notes
 author:
-  - BoxThatBeat
+- BoxThatBeat
 author_page: https://github.com/BoxThatBeat
 categories:
-  - "[[categories/Task management|Task management]]"
-description: Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists!
-downloads: 8488
+- '[[categories/Task management|Task management]]'
+description: Import your tasks from your TFS (Azure or Jira) to take notes on them
+  and make todo-lists!
+downloads: 8540
 mobile: true
 number: 593
 title: Agile Task Notes
 type: plugin
-updated: 2024-08-30T21:51:24
+updated: '2024-08-30T21:51:24'
 url: https://github.com/BoxThatBeat/obsidian-agile-task-notes
 version: 1.4.0
 ---

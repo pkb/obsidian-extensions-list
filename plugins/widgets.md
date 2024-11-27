@@ -6,7 +6,7 @@ author:
 author_page: https://rafaelveiga.github.io/
 categories: []
 description: Adds widgets to your notes like clock, countdown and quotes.
-downloads: 8959
+downloads: 9176
 funding_page: https://ko-fi.com/rafaelveiga
 mobile: true
 number: 1354

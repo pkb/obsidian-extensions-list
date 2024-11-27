@@ -7,7 +7,7 @@ author_page: https://github.com/cristianvasquez
 categories: []
 description: Tries to fix and reformat ugly Markdown and adds things like 'modified
   date' etc.
-downloads: 70009
+downloads: 70131
 mobile: true
 number: 31
 title: Markdown prettifier

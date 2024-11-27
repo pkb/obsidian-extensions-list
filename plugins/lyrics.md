@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/eatgrass
 categories: []
 description: Enhance the audio player with interacive lyrics
-downloads: 2616
+downloads: 2631
 funding_page: https://www.buymeacoffee.com/eatgrass
 mobile: true
 number: 1309

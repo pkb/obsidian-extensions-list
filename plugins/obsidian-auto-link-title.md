@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/zolrath
 categories: []
 description: This plugin automatically fetches the titles of links from the web
-downloads: 211633
+downloads: 213696
 mobile: true
 number: 157
 title: Auto Link Title

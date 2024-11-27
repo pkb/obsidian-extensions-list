@@ -6,7 +6,7 @@ author:
 author_page: https://johackim.com
 categories: []
 description: Write and format your next book directly from Obsidian
-downloads: 7237
+downloads: 7272
 funding_page: https://www.buymeacoffee.com/johackim
 mobile: false
 number: 701

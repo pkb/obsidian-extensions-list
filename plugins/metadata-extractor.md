@@ -7,7 +7,7 @@ author_page: https://github.com/kometenstaub
 categories: []
 description: Metadata export on a schedule for integration with third-party apps like
   launchers.
-downloads: 20356
+downloads: 20452
 mobile: false
 number: 303
 title: Metadata Extractor

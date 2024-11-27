@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jvsteiner
 categories: []
 description: Render snippets of latex code as SVG files.
-downloads: 524
+downloads: 556
 mobile: false
 number: 1775
 title: Latex Render

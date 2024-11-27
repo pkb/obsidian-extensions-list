@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/ImaginaryProgramming
 categories: []
 description: Copies a note, and pastes it into another vault.
-downloads: 1811
+downloads: 1842
 mobile: false
 number: 1496
 title: Vault Transfer

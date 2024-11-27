@@ -6,7 +6,7 @@ author:
 author_page: www.github.com/AlexBieg
 categories: []
 description: A command palette that does all of the things you want it to do.
-downloads: 30062
+downloads: 30252
 mobile: true
 number: 415
 title: Better Command Palette

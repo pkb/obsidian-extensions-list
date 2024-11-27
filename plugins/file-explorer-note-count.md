@@ -7,7 +7,7 @@ author_page: https://www.ozan.pl
 categories: []
 description: The plugin helps you to see the number of notes under each folder within
   the file explorer.
-downloads: 112184
+downloads: 117071
 mobile: true
 number: 209
 title: File Explorer Note Count

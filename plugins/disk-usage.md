@@ -6,7 +6,7 @@ author:
 author_page: https://promptier.io/Welcome
 categories: []
 description: Measures disk usage for tracking size of folders and file types.
-downloads: 2442
+downloads: 2459
 mobile: true
 number: 1302
 title: Disk Usage

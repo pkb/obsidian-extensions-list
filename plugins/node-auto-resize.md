@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Quorafind
 categories: []
 description: Automatically resize the node when the content changes.
-downloads: 954
+downloads: 997
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/boninall
   支付宝: https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg

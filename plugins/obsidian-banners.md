@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Banners
+- Banners
 author:
-  - Noatpad
+- Noatpad
 author_page: https://github.com/noatpad/obsidian-banners
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Add banner images to your notes!
-downloads: 212338
+downloads: 214291
 mobile: true
 number: 278
 title: Banners
 type: plugin
-updated: 2023-10-15T01:04:19
+updated: '2023-10-15T01:04:19'
 url: https://github.com/noatpad/obsidian-banners
 version: 1.3.3
 ---

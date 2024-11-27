@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jordaeday
 categories: []
 description: Import tasks from Canvas LMS into vault.
-downloads: 32
+downloads: 45
 mobile: false
 number: 1883
 title: Canvas LMS Task Importer

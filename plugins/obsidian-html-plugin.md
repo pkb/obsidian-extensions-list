@@ -7,7 +7,7 @@ author_page: https://github.com/nuthrash/obsidian-html-plugin
 categories: []
 description: This is a HTML file reader plugin for Obsidian. Can open document with
   ".html" and ".htm" file extensions.
-downloads: 26692
+downloads: 26898
 mobile: true
 number: 623
 title: HTML Reader

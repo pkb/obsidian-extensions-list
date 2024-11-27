@@ -7,7 +7,7 @@ author_page: https://www.qiaosun.me
 categories: []
 description: Quick note taking with the help of LLMs. LLMs help you to summarize /
   organize PDFs or existing notes.
-downloads: 477
+downloads: 606
 mobile: false
 number: 1930
 title: LLM Summary

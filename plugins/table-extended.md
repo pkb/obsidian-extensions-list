@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/AidenLx/
 categories: []
 description: Enable extended table support with MultiMarkdown 6 syntax
-downloads: 47653
+downloads: 47931
 mobile: true
 number: 146
 title: Table Extended

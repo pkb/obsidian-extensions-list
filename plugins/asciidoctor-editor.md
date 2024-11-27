@@ -1,20 +1,20 @@
 ---
 aliases:
-  - Asciidoctor editor
+- Asciidoctor editor
 author:
-  - dzruyk
+- dzruyk
 author_page: https://github.com/dzruyk
 categories:
-  - "[[categories/Other formats|Other formats]]"
+- '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages
-downloads: 82
+downloads: 121
 mobile: false
 number: 1955
 title: Asciidoctor editor
 type: plugin
-updated: 2024-10-22T13:40:38
+updated: '2024-11-25T02:07:04'
 url: https://github.com/dzruyk/obsidian-asciidoc
-version: 0.1.2
+version: 0.1.3
 ---
 
 %% README_START %%

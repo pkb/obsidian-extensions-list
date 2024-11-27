@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/lifeodyssey
 categories: []
 description: 'This is a hexo plugin for Obsidian that enable the auto update. '
-downloads: 2391
+downloads: 2396
 funding_page: https://github.com/lifeodyssey/obsidian-hexo-auto-update
 mobile: false
 number: 1240

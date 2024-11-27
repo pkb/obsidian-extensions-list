@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/jsartelle
 categories: []
 description: Open notes with side-by-side editor & preview
-downloads: 8696
+downloads: 8753
 mobile: true
 number: 345
 title: Auto Split

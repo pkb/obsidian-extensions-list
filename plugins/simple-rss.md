@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/monnierant
 categories: []
 description: Collect RSS articles into notes.
-downloads: 13300
+downloads: 13545
 mobile: true
 number: 989
 title: Simple RSS

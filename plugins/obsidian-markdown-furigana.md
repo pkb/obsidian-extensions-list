@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/steven-kraft/obsidian-markdown-furigana
 categories: []
 description: Simple Markdown to Furigana Rendering Plugin for Obsidian.
-downloads: 11573
+downloads: 11627
 mobile: true
 number: 170
 title: Markdown Furigana

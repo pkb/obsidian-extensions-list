@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/rudimuc
 categories: []
 description: This is a QR Code Generator plugin for Obsidian.
-downloads: 9826
+downloads: 9857
 mobile: true
 number: 166
 title: QR Code Generator

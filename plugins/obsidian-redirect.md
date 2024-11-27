@@ -7,7 +7,7 @@ author_page: https://github.com/jglev
 categories: []
 description: An Obsidian (https://obsidian.md) plugin for redirecting links based
   on YAML frontmatter.
-downloads: 7386
+downloads: 7394
 mobile: true
 number: 545
 title: Redirect

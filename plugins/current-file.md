@@ -7,7 +7,7 @@ author_page: https://twoshortplanks.com
 categories: []
 description: Allows external applications to know what file the desktop app is currently
   viewing.
-downloads: 109
+downloads: 115
 mobile: false
 number: 1847
 title: Current File

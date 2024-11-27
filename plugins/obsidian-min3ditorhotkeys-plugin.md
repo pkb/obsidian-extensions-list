@@ -6,7 +6,7 @@ author:
 author_page: https://www.linkedin.com/in/davorsauer/
 categories: []
 description: Additional editor hotkeys inspired by coding editors
-downloads: 4470
+downloads: 4480
 mobile: true
 number: 81
 title: Min3ditorHotkeys

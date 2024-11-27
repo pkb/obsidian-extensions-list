@@ -1,18 +1,19 @@
 ---
 aliases:
-  - TaskWarrior Task Wiki
+- TaskWarrior Task Wiki
 author:
-  - SntTGR
+- SntTGR
 author_page: https://github.com/SntTGR
 categories:
-  - "[[categories/Integration|Integration]]"
-description: Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in your TaskWarrior database as tables.
-downloads: 415
+- '[[categories/Integration|Integration]]'
+description: Wrapper and integration around TaskWarrior. Allows you to view and edit
+  tasks in your TaskWarrior database as tables.
+downloads: 428
 mobile: false
 number: 1667
 title: TaskWarrior Task Wiki
 type: plugin
-updated: 2024-08-06T09:30:59
+updated: '2024-08-06T09:30:59'
 url: https://github.com/SntTGR/obsidian-tw-task-wiki
 version: 1.1.0
 ---

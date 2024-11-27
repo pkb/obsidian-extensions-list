@@ -6,7 +6,7 @@ author:
 author_page: https://www.szj.io
 categories: []
 description: Streamline Research Workflow in Obsidian
-downloads: 5014
+downloads: 5070
 mobile: true
 number: 1239
 title: Scholar

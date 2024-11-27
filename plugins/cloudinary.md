@@ -8,7 +8,7 @@ author_page: https://github.com/uday-samsani
 categories: []
 description: Make you notes lighter by uploading all content(images, videos, audio)
   to Cloudinary and insert(copy or drag both) them into your notes.
-downloads: 3584
+downloads: 3591
 mobile: false
 number: 975
 title: Cloudinary

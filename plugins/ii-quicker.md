@@ -7,7 +7,7 @@ author_page: https://github.com/wish5115
 categories: []
 description: Quickly insert common Markdown code and HTML code, and customize your
   own insertion commands.
-downloads: 492
+downloads: 507
 mobile: true
 number: 1680
 title: ii

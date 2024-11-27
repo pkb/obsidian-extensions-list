@@ -6,7 +6,7 @@ author:
 author_page: https://publish.obsidian.md/alexisrondeau
 categories: []
 description: Create, extract and leverage your markdown highlights
-downloads: 19327
+downloads: 19379
 mobile: true
 number: 35
 title: Extract Highlights

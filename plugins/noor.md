@@ -7,7 +7,7 @@ author_page: https://github.com/MKSherbini
 categories: []
 description: Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and
   Sunnah
-downloads: 311
+downloads: 321
 funding_page: https://github.com/MKSherbini/obsidian-noor/blob/master/docs/BinancePayQR.png
 mobile: true
 number: 1683

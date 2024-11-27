@@ -6,7 +6,7 @@ author:
 author_page: https://www.amc-world.de
 categories: []
 description: Renders console commands and their output.
-downloads: 4506
+downloads: 4525
 mobile: true
 number: 788
 title: Console Markdown

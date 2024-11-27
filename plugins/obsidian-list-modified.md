@@ -7,7 +7,7 @@ author_page: https://github.com/franciskafieh
 categories: []
 description: The advanced and adaptive changelog. Links all modified files meeting
   certain criteria to a timed (daily, weekly, monthly) note.
-downloads: 10632
+downloads: 10777
 mobile: true
 number: 483
 title: List Modified

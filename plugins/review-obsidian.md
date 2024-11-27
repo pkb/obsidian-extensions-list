@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Review
+- Review
 author:
-  - ryanjamurphy
+- ryanjamurphy
 author_page: https://axle.design
 categories:
-  - "[[categories/Journalling|Journalling]]"
-description: Add a link to the current note to a daily note on a future date (or a past date, you time traveller).
-downloads: 52526
+- '[[categories/Journalling|Journalling]]'
+description: Add a link to the current note to a daily note on a future date (or a
+  past date, you time traveller).
+downloads: 52650
 mobile: true
 number: 20
 title: Review
 type: plugin
-updated: 2023-11-03T23:02:04
+updated: '2023-11-03T23:02:04'
 url: https://github.com/ryanjamurphy/review-obsidian
 version: 1.6.5
 ---

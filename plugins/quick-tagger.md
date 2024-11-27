@@ -7,7 +7,7 @@ author_page: https://warneranimation.com/
 categories: []
 description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated
   buttons/commands for your favorites!
-downloads: 5912
+downloads: 6034
 mobile: true
 number: 1257
 title: Quick Tagger

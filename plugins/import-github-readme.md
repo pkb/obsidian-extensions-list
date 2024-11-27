@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Import GitHub Readme
+- Import GitHub Readme
 author:
-  - Chasebank87
+- Chasebank87
 author_page: https://chaseelder.com
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Fetches and integrates GitHub README files into personal notesmai
-downloads: 206
+downloads: 224
 mobile: true
 number: 1873
 title: Import GitHub Readme
 type: plugin
-updated: 2024-06-29T13:53:01
+updated: '2024-06-29T13:53:01'
 url: https://github.com/chasebank87/import-github-readme
 version: 1.0.0
 ---

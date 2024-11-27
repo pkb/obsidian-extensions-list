@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Basil-Mori/
 categories: []
 description: Allows the user to edit and create .gmi files.
-downloads: 3428
+downloads: 3431
 mobile: true
 number: 660
 title: Edit Gemini

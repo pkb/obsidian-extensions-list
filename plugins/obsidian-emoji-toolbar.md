@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Emoji Toolbar
+- Emoji Toolbar
 author:
-  - oliveryh
+- oliveryh
 author_page: https://github.com/oliveryh/obsidian-emoji-toolbar
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Quickly search for and insert emojis into your notes.
-downloads: 324740
+downloads: 326443
 mobile: true
 number: 47
 title: Emoji Toolbar
 type: plugin
-updated: 2023-05-04T03:12:40
+updated: '2023-05-04T03:12:40'
 url: https://github.com/oliveryh/obsidian-emoji-toolbar
 version: 0.4.1
 ---

@@ -7,7 +7,7 @@ author_page: https://github.com/gokulk16
 categories: []
 description: Selects the current line where the cursor is placed. Press 'ESC' button
   to select.
-downloads: 3659
+downloads: 3680
 funding_page: ''
 mobile: true
 number: 875

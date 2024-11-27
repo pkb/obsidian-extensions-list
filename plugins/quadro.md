@@ -7,7 +7,7 @@ author_page: https://chris-grieser.de/
 categories: []
 description: Qualitative Data Analysis (QDA) for social scientists. An open alternative
   to `MAXQDA` and `atlas.ti`, using Markdown to store data and research codes.
-downloads: 3281
+downloads: 3356
 funding_page:
   Ko-Fi: https://ko-fi.com/pseudometa
   PayPal: https://www.paypal.me/ChrisGrieser
@@ -15,9 +15,9 @@ mobile: true
 number: 1475
 title: Quadro
 type: plugin
-updated: '2024-11-04T22:22:44'
+updated: '2024-11-18T23:18:34'
 url: https://github.com/chrisgrieser/obsidian-quadro
-version: 1.27.2
+version: 1.27.3
 ---
 
 %% README_START %%

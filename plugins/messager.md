@@ -6,7 +6,7 @@ author:
 author_page: https://wechatobsidian.com/
 categories: []
 description: Save messages into vault which sending through WeChat / HTTP API / Email
-downloads: 1413
+downloads: 1456
 mobile: true
 number: 1793
 title: Messager

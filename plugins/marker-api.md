@@ -7,7 +7,7 @@ author_page: https://github.com/L3-N0X
 categories: []
 description: Convert PDFs to rich Markdown, including images and ocr using the Marker
   API
-downloads: 2330
+downloads: 2483
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/l3n0x
   GitHub Sponsor: https://github.com/sponsors/L3-N0X

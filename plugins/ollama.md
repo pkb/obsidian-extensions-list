@@ -7,7 +7,7 @@ author_page: https://github.com/hinterdupfinger
 categories: []
 description: This is a plugin for Obsidian that enables the usage of Ollama within
   your notes.
-downloads: 14366
+downloads: 14559
 mobile: false
 number: 1203
 title: Ollama

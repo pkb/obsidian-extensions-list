@@ -6,7 +6,7 @@ author:
 author_page: https://mysticcoders.com
 categories: []
 description: A plugin for importing Oura Ring data from the Cloud-based API
-downloads: 3887
+downloads: 3895
 mobile: true
 number: 337
 title: Oura Ring

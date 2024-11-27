@@ -7,7 +7,7 @@ author_page: https://github.com/jglev/obsidian-carry-forward
 categories: []
 description: An Obsidian Notes plugin for generating and copying block IDs and for
   copying lines with links to the copied line.
-downloads: 13161
+downloads: 13181
 mobile: true
 number: 288
 title: Carry-Forward

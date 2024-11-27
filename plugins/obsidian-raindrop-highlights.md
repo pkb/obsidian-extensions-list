@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/kaiiiz
 categories: []
 description: Sync your Raindrop.io highlights.
-downloads: 21115
+downloads: 21301
 mobile: true
 number: 585
 title: Raindrop Highlights

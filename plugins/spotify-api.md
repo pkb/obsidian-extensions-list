@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Darren-project
 categories: []
 description: Exposes Spotify API
-downloads: 1919
+downloads: 1940
 funding_page: https://www.buymeacoffee.com/mickeydarrenlau
 mobile: true
 number: 1457

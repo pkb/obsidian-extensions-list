@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md
 categories: []
 description: This is a plugin for Obsidian that allows for embedding code files.
-downloads: 6274
+downloads: 6309
 mobile: true
 number: 591
 title: Embed Code File

@@ -7,7 +7,7 @@ author_page: https://github.com/alexeiskachykhin
 categories: []
 description: Annotate photos with Exif and other metadata right from the image viewer
   screen.
-downloads: 523
+downloads: 582
 mobile: false
 number: 1795
 title: Image Metadata

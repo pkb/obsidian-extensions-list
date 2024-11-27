@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/vbeskrovnov
 categories: []
 description: Allows you to manage and organize your contacts.
-downloads: 6665
+downloads: 6699
 mobile: false
 number: 750
 title: Contacts

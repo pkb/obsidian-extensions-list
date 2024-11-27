@@ -7,14 +7,14 @@ author_page: https://github.com/OmriLeviGit
 categories: []
 description: Updates numbered lists automatically to keep them in sequential order.
   Offers both live updating and manual control options, and supports nested lists.
-downloads: 123
+downloads: 226
 mobile: false
 number: 2008
 title: Automatic Renumbering
 type: plugin
-updated: '2024-11-02T00:14:01'
+updated: '2024-11-26T16:02:54'
 url: https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian
-version: 1.0.0
+version: 1.1.0
 ---
 
 %% README_START %%

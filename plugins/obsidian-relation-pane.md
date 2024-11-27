@@ -6,7 +6,7 @@ author:
 author_page: https://mottox2.com
 categories: []
 description: This plugin displays a panel that summarize relations between notes.
-downloads: 5297
+downloads: 5306
 mobile: true
 number: 674
 title: Relation Pane

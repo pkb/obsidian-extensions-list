@@ -5,7 +5,7 @@ author: nmady
 author_page: https://github.com/nmady
 categories: []
 description: Apply formatting to selected text, dealing with the paragraph breaks.
-downloads: 7078
+downloads: 7106
 mobile: true
 number: 241
 title: Multi-line Formatting

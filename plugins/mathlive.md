@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/danzilberdan
 categories: []
 description: Faster and more intuitive MathJax editing using MathLive.
-downloads: 13003
+downloads: 13310
 funding_page: https://www.buymeacoffee.com/danzilberdan
 mobile: false
 number: 931

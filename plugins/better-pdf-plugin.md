@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Better PDF Plugin
+- Better PDF Plugin
 author:
-  - MSzturc
+- MSzturc
 author_page: https://github.com/MSzturc
 categories:
-  - "[[categories/Other formats|Other formats]]"
+- '[[categories/Other formats|Other formats]]'
 description: Goal of this Plugin in to implement a native PDF handling workflow
-downloads: 54580
+downloads: 54818
 mobile: true
 number: 91
 title: Better PDF Plugin
 type: plugin
-updated: 2022-06-20T03:29:33
+updated: '2022-06-20T03:29:33'
 url: https://github.com/MSzturc/obsidian-better-pdf-plugin
 version: 1.4.0
 ---

@@ -6,7 +6,7 @@ author:
 author_page: https://dramturgie.lol
 categories: []
 description: Rendering of music notation files.
-downloads: 125
+downloads: 139
 mobile: true
 number: 1895
 title: Verovio Music Renderer

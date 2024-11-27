@@ -7,7 +7,7 @@ author_page: https://github.com/josmarcristello/
 categories: []
 description: Finds images in the vault that are not linked to any notes. Either lists,
   or deletes them.
-downloads: 1485
+downloads: 2028
 mobile: true
 number: 1932
 title: Find Orphaned Images

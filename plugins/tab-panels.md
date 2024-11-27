@@ -6,7 +6,7 @@ author:
 author_page: https://gnoxnahte.com
 categories: []
 description: Create tab panels to organize content into sections
-downloads: 502
+downloads: 821
 funding_page: https://ko-fi.com/gnoxnahtedev
 mobile: true
 number: 1950

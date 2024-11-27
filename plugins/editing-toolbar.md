@@ -1,19 +1,21 @@
 ---
 aliases:
-  - Editing Toolbar
+- Editing Toolbar
 author:
-  - Cuman
+- Cuman
 author_page: https://github.com/cumany/obsidian-editing-toolbar
 categories:
-  - "[[categories/UI customization|UI customization]]"
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: The Obsidian Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.
-downloads: 456564
+- '[[categories/UI customization|UI customization]]'
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: The Obsidian Editing Toolbar is modified from cmenu, which provides more
+  powerful customization settings and has many built-in editing commands to be a MS
+  Word-like toolbar editing experience.
+downloads: 463591
 mobile: true
 number: 646
 title: Editing Toolbar
 type: plugin
-updated: 2024-04-22T14:47:48
+updated: '2024-04-22T14:47:48'
 url: https://github.com/cumany/obsidian-editing-toolbar
 version: 2.4.16
 ---

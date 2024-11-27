@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/JakobMick
 categories: []
 description: Add custom indicators to the file explorer.
-downloads: 2978
+downloads: 3010
 mobile: true
 number: 1280
 title: File indicators

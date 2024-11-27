@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/decaf-dev
 categories: []
 description: Explore your vault in visual format
-downloads: 8741
+downloads: 8872
 funding_page: https://ko-fi.com/decaf_dev
 mobile: false
 number: 1652

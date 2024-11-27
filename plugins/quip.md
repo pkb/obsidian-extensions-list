@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Quip
+- Quip
 author:
-  - Sean Blakey
+- Sean Blakey
 author_page: https://hachyderm.io/@seanb
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: This plugin provides commands to publish Markdown documents to Quip.com
-downloads: 5413
+downloads: 5440
 mobile: false
 number: 789
 title: Quip
 type: plugin
-updated: 2024-04-23T02:46:18
+updated: '2024-04-23T02:46:18'
 url: https://github.com/sblakey/obsidian-quip
 version: 1.1.0
 ---

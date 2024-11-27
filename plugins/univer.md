@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Univer
+- Univer
 author:
-  - DreamNum
+- DreamNum
 author_page: https://github.com/dream-num
 categories:
-  - "[[categories/Other formats|Other formats]]"
-description: Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base.
-downloads: 8371
+- '[[categories/Other formats|Other formats]]'
+description: Create, edit, and view spreadsheets and documents in various formats
+  like Excel and Word directly within your knowledge base.
+downloads: 8594
 funding_page: https://opencollective.com/univer
 mobile: false
 number: 1553
 title: Univer
 type: plugin
-updated: 2024-09-13T18:20:18
+updated: '2024-09-13T18:20:18'
 url: https://github.com/dream-num/obsidian-univer
 version: 1.1.5
 ---

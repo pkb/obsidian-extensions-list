@@ -1,19 +1,21 @@
 ---
 aliases:
-  - AI Research Assistant
+- AI Research Assistant
 author:
-  - Interweb Alchemy
+- Interweb Alchemy
 author_page: https://github.com/InterwebAlchemy
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: A Prompt Engineering research utility for generative AI models like OpenAI's ChatGPT that facilitates archiving and searching conversations and live editing a conversation's context/memory.
-downloads: 6547
+- '[[categories/AI assistance|AI assistance]]'
+description: A Prompt Engineering research utility for generative AI models like OpenAI's
+  ChatGPT that facilitates archiving and searching conversations and live editing
+  a conversation's context/memory.
+downloads: 6602
 funding_page: https://ko-fi.com/ericrallen
 mobile: false
 number: 1085
 title: AI Research Assistant
 type: plugin
-updated: 2023-10-30T19:37:36
+updated: '2023-10-30T19:37:36'
 url: https://github.com/InterwebAlchemy/obsidian-ai-research-assistant
 version: 1.7.0
 ---

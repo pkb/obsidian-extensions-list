@@ -1,22 +1,22 @@
 ---
 aliases:
-  - Vault to blog
+- Vault to blog
 author:
-  - barkstone2
+- barkstone2
 author_page: https://barkstone2.github.io
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish the vault to a GitHub Pages blog.
-downloads: 161
+downloads: 199
 funding_page:
   Buy Me a Coffee: https://buymeacoffee.com/barkstone2
 mobile: false
 number: 1877
 title: Vault to blog
 type: plugin
-updated: 2024-11-17T10:37:03
+updated: '2024-11-19T11:59:29'
 url: https://github.com/barkstone2/vault-to-blog
-version: 0.0.4
+version: 0.0.5
 ---
 
 %% README_START %%

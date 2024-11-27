@@ -7,7 +7,7 @@ author_page: https://github.com/lilian-pouliquen/
 categories: []
 description: Adds the ability to choose the character to use when creating a bullet
   list between '-', '*' and '+'
-downloads: 4147
+downloads: 4169
 mobile: true
 number: 1038
 title: Custom list character

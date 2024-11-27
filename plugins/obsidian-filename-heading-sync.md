@@ -7,7 +7,7 @@ author_page: https://github.com/dvcrn/obsidian-filename-heading-sync
 categories: []
 description: Obsidian plugin for keeping the filename with the first heading of a
   file in sync
-downloads: 44707
+downloads: 44862
 mobile: true
 number: 85
 title: Filename Heading Sync

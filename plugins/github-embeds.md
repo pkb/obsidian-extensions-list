@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/MrGVSV
 categories: []
 description: Embed GitHub issues, PRs, and code snippets directly in Obsidian.
-downloads: 5381
+downloads: 5418
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/ginov
   GitHub Sponsor: https://github.com/sponsors/MrGVSV

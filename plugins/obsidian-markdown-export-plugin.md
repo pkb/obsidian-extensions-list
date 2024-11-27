@@ -1,18 +1,18 @@
 ---
 aliases:
-  - markdown export
+- markdown export
 author:
-  - bingryan
+- bingryan
 author_page: https://github.com/bingryan/obsidian-markdown-export-plugin
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: This is a markdown export plugin for Obsidian.
-downloads: 20166
+downloads: 20390
 mobile: false
 number: 699
 title: markdown export
 type: plugin
-updated: 2024-08-06T20:55:16
+updated: '2024-08-06T20:55:16'
 url: https://github.com/bingryan/obsidian-markdown-export-plugin
 version: 1.0.24
 ---

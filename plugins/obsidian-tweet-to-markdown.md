@@ -6,7 +6,7 @@ author:
 author_page: https://kbravh.dev
 categories: []
 description: Save tweets as Markdown files, along with their images, polls, etc.
-downloads: 12266
+downloads: 12282
 mobile: true
 number: 335
 title: Tweet to Markdown

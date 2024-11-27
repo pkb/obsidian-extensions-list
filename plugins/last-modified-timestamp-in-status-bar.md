@@ -7,7 +7,7 @@ author_page: https://github.com/Yustynn
 categories: []
 description: Dynamic display of file modification and creation timestamps in the status
   bar.
-downloads: 6281
+downloads: 6381
 mobile: false
 number: 923
 title: File Creation and Last Modified Timestamps in Status Bar

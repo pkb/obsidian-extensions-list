@@ -7,7 +7,7 @@ author_page: https://github.com/der-tobi
 categories: []
 description: Get highlighted mentions and mention suggestions. Find all occurrences
   of a mention
-downloads: 5235
+downloads: 5249
 mobile: false
 number: 596
 title: Simple Mention

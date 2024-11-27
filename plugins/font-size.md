@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/RyotaUshio
 categories: []
 description: Adjust font size via commands.
-downloads: 4469
+downloads: 4596
 funding_page:
   Buy Me a Coffee: https://www.buymeacoffee.com/ryotaushio
   GitHub Sponsor: https://github.com/sponsors/RyotaUshio

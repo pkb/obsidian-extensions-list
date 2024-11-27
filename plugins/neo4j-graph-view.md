@@ -7,7 +7,7 @@ author_page: https://twitter.com/emilevankrieken
 categories: []
 description: An Obsidian plugin for advanced graph visualization and querying using
   Neo4j.
-downloads: 9316
+downloads: 9353
 mobile: false
 number: 61
 title: Neo4j Graph View

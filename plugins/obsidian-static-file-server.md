@@ -6,7 +6,7 @@ author:
 author_page: https://obsidian.md/about
 categories: []
 description: Host obsidian subfolders as static file servers.
-downloads: 4472
+downloads: 4475
 mobile: false
 number: 194
 title: Static File Server

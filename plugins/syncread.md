@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/flyer1b
 categories: []
 description: sync articles from syncread app
-downloads: 1911
+downloads: 1913
 mobile: false
 number: 1335
 title: syncread-assistant

@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/joethei
 categories: []
 description: Read RSS Feeds from within obsidian
-downloads: 28234
+downloads: 28377
 mobile: true
 number: 354
 title: RSS Reader

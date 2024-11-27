@@ -7,7 +7,7 @@ author_page: https://github.com/snezhig
 categories: []
 description: Lets you define a title in frontmatter to be displayed as the filename
   for explorer, graph, search and etc.
-downloads: 32512
+downloads: 32822
 funding_page: https://www.buymeacoffee.com/snezhig
 mobile: true
 number: 521

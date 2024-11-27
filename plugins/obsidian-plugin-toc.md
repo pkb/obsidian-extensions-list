@@ -6,7 +6,7 @@ author:
 author_page: https://twitter.com/hipstersmoothie
 categories: []
 description: Create a table of contents for a note.
-downloads: 140047
+downloads: 141299
 mobile: true
 number: 108
 title: Table of Contents

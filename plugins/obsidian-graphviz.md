@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Obsidian Graphviz
+- Obsidian Graphviz
 author:
-  - Feng Peng
+- Feng Peng
 author_page: https://QAMichaelPeng.github.io
 categories:
-  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
+- '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Graphviz Diagrams
-downloads: 11099
+downloads: 11178
 mobile: false
 number: 381
 title: Obsidian Graphviz
 type: plugin
-updated: 2022-12-26T22:20:25
+updated: '2022-12-26T22:20:25'
 url: https://github.com/QAMichaelPeng/obsidian-graphviz
 version: 1.0.5
 ---

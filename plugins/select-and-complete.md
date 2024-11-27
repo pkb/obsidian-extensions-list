@@ -6,15 +6,15 @@ author:
 author_page: https://mariodeluca.com
 categories: []
 description: Select something and let the AI complete it for you.
-downloads: 1190
+downloads: 1229
 funding_page: https://www.buymeacoffee.com/macro21kgb
 mobile: true
 number: 1467
 title: Select & Complete
 type: plugin
-updated: '2024-06-18T17:10:11'
+updated: '2024-11-19T23:28:29'
 url: https://github.com/macro21KGB/select-and-complete
-version: 2.3.7
+version: 2.4.3
 ---
 
 %% README_START %%

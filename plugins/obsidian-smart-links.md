@@ -7,7 +7,7 @@ author_page: https://davidlynch.org
 categories: []
 description: This is a plugin for Obsidian that allows users to define custom link
   formats
-downloads: 4948
+downloads: 4967
 mobile: true
 number: 686
 title: Smart Links

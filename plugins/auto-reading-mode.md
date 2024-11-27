@@ -7,7 +7,7 @@ author_page: https://github.com/kelvinc6
 categories: []
 description: Automatically switches previously opened Markdown pages into reading
   mode.
-downloads: 2910
+downloads: 2927
 mobile: false
 number: 1221
 title: Auto Reading Mode

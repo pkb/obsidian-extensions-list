@@ -7,7 +7,7 @@ author_page: https://mrjackphil.com
 categories: []
 description: This plugin allows open a link in current document or regex based navigation
   in editor mode using hotkey
-downloads: 24303
+downloads: 24381
 mobile: true
 number: 12
 title: Jump to link

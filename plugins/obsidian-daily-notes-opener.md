@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/reorx
 categories: []
 description: Easily open daily/periodic notes in new pane, and much more!
-downloads: 7052
+downloads: 7076
 mobile: true
 number: 442
 title: Daily notes opener

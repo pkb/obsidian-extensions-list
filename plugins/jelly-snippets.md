@@ -6,7 +6,7 @@ author:
 author_page: github.com/rabirabirara
 categories: []
 description: A simple plugin for text snippets, with auto replacement
-downloads: 5213
+downloads: 5236
 mobile: true
 number: 845
 title: Jelly Snippets

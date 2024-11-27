@@ -6,7 +6,7 @@ author:
 author_page: https://ben.straub.cc
 categories: []
 description: Render 13th Age statblocks in Obsidian.
-downloads: 4235
+downloads: 4242
 mobile: true
 number: 399
 title: 13th Age Statblocks

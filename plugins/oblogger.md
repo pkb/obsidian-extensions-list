@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/loftTech
 categories: []
 description: tagger explorer and frontmatter logger
-downloads: 4729
+downloads: 4743
 funding_page: https://www.buymeacoffee.com/lofttech
 mobile: true
 number: 1027

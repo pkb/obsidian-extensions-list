@@ -6,7 +6,7 @@ author:
 author_page: https://github.com/Fevol/
 categories: []
 description: Translate text and notes with Google Translate, DeepL, Azure, and more.
-downloads: 30603
+downloads: 31052
 funding_page: https://ko-fi.com/fevol
 mobile: true
 number: 714
