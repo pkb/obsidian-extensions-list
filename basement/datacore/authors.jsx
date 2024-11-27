@@ -12,7 +12,6 @@ const AuthorWorks = () => {
         );
         return filtered;
     }, [allNotes]);
-    console.log(notesWithAuthor)
     return (
         <div>
         <dc.Markdown content="## Author's works"/>
