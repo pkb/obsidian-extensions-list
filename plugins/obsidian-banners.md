@@ -6,7 +6,6 @@ author:
 author_page: https://github.com/noatpad/obsidian-banners
 categories:
   - "[[categories/Appearence|Appearence]]"
-  - "[[categories/Notes Enhancement|Notes Enhancement]]"
 description: Add banner images to your notes!
 downloads: 212338
 mobile: true

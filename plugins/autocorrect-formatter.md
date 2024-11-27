@@ -1,17 +1,18 @@
 ---
 aliases:
-- Autocorrect Formatter
+  - Autocorrect Formatter
 author:
-- b-yp
+  - b-yp
 author_page: https://github.com/b-yp
-categories: []
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Format MarkDown content using Autocorrect.
 downloads: 3581
 mobile: true
 number: 1315
 title: Autocorrect Formatter
 type: plugin
-updated: '2024-01-09T13:06:15'
+updated: 2024-01-09T13:06:15
 url: https://github.com/b-yp/obsidian-autocorrect
 version: 1.0.6
 ---

@@ -1,17 +1,18 @@
 ---
 aliases:
-- Global Search and Replace
+  - Global Search and Replace
 author:
-- Mahmoud Fawzy Khalil
+  - Mahmoud Fawzy Khalil
 author_page: https://github.com/MahmoudFawzyKhalil/
-categories: []
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Search and replace in all vault files
 downloads: 27809
 mobile: true
 number: 835
 title: Global Search and Replace
 type: plugin
-updated: '2024-06-04T00:23:16'
+updated: 2024-06-04T00:23:16
 url: https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace
 version: 0.5.0
 ---
