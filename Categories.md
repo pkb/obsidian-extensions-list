@@ -10,7 +10,7 @@ return <Categories/>;
 const { Link } = await dc.require('basement/datacore/Link.jsx');
 
 function View() {
-    const data = dc.useQuery('@page and !startswith($path, "basement") and type!="category" and !categories');
+    const data = dc.useQuery('@page and !startswith($path, "basement") and type = "plugin" and !categories');
     const COLUMNS = [
         { 
             id: "Plugin",
