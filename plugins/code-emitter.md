@@ -1,18 +1,17 @@
 ---
 aliases:
-- Code Emitter
+  - Code Emitter
 author:
-- '[[mokeyish|YISH]]'
-categories: []
-description: An obsidian plugin that allows code blocks executed interactively in
-  sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript
-  etc.
+  - "[[mokeyish|YISH]]"
+categories:
+  - "[[categories/Code and development|Code and development]]"
+description: An obsidian plugin that allows code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc.
 downloads: 28622
 mobile: true
 number: 764
 title: Code Emitter
 type: plugin
-updated: '2024-09-01T17:08:39'
+updated: 2024-09-01T17:08:39
 url: https://github.com/mokeyish/obsidian-code-emitter
 version: 0.3.2
 ---

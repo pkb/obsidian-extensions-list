@@ -1,17 +1,17 @@
 ---
 aliases:
-- brAIn
+  - brAIn
 author:
-- '[[lusob|Luis Sobrecueva]]'
-categories: []
-description: This is a brAIn for Obsidian. This plugin implements a ChatGPT retrieval
-  for your obsidian notes.
+  - "[[lusob|Luis Sobrecueva]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: This is a brAIn for Obsidian. This plugin implements a ChatGPT retrieval for your obsidian notes.
 downloads: 4506
 mobile: false
 number: 939
 title: brAIn
 type: plugin
-updated: '2023-06-28T22:50:30'
+updated: 2023-06-28T22:50:30
 url: https://github.com/lusob/obsidian-brain
 version: 1.0.3
 ---

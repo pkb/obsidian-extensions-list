@@ -1,16 +1,17 @@
 ---
 aliases:
-- Password Protect
+  - Password Protect
 author:
-- '[[Aspharmyx|Aspharmyx]]'
-categories: []
+  - "[[Aspharmyx|Aspharmyx]]"
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
 description: Password protect your notes.
 downloads: 1672
 mobile: true
 number: 1534
 title: Password Protect
 type: plugin
-updated: '2024-10-31T05:16:21'
+updated: 2024-10-31T05:16:21
 url: https://github.com/Aspharmyx/obsidian-password-protect
 version: 1.1.6
 ---

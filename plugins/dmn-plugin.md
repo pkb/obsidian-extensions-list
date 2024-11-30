@@ -1,16 +1,17 @@
 ---
 aliases:
-- DMN
+  - DMN
 author:
-- '[[joleaf|JoLeaf]]'
-categories: []
+  - "[[joleaf|JoLeaf]]"
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
 description: This plugin enables viewing DMNs using dmn-js.
 downloads: 3554
 mobile: true
 number: 715
 title: DMN
 type: plugin
-updated: '2024-04-29T15:42:04'
+updated: 2024-04-29T15:42:04
 url: https://github.com/joleaf/obsidian-dmn-plugin
 version: 0.5.1
 ---

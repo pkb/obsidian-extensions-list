@@ -1,16 +1,17 @@
 ---
 aliases:
-- Scholar
+  - Scholar
 author:
-- '[[lolipopshock|Shannon Shen]]'
-categories: []
+  - "[[lolipopshock|Shannon Shen]]"
+categories:
+  - "[[categories/Workflows]]"
 description: Streamline Research Workflow in Obsidian
 downloads: 5070
 mobile: true
 number: 1239
 title: Scholar
 type: plugin
-updated: '2024-04-21T01:18:57'
+updated: 2024-04-21T01:18:57
 url: https://github.com/lolipopshock/obsidian-scholar
 version: 1.3.3
 ---

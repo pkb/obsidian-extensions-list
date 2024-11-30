@@ -1,16 +1,18 @@
 ---
 aliases:
-- Readwise Community
+  - Readwise Community
 author:
-- '[[renehernandez|Rene Hernandez]]'
-categories: []
+  - "[[renehernandez|Rene Hernandez]]"
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
 description: Sync Readwise highlights into your notes
 downloads: 8786
 mobile: true
 number: 153
 title: Readwise Community
 type: plugin
-updated: '2021-08-27T21:16:19'
+updated: 2021-08-27T21:16:19
 url: https://github.com/renehernandez/obsidian-readwise
 version: 0.0.9
 ---

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Contextual note templating
+  - Contextual note templating
 author:
-- '[[Balibaloo|Roman Kubiv]]'
-categories: []
+  - "[[Balibaloo|Roman Kubiv]]"
+categories:
+  - "[[categories/Templates|Templates]]"
 description: Prompts for values and templates to create notes.
 downloads: 2867
 mobile: true
 number: 1495
 title: Contextual note templating
 type: plugin
-updated: '2024-08-25T08:07:27'
+updated: 2024-08-25T08:07:27
 url: https://github.com/Balibaloo/obsidian-local-template-configuration
 version: 2.2.2
 ---

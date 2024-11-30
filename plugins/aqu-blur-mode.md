@@ -1,16 +1,17 @@
 ---
 aliases:
-- Blur Mode
+  - Blur Mode
 author:
-- '[[dangehub|dangehub]]'
-categories: []
+  - "[[dangehub|dangehub]]"
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
 description: Blur anything you want to keep your privacy.
 downloads: 52
 mobile: true
 number: 2030
 title: Blur Mode
 type: plugin
-updated: '2024-11-19T03:49:59'
+updated: 2024-11-19T03:49:59
 url: https://github.com/dangehub/obsidian-blur-mode
 version: 1.0.5
 ---

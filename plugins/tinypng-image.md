@@ -1,16 +1,17 @@
 ---
 aliases:
-- TinyPNG Image
+  - TinyPNG Image
 author:
-- '[[ckt1031|ckt1031]]'
-categories: []
+  - "[[ckt1031|ckt1031]]"
+categories:
+  - "[[categories/Image handling|Image handling]]"
 description: Compress images using TinyPNG to save your storage.
 downloads: 3841
 mobile: true
 number: 1017
 title: TinyPNG Image
 type: plugin
-updated: '2024-01-22T18:10:39'
+updated: 2024-01-22T18:10:39
 url: https://github.com/ckt1031/obsidian-tinypng-plugin
 version: 0.2.0
 ---

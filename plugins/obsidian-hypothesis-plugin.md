@@ -1,16 +1,17 @@
 ---
 aliases:
-- Hypothes.is
+  - Hypothes.is
 author:
-- '[[weichenw|weichenw]]'
-categories: []
+  - "[[weichenw|weichenw]]"
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Sync your Hypothesis highlights
 downloads: 13975
 mobile: true
 number: 322
 title: Hypothes.is
 type: plugin
-updated: '2022-06-01T18:03:22'
+updated: 2022-06-01T18:03:22
 url: https://github.com/weichenw/obsidian-hypothesis-plugin
 version: 0.1.19
 ---

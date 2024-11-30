@@ -1,16 +1,18 @@
 ---
 aliases:
-- Readavocado Sync
+  - Readavocado Sync
 author:
-- '[[innneang|Cyrus Zhang]]'
-categories: []
+  - "[[innneang|Cyrus Zhang]]"
+categories:
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+  - "[[categories/Integration|Integration]]"
 description: Sync your Readavocado highlights with Obsidian
 downloads: 3301
 mobile: true
 number: 632
 title: Readavocado Sync
 type: plugin
-updated: '2022-10-03T23:37:23'
+updated: 2022-10-03T23:37:23
 url: https://github.com/innneang/obsidian-readavocado-sync
 version: 1.0.0
 ---

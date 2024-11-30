@@ -1,16 +1,17 @@
 ---
 aliases:
-- Search Templates Library
+  - Search Templates Library
 author:
-- '[[Pentchaff|Pentchaff]]'
-categories: []
+  - "[[Pentchaff|Pentchaff]]"
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Allows you to save search templates for future re-use
 downloads: 3280
 mobile: true
 number: 1136
 title: Search Templates Library
 type: plugin
-updated: '2023-08-09T23:10:40'
+updated: 2023-08-09T23:10:40
 url: https://github.com/Pentchaff/obsidian-search-library
 version: 1.0.0
 ---

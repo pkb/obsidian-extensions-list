@@ -1,17 +1,17 @@
 ---
 aliases:
-- Proletarian Wizard Task Manager
+  - Proletarian Wizard Task Manager
 author:
-- '[[cfe84|Charles Feval]]'
-categories: []
-description: Track your tasks across all the notes in your workspace. Organize your
-  day. Plan your work
+  - "[[cfe84|Charles Feval]]"
+categories:
+  - "[[categories/Task management|Task management]]"
+description: Track your tasks across all the notes in your workspace. Organize your day. Plan your work
 downloads: 155
 mobile: true
 number: 2019
 title: Proletarian Wizard Task Manager
 type: plugin
-updated: '2024-11-16T03:10:48'
+updated: 2024-11-16T03:10:48
 url: https://github.com/cfe84/obsidian-pw
 version: 1.0.6
 ---

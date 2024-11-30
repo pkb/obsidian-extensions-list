@@ -1,16 +1,17 @@
 ---
 aliases:
-- TinyChart
+  - TinyChart
 author:
-- '[[alincoop|Alin Coop]]'
-categories: []
+  - "[[alincoop|Alin Coop]]"
+categories:
+  - "[[categories/Charting|Charting]]"
 description: Dead simple ASCII charts
 downloads: 899
 mobile: true
 number: 1634
 title: TinyChart
 type: plugin
-updated: '2024-05-04T09:43:26'
+updated: 2024-05-04T09:43:26
 url: https://github.com/alincoop/obsidian-tinychart
 version: 0.1.1
 ---

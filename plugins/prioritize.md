@@ -1,16 +1,17 @@
 ---
 aliases:
-- Prioritize
+  - Prioritize
 author:
-- '[[EloiMusk|EloiMusk]]'
-categories: []
+  - "[[EloiMusk|EloiMusk]]"
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Prioritize your tasks and notes in Obsidian.
 downloads: 4351
 mobile: false
 number: 846
 title: Prioritize
 type: plugin
-updated: '2023-03-16T13:23:59'
+updated: 2023-03-16T13:23:59
 url: https://github.com/EloiMusk/obsidian-prio-plugin
 version: 1.0.2
 ---

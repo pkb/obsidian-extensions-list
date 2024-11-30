@@ -1,16 +1,17 @@
 ---
 aliases:
-- Sidebar Resizer
+  - Sidebar Resizer
 author:
-- '[[jeetsukumaran|Jeet Sukumaran]]'
-categories: []
+  - "[[jeetsukumaran|Jeet Sukumaran]]"
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Adjust the sidebar sizes easily.
 downloads: 350
 mobile: true
 number: 1768
 title: Sidebar Resizer
 type: plugin
-updated: '2024-07-05T08:27:47'
+updated: 2024-07-05T08:27:47
 url: https://github.com/jeetsukumaran/obsidian-sidebar-resizer
 version: 1.0.11
 ---

@@ -1,18 +1,17 @@
 ---
 aliases:
-- Colored Tags
+  - Colored Tags
 author:
-- '[[pfrankov|Pavel Frankov]]'
-categories: []
-description: Colorizes tags in different colors. Colors of nested tags are mixed with
-  the root tag to improve readability. Text color contrast is automatically matched
-  to comply with AA level of WCAG 2.1.
+  - "[[pfrankov|Pavel Frankov]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
+description: Colorizes tags in different colors. Colors of nested tags are mixed with the root tag to improve readability. Text color contrast is automatically matched to comply with AA level of WCAG 2.1.
 downloads: 46830
 mobile: true
 number: 1023
 title: Colored Tags
 type: plugin
-updated: '2024-08-04T06:01:38'
+updated: 2024-08-04T06:01:38
 url: https://github.com/pfrankov/obsidian-colored-tags
 version: 5.0.1
 ---

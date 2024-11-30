@@ -1,16 +1,17 @@
 ---
 aliases:
-- Silicon AI
+  - Silicon AI
 author:
-- '[[deepfates|deepfates]]'
-categories: []
+  - "[[deepfates|deepfates]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Add some intelligence to your notes with Silicon AI
 downloads: 4183
 mobile: true
 number: 946
 title: Silicon AI
 type: plugin
-updated: '2023-05-24T04:21:22'
+updated: 2023-05-24T04:21:22
 url: https://github.com/deepfates/silicon
 version: 1.0.2
 ---

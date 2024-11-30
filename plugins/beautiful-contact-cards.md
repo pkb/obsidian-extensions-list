@@ -1,17 +1,17 @@
 ---
 aliases:
-- Beautiful Contact Cards
+  - Beautiful Contact Cards
 author:
-- '[[seth10|Seth Tenembaum]]'
-categories: []
-description: Renders "contact" code blocks with tappable links for phone, social media,
-  etc.
+  - "[[seth10|Seth Tenembaum]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
+description: Renders "contact" code blocks with tappable links for phone, social media, etc.
 downloads: 78
 mobile: true
 number: 2012
 title: Beautiful Contact Cards
 type: plugin
-updated: '2024-11-15T04:04:23'
+updated: 2024-11-15T04:04:23
 url: https://github.com/seth10/beautiful-obsidian-contacts
 version: 1.6.2
 ---

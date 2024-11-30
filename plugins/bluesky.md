@@ -1,16 +1,17 @@
 ---
 aliases:
-- Bluesky
+  - Bluesky
 author:
-- '[[eharris128|eharris128]]'
-categories: []
+  - "[[eharris128|eharris128]]"
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Post to Bluesky.
 downloads: 55
 mobile: true
 number: 2022
 title: Bluesky
 type: plugin
-updated: '2024-11-26T23:38:09'
+updated: 2024-11-26T23:38:09
 url: https://github.com/eharris128/obsidian-bluesky
 version: 1.0.6
 ---

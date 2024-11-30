@@ -1,16 +1,17 @@
 ---
 aliases:
-- Shrink pinned tabs
+  - Shrink pinned tabs
 author:
-- '[[nicosomb|Nicolas Lœuillet]]'
-categories: []
+  - "[[nicosomb|Nicolas Lœuillet]]"
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Shrinks pinned tabs to save screen space.
 downloads: 805
 mobile: true
 number: 1763
 title: Shrink pinned tabs
 type: plugin
-updated: '2024-11-19T18:08:16'
+updated: 2024-11-19T18:08:16
 url: https://github.com/nicosomb/obsidian-shrink-pinned-tabs
 version: 1.0.5
 ---

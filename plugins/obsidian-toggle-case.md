@@ -1,17 +1,17 @@
 ---
 aliases:
-- Toggle Case
+  - Toggle Case
 author:
-- '[[MatthewAlner|automattech]]'
-categories: []
-description: This is an Obsidian plugin to toggle between `lowercase` `UPPERCASE`
-  and `Title Case`
+  - "[[MatthewAlner|automattech]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+description: This is an Obsidian plugin to toggle between `lowercase` `UPPERCASE` and `Title Case`
 downloads: 5571
 mobile: true
 number: 721
 title: Toggle Case
 type: plugin
-updated: '2022-12-12T01:55:22'
+updated: 2022-12-12T01:55:22
 url: https://github.com/MatthewAlner/obsidian-toggle-case
 version: 1.1.0
 ---

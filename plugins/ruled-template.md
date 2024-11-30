@@ -1,16 +1,17 @@
 ---
 aliases:
-- Ruled template
+  - Ruled template
 author:
-- '[[YPetremann|YPetremann]]'
-categories: []
+  - "[[YPetremann|YPetremann]]"
+categories:
+  - "[[categories/Templates|Templates]]"
 description: Select templates automaticaly based on rules at file creation.
 downloads: 3582
 mobile: true
 number: 1025
 title: Ruled template
 type: plugin
-updated: '2023-07-26T01:43:10'
+updated: 2023-07-26T01:43:10
 url: https://github.com/YPetremann/obsidian-ruled-template
 version: 1.1.0
 ---

@@ -1,17 +1,17 @@
 ---
 aliases:
-- Occura
+  - Occura
 author:
-- '[[Krusty84|Alexey Sedoykin]]'
-categories: []
-description: Find and highlight all occurrences of selected text in notes, similar
-  to Notepad++ or IDEs.
+  - "[[Krusty84|Alexey Sedoykin]]"
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
+description: Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.
 downloads: 588
 mobile: true
 number: 1963
 title: Occura
 type: plugin
-updated: '2024-11-16T00:28:30'
+updated: 2024-11-16T00:28:30
 url: https://github.com/Krusty84/obsidian-occura-plugin
 version: 1.3.0
 ---

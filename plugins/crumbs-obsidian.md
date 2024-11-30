@@ -1,16 +1,17 @@
 ---
 aliases:
-- Crumbs
+  - Crumbs
 author:
-- '[[tgrosinger|Tony Grosinger]]'
-categories: []
+  - "[[tgrosinger|Tony Grosinger]]"
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Breadcrumb navigation in Obsidian
 downloads: 5066
 mobile: false
 number: 712
 title: Crumbs
 type: plugin
-updated: '2023-07-23T23:27:38'
+updated: 2023-07-23T23:27:38
 url: https://github.com/tgrosinger/crumbs-obsidian
 version: 0.1.2
 ---

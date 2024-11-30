@@ -1,17 +1,17 @@
 ---
 aliases:
-- Blockquote Levels
+  - Blockquote Levels
 author:
-- '[[czottmann|Carlo Zottmann]]'
-categories: []
-description: Adds commands for increasing/decreasing the blockquote level of the current
-  line or selection.
+  - "[[czottmann|Carlo Zottmann]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+description: Adds commands for increasing/decreasing the blockquote level of the current line or selection.
 downloads: 4507
 mobile: true
 number: 608
 title: Blockquote Levels
 type: plugin
-updated: '2022-09-28T22:13:25'
+updated: 2022-09-28T22:13:25
 url: https://github.com/czottmann/obsidian-blockquote-levels
 version: 1.1.0
 ---

@@ -1,16 +1,18 @@
 ---
 aliases:
-- Raindrop Highlights
+  - Raindrop Highlights
 author:
-- '[[kaiiiz|kaiiiz]]'
-categories: []
+  - "[[kaiiiz|kaiiiz]]"
+categories:
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+  - "[[categories/Integration|Integration]]"
 description: Sync your Raindrop.io highlights.
 downloads: 21301
 mobile: true
 number: 585
 title: Raindrop Highlights
 type: plugin
-updated: '2024-05-25T14:25:18'
+updated: 2024-05-25T14:25:18
 url: https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin
 version: 0.0.22
 ---

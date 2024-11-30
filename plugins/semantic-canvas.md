@@ -1,17 +1,17 @@
 ---
 aliases:
-- Semantic Canvas
+  - Semantic Canvas
 author:
-- '[[aarongilly|Aaron Gillespie]]'
-categories: []
-description: Create semantic knowledge graphs using Canvases to modify note properties
-  graphically.
+  - "[[aarongilly|Aaron Gillespie]]"
+categories:
+  - "[[categories/Canvas|Canvas]]"
+description: Create semantic knowledge graphs using Canvases to modify note properties graphically.
 downloads: 3805
 mobile: true
 number: 1536
 title: Semantic Canvas
 type: plugin
-updated: '2024-10-12T03:11:37'
+updated: 2024-10-12T03:11:37
 url: https://github.com/aarongilly/obsidian-semantic-canvas-plugin
 version: 1.2.1
 ---

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Reflection
+  - Reflection
 author:
-- '[[brandonkboswell|Brandon Boswell]]'
-categories: []
+  - "[[brandonkboswell|Brandon Boswell]]"
+categories:
+  - "[[categories/Journalling|Journalling]]"
 description: Shows daily and weekly notes from this day in years past.
 downloads: 3876
 mobile: false
 number: 1084
 title: Reflection
 type: plugin
-updated: '2024-01-29T00:49:45'
+updated: 2024-01-29T00:49:45
 url: https://github.com/brandonkboswell/reflection
 version: 1.0.1
 ---

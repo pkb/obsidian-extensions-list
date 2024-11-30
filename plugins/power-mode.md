@@ -1,16 +1,17 @@
 ---
 aliases:
-- POWER MODE
+  - POWER MODE
 author:
-- '[[zhouhua|Zhou Hua]]'
-categories: []
+  - "[[zhouhua|Zhou Hua]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: Active POWER MODE!!!!
 downloads: 1336
 mobile: true
 number: 1693
 title: POWER MODE
 type: plugin
-updated: '2024-08-15T12:46:02'
+updated: 2024-08-15T12:46:02
 url: https://github.com/zhouhua/obsidian-power-mode
 version: 1.0.8
 ---

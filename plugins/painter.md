@@ -1,16 +1,17 @@
 ---
 aliases:
-- Painter
+  - Painter
 author:
-- '[[KraXen72|KraXen72 and Chetachi Ezikeuzor]]'
-categories: []
+  - "[[KraXen72|KraXen72 and Chetachi Ezikeuzor]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: Paint text different colors
 downloads: 6191
 mobile: true
 number: 1611
 title: Painter
 type: plugin
-updated: '2024-04-17T03:11:28'
+updated: 2024-04-17T03:11:28
 url: https://github.com/KraXen72/obsidian-painter
 version: 1.1.0
 ---

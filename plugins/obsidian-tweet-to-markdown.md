@@ -1,16 +1,17 @@
 ---
 aliases:
-- Tweet to Markdown
+  - Tweet to Markdown
 author:
-- '[[kbravh|kbravh]]'
-categories: []
+  - "[[kbravh|kbravh]]"
+categories:
+  - "[[categories/Import|Import]]"
 description: Save tweets as Markdown files, along with their images, polls, etc.
 downloads: 12282
 mobile: true
 number: 335
 title: Tweet to Markdown
 type: plugin
-updated: '2022-12-06T02:31:41'
+updated: 2022-12-06T02:31:41
 url: https://github.com/kbravh/obsidian-tweet-to-markdown
 version: 2.12.1
 ---

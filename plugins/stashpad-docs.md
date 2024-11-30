@@ -1,16 +1,17 @@
 ---
 aliases:
-- Stashpad Docs
+  - Stashpad Docs
 author:
-- '[[stashpad|Stashpad]]'
-categories: []
+  - "[[stashpad|Stashpad]]"
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Create a Stashpad Doc from your notes.
 downloads: 158
 mobile: true
 number: 1665
 title: Stashpad Docs
 type: plugin
-updated: '2024-05-22T00:49:13'
+updated: 2024-05-22T00:49:13
 url: https://github.com/stashpad/obsidian-to-stashpad
 version: 1.0.0
 ---

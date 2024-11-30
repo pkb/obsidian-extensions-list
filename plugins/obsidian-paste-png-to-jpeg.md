@@ -1,16 +1,17 @@
 ---
 aliases:
-- Paste image Png to Jpeg
+  - Paste image Png to Jpeg
 author:
-- '[[musug|musug]]'
-categories: []
+  - "[[musug|musug]]"
+categories:
+  - "[[categories/Image handling|Image handling]]"
 description: Screenshot png to jpeg and compress and rename
 downloads: 9497
 mobile: true
 number: 509
 title: Paste image Png to Jpeg
 type: plugin
-updated: '2023-02-28T19:12:08'
+updated: 2023-02-28T19:12:08
 url: https://github.com/musug/obsidian-paste-png-to-jpeg
 version: 1.0.4
 ---

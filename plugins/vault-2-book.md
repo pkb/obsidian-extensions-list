@@ -1,17 +1,17 @@
 ---
 aliases:
-- Vault 2 Book
+  - Vault 2 Book
 author:
-- '[[Mitra98t|Mitra98t]]'
-categories: []
-description: Converts your notes to a book creating a single file containing all the
-  notes linked
+  - "[[Mitra98t|Mitra98t]]"
+categories:
+  - "[[categories/Export|Export]]"
+description: Converts your notes to a book creating a single file containing all the notes linked
 downloads: 3995
 mobile: true
 number: 1008
 title: Vault 2 Book
 type: plugin
-updated: '2023-06-16T02:45:02'
+updated: 2023-06-16T02:45:02
 url: https://github.com/Mitra98t/vault2book-plugin
 version: 1.0.0
 ---

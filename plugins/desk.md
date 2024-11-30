@@ -1,16 +1,17 @@
 ---
 aliases:
-- Desk
+  - Desk
 author:
-- '[[davidlandry93|David Landry]]'
-categories: []
+  - "[[davidlandry93|David Landry]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency.
 downloads: 3093
 mobile: false
 number: 1313
 title: Desk
 type: plugin
-updated: '2023-12-07T22:44:18'
+updated: 2023-12-07T22:44:18
 url: https://github.com/davidlandry93/obsidian-desk
 version: 1.0.6
 ---

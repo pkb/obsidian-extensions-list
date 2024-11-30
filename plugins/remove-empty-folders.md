@@ -1,16 +1,17 @@
 ---
 aliases:
-- Remove Empty Folders
+  - Remove Empty Folders
 author:
-- '[[fnya|fnya]]'
-categories: []
+  - "[[fnya|fnya]]"
+categories:
+  - "[[categories/File management|File management]]"
 description: Easily remove empty folders.
 downloads: 2776
 mobile: false
 number: 1230
 title: Remove Empty Folders
 type: plugin
-updated: '2023-12-02T20:47:23'
+updated: 2023-12-02T20:47:23
 url: https://github.com/fnya/remove-empty-folders
 version: 0.0.3
 ---

@@ -1,16 +1,17 @@
 ---
 aliases:
-- ChatGPT Definition
+  - ChatGPT Definition
 author:
-- '[[julix14|julix14]]'
-categories: []
+  - "[[julix14|julix14]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Let your AI assistant ChatGPT define words and concepts for you.
 downloads: 3853
 mobile: false
 number: 1103
 title: ChatGPT Definition
 type: plugin
-updated: '2023-08-30T21:41:51'
+updated: 2023-08-30T21:41:51
 url: https://github.com/julix14/chatGPT-Obsidian
 version: 1.0.1
 ---

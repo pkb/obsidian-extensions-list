@@ -1,16 +1,17 @@
 ---
 aliases:
-- Alignment Tracker
+  - Alignment Tracker
 author:
-- '[[FioPio|LittleOwl]]'
-categories: []
+  - "[[FioPio|LittleOwl]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: Track character alignment using a 3x3 grid.
 downloads: 78
 mobile: true
 number: 1905
 title: Alignment Tracker
 type: plugin
-updated: '2024-09-10T19:33:46'
+updated: 2024-09-10T19:33:46
 url: https://github.com/FioPio/ObsidianAlignmentTracker
 version: 1.0.1
 ---

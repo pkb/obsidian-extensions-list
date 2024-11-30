@@ -1,16 +1,17 @@
 ---
 aliases:
-- Arweave Uploader
+  - Arweave Uploader
 author:
-- '[[konfuzz|makesimple]]'
-categories: []
+  - "[[konfuzz|makesimple]]"
+categories:
+  - "[[categories/Export|Export]]"
 description: Convert your notes to HTML and upload to Arweave
 downloads: 35
 mobile: true
 number: 1982
 title: Arweave Uploader
 type: plugin
-updated: '2024-11-02T02:01:07'
+updated: 2024-11-02T02:01:07
 url: https://github.com/konfuzz/arweave-uploader-plugin
 version: 1.0.1
 ---

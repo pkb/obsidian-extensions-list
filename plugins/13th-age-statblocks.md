@@ -1,16 +1,17 @@
 ---
 aliases:
-- 13th Age Statblocks
+  - 13th Age Statblocks
 author:
-- '[[ben|Ben Straub]]'
-categories: []
+  - "[[ben|Ben Straub]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: Render 13th Age statblocks in Obsidian.
 downloads: 4242
 mobile: true
 number: 399
 title: 13th Age Statblocks
 type: plugin
-updated: '2024-03-07T01:45:03'
+updated: 2024-03-07T01:45:03
 url: https://github.com/ben/obsidian-13th-age-statblocks
 version: 0.1.8
 ---

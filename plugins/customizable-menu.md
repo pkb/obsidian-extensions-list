@@ -1,16 +1,17 @@
 ---
 aliases:
-- Customizable Menu
+  - Customizable Menu
 author:
-- '[[kzhovn|kzhovn]]'
-categories: []
+  - "[[kzhovn|kzhovn]]"
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Allows you to add any command to Obsidian's right-click menu.
 downloads: 24059
 mobile: true
 number: 293
 title: Customizable Menu
 type: plugin
-updated: '2022-06-06T09:02:45'
+updated: 2022-06-06T09:02:45
 url: https://github.com/kzhovn/obsidian-customizable-menu
 version: 2.2.0
 ---

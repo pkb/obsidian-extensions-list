@@ -1,16 +1,18 @@
 ---
 aliases:
-- Things3 Today
+  - Things3 Today
 author:
-- '[[wudanyang6|wudanyang6]]'
-categories: []
+  - "[[wudanyang6|wudanyang6]]"
+categories:
+  - "[[categories/Integration|Integration]]"
+  - "[[categories/Task management|Task management]]"
 description: Manage today's tasks with Things3
 downloads: 1596
 mobile: false
 number: 1506
 title: Things3 Today
 type: plugin
-updated: '2024-01-25T19:56:10'
+updated: 2024-01-25T19:56:10
 url: https://github.com/wudanyang6/obsidian-things3-today
 version: 1.0.1
 ---

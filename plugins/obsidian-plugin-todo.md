@@ -1,17 +1,17 @@
 ---
 aliases:
-- Obsidian TODO | Text-based GTD
+  - Obsidian TODO | Text-based GTD
 author:
-- '[[larslockefeer|Lars Lockefeer]]'
-categories: []
-description: Text-based GTD in Obsidian. Collects all outstanding TODOs from your
-  vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe.
+  - "[[larslockefeer|Lars Lockefeer]]"
+categories:
+  - "[[categories/Task management|Task management]]"
+description: Text-based GTD in Obsidian. Collects all outstanding TODOs from your vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe.
 downloads: 61713
 mobile: true
 number: 105
 title: Obsidian TODO | Text-based GTD
 type: plugin
-updated: '2022-01-20T02:32:07'
+updated: 2022-01-20T02:32:07
 url: https://github.com/larslockefeer/obsidian-plugin-todo
 version: 0.2.7
 ---

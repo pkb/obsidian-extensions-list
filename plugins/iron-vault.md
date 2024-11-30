@@ -1,16 +1,17 @@
 ---
 aliases:
-- Iron Vault
+  - Iron Vault
 author:
-- '[[iron-vault-plugin|Iron Vault Dev Team]]'
-categories: []
+  - "[[iron-vault-plugin|Iron Vault Dev Team]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs.
 downloads: 2922
 mobile: true
 number: 1781
 title: Iron Vault
 type: plugin
-updated: '2024-11-21T08:16:16'
+updated: 2024-11-21T08:16:16
 url: https://github.com/iron-vault-plugin/iron-vault
 version: 1.88.0
 ---

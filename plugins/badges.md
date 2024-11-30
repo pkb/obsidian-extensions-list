@@ -1,16 +1,17 @@
 ---
 aliases:
-- Badges
+  - Badges
 author:
-- '[[gapmiss|@gapmiss]]'
-categories: []
+  - "[[gapmiss|@gapmiss]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: Add inline badges/callouts to notes.
 downloads: 7849
 mobile: true
 number: 998
 title: Badges
 type: plugin
-updated: '2023-12-06T19:54:32'
+updated: 2023-12-06T19:54:32
 url: https://github.com/gapmiss/badges
 version: 1.1.0
 ---

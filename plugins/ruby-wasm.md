@@ -1,16 +1,17 @@
 ---
 aliases:
-- ruby.wasm
+  - ruby.wasm
 author:
-- '[[geeknees|geeknees]]'
-categories: []
+  - "[[geeknees|geeknees]]"
+categories:
+  - "[[categories/Code and development|Code and development]]"
 description: Run ruby code in your notes using WebAssembly
 downloads: 175
 mobile: true
 number: 1633
 title: ruby.wasm
 type: plugin
-updated: '2024-05-01T06:23:13'
+updated: 2024-05-01T06:23:13
 url: https://github.com/geeknees/obsidian-ruby-wasm-plugin
 version: 0.0.1
 ---

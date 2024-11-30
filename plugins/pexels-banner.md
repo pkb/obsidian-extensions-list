@@ -1,16 +1,17 @@
 ---
 aliases:
-- Pixel Banner
+  - Pixel Banner
 author:
-- '[[jparkerweb|Justin Parker (eQui\\ Labs)]]'
-categories: []
+  - "[[jparkerweb|Justin Parker (eQui\\\\ Labs)]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
 description: Apply an image from various sources as a banner to your notes.
 downloads: 3423
 mobile: true
 number: 1902
 title: Pixel Banner
 type: plugin
-updated: '2024-11-26T02:30:07'
+updated: 2024-11-26T02:30:07
 url: https://github.com/jparkerweb/pixel-banner
 version: 2.10.2
 ---

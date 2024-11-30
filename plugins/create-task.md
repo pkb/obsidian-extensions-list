@@ -1,16 +1,17 @@
 ---
 aliases:
-- Create Task
+  - Create Task
 author:
-- '[[simonknittel|Simon Knittel]]'
-categories: []
+  - "[[simonknittel|Simon Knittel]]"
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Create tasks faster from anywhere.
 downloads: 2635
 mobile: true
 number: 1369
 title: Create Task
 type: plugin
-updated: '2024-06-08T13:47:22'
+updated: 2024-06-08T13:47:22
 url: https://github.com/simonknittel/obsidian-create-task
 version: 1.4.2
 ---

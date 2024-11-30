@@ -1,16 +1,17 @@
 ---
 aliases:
-- random-retrieval
+  - random-retrieval
 author:
-- '[[JeanJean-rxl|Rachninomav]]'
-categories: []
+  - "[[JeanJean-rxl|Rachninomav]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Random Note Retrieval based on LLMs.
 downloads: 32
 mobile: false
 number: 1962
 title: random-retrieval
 type: plugin
-updated: '2024-10-25T19:27:53'
+updated: 2024-10-25T19:27:53
 url: https://github.com/JeanJean-rxl/random-retrieval-plugin
 version: 1.0.7
 ---

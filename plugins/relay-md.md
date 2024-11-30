@@ -1,16 +1,17 @@
 ---
 aliases:
-- Relay.md
+  - Relay.md
 author:
-- '[[relay-md|xeroc]]'
-categories: []
+  - "[[relay-md|xeroc]]"
+categories:
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
 description: Markdown workflows for teams.
 downloads: 1634
 mobile: true
 number: 1374
 title: Relay.md
 type: plugin
-updated: '2024-02-15T14:52:15'
+updated: 2024-02-15T14:52:15
 url: https://github.com/relay-md/relay-md-obsidian-plugin
 version: 1.6.1
 ---

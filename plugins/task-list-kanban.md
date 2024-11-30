@@ -1,18 +1,17 @@
 ---
 aliases:
-- Task List Kanban
+  - Task List Kanban
 author:
-- '[[chrskerr|Chris Kerr]]'
-categories: []
-description: Organizes all of the tasks within your files into a kanban view. Reduce
-  duplication of effort when managing and prioritising tasks by simply using the task
-  format in your files to automatically appear in your Task List Kanban.
+  - "[[chrskerr|Chris Kerr]]"
+categories:
+  - "[[categories/Task management|Task management]]"
+description: Organizes all of the tasks within your files into a kanban view. Reduce duplication of effort when managing and prioritising tasks by simply using the task format in your files to automatically appear in your Task List Kanban.
 downloads: 5737
 mobile: true
 number: 1724
 title: Task List Kanban
 type: plugin
-updated: '2024-09-01T16:09:35'
+updated: 2024-09-01T16:09:35
 url: https://github.com/chrskerr/task-list-kanban
 version: 1.2.8
 ---

@@ -1,17 +1,17 @@
 ---
 aliases:
-- AI Editor
+  - AI Editor
 author:
-- '[[buszk|Zekun Shen]]'
-categories: []
-description: Empower your note editor with LLM capabilities. Customizable to work
-  for your use cases.
+  - "[[buszk|Zekun Shen]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Empower your note editor with LLM capabilities. Customizable to work for your use cases.
 downloads: 4753
 mobile: true
 number: 1132
 title: AI Editor
 type: plugin
-updated: '2024-04-15T03:28:35'
+updated: 2024-04-15T03:28:35
 url: https://github.com/buszk/obsidian-ai-editor
 version: 0.5.5
 ---

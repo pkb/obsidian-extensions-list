@@ -1,16 +1,17 @@
 ---
 aliases:
-- At People
+  - At People
 author:
-- '[[saibotsivad|saibotsivad]]'
-categories: []
+  - "[[saibotsivad|saibotsivad]]"
+categories:
+  - "[[categories/Links|Links]]"
 description: Use the @ to create links to people files.
 downloads: 5358
 mobile: true
 number: 1058
 title: At People
 type: plugin
-updated: '2023-08-28T03:29:48'
+updated: 2023-08-28T03:29:48
 url: https://github.com/saibotsivad/obsidian-at-people
 version: 1.0.2
 ---

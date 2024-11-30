@@ -1,16 +1,17 @@
 ---
 aliases:
-- Ribbon Divider
+  - Ribbon Divider
 author:
-- '[[andrewmcgivery|Andrew McGivery]]'
-categories: []
+  - "[[andrewmcgivery|Andrew McGivery]]"
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Allows you to add dividers to the ribbon to space out your icons.
 downloads: 4176
 mobile: true
 number: 1343
 title: Ribbon Divider
 type: plugin
-updated: '2024-03-27T02:46:10'
+updated: 2024-03-27T02:46:10
 url: https://github.com/andrewmcgivery/obsidian-ribbon-divider
 version: 1.1.1
 ---

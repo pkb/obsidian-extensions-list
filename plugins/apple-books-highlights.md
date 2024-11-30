@@ -1,16 +1,17 @@
 ---
 aliases:
-- Apple Books Highlights
+  - Apple Books Highlights
 author:
-- '[[atfzl|Atif Afzal]]'
-categories: []
+  - "[[atfzl|Atif Afzal]]"
+categories:
+  - "[[categories/Integration|Integration]]"
 description: Sync your Apple Books highlights automatically
 downloads: 5288
 mobile: false
 number: 810
 title: Apple Books Highlights
 type: plugin
-updated: '2023-03-12T21:54:45'
+updated: 2023-03-12T21:54:45
 url: https://github.com/atfzl/obsidian-apple-books-plugin
 version: 1.0.1
 ---

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Outline to task list
+  - Outline to task list
 author:
-- '[[alexandrerbb|alexandrerbb]]'
-categories: []
+  - "[[alexandrerbb|alexandrerbb]]"
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Convert a note's outline to a task list.
 downloads: 484
 mobile: true
 number: 1617
 title: Outline to task list
 type: plugin
-updated: '2024-04-27T23:05:52'
+updated: 2024-04-27T23:05:52
 url: https://github.com/alexandrerbb/obsidian-outline-tasklist-plugin
 version: 1.1.0
 ---

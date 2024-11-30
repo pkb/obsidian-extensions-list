@@ -1,17 +1,17 @@
 ---
 aliases:
-- Privacy Glasses
+  - Privacy Glasses
 author:
-- '[[jillalberts|Jill Alberts]]'
-categories: []
-description: Provides a button and command to obfuscate onscreen text for better privacy
-  in public settings.
+  - "[[jillalberts|Jill Alberts]]"
+categories:
+  - "[[categories/Security and privacy|Security and privacy]]"
+description: Provides a button and command to obfuscate onscreen text for better privacy in public settings.
 downloads: 65451
 mobile: true
 number: 147
 title: Privacy Glasses
 type: plugin
-updated: '2023-12-18T01:07:28'
+updated: 2023-12-18T01:07:28
 url: https://github.com/jillalberts/privacy-glasses
 version: 0.7.4
 ---

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Text Transporter
+  - Text Transporter
 author:
-- '[[TfTHacker|TfTHacker]]'
-categories: []
+  - "[[TfTHacker|TfTHacker]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Advanced text tools for working with text in your vault
 downloads: 25105
 mobile: true
 number: 296
 title: Text Transporter
 type: plugin
-updated: '2024-11-06T12:57:30'
+updated: 2024-11-06T12:57:30
 url: https://github.com/TfTHacker/obsidian42-text-transporter
 version: 1.0.12
 ---

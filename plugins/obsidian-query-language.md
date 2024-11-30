@@ -1,16 +1,17 @@
 ---
 aliases:
-- Obsidian Query Language
+  - Obsidian Query Language
 author:
-- '[[jplattel|Joost Plattel]]'
-categories: []
+  - "[[jplattel|Joost Plattel]]"
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: This plugin allows you to query notes and represent data within Obsidian
 downloads: 13691
 mobile: true
 number: 87
 title: Obsidian Query Language
 type: plugin
-updated: '2022-09-19T17:09:40'
+updated: 2022-09-19T17:09:40
 url: https://github.com/jplattel/obsidian-query-language
 version: 2.1.1
 ---

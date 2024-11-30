@@ -1,16 +1,17 @@
 ---
 aliases:
-- Quick Share Note to gist
+  - Quick Share Note to gist
 author:
-- '[[chaintng|Por Chainarong Tangsurakit]]'
-categories: []
+  - "[[chaintng|Por Chainarong Tangsurakit]]"
+categories:
+  - "[[categories/Sharing and publishing|Sharing and publishing]]"
 description: Quick share notes to GitHub gist and its image by upload images to Imgur.
 downloads: 26
 mobile: true
 number: 2015
 title: Quick Share Note to gist
 type: plugin
-updated: '2024-11-24T19:42:28'
+updated: 2024-11-24T19:42:28
 url: https://github.com/chaintng/quick-share-note-to-gist
 version: 1.0.17
 ---

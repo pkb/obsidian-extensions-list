@@ -1,16 +1,17 @@
 ---
 aliases:
-- BattleSnake Board Viewer
+  - BattleSnake Board Viewer
 author:
-- '[[EnderInvader|EnderInvader]]'
-categories: []
+  - "[[EnderInvader|EnderInvader]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: Render BattleSnake positions diagrams in note preview.
 downloads: 2869
 mobile: true
 number: 1107
 title: BattleSnake Board Viewer
 type: plugin
-updated: '2023-07-12T04:33:37'
+updated: 2023-07-12T04:33:37
 url: https://github.com/EnderInvader/battlesnake-viewer
 version: 0.1.4
 ---

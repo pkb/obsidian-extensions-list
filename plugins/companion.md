@@ -1,17 +1,17 @@
 ---
 aliases:
-- Companion
+  - Companion
 author:
-- '[[rizerphe|rizerphe]]'
-categories: []
-description: Autocomplete with AI, including ChatGPT and ollama, through a copilot-like
-  interface.
+  - "[[rizerphe|rizerphe]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Autocomplete with AI, including ChatGPT and ollama, through a copilot-like interface.
 downloads: 17411
 mobile: true
 number: 861
 title: Companion
 type: plugin
-updated: '2024-05-29T00:04:42'
+updated: 2024-05-29T00:04:42
 url: https://github.com/rizerphe/obsidian-companion
 version: 1.8.0
 ---

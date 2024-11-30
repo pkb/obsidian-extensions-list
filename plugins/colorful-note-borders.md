@@ -1,17 +1,17 @@
 ---
 aliases:
-- Colorful Note Borders
+  - Colorful Note Borders
 author:
-- '[[rusi|rusi]]'
-categories: []
-description: Add customizable colorful borders to notes based on folder location or
-  frontmatter metadata, enhancing visual organization in Obsidian.
+  - "[[rusi|rusi]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
+description: Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization in Obsidian.
 downloads: 9480
 mobile: true
 number: 866
 title: Colorful Note Borders
 type: plugin
-updated: '2023-03-31T07:36:03'
+updated: 2023-03-31T07:36:03
 url: https://github.com/rusi/obsidian-colorful-note-borders
 version: 0.2.4
 ---

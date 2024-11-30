@@ -1,16 +1,17 @@
 ---
 aliases:
-- Remove Newlines
+  - Remove Newlines
 author:
-- '[[HandcartCactus|Elias Jaffe]]'
-categories: []
+  - "[[HandcartCactus|Elias Jaffe]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Remove newlines or blank lines from selected or pasted text.
 downloads: 582
 mobile: true
 number: 1764
 title: Remove Newlines
 type: plugin
-updated: '2024-11-05T03:47:53'
+updated: 2024-11-05T03:47:53
 url: https://github.com/HandcartCactus/obsidian-remove-newlines
 version: 1.0.5
 ---

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Textgrams
+  - Textgrams
 author:
-- '[[akopdev|Akop Kesheshyan]]'
-categories: []
+  - "[[akopdev|Akop Kesheshyan]]"
+categories:
+  - "[[categories/Diagrams and drawing|Diagrams and drawing]]"
 description: Store and visualise ASCII graphics and charts
 downloads: 168
 mobile: true
 number: 1999
 title: Textgrams
 type: plugin
-updated: '2024-09-28T23:59:57'
+updated: 2024-09-28T23:59:57
 url: https://github.com/akopdev/obsidian-textgrams
 version: 0.5.1
 ---

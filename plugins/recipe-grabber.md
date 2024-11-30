@@ -1,16 +1,17 @@
 ---
 aliases:
-- Recipe Grabber
+  - Recipe Grabber
 author:
-- '[[seethroughdev|seethroughdev]]'
-categories: []
+  - "[[seethroughdev|seethroughdev]]"
+categories:
+  - "[[categories/Content capture|Content capture]]"
 description: Quickly grab the important contents of any online recipe.
 downloads: 4612
 mobile: true
 number: 961
 title: Recipe Grabber
 type: plugin
-updated: '2024-06-05T22:17:03'
+updated: 2024-06-05T22:17:03
 url: https://github.com/seethroughdev/obsidian-recipe-grabber
 version: 0.21.0
 ---

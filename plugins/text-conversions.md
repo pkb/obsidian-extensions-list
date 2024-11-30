@@ -1,16 +1,17 @@
 ---
 aliases:
-- Text Conversions
+  - Text Conversions
 author:
-- '[[ironsigma|Juan D Frias]]'
-categories: []
+  - "[[ironsigma|Juan D Frias]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Perform various text conversions on the selected text
 downloads: 3061
 mobile: true
 number: 1164
 title: Text Conversions
 type: plugin
-updated: '2023-09-06T03:59:06'
+updated: 2023-09-06T03:59:06
 url: https://github.com/ironsigma/obsidian-text-conversions
 version: 1.0.0
 ---

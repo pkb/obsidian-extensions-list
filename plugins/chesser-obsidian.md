@@ -1,16 +1,17 @@
 ---
 aliases:
-- Chesser
+  - Chesser
 author:
-- '[[SilentVoid13|SilentVoid]]'
-categories: []
+  - "[[SilentVoid13|SilentVoid]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: A chess game viewer/editor
 downloads: 9695
 mobile: true
 number: 113
 title: Chesser
 type: plugin
-updated: '2022-03-06T14:16:08'
+updated: 2022-03-06T14:16:08
 url: https://github.com/SilentVoid13/Chesser
 version: 0.2.1
 ---

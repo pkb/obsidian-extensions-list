@@ -1,17 +1,17 @@
 ---
 aliases:
-- Time Ruler
+  - Time Ruler
 author:
-- '[[joshuatazrein|Joshua Tazman Reinier]]'
-categories: []
-description: A drag-and-drop time ruler combining the best of a task list and a calendar
-  view (integrates with Tasks, Full Calendar, and Dataview).
+  - "[[joshuatazrein|Joshua Tazman Reinier]]"
+categories:
+  - "[[categories/Time management|Time management]]"
+description: A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview).
 downloads: 36010
 mobile: true
 number: 986
 title: Time Ruler
 type: plugin
-updated: '2024-10-14T16:07:21'
+updated: 2024-10-14T16:07:21
 url: https://github.com/joshuatazrein/obsidian-time-ruler
 version: 2.5.2
 ---

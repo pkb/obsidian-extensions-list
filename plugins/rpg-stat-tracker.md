@@ -1,16 +1,17 @@
 ---
 aliases:
-- RPG Stat Tracker
+  - RPG Stat Tracker
 author:
-- '[[name|Cunjur]]'
-categories: []
+  - "[[name|Cunjur]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: RPG-like stat tracker.
 downloads: 494
 mobile: false
 number: 1739
 title: RPG Stat Tracker
 type: plugin
-updated: '2024-06-23T23:34:24'
+updated: 2024-06-23T23:34:24
 url: https://github.com/name/obsidian-rpg
 version: 1.0.6
 ---

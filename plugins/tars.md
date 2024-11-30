@@ -1,17 +1,17 @@
 ---
 aliases:
-- Tars
+  - Tars
 author:
-- '[[TarsLab|Tarslab]]'
-categories: []
-description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama,
-  Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.
+  - "[[TarsLab|Tarslab]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.
 downloads: 2867
 mobile: false
 number: 1717
 title: Tars
 type: plugin
-updated: '2024-11-04T14:47:09'
+updated: 2024-11-04T14:47:09
 url: https://github.com/TarsLab/obsidian-tars
 version: 0.6.3
 ---

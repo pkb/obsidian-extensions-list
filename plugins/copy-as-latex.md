@@ -1,16 +1,17 @@
 ---
 aliases:
-- Copy as Latex
+  - Copy as Latex
 author:
-- '[[mo-seph|Dave Murray-Rust]]'
-categories: []
+  - "[[mo-seph|Dave Murray-Rust]]"
+categories:
+  - "[[categories/Export|Export]]"
 description: Plugin to quickly copy markdown as Latex, with citations
 downloads: 9246
 mobile: false
 number: 344
 title: Copy as Latex
 type: plugin
-updated: '2022-02-10T23:23:37'
+updated: 2022-02-10T23:23:37
 url: https://github.com/mo-seph/obsidian-copy-as-latex
 version: 0.1.9
 ---

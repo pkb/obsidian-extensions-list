@@ -1,16 +1,17 @@
 ---
 aliases:
-- Cannoli
+  - Cannoli
 author:
-- '[[DeabLabs|blindmansion]]'
-categories: []
+  - "[[DeabLabs|blindmansion]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Create and run LLM scripts on the Obsidian Canvas.
 downloads: 7796
 mobile: true
 number: 1143
 title: Cannoli
 type: plugin
-updated: '2024-09-26T01:47:40'
+updated: 2024-09-26T01:47:40
 url: https://github.com/DeabLabs/cannoli
 version: 2.2.0
 ---

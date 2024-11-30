@@ -1,16 +1,17 @@
 ---
 aliases:
-- Soomda
+  - Soomda
 author:
-- '[[michaellee|Michael Lee]]'
-categories: []
+  - "[[michaellee|Michael Lee]]"
+categories:
+  - "[[categories/UI customization|UI customization]]"
 description: Quickly hide your sidebars
 downloads: 3557
 mobile: false
 number: 888
 title: Soomda
 type: plugin
-updated: '2023-05-04T09:55:53'
+updated: 2023-05-04T09:55:53
 url: https://github.com/michaellee/soomda
 version: 1.0.4
 ---

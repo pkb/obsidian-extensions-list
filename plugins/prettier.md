@@ -1,16 +1,17 @@
 ---
 aliases:
-- Prettier
+  - Prettier
 author:
-- '[[GoodbyeNJN|GoodbyeNJN]]'
-categories: []
+  - "[[GoodbyeNJN|GoodbyeNJN]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Format your notes with Prettier and custom formatting options.
 downloads: 820
 mobile: true
 number: 1708
 title: Prettier
 type: plugin
-updated: '2024-10-11T17:02:40'
+updated: 2024-10-11T17:02:40
 url: https://github.com/GoodbyeNJN/obsidian-plugin-prettier
 version: 1.1.0
 ---

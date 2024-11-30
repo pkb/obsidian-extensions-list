@@ -1,16 +1,17 @@
 ---
 aliases:
-- Remove HTML Tag
+  - Remove HTML Tag
 author:
-- '[[gitcpy|ChenPengyuan]]'
-categories: []
+  - "[[gitcpy|ChenPengyuan]]"
+categories:
+  - "[[categories/Note editing and formatting|Note editing and formatting]]"
 description: Remove HTML tag in Markdown file
 downloads: 156
 mobile: true
 number: 1912
 title: Remove HTML Tag
 type: plugin
-updated: '2024-09-03T13:43:24'
+updated: 2024-09-03T13:43:24
 url: https://github.com/gitcpy/obsidian-remove-html-tag
 version: 1.0.4
 ---

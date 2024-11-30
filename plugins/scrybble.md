@@ -1,16 +1,18 @@
 ---
 aliases:
-- Scrybble
+  - Scrybble
 author:
-- '[[Azeirah|Streamsoft]]'
-categories: []
+  - "[[Azeirah|Streamsoft]]"
+categories:
+  - "[[categories/Annotations and highlights|Annotations and highlights]]"
+  - "[[categories/Integration|Integration]]"
 description: Synchronize highlights from your ReMarkable to Obsidian!
 downloads: 12310
 mobile: true
 number: 692
 title: Scrybble
 type: plugin
-updated: '2024-02-20T23:28:59'
+updated: 2024-02-20T23:28:59
 url: https://github.com/Azeirah/scrybble
 version: 2.11.0
 ---

@@ -1,17 +1,17 @@
 ---
 aliases:
-- TimeSaver
+  - TimeSaver
 author:
-- '[[odayou|tommy.li]]'
-categories: []
-description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the
-  time spent on tasks in the current note and the total time spent.
+  - "[[odayou|tommy.li]]"
+categories:
+  - "[[categories/Time tracking|Time tracking]]"
+description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the time spent on tasks in the current note and the total time spent.
 downloads: 567
 mobile: true
 number: 1609
 title: TimeSaver
 type: plugin
-updated: '2024-04-18T09:55:56'
+updated: 2024-04-18T09:55:56
 url: https://github.com/odayou/obsidian-task-processing-extension
 version: 0.0.2
 ---

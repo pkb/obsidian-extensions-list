@@ -1,16 +1,17 @@
 ---
 aliases:
-- Vantage - Advanced search builder
+  - Vantage - Advanced search builder
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
-categories: []
+  - "[[ryanjamurphy|ryanjamurphy]]"
+categories:
+  - "[[categories/Search and navigation|Search and navigation]]"
 description: Build advanced search queries in Obsidian.
 downloads: 27287
 mobile: true
 number: 79
 title: Vantage - Advanced search builder
 type: plugin
-updated: '2022-10-12T21:55:02'
+updated: 2022-10-12T21:55:02
 url: https://github.com/ryanjamurphy/vantage-obsidian
 version: 1.4.2
 ---

@@ -1,17 +1,17 @@
 ---
 aliases:
-- AI Commander
+  - AI Commander
 author:
-- '[[yzh503|Simon Yang]]'
-categories: []
-description: Generate audio transcripts, images, and text in context of PDF attachments
-  or web search results using OpenAI (ChatGPT) and Bing API.
+  - "[[yzh503|Simon Yang]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
+description: Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI (ChatGPT) and Bing API.
 downloads: 14046
 mobile: true
 number: 856
 title: AI Commander
 type: plugin
-updated: '2024-10-15T17:32:53'
+updated: 2024-10-15T17:32:53
 url: https://github.com/yzh503/obsidian-aicommander-plugin
 version: 1.3.4
 ---

@@ -1,16 +1,18 @@
 ---
 aliases:
-- Colored Tags Wrangler
+  - Colored Tags Wrangler
 author:
-- '[[code-of-chaos|AndreasSasDev]]'
-categories: []
+  - "[[code-of-chaos|AndreasSasDev]]"
+categories:
+  - "[[categories/Appearence|Appearence]]"
+  - "[[categories/Tag Management|Tag Management]]"
 description: Assign colors to tags. Has integrations with other plugins, like Kanban.
 downloads: 17507
 mobile: true
 number: 1272
 title: Colored Tags Wrangler
 type: plugin
-updated: '2024-06-25T21:46:14'
+updated: 2024-06-25T21:46:14
 url: https://github.com/code-of-chaos/obsidian-colored_tags_wrangler
 version: 0.19.3
 ---

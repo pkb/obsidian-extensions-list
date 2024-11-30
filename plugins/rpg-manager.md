@@ -1,16 +1,17 @@
 ---
 aliases:
-- RPG Manager
+  - RPG Manager
 author:
-- '[[carlonicora|Carlo Nicora]]'
-categories: []
+  - "[[carlonicora|Carlo Nicora]]"
+categories:
+  - "[[categories/Games|Games]]"
 description: Manage your Tabletop Role Playing Game Campaigns in Obsidian
 downloads: 26209
 mobile: true
 number: 589
 title: RPG Manager
 type: plugin
-updated: '2023-12-21T20:11:14'
+updated: 2023-12-21T20:11:14
 url: https://github.com/carlonicora/obsidian-rpg-manager
 version: 4.1.14
 ---

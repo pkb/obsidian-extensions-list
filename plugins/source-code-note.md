@@ -1,16 +1,17 @@
 ---
 aliases:
-- Source Code Note
+  - Source Code Note
 author:
-- '[[waiting0324|Waiting]]'
-categories: []
+  - "[[waiting0324|Waiting]]"
+categories:
+  - "[[categories/Code and development|Code and development]]"
 description: This plugin can help you organize source code note easily.
 downloads: 3621
 mobile: true
 number: 844
 title: Source Code Note
 type: plugin
-updated: '2023-03-14T21:59:35'
+updated: 2023-03-14T21:59:35
 url: https://github.com/waiting0324/obsidian-code-note
 version: 1.0.0
 ---

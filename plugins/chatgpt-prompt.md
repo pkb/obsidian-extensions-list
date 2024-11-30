@@ -1,16 +1,17 @@
 ---
 aliases:
-- Prompt ChatGPT
+  - Prompt ChatGPT
 author:
-- '[[Coduhuey|Coduhuey]]'
-categories: []
+  - "[[Coduhuey|Coduhuey]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Send templates to chatgpt when you open a file
 downloads: 6701
 mobile: false
 number: 1472
 title: Prompt ChatGPT
 type: plugin
-updated: '2024-03-09T12:13:22'
+updated: 2024-03-09T12:13:22
 url: https://github.com/Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian
 version: 1.0.9
 ---

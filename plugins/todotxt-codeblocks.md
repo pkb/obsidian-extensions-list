@@ -1,16 +1,17 @@
 ---
 aliases:
-- TodoTxt Codeblocks
+  - TodoTxt Codeblocks
 author:
-- '[[benjamonnguyen|Benjamin Nguyen]]'
-categories: []
+  - "[[benjamonnguyen|Benjamin Nguyen]]"
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Manage your tasks inside codeblocks according to the Todo.txt specification.
 downloads: 3677
 mobile: true
 number: 1189
 title: TodoTxt Codeblocks
 type: plugin
-updated: '2024-10-20T12:15:34'
+updated: 2024-10-20T12:15:34
 url: https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks
 version: 1.0.1
 ---

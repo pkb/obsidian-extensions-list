@@ -1,16 +1,17 @@
 ---
 aliases:
-- Save as Gist
+  - Save as Gist
 author:
-- '[[ghedamat|ghedamat]]'
-categories: []
+  - "[[ghedamat|ghedamat]]"
+categories:
+  - "[[categories/Export|Export]]"
 description: Saving your current note as Gist on github
 downloads: 4078
 mobile: true
 number: 418
 title: Save as Gist
 type: plugin
-updated: '2022-01-25T09:36:12'
+updated: 2022-01-25T09:36:12
 url: https://github.com/ghedamat/obsidian-save-as-gist
 version: 0.0.2
 ---

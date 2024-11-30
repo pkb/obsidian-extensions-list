@@ -1,16 +1,17 @@
 ---
 aliases:
-- AI bot
+  - AI bot
 author:
-- '[[kuzzh|kuzzh]]'
-categories: []
+  - "[[kuzzh|kuzzh]]"
+categories:
+  - "[[categories/AI assistance|AI assistance]]"
 description: Polish, summarize, translate, analyze, and interpret code using AI.
 downloads: 59
 mobile: true
 number: 2023
 title: AI bot
 type: plugin
-updated: '2024-11-16T09:58:59'
+updated: 2024-11-16T09:58:59
 url: https://github.com/kuzzh/obsidian-ai-bot
 version: 0.1.0
 ---

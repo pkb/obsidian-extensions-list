@@ -1,16 +1,17 @@
 ---
 aliases:
-- Task list
+  - Task list
 author:
-- '[[ted-marozzi|Ted Marozzi]]'
-categories: []
+  - "[[ted-marozzi|Ted Marozzi]]"
+categories:
+  - "[[categories/Task management|Task management]]"
 description: Enable better task management via lists.
 downloads: 1764
 mobile: true
 number: 1415
 title: Task list
 type: plugin
-updated: '2024-04-05T15:40:17'
+updated: 2024-04-05T15:40:17
 url: https://github.com/ted-marozzi/task-list
 version: 1.0.1
 ---

@@ -1,17 +1,17 @@
 ---
 aliases:
-- Testing Vault
+  - Testing Vault
 author:
-- '[[pedersen|Michael J. Pedersen <m.pedersen@icelus.org>]]'
-categories: []
-description: This allows a developer to make a random vault of arbitrary size for
-  testing their plugins.
+  - "[[pedersen|Michael J. Pedersen <m.pedersen@icelus.org>]]"
+categories:
+  - "[[categories/Code and development|Code and development]]"
+description: This allows a developer to make a random vault of arbitrary size for testing their plugins.
 downloads: 3687
 mobile: true
 number: 852
 title: Testing Vault
 type: plugin
-updated: '2023-03-28T20:40:50'
+updated: 2023-03-28T20:40:50
 url: https://github.com/pedersen/obsidian-testing-vault
 version: 1.2.0
 ---

@@ -1,18 +1,17 @@
 ---
 aliases:
-- Tag Buddy
+  - Tag Buddy
 author:
-- '[[moremeyou|David Fasullo]]'
-categories: []
-description: Unlock powerful tag editing features in Reading Mode. Add, remove, and
-  edit tags across your vault, in the active note or a single instance. Use tag summaries
-  to roundup and process tagged content like an inbox.
+  - "[[moremeyou|David Fasullo]]"
+categories:
+  - "[[categories/Tag Management|Tag Management]]"
+description: Unlock powerful tag editing features in Reading Mode. Add, remove, and edit tags across your vault, in the active note or a single instance. Use tag summaries to roundup and process tagged content like an inbox.
 downloads: 3291
 mobile: true
 number: 1299
 title: Tag Buddy
 type: plugin
-updated: '2024-03-28T01:45:24'
+updated: 2024-03-28T01:45:24
 url: https://github.com/moremeyou/Obsidian-Tag-Buddy
 version: 0.6.8
 ---
