@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Ollama Chat
+- Ollama Chat
 author:
-  - "[[brumik|brumik]]"
+- '[[brumik|brumik]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Chat with your notes with the help of Ollama.
-downloads: 6044
+downloads: 6123
 mobile: true
 number: 1345
+stars: 116
 title: Ollama Chat
 type: plugin
-updated: 2024-10-12T12:50:01
+updated: '2024-10-12T12:50:01'
 url: https://github.com/brumik/obsidian-ollama-chat
 version: 0.1.3
 ---

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Obfuscate text with an arcane runic effect.
-downloads: 225
+downloads: 239
 mobile: true
 number: 1848
+stars: 1
 title: Arcane Obfuscate
 type: plugin
 updated: '2024-07-26T04:09:14'

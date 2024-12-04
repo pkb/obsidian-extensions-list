@@ -5,9 +5,10 @@ author:
 - '[[zorazrr|Zora Zhang]]'
 categories: []
 description: Open external links within Obsidian using a modal or a tab.
-downloads: 4487
+downloads: 4494
 mobile: false
 number: 704
+stars: 23
 title: External Link Opener
 type: plugin
 updated: '2022-11-26T22:37:47'

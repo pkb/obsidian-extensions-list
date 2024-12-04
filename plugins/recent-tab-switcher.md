@@ -5,9 +5,10 @@ author:
 - '[[samuelrawrs|Samuel Ang]]'
 categories: []
 description: Switch to the most recently used tab.
-downloads: 182
+downloads: 186
 mobile: false
 number: 1823
+stars: 3
 title: Recent Tab Switcher
 type: plugin
 updated: '2024-07-26T00:37:14'

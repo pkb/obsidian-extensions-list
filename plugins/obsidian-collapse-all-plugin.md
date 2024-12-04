@@ -5,9 +5,10 @@ author:
 - '[[nathonius|Nathonius]]'
 categories: []
 description: Extends collapse/expand all with commands that can be bound to hotkeys.
-downloads: 54456
+downloads: 54558
 mobile: true
 number: 187
+stars: 92
 title: Collapse All
 type: plugin
 updated: '2024-03-23T23:55:32'

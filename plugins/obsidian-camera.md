@@ -5,9 +5,10 @@ author:
 - '[[aldrinjenson|Aldrin Jenson]]'
 categories: []
 description: Camera plugin for Obsidian
-downloads: 10214
+downloads: 10284
 mobile: true
 number: 536
+stars: 26
 title: Camera
 type: plugin
 updated: '2024-01-27T16:09:58'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Open a random file containing your custom to-do marker, or a random marker
   at its position
-downloads: 4550
+downloads: 4555
 mobile: true
 number: 233
+stars: 3
 title: Random To-Do
 type: plugin
 updated: '2021-11-20T21:01:43'

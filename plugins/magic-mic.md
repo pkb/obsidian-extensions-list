@@ -6,9 +6,10 @@ author:
 categories: []
 description: Record, transcribe, and summarize audio directly into your vault with
   custom assistants.
-downloads: 794
+downloads: 839
 mobile: true
 number: 1918
+stars: 5
 title: Magic Mic
 type: plugin
 updated: '2024-10-14T05:09:10'

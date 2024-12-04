@@ -5,9 +5,10 @@ author:
 - '[[mAAdhaTTah|James DiGioia]]'
 categories: []
 description: Easily document and view your poker hands.
-downloads: 3521
+downloads: 3532
 mobile: true
 number: 1035
+stars: 12
 title: Poker
 type: plugin
 updated: '2024-07-15T05:47:25'

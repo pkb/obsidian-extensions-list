@@ -5,9 +5,10 @@ author:
 - '[[Shreshth-mehra|Shreshth Mehra]]'
 categories: []
 description: A Movie and TV show tracker.
-downloads: 2003
+downloads: 2027
 mobile: true
 number: 1424
+stars: 9
 title: Movie and TV show tracker
 type: plugin
 updated: '2024-10-05T23:58:45'

@@ -7,9 +7,10 @@ categories: []
 description: 'Streamline your coding workflow in Obsidian with the Pieces For Developers
   plugin, offering powerful features for capturing, managing, translating, and enhancing
   code snippets. (Closed Source) '
-downloads: 16916
+downloads: 17029
 mobile: false
 number: 949
+stars: 165
 title: Pieces for Developers
 type: plugin
 updated: '2024-11-07T02:01:55'

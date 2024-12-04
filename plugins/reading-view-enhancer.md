@@ -6,9 +6,10 @@ author:
 categories: []
 description: Enhances reading view. Use arrow keys to navigate between blocks or toggle
   collapse.
-downloads: 4713
+downloads: 4767
 mobile: true
 number: 901
+stars: 21
 title: Reading View Enhancer
 type: plugin
 updated: '2024-11-18T09:50:45'

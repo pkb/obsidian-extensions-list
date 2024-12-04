@@ -9,9 +9,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Plan, time block, and track tasks from your vault in any calendar using
   Morgen.
-downloads: 1936
+downloads: 2044
 mobile: true
 number: 1893
+stars: 3
 title: Morgen Tasks
 type: plugin
 updated: '2024-09-30T13:14:00'

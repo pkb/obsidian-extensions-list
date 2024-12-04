@@ -5,9 +5,10 @@ author:
 - '[[saaliklok|Saalik Lokhandwala]]'
 categories: []
 description: Public docs, from the fires of your vault.
-downloads: 760
+downloads: 763
 mobile: true
 number: 1539
+stars: 0
 title: Lavadocs
 type: plugin
 updated: '2024-04-07T12:20:27'

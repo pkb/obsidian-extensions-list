@@ -7,9 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Import your tasks from your TFS (Azure or Jira) to take notes on them
   and make todo-lists!
-downloads: 8540
+downloads: 8592
 mobile: true
 number: 593
+stars: 42
 title: Agile Task Notes
 type: plugin
 updated: '2024-08-30T21:51:24'

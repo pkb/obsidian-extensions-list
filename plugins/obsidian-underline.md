@@ -6,9 +6,10 @@ author:
 categories: []
 description: Add underline(`<u>xxx</u>`) with shortcut, and `<center>xxx</center>`,
   `[[#xxx]]`, `[[#^xxx]]`
-downloads: 40985
+downloads: 41234
 mobile: true
 number: 168
+stars: 56
 title: Underline
 type: plugin
 updated: '2024-03-18T12:54:26'

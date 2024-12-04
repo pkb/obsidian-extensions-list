@@ -5,9 +5,10 @@ author:
 - '[[kocheck|Kyle Kochanek]]'
 categories: []
 description: Embed Figma files as inline previews.
-downloads: 374
+downloads: 399
 mobile: true
 number: 1914
+stars: 2
 title: Figma Embed
 type: plugin
 updated: '2024-09-03T20:24:37'

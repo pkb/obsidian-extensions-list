@@ -5,9 +5,10 @@ author:
 - '[[fjdu|fjdu]]'
 categories: []
 description: Convert LaTeX commands into unicode sqeuences
-downloads: 3974
+downloads: 3980
 mobile: true
 number: 838
+stars: 3
 title: LaTeX to Unicode converter
 type: plugin
 updated: '2023-03-04T14:28:33'

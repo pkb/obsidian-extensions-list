@@ -5,9 +5,10 @@ author:
 - '[[stuporfly|Jonas Dam]]'
 categories: []
 description: synchronizes projects from Todoist, creating a note for each.
-downloads: 1327
+downloads: 1427
 mobile: false
 number: 1849
+stars: 19
 title: Todoist Project sync
 type: plugin
 updated: '2024-08-24T03:56:24'

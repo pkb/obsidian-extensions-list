@@ -5,9 +5,10 @@ author:
 - '[[luckman212|luckman212]]'
 categories: []
 description: Adds button and command to reset the font size back to its default value.
-downloads: 6027
+downloads: 6040
 mobile: true
 number: 284
+stars: 12
 title: Reset Font Size
 type: plugin
 updated: '2022-05-29T23:30:44'

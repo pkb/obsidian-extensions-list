@@ -5,9 +5,10 @@ author:
 - '[[MizarZh|MizarZh]]'
 categories: []
 description: MathLive input in editor mode
-downloads: 991
+downloads: 1013
 mobile: true
 number: 1670
+stars: 7
 title: MathLive in Editor Mode
 type: plugin
 updated: '2024-10-08T17:49:47'

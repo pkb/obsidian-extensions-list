@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Canvas]]'
 description: Add a CSS class to the canvas, but also other attributes.
-downloads: 18618
+downloads: 18719
 mobile: true
 number: 753
+stars: 38
 title: Canvas CSS class
 type: plugin
 updated: '2024-06-06T19:26:26'

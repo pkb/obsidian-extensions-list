@@ -7,9 +7,10 @@ categories: []
 description: Enhances right-click menu and global command with direct links to blocks
   and titles, adds support for multi-line blockquotes, and offers extensive customization
   options for block IDs.
-downloads: 552
+downloads: 569
 mobile: true
 number: 1842
+stars: 6
 title: Block Link Plus
 type: plugin
 updated: '2024-10-19T17:24:09'

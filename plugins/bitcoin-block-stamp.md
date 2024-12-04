@@ -5,9 +5,10 @@ author:
 - '[[sfr0xyz|sefiro]]'
 categories: []
 description: Stamp your notes with the current Bitcoin block.
-downloads: 393
+downloads: 396
 mobile: true
 number: 1603
+stars: 2
 title: Bitcoin Block Stamp
 type: plugin
 updated: '2024-05-02T12:45:39'

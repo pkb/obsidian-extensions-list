@@ -5,9 +5,10 @@ author:
 - '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Show in app notification if there is data to process in the "inbox" note.
-downloads: 5262
+downloads: 5267
 mobile: true
 number: 795
+stars: 26
 title: Inbox
 type: plugin
 updated: '2024-03-06T11:06:20'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Intelligently generate Gantt chart from your tasks
-downloads: 4088
+downloads: 4185
 mobile: true
 number: 1666
+stars: 27
 title: Smart Gantt
 type: plugin
 updated: '2024-07-30T10:22:29'

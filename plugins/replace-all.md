@@ -5,9 +5,10 @@ author:
 - '[[patrickchiang|patrickchiang]]'
 categories: []
 description: Replace all in vault.
-downloads: 281
+downloads: 313
 mobile: true
 number: 1956
+stars: 4
 title: Replace All
 type: plugin
 updated: '2024-10-22T10:06:43'

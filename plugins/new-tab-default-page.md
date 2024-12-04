@@ -5,9 +5,10 @@ author:
 - '[[chrisgrieser|pseudometa]]'
 categories: []
 description: Open a note of your choice when creating a new tab, like in the browser.
-downloads: 21345
+downloads: 21494
 mobile: true
 number: 594
+stars: 47
 title: Default New Tab Page
 type: plugin
 updated: '2023-10-25T21:56:23'

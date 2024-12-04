@@ -5,9 +5,10 @@ author:
 - '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Edit CSS files within Obsidian.
-downloads: 14466
+downloads: 14716
 mobile: true
 number: 1019
+stars: 61
 title: CSS Editor
 type: plugin
 updated: '2024-11-07T10:41:02'

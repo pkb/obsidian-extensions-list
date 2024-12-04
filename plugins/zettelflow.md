@@ -5,9 +5,10 @@ author:
 - '[[RafaelGB|RafaelGB]]'
 categories: []
 description: Helps you to create and manage your notes in a Zettelkasten way via Canvas.
-downloads: 11813
+downloads: 11911
 mobile: true
 number: 1155
+stars: 99
 title: ZettelFlow
 type: plugin
 updated: '2024-10-14T13:27:25'

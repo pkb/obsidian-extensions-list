@@ -6,14 +6,15 @@ author:
 categories: []
 description: Simultaneously generate, update, and maintain a table of contents for
   your notes.
-downloads: 194
+downloads: 450
 mobile: true
 number: 2032
+stars: 18
 title: Insta TOC
 type: plugin
-updated: '2024-11-22T10:58:21'
+updated: '2024-12-04T02:21:48'
 url: https://github.com/iLiftALot/insta-toc
-version: 5.0.5
+version: 6.1.2
 ---
 
 %% README_START %%

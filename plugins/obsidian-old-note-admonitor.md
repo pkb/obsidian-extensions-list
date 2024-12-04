@@ -6,9 +6,10 @@ author:
 categories: []
 description: This Obsidian plugin shows warnings if the note has not been updated
   in the last specific days
-downloads: 4475
+downloads: 4484
 mobile: true
 number: 664
+stars: 21
 title: Old Note Admonitor
 type: plugin
 updated: '2023-10-14T14:39:10'

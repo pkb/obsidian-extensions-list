@@ -6,9 +6,10 @@ author:
 categories: []
 description: Tries to fix and reformat ugly Markdown and adds things like 'modified
   date' etc.
-downloads: 70131
+downloads: 70221
 mobile: true
 number: 31
+stars: 131
 title: Markdown prettifier
 type: plugin
 updated: '2021-11-19T03:45:37'

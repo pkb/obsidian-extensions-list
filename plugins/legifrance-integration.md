@@ -5,9 +5,10 @@ author:
 - '[[carnetdethese|hurj]]'
 categories: []
 description: Intégration de l'API Légifrance.
-downloads: 237
+downloads: 238
 mobile: true
 number: 1658
+stars: 2
 title: Légifrance Intégration
 type: plugin
 updated: '2024-10-07T23:33:05'

@@ -9,9 +9,10 @@ categories:
 description: An obsidian plugin for uploading local images embedded in markdown to
   remote store and export markdown for publishing to static site. Currently, it supports
   Imgur and Aliyun OSS.
-downloads: 6137
+downloads: 6169
 mobile: false
 number: 836
+stars: 35
 title: Image Upload Toolkit
 type: plugin
 updated: '2024-09-10T09:00:55'

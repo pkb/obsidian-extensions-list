@@ -1,17 +1,18 @@
 ---
 aliases:
-  - PubScale
+- PubScale
 author:
-  - "[[piriwata|piriwata]]"
+- '[[piriwata|piriwata]]'
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Seamlessly sync markdown notes into PlanetScale tables.
-downloads: 3159
+downloads: 3160
 mobile: true
 number: 933
+stars: 6
 title: PubScale
 type: plugin
-updated: 2023-05-21T08:21:57
+updated: '2023-05-21T08:21:57'
 url: https://github.com/piriwata/pubScale
 version: 0.2.0
 ---

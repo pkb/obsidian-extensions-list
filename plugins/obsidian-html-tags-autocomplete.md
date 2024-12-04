@@ -5,9 +5,10 @@ author:
 - '[[bicarlsen|Brian Carlsen]]'
 categories: []
 description: Autocomplete HTML tags.
-downloads: 13625
+downloads: 13677
 mobile: true
 number: 331
+stars: 27
 title: HTML Tags Autocomplete
 type: plugin
 updated: '2023-04-23T21:58:35'

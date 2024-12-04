@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Open Sidebar on Hover
+- Open Sidebar on Hover
 author:
-  - "[[AnAngryRaven|AnAngryRaven]]"
+- '[[AnAngryRaven|AnAngryRaven]]'
 categories:
-  - "[[categories/UI customization|UI customization]]"
+- '[[categories/UI customization|UI customization]]'
 description: Opens the sidebar by hovering over it.
-downloads: 704
+downloads: 778
 mobile: false
 number: 1927
+stars: 7
 title: Open Sidebar on Hover
 type: plugin
-updated: 2024-10-05T16:20:05
+updated: '2024-10-05T16:20:05'
 url: https://github.com/AnAngryRaven/obsidian-open-sidebar-on-hover
 version: 1.0.2
 ---

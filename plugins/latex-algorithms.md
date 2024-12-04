@@ -5,9 +5,10 @@ author:
 - '[[SamZhang02|SamZhang02]]'
 categories: []
 description: Plugin to facilitate writing algorithm blocks in LaTeX
-downloads: 4709
+downloads: 4724
 mobile: true
 number: 803
+stars: 18
 title: LaTeX Algorithms
 type: plugin
 updated: '2023-03-05T06:51:14'

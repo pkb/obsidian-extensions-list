@@ -5,9 +5,10 @@ author:
 - '[[jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Intelligently paste Markdown links.
-downloads: 5233
+downloads: 5478
 mobile: true
 number: 1293
+stars: 8
 title: Paste Link
 type: plugin
 updated: '2024-11-25T02:23:55'

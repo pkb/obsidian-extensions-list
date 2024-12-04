@@ -5,9 +5,10 @@ author:
 - '[[Doggy-Footprint|Doggy-Footprint]]'
 categories: []
 description: Quick suggests for linkable notes
-downloads: 122
+downloads: 124
 mobile: true
 number: 1862
+stars: 3
 title: Suggest Notes
 type: plugin
 updated: '2024-09-10T13:36:45'

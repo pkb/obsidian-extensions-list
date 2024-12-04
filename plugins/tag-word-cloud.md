@@ -5,9 +5,10 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Show a cloud of your tags/words in a note
-downloads: 13388
+downloads: 13450
 mobile: true
 number: 422
+stars: 53
 title: Tag & Word Cloud
 type: plugin
 updated: '2023-09-11T17:19:10'

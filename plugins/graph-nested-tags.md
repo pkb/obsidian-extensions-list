@@ -5,9 +5,10 @@ author:
 - '[[drPilman|drpilman]]'
 categories: []
 description: Links nested tags in graph view
-downloads: 9109
+downloads: 9245
 mobile: true
 number: 1096
+stars: 49
 title: Nested tags graph
 type: plugin
 updated: '2024-02-13T20:14:15'

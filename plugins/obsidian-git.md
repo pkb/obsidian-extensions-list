@@ -1,20 +1,20 @@
 ---
 aliases:
-- Git
+  - Git
 author:
-- '[[Vinzent03|Vinzent]]'
+  - "[[Vinzent03|Vinzent]]"
 categories:
-- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
-description: Integrate Git version control with automatic backup and other advanced
-  features.
-downloads: 1220048
+  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
+description: Integrate Git version control with automatic backup and other advanced features.
+downloads: 1234970
 mobile: true
 number: 3
+stars: 7000
 title: Git
 type: plugin
-updated: '2024-11-26T00:30:25'
+updated: 2024-11-28T23:00:26
 url: https://github.com/Vinzent03/obsidian-git
-version: 2.30.0
+version: 2.30.1
 ---
 
 %% README_START %%

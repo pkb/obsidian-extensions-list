@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin is used to draw the harada method. Create your own 1 goal,
   8 plans, and 64 actions
-downloads: 4888
+downloads: 4899
 mobile: true
 number: 878
+stars: 34
 title: Draw Harada Method
 type: plugin
 updated: '2023-04-28T21:33:34'

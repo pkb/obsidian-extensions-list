@@ -5,9 +5,10 @@ author:
 - '[[carlrobert|Robert Storlind]]'
 categories: []
 description: Toggling dark/light mode switches themes automatically
-downloads: 42
+downloads: 69
 mobile: true
 number: 2021
+stars: 0
 title: Auto switch themes between dark/light mode
 type: plugin
 updated: '2024-11-16T03:13:07'

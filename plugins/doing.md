@@ -5,9 +5,10 @@ author:
 - '[[rooyca|rooyca]]'
 categories: []
 description: It helps you remember what you were doing.
-downloads: 432
+downloads: 442
 mobile: false
 number: 1737
+stars: 4
 title: doing
 type: plugin
 updated: '2024-07-03T15:23:59'

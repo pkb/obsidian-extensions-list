@@ -5,9 +5,10 @@ author:
 - '[[mddevils|mddevils]]'
 categories: []
 description: Bring your Bookmarks from Floccus to your Obsidian
-downloads: 4660
+downloads: 4676
 mobile: false
 number: 1109
+stars: 10
 title: Floccus Bookmarks to Markdown
 type: plugin
 updated: '2023-07-25T23:49:16'

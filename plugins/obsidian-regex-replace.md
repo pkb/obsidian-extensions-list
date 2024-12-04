@@ -5,9 +5,10 @@ author:
 - '[[Gru80|Martin Eder]]'
 categories: []
 description: Find and replace text using regular expressions.
-downloads: 33369
+downloads: 33626
 mobile: true
 number: 376
+stars: 69
 title: Regex Find/Replace
 type: plugin
 updated: '2022-01-30T16:31:18'

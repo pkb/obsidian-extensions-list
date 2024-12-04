@@ -7,9 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Mermaid, PlantUML, GraphViz, D2, Excalidraw, Vega, Pikchr, WireViz,
   Structurizr and many others diagrams using Kroki
-downloads: 8857
+downloads: 8887
 mobile: true
 number: 217
+stars: 48
 title: Kroki
 type: plugin
 updated: '2024-01-25T08:47:55'

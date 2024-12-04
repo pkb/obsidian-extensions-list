@@ -7,9 +7,10 @@ categories:
 - '[[categories/Automation|Automation]]'
 description: Auto Note Mover will automatically move the active notes to their respective
   folders according to the rules.
-downloads: 50004
+downloads: 50469
 mobile: true
 number: 424
+stars: 289
 title: Auto Note Mover
 type: plugin
 updated: '2022-04-16T16:11:22'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Apply spaced repetition algorithms to everything in your vault.
-downloads: 360
+downloads: 368
 mobile: true
 number: 1900
+stars: 12
 title: Spaced everything
 type: plugin
 updated: '2024-10-09T22:54:06'

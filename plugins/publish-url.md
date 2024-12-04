@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Obsidian Publish url to the clipboard
-downloads: 2218
+downloads: 2222
 mobile: true
 number: 1283
+stars: 3
 title: Publish url
 type: plugin
 updated: '2023-12-13T00:02:55'

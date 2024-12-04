@@ -5,9 +5,10 @@ author:
 - '[[kursad-k|kursad-k]]'
 categories: []
 description: Edit non-md file types as markdown files
-downloads: 2432
+downloads: 2460
 mobile: true
 number: 1342
+stars: 5
 title: open-as-md
 type: plugin
 updated: '2023-12-10T00:57:57'

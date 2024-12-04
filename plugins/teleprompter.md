@@ -5,9 +5,10 @@ author:
 - '[[lumetrium|Lumetrium]]'
 categories: []
 description: Teleprompter window for live presentations and video production.
-downloads: 4694
+downloads: 4730
 mobile: true
 number: 1243
+stars: 54
 title: Teleprompter
 type: plugin
 updated: '2024-07-30T22:05:01'

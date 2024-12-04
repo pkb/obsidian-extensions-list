@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI Assistant plugin for Obsidian
-downloads: 17809
+downloads: 18080
 mobile: true
 number: 884
+stars: 246
 title: AI Assistant
 type: plugin
 updated: '2024-11-03T15:32:17'

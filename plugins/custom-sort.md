@@ -8,9 +8,10 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Allows for manual and automatic, config-driven reordering and sorting
   of files and folders in File Explorer
-downloads: 82866
+downloads: 83592
 mobile: true
 number: 609
+stars: 305
 title: Custom File Explorer sorting
 type: plugin
 updated: '2024-09-20T22:56:24'

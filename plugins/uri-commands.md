@@ -5,9 +5,10 @@ author:
 - '[[kzhovn|kzhovn]]'
 categories: []
 description: Execute URIs from the Obsidian command palette.
-downloads: 5540
+downloads: 5545
 mobile: true
 number: 306
+stars: 38
 title: URI Commands
 type: plugin
 updated: '2022-05-20T09:19:25'

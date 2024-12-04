@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your markdown notes with a single click from your vault.
-downloads: 4779
+downloads: 4791
 mobile: true
 number: 300
+stars: 26
 title: OzanShare Publish
 type: plugin
 updated: '2023-05-10T01:06:39'

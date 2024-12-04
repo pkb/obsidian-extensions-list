@@ -5,9 +5,10 @@ author:
 - '[[mjessome|Marc Jessome]]'
 categories: []
 description: Add support for global hotkeys
-downloads: 10073
+downloads: 10119
 mobile: false
 number: 389
+stars: 83
 title: Global Hotkeys
 type: plugin
 updated: '2022-03-15T20:21:16'

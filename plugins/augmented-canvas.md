@@ -7,9 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Canvas|Canvas]]'
 description: Obsidian Canvas with AI features.
-downloads: 1950
+downloads: 2016
 mobile: true
 number: 1471
+stars: 67
 title: Augmented Canvas
 type: plugin
 updated: '2024-11-24T21:07:22'

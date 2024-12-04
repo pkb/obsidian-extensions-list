@@ -6,9 +6,10 @@ author:
 categories: []
 description: Effortlessly fetch and manage all the YouTube videos you've liked, search
   and sort them, and add them to your daily note.
-downloads: 405
+downloads: 416
 mobile: false
 number: 1838
+stars: 8
 title: Geulo
 type: plugin
 updated: '2024-08-18T22:24:26'

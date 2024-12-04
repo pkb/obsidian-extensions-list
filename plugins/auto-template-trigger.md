@@ -7,9 +7,10 @@ categories:
 - '[[categories/Automation|Automation]]'
 description: Automatically apply or prompt for a template when creating a note. Supports
   assigning templates to folders.
-downloads: 14780
+downloads: 14979
 mobile: true
 number: 928
+stars: 33
 title: Auto Template Trigger
 type: plugin
 updated: '2024-11-20T04:26:57'

@@ -8,9 +8,10 @@ categories:
 description: Copy to clipboard, Open in default app, Show in system explorer, Reveal
   file in navigation, Open in new tab context menus for images. Also has an pen PDF
   externally context menu.
-downloads: 41343
+downloads: 41546
 mobile: true
 number: 220
+stars: 68
 title: Image Context Menus
 type: plugin
 updated: '2024-09-07T19:34:03'

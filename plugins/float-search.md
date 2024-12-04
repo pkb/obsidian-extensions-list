@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: You can use search view in modal/leaf/popout window now.
-downloads: 22463
+downloads: 22722
 mobile: true
 number: 848
+stars: 158
 title: Floating Search
 type: plugin
 updated: '2024-10-31T14:26:55'

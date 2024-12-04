@@ -7,9 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 description: Import Workona resources, tabs, notes and tasks through generated JSON
   file.
-downloads: 3919
+downloads: 3921
 mobile: false
 number: 718
+stars: 11
 title: Workona Import
 type: plugin
 updated: '2024-04-02T02:23:07'

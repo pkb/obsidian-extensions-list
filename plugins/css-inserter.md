@@ -6,9 +6,10 @@ author:
 - '[[Erallie|Juanjo Arranz]]'
 categories: []
 description: Inserts user-defined css snippets into the selected text.
-downloads: 333
+downloads: 351
 mobile: true
 number: 1869
+stars: 2
 title: CSS Inserter
 type: plugin
 updated: '2024-09-08T00:41:36'

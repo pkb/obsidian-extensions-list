@@ -5,9 +5,10 @@ author:
 - '[[imfenghuang|imfenghuang]]'
 categories: []
 description: A free-to-use translatation service for foreign language markdown file.
-downloads: 659
+downloads: 714
 mobile: false
 number: 1925
+stars: 17
 title: Immersive Translate
 type: plugin
 updated: '2024-08-17T12:50:26'

@@ -5,9 +5,10 @@ author:
 - '[[yesjinu|Jinu]]'
 categories: []
 description: Show your favorite quote in obsidian status bar
-downloads: 3970
+downloads: 3976
 mobile: true
 number: 649
+stars: 5
 title: Status Bar Quote
 type: plugin
 updated: '2022-10-16T13:32:52'

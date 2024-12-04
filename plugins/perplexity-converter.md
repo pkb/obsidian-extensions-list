@@ -5,9 +5,10 @@ author:
 - '[[heseber|Henrik Seidel]]'
 categories: []
 description: Fix references in text pasted from Perplexity.
-downloads: 155
+downloads: 200
 mobile: true
 number: 2004
+stars: 2
 title: Perplexity Converter
 type: plugin
 updated: '2024-11-08T02:30:59'

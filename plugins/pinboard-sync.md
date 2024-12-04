@@ -5,9 +5,10 @@ author:
 - '[[Automatt|Mathew Spolin]]'
 categories: []
 description: Syncs Pinboard.in links with Daily Notes
-downloads: 3982
+downloads: 3985
 mobile: true
 number: 405
+stars: 63
 title: Pinboard Sync
 type: plugin
 updated: '2022-02-21T03:10:51'

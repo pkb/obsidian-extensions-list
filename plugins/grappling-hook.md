@@ -6,9 +6,10 @@ author:
 categories: []
 description: Obsidian Plugin for blazingly fast file switching. For those who find
   the Quick Switcher still too slow.
-downloads: 7857
+downloads: 7870
 mobile: true
 number: 785
+stars: 47
 title: Grappling Hook
 type: plugin
 updated: '2024-09-18T16:07:37'

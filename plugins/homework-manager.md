@@ -5,9 +5,10 @@ author:
 - '[[KadisonM|Kadison McLellan]]'
 categories: []
 description: Keeps track of homework through a to-do list.
-downloads: 4411
+downloads: 4431
 mobile: true
 number: 1210
+stars: 8
 title: Homework Manager
 type: plugin
 updated: '2023-12-07T16:10:26'

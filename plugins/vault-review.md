@@ -5,9 +5,10 @@ author:
 - '[[SashaKryzh|Alexander]]'
 categories: []
 description: Randomly review your vault and track progress.
-downloads: 54
+downloads: 56
 mobile: true
 number: 1973
+stars: 3
 title: Vault Review
 type: plugin
 updated: '2024-10-15T12:04:05'

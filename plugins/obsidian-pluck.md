@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Pluck
+- Pluck
 author:
-  - "[[kevboh|Kevin Barrett]]"
+- '[[kevboh|Kevin Barrett]]'
 categories:
-  - "[[categories/Content capture|Content capture]]"
+- '[[categories/Content capture|Content capture]]'
 description: Quickly create notes in Obsidian from web pages.
-downloads: 9189
+downloads: 9201
 mobile: false
 number: 212
+stars: 68
 title: Pluck
 type: plugin
-updated: 2021-06-20T02:17:32
+updated: '2021-06-20T02:17:32'
 url: https://github.com/kevboh/obsidian-pluck
 version: 1.0.1
 ---

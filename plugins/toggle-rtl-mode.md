@@ -5,9 +5,10 @@ author:
 - '[[YoniA|Yoni Asulin]]'
 categories: []
 description: Toggle RTL mode using command or ribbon action
-downloads: 246
+downloads: 251
 mobile: true
 number: 1660
+stars: 0
 title: Toggle RTL mode
 type: plugin
 updated: '2024-04-26T15:34:21'

@@ -5,9 +5,10 @@ author:
 - '[[yefengr|yefengr]]'
 categories: []
 description: Count the number of words written each day and display it on a calendar.
-downloads: 819
+downloads: 850
 mobile: false
 number: 1841
+stars: 5
 title: Daily Statistics
 type: plugin
 updated: '2024-10-01T13:40:04'

@@ -5,9 +5,10 @@ author:
 - '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Tweak various Electron window settings.
-downloads: 10385
+downloads: 10420
 mobile: false
 number: 199
+stars: 40
 title: Electron Window Tweaker
 type: plugin
 updated: '2021-12-15T04:26:44'

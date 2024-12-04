@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: A focus mode Obsidian plugin.
-downloads: 7910
+downloads: 7942
 mobile: false
 number: 828
+stars: 45
 title: Zen
 type: plugin
 updated: '2023-07-24T17:55:15'

@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Saves the clipboard to a new note.
-downloads: 83387
+downloads: 85641
 mobile: true
 number: 295
+stars: 450
 title: ReadItLater
 type: plugin
-updated: '2024-11-25T21:53:59'
+updated: '2024-11-30T23:01:43'
 url: https://github.com/DominikPieper/obsidian-ReadItLater
-version: 0.8.0
+version: 0.9.0
 ---
 
 %% README_START %%

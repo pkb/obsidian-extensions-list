@@ -5,9 +5,10 @@ author:
 - '[[phasip|Phasip]]'
 categories: []
 description: Let the OpenAI LLVM add nodes to your canvas.
-downloads: 2948
+downloads: 2955
 mobile: true
 number: 1242
+stars: 27
 title: Canvas LLM Extender
 type: plugin
 updated: '2023-10-20T05:34:57'

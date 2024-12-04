@@ -6,9 +6,10 @@ author:
 categories: []
 description: Use shortcuts to manage and navigate your top four frequently-used files
   in Obsidian.
-downloads: 3427
+downloads: 3436
 mobile: true
 number: 1089
+stars: 10
 title: Harpoon
 type: plugin
 updated: '2024-08-29T08:55:00'

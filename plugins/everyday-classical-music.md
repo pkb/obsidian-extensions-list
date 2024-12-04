@@ -6,9 +6,10 @@ author:
 categories: []
 description: Display a different piece of classical music each day with a YouTube
   link in your daily note.
-downloads: 256
+downloads: 264
 mobile: true
 number: 1788
+stars: 2
 title: Everyday Classical Music
 type: plugin
 updated: '2024-06-10T09:56:44'

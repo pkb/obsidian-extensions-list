@@ -5,9 +5,10 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Renames notes keeping previous title in existing links
-downloads: 5193
+downloads: 5256
 mobile: true
 number: 894
+stars: 26
 title: Smart Rename
 type: plugin
 updated: '2024-11-21T23:51:08'

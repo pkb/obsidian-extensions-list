@@ -5,9 +5,10 @@ author:
 - '[[ozntel|Ozan Tellioglu]]'
 categories: []
 description: Easily display and search MSG files from Outlook in your Obsidian Vault
-downloads: 6184
+downloads: 6216
 mobile: true
 number: 811
+stars: 16
 title: MSG Handler
 type: plugin
 updated: '2023-03-05T22:13:38'

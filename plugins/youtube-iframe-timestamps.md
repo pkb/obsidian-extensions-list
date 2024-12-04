@@ -7,9 +7,10 @@ categories: []
 description: Allows you to embed YouTube videos with timestamps directly in your notes,
   enabling seamless referencing and note-taking without needing to open a separate
   browser window.
-downloads: 271
+downloads: 313
 mobile: true
 number: 1961
+stars: 5
 title: Youtube Iframe Timestamps
 type: plugin
 updated: '2024-10-03T21:24:34'

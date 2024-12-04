@@ -5,9 +5,10 @@ author:
 - '[[greasycat|GreasyCat]]'
 categories: []
 description: Provide math autocompletion and customizable snippets.
-downloads: 6305
+downloads: 6361
 mobile: true
 number: 937
+stars: 13
 title: Better MathJax
 type: plugin
 updated: '2023-01-27T09:07:08'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Share notes via Notepad Tab (https://notepadtab.com).
-downloads: 107
+downloads: 109
 mobile: true
 number: 1822
+stars: 1
 title: Share via Notepad Tab
 type: plugin
 updated: '2024-07-27T00:09:20'

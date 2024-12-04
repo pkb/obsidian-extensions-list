@@ -5,9 +5,10 @@ author:
 - '[[tdresser|Tim Dresser]]'
 categories: []
 description: Visualize Juggling Pattern Siteswap via the JugglingLab gif server.
-downloads: 3474
+downloads: 3475
 mobile: true
 number: 395
+stars: 4
 title: Siteswap
 type: plugin
 updated: '2022-01-23T22:12:26'

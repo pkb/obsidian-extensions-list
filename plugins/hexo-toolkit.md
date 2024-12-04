@@ -5,9 +5,10 @@ author:
 - '[[sissilab|Xiangru]]'
 categories: []
 description: Maintain Hexo posts.
-downloads: 34
+downloads: 38
 mobile: false
 number: 1987
+stars: 1
 title: Hexo Toolkit
 type: plugin
 updated: '2024-11-20T12:16:34'

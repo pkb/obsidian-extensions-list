@@ -5,9 +5,10 @@ author:
 - '[[RevoTale|RevoTale]]'
 categories: []
 description: Automatically move notes into existing folders by tags specified in note.
-downloads: 578
+downloads: 586
 mobile: true
 number: 1692
+stars: 6
 title: Folder by tags distributor
 type: plugin
 updated: '2024-04-10T19:15:06'

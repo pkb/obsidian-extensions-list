@@ -5,9 +5,10 @@ author:
 - '[[iRewiewer|iRewiewer]]'
 categories: []
 description: Insert a random number.
-downloads: 2363
+downloads: 2376
 mobile: true
 number: 1268
+stars: 1
 title: Random Number Generator
 type: plugin
 updated: '2023-11-27T03:28:40'

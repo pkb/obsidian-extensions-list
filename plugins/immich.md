@@ -5,9 +5,10 @@ author:
 - '[[Talal-A|Talal Abou Haiba]]'
 categories: []
 description: Link your Immich images within your vault.
-downloads: 92
+downloads: 94
 mobile: true
 number: 1894
+stars: 7
 title: Immich
 type: plugin
 updated: '2024-09-13T04:10:41'

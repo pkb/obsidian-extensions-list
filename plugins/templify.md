@@ -5,9 +5,10 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: (Closed Source) Multi layout for one note.
-downloads: 2139
+downloads: 2152
 mobile: true
 number: 1688
+stars: 56
 title: Templify
 type: plugin
 updated: '2024-04-02T08:42:26'

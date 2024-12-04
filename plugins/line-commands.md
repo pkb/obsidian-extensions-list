@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds commands to quickly select, copy, cut, and paste lines under the
   selection or cursor.
-downloads: 1244
+downloads: 1250
 mobile: true
 number: 1514
+stars: 10
 title: Line Commands
 type: plugin
 updated: '2024-03-04T05:05:23'

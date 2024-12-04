@@ -5,9 +5,10 @@ author:
 - '[[kuvanov-2|yurikuvanov]]'
 categories: []
 description: Pull and push notes to DocBase
-downloads: 64
+downloads: 65
 mobile: true
 number: 1774
+stars: 0
 title: DocBase (Unofficial)
 type: plugin
 updated: '2024-07-06T05:32:17'

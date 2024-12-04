@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Timeline
+- Timeline
 author:
-  - "[[George-debug|George Butco]]"
+- '[[George-debug|George Butco]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: Used to build great timelines
-downloads: 41157
+downloads: 41620
 mobile: true
 number: 218
+stars: 311
 title: Timeline
 type: plugin
-updated: 2022-07-22T23:54:32
+updated: '2022-07-22T23:54:32'
 url: https://github.com/George-debug/obsidian-timeline
 version: 1.1.0
 ---

@@ -5,9 +5,10 @@ author:
 - '[[smikula|Scott Mikula]]'
 categories: []
 description: Put a spotlight on your active pane
-downloads: 5381
+downloads: 5383
 mobile: true
 number: 328
+stars: 31
 title: Limelight
 type: plugin
 updated: '2021-10-24T07:30:13'

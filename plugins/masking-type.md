@@ -5,9 +5,10 @@ author:
 - '[[Telehakke|Telehakke]]'
 categories: []
 description: Mask bold, italic, and highlight
-downloads: 63
+downloads: 70
 mobile: true
 number: 1995
+stars: 1
 title: Masking Type
 type: plugin
 updated: '2024-11-10T17:38:00'

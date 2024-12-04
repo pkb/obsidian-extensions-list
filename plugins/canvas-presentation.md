@@ -5,9 +5,10 @@ author:
 - '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin to help you display cards based on sequence.
-downloads: 10707
+downloads: 10744
 mobile: true
 number: 723
+stars: 79
 title: Canvas Presentation
 type: plugin
 updated: '2023-03-29T09:03:56'

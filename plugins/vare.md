@@ -1,17 +1,20 @@
 ---
 aliases:
-  - VARE
+- VARE
 author:
-  - "[[4Source|4Source]]"
+- '[[4Source|4Source]]'
 categories:
-  - "[[categories/Plugin management|Plugin management]]"
-description: Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary.
-downloads: 1123
+- '[[categories/Plugin management|Plugin management]]'
+description: Now you can easily manage your plugins and themes. Simply select the
+  version you want or install unlisted versions from GitHub. You can also install
+  beta version and switch back if necessary.
+downloads: 1132
 mobile: false
 number: 1562
+stars: 6
 title: VARE
 type: plugin
-updated: 2024-06-26T16:23:54
+updated: '2024-06-26T16:23:54'
 url: https://github.com/4Source/vare-obsidian-plugin
 version: 0.1.2
 ---

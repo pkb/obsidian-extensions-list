@@ -6,9 +6,10 @@ author:
 categories: []
 description: Edit a bunch of daily notes in one page(inline), which works similar
   to Roam Research's default daily note view.
-downloads: 17050
+downloads: 17209
 mobile: true
 number: 687
+stars: 194
 title: Daily Notes Editor
 type: plugin
 updated: '2024-07-15T09:57:14'

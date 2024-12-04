@@ -6,9 +6,10 @@ author:
 categories: []
 description: An Obsidian Notes plugin for generating and copying block IDs and for
   copying lines with links to the copied line.
-downloads: 13181
+downloads: 13198
 mobile: true
 number: 288
+stars: 50
 title: Carry-Forward
 type: plugin
 updated: '2023-01-12T18:20:19'

@@ -5,9 +5,10 @@ author:
 - '[[Jambo2018|Jambo]]'
 categories: []
 description: Support multiple shortcut menus to improve input efficiency
-downloads: 12385
+downloads: 12431
 mobile: true
 number: 1105
+stars: 52
 title: Typing Assistant
 type: plugin
 updated: '2024-06-30T16:24:22'

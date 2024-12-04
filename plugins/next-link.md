@@ -5,9 +5,10 @@ author:
 - '[[jdluque|Juan Luque]]'
 categories: []
 description: Jump quickly between note links.
-downloads: 2797
+downloads: 2799
 mobile: false
 number: 1168
+stars: 3
 title: Next Link
 type: plugin
 updated: '2023-09-28T05:51:00'

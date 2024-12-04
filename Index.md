@@ -53,6 +53,10 @@ const COLUMNS = [
         title: <Header field={"mobile"}><dc.Icon icon="smartphone" className="icon" /></Header>, 
         value: (page) => <dc.Checkbox checked={page.value("mobile")} disabled={true}/>
     },
+    {
+        title: <Header field={"stars"}><dc.Icon icon="star" className="icon"/></Header>, 
+        value: (page) => page.value("stars"),
+    },
     { 
         title: <Header field={"downloads"}><dc.Icon icon="cloud-download" className="icon" /></Header>, 
         value: (page) => page.value("downloads"),

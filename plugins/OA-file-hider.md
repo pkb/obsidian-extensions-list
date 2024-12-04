@@ -6,9 +6,10 @@ author:
 categories: []
 description: An Obsidian plugin that allows hiding files and folders in the built-in
   file explorer
-downloads: 24078
+downloads: 24254
 mobile: true
 number: 570
+stars: 69
 title: File Hider
 type: plugin
 updated: '2023-02-09T04:08:21'

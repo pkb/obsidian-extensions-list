@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Popup calendar for quickly navigating dates
-downloads: 15717
+downloads: 15821
 mobile: true
 number: 279
+stars: 40
 title: Jump-to-Date
 type: plugin
 updated: '2024-11-05T21:44:44'

@@ -5,9 +5,10 @@ author:
 - '[[dldisud|dldisud]]'
 categories: []
 description: Make it look like a mobile
-downloads: 298
+downloads: 310
 mobile: true
 number: 1798
+stars: 2
 title: Pia viewer
 type: plugin
 updated: '2024-07-29T04:46:07'

@@ -5,9 +5,10 @@ author:
 - '[[hans|Jon Gauthier]]'
 categories: []
 description: Automatically search and insert citations from a Zotero library
-downloads: 174001
+downloads: 174520
 mobile: false
 number: 53
+stars: 1100
 title: Citations
 type: plugin
 updated: '2022-09-24T21:25:58'

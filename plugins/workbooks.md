@@ -7,9 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Work with Spreadsheets inside your notes
-downloads: 6323
+downloads: 6341
 mobile: false
 number: 1133
+stars: 25
 title: Workbooks
 type: plugin
 updated: '2023-09-23T13:20:46'

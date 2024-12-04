@@ -8,9 +8,10 @@ description: A versatile text expansion plugin with full mobile support. Easily 
   code snippets, personal info like passport numbers, email signatures, and more.
   Includes seamless Alfred integration and the ability to sync Awesome ChatGPT prompts
   as snippets.
-downloads: 708
+downloads: 737
 mobile: true
 number: 1868
+stars: 18
 title: Snippets Manager
 type: plugin
 updated: '2024-09-29T14:38:31'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: The Code::Stats plugin allows you to track your coding progress and earn
   XP for writing markdown in the Obsidian editor.
-downloads: 3602
+downloads: 3606
 mobile: false
 number: 1018
+stars: 10
 title: Code::Stats
 type: plugin
 updated: '2024-10-19T22:23:55'

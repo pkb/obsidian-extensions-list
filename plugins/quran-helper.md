@@ -5,9 +5,10 @@ author:
 - '[[AmmarCodes|Ammar Alakkad]]'
 categories: []
 description: Find and insert any Quran Ayah (verse) in your notes.
-downloads: 192
+downloads: 197
 mobile: true
 number: 1742
+stars: 4
 title: Quran Helper
 type: plugin
 updated: '2024-06-22T02:51:00'

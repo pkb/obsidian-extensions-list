@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: For synchronization between multiple platforms
-downloads: 90
+downloads: 93
 mobile: true
 number: 1839
+stars: 2
 title: sync-db-os
 type: plugin
 updated: '2024-07-05T07:36:20'

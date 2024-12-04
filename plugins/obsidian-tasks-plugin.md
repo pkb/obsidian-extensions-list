@@ -7,9 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Track tasks across your vault. Supports due dates, recurring tasks, done
   dates, sub-set of checklist items, and filtering.
-downloads: 1841531
+downloads: 1862006
 mobile: true
 number: 181
+stars: 2500
 title: Tasks
 type: plugin
 updated: '2024-11-24T02:44:21'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Quickly wrap selected text with HTML tags by using a shortcut or from
   the command palette
-downloads: 4356
+downloads: 4368
 mobile: true
 number: 782
+stars: 9
 title: Text Wrapper
 type: plugin
 updated: '2023-01-18T02:59:11'

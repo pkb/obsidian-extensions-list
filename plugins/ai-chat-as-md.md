@@ -1,17 +1,18 @@
 ---
 aliases:
-  - AI Chat as Markdown
+- AI Chat as Markdown
 author:
-  - "[[cpbotha|Charl P. Botha]]"
+- '[[cpbotha|Charl P. Botha]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Multiple branching AI conversations as Markdown hierarchy
-downloads: 387
+downloads: 395
 mobile: true
 number: 1767
+stars: 10
 title: AI Chat as Markdown
 type: plugin
-updated: 2024-08-04T21:08:09
+updated: '2024-08-04T21:08:09'
 url: https://github.com/cpbotha/obsidian-ai-chat-as-md
 version: 1.5.0
 ---

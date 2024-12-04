@@ -5,9 +5,10 @@ author:
 - '[[cabra-arretado|Felipe M.]]'
 categories: []
 description: Set Vim keybiddings via .vimrc file.
-downloads: 3711
+downloads: 3738
 mobile: true
 number: 1205
+stars: 22
 title: Mini Vimrc
 type: plugin
 updated: '2024-02-13T08:19:33'

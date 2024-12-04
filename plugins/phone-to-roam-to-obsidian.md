@@ -5,9 +5,10 @@ author:
 - '[[dgarrett|Dylan Garrett]]'
 categories: []
 description: An unofficial Obsidian client for phonetonote.com (previously phonetoroam.com)
-downloads: 4038
+downloads: 4043
 mobile: true
 number: 238
+stars: 9
 title: Phone to Note to Obsidian
 type: plugin
 updated: '2023-12-11T09:35:44'

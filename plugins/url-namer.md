@@ -5,9 +5,10 @@ author:
 - '[[zfei|zfei]]'
 categories: []
 description: This plugin retrieves the HTML titles to name the raw URL links.
-downloads: 5721
+downloads: 5743
 mobile: true
 number: 626
+stars: 15
 title: URL Namer
 type: plugin
 updated: '2022-09-20T13:39:11'

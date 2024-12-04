@@ -5,9 +5,10 @@ author:
 - '[[amrojjeh|Amr Ojjeh]]'
 categories: []
 description: Renders Arabic using Buckwalter's encoding scheme.
-downloads: 663
+downloads: 666
 mobile: true
 number: 1551
+stars: 0
 title: Buckwalter Transliteration
 type: plugin
 updated: '2024-03-30T05:08:18'

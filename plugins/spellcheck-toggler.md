@@ -5,9 +5,10 @@ author:
 - '[[julzerinos|Julian Szachowicz]]'
 categories: []
 description: Toggle spellchecking for types of text blocks in the editing view.
-downloads: 1864
+downloads: 1890
 mobile: true
 number: 1525
+stars: 3
 title: Spellcheck Toggler
 type: plugin
 updated: '2024-06-13T19:08:58'

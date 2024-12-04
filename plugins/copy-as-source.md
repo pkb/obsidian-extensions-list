@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Copy as source
+- Copy as source
 author:
-  - "[[gapmiss|@gapmiss]]"
+- '[[gapmiss|@gapmiss]]'
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: Select and copy source HTML in reading view.
-downloads: 1144
+downloads: 1150
 mobile: false
 number: 1435
+stars: 2
 title: Copy as source
 type: plugin
-updated: 2024-01-29T17:56:42
+updated: '2024-01-29T17:56:42'
 url: https://github.com/gapmiss/copy-as-source
 version: 1.0.2
 ---

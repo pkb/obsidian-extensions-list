@@ -6,9 +6,10 @@ author:
 categories: []
 description: Enhance your Personal Knowledge Management with gamification elements.
   Boost motivation and achieve growth as you engage with your PKM.
-downloads: 2964
+downloads: 2985
 mobile: true
 number: 1323
+stars: 37
 title: Gamificate your PKM
 type: plugin
 updated: '2024-10-19T01:28:11'

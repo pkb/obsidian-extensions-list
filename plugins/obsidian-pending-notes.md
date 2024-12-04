@@ -5,9 +5,10 @@ author:
 - '[[ulisesantana|Ulises Santana]]'
 categories: []
 description: Obsidian plugin for searching links without notes in your vault.
-downloads: 7128
+downloads: 7136
 mobile: true
 number: 762
+stars: 32
 title: Pending notes
 type: plugin
 updated: '2023-10-20T04:03:58'

@@ -5,9 +5,10 @@ author:
 - '[[SimeonLukas|Simeon Stanek]]'
 categories: []
 description: Send .md as .epub to Ereader/Kindle/Pocketbook
-downloads: 8059
+downloads: 8083
 mobile: true
 number: 450
+stars: 55
 title: Kindle
 type: plugin
 updated: '2022-12-16T02:21:40'

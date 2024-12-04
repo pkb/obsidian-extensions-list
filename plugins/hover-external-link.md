@@ -5,9 +5,10 @@ author:
 - '[[jamiebrynes7|Jamie Brynes]]'
 categories: []
 description: Hover on external links to see the destination URL.
-downloads: 6748
+downloads: 6755
 mobile: false
 number: 266
+stars: 30
 title: Hover External Link Plugin
 type: plugin
 updated: '2021-08-24T03:34:05'

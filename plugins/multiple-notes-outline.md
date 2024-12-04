@@ -6,9 +6,10 @@ author:
 categories: []
 description: Add custom views which show outlines of multiple notes with headings,
   links, tags and list items.
-downloads: 6093
+downloads: 6125
 mobile: true
 number: 1144
+stars: 36
 title: Multiple Notes Outline
 type: plugin
 updated: '2024-04-28T06:52:53'

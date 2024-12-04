@@ -6,9 +6,10 @@ author:
 categories: []
 description: Selects the current line where the cursor is placed. Press 'ESC' button
   to select.
-downloads: 3680
+downloads: 3687
 mobile: true
 number: 875
+stars: 5
 title: Select current line
 type: plugin
 updated: '2023-04-11T22:56:24'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly share content to Flomo.
-downloads: 4719
+downloads: 4731
 mobile: true
 number: 651
+stars: 12
 title: Share to Flomo
 type: plugin
 updated: '2024-02-03T07:31:32'

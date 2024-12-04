@@ -1,19 +1,21 @@
 ---
 aliases:
-  - Change Case
+- Change Case
 author:
-  - "[[dbrockman|David Brockman]]"
+- '[[dbrockman|David Brockman]]'
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: Plugin to let you change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection.
-downloads: 16373
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: Plugin to let you change the case (UPPER CASE, camelCase, snake_case,
+  etc) of the current selection.
+downloads: 16787
 mobile: true
 number: 1146
+stars: 12
 title: Change Case
 type: plugin
-updated: 2024-11-26T15:55:57
+updated: '2024-11-29T13:28:47'
 url: https://github.com/dbrockman/obsidian-change-case
-version: 2.0.136
+version: 2.0.139
 ---
 
 %% README_START %%

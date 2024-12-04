@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds created on and last updated on dates of the active note to the status
   bar.
-downloads: 4645
+downloads: 4674
 mobile: false
 number: 1006
+stars: 9
 title: Notes dater
 type: plugin
 updated: '2023-07-28T21:08:20'

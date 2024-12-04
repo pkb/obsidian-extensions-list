@@ -5,9 +5,10 @@ author:
 - '[[Quorafind|Obsidian]]'
 categories: []
 description: A plugin for transforming bullet content into note.
-downloads: 4702
+downloads: 4708
 mobile: true
 number: 531
+stars: 15
 title: Expand Bullet
 type: plugin
 updated: '2022-06-02T07:45:36'

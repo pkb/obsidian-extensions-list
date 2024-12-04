@@ -5,9 +5,10 @@ author:
 - '[[Barba828|Barba828]]'
 categories: []
 description: Supports rendering of GuitarPro files such as `gtp/gp/gp5/gpx`.
-downloads: 173
+downloads: 179
 mobile: true
 number: 1845
+stars: 3
 title: GTP Preview
 type: plugin
 updated: '2024-09-20T15:27:06'

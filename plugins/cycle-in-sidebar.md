@@ -6,9 +6,10 @@ author:
 categories: []
 description: This a plugin provides hotkeys to cycle through tabs in the left or right
   sidebars.
-downloads: 4473
+downloads: 4486
 mobile: true
 number: 776
+stars: 12
 title: Cycle In Sidebar
 type: plugin
 updated: '2023-02-27T02:45:01'

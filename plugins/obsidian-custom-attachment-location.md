@@ -7,9 +7,10 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize attachment location with variables($filename, $data, etc) like
   typora.
-downloads: 35583
+downloads: 36360
 mobile: true
 number: 341
+stars: 239
 title: Custom Attachment Location
 type: plugin
 updated: '2024-11-26T08:18:33'

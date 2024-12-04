@@ -5,9 +5,10 @@ author:
 - '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: Improved table navigation, formatting, manipulation, and formulas
-downloads: 1912079
+downloads: 1926248
 mobile: true
 number: 5
+stars: 2200
 title: Advanced Tables
 type: plugin
 updated: '2024-10-23T21:44:38'

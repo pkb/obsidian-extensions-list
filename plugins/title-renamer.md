@@ -5,9 +5,10 @@ author:
 - '[[stroiman|Peter Strøiman]]'
 categories: []
 description: Synchronise title in markdown when file is renamed.
-downloads: 1288
+downloads: 1303
 mobile: false
 number: 1515
+stars: 8
 title: Title renamer
 type: plugin
 updated: '2024-03-06T15:02:52'

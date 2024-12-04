@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin allows you to automatically scroll down the content with
   the provided speed
-downloads: 3977
+downloads: 3978
 mobile: true
 number: 708
+stars: 6
 title: Autoscroll
 type: plugin
 updated: '2022-11-24T04:17:38'

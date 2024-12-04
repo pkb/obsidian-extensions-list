@@ -5,9 +5,10 @@ author:
 - '[[istfredy|Fredy Taboutsa]]'
 categories: []
 description: Capture node effortlessly with precision screenshot.
-downloads: 1136
+downloads: 1149
 mobile: true
 number: 1513
+stars: 7
 title: Node Screenshot
 type: plugin
 updated: '2024-03-03T08:49:11'

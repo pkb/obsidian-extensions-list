@@ -5,9 +5,10 @@ author:
 - '[[twentytwokhz|Florin Bobis]]'
 categories: []
 description: Translates given text to desired language
-downloads: 35472
+downloads: 35789
 mobile: true
 number: 351
+stars: 43
 title: Language Translator
 type: plugin
 updated: '2024-02-27T00:07:48'

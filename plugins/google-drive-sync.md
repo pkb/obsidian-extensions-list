@@ -5,14 +5,15 @@ author:
 - '[[RichardX366|Richard Xiong]]'
 categories: []
 description: Syncs a vault into Google Drive for cross-platform use (works for iOS).
-downloads: 417
+downloads: 871
 mobile: true
 number: 2020
+stars: 7
 title: Google Drive Sync
 type: plugin
-updated: '2024-11-21T07:24:02'
+updated: '2024-12-01T14:47:35'
 url: https://github.com/RichardX366/Obsidian-Google-Drive
-version: 2.2.1
+version: 2.2.2
 ---
 
 %% README_START %%

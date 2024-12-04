@@ -6,9 +6,10 @@ author:
 categories: []
 description: A patch for Obsidian's built-in CodeMirror Editor to support Japanese
   word splitting
-downloads: 5095
+downloads: 5105
 mobile: false
 number: 427
+stars: 23
 title: Word Splitting for Japanese in Edit Mode
 type: plugin
 updated: '2022-02-14T09:55:44'

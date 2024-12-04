@@ -6,9 +6,10 @@ author:
 categories: []
 description: WordNet is a large lexical database of English developed by Princeton
   University.
-downloads: 19135
+downloads: 19277
 mobile: true
 number: 240
+stars: 79
 title: WordNet Dictionary
 type: plugin
 updated: '2024-11-03T21:25:23'

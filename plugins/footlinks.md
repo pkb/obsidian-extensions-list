@@ -5,9 +5,10 @@ author:
 - '[[DahaWong|Daha]]'
 categories: []
 description: Extracts links from the main text to footer.
-downloads: 11151
+downloads: 11166
 mobile: true
 number: 49
+stars: 59
 title: Footlinks
 type: plugin
 updated: '2020-12-06T11:54:18'

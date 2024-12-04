@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Plugins Galore
+- Plugins Galore
 author:
-  - "[[plugins-galore|Dylan Pizzo]]"
+- '[[plugins-galore|Dylan Pizzo]]'
 categories:
-  - "[[categories/Plugin management|Plugin management]]"
+- '[[categories/Plugin management|Plugin management]]'
 description: This is an Obsidian plugin to allow easily sideloading other plugins.
-downloads: 5299
+downloads: 5302
 mobile: true
 number: 505
+stars: 28
 title: Plugins Galore
 type: plugin
-updated: 2022-04-27T09:46:35
+updated: '2022-04-27T09:46:35'
 url: https://github.com/plugins-galore/obsidian-plugins-galore
 version: 0.1.1
 ---

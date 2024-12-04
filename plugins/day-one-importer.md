@@ -7,9 +7,10 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 - '[[categories/Import|Import]]'
 description: Import Day One journals
-downloads: 787
+downloads: 804
 mobile: false
 number: 1627
+stars: 6
 title: Day One Importer
 type: plugin
 updated: '2024-09-27T06:05:46'

@@ -5,9 +5,10 @@ author:
 - '[[manogna4|mano]]'
 categories: []
 description: 'obsidian workspace enhancements: vertical tabs, and more...'
-downloads: 4646
+downloads: 4649
 mobile: false
 number: 179
+stars: 22
 title: koncham workspace
 type: plugin
 updated: '2021-05-13T20:31:00'

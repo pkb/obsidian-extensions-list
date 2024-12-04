@@ -7,9 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: Export specific notes to general md for static site generator like Hugo,
   Hexo, Astro and more.
-downloads: 943
+downloads: 973
 mobile: true
 number: 1590
+stars: 17
 title: Static Site MD Exporter
 type: plugin
 updated: '2024-11-13T05:20:47'

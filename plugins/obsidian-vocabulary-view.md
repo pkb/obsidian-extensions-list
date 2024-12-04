@@ -6,9 +6,10 @@ author:
 categories: []
 description: Write down some words with their explanations and preview them in a vocabulary
   test style
-downloads: 6761
+downloads: 6779
 mobile: true
 number: 311
+stars: 25
 title: Vocabulary View
 type: plugin
 updated: '2024-04-23T19:01:20'

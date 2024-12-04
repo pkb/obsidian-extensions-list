@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily publish your notes to the web with Orion Publish.
-downloads: 977
+downloads: 978
 mobile: true
 number: 1504
+stars: 8
 title: Orion Publish
 type: plugin
 updated: '2024-01-12T12:22:21'

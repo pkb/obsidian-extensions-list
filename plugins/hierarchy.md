@@ -5,9 +5,10 @@ author:
 - '[[kdnk|Kodai Nakamura]]'
 categories: []
 description: Display the hierarchy instead of just the file name.
-downloads: 221
+downloads: 225
 mobile: true
 number: 1920
+stars: 1
 title: Hierarchy
 type: plugin
 updated: '2024-09-27T14:45:37'

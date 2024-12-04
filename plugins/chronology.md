@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Provides a calendar and a timeline of the notes creation and modification
-downloads: 38130
+downloads: 38358
 mobile: true
 number: 617
+stars: 102
 title: Chronology
 type: plugin
 updated: '2023-10-15T22:44:11'

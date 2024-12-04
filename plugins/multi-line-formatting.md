@@ -5,9 +5,10 @@ author:
 - '[[authors/nmady|nmady]]'
 categories: []
 description: Apply formatting to selected text, dealing with the paragraph breaks.
-downloads: 7106
+downloads: 7128
 mobile: true
 number: 241
+stars: 19
 title: Multi-line Formatting
 type: plugin
 updated: '2021-09-24T21:18:10'

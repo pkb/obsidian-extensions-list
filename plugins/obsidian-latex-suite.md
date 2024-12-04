@@ -7,9 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: Make typesetting LaTeX math as fast as handwriting through snippets,
   text expansion, and editor enhancements
-downloads: 208413
+downloads: 211079
 mobile: true
 number: 484
+stars: 1400
 title: Latex Suite
 type: plugin
 updated: '2024-10-13T22:11:12'

@@ -5,9 +5,10 @@ author:
 - '[[Windesheim-HBO-ICT|Team Deeltaken]]'
 categories: []
 description: Preview interactive code blocks!
-downloads: 149
+downloads: 151
 mobile: false
 number: 1725
+stars: 6
 title: Interactive Code Blocks
 type: plugin
 updated: '2024-06-07T00:42:06'

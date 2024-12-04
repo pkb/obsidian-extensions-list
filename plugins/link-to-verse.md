@@ -6,9 +6,10 @@ author:
 categories: []
 description: From a Bible reference selected, creates a markdown link to a configured
   Bible site.
-downloads: 245
+downloads: 250
 mobile: true
 number: 1687
+stars: 3
 title: Link to Verse
 type: plugin
 updated: '2024-11-13T22:34:59'

@@ -5,9 +5,10 @@ author:
 - '[[shoedler|shoedler]]'
 categories: []
 description: Find possible backlinks in your notes.
-downloads: 6765
+downloads: 6779
 mobile: true
 number: 902
+stars: 49
 title: Crossbow
 type: plugin
 updated: '2023-11-08T00:22:00'

@@ -5,9 +5,10 @@ author:
 - '[[Vinzent03|Vinzent]]'
 categories: []
 description: Set hotkeys for specific files and open them just with your keyboard.
-downloads: 25306
+downloads: 25383
 mobile: true
 number: 106
+stars: 58
 title: Hotkeys for specific files
 type: plugin
 updated: '2024-01-30T02:46:01'

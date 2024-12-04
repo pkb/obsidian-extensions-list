@@ -8,6 +8,7 @@ description: Automatically creates a Markdown link for Pivotal Tracker stories.
 downloads: 56
 mobile: true
 number: 1701
+stars: 0
 title: Pivotal Tracker URL Helper
 type: plugin
 updated: '2024-06-06T10:14:45'

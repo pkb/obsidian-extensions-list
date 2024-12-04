@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin lets you spin up a local http server to access your vault
   via a web browser from any device in your network.
-downloads: 6967
+downloads: 7011
 mobile: false
 number: 973
+stars: 85
 title: Html Server
 type: plugin
 updated: '2023-11-23T05:41:11'

@@ -5,9 +5,10 @@ author:
 - '[[srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Jira issue tag as a link to you Jira instance.
-downloads: 3205
+downloads: 3225
 mobile: true
 number: 1229
+stars: 4
 title: Jira Linker
 type: plugin
 updated: '2024-06-23T07:37:18'

@@ -1,17 +1,19 @@
 ---
 aliases:
-  - PARA Workflower
+- PARA Workflower
 author:
-  - "[[trucke|KevTheDevX]]"
+- '[[trucke|KevTheDevX]]'
 categories:
-  - "[[categories/Workflows]]"
-description: Helpful commands for starting and working in your vault with the PARA method.
-downloads: 1442
+- '[[categories/Workflows]]'
+description: Helpful commands for starting and working in your vault with the PARA
+  method.
+downloads: 1459
 mobile: true
 number: 1538
+stars: 5
 title: PARA Workflower
 type: plugin
-updated: 2024-04-04T16:22:32
+updated: '2024-04-04T16:22:32'
 url: https://github.com/trucke/para-workflower
 version: 0.1.5
 ---

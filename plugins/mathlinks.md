@@ -5,9 +5,10 @@ author:
 - '[[zhaoshenzhai|zhaoshenzhai]]'
 categories: []
 description: Render MathJax in your links
-downloads: 15631
+downloads: 15738
 mobile: true
 number: 624
+stars: 61
 title: MathLinks
 type: plugin
 updated: '2023-11-24T14:11:27'

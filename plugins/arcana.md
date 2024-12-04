@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A collection of AI powered tools
-downloads: 7103
+downloads: 7198
 mobile: false
 number: 954
+stars: 94
 title: Arcana
 type: plugin
-updated: '2024-10-15T19:22:03'
+updated: '2024-12-03T18:23:39'
 url: https://github.com/A-F-V/obsidian-arcana
-version: 1.6.9
+version: 1.6.17
 ---
 
 %% README_START %%

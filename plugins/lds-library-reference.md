@@ -7,9 +7,10 @@ author:
 categories: []
 description: Easily insert references to scripture and conference talks from the Church
   of Jesus Christ of Latter-day Saints
-downloads: 104
+downloads: 109
 mobile: true
 number: 1843
+stars: 3
 title: LDS Library Reference
 type: plugin
 updated: '2024-08-09T21:52:36'

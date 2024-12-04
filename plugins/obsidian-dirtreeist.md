@@ -5,9 +5,10 @@ author:
 - '[[k4a-l|kasahala]]'
 categories: []
 description: Render a directory Structure Diagram from a markdown lists in codeblock.
-downloads: 5451
+downloads: 5471
 mobile: true
 number: 671
+stars: 30
 title: Dirtreeist
 type: plugin
 updated: '2022-11-01T18:25:19'

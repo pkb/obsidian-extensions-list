@@ -5,14 +5,15 @@ author:
 - '[[jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays backlinks in a hierarchy
-downloads: 211
+downloads: 285
 mobile: true
 number: 1977
+stars: 6
 title: Hierarchical Backlinks
 type: plugin
-updated: '2024-11-20T06:13:42'
+updated: '2024-11-28T06:37:57'
 url: https://github.com/jasonmotylinski/hierarchical-backlinks
-version: 1.0.4
+version: 1.0.5
 ---
 
 %% README_START %%

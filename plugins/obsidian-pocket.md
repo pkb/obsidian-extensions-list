@@ -5,9 +5,10 @@ author:
 - '[[nybbles|Nimalan Mahendran]]'
 categories: []
 description: Access your Pocket reading list entries and create notes for them easily
-downloads: 18399
+downloads: 18461
 mobile: true
 number: 239
+stars: 237
 title: Pocket
 type: plugin
 updated: '2022-09-10T05:29:24'

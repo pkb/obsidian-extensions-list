@@ -5,9 +5,10 @@ author:
 - '[[sameersismail|Sameer Ismail]]'
 categories: []
 description: Write continuously—or lose all progress.
-downloads: 4307
+downloads: 4314
 mobile: false
 number: 825
+stars: 25
 title: Perilous Writing
 type: plugin
 updated: '2024-02-03T12:30:13'

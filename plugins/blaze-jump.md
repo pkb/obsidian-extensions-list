@@ -1,17 +1,18 @@
 ---
 aliases:
-  - BlazeJump
+- BlazeJump
 author:
-  - "[[henryco|henryco]]"
+- '[[henryco|henryco]]'
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Navigate through text at blazing speed.
-downloads: 61
+downloads: 82
 mobile: false
 number: 2013
+stars: 5
 title: BlazeJump
 type: plugin
-updated: 2024-11-16T01:15:57
+updated: '2024-11-16T01:15:57'
 url: https://github.com/henryco/BlazeJump-Obsidian
 version: 1.0.7
 ---

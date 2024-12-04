@@ -5,9 +5,10 @@ author:
 - '[[mahmudz|mahmudz]]'
 categories: []
 description: Mark your note as favorite.
-downloads: 4581
+downloads: 4617
 mobile: true
 number: 1241
+stars: 8
 title: Favorite Note
 type: plugin
 updated: '2024-10-28T00:00:58'

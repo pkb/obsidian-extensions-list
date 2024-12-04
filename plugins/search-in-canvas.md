@@ -5,9 +5,10 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: Search text in canvas
-downloads: 949
+downloads: 984
 mobile: true
 number: 1721
+stars: 10
 title: Search In Canvas
 type: plugin
 updated: '2024-06-18T09:34:39'

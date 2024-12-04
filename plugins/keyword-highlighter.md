@@ -6,9 +6,10 @@ author:
 categories: []
 description: Automatically highlight specified keywords within your Obsidian notes
   for enhanced visibility and quick reference.
-downloads: 5609
+downloads: 5660
 mobile: true
 number: 1253
+stars: 22
 title: Keyword Highlighter
 type: plugin
 updated: '2024-05-05T13:45:26'

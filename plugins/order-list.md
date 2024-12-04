@@ -5,9 +5,10 @@ author:
 - '[[lizard-heart|Henry Gustafson]]'
 categories: []
 description: Orders list by number at end of line
-downloads: 3757
+downloads: 3760
 mobile: true
 number: 758
+stars: 5
 title: Order List
 type: plugin
 updated: '2023-01-15T23:46:47'

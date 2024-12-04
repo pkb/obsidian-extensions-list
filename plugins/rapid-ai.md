@@ -9,9 +9,10 @@ description: AI Assistant for selected text and generating content with Markdown
   Shortcuts and quick action buttons provide instant AI assistance. It provides a
   high availability API for unlimited Chat GPT request rates, so you can ensure smooth
   work for any workload.
-downloads: 405
+downloads: 415
 mobile: true
 number: 1694
+stars: 9
 title: Rapid AI
 type: plugin
 updated: '2024-05-18T07:55:03'

@@ -5,9 +5,10 @@ author:
 - '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: Back our vault up with lesser storage.
-downloads: 1851
+downloads: 1868
 mobile: true
 number: 1492
+stars: 14
 title: Differential ZIP Backup
 type: plugin
 updated: '2024-08-27T09:20:12'

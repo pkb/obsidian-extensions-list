@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allows translation of selected texts into more than 25 languages with
   DeepL.
-downloads: 12737
+downloads: 12825
 mobile: true
 number: 677
+stars: 48
 title: DeepL
 type: plugin
 updated: '2024-02-15T12:51:39'

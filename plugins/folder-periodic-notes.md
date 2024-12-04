@@ -5,9 +5,10 @@ author:
 - '[[andrewheekin|Andrew Heekin]]'
 categories: []
 description: Periodic notes in a year, month, and day folder hierarchy.
-downloads: 888
+downloads: 901
 mobile: true
 number: 1641
+stars: 8
 title: Folder Periodic Notes
 type: plugin
 updated: '2024-07-14T22:09:39'

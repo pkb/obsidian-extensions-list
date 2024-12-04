@@ -5,9 +5,10 @@ author:
 - '[[skztr|skztr]]'
 categories: []
 description: adds a Copy button to the top of Headed sections
-downloads: 176
+downloads: 201
 mobile: true
 number: 1947
+stars: 2
 title: Copy Section
 type: plugin
 updated: '2024-11-22T19:54:22'

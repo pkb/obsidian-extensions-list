@@ -6,9 +6,10 @@ author:
 categories: []
 description: Create a quick note in a floating window (on command or by right-clicking
   the Obsidian app icon)
-downloads: 3881
+downloads: 3891
 mobile: false
 number: 1080
+stars: 7
 title: Quick note
 type: plugin
 updated: '2023-08-18T17:03:19'

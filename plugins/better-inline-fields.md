@@ -5,9 +5,10 @@ author:
 - '[[dsarman|David Šarman]]'
 categories: []
 description: Obsidian plugin to enhance Dataview style inline fields
-downloads: 9570
+downloads: 9585
 mobile: true
 number: 580
+stars: 53
 title: Better Inline Fields
 type: plugin
 updated: '2023-08-05T12:33:26'

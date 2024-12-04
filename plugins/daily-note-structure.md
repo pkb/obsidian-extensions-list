@@ -5,9 +5,10 @@ author:
 - '[[db-developer|Dirk Brenckmann]]'
 categories: []
 description: One-Click create a structure for and including your daily notes.
-downloads: 202
+downloads: 205
 mobile: true
 number: 1738
+stars: 2
 title: Daily Note Structure
 type: plugin
 updated: '2024-06-24T01:53:15'

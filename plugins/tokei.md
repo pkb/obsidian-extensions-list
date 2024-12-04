@@ -5,9 +5,10 @@ author:
 - '[[ms3056|HiroMike]]'
 categories: []
 description: A simple clock.
-downloads: 3968
+downloads: 3984
 mobile: true
 number: 1127
+stars: 13
 title: Tokei
 type: plugin
 updated: '2024-11-13T17:55:01'

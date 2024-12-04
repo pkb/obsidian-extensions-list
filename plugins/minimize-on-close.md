@@ -5,9 +5,10 @@ author:
 - '[[alberti42|Andrea Alberti]]'
 categories: []
 description: Minimizes the app window to an icon after closing the last open pane
-downloads: 231
+downloads: 238
 mobile: false
 number: 1921
+stars: 3
 title: Minimize on Close
 type: plugin
 updated: '2024-09-25T18:55:26'

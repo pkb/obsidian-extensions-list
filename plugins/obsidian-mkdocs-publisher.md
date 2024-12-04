@@ -7,9 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enveloppe helps you to publish your notes on a preconfigured GitHub repository,
   for free, and more!
-downloads: 37819
+downloads: 37940
 mobile: true
 number: 498
+stars: 662
 title: Enveloppe
 type: plugin
 updated: '2024-10-04T16:25:12'

@@ -5,9 +5,10 @@ author:
 - '[[authors/esm7|esm7]]'
 categories: []
 description: An interactive map view.
-downloads: 75529
+downloads: 75912
 mobile: true
 number: 219
+stars: 622
 title: Map View
 type: plugin
 updated: '2024-11-03T16:09:21'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Adds links to new notes to your daily note.
-downloads: 472
+downloads: 489
 mobile: true
 number: 1875
+stars: 3
 title: Daily Note Collector
 type: plugin
 updated: '2024-09-19T02:10:36'

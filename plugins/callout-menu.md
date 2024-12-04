@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds some extra options to callouts context menu and allows you to add
   your own custom callouts.
-downloads: 1166
+downloads: 1281
 mobile: true
 number: 1897
+stars: 7
 title: Callout menu
 type: plugin
 updated: '2024-10-10T16:08:58'

@@ -7,9 +7,10 @@ categories: []
 description: View file links and backlinks as a recursively expandable, filterable
   list with editable text, combining the structure of outliners like Dynalist & WorkFlowy
   with the flexibility of Obsidian.
-downloads: 7872
+downloads: 7934
 mobile: true
 number: 1037
+stars: 24
 title: Link Tree
 type: plugin
 updated: '2023-07-26T14:23:55'

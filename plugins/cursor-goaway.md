@@ -5,9 +5,10 @@ author:
 - '[[liuxingyu521|Xuer]]'
 categories: []
 description: make cursor goaway after open a text file
-downloads: 9285
+downloads: 9449
 mobile: true
 number: 1371
+stars: 4
 title: cursor-goaway
 type: plugin
 updated: '2024-03-17T20:05:09'

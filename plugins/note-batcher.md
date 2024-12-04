@@ -5,9 +5,10 @@ author:
 - '[[MrAnyx|MrAnyx]]'
 categories: []
 description: Create all unresolvered links with a single click on your Obsidian vault
-downloads: 2322
+downloads: 2326
 mobile: true
 number: 1259
+stars: 6
 title: Note Batcher
 type: plugin
 updated: '2023-11-21T03:23:20'

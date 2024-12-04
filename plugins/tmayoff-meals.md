@@ -6,9 +6,10 @@ author:
 categories: []
 description: Store and manage recipes, create weekly meal plans and generate shopping
   lists.
-downloads: 2528
+downloads: 2547
 mobile: true
 number: 1340
+stars: 12
 title: Meal Plan
 type: plugin
 updated: '2024-10-31T06:51:48'

@@ -5,9 +5,10 @@ author:
 - '[[jdchart|Jacob Hart]]'
 categories: []
 description: Manage projects according to an ontology.
-downloads: 69
+downloads: 74
 mobile: false
 number: 1889
+stars: 1
 title: Onto Tracker
 type: plugin
 updated: '2024-07-30T18:28:35'

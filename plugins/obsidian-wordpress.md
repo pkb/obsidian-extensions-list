@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: A plugin for publishing Obsidian documents to WordPress.
-downloads: 16232
+downloads: 16305
 mobile: true
 number: 377
+stars: 161
 title: WordPress
 type: plugin
 updated: '2023-12-20T09:24:27'

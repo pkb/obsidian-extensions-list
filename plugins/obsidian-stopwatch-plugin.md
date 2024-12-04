@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Stopwatch Plugin
+- Stopwatch Plugin
 author:
-  - "[[tokuhirom|Tokuhiro Matsuno]]"
+- '[[tokuhirom|Tokuhiro Matsuno]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: Display stopwatch on Obsidian!
-downloads: 6510
+downloads: 6525
 mobile: true
 number: 175
+stars: 14
 title: Stopwatch Plugin
 type: plugin
-updated: 2021-05-11T12:38:28
+updated: '2021-05-11T12:38:28'
 url: https://github.com/tokuhirom/obsidian-stopwatch-plugin
 version: 0.0.8
 ---

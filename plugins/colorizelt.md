@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Colorizelt
+- Colorizelt
 author:
-  - "[[WiNE-iNEFF|Artsem Holub (WiNE-iNEFF)]]"
+- '[[WiNE-iNEFF|Artsem Holub (WiNE-iNEFF)]]'
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Easy color and clear selected text
-downloads: 629
+downloads: 656
 mobile: true
 number: 1917
+stars: 1
 title: Colorizelt
 type: plugin
-updated: 2024-11-07T16:24:28
+updated: '2024-11-07T16:24:28'
 url: https://github.com/WiNE-iNEFF/colorizelt
 version: 0.0.7
 ---

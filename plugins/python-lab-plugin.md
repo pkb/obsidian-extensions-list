@@ -5,9 +5,10 @@ author:
 - '[[cristianvasquez|Cristian Vasquez]]'
 categories: []
 description: An interface to experiment with python scripts and more.
-downloads: 8409
+downloads: 8446
 mobile: true
 number: 158
+stars: 92
 title: Python lab
 type: plugin
 updated: '2021-11-19T17:52:00'

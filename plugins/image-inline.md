@@ -5,9 +5,10 @@ author:
 - '[[ZackaryW|ZackaryW]]'
 categories: []
 description: Paste your image without attachment files
-downloads: 3498
+downloads: 3550
 mobile: true
 number: 1414
+stars: 26
 title: Image Inline
 type: plugin
 updated: '2024-09-09T22:55:36'

@@ -5,9 +5,10 @@ author:
 - '[[Phantom1003|Jinyan Xu]]'
 categories: []
 description: Conveniently take notes on PDF course slides :P
-downloads: 8805
+downloads: 8838
 mobile: true
 number: 921
+stars: 43
 title: Slide Note
 type: plugin
 updated: '2024-03-01T11:39:12'

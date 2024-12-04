@@ -7,9 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Experience OpenAI ChatGPT assistance directly within Obsidian, drafting
   content without interrupting your creative flow.
-downloads: 4909
+downloads: 4918
 mobile: true
 number: 905
+stars: 21
 title: GPT-LiteInquirer
 type: plugin
 updated: '2023-05-08T08:17:29'

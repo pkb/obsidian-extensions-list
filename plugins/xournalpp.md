@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Integration with Xournal++ for handwritten notes and annotations.
-downloads: 1704
+downloads: 1776
 mobile: false
 number: 1746
+stars: 20
 title: Xournal++
 type: plugin
 updated: '2024-11-12T15:17:05'

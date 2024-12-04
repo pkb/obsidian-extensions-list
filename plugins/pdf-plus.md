@@ -7,9 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: The most Obsidian-native PDF annotation tool ever.
-downloads: 127976
+downloads: 130485
 mobile: true
 number: 1437
+stars: 859
 title: PDF++
 type: plugin
 updated: '2024-10-22T12:47:45'

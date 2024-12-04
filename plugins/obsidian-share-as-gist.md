@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares an Obsidian note as a GitHub.com gist
-downloads: 7069
+downloads: 7096
 mobile: true
 number: 541
+stars: 79
 title: Share as Gist
 type: plugin
 updated: '2024-10-07T01:39:40'

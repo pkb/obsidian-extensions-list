@@ -5,9 +5,10 @@ author:
 - '[[slonoed|Dmitry Manannikov]]'
 categories: []
 description: Show list of future dates in vault
-downloads: 183
+downloads: 188
 mobile: false
 number: 1647
+stars: 1
 title: Future Dates
 type: plugin
 updated: '2024-05-11T11:26:19'

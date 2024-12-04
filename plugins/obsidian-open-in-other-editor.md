@@ -5,9 +5,10 @@ author:
 - '[[yekingyan|yekingyan]]'
 categories: []
 description: Open current active file in gVim or VScode.
-downloads: 5657
+downloads: 5673
 mobile: false
 number: 595
+stars: 18
 title: Open in other editor
 type: plugin
 updated: '2023-06-13T20:20:01'

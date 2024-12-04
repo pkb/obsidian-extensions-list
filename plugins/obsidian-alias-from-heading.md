@@ -5,9 +5,10 @@ author:
 - '[[basham|Chris Basham]]'
 categories: []
 description: Implicitly add an alias matching the first heading in a document.
-downloads: 5006
+downloads: 5025
 mobile: true
 number: 639
+stars: 16
 title: Alias from heading
 type: plugin
 updated: '2024-07-19T01:27:21'

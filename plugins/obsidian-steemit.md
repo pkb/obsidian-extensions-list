@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: A plugin for publishing Obsidian documents to Steemit.
-downloads: 3795
+downloads: 3796
 mobile: false
 number: 449
+stars: 11
 title: Steemit
 type: plugin
 updated: '2024-06-27T19:05:27'

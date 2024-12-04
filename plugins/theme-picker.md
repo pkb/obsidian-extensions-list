@@ -5,9 +5,10 @@ author:
 - '[[kenset|kenset]]'
 categories: []
 description: Quickly preview installed themes
-downloads: 26964
+downloads: 27115
 mobile: false
 number: 253
+stars: 39
 title: Theme Picker
 type: plugin
 updated: '2022-10-15T23:25:21'

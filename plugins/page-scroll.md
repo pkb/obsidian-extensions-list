@@ -5,9 +5,10 @@ author:
 - '[[chenshutian9610|triski]]'
 categories: []
 description: Page Up|Down|Top|Bottom
-downloads: 554
+downloads: 567
 mobile: true
 number: 1743
+stars: 6
 title: Page Scroll
 type: plugin
 updated: '2024-06-23T20:44:07'

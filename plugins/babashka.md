@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Evaluate Clojure(Script) codeblocks in Babashka.
-downloads: 3319
+downloads: 3323
 mobile: false
 number: 791
+stars: 53
 title: Babashka
 type: plugin
 updated: '2023-02-05T15:54:16'

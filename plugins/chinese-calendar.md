@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 符合中国习惯的日历，可以显示农历、节日、调休、节气等信息，支持月视图和年视图切换，支持点击日期创建笔记，支持使用QuickAdd插件创建笔记。
-downloads: 1471
+downloads: 1513
 mobile: false
 number: 1790
+stars: 6
 title: Chinese Calendar
 type: plugin
 updated: '2024-08-04T22:31:56'

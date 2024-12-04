@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin lets you filter Canvas to only show items of specific color,
   tags or only connected to currently selected node.
-downloads: 10765
+downloads: 10809
 mobile: true
 number: 780
+stars: 36
 title: Canvas Filter
 type: plugin
 updated: '2023-12-24T23:22:27'

@@ -5,9 +5,10 @@ author:
 - '[[Trikzon|Dion Tryban (Trikzon)]]'
 categories: []
 description: Renders links in a note's frontmatter as links.
-downloads: 9608
+downloads: 9625
 mobile: true
 number: 662
+stars: 67
 title: Frontmatter Links
 type: plugin
 updated: '2022-12-02T21:02:52'

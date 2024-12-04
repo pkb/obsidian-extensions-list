@@ -9,9 +9,10 @@ description: 'Allows to execute code snippets within a note. Supported programmi
   languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript,
   Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell,
   Scala, Racket, F#, Batch, Shell & Powershell.'
-downloads: 91278
+downloads: 92221
 mobile: false
 number: 493
+stars: 1200
 title: Execute Code
 type: plugin
 updated: '2024-11-11T04:15:00'

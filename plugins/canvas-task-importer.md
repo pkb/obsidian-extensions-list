@@ -5,9 +5,10 @@ author:
 - '[[jordaeday|Jordan Day]]'
 categories: []
 description: Import tasks from Canvas LMS into vault.
-downloads: 45
+downloads: 49
 mobile: false
 number: 1883
+stars: 2
 title: Canvas LMS Task Importer
 type: plugin
 updated: '2024-09-06T08:02:13'

@@ -5,9 +5,10 @@ author:
 - '[[mister-mcgee|Shawn McGee]]'
 categories: []
 description: Use --magic-- to render inline text as blank line(s) instead.
-downloads: 3475
+downloads: 3476
 mobile: true
 number: 1047
+stars: 2
 title: Fill in the Blank (FITB)
 type: plugin
 updated: '2023-12-08T21:41:42'

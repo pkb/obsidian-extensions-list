@@ -5,9 +5,10 @@ author:
 - '[[k4a-l|kasahala]]'
 categories: []
 description: Easily Shift and Change markdown headings.
-downloads: 15833
+downloads: 15920
 mobile: true
 number: 583
+stars: 76
 title: Heading Shifter
 type: plugin
 updated: '2024-09-18T14:16:54'

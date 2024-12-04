@@ -5,9 +5,10 @@ author:
 - '[[jtucker2|Josh Tucker]]'
 categories: []
 description: Create consecutive lists that are displayed separately in reading mode.
-downloads: 1202
+downloads: 1206
 mobile: true
 number: 1390
+stars: 4
 title: Consecutive Lists
 type: plugin
 updated: '2024-02-08T04:10:29'

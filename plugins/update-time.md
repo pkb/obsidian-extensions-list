@@ -6,9 +6,10 @@ author:
 categories: []
 description: Automatically update front matter to include creation and last update
   times.
-downloads: 970
+downloads: 1002
 mobile: true
 number: 1661
+stars: 8
 title: Update Time
 type: plugin
 updated: '2024-10-27T09:44:44'

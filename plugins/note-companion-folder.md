@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Manage a separate folder of attachments for each note.
-downloads: 1178
+downloads: 1187
 mobile: true
 number: 1521
+stars: 6
 title: Note Companion Folder
 type: plugin
 updated: '2024-03-07T10:43:42'

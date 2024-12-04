@@ -5,9 +5,10 @@ author:
 - '[[marplek|marplek]]'
 categories: []
 description: Create a poker range grid
-downloads: 68
+downloads: 73
 mobile: true
 number: 1899
+stars: 1
 title: Poker Range
 type: plugin
 updated: '2024-09-05T08:59:06'

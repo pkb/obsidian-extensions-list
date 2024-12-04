@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds the ability to show guitar chords and tabs directly in your notes
   using jTab.
-downloads: 7248
+downloads: 7293
 mobile: true
 number: 488
+stars: 71
 title: jTab Guitar Codeblocks
 type: plugin
 updated: '2024-03-11T04:30:59'

@@ -5,9 +5,10 @@ author:
 - '[[lifegems|Joshua Michalik]]'
 categories: []
 description: An Obsidian plugin that adds extra features for finding related notes.
-downloads: 6708
+downloads: 6714
 mobile: true
 number: 178
+stars: 31
 title: Related Notes Finder
 type: plugin
 updated: '2021-05-24T23:16:02'

@@ -5,9 +5,10 @@ author:
 - '[[SkepticMystic|SkepticMystic]]'
 categories: []
 description: Analyse your Obsidian graph.
-downloads: 43457
+downloads: 43646
 mobile: true
 number: 340
+stars: 416
 title: Graph Analysis
 type: plugin
 updated: '2022-01-31T11:34:53'

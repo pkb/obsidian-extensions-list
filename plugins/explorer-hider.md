@@ -6,9 +6,10 @@ author:
 categories: []
 description: Hide a file or a folder from the explorer (and bookmarks) using a little
   bit of auto-managed CSS!
-downloads: 694
+downloads: 720
 mobile: true
 number: 1704
+stars: 3
 title: Explorer Hider
 type: plugin
 updated: '2024-09-12T03:06:11'

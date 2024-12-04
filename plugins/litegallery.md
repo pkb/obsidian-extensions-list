@@ -6,9 +6,10 @@ author:
 categories: []
 description: Easily create carousel galleries to better organize/view images in your
   notes.
-downloads: 1400
+downloads: 1458
 mobile: true
 number: 1797
+stars: 7
 title: Lite Gallery
 type: plugin
 updated: '2024-10-07T07:28:37'

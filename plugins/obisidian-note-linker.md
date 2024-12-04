@@ -5,12 +5,13 @@ author:
 - '[[AlexW00|Alexander Weichart]]'
 categories: []
 description: Automatically find and link notes in Obsidian
-downloads: 24765
+downloads: 24998
 mobile: false
 number: 586
+stars: 200
 title: Note Linker
 type: plugin
-updated: '2024-03-08T13:28:13'
+updated: '2024-12-01T19:22:55'
 url: https://github.com/AlexW00/obsidian-note-linker
 version: 1.2.4
 ---

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Auto rename pasted images added to the vault via hash algorithm SHA-512
-downloads: 360
+downloads: 372
 mobile: false
 number: 1770
+stars: 3
 title: Hash Pasted Image
 type: plugin
 updated: '2024-08-27T14:08:54'

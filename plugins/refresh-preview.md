@@ -5,9 +5,10 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Allows to refresh preview mode without reopening the note
-downloads: 809
+downloads: 856
 mobile: true
 number: 1769
+stars: 5
 title: Refresh Preview
 type: plugin
 updated: '2024-11-21T11:01:44'

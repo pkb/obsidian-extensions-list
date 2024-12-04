@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Advanced Copy
+- Advanced Copy
 author:
-  - "[[leschuster|leschuster]]"
+- '[[leschuster|leschuster]]'
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: Copy Markdown and transform it according to your needs.
-downloads: 243
+downloads: 262
 mobile: true
 number: 1952
+stars: 1
 title: Advanced Copy
 type: plugin
-updated: 2024-11-11T01:26:21
+updated: '2024-11-11T01:26:21'
 url: https://github.com/leschuster/obsidian-advanced-copy
 version: 0.5.0
 ---

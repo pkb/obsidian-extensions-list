@@ -6,14 +6,15 @@ author:
 categories: []
 description: Convert PDFs to rich Markdown, including images and ocr using the Marker
   API
-downloads: 2483
+downloads: 2691
 mobile: true
 number: 1824
+stars: 28
 title: Marker PDF to MD
 type: plugin
-updated: '2024-08-11T16:32:23'
+updated: '2024-12-04T04:52:16'
 url: https://github.com/l3-n0x/obsidian-marker
-version: 1.2.5
+version: 1.3.1
 ---
 
 %% README_START %%

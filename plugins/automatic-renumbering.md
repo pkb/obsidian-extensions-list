@@ -6,9 +6,10 @@ author:
 categories: []
 description: Updates numbered lists automatically to keep them in sequential order.
   Offers both live updating and manual control options, and supports nested lists.
-downloads: 226
+downloads: 335
 mobile: false
 number: 2008
+stars: 5
 title: Automatic Renumbering
 type: plugin
 updated: '2024-11-26T16:02:54'

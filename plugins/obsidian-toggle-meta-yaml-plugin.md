@@ -5,9 +5,10 @@ author:
 - '[[hua03|hua03]]'
 categories: []
 description: this is a simple plugin to toggle meta yaml.
-downloads: 7596
+downloads: 7611
 mobile: true
 number: 685
+stars: 20
 title: Toggle Meta Yaml
 type: plugin
 updated: '2023-03-16T15:32:39'

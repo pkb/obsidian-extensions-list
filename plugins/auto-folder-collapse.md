@@ -5,9 +5,10 @@ author:
 - '[[DarioCasciato|Dario Casciato]]'
 categories: []
 description: Automatically collapses subfolders when a parent folder is collapsed
-downloads: 1277
+downloads: 1319
 mobile: true
 number: 1818
+stars: 5
 title: Auto Folder Collapse
 type: plugin
 updated: '2024-11-04T15:23:29'

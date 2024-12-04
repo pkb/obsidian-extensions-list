@@ -5,9 +5,10 @@ author:
 - '[[nicoletanyt|Nicole Tan YiTong]]'
 categories: []
 description: Generates graphs and vectors.
-downloads: 395
+downloads: 405
 mobile: false
 number: 1778
+stars: 6
 title: Plot Vectors and Graphs
 type: plugin
 updated: '2024-05-27T13:20:27'

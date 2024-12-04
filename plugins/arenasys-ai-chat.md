@@ -1,17 +1,18 @@
 ---
 aliases:
-  - AI Chat
+- AI Chat
 author:
-  - "[[arenasys|arenasys]]"
+- '[[arenasys|arenasys]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Chat with AI about your notes.
-downloads: 655
+downloads: 665
 mobile: false
 number: 1630
+stars: 7
 title: AI Chat
 type: plugin
-updated: 2024-05-27T19:14:24
+updated: '2024-05-27T19:14:24'
 url: https://github.com/arenasys/obsidian-ai-chat
 version: 1.0.2
 ---

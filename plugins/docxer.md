@@ -7,9 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 description: Import Word files easily. Adds a preview mode for .docx files and the
   ability to convert them to markdown (.md) files.
-downloads: 10451
+downloads: 10885
 mobile: true
 number: 1690
+stars: 54
 title: Docxer
 type: plugin
 updated: '2024-10-19T15:55:21'

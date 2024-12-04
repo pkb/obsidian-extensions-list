@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI assistant to organize and chat with your vault
-downloads: 13932
+downloads: 14544
 mobile: false
 number: 1456
+stars: 391
 title: AI File Organizer 2000
 type: plugin
-updated: '2024-11-23T16:23:29'
+updated: '2024-12-03T20:54:38'
 url: https://github.com/different-ai/file-organizer-2000
-version: 1.125.1
+version: 1.129.2
 ---
 
 %% README_START %%

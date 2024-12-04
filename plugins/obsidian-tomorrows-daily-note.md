@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Planning|Planning]]'
 description: An obsidian plugin that creates tomorrow's daily note for preemtive planning.
-downloads: 9973
+downloads: 10027
 mobile: true
 number: 387
+stars: 29
 title: Tomorrow's Daily Note
 type: plugin
 updated: '2024-10-06T00:52:14'

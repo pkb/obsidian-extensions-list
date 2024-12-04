@@ -5,9 +5,10 @@ author:
 - '[[ImaginaryProgramming|ImaginaryProgramming]]'
 categories: []
 description: Copies a note, and pastes it into another vault.
-downloads: 1842
+downloads: 1873
 mobile: false
 number: 1496
+stars: 29
 title: Vault Transfer
 type: plugin
 updated: '2024-02-28T04:40:14'

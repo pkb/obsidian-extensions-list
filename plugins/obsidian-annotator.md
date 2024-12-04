@@ -7,9 +7,10 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: This is a sample plugin for Obsidian. It allows you to open and annotate
   PDF and EPUB files.
-downloads: 428631
+downloads: 430622
 mobile: true
 number: 273
+stars: 1500
 title: Annotator
 type: plugin
 updated: '2024-01-08T16:44:21'

@@ -5,14 +5,15 @@ author:
 - '[[pfrankov|Pavel Frankov]]'
 categories: []
 description: Local GPT assistance for maximum privacy and offline access
-downloads: 19290
+downloads: 20057
 mobile: true
 number: 1339
+stars: 341
 title: Local GPT
 type: plugin
-updated: '2024-11-17T04:23:54'
+updated: '2024-12-03T02:35:00'
 url: https://github.com/pfrankov/obsidian-local-gpt
-version: 1.14.4
+version: 1.14.5
 ---
 
 %% README_START %%

@@ -5,9 +5,10 @@ author:
 - '[[ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Keep a workbench of knowledge materials.
-downloads: 25710
+downloads: 25760
 mobile: true
 number: 28
+stars: 111
 title: Workbench
 type: plugin
 updated: '2024-03-26T21:07:01'

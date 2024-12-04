@@ -7,9 +7,10 @@ categories: []
 description: Let your notes talk and speak to you and enhance your Obsidian experience
   to effortlessly listen to your notes being read aloud and enjoy the power of sound,
   audio, and speech.
-downloads: 11494
+downloads: 11613
 mobile: true
 number: 1074
+stars: 31
 title: Voice
 type: plugin
 updated: '2024-05-08T01:02:02'

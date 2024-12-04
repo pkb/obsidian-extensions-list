@@ -5,9 +5,10 @@ author:
 - '[[hammadxp|Hammad Javed]]'
 categories: []
 description: Quickly make a copy or snapshot of a note.
-downloads: 804
+downloads: 808
 mobile: true
 number: 1546
+stars: 4
 title: BackItUp
 type: plugin
 updated: '2024-02-14T23:07:24'

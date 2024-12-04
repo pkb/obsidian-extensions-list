@@ -1,17 +1,20 @@
 ---
 aliases:
-  - Ayanite
+- Ayanite
 author:
-  - "[[jemstelos|jemstelos]]"
+- '[[jemstelos|jemstelos]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: Advanced AI chat interface and knowledge copilot for professionals. Turn Obsidian into an Integrated Knowledge Environment. Supports Ollama and cloud GPT providers. (Closed source)
-downloads: 286
+- '[[categories/AI assistance|AI assistance]]'
+description: Advanced AI chat interface and knowledge copilot for professionals. Turn
+  Obsidian into an Integrated Knowledge Environment. Supports Ollama and cloud GPT
+  providers. (Closed source)
+downloads: 299
 mobile: false
 number: 1689
+stars: 5
 title: Ayanite
 type: plugin
-updated: 2024-04-08T13:40:30
+updated: '2024-04-08T13:40:30'
 url: https://github.com/jemstelos/obsidian-ayanite
 version: 1.0.0
 ---

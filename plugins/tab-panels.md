@@ -5,9 +5,10 @@ author:
 - '[[GnoxNahte|GnoxNahte]]'
 categories: []
 description: Create tab panels to organize content into sections
-downloads: 821
+downloads: 954
 mobile: true
 number: 1950
+stars: 12
 title: Tab Panels
 type: plugin
 updated: '2024-11-15T12:40:43'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Marks items as [[Overdue]] if they are not checked off by their due date
-downloads: 4506
+downloads: 4507
 mobile: true
 number: 364
+stars: 10
 title: Overdue
 type: plugin
 updated: '2021-11-25T10:51:21'

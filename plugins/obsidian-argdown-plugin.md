@@ -5,9 +5,10 @@ author:
 - '[[amdecker|amdecker]]'
 categories: []
 description: Allows you to write argdown codeblocks and view the maps in Preview
-downloads: 6969
+downloads: 6980
 mobile: false
 number: 206
+stars: 69
 title: Argument Map with Argdown
 type: plugin
 updated: '2021-07-29T22:14:33'

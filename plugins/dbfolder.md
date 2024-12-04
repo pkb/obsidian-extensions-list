@@ -7,9 +7,10 @@ categories:
 - '[[categories/Data management|Data management]]'
 description: Folder with the capability to store and retrieve data from a folder like
   database
-downloads: 288506
+downloads: 289569
 mobile: true
 number: 532
+stars: 1300
 title: DB Folder
 type: plugin
 updated: '2024-01-20T01:00:45'

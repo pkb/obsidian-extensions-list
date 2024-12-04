@@ -5,9 +5,10 @@ author:
 - '[[kpaede|Kornelius Paede]]'
 categories: []
 description: Rendering of music notation files.
-downloads: 139
+downloads: 149
 mobile: true
 number: 1895
+stars: 7
 title: Verovio Music Renderer
 type: plugin
 updated: '2024-09-17T16:28:12'

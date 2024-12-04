@@ -5,9 +5,10 @@ author:
 - '[[dabravin|Ivaylo Dabravin <ivaylo.dabravin@gmail.com>]]'
 categories: []
 description: Dynamicly interpreted inline embeds.
-downloads: 6209
+downloads: 6228
 mobile: true
 number: 448
+stars: 19
 title: Dynamic Embed
 type: plugin
 updated: '2022-03-09T15:18:37'

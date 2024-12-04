@@ -5,9 +5,10 @@ author:
 - '[[skipadu|Sami Korpela]]'
 categories: []
 description: Focused on the current line, others faded like a ghost!
-downloads: 9464
+downloads: 9482
 mobile: false
 number: 281
+stars: 45
 title: Ghost Fade Focus
 type: plugin
 updated: '2022-09-25T00:54:30'

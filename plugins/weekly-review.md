@@ -6,9 +6,10 @@ author:
 categories: []
 description: This opens all of the files you have created in the last week to support
   easy Weekly Reviews.
-downloads: 6463
+downloads: 6479
 mobile: true
 number: 761
+stars: 31
 title: Weekly Review
 type: plugin
 updated: '2024-05-06T07:40:07'

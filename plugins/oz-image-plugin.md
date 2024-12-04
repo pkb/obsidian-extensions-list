@@ -8,9 +8,10 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: View Images, Transclusions, iFrames and PDF Files within the Editor without
   a necessity to switch to Preview.
-downloads: 295200
+downloads: 295956
 mobile: true
 number: 162
+stars: 343
 title: Image in Editor
 type: plugin
 updated: '2024-02-11T01:35:14'

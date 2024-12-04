@@ -6,9 +6,10 @@ author:
 categories: []
 description: Simple CRON / schedular plugin to regularly run user scripts or Obsidian
   commands.
-downloads: 4479
+downloads: 4492
 mobile: true
 number: 885
+stars: 45
 title: Cron
 type: plugin
 updated: '2023-08-24T16:26:27'

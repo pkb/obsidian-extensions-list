@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Background Image
+- Background Image
 author:
-  - "[[shmolf|shmolf]]"
+- '[[shmolf|shmolf]]'
 categories:
-  - "[[categories/Appearence|Appearence]]"
-description: This allows you to specify a remote URL as the background image, and a few settings to tweak the experience.
-downloads: 8464
+- '[[categories/Appearence|Appearence]]'
+description: This allows you to specify a remote URL as the background image, and
+  a few settings to tweak the experience.
+downloads: 8536
 mobile: true
 number: 972
+stars: 17
 title: Background Image
 type: plugin
-updated: 2024-01-13T10:14:33
+updated: '2024-01-13T10:14:33'
 url: https://github.com/shmolf/obsidian-editor-background
 version: 1.2.0
 ---

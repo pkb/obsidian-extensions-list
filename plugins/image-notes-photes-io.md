@@ -5,9 +5,10 @@ author:
 - '[[Kanaries|Kanaries Data Inc.]]'
 categories: []
 description: Turn your images into text notes with AI
-downloads: 251
+downloads: 258
 mobile: true
 number: 1814
+stars: 2
 title: Image to notes by Photes.IO
 type: plugin
 updated: '2024-08-27T12:09:46'

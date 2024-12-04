@@ -5,9 +5,10 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin provides a go to Line Command
-downloads: 4393
+downloads: 4401
 mobile: true
 number: 256
+stars: 16
 title: Go to Line
 type: plugin
 updated: '2021-09-18T21:36:34'

@@ -5,9 +5,10 @@ author:
 - '[[makediff|希果壳五彩]]'
 categories: []
 description: Official WuCai highlights <-> Obsidian integration
-downloads: 13810
+downloads: 13969
 mobile: true
 number: 870
+stars: 12
 title: WuCai highlights Official
 type: plugin
 updated: '2024-11-26T12:47:28'

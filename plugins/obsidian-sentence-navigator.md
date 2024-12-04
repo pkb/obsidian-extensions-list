@@ -6,9 +6,10 @@ author:
 categories: []
 description: Manipulate sentences as a unit of movement. Select, move and delete by
   whole sentences.
-downloads: 5335
+downloads: 5339
 mobile: true
 number: 350
+stars: 41
 title: Sentence Navigator
 type: plugin
 updated: '2023-01-15T16:11:11'

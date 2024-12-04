@@ -5,14 +5,15 @@ author:
 - '[[April-Gras|April Gras]]'
 categories: []
 description: Simple timeline generator for story tellers
-downloads: 29393
+downloads: 29871
 mobile: true
 number: 913
+stars: 133
 title: April's Automatic Timelines
 type: plugin
-updated: '2024-09-17T16:17:48'
+updated: '2024-12-02T20:36:19'
 url: https://github.com/April-Gras/obsidian-auto-timelines
-version: 0.13.6
+version: 0.13.7
 ---
 
 %% README_START %%

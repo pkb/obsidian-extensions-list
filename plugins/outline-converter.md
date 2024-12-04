@@ -5,9 +5,10 @@ author:
 - '[[masaki39|masaki39]]'
 categories: []
 description: Convert outline to continuous text.
-downloads: 807
+downloads: 815
 mobile: false
 number: 1599
+stars: 6
 title: Outline Converter
 type: plugin
 updated: '2024-11-09T17:56:51'

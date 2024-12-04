@@ -9,9 +9,10 @@ categories:
 description: AI-Powered Obsidian Plugin that leverage Natural Language Processing
   techniques to find calendar events in Markdown notes, seamlessly synchronizing them
   with a calendar of choice.
-downloads: 5216
+downloads: 5257
 mobile: false
 number: 1212
+stars: 85
 title: MagicCalendar
 type: plugin
 updated: '2023-11-16T02:05:45'

@@ -5,9 +5,10 @@ author:
 - '[[ullmannJan|Jan Ullmann]]'
 categories: []
 description: View .tif(f) files by generating duplicates in form of .tif(f).png
-downloads: 1216
+downloads: 1223
 mobile: true
 number: 1465
+stars: 0
 title: Tiff Viewer
 type: plugin
 updated: '2024-04-15T22:15:27'

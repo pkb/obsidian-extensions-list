@@ -5,9 +5,10 @@ author:
 - '[[grover572|Grover]]'
 categories: []
 description: 它可以帮助你翻译单词或句子，听新单词或句子的录音，甚至录下自己的发音，以内部链接的形式保存到你的笔记中。
-downloads: 1363
+downloads: 1386
 mobile: false
 number: 1575
+stars: 18
 title: Dictionary translator
 type: plugin
 updated: '2024-10-01T15:28:46'

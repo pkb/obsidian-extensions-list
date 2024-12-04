@@ -5,9 +5,10 @@ author:
 - '[[JackBarker7|Jack Barker]]'
 categories: []
 description: Run LaTeX-OCR if it is installed locally.
-downloads: 1795
+downloads: 1806
 mobile: false
 number: 1356
+stars: 3
 title: LaTeX-OCR
 type: plugin
 updated: '2024-04-02T21:41:58'

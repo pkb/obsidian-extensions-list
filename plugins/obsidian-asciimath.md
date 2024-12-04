@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Add asciimath support for Obsidian.
-downloads: 7153
+downloads: 7164
 mobile: true
 number: 690
+stars: 29
 title: asciimath
 type: plugin
 updated: '2024-06-15T08:35:13'

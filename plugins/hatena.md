@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post directly to your Hatena Blog.
-downloads: 1161
+downloads: 1162
 mobile: true
 number: 1392
+stars: 5
 title: Hatena Blog Publisher
 type: plugin
 updated: '2024-02-27T20:00:14'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Registers custom css snippets as commands (which you can bind hotkeys
   to)
-downloads: 6025
+downloads: 6042
 mobile: true
 number: 313
+stars: 29
 title: Snippet Commands
 type: plugin
 updated: '2021-10-12T12:45:18'

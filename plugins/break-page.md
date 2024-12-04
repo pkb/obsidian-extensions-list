@@ -7,9 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Export|Export]]'
 description: Add shortkey and command to insert a break page formating for pdf exports.
-downloads: 4278
+downloads: 4364
 mobile: true
 number: 1464
+stars: 6
 title: PDF break page
 type: plugin
 updated: '2024-02-15T09:35:31'

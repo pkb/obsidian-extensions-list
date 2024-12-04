@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Generate encrypted version of file(s) using rclone encryption format.
-downloads: 1005
+downloads: 1015
 mobile: true
 number: 1537
+stars: 1
 title: Crypt It
 type: plugin
 updated: '2024-03-23T12:51:49'

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Statistics|Statistics]]'
 description: Displays a word count (and more!) for each file, folder and vault in
   the File Explorer pane.
-downloads: 84729
+downloads: 86158
 mobile: true
 number: 458
+stars: 87
 title: Novel word count
 type: plugin
 updated: '2024-11-25T03:10:07'

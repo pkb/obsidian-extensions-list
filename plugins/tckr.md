@@ -5,9 +5,10 @@ author:
 - '[[Git-Sum|Git-Sum]]'
 categories: []
 description: Get your TickTicks!
-downloads: 2111
+downloads: 2112
 mobile: false
 number: 1290
+stars: 3
 title: tckr
 type: plugin
 updated: '2023-10-25T01:59:03'

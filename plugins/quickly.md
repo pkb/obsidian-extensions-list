@@ -6,9 +6,10 @@ author:
 categories: []
 description: Quickly empowers you to add your thoughts into obsidian with a shortcut
   key.
-downloads: 3505
+downloads: 3508
 mobile: true
 number: 889
+stars: 11
 title: Quickly
 type: plugin
 updated: '2023-04-22T01:08:05'

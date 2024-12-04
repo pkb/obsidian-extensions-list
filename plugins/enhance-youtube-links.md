@@ -5,9 +5,10 @@ author:
 - '[[Git-Sum|Git-Sum]]'
 categories: []
 description: Get metadata from a YouTube video
-downloads: 4333
+downloads: 4362
 mobile: true
 number: 1245
+stars: 12
 title: Enhance YouTube Links
 type: plugin
 updated: '2023-11-09T23:36:41'

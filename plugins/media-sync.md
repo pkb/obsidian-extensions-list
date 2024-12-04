@@ -6,9 +6,10 @@ author:
 categories: []
 description: Downloads media files(eg. images, PDFs) from the URLs in documents and
   displays the content.
-downloads: 5265
+downloads: 5294
 mobile: false
 number: 1100
+stars: 18
 title: Media Sync
 type: plugin
 updated: '2024-07-14T14:02:33'

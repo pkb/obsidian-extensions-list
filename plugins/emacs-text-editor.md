@@ -5,9 +5,10 @@ author:
 - '[[authors/Klojer|Klojer]]'
 categories: []
 description: Partial emulation of Emacs text editor for Obisidian
-downloads: 4644
+downloads: 4658
 mobile: true
 number: 1069
+stars: 21
 title: Emacs text editor
 type: plugin
 updated: '2024-07-13T19:15:11'

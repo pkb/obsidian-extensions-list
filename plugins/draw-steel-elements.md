@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Draw Steel Elements
+- Draw Steel Elements
 author:
-  - "[[SteelCompendium|Scott Tomaszewski (Xentis)]]"
+- '[[SteelCompendium|Scott Tomaszewski (Xentis)]]'
 categories:
-  - "[[categories/Games|Games]]"
+- '[[categories/Games|Games]]'
 description: Components to support the Draw Steel TTRPG by MCDM.
-downloads: 379
+downloads: 389
 mobile: false
 number: 1881
+stars: 1
 title: Draw Steel Elements
 type: plugin
-updated: 2024-11-03T01:17:42
+updated: '2024-11-03T01:17:42'
 url: https://github.com/SteelCompendium/draw-steel-elements
 version: 2.3.1
 ---

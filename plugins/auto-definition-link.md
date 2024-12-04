@@ -6,9 +6,10 @@ author:
 categories: []
 description: Automatically converts text to definition links within the current folder
   when you type them.
-downloads: 1379
+downloads: 1388
 mobile: true
 number: 1446
+stars: 6
 title: Auto Definition Link
 type: plugin
 updated: '2024-08-12T03:48:12'

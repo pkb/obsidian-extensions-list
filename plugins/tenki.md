@@ -5,9 +5,10 @@ author:
 - '[[ms3056|HiroMike]]'
 categories: []
 description: Display the weather.
-downloads: 4251
+downloads: 4278
 mobile: true
 number: 1126
+stars: 11
 title: Tenki
 type: plugin
 updated: '2023-09-11T07:42:51'

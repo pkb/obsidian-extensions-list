@@ -5,9 +5,10 @@ author:
 - '[[mariomui|Kanzi]]'
 categories: []
 description: Sort frontmatter recursively
-downloads: 2309
+downloads: 2314
 mobile: false
 number: 1281
+stars: 6
 title: Sort Frontmatter
 type: plugin
 updated: '2023-12-01T06:30:12'

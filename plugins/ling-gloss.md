@@ -5,9 +5,10 @@ author:
 - '[[Mijyuoon|Mijyuoon]]'
 categories: []
 description: Format interlinear glosses used in linguistics texts.
-downloads: 4085
+downloads: 4097
 mobile: true
 number: 938
+stars: 29
 title: Interlinear Glossing
 type: plugin
 updated: '2024-03-03T01:00:07'

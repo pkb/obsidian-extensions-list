@@ -6,9 +6,10 @@ author:
 categories: []
 description: Log your activities like creating notes, modifying notes, deleting notes
   and so on.
-downloads: 4752
+downloads: 4762
 mobile: false
 number: 245
+stars: 20
 title: Activity Logger
 type: plugin
 updated: '2021-08-06T20:20:42'

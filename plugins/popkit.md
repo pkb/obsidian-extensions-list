@@ -1,17 +1,18 @@
 ---
 aliases:
-  - PopKit
+- PopKit
 author:
-  - "[[zhouhua|Zhou Hua]]"
+- '[[zhouhua|Zhou Hua]]'
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Select text to instantly access quick tools
-downloads: 1606
+downloads: 1627
 mobile: true
 number: 1782
+stars: 32
 title: PopKit
 type: plugin
-updated: 2024-08-17T20:33:50
+updated: '2024-08-17T20:33:50'
 url: https://github.com/zhouhua/obsidian-popkit
 version: 1.0.13
 ---

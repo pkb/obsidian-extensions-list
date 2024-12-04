@@ -5,9 +5,10 @@ author:
 - '[[pistacchio|pistacchio]]'
 categories: []
 description: Add programmable controls to selected tables
-downloads: 3348
+downloads: 3398
 mobile: true
 number: 1448
+stars: 32
 title: Enhanced tables
 type: plugin
 updated: '2024-03-12T13:50:11'

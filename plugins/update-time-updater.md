@@ -5,9 +5,10 @@ author:
 - '[[muratagawa|MURATAGAWA Kei]]'
 categories: []
 description: Update the 'update time' element when saving or manually.
-downloads: 555
+downloads: 562
 mobile: true
 number: 1584
+stars: 4
 title: Update Time Updater
 type: plugin
 updated: '2024-04-10T06:31:02'

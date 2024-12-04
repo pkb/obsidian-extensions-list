@@ -7,9 +7,10 @@ categories:
 - '[[categories/Charting|Charting]]'
 description: Obsidian plugin, which allow user to embed Plotly charts into markdown
   notes.
-downloads: 7473
+downloads: 7495
 mobile: true
 number: 317
+stars: 73
 title: Plotly
 type: plugin
 updated: '2021-11-13T22:44:10'

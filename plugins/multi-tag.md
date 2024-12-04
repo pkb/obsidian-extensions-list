@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a tag to multiple notes at once.  Either right-click a folder, or
   select multiple notes and right-click the selection.
-downloads: 9929
+downloads: 10005
 mobile: false
 number: 1082
+stars: 15
 title: Multi Tag
 type: plugin
 updated: '2023-11-29T08:14:11'

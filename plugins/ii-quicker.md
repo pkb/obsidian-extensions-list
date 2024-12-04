@@ -6,9 +6,10 @@ author:
 categories: []
 description: Quickly insert common Markdown code and HTML code, and customize your
   own insertion commands.
-downloads: 507
+downloads: 516
 mobile: true
 number: 1680
+stars: 11
 title: ii
 type: plugin
 updated: '2024-05-11T11:02:41'

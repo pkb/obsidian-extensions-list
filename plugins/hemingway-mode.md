@@ -5,9 +5,10 @@ author:
 - '[[jobedom|Joaquín Bernal]]'
 categories: []
 description: Prevents any editing, only letting you write ahead.
-downloads: 1125
+downloads: 1139
 mobile: true
 number: 1552
+stars: 6
 title: Hemingway Mode
 type: plugin
 updated: '2024-04-02T17:40:10'

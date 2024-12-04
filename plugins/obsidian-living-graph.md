@@ -5,9 +5,10 @@ author:
 - '[[geoffreysflaminglasersword|Garrett]]'
 categories: []
 description: A for-fun graph plugin
-downloads: 9995
+downloads: 10036
 mobile: true
 number: 437
+stars: 36
 title: Living Graph
 type: plugin
 updated: '2022-02-25T14:08:15'

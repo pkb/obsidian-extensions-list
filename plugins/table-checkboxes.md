@@ -6,9 +6,10 @@ author:
 categories: []
 description: Converts markdown checkboxes in tables to HTML, and reflects the state
   upon (un)checking them.
-downloads: 8880
+downloads: 8979
 mobile: true
 number: 1199
+stars: 29
 title: Markdown table checkboxes
 type: plugin
 updated: '2024-04-06T19:37:03'

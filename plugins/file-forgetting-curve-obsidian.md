@@ -5,9 +5,10 @@ author:
 - '[[ptrsvltns|ptrsvltns]]'
 categories: []
 description: File Forgetting Curve
-downloads: 3434
+downloads: 3438
 mobile: false
 number: 725
+stars: 19
 title: File Forgetting Curve
 type: plugin
 updated: '2022-11-18T21:14:03'

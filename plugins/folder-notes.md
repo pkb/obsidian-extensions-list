@@ -6,9 +6,10 @@ author:
 categories: []
 description: Create notes within folders that can be accessed without collapsing the
   folder, similar to the functionality offered in Notion.
-downloads: 96410
+downloads: 97593
 mobile: true
 number: 895
+stars: 362
 title: Folder notes
 type: plugin
 updated: '2024-10-03T18:34:05'

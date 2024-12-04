@@ -6,9 +6,10 @@ author:
 categories: []
 description: Explore your Obsidian vault by adding or ignoring linked notes, generating
   a customizable canvas with note sorting and section exclusion.
-downloads: 598
+downloads: 620
 mobile: true
 number: 1864
+stars: 9
 title: Canvas Explorer
 type: plugin
 updated: '2024-10-22T16:59:34'

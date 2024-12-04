@@ -5,9 +5,10 @@ author:
 - '[[thor314|Thor Kampefner]]'
 categories: []
 description: An interface to upload notes to and from HackMD
-downloads: 38
+downloads: 56
 mobile: true
 number: 2003
+stars: 1
 title: HackMD Sync
 type: plugin
 updated: '2024-11-09T07:12:34'

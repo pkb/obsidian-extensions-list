@@ -5,9 +5,10 @@ author:
 - '[[Frieder21|Frieda]]'
 categories: []
 description: Allows you to download all included PDF files
-downloads: 91
+downloads: 114
 mobile: true
 number: 1968
+stars: 1
 title: downloadPDF
 type: plugin
 updated: '2024-11-04T22:06:29'

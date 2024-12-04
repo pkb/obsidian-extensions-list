@@ -6,9 +6,10 @@ author:
 categories: []
 description: This is a plugin for Obsidian that allows users to define custom link
   formats
-downloads: 4967
+downloads: 4980
 mobile: true
 number: 686
+stars: 28
 title: Smart Links
 type: plugin
 updated: '2022-12-09T22:32:20'

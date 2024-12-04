@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Slackify Note
+- Slackify Note
 author:
-  - "[[jeremyoverman|Jeremy Overman]]"
+- '[[jeremyoverman|Jeremy Overman]]'
 categories:
-  - "[[categories/Export|Export]]"
+- '[[categories/Export|Export]]'
 description: Converts a note to a Slack-compliant markdown using [slackify-markdown](https://www.npmjs.com/package/slackify-markdown)
-downloads: 2647
+downloads: 2651
 mobile: true
 number: 1251
+stars: 5
 title: Slackify Note
 type: plugin
-updated: 2023-11-03T01:25:14
+updated: '2023-11-03T01:25:14'
 url: https://github.com/jeremyoverman/obsidian-slackify-note
 version: 1.2.1
 ---

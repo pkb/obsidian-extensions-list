@@ -6,9 +6,10 @@ author:
 categories: []
 description: Shows a list of notes in the current folder, and allows you to filter
   the titles to include or exclude notes.
-downloads: 919
+downloads: 926
 mobile: true
 number: 1570
+stars: 4
 title: Current Folder Notes
 type: plugin
 updated: '2024-08-25T17:03:18'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Chess Study
+- Chess Study
 author:
-  - "[[chrislicodes|Christoph Lindstädt]]"
+- '[[chrislicodes|Christoph Lindstädt]]'
 categories:
-  - "[[categories/Games|Games]]"
+- '[[categories/Games|Games]]'
 description: A chess study helper and PGN viewer/editor.
-downloads: 5322
+downloads: 5359
 mobile: false
 number: 943
+stars: 37
 title: Chess Study
 type: plugin
-updated: 2024-02-11T20:31:03
+updated: '2024-02-11T20:31:03'
 url: https://github.com/chrislicodes/obsidian-chess-study
 version: 1.2.0
 ---

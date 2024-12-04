@@ -6,9 +6,10 @@ author:
 categories: []
 description: An Obsidian plugin to automatically create notes with some specified
   content when you link to a note that doesn't yet exist.
-downloads: 3784
+downloads: 3787
 mobile: true
 number: 637
+stars: 25
 title: Note Content Pusher
 type: plugin
 updated: '2022-06-14T09:59:05'

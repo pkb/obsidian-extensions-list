@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'Wrap selected text in custom tags with shortcuts. E.g.: underline, sub,
   ruby(フリガナ)'
-downloads: 8750
+downloads: 8780
 mobile: true
 number: 386
+stars: 62
 title: Wrap with shortcuts
 type: plugin
 updated: '2023-03-21T18:45:26'

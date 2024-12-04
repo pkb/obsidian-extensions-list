@@ -5,9 +5,10 @@ author:
 - '[[KubaMiszcz|KubaMiszcz]]'
 categories: []
 description: Handle with multistate checkboxes.
-downloads: 2980
+downloads: 3017
 mobile: true
 number: 1373
+stars: 10
 title: Multi State CheckBox Switcher
 type: plugin
 updated: '2023-12-05T04:43:17'

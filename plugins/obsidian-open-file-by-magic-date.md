@@ -7,9 +7,10 @@ categories: []
 description: 'Define a Moment.js date pattern that specifies the file that is most
   important to you (eg: your daily/weekly/monthly note). Will create the file if it
   doesn''t exist.'
-downloads: 3961
+downloads: 3965
 mobile: true
 number: 582
+stars: 10
 title: Open File by Magic Date
 type: plugin
 updated: '2023-03-19T08:23:50'

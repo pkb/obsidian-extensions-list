@@ -5,9 +5,10 @@ author:
 - '[[h-sphere|hypersphere]]'
 categories: []
 description: Use SQL in your notes to query your vault files and CSV content.
-downloads: 742
+downloads: 778
 mobile: true
 number: 1733
+stars: 7
 title: SQLSeal
 type: plugin
 updated: '2024-11-24T22:22:18'

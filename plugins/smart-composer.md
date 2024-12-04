@@ -7,14 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI chat with note context, smart writing assistance, and one-click edits
   for your vault.
-downloads: 1367
+downloads: 1910
 mobile: true
 number: 1971
+stars: 310
 title: Smart Composer
 type: plugin
-updated: '2024-11-22T11:26:43'
+updated: '2024-11-27T13:04:21'
 url: https://github.com/glowingjade/obsidian-smart-composer
-version: 1.0.7
+version: 1.0.9
 ---
 
 %% README_START %%

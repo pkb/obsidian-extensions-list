@@ -6,9 +6,10 @@ author:
 categories: []
 description: This is a HTML file reader plugin for Obsidian. Can open document with
   ".html" and ".htm" file extensions.
-downloads: 26898
+downloads: 27077
 mobile: true
 number: 623
+stars: 129
 title: HTML Reader
 type: plugin
 updated: '2023-12-12T14:30:32'

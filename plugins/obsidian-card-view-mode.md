@@ -5,9 +5,10 @@ author:
 - '[[yo-goto|PADAone]]'
 categories: []
 description: Enable to view your notes as cards.
-downloads: 15720
+downloads: 15785
 mobile: true
 number: 290
+stars: 56
 title: Card View Mode
 type: plugin
 updated: '2021-10-02T22:25:33'

@@ -5,9 +5,10 @@ author:
 - '[[tjandy98|tjandy98]]'
 categories: []
 description: This plugin shows recently modified and newly created files
-downloads: 5287
+downloads: 5301
 mobile: true
 number: 735
+stars: 9
 title: Review Notes Plugin
 type: plugin
 updated: '2024-02-08T17:39:42'

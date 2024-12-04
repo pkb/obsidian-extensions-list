@@ -5,9 +5,10 @@ author:
 - '[[Basil-Mori|Basil_Mori]]'
 categories: []
 description: Allows the user to edit and create .gmi files.
-downloads: 3431
+downloads: 3433
 mobile: true
 number: 660
+stars: 5
 title: Edit Gemini
 type: plugin
 updated: '2022-10-23T23:30:00'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Merge a folder of notes for easier export.
-downloads: 8052
+downloads: 8133
 mobile: true
 number: 858
+stars: 15
 title: Advanced Merger
 type: plugin
 updated: '2023-10-04T19:27:50'

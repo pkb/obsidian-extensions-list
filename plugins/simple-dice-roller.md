@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plug and play solution that allows you to average and simulate dice
   formulas.
-downloads: 5017
+downloads: 5042
 mobile: true
 number: 535
+stars: 3
 title: Simple Dice Roller
 type: plugin
 updated: '2022-06-24T10:20:43'

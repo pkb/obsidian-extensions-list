@@ -9,9 +9,10 @@ description: Formats and styles your notes. It can be used to format YAML tags, 
   arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown
   contents like list, italics, and bold styles; and more with the use of custom rule
   options as well.
-downloads: 466069
+downloads: 469466
 mobile: true
 number: 249
+stars: 1300
 title: Linter
 type: plugin
 updated: '2024-10-14T21:22:50'

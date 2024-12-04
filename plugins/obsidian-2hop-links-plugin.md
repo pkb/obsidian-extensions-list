@@ -5,9 +5,10 @@ author:
 - '[[tokuhirom|Tokuhiro Matsuno]]'
 categories: []
 description: Add links to other pages at the bottom of the editor.
-downloads: 7737
+downloads: 7748
 mobile: true
 number: 171
+stars: 35
 title: 2Hop Links Plugin
 type: plugin
 updated: '2022-06-16T20:35:18'

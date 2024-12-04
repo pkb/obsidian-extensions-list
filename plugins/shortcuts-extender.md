@@ -6,9 +6,10 @@ author:
 categories: []
 description: Use shortcuts for text formatting or input special symbols without language
   switching
-downloads: 21386
+downloads: 21468
 mobile: true
 number: 16
+stars: 70
 title: Shortcuts extender
 type: plugin
 updated: '2022-03-14T03:46:58'

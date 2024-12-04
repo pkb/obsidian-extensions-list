@@ -5,9 +5,10 @@ author:
 - '[[Dyldog|Dylan Elliott]]'
 categories: []
 description: Commands for handling a zettelkasten with Luhmann-style IDs as filenames
-downloads: 14511
+downloads: 14558
 mobile: true
 number: 270
+stars: 61
 title: Luhman
 type: plugin
 updated: '2023-05-17T05:49:36'

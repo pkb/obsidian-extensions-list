@@ -5,9 +5,10 @@ author:
 - '[[arpitbbhayani|Arpit Bhayani]]'
 categories: []
 description: Periodically fetches and displays top stories from HackerNews.
-downloads: 5725
+downloads: 5733
 mobile: true
 number: 283
+stars: 90
 title: HackerNews
 type: plugin
 updated: '2021-09-08T13:27:54'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax.
   No fuss.
-downloads: 1132
+downloads: 1179
 mobile: false
 number: 1771
+stars: 40
 title: Yanki
 type: plugin
 updated: '2024-11-19T13:02:16'

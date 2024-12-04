@@ -8,9 +8,10 @@ categories:
 description: A fully featured replacement for the built-in daily notes plugin. Obligator
   functions like a virtual bullet journal by copying over unchecked to-do items to
   your new daily note, along with adding any scheduled items you've set up
-downloads: 8374
+downloads: 8456
 mobile: true
 number: 1046
+stars: 67
 title: Obligator
 type: plugin
 updated: '2024-01-16T23:45:59'

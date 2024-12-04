@@ -5,9 +5,10 @@ author:
 - '[[Vinzent03|Vinzent03]]'
 categories: []
 description: Add hotkeys to insert specific templates
-downloads: 24505
+downloads: 24588
 mobile: true
 number: 141
+stars: 113
 title: Hotkeys for templates
 type: plugin
 updated: '2021-09-28T12:11:33'

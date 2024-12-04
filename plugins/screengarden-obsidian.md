@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Collaborate, publish, and work across PKM systems with screen.garden.
-downloads: 2838
+downloads: 2839
 mobile: true
 number: 1190
+stars: 13
 title: screen.garden
 type: plugin
 updated: '2024-03-16T21:52:27'

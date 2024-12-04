@@ -5,9 +5,10 @@ author:
 - '[[darrenkuro|Darren Kuro]]'
 categories: []
 description: This plugin renders the basename of tags.
-downloads: 5670
+downloads: 5682
 mobile: true
 number: 726
+stars: 27
 title: Base Tag Renderer
 type: plugin
 updated: '2023-10-05T00:10:35'

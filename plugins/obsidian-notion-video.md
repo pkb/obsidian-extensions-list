@@ -5,9 +5,10 @@ author:
 - '[[LastKnightCoder|lastknightcoder]]'
 categories: []
 description: embed your notion video in obsidian
-downloads: 4144
+downloads: 4149
 mobile: false
 number: 499
+stars: 5
 title: Notion Video
 type: plugin
 updated: '2022-09-24T21:50:40'

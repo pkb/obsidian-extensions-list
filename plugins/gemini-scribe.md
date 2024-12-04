@@ -5,9 +5,10 @@ author:
 - '[[allenhutchison|Allen Hutchison]]'
 categories: []
 description: Interact with Gemini and use your notes as context.
-downloads: 134
+downloads: 187
 mobile: true
 number: 2007
+stars: 7
 title: Gemini Scribe
 type: plugin
 updated: '2024-11-26T07:20:31'

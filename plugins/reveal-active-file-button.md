@@ -5,9 +5,10 @@ author:
 - '[[claremacrae|Clare Macrae]]'
 categories: []
 description: Add a button to the top of the File Explorer, to reveal the active file.
-downloads: 12302
+downloads: 12370
 mobile: true
 number: 358
+stars: 59
 title: Reveal Active File Button
 type: plugin
 updated: '2023-03-13T02:11:40'

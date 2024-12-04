@@ -5,9 +5,10 @@ author:
 - '[[luhaifeng666|luhaifeng666]]'
 categories: []
 description: Convert text to speech
-downloads: 1291
+downloads: 1310
 mobile: true
 number: 1632
+stars: 13
 title: Text2Audio
 type: plugin
 updated: '2024-06-12T12:45:21'

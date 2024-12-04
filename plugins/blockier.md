@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extra block editing utilities.
-downloads: 3259
+downloads: 3273
 mobile: true
 number: 1271
+stars: 18
 title: Blockier
 type: plugin
 updated: '2024-07-19T12:59:16'

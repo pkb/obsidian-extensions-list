@@ -6,9 +6,10 @@ author:
 categories: []
 description: Display 'Jisage' (indenting with a full-width space at the beginning
   of a line) text correctly.
-downloads: 83
+downloads: 93
 mobile: true
 number: 1975
+stars: 2
 title: Jisage -Japanese Indentation-
 type: plugin
 updated: '2024-10-17T18:21:51'

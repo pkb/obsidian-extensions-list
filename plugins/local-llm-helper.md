@@ -5,9 +5,10 @@ author:
 - '[[manimohans|Mani Mohan]]'
 categories: []
 description: Use your own secure local LLM server to work with your text!
-downloads: 1656
+downloads: 1689
 mobile: true
 number: 1631
+stars: 18
 title: Local LLM Helper
 type: plugin
 updated: '2024-11-05T02:58:17'

@@ -5,9 +5,10 @@ author:
 - '[[adriandersen|Adrian]]'
 categories: []
 description: Fuzzy match autocomplete tags in Frontmatter
-downloads: 5227
+downloads: 5238
 mobile: false
 number: 716
+stars: 17
 title: FuzzyTag
 type: plugin
 updated: '2023-02-28T14:50:18'

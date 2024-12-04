@@ -6,14 +6,15 @@ author:
 categories: []
 description: Qualitative Data Analysis (QDA) for social scientists. An open alternative
   to `MAXQDA` and `atlas.ti`, using Markdown to store data and research codes.
-downloads: 3356
+downloads: 3421
 mobile: true
 number: 1475
+stars: 65
 title: Quadro
 type: plugin
-updated: '2024-11-18T23:18:34'
+updated: '2024-11-28T03:18:06'
 url: https://github.com/chrisgrieser/obsidian-quadro
-version: 1.27.3
+version: 1.27.4
 ---
 
 %% README_START %%

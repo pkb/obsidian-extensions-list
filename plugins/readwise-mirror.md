@@ -5,9 +5,10 @@ author:
 - '[[jsonMartin|jsonmartin]]'
 categories: []
 description: Mirror your Readwise library directly to an Obsidian vault
-downloads: 8417
+downloads: 8434
 mobile: true
 number: 182
+stars: 53
 title: Readwise Mirror
 type: plugin
 updated: '2023-10-29T01:11:08'

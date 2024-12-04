@@ -5,9 +5,10 @@ author:
 - '[[rasmusachr|RasmusAChr]]'
 categories: []
 description: Turns a PDF into a series of images.
-downloads: 117
+downloads: 135
 mobile: false
 number: 1970
+stars: 2
 title: PDF2Image
 type: plugin
 updated: '2024-11-09T21:29:18'

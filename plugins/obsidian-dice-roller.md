@@ -5,9 +5,10 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Inline dice rolling for Obsidian.md
-downloads: 182402
+downloads: 183923
 mobile: true
 number: 132
+stars: 275
 title: Dice Roller
 type: plugin
 updated: '2024-11-20T23:18:28'

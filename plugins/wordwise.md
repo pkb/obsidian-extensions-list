@@ -5,9 +5,10 @@ author:
 - '[[ckt1031|ckt1031]]'
 categories: []
 description: Writing companion for AI content generation.
-downloads: 2714
+downloads: 2739
 mobile: true
 number: 1429
+stars: 27
 title: WordWise
 type: plugin
 updated: '2024-11-17T21:16:12'

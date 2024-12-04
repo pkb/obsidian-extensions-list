@@ -7,9 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: Exports data from Obsidian APIs, feeding the Obsimian simulation framework
   for testing plugins.
-downloads: 3668
+downloads: 3673
 mobile: true
 number: 229
+stars: 20
 title: Obsimian Exporter
 type: plugin
 updated: '2021-07-25T10:21:19'

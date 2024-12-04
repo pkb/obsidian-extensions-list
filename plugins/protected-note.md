@@ -7,9 +7,10 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Set Password and Protect your notes from other people. Encrypt and Decrypt
   all notes!
-downloads: 3468
+downloads: 3530
 mobile: true
 number: 1412
+stars: 20
 title: Protected Note
 type: plugin
 updated: '2024-03-02T07:00:52'

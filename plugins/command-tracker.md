@@ -5,9 +5,10 @@ author:
 - '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Track the number of times the command is used.
-downloads: 207
+downloads: 215
 mobile: false
 number: 1929
+stars: 2
 title: Command Tracker
 type: plugin
 updated: '2024-10-26T12:18:31'

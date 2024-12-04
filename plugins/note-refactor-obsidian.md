@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extract note content into new notes and split notes
-downloads: 253749
+downloads: 254749
 mobile: true
 number: 9
+stars: 524
 title: Note Refactor
 type: plugin
 updated: '2023-09-19T05:06:00'

@@ -5,9 +5,10 @@ author:
 - '[[reuseman|Alex Colucci]]'
 categories: []
 description: Anki integration
-downloads: 50630
+downloads: 50811
 mobile: false
 number: 51
+stars: 921
 title: Flashcards
 type: plugin
 updated: '2022-10-21T18:40:36'

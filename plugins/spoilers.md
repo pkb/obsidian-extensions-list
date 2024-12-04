@@ -5,9 +5,10 @@ author:
 - '[[jacobtread|Jacobtread]]'
 categories: []
 description: Hide and reveal blocks of information
-downloads: 989
+downloads: 1015
 mobile: true
 number: 1734
+stars: 5
 title: Spoilers
 type: plugin
 updated: '2024-10-04T13:14:08'

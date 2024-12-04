@@ -5,9 +5,10 @@ author:
 - '[[KFreon|KaelLarkin]]'
 categories: []
 description: Nextcloud breaks Wiki-links (e.g. [[Some document]]). This fixes them.
-downloads: 210
+downloads: 220
 mobile: true
 number: 1787
+stars: 1
 title: Nextcloud Link Fixer
 type: plugin
 updated: '2024-04-02T17:21:21'

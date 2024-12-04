@@ -5,9 +5,10 @@ author:
 - '[[MeepTech|Meep.Tech]]'
 categories: []
 description: Associate views with custom file extensions via settings.
-downloads: 7254
+downloads: 7309
 mobile: true
 number: 772
+stars: 42
 title: Custom File Extensions Plugin
 type: plugin
 updated: '2023-12-18T03:11:49'

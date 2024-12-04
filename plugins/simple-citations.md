@@ -5,9 +5,10 @@ author:
 - '[[masaki39|masaki39]]'
 categories: []
 description: Add & update simple literature notes from Zotero.
-downloads: 773
+downloads: 791
 mobile: false
 number: 1620
+stars: 4
 title: Simple Citations
 type: plugin
 updated: '2024-05-06T19:01:56'

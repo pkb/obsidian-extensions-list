@@ -5,9 +5,10 @@ author:
 - '[[moeyua|Moeyua]]'
 categories: []
 description: 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。
-downloads: 1025
+downloads: 1049
 mobile: true
 number: 1664
+stars: 14
 title: heti
 type: plugin
 updated: '2024-05-11T12:05:36'

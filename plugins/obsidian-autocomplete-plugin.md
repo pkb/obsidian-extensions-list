@@ -5,9 +5,10 @@ author:
 - '[[Yeboster|Yeboster]]'
 categories: []
 description: This plugin provides a text autocomplete feature to enhance typing speed.
-downloads: 30777
+downloads: 30855
 mobile: true
 number: 67
+stars: 142
 title: Autocomplete
 type: plugin
 updated: '2021-06-12T21:51:35'

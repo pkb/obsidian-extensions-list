@@ -7,14 +7,15 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Search and navigation|Search and navigation]]'
 description: 'Outliner-like breadcrumb trees for search, backlinks and embedded queries '
-downloads: 17975
+downloads: 19010
 mobile: true
 number: 1042
+stars: 252
 title: Better Search Views
 type: plugin
-updated: '2023-08-25T15:06:38'
+updated: '2024-12-01T20:32:06'
 url: https://github.com/ivan-lednev/better-search-views
-version: 0.2.2
+version: 0.3.0
 ---
 
 %% README_START %%

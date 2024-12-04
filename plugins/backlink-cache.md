@@ -5,9 +5,10 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`
-downloads: 5214
+downloads: 5290
 mobile: true
 number: 1244
+stars: 20
 title: Backlink Cache
 type: plugin
 updated: '2024-11-21T10:43:11'

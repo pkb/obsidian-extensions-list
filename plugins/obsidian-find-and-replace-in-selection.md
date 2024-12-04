@@ -5,9 +5,10 @@ author:
 - '[[TClark1011|Thomas Clark]]'
 categories: []
 description: Replace text within your current selection.
-downloads: 6472
+downloads: 6481
 mobile: true
 number: 230
+stars: 6
 title: Find & Replace in Selection
 type: plugin
 updated: '2021-11-15T10:01:53'

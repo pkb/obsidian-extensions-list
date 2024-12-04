@@ -5,9 +5,10 @@ author:
 - '[[h-sphere|hypersphere]]'
 categories: []
 description: Render mahjong tiles (riichi mahjong) using MPSZ algebraic notation
-downloads: 71
+downloads: 75
 mobile: true
 number: 1858
+stars: 2
 title: Mahjong Renderer
 type: plugin
 updated: '2024-08-10T18:41:42'

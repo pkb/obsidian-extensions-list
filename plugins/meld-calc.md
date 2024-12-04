@@ -5,9 +5,10 @@ author:
 - '[[meld-cp|meld-cp]]'
 categories: []
 description: Do math
-downloads: 11669
+downloads: 11690
 mobile: true
 number: 325
+stars: 55
 title: Meld Calc
 type: plugin
 updated: '2021-10-23T07:48:01'

@@ -5,9 +5,10 @@ author:
 - '[[lanice|Leander Neiß]]'
 categories: []
 description: Thin wrapper around the Rant language Rust crate
-downloads: 4129
+downloads: 4130
 mobile: true
 number: 388
+stars: 13
 title: Rant-Lang
 type: plugin
 updated: '2022-02-13T14:11:07'

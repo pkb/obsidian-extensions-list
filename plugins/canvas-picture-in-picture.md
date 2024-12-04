@@ -6,9 +6,10 @@ author:
 categories: []
 description: Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture
   mode)
-downloads: 445
+downloads: 461
 mobile: true
 number: 1829
+stars: 5
 title: Canvas Picture in Picture
 type: plugin
 updated: '2024-08-03T02:22:25'

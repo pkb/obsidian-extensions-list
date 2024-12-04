@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync notes from AudioPen.
-downloads: 170
+downloads: 174
 mobile: true
 number: 1700
+stars: 1
 title: AudioPen Sync
 type: plugin
 updated: '2024-09-20T19:54:42'

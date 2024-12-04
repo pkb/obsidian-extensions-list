@@ -6,9 +6,10 @@ author:
 categories: []
 description: Detects new binary files in the vault and create markdown files with
   metadata.
-downloads: 7497
+downloads: 7538
 mobile: true
 number: 393
+stars: 64
 title: Binary File Manager
 type: plugin
 updated: '2022-01-07T17:26:53'

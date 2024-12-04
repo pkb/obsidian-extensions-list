@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Relative Timestamps
+- Relative Timestamps
 author:
-  - "[[agctute|Charles Young]]"
+- '[[agctute|Charles Young]]'
 categories:
-  - "[[categories/Time tracking|Time tracking]]"
+- '[[categories/Time tracking|Time tracking]]'
 description: Track the time between log entries
-downloads: 399
+downloads: 408
 mobile: true
 number: 1702
+stars: 5
 title: Relative Timestamps
 type: plugin
-updated: 2024-06-19T17:08:43
+updated: '2024-06-19T17:08:43'
 url: https://github.com/agctute/relative-timestamps
 version: 1.0.1
 ---

@@ -5,9 +5,10 @@ author:
 - '[[roovo|roovo]]'
 categories: []
 description: Display markdown tasks on kanban style boards.
-downloads: 103861
+downloads: 104639
 mobile: true
 number: 348
+stars: 516
 title: CardBoard
 type: plugin
 updated: '2024-02-25T17:26:33'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Enables the rendering of AsciiDoc.
-downloads: 302
+downloads: 310
 mobile: false
 number: 1735
+stars: 6
 title: Asciidoc Reader
 type: plugin
 updated: '2024-06-24T13:24:24'

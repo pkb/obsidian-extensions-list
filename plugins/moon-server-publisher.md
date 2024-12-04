@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes directly to Moon server instance.
-downloads: 2299
+downloads: 2301
 mobile: true
 number: 1225
+stars: 0
 title: Moon server publisher
 type: plugin
 updated: '2023-10-20T19:33:50'

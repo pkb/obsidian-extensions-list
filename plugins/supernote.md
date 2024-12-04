@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Unofficial Supernote by Ratta Integration
+- Unofficial Supernote by Ratta Integration
 author:
-  - "[[philips|Brandon Philips]]"
+- '[[philips|Brandon Philips]]'
 categories:
-  - "[[categories/Integration|Integration]]"
-description: View Supernote notes, generate markdown from note and capture screen mirror.
-downloads: 2767
+- '[[categories/Integration|Integration]]'
+description: View Supernote notes, generate markdown from note and capture screen
+  mirror.
+downloads: 2826
 mobile: true
 number: 1567
+stars: 138
 title: Unofficial Supernote by Ratta Integration
 type: plugin
-updated: 2024-05-22T10:55:44
+updated: '2024-05-22T10:55:44'
 url: https://github.com/philips/supernote-obsidian-plugin
 version: 2.2.7
 ---

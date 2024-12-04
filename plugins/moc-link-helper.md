@@ -5,9 +5,10 @@ author:
 - '[[BogdanCodreanu|Bogdan Codreanu]]'
 categories: []
 description: Helps with some MOC janitor-linking tasks.
-downloads: 266
+downloads: 282
 mobile: false
 number: 1983
+stars: 4
 title: MOC Link Helper
 type: plugin
 updated: '2024-11-19T18:18:03'

@@ -5,9 +5,10 @@ author:
 - '[[nickrallison|Nick Allison]]'
 categories: []
 description: Link your notes together
-downloads: 559
+downloads: 561
 mobile: true
 number: 1807
+stars: 4
 title: Note Linker with Previewer
 type: plugin
 updated: '2024-08-26T11:08:06'

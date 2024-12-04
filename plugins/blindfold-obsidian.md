@@ -5,9 +5,10 @@ author:
 - '[[vzsky|my99n]]'
 categories: []
 description: Fold text by making it completely hidden.
-downloads: 4267
+downloads: 4276
 mobile: true
 number: 967
+stars: 6
 title: BlindFold
 type: plugin
 updated: '2024-01-15T22:18:33'

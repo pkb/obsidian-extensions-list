@@ -5,9 +5,10 @@ author:
 - '[[ericaxu|Obsidian]]'
 categories: []
 description: 2023 April Fool's plugin brought to you by Obsidian
-downloads: 5330
+downloads: 5344
 mobile: true
 number: 843
+stars: 54
 title: Gemmy
 type: plugin
 updated: '2023-04-02T02:38:55'

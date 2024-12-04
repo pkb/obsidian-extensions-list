@@ -7,9 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Turn your notes into personalized AI-powered assistants to retrieve ideas,
   think, and write. Powered by the OpenAI GPT Assistant API.
-downloads: 2686
+downloads: 2697
 mobile: true
 number: 1336
+stars: 20
 title: Intelligence
 type: plugin
 updated: '2023-12-22T08:12:02'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Simplify linking notes across multiple languages by automatically adding
   translations of note names into aliases. Designed for multilingual users.
-downloads: 1203
+downloads: 1214
 mobile: true
 number: 1541
+stars: 11
 title: Multilingual
 type: plugin
 updated: '2024-03-20T02:03:05'

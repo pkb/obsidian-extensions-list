@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Screwdriver
+- Screwdriver
 author:
-  - "[[vrtmrz|vorotamoroz]]"
+- '[[vrtmrz|vorotamoroz]]'
 categories:
-  - "[[categories/File management|File management]]"
+- '[[categories/File management|File management]]'
 description: Utility to put any files in and out under your vault.
-downloads: 4437
+downloads: 4440
 mobile: true
 number: 463
+stars: 18
 title: Screwdriver
 type: plugin
-updated: 2024-02-25T09:19:03
+updated: '2024-02-25T09:19:03'
 url: https://github.com/vrtmrz/obsidian-screwdriver
 version: 0.0.8
 ---

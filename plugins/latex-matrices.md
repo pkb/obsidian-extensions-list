@@ -5,9 +5,10 @@ author:
 - '[[Deltekk|Daniele Susino]]'
 categories: []
 description: Speedup latex matrices writing.
-downloads: 3947
+downloads: 3959
 mobile: true
 number: 893
+stars: 2
 title: Latex Matrices
 type: plugin
 updated: '2023-03-23T01:53:40'

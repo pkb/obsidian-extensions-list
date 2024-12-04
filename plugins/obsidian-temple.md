@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Obsidian Temple
+- Obsidian Temple
 author:
-  - "[[garyng|GaryNg]]"
+- '[[garyng|GaryNg]]'
 categories:
-  - "[[categories/Templates|Templates]]"
+- '[[categories/Templates|Templates]]'
 description: A plugin for templating in Obsidian, powered by Nunjucks.
-downloads: 5204
+downloads: 5213
 mobile: true
 number: 63
+stars: 65
 title: Obsidian Temple
 type: plugin
-updated: 2021-01-03T20:27:30
+updated: '2021-01-03T20:27:30'
 url: https://github.com/garyng/obsidian-temple
 version: 0.4.0
 ---

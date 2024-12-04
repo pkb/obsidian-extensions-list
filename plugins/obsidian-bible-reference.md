@@ -6,14 +6,15 @@ author:
 categories: []
 description: 'Taking Bible Study note in Obsidian.md application easily. Automatically
   suggesting Bible Verses as references. '
-downloads: 34237
+downloads: 34701
 mobile: true
 number: 349
+stars: 240
 title: Bible Reference
 type: plugin
-updated: '2024-10-11T02:50:52'
+updated: '2024-11-27T10:41:37'
 url: https://github.com/tim-hub/obsidian-bible-reference
-version: 3.2.1
+version: 3.2.2
 ---
 
 %% README_START %%

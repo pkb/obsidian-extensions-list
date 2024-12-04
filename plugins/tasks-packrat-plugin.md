@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Process completed recurring Tasks
-downloads: 5110
+downloads: 5124
 mobile: true
 number: 529
+stars: 17
 title: Packrat
 type: plugin
 updated: '2024-01-03T03:20:48'

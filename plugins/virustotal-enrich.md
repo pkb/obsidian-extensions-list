@@ -5,9 +5,10 @@ author:
 - '[[ytisf|ytisf]]'
 categories: []
 description: Enrich your notes with information from VirusTotal.
-downloads: 251
+downloads: 264
 mobile: false
 number: 1867
+stars: 4
 title: Virus Total Enrichment
 type: plugin
 updated: '2024-08-29T09:56:14'

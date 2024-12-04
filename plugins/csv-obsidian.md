@@ -5,9 +5,10 @@ author:
 - '[[deathau|death_au]]'
 categories: []
 description: Edit CSV files in Obsidian
-downloads: 18612
+downloads: 18672
 mobile: true
 number: 107
+stars: 115
 title: CSV Editor
 type: plugin
 updated: '2021-02-20T10:11:34'

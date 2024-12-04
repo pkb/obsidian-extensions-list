@@ -1,17 +1,18 @@
 ---
 aliases:
-  - DEVONlink
+- DEVONlink
 author:
-  - "[[ryanjamurphy|ryanjamurphy]]"
+- '[[ryanjamurphy|ryanjamurphy]]'
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Open or reveal the current note in DEVONthink.
-downloads: 8515
+downloads: 8531
 mobile: false
 number: 124
+stars: 92
 title: DEVONlink
 type: plugin
-updated: 2021-06-19T01:07:21
+updated: '2021-06-19T01:07:21'
 url: https://github.com/ryanjamurphy/DEVONlink-obsidian
 version: 2.2.1
 ---

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Statistics|Statistics]]'
 description: This plugin tells you in the status bar for how long you've been staring
   at your obsidian vault. Well - at least how long your vault is open.
-downloads: 5122
+downloads: 5131
 mobile: true
 number: 70
+stars: 5
 title: YouHaveBeenStaring
 type: plugin
 updated: '2021-05-23T15:04:20'

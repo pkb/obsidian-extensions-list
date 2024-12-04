@@ -6,9 +6,10 @@ author:
 categories: []
 description: Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen
   mit Gesetzesanbietern.
-downloads: 52
+downloads: 54
 mobile: true
 number: 1951
+stars: 1
 title: Jura Links
 type: plugin
 updated: '2024-11-07T02:24:11'

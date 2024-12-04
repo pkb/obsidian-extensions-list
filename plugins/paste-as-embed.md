@@ -5,9 +5,10 @@ author:
 - '[[mlprt|Matt Laporte]]'
 categories: []
 description: Paste text into a separate note, and embed the note.
-downloads: 137
+downloads: 140
 mobile: false
 number: 1808
+stars: 3
 title: Paste as Embed
 type: plugin
 updated: '2024-07-23T00:56:21'

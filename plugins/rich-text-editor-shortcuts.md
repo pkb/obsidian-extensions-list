@@ -1,16 +1,18 @@
 ---
 aliases:
-  - Rich Text Editor Shortcuts
+- Rich Text Editor Shortcuts
 author:
-  - "[[joshuawootonn|Joshua Wootonn]]"
+- '[[joshuawootonn|Joshua Wootonn]]'
 categories: []
-description: Create and toggle checkboxes, paste links wrapping your current selection, and toggle underline without leaving the keyboard.
-downloads: 403
+description: Create and toggle checkboxes, paste links wrapping your current selection,
+  and toggle underline without leaving the keyboard.
+downloads: 416
 mobile: true
 number: 1821
+stars: 2
 title: Rich Text Editor Shortcuts
 type: plugin
-updated: 2024-08-27T12:13:48
+updated: '2024-08-27T12:13:48'
 url: https://github.com/joshuawootonn/obsidian-rich-text-editor-shortcuts
 version: 1.0.6
 ---

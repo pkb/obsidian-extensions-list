@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Time tracking
-downloads: 2324
+downloads: 2368
 mobile: true
 number: 1638
+stars: 31
 title: Timekeep
 type: plugin
 updated: '2024-08-08T15:42:41'

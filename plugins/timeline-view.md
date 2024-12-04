@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Timeline View
+- Timeline View
 author:
-  - "[[b-camphart|b-camphart]]"
+- '[[b-camphart|b-camphart]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: Display your obsidian notes in a timeline, based on a given property.
-downloads: 5172
+downloads: 5200
 mobile: false
 number: 1216
+stars: 26
 title: Timeline View
 type: plugin
-updated: 2024-08-28T20:59:18
+updated: '2024-08-28T20:59:18'
 url: https://github.com/b-camphart/timeline-view
 version: 1.3.1
 ---

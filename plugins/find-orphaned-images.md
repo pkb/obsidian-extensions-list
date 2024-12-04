@@ -6,9 +6,10 @@ author:
 categories: []
 description: Finds images in the vault that are not linked to any notes. Either lists,
   or deletes them.
-downloads: 2028
+downloads: 2372
 mobile: true
 number: 1932
+stars: 4
 title: Find Orphaned Images
 type: plugin
 updated: '2024-10-19T23:12:15'

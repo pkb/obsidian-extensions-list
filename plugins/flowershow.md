@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish with Flowershow directly from your Obsidian vault.
-downloads: 4491
+downloads: 4507
 mobile: true
 number: 976
+stars: 55
 title: Flowershow
 type: plugin
 updated: '2023-07-17T21:10:26'

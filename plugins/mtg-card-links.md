@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'Link to Magic: the Gathering cards by enclosing the card name in square
   brackets.'
-downloads: 3303
+downloads: 3314
 mobile: true
 number: 1108
+stars: 7
 title: MTG Card Links
 type: plugin
 updated: '2024-07-08T03:38:54'

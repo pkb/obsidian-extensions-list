@@ -5,9 +5,10 @@ author:
 - '[[stufro|stufro]]'
 categories: []
 description: Add Hill Charts to your notes.
-downloads: 1986
+downloads: 1989
 mobile: true
 number: 1344
+stars: 10
 title: Hill Charts
 type: plugin
 updated: '2024-03-05T00:53:46'

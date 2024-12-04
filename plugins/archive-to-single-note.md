@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allows to create single file archive/trash and merge(archive) old notes
   with it.
-downloads: 2477
+downloads: 2482
 mobile: true
 number: 1231
+stars: 2
 title: Archive/trash to single note
 type: plugin
 updated: '2023-11-14T13:57:13'

@@ -5,9 +5,10 @@ author:
 - '[[Kay607|Kay606]]'
 categories: []
 description: Execute scripts from canvas
-downloads: 937
+downloads: 952
 mobile: false
 number: 1637
+stars: 22
 title: Canvas Blocks
 type: plugin
 updated: '2024-07-15T01:13:58'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Additional hotkeys to do common things in Obsidian
-downloads: 82132
+downloads: 82262
 mobile: true
 number: 2
+stars: 117
 title: Hotkeys++
 type: plugin
 updated: '2021-12-09T04:03:01'

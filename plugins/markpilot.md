@@ -5,9 +5,10 @@ author:
 - '[[taichimaeda|Taichi Maeda]]'
 categories: []
 description: Inline completions and chat view powered by OpenAI
-downloads: 860
+downloads: 866
 mobile: false
 number: 1585
+stars: 10
 title: Markpilot
 type: plugin
 updated: '2024-06-29T21:40:34'

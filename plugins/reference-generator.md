@@ -6,9 +6,10 @@ author:
 categories: []
 description: Turn links into bibliographies in styles like Harvard, MLA, APA, and
   more.
-downloads: 1959
+downloads: 1993
 mobile: true
 number: 1357
+stars: 24
 title: Reference Generator
 type: plugin
 updated: '2024-02-03T08:14:07'

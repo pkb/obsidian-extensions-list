@@ -6,9 +6,10 @@ author:
 categories: []
 description: Improved interaction with the knowledge base in so-called wandering mode
   by opening specific Random Notes.
-downloads: 4773
+downloads: 4853
 mobile: true
 number: 1226
+stars: 13
 title: Improved Random Note
 type: plugin
 updated: '2024-10-30T21:33:48'

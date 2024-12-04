@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin serves usefull commands to setup and manage your knowledge
   using the PARA method.
-downloads: 5579
+downloads: 5591
 mobile: true
 number: 398
+stars: 23
 title: PARA Shortcuts
 type: plugin
 updated: '2024-02-24T16:19:23'

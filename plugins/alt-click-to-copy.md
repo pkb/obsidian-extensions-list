@@ -5,9 +5,10 @@ author:
 - '[[veersheth|Veer Sheth]]'
 categories: []
 description: Alt-click to copy code!
-downloads: 1495
+downloads: 1514
 mobile: true
 number: 1391
+stars: 2
 title: Alt-Click to Copy
 type: plugin
 updated: '2024-02-10T11:16:07'

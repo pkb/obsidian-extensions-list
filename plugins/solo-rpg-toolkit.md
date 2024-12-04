@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Solo RPG Toolkit
+- Solo RPG Toolkit
 author:
-  - "[[alexkurowski|Alex Kurowski]]"
+- '[[alexkurowski|Alex Kurowski]]'
 categories:
-  - "[[categories/Games|Games]]"
+- '[[categories/Games|Games]]'
 description: Random generator tools geared towards solo TTRPG gameplay
-downloads: 6441
+downloads: 6557
 mobile: true
 number: 1662
+stars: 22
 title: Solo RPG Toolkit
 type: plugin
-updated: 2024-08-18T17:01:06
+updated: '2024-08-18T17:01:06'
 url: https://github.com/alexkurowski/solo-toolkit
 version: 0.5.3
 ---

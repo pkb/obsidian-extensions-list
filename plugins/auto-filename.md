@@ -8,9 +8,10 @@ categories:
 - '[[categories/File management|File management]]'
 description: Automatically rename files on the go based on the first x characters
   of files.
-downloads: 3975
+downloads: 4005
 mobile: true
 number: 1217
+stars: 14
 title: Auto Filename
 type: plugin
 updated: '2024-01-28T16:09:26'

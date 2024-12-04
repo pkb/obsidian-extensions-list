@@ -5,9 +5,10 @@ author:
 - '[[vasilcoin002|vasilcoin002]]'
 categories: []
 description: Pin frequently-used notes on Ribbon actions
-downloads: 1263
+downloads: 1301
 mobile: false
 number: 1709
+stars: 21
 title: Pinned Notes
 type: plugin
 updated: '2024-06-16T17:49:15'

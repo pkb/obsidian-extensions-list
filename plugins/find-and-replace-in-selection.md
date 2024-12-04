@@ -6,9 +6,10 @@ author:
 categories: []
 description: Finds what you are looking for in the selected text and replaces it with
   the specified text
-downloads: 15355
+downloads: 15412
 mobile: true
 number: 137
+stars: 33
 title: Find and replace in selection
 type: plugin
 updated: '2021-03-22T21:47:06'

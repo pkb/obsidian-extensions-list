@@ -5,9 +5,10 @@ author:
 - '[[BungaRazvan|Razvan Bunga]]'
 categories: []
 description: Upload files to confluence pages
-downloads: 495
+downloads: 520
 mobile: false
 number: 1834
+stars: 6
 title: Confluence Link
 type: plugin
 updated: '2024-11-11T04:06:57'

@@ -5,9 +5,10 @@ author:
 - '[[Gru80|Martin Eder]]'
 categories: []
 description: Insert customized time/date stamp.
-downloads: 28224
+downloads: 28394
 mobile: true
 number: 390
+stars: 63
 title: TimeStamper
 type: plugin
 updated: '2022-10-23T01:46:35'

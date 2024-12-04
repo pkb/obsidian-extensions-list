@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plugin to modify the default behavior when you double click on the
   tab title, like close tab.
-downloads: 4475
+downloads: 4485
 mobile: true
 number: 691
+stars: 24
 title: Double Click Tab
 type: plugin
 updated: '2022-12-03T07:15:26'

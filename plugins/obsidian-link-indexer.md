@@ -5,9 +5,10 @@ author:
 - '[[aviskase|Yuliya Bagriy]]'
 categories: []
 description: Generate index notes with links based on various conditions
-downloads: 6817
+downloads: 6829
 mobile: true
 number: 33
+stars: 28
 title: Link indexer
 type: plugin
 updated: '2020-12-06T03:22:13'

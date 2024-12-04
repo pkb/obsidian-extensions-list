@@ -5,9 +5,10 @@ author:
 - '[[MrGVSV|Gino Valente]]'
 categories: []
 description: Improved comment toggling.
-downloads: 4168
+downloads: 4195
 mobile: true
 number: 1043
+stars: 8
 title: Better Comment Toggle
 type: plugin
 updated: '2023-12-25T02:14:58'

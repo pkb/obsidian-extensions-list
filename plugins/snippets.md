@@ -5,9 +5,10 @@ author:
 - '[[cristianvasquez|Pelao]]'
 categories: []
 description: Execute simple scripts/snippets from obsidian. This plugin is experimental
-downloads: 5752
+downloads: 5758
 mobile: true
 number: 62
+stars: 49
 title: Snippets plugin
 type: plugin
 updated: '2021-06-22T15:23:50'

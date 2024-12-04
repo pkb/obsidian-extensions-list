@@ -6,9 +6,10 @@ author:
 categories: []
 description: Gladdis (Generative Language Artificial Dedicated & Diligent Intelligence
   System) - it's an AI chatbot.
-downloads: 2960
+downloads: 2985
 mobile: true
 number: 1233
+stars: 36
 title: Gladdis
 type: plugin
 updated: '2024-11-14T01:54:27'

@@ -5,9 +5,10 @@ author:
 - '[[kinabalu|Andrew Lombardi]]'
 categories: []
 description: Word Sprint for Obsidian plugin for your writing projects like Nanowrimo
-downloads: 14286
+downloads: 14344
 mobile: true
 number: 346
+stars: 40
 title: Word Sprint
 type: plugin
 updated: '2024-09-03T09:26:47'

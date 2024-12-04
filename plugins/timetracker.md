@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Adds a stopwatch whose value can be inserted in the editor per hotkey.
-downloads: 4643
+downloads: 4701
 mobile: true
 number: 1174
+stars: 6
 title: Timetracker
 type: plugin
 updated: '2024-11-20T00:26:01'

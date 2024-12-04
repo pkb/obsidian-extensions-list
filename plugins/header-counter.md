@@ -5,9 +5,10 @@ author:
 - '[[nancyel|Nancy Lee]]'
 categories: []
 description: Count the number of headers in the current note
-downloads: 156
+downloads: 160
 mobile: true
 number: 1679
+stars: 0
 title: Header Counter
 type: plugin
 updated: '2024-05-29T07:30:27'

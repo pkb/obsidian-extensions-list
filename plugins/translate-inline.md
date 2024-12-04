@@ -6,9 +6,10 @@ author:
 categories: []
 description: Translations at your fingertips. Get inline Translations when writing
   Notes.
-downloads: 92
+downloads: 100
 mobile: false
 number: 1960
+stars: 1
 title: Translate Inline
 type: plugin
 updated: '2024-03-06T02:59:17'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Review notes using periodic or spaced repetition.
-downloads: 9710
+downloads: 9750
 mobile: true
 number: 633
+stars: 43
 title: Repeat
 type: plugin
 updated: '2024-09-04T02:29:51'

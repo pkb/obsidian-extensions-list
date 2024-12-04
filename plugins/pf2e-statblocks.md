@@ -5,9 +5,10 @@ author:
 - '[[pixley|Tyler Pixley]]'
 categories: []
 description: Renders Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
-downloads: 4239
+downloads: 4352
 mobile: true
 number: 1458
+stars: 10
 title: PF2e Statblocks
 type: plugin
 updated: '2024-08-20T12:52:16'

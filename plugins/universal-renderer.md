@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render many different diagrams natively
-downloads: 499
+downloads: 504
 mobile: false
 number: 1600
+stars: 21
 title: Universal renderer
 type: plugin
 updated: '2024-04-17T00:57:37'

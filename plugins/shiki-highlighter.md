@@ -5,9 +5,10 @@ author:
 - '[[mProjectsCode|Moritz Jung]]'
 categories: []
 description: Highlight code blocks with Shiki.
-downloads: 4071
+downloads: 4160
 mobile: true
 number: 1556
+stars: 55
 title: Shiki Highlighter
 type: plugin
 updated: '2024-09-20T22:33:05'

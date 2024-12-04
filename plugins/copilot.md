@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI Copilot in Obsidian.
-downloads: 271010
+downloads: 278592
 mobile: true
 number: 909
+stars: 3100
 title: Copilot
 type: plugin
-updated: '2024-11-26T02:11:27'
+updated: '2024-12-04T02:52:00'
 url: https://github.com/logancyang/obsidian-copilot
-version: 2.7.4
+version: 2.7.6
 ---
 
 %% README_START %%

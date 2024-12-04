@@ -8,9 +8,10 @@ categories:
 description: Draw.io diagrams for Obsidian. This plugin introduces diagrams that can
   be included within notes or as stand-alone files. Diagrams are created as SVG files
   (although .drawio extensions are also supported).
-downloads: 102447
+downloads: 103255
 mobile: false
 number: 268
+stars: 460
 title: Diagrams
 type: plugin
 updated: '2021-10-21T15:59:35'

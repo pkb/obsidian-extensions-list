@@ -1,17 +1,20 @@
 ---
 aliases:
-  - BMO Chatbot
+- BMO Chatbot
 author:
-  - "[[longy2k|Longy2k]]"
+- '[[longy2k|Longy2k]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI, and more for Obsidian.
-downloads: 24187
+- '[[categories/AI assistance|AI assistance]]'
+description: Generate and brainstorm ideas while creating your notes using Large Language
+  Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI,
+  and more for Obsidian.
+downloads: 24467
 mobile: true
 number: 979
+stars: 382
 title: BMO Chatbot
 type: plugin
-updated: 2024-07-25T06:07:32
+updated: '2024-07-25T06:07:32'
 url: https://github.com/longy2k/obsidian-bmo-chatbot
 version: 2.3.3
 ---

@@ -5,9 +5,10 @@ author:
 - '[[kometenstaub|kometenstaub]]'
 categories: []
 description: Parse Linked data for Linked Data Vocabularies.
-downloads: 3953
+downloads: 3959
 mobile: false
 number: 917
+stars: 17
 title: Linked Data Helper
 type: plugin
 updated: '2023-04-23T17:17:22'

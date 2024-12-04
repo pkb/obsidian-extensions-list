@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds classic hotkey/shortcuts commands from popular IDEs like Visual
   Studio Code or JetBrains Family.
-downloads: 9214
+downloads: 9267
 mobile: true
 number: 728
+stars: 87
 title: Keyshots
 type: plugin
 updated: '2024-10-22T13:57:44'

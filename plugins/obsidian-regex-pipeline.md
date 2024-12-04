@@ -5,9 +5,10 @@ author:
 - '[[No3371|No3371]]'
 categories: []
 description: Allows users setup custom regex rules to automatically format notes.
-downloads: 15849
+downloads: 15920
 mobile: true
 number: 150
+stars: 72
 title: Regex Pipeline
 type: plugin
 updated: '2023-02-13T16:16:50'

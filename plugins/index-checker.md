@@ -6,9 +6,10 @@ author:
 categories: []
 description: Make sure your index "MOC" files (notes or Canvas) contain all links
   they should contain.
-downloads: 4305
+downloads: 4319
 mobile: true
 number: 1049
+stars: 12
 title: Index Checker
 type: plugin
 updated: '2024-10-07T02:37:48'

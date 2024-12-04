@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Colored Text
+- Colored Text
 author:
-  - "[[erincayaz|Erinc Ayaz]]"
+- '[[erincayaz|Erinc Ayaz]]'
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Color the selected texts.
-downloads: 104599
+downloads: 106152
 mobile: true
 number: 920
+stars: 82
 title: Colored Text
 type: plugin
-updated: 2024-08-22T17:57:00
+updated: '2024-08-22T17:57:00'
 url: https://github.com/erincayaz/obsidian-colored-text
 version: 1.2.0
 ---

@@ -5,9 +5,10 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin lets you search relative to your Cursor Position.
-downloads: 4365
+downloads: 4368
 mobile: true
 number: 263
+stars: 10
 title: Relative Find
 type: plugin
 updated: '2021-09-03T13:50:17'

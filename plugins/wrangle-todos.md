@@ -5,9 +5,10 @@ author:
 - '[[jeel-shah|Jeel Shah]]'
 categories: []
 description: Wrangles your TODOs and puts them at the bottom of the file.
-downloads: 3169
+downloads: 3178
 mobile: true
 number: 1191
+stars: 4
 title: TODO Wrangler
 type: plugin
 updated: '2024-02-13T07:29:43'

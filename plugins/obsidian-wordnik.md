@@ -6,9 +6,10 @@ author:
 categories: []
 description: Grabs information from Wordnik for a topic and brings it into Obsidian
   notes
-downloads: 3809
+downloads: 3813
 mobile: true
 number: 485
+stars: 10
 title: Wordnik Definitions
 type: plugin
 updated: '2022-04-17T09:03:18'

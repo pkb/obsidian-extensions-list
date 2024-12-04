@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: obsidian echarts
-downloads: 6468
+downloads: 6487
 mobile: true
 number: 555
+stars: 36
 title: obsidian echarts
 type: plugin
 updated: '2022-06-23T13:21:32'

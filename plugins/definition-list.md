@@ -5,9 +5,10 @@ author:
 - '[[shammond42|shammond42]]'
 categories: []
 description: Adds definition lists to the markdown parser.
-downloads: 691
+downloads: 718
 mobile: true
 number: 1719
+stars: 8
 title: Definition List
 type: plugin
 updated: '2024-10-22T05:55:07'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin allows imdone users to open their imdone board from a document
   in their obsidian vault that contains imdone cards.
-downloads: 4511
+downloads: 4516
 mobile: false
 number: 129
+stars: 12
 title: Imdone Obsidian Plugin
 type: plugin
 updated: '2021-03-21T19:19:42'

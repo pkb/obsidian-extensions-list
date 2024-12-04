@@ -5,9 +5,10 @@ author:
 - '[[quorafind|AidenLx & Boninall]]'
 categories: []
 description: mini context toolbar in editor
-downloads: 4805
+downloads: 4829
 mobile: false
 number: 1044
+stars: 12
 title: Mini Toolbar
 type: plugin
 updated: '2023-08-04T19:16:50'

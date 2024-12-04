@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Source Scanner
+- Source Scanner
 author:
-  - "[[gerrie-myburgh|Gerrie Myburgh]]"
+- '[[gerrie-myburgh|Gerrie Myburgh]]'
 categories:
-  - "[[categories/Code and development|Code and development]]"
+- '[[categories/Code and development|Code and development]]'
 description: Scan java source and test code for comments then place it in md files.
-downloads: 4078
+downloads: 4079
 mobile: true
 number: 1032
+stars: 3
 title: Source Scanner
 type: plugin
-updated: 2024-07-29T09:52:26
+updated: '2024-07-29T09:52:26'
 url: https://github.com/gerrie-myburgh/source-scanner
 version: 1.0.0
 ---

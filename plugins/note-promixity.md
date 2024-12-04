@@ -5,9 +5,10 @@ author:
 - '[[jlweston|Jamie Weston]]'
 categories: []
 description: Find similar notes based on the frequency of terms within the vault.
-downloads: 439
+downloads: 448
 mobile: false
 number: 1729
+stars: 15
 title: Lookalike
 type: plugin
 updated: '2024-06-23T21:17:11'

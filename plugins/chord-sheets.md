@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'Work with chord sheets (chords over lyrics) in your Vault: Chord diagrams,
   transpose, autoscroll and more. Works in live preview and reading mode.'
-downloads: 4843
+downloads: 4958
 mobile: true
 number: 1447
+stars: 54
 title: Chord Sheets
 type: plugin
 updated: '2024-10-07T21:35:14'

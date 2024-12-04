@@ -6,9 +6,10 @@ author:
 categories: []
 description: Highlight yanked text in Vim mode. Enjoy that subtle animation you've
   missed so much.
-downloads: 3642
+downloads: 3667
 mobile: false
 number: 1316
+stars: 10
 title: Vim Yank Highlight
 type: plugin
 updated: '2023-12-23T03:09:46'

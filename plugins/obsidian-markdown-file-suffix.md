@@ -5,9 +5,10 @@ author:
 - '[[git-no|swissmation]]'
 categories: []
 description: Use additional files like .mdx / .svx as if they were markdown.
-downloads: 4031
+downloads: 4039
 mobile: true
 number: 645
+stars: 6
 title: Addional Markdown suffix (.mdx/.svx).
 type: plugin
 updated: '2022-08-15T20:16:25'

@@ -7,9 +7,10 @@ categories: []
 description: Simply switch between JSON and tables. Generate a table from a JSON string
   or a URL (which returns JSON) in your notes. Generate JSON from a table in your
   notes.
-downloads: 4267
+downloads: 4304
 mobile: true
 number: 1227
+stars: 12
 title: JSON table
 type: plugin
 updated: '2024-09-01T15:26:57'

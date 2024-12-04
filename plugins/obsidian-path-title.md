@@ -5,9 +5,10 @@ author:
 - '[[jdeal|jdeal]]'
 categories: []
 description: Adds path (or optional replacement) to the filename title of each pane
-downloads: 8350
+downloads: 8365
 mobile: true
 number: 475
+stars: 23
 title: Path Title
 type: plugin
 updated: '2022-09-21T06:46:14'

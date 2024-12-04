@@ -7,9 +7,10 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Lock and protect your private notes and diary with a password, no encrypt,
   no decrypt.
-downloads: 17688
+downloads: 18009
 mobile: true
 number: 1013
+stars: 42
 title: Password Protection
 type: plugin
 updated: '2024-05-09T17:52:24'

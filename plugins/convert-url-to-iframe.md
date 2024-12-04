@@ -5,9 +5,10 @@ author:
 - '[[FHachez|Hachez Floran]]'
 categories: []
 description: Convert an url (ex, youtube) into an iframe (preview)
-downloads: 76545
+downloads: 76829
 mobile: true
 number: 25
+stars: 203
 title: Convert url to preview (iframe)
 type: plugin
 updated: '2022-05-07T17:36:09'

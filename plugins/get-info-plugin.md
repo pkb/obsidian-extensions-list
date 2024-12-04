@@ -6,9 +6,10 @@ author:
 categories: []
 description: "Get Info is a plugin that tucks a menu inside your status bar and shows
   helpful information for your chosen file \U0001F4C4."
-downloads: 6152
+downloads: 6165
 mobile: false
 number: 374
+stars: 34
 title: Get Info
 type: plugin
 updated: '2021-12-09T13:39:05'

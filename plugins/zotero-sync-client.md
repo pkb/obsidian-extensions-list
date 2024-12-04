@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Zotero API client to sync your Zotero library into your vault
-downloads: 6244
+downloads: 6277
 mobile: false
 number: 1088
+stars: 24
 title: Zotero Sync
 type: plugin
 updated: '2024-02-15T23:12:40'

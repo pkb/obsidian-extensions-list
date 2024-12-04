@@ -6,9 +6,10 @@ author:
 categories: []
 description: A powerful tool for visualizing 3D graphs and managing orphan files,
   offering a dynamic and colorful 3D graph view for enhanced user experience.
-downloads: 5540
+downloads: 5812
 mobile: true
 number: 1806
+stars: 42
 title: Tags Routes
 type: plugin
 updated: '2024-11-26T18:03:03'

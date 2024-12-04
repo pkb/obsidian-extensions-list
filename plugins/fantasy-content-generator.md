@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Fantasy Content Generator
+- Fantasy Content Generator
 author:
-  - "[[Gregory-Jagermeister|Gregory Jagermeister ]]"
+- '[[Gregory-Jagermeister|Gregory Jagermeister ]]'
 categories:
-  - "[[categories/Games|Games]]"
-description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building Needs
-downloads: 24362
+- '[[categories/Games|Games]]'
+description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
+  Needs
+downloads: 24576
 mobile: true
 number: 829
+stars: 39
 title: Fantasy Content Generator
 type: plugin
-updated: 2024-05-27T19:11:47
+updated: '2024-05-27T19:11:47'
 url: https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator
 version: 1.2.3
 ---

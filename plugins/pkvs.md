@@ -6,9 +6,10 @@ author:
 categories: []
 description: Provides a persistent key-value store for use in scripts, along with
   a portable web inspector.
-downloads: 1258
+downloads: 1260
 mobile: true
 number: 1366
+stars: 18
 title: Persistent Key-Value Store
 type: plugin
 updated: '2024-04-03T05:59:04'

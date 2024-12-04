@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A search engine that just works
-downloads: 609227
+downloads: 615739
 mobile: true
 number: 504
+stars: 1300
 title: Omnisearch
 type: plugin
 updated: '2024-11-09T22:50:04'

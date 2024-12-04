@@ -6,9 +6,10 @@ author:
 categories: []
 description: Financial Documentation and Tracking using CSV format and Chart.js directly
   in Obsidian
-downloads: 5273
+downloads: 5289
 mobile: true
 number: 968
+stars: 32
 title: Financial Doc
 type: plugin
 updated: '2024-02-26T01:07:10'

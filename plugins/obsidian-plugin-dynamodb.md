@@ -5,9 +5,10 @@ author:
 - '[[leenattress|Lee Nattress]]'
 categories: []
 description: Query AWS DynamoDb and render tables inside documents.
-downloads: 3384
+downloads: 3388
 mobile: true
 number: 696
+stars: 6
 title: AWS DynamoDb For Obsidian
 type: plugin
 updated: '2022-11-14T01:43:43'

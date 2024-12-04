@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: 'ZettelGPT: Turbocharge Your Note-taking with AI Assistance'
-downloads: 4373
+downloads: 4388
 mobile: true
 number: 1029
+stars: 20
 title: ZettelGPT
 type: plugin
 updated: '2023-04-20T21:37:33'

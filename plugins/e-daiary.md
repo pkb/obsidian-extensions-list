@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Creates directories and notes based on the day of the year.
-downloads: 128
+downloads: 133
 mobile: true
 number: 1753
+stars: 1
 title: e-Daiary
 type: plugin
 updated: '2024-06-08T18:27:24'

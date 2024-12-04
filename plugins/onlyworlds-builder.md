@@ -5,9 +5,10 @@ author:
 - '[[OnlyWorlds|Titus]]'
 categories: []
 description: World building structure with OnlyWorlds integration
-downloads: 154
+downloads: 162
 mobile: false
 number: 1928
+stars: 1
 title: OnlyWorlds Builder
 type: plugin
 updated: '2024-10-09T01:33:20'

@@ -5,9 +5,10 @@ author:
 - '[[dellermann|Daniel Ellermann]]'
 categories: []
 description: Renders console commands and their output.
-downloads: 4525
+downloads: 4538
 mobile: true
 number: 788
+stars: 16
 title: Console Markdown
 type: plugin
 updated: '2024-02-05T16:07:57'

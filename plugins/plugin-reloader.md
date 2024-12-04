@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Plugin Reloader
+- Plugin Reloader
 author:
-  - "[[Benature|Benature]]"
+- '[[Benature|Benature]]'
 categories:
-  - "[[categories/Plugin management|Plugin management]]"
+- '[[categories/Plugin management|Plugin management]]'
 description: Manually reload plugins.
-downloads: 1796
+downloads: 1812
 mobile: true
 number: 1468
+stars: 4
 title: Plugin Reloader
 type: plugin
-updated: 2024-03-31T23:08:34
+updated: '2024-03-31T23:08:34'
 url: https://github.com/Benature/obsidian-plugin-reloader
 version: 0.0.3
 ---

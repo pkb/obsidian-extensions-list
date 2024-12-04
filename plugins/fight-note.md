@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'Render Tekken notation into an easy-to-read format (partially useful
   for other fighting games: Guilty Gear, Street Fighter and etc).'
-downloads: 921
+downloads: 928
 mobile: true
 number: 1531
+stars: 3
 title: Fight Note
 type: plugin
 updated: '2024-04-22T04:53:07'

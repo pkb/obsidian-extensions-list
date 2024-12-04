@@ -6,9 +6,10 @@ author:
 categories: []
 description: Convert most used file formats into another format using FFmpeg and FFprobe
   to optimize your vault space
-downloads: 117
+downloads: 123
 mobile: false
 number: 1936
+stars: 3
 title: FFmpeg Converter
 type: plugin
 updated: '2024-10-19T03:55:03'

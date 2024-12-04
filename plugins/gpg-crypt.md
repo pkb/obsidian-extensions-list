@@ -7,9 +7,10 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced
   security! Keep your information safe and accessible only to you.
-downloads: 3745
+downloads: 3762
 mobile: false
 number: 1187
+stars: 38
 title: gpgCrypt
 type: plugin
 updated: '2023-11-04T20:31:40'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plugin for Obsidian to show front-matter aliases as display names in
   the File Explorer.
-downloads: 4451
+downloads: 4470
 mobile: true
 number: 863
+stars: 29
 title: Frontmatter Alias Display
 type: plugin
 updated: '2023-05-10T20:27:11'

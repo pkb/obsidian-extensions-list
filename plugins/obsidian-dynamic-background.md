@@ -5,9 +5,10 @@ author:
 - '[[samuelsong70|Samuel Song]]'
 categories: []
 description: Adding dynamic effects and/or static wallpapers for Obsidian background
-downloads: 13307
+downloads: 13418
 mobile: true
 number: 636
+stars: 38
 title: Dynamic Background
 type: plugin
 updated: '2023-06-03T07:57:57'

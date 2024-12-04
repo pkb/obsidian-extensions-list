@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Completed Area
+- Completed Area
 author:
-  - "[[DahaWong|Daha]]"
+- '[[DahaWong|Daha]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Move completed to-do items to a seperate completed area.
-downloads: 7675
+downloads: 7682
 mobile: true
 number: 52
+stars: 19
 title: Completed Area
 type: plugin
-updated: 2020-12-10T11:09:50
+updated: '2020-12-10T11:09:50'
 url: https://github.com/DahaWong/obsidian-completed-area
 version: 0.2.0
 ---

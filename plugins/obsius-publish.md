@@ -5,9 +5,10 @@ author:
 - '[[jonstodle|Jon Grythe Stødle]]'
 categories: []
 description: Make single notes instantly available on the web.
-downloads: 13217
+downloads: 13282
 mobile: true
 number: 492
+stars: 149
 title: Obsius Publish
 type: plugin
 updated: '2024-07-11T19:47:59'

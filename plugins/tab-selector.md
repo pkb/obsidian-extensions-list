@@ -5,9 +5,10 @@ author:
 - '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Quickly switch tabs in various ways.
-downloads: 3613
+downloads: 3631
 mobile: true
 number: 1522
+stars: 14
 title: Tab Selector
 type: plugin
 updated: '2024-10-15T09:40:36'

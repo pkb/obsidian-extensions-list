@@ -5,9 +5,10 @@ author:
 - '[[huseyz|Hüseyin Zengin]]'
 categories: []
 description: Sync your Wallabag articles.
-downloads: 4079
+downloads: 4121
 mobile: true
 number: 1086
+stars: 69
 title: Wallabag
 type: plugin
 updated: '2024-07-27T16:03:29'

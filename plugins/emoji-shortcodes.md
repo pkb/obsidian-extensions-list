@@ -5,9 +5,10 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: 'This Plugin enables the use of Markdown Emoji Shortcodes :smile:'
-downloads: 94142
+downloads: 94605
 mobile: true
 number: 254
+stars: 186
 title: Emoji Shortcodes
 type: plugin
 updated: '2022-12-11T16:59:06'

@@ -5,9 +5,10 @@ author:
 - '[[pvojtechovsky|Pavel Vojtěchovský]]'
 categories: []
 description: Creates links and aliases in front matter of target document
-downloads: 6535
+downloads: 6573
 mobile: true
 number: 957
+stars: 36
 title: Link with alias
 type: plugin
 updated: '2023-12-16T18:28:42'

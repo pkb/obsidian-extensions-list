@@ -5,9 +5,10 @@ author:
 - '[[samprintz|samprintz]]'
 categories: []
 description: Augments GitHub issue IDs
-downloads: 3545
+downloads: 3549
 mobile: true
 number: 910
+stars: 11
 title: GitHub Issue Augmentation
 type: plugin
 updated: '2023-10-14T23:11:21'

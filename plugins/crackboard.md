@@ -5,9 +5,10 @@ author:
 - '[[bruce-pain|Franklin]]'
 categories: []
 description: tpot leaderboard productivity tracker
-downloads: 46
+downloads: 48
 mobile: true
 number: 1937
+stars: 2
 title: Crackboard
 type: plugin
 updated: '2024-09-26T22:40:20'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your Obsidian notes in one click
-downloads: 2847
+downloads: 2849
 mobile: true
 number: 1131
+stars: 5
 title: Pickly PageBlend
 type: plugin
 updated: '2023-08-28T06:15:54'

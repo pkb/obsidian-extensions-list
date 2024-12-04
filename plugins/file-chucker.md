@@ -5,9 +5,10 @@ author:
 - '[[kenlim|Ken Lim]]'
 categories: []
 description: Quickly move a file to a new or existing folder, then open the next file.
-downloads: 4209
+downloads: 4215
 mobile: true
 number: 744
+stars: 13
 title: File Chucker
 type: plugin
 updated: '2023-01-03T04:25:43'

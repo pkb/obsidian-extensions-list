@@ -5,9 +5,10 @@ author:
 - '[[rooyca|rooyca]]'
 categories: []
 description: Read, query and work with JSON.
-downloads: 728
+downloads: 746
 mobile: true
 number: 1656
+stars: 10
 title: Query JSON
 type: plugin
 updated: '2024-07-23T13:58:01'

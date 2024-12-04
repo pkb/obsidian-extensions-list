@@ -6,9 +6,10 @@ author:
 categories: []
 description: Automatically apply CSS classes to the markdown view based on a note's
   path and tags.
-downloads: 3756
+downloads: 3772
 mobile: true
 number: 352
+stars: 54
 title: Auto Class
 type: plugin
 updated: '2023-02-01T23:04:12'

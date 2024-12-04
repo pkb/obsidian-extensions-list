@@ -6,9 +6,10 @@ author:
 categories: []
 description: Transforms code blocks with Standard Form logical syntax into clean,
   styled renderings. Perfect for philosophy, logic, and argument reconstructions.
-downloads: 24
+downloads: 33
 mobile: true
 number: 2017
+stars: 2
 title: StandardForm
 type: plugin
 updated: '2024-11-08T12:16:14'

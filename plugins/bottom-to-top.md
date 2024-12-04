@@ -5,9 +5,10 @@ author:
 - '[[lizard-heart|Henry Gustafson]]'
 categories: []
 description: Reverses direction of text.
-downloads: 24
+downloads: 34
 mobile: true
 number: 2004
+stars: 0
 title: Bottom to Top
 type: plugin
 updated: '2024-11-17T07:48:10'

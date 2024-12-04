@@ -5,9 +5,10 @@ author:
 - '[[nhannht|Nhan Nguyen]]'
 categories: []
 description: Intelligently generates timeline from your content ... like a bro!
-downloads: 3351
+downloads: 3399
 mobile: false
 number: 1484
+stars: 35
 title: historica
 type: plugin
 updated: '2024-11-21T10:21:51'

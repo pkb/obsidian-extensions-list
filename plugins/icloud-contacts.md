@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Imports contacts from iCloud and manages a note for each contact.
-downloads: 2321
+downloads: 2331
 mobile: true
 number: 1394
+stars: 17
 title: iCloud Contacts
 type: plugin
 updated: '2024-08-30T20:28:23'

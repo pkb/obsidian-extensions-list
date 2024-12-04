@@ -5,9 +5,10 @@ author:
 - '[[Tiim|Tiim]]'
 categories: []
 description: This plugin helps you track attendance.
-downloads: 3841
+downloads: 3847
 mobile: true
 number: 569
+stars: 12
 title: Obsidian Attendance
 type: plugin
 updated: '2022-06-28T02:55:56'

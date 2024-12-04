@@ -6,9 +6,10 @@ author:
 categories: []
 description: Replaces your new tab window with a browseable list of the files and
   folders in your vault.
-downloads: 5879
+downloads: 5958
 mobile: true
 number: 1527
+stars: 51
 title: Project Browser
 type: plugin
 updated: '2024-10-15T19:00:02'

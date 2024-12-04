@@ -6,9 +6,10 @@ author:
 categories: '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Yet another unofficial plugin allowing users to synchronize notes between
   local device and the cloud service.
-downloads: 912290
+downloads: 923548
 mobile: true
 number: 362
+stars: 4400
 title: Remotely Save
 type: plugin
 updated: '2024-10-20T15:14:34'

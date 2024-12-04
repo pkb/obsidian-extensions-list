@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format MarkDown content using Autocorrect.
-downloads: 3632
+downloads: 3673
 mobile: true
 number: 1315
+stars: 8
 title: Autocorrect Formatter
 type: plugin
 updated: '2024-01-09T13:06:15'

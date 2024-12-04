@@ -5,9 +5,10 @@ author:
 - '[[mii-key|MiiKey]]'
 categories: []
 description: Manipulate links
-downloads: 42580
+downloads: 42792
 mobile: true
 number: 907
+stars: 107
 title: Links
 type: plugin
 updated: '2024-11-13T18:48:24'

@@ -5,9 +5,10 @@ author:
 - '[[felipe-ds-lima|Felipe D.S. Lima]]'
 categories: []
 description: Easily copy image from Obsidian to clipboard by right clicking image.
-downloads: 4880
+downloads: 4971
 mobile: true
 number: 1353
+stars: 5
 title: Copy Image
 type: plugin
 updated: '2024-09-30T02:04:27'

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 description: This plugin converts Hunchly's notes and captioned images into obsidian
   notes. Also adds selectors from hunchly as obsidian tags.
-downloads: 2031
+downloads: 2038
 mobile: false
 number: 1289
+stars: 0
 title: Hunchly
 type: plugin
 updated: '2023-12-16T00:34:56'

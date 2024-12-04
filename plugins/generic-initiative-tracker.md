@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Generic Initiative Tracker
+- Generic Initiative Tracker
 author:
-  - "[[beaushinkle|Beau Shinkle]]"
+- '[[beaushinkle|Beau Shinkle]]'
 categories:
-  - "[[categories/Games|Games]]"
+- '[[categories/Games|Games]]'
 description: TTRPG Generic Initiative Tracker for Obsidian.md
-downloads: 6391
+downloads: 6409
 mobile: true
 number: 368
+stars: 13
 title: Generic Initiative Tracker
 type: plugin
-updated: 2022-01-29T07:29:27
+updated: '2022-01-29T07:29:27'
 url: https://github.com/beaushinkle/obsidian-generic-initiative-tracker
 version: 1.3.0
 ---

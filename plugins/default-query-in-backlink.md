@@ -5,9 +5,10 @@ author:
 - '[[Benature|Benature]]'
 categories: []
 description: Automatically input default query in search input of backlinks in document.
-downloads: 1582
+downloads: 1588
 mobile: true
 number: 1523
+stars: 6
 title: Default query in backlinks
 type: plugin
 updated: '2024-03-31T12:04:30'

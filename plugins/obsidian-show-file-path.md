@@ -5,9 +5,10 @@ author:
 - '[[ravimashru|Ravi Mashru]]'
 categories: []
 description: Show the full path of the currently open file in the status bar
-downloads: 30522
+downloads: 30591
 mobile: true
 number: 94
+stars: 51
 title: Show Current File Path
 type: plugin
 updated: '2021-10-13T14:28:40'

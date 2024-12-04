@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Hide UI elements such as tooltips, status, titlebar and more
-downloads: 253736
+downloads: 255375
 mobile: true
 number: 21
+stars: 394
 title: Hider
 type: plugin
 updated: '2024-08-26T03:34:12'

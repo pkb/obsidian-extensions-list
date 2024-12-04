@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin warns that a note is public (based on a frontmatter attribute)
   by colorizing the note red.
-downloads: 6323
+downloads: 6330
 mobile: true
 number: 148
+stars: 6
 title: Highlight Public Notes
 type: plugin
 updated: '2022-07-30T21:02:05'

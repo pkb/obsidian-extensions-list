@@ -5,9 +5,10 @@ author:
 - '[[TravisLinkey|Travis Linkey]]'
 categories: []
 description: Help knowledge retention by reviewing and filtering notes.
-downloads: 182
+downloads: 184
 mobile: true
 number: 1856
+stars: 0
 title: Note Reviewer
 type: plugin
 updated: '2024-08-26T03:39:45'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Autogen
+- Autogen
 author:
-  - "[[AidanTilgner|Aidan Tilgner]]"
+- '[[AidanTilgner|Aidan Tilgner]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: In place autogeneration of content based on prompts.
-downloads: 1220
+downloads: 1224
 mobile: false
 number: 1425
+stars: 9
 title: Autogen
 type: plugin
-updated: 2024-02-20T05:41:46
+updated: '2024-02-20T05:41:46'
 url: https://github.com/AidanTilgner/AutogenObsidianPlugin
 version: 1.1.0
 ---

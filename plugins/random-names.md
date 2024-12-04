@@ -5,9 +5,10 @@ author:
 - '[[palfrey|Tom Parker-Shemilt]]'
 categories: []
 description: Generates random names
-downloads: 568
+downloads: 574
 mobile: true
 number: 1612
+stars: 0
 title: Random names
 type: plugin
 updated: '2024-04-22T03:54:10'

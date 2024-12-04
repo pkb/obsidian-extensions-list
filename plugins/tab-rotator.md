@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin rotates opened files to the left or right with a specified
   interval
-downloads: 3317
+downloads: 3321
 mobile: true
 number: 872
+stars: 5
 title: Tab Rotator
 type: plugin
 updated: '2023-04-08T10:38:54'

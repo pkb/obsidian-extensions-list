@@ -5,9 +5,10 @@ author:
 - '[[kzhovn|kzhovn]]'
 categories: []
 description: Augments native Obsidian note copying.
-downloads: 6253
+downloads: 6278
 mobile: true
 number: 292
+stars: 11
 title: Enhance Copy Note
 type: plugin
 updated: '2021-09-24T22:56:38'

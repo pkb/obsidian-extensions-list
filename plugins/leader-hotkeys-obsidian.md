@@ -5,9 +5,10 @@ author:
 - '[[authors/tgrosinger|tgrosinger]]'
 categories: []
 description: Add leader hotkey support to any command (like tmux or vim)
-downloads: 11410
+downloads: 11440
 mobile: true
 number: 6
+stars: 80
 title: Leader Hotkeys
 type: plugin
 updated: '2023-01-24T08:12:48'

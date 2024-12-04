@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to the web for others to enjoy. For free.
-downloads: 40957
+downloads: 41210
 mobile: true
 number: 436
+stars: 1400
 title: Digital Garden
 type: plugin
 updated: '2024-06-13T19:23:23'

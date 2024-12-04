@@ -5,9 +5,10 @@ author:
 - '[[patrickchiang|patrickchiang]]'
 categories: []
 description: Show headings in the file explorer.
-downloads: 489
+downloads: 501
 mobile: false
 number: 1705
+stars: 7
 title: Headings in Explorer
 type: plugin
 updated: '2024-06-26T09:12:51'

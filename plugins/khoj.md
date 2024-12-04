@@ -5,14 +5,15 @@ author:
 - '[[khoj-ai|Khoj Inc.]]'
 categories: []
 description: Your Second Brain
-downloads: 30016
+downloads: 30440
 mobile: true
 number: 771
+stars: 16700
 title: Khoj
 type: plugin
-updated: '2024-11-24T13:01:21'
+updated: '2024-11-29T09:44:30'
 url: https://github.com/khoj-ai/khoj
-version: 1.30.7
+version: 1.30.10
 ---
 
 %% README_START %%

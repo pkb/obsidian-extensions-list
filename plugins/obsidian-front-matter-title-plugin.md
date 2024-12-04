@@ -6,9 +6,10 @@ author:
 categories: []
 description: Lets you define a title in frontmatter to be displayed as the filename
   for explorer, graph, search and etc.
-downloads: 32822
+downloads: 33047
 mobile: true
 number: 521
+stars: 252
 title: Front Matter Title
 type: plugin
 updated: '2024-10-27T17:24:23'

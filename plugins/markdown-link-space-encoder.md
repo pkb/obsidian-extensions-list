@@ -6,9 +6,10 @@ author:
 categories: []
 description: Simple plugin to automatically encode spaces to %20 in Markdown-style
   links
-downloads: 3485
+downloads: 3489
 mobile: true
 number: 978
+stars: 2
 title: Markdown Link Space Encoder
 type: plugin
 updated: '2023-07-21T17:44:06'

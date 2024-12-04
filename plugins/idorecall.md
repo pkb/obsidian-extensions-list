@@ -5,9 +5,10 @@ author:
 - '[[iDoRecall|dbhandel]]'
 categories: []
 description: iDoRecall plugin allows you to create recalls from Obsidian notes
-downloads: 2532
+downloads: 2540
 mobile: false
 number: 1196
+stars: 5
 title: iDoRecall
 type: plugin
 updated: '2023-10-27T14:27:26'

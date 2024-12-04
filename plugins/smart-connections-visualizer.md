@@ -5,9 +5,10 @@ author:
 - '[[mossy1022|Evan Moscoso]]'
 categories: []
 description: View your Smart Connections in a visualized format.
-downloads: 8061
+downloads: 8301
 mobile: false
 number: 1707
+stars: 64
 title: Smart Connections Visualizer
 type: plugin
 updated: '2024-10-23T23:11:55'

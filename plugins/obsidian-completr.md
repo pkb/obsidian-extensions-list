@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin provides advanced auto-completion functionality for LaTeX,
   Frontmatter and standard writing.
-downloads: 58372
+downloads: 58725
 mobile: false
 number: 392
+stars: 312
 title: Completr
 type: plugin
 updated: '2023-05-30T22:34:58'

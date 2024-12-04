@@ -5,9 +5,10 @@ author:
 - '[[Floydv149|Floydv149]]'
 categories: []
 description: Convert Bible texts to JW Library links.
-downloads: 1587
+downloads: 1606
 mobile: true
 number: 1411
+stars: 9
 title: Bible linker Pro
 type: plugin
 updated: '2024-04-27T12:49:14'

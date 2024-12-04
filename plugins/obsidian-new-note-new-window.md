@@ -5,9 +5,10 @@ author:
 - '[[Pr0dt0s|Pr0dt0s]]'
 categories: []
 description: Plugin for easily opening new notes in a floating window.
-downloads: 4355
+downloads: 4363
 mobile: true
 number: 657
+stars: 9
 title: New Note New Window
 type: plugin
 updated: '2023-04-18T04:21:40'

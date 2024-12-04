@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'Interactive 3D graph view: text analysis, topic modeling, gap detection,
   and AI.'
-downloads: 1199
+downloads: 1354
 mobile: true
 number: 1941
+stars: 31
 title: InfraNodus AI Graph View
 type: plugin
 updated: '2024-10-07T18:49:54'

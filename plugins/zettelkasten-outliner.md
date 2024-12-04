@@ -5,9 +5,10 @@ author:
 - '[[tylersuzukinelson|Tyler Suzuki Nelson]]'
 categories: []
 description: Provides a list representation for your Zettelkasten.
-downloads: 3022
+downloads: 3032
 mobile: true
 number: 1256
+stars: 3
 title: Zettelkasten Outliner
 type: plugin
 updated: '2023-12-08T00:39:52'

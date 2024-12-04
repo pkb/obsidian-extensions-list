@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: A plugin tracks occurrences and numbers in your notes
-downloads: 184430
+downloads: 185384
 mobile: true
 number: 140
+stars: 1400
 title: Tracker
 type: plugin
 updated: '2024-04-29T10:47:23'

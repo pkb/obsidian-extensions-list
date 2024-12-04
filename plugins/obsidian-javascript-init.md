@@ -5,9 +5,10 @@ author:
 - '[[ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Run JavaScript when Obsidian loads, or any other time.
-downloads: 5406
+downloads: 5415
 mobile: true
 number: 314
+stars: 23
 title: JavaScript Init
 type: plugin
 updated: '2021-10-17T02:44:37'

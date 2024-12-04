@@ -5,9 +5,10 @@ author:
 - '[[noatpad|Danny Hernandez]]'
 categories: []
 description: A simple plugin to display the time and date on the status bar
-downloads: 7986
+downloads: 8011
 mobile: true
 number: 201
+stars: 18
 title: Grandfather
 type: plugin
 updated: '2021-06-09T08:26:07'

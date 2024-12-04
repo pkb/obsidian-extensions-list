@@ -9,9 +9,10 @@ description: 'Attachment folder name binding note name, automatically rename, au
   delete, show/hide.
 
   附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。'
-downloads: 7631
+downloads: 7692
 mobile: false
 number: 1094
+stars: 41
 title: Attachment Manager
 type: plugin
 updated: '2023-10-18T19:54:38'

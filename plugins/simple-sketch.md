@@ -7,9 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Create minimalist sketches in a dedicated view, draw with a pencil, generate
   shapes, add text, save it to the vault or download it as an image.
-downloads: 748
+downloads: 866
 mobile: false
 number: 1879
+stars: 7
 title: simple-sketch
 type: plugin
 updated: '2024-11-26T21:49:58'

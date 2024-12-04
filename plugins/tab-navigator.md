@@ -5,9 +5,10 @@ author:
 - '[[o02c|o02c]]'
 categories: []
 description: Simple Tab Switcher, search open tabs.
-downloads: 3009
+downloads: 3047
 mobile: false
 number: 1626
+stars: 5
 title: Tab Navigator
 type: plugin
 updated: '2024-09-15T14:13:41'

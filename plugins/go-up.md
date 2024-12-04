@@ -5,9 +5,10 @@ author:
 - '[[JinMuGo|JinMu Go]]'
 categories: []
 description: Go to the pages that says 'up' property
-downloads: 1144
+downloads: 1147
 mobile: false
 number: 1438
+stars: 4
 title: Go Up
 type: plugin
 updated: '2024-06-10T13:42:46'

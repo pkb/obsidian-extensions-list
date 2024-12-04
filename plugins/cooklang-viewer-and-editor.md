@@ -5,9 +5,10 @@ author:
 - '[[rveciana|Roger Veciana i Rovira]]'
 categories: []
 description: Display and edit recipes written in the Cooklang format.
-downloads: 1738
+downloads: 1748
 mobile: true
 number: 1494
+stars: 8
 title: Cooklang
 type: plugin
 updated: '2024-09-28T14:40:41'

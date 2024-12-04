@@ -5,9 +5,10 @@ author:
 - '[[meniam|Eugene Myazin]]'
 categories: []
 description: An easy way to display vocabulary words as flashcards and as a list.
-downloads: 4575
+downloads: 4603
 mobile: true
 number: 1172
+stars: 10
 title: Vocabulary Cards
 type: plugin
 updated: '2023-09-30T03:13:19'

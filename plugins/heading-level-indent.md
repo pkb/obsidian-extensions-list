@@ -5,9 +5,10 @@ author:
 - '[[svonjoi|svonjoi]]'
 categories: []
 description: Indenting content under headers based on their level
-downloads: 11723
+downloads: 11944
 mobile: true
 number: 804
+stars: 53
 title: Heading Level Indent
 type: plugin
 updated: '2024-05-30T05:25:41'

@@ -7,14 +7,15 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: Convert, compress and resize images from one format to another by dragging
   and dropping or pasting into the note. HEIC, TIF, JPG, WEBP, PNG.
-downloads: 73147
+downloads: 77925
 mobile: true
 number: 1091
+stars: 192
 title: Image Converter
 type: plugin
-updated: '2024-11-27T03:41:32'
+updated: '2024-12-04T05:36:43'
 url: https://github.com/xryul/obsidian-image-converter
-version: 1.2.10
+version: 1.2.13
 ---
 
 %% README_START %%

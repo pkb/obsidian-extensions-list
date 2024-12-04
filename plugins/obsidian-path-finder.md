@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plugin that can find the shortest path between two notes. Not sure
   who will want to use it...
-downloads: 7676
+downloads: 7698
 mobile: true
 number: 571
+stars: 53
 title: Path Finder
 type: plugin
 updated: '2023-04-11T17:34:26'

@@ -5,9 +5,10 @@ author:
 - '[[lucasvanmol|Lucas Van Mol]]'
 categories: []
 description: Generate LaTeX equations from images in your vault or clipboard.
-downloads: 6077
+downloads: 6177
 mobile: false
 number: 1347
+stars: 86
 title: Latex OCR
 type: plugin
 updated: '2024-10-20T00:17:32'

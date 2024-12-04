@@ -5,9 +5,10 @@ author:
 - '[[mrniket|Niket Shah]]'
 categories: []
 description: Render Bhatkhande notation for Tabla.
-downloads: 2750
+downloads: 2753
 mobile: true
 number: 1165
+stars: 3
 title: Palta Note
 type: plugin
 updated: '2024-05-09T23:54:05'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Task Status
+- Task Status
 author:
-  - "[[vburzynski|Valerie Burzynski]]"
+- '[[vburzynski|Valerie Burzynski]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Quickly select and apply custom task status markers
-downloads: 4439
+downloads: 4480
 mobile: true
 number: 1349
+stars: 21
 title: Task Status
 type: plugin
-updated: 2024-10-29T09:02:10
+updated: '2024-10-29T09:02:10'
 url: https://github.com/vburzynski/obsidian-task-status
 version: 1.2.1
 ---

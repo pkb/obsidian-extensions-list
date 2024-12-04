@@ -5,9 +5,10 @@ author:
 - '[[luxmargos|luxmargos]]'
 categories: []
 description: You can make the background of cards transparent in the Canvas
-downloads: 3354
+downloads: 3393
 mobile: true
 number: 1346
+stars: 6
 title: Canvas Card Background Remover
 type: plugin
 updated: '2024-01-03T15:02:27'

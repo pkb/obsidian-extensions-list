@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize your notes from Voicenotes.com
-downloads: 4121
+downloads: 4334
 mobile: true
 number: 1657
+stars: 47
 title: Voicenotes Sync
 type: plugin
 updated: '2024-11-27T05:36:05'
 url: https://github.com/mysticcoders/voicenotes-sync
-version: 0.0.30-beta3
+version: 0.0.28
 ---
 
 %% README_START %%

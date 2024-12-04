@@ -5,9 +5,10 @@ author:
 - '[[MarcosNicolau|Marcos Nicolau]]'
 categories: []
 description: Render graphs using Wolfram Mathematica code!
-downloads: 1819
+downloads: 1833
 mobile: false
 number: 1401
+stars: 17
 title: Mathematica Plot
 type: plugin
 updated: '2023-12-18T01:35:13'

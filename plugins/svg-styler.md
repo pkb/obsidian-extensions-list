@@ -5,9 +5,10 @@ author:
 - '[[arg1998|ARGOSTA]]'
 categories: []
 description: Change the color and other style properies of an embded SVG file
-downloads: 67
+downloads: 78
 mobile: false
 number: 1990
+stars: 3
 title: SVG Style Editor
 type: plugin
 updated: '2024-11-09T03:17:22'

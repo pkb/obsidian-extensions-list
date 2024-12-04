@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin creates summaries with paragraphs or blocks of text that
   share the same tag(s).
-downloads: 11212
+downloads: 11276
 mobile: true
 number: 638
+stars: 59
 title: Tag Summary
 type: plugin
 updated: '2023-03-05T02:17:41'

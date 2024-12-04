@@ -5,9 +5,10 @@ author:
 - '[[patsh90|patsh90]]'
 categories: []
 description: Add mpv links with timestamps
-downloads: 104
+downloads: 106
 mobile: false
 number: 1780
+stars: 3
 title: mpv links
 type: plugin
 updated: '2024-06-14T00:58:28'

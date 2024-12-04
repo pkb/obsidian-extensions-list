@@ -5,9 +5,10 @@ author:
 - '[[Clemens-E|Clemens Ertle]]'
 categories: []
 description: Inofficial LanguageTool plugin
-downloads: 208379
+downloads: 209348
 mobile: true
 number: 133
+stars: 471
 title: LanguageTool Integration
 type: plugin
 updated: '2024-02-18T21:59:38'

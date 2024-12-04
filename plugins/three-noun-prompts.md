@@ -5,9 +5,10 @@ author:
 - '[[jamespeachh|Jamespeachh]]'
 categories: []
 description: Use TOPT algorithm to get daily writing prompts!
-downloads: 42
+downloads: 46
 mobile: false
 number: 2002
+stars: 0
 title: Three Noun Prompts
 type: plugin
 updated: '2024-11-20T10:34:21'

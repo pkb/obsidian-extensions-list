@@ -5,9 +5,10 @@ author:
 - '[[ludovicchabant|Ludovic Chabant]]'
 categories: []
 description: Remembers cursor position, selection, scrolling, and more for each file
-downloads: 10803
+downloads: 10848
 mobile: true
 number: 433
+stars: 47
 title: Remember File State
 type: plugin
 updated: '2023-11-22T07:25:34'

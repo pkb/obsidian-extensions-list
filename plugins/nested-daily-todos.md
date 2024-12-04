@@ -6,9 +6,10 @@ author:
 categories: []
 description: Carry over incomplete todos from Daily Notes grouped by headers, with
   support for nesting and flexible todo states.
-downloads: 2647
+downloads: 2670
 mobile: true
 number: 1385
+stars: 5
 title: Nested Daily Todos
 type: plugin
 updated: '2024-07-30T21:37:08'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Todos sort
+- Todos sort
 author:
-  - "[[jsifalda|Jiri Sifalda (originally by Ryan Gomba)]]"
+- '[[jsifalda|Jiri Sifalda (originally by Ryan Gomba)]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Sorting your TODOs (checkboxes) in current note by completion status.
-downloads: 110
+downloads: 129
 mobile: true
 number: 1994
+stars: 3
 title: Todos sort
 type: plugin
-updated: 2024-11-06T03:01:37
+updated: '2024-11-06T03:01:37'
 url: https://github.com/jsifalda/obsidian-todos-sort
 version: 2.0.2
 ---

@@ -5,9 +5,10 @@ author:
 - '[[val3344|val]]'
 categories: []
 description: Update relative links.
-downloads: 5717
+downloads: 5734
 mobile: true
 number: 631
+stars: 27
 title: Update Relative Links
 type: plugin
 updated: '2024-09-08T16:41:55'

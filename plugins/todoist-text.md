@@ -7,9 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: This obsidian plugin integrates your Todoist tasks with markdown checkboxes.
-downloads: 12802
+downloads: 12860
 mobile: true
 number: 430
+stars: 57
 title: Todoist Text
 type: plugin
 updated: '2023-01-12T10:27:15'

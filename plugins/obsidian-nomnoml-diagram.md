@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw nomnoml diagrams in Obsidian notes
-downloads: 8995
+downloads: 9025
 mobile: true
 number: 308
+stars: 56
 title: Nomnoml Diagram
 type: plugin
 updated: '2023-09-26T21:47:37'

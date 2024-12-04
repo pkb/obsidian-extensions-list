@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Google Photos integration for Obsidian
-downloads: 12424
+downloads: 12487
 mobile: true
 number: 732
+stars: 96
 title: Google Photos
 type: plugin
 updated: '2024-08-02T13:19:39'

@@ -5,9 +5,10 @@ author:
 - '[[magooup|magooup]]'
 categories: []
 description: Automatically extract tag and alias from the title.
-downloads: 4700
+downloads: 4797
 mobile: true
 number: 1322
+stars: 7
 title: Smart Title
 type: plugin
 updated: '2023-12-18T11:47:20'

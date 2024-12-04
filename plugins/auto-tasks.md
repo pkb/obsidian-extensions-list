@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Auto Tasks
+- Auto Tasks
 author:
-  - "[[jamiefdhurst|Jamie Hurst]]"
+- '[[jamiefdhurst|Jamie Hurst]]'
 categories:
-  - "[[categories/Task management|Task management]]"
-description: Combine periodic notes with tags and tasks to automatically manage your daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins.
-downloads: 80
+- '[[categories/Task management|Task management]]'
+description: Combine periodic notes with tags and tasks to automatically manage your
+  daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins.
+downloads: 133
 mobile: true
 number: 2009
+stars: 2
 title: Auto Tasks
 type: plugin
-updated: 2024-11-15T22:28:36
+updated: '2024-11-15T22:28:36'
 url: https://github.com/jamiefdhurst/obsidian-auto-tasks
 version: 0.0.4
 ---

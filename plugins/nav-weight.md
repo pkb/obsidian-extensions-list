@@ -5,9 +5,10 @@ author:
 - '[[shu307|shu307]]'
 categories: []
 description: Sort your navigation items by Markdown frontmatter.
-downloads: 73
+downloads: 92
 mobile: false
 number: 1981
+stars: 2
 title: Nav Weight
 type: plugin
 updated: '2024-11-19T11:53:36'

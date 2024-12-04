@@ -5,9 +5,10 @@ author:
 - '[[waynevanson|Wayne Van Son]]'
 categories: []
 description: Create forms that save data simply; the data view of data entry
-downloads: 3933
+downloads: 3939
 mobile: true
 number: 1092
+stars: 26
 title: Data Entry
 type: plugin
 updated: '2023-08-30T18:31:34'

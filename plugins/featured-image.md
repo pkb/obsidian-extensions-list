@@ -7,9 +7,10 @@ categories: []
 description: Automatically sets a featured image property in your notes based on the
   first image, YouTube link, or Auto Card Link image found in your document. This
   allows you to create rich note galleries using Folder Notes and Dataview.
-downloads: 608
+downloads: 834
 mobile: true
 number: 1996
+stars: 18
 title: Featured Image
 type: plugin
 updated: '2024-11-25T19:58:25'

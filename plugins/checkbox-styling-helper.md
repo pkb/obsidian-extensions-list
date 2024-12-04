@@ -5,9 +5,10 @@ author:
 - '[[jaewonE|JaewonE]]'
 categories: []
 description: Helps you styling checkboxes in preview mode.
-downloads: 1112
+downloads: 1127
 mobile: true
 number: 1759
+stars: 9
 title: Checkbox styling helper
 type: plugin
 updated: '2024-10-05T19:59:34'

@@ -5,9 +5,10 @@ author:
 - '[[HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Rule based keep track of your incomplete files
-downloads: 2403
+downloads: 2411
 mobile: true
 number: 1294
+stars: 4
 title: Incomplete files
 type: plugin
 updated: '2023-12-21T12:01:05'

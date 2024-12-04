@@ -6,9 +6,10 @@ author:
 categories: []
 description: Type multiple letters at the same time to trigger text insertion, template
   insertion, or command execution.
-downloads: 4333
+downloads: 4341
 mobile: false
 number: 670
+stars: 28
 title: Chorded Hotkeys
 type: plugin
 updated: '2023-10-30T07:53:02'

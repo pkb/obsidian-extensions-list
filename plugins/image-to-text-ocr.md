@@ -5,9 +5,10 @@ author:
 - '[[dario-baumberger|Dario Baumberger]]'
 categories: []
 description: Convert a image in your note to text.
-downloads: 2258
+downloads: 2297
 mobile: true
 number: 1463
+stars: 9
 title: Image to text OCR
 type: plugin
 updated: '2024-09-01T19:33:23'

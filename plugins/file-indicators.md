@@ -5,9 +5,10 @@ author:
 - '[[JakobMick|Jakob]]'
 categories: []
 description: Add custom indicators to the file explorer.
-downloads: 3010
+downloads: 3032
 mobile: true
 number: 1280
+stars: 7
 title: File indicators
 type: plugin
 updated: '2024-01-18T04:03:43'

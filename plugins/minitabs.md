@@ -5,9 +5,10 @@ author:
 - '[[ssjy1919|ssjy1919]]'
 categories: []
 description: Customize a set of nested tabs through code blocks.
-downloads: 2493
+downloads: 2502
 mobile: true
 number: 1308
+stars: 20
 title: Minitabs
 type: plugin
 updated: '2023-12-06T18:23:33'

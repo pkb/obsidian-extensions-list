@@ -6,9 +6,10 @@ author:
 categories: []
 description: Official Tressel plugin to sync/export various content from the Internet
   to Obsidian
-downloads: 5347
+downloads: 5352
 mobile: false
 number: 370
+stars: 21
 title: Tressel Sync for Obsidian
 type: plugin
 updated: '2023-07-04T21:03:58'

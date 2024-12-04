@@ -1,16 +1,17 @@
 ---
 aliases:
-- Advanced Slides
+  - Advanced Slides
 author:
-- '[[MSzturc|Matthäus Szturc]]'
-categories: []
+  - "[[MSzturc|Matthäus Szturc]]"
+categories: 
 description: Create markdown-based presentations in Obsidian
-downloads: 749538
+downloads: 750547
 mobile: false
 number: 380
+stars: 1000
 title: Advanced Slides
 type: plugin
-updated: '2023-02-16T05:39:31'
+updated: 2023-02-16T05:39:31
 url: https://github.com/MSzturc/obsidian-advanced-slides
 version: 1.20.0
 ---

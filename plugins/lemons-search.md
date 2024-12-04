@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A blazingly fast fuzzy finder with file preview.
-downloads: 466
+downloads: 497
 mobile: false
 number: 1944
+stars: 14
 title: Lemons Search
 type: plugin
 updated: '2024-11-19T03:53:02'

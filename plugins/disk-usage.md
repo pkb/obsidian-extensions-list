@@ -5,9 +5,10 @@ author:
 - '[[Promptier|Promptier]]'
 categories: []
 description: Measures disk usage for tracking size of folders and file types.
-downloads: 2459
+downloads: 2467
 mobile: true
 number: 1302
+stars: 5
 title: Disk Usage
 type: plugin
 updated: '2023-10-23T02:35:18'

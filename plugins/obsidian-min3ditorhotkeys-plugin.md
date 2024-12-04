@@ -5,9 +5,10 @@ author:
 - '[[d-sauer|d-sauer]]'
 categories: []
 description: Additional editor hotkeys inspired by coding editors
-downloads: 4480
+downloads: 4488
 mobile: true
 number: 81
+stars: 6
 title: Min3ditorHotkeys
 type: plugin
 updated: '2021-01-23T23:09:21'

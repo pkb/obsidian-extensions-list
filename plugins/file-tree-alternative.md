@@ -7,9 +7,10 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/File management|File management]]'
 description: This plugin allows you to have an alternative file tree view.
-downloads: 263425
+downloads: 264403
 mobile: true
 number: 198
+stars: 461
 title: File Tree Alternative
 type: plugin
 updated: '2024-06-23T00:50:37'

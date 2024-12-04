@@ -6,9 +6,10 @@ author:
 categories: []
 description: Converts your notes into nested folders, automatically creating separate
   files for each subheading.
-downloads: 3184
+downloads: 3198
 mobile: true
 number: 1332
+stars: 13
 title: Subdivider
 type: plugin
 updated: '2024-08-14T08:47:03'

@@ -5,9 +5,10 @@ author:
 - '[[qawatake|qawatake]]'
 categories: []
 description: 'Enhance built-in search: keyboard interface, card preview, bigger preview'
-downloads: 26180
+downloads: 26235
 mobile: false
 number: 417
+stars: 109
 title: Core Search Assistant
 type: plugin
 updated: '2023-05-03T19:16:45'

@@ -5,9 +5,10 @@ author:
 - '[[drichardson|Doug Richardson]]'
 categories: []
 description: Add command to toggle Readable line length editor setting.
-downloads: 604
+downloads: 625
 mobile: true
 number: 1718
+stars: 0
 title: Toggle Readable line length
 type: plugin
 updated: '2024-06-18T22:50:46'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: A Big Calendar for Obsidian
-downloads: 35960
+downloads: 36078
 mobile: true
 number: 431
+stars: 117
 title: Obsidian Big Calendar
 type: plugin
 updated: '2022-02-14T08:45:39'

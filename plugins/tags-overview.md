@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds an extended tags panel where tagged files can be overviewed, filtered
   and accessed in an easy way.
-downloads: 11645
+downloads: 11746
 mobile: true
 number: 1167
+stars: 47
 title: Tags Overview
 type: plugin
 updated: '2024-03-04T03:45:49'

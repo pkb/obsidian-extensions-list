@@ -5,9 +5,10 @@ author:
 - '[[Jake-Cramer|jake-cramer]]'
 categories: []
 description: View a periodic table in the sidebar
-downloads: 3129
+downloads: 3151
 mobile: false
 number: 1291
+stars: 3
 title: Periodic Table
 type: plugin
 updated: '2024-09-30T21:20:58'

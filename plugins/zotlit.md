@@ -7,9 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 description: Plugin to integrate with Zotero, create literature notes and insert citations
   from a Zotero library.
-downloads: 26723
+downloads: 27200
 mobile: false
 number: 1161
+stars: 680
 title: ZotLit
 type: plugin
 updated: '2024-11-20T14:21:43'

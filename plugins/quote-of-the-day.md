@@ -5,14 +5,15 @@ author:
 - '[[twentytwokhz|Florin Bobis]]'
 categories: []
 description: Inserts random quotes in the editor
-downloads: 10940
+downloads: 11130
 mobile: true
 number: 327
+stars: 41
 title: Quote of the Day
 type: plugin
-updated: '2024-10-05T03:01:00'
+updated: '2024-11-28T22:54:56'
 url: https://github.com/twentytwokhz/quote-of-the-day
-version: 1.1.1
+version: 1.1.2
 ---
 
 %% README_START %%

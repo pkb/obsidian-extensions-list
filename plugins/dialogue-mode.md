@@ -5,9 +5,10 @@ author:
 - '[[patrickchiang|patrickchiang]]'
 categories: []
 description: Dialogue mode for editing speech in writing.
-downloads: 539
+downloads: 557
 mobile: true
 number: 1727
+stars: 4
 title: Dialogue Mode
 type: plugin
 updated: '2024-09-30T05:02:35'

@@ -5,9 +5,10 @@ author:
 - '[[Signynt|Signynt]]'
 categories: []
 description: Add a Link to a Heading
-downloads: 4565
+downloads: 4574
 mobile: true
 number: 425
+stars: 8
 title: Insert Heading Link
 type: plugin
 updated: '2022-02-14T04:36:46'

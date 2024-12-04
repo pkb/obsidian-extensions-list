@@ -6,9 +6,10 @@ author:
 categories: []
 description: CSS styles and CM6 extensions to highlight whitespace in Source and Live
   Preview modes.
-downloads: 5730
+downloads: 5816
 mobile: true
 number: 1310
+stars: 16
 title: Show Whitespace
 type: plugin
 updated: '2024-10-30T03:14:06'

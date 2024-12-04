@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Hide secrets in your vault
-downloads: 97242
+downloads: 97826
 mobile: true
 number: 103
+stars: 633
 title: Meld Encrypt
 type: plugin
 updated: '2024-07-14T04:51:03'

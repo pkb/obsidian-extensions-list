@@ -5,9 +5,10 @@ author:
 - '[[wenlzhang|wenlzhang]]'
 categories: []
 description: Copy file metadata to clipboard. Insert copied metadata to file name.
-downloads: 2919
+downloads: 2924
 mobile: true
 number: 1163
+stars: 4
 title: Copy Metadata
 type: plugin
 updated: '2023-10-14T19:46:58'

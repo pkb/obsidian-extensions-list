@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a command to reset the state of any checklists in a document in
   Obsidian.
-downloads: 5529
+downloads: 5536
 mobile: true
 number: 738
+stars: 14
 title: Checklist Reset
 type: plugin
 updated: '2023-12-08T12:56:49'

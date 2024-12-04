@@ -5,9 +5,10 @@ author:
 - '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Allows swapping out Obsidian's default icons.
-downloads: 8341
+downloads: 8356
 mobile: true
 number: 154
+stars: 38
 title: Icon Swapper
 type: plugin
 updated: '2021-12-16T02:19:32'

@@ -5,9 +5,10 @@ author:
 - '[[CodeListening|CodeListening]]'
 categories: []
 description: 从bookxnote中同步笔记
-downloads: 110
+downloads: 120
 mobile: false
 number: 1931
+stars: 4
 title: BookXNote Sync
 type: plugin
 updated: '2024-08-23T07:32:58'

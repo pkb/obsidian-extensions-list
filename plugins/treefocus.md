@@ -6,9 +6,10 @@ author:
 categories: []
 description: Dim, highlight & style your files & folders in the vault file explorer
   (foldable item navigator) based on predefined / custom rules.
-downloads: 4763
+downloads: 4805
 mobile: true
 number: 1207
+stars: 17
 title: TreeFocus
 type: plugin
 updated: '2023-12-27T17:53:10'

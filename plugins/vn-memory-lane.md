@@ -8,9 +8,10 @@ categories:
 description: Relive and celebrate your life's milestones on a personal, interactive
   timeline. A nostalgic journey through your history with anniversary reminders and
   cherished memories.
-downloads: 3118
+downloads: 3159
 mobile: true
 number: 1434
+stars: 9
 title: MemoryLane
 type: plugin
 updated: '2023-12-07T04:19:49'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish selected text to omg.lol service.
-downloads: 2008
+downloads: 2013
 mobile: true
 number: 1285
+stars: 10
 title: Omg.publish
 type: plugin
 updated: '2023-11-25T23:44:15'

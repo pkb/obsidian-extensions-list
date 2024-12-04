@@ -1,18 +1,20 @@
 ---
 aliases:
-  - Timeline Schedule
+- Timeline Schedule
 author:
-  - "[[Ebonsignori|Evan Bonsignori]]"
+- '[[Ebonsignori|Evan Bonsignori]]'
 categories:
-  - "[[categories/Time management|Time management]]"
-  - "[[categories/Custom code blocks|Custom code blocks]]"
-description: Inline timelines generated from human-readable time strings, e.g. 'Walk dog (30min)' in a ```schedule codeblock.
-downloads: 2028
+- '[[categories/Time management|Time management]]'
+- '[[categories/Custom code blocks|Custom code blocks]]'
+description: Inline timelines generated from human-readable time strings, e.g. 'Walk
+  dog (30min)' in a ```schedule codeblock.
+downloads: 2047
 mobile: true
 number: 1370
+stars: 15
 title: Timeline Schedule
 type: plugin
-updated: 2023-12-24T07:59:16
+updated: '2023-12-24T07:59:16'
 url: https://github.com/Ebonsignori/obsidian-timeline-schedule
 version: 1.2.1
 ---

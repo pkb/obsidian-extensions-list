@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Timestamp Link
+- Timestamp Link
 author:
-  - "[[wenlzhang|wenlzhang]]"
+- '[[wenlzhang|wenlzhang]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Copy timestamped links to blocks, headings and notes.
-downloads: 2497
+downloads: 2502
 mobile: true
 number: 1252
+stars: 2
 title: Timestamp Link
 type: plugin
-updated: 2023-11-08T18:50:56
+updated: '2023-11-08T18:50:56'
 url: https://github.com/wenlzhang/obsidian-timestamp-link
 version: 0.0.2
 ---

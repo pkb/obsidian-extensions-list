@@ -5,9 +5,10 @@ author:
 - '[[autohub7|Steven Jin]]'
 categories: []
 description: This plugin allows users to easily open all selected links in edit mode.
-downloads: 3569
+downloads: 3577
 mobile: true
 number: 873
+stars: 7
 title: Bulk open selected links
 type: plugin
 updated: '2023-04-17T21:04:39'

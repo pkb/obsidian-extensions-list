@@ -6,9 +6,10 @@ author:
 categories: []
 description: Make.md brings powerful and modern note-taking features to Obsidian.
   Capture, organize and connect information with more flexibility without any code.
-downloads: 433299
+downloads: 436532
 mobile: true
 number: 698
+stars: 1100
 title: MAKE.md
 type: plugin
 updated: '2024-11-07T05:30:51'

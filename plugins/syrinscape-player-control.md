@@ -5,9 +5,10 @@ author:
 - '[[scooper4711|Stephen Cooper]]'
 categories: []
 description: Control Syrinscape Online Player from inside of notes.
-downloads: 279
+downloads: 281
 mobile: true
 number: 1741
+stars: 4
 title: Syrinscape Online Player
 type: plugin
 updated: '2024-08-05T04:15:57'

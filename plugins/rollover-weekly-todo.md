@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Rollover Weekly Todo
+- Rollover Weekly Todo
 author:
-  - "[[shsethi|Shubham Sethi]]"
+- '[[shsethi|Shubham Sethi]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Rollover todo items from the previous weekly note.
-downloads: 548
+downloads: 578
 mobile: true
 number: 1812
+stars: 4
 title: Rollover Weekly Todo
 type: plugin
-updated: 2024-09-10T19:04:53
+updated: '2024-09-10T19:04:53'
 url: https://github.com/shsethi/obsidian-rollover-weekly-todos
 version: 1.0.9
 ---

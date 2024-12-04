@@ -7,9 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use an OpenAI Chat Completion API-compatible LLM endpoint to explain
   the selected text in greater detail.
-downloads: 1794
+downloads: 1851
 mobile: true
 number: 1713
+stars: 3
 title: Explain Selection With AI
 type: plugin
 updated: '2024-06-19T08:32:04'

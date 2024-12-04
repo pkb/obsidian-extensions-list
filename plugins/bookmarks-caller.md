@@ -5,9 +5,10 @@ author:
 - '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Easily open bookmarks.
-downloads: 1302
+downloads: 1324
 mobile: true
 number: 1622
+stars: 3
 title: Bookmarks Caller
 type: plugin
 updated: '2024-10-14T09:43:37'

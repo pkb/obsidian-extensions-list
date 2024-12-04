@@ -5,9 +5,10 @@ author:
 - '[[lucasmelin|Lucas Melin]]'
 categories: []
 description: Red Pen acts as a proofreader for your writing.
-downloads: 4220
+downloads: 4236
 mobile: true
 number: 1087
+stars: 8
 title: Red Pen
 type: plugin
 updated: '2023-08-01T02:48:52'

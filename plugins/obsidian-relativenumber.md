@@ -5,9 +5,10 @@ author:
 - '[[thisdotrob|Rob Stevenson]]'
 categories: []
 description: Displays relative line numbers in the editor's gutter.
-downloads: 4469
+downloads: 4472
 mobile: false
 number: 416
+stars: 10
 title: Relativenumber (relative line numbers)
 type: plugin
 updated: '2022-02-06T02:44:35'

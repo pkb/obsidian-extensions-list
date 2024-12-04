@@ -5,9 +5,10 @@ author:
 - '[[zlovatt|zlovatt]]'
 categories: []
 description: Trims unnecessary whitespace from your Obsidian documents
-downloads: 8454
+downloads: 8478
 mobile: true
 number: 566
+stars: 38
 title: Trim Whitespace
 type: plugin
 updated: '2023-07-31T04:39:02'

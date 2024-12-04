@@ -1,17 +1,18 @@
 ---
 aliases:
-  - TodoTxt
+- TodoTxt
 author:
-  - "[[mvgrimes|Mark Grimes]]"
+- '[[mvgrimes|Mark Grimes]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Manage Todo.txt files.
-downloads: 8415
+downloads: 8455
 mobile: true
 number: 953
+stars: 55
 title: TodoTxt
 type: plugin
-updated: 2024-07-23T21:08:13
+updated: '2024-07-23T21:08:13'
 url: https://github.com/mvgrimes/obsidian-todotxt-plugin
 version: 2.1.7
 ---

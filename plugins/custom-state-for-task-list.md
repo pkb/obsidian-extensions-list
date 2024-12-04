@@ -5,9 +5,10 @@ author:
 - '[[OkamiWong|Okami Wong]]'
 categories: []
 description: Add custom states to task list items.
-downloads: 4712
+downloads: 4766
 mobile: true
 number: 926
+stars: 28
 title: Custom State for Task List
 type: plugin
 updated: '2024-11-25T12:40:03'

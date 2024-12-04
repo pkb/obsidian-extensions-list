@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a badge to Getting Things Done (GTD) "project" files with no defined
   next step.
-downloads: 3917
+downloads: 3923
 mobile: true
 number: 1055
+stars: 12
 title: GTD No Next Step
 type: plugin
 updated: '2023-12-20T03:10:57'

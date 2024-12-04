@@ -5,9 +5,10 @@ author:
 - '[[justanotherjurastudent|Lukas Collier]]'
 categories: []
 description: Highlight the active folder section and the title in the file explorer.
-downloads: 746
+downloads: 769
 mobile: true
 number: 1882
+stars: 2
 title: Highlight active folder section
 type: plugin
 updated: '2024-10-09T20:38:24'

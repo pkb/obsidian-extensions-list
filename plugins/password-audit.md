@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Password Audit
+- Password Audit
 author:
-  - "[[prashanthpulisetti|Sai Prashanth Pulisetti]]"
+- '[[prashanthpulisetti|Sai Prashanth Pulisetti]]'
 categories:
-  - "[[categories/Security and privacy|Security and privacy]]"
-description: Audit password strength, check breaches, and generate secure passwords. Not a password manager.
-downloads: 25
+- '[[categories/Security and privacy|Security and privacy]]'
+description: Audit password strength, check breaches, and generate secure passwords.
+  Not a password manager.
+downloads: 41
 mobile: true
 number: 2033
+stars: 5
 title: Password Audit
 type: plugin
-updated: 2024-11-19T10:30:37
+updated: '2024-11-19T10:30:37'
 url: https://github.com/prashanthpulisetti/password-audit
 version: 2.0.2
 ---

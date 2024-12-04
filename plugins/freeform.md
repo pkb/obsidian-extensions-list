@@ -5,9 +5,10 @@ author:
 - '[[tmcw|tmcw]]'
 categories: []
 description: Make visualizations and run arbitrary code with JavaScript + iframe blocks.
-downloads: 485
+downloads: 492
 mobile: true
 number: 1674
+stars: 85
 title: Freeform
 type: plugin
 updated: '2024-06-22T23:16:57'

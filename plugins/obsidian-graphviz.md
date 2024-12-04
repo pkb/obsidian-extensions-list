@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Graphviz Diagrams
-downloads: 11178
+downloads: 11240
 mobile: false
 number: 381
+stars: 80
 title: Obsidian Graphviz
 type: plugin
 updated: '2022-12-26T22:20:25'

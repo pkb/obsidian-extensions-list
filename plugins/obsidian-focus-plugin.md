@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that will highlight and focus
   on the currently selected heading
-downloads: 6900
+downloads: 6911
 mobile: true
 number: 572
+stars: 32
 title: Focus and Highlight
 type: plugin
 updated: '2022-11-01T14:34:27'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds some convenient tweaks including improved toggling and ergonomic
   commands
-downloads: 5389
+downloads: 5393
 mobile: true
 number: 396
+stars: 50
 title: ObsidianTweaks
 type: plugin
 updated: '2022-03-22T05:22:27'

@@ -5,9 +5,10 @@ author:
 - '[[mrjackphil|MrJackphil]]'
 categories: []
 description: Search and paste/transclude links to located files.
-downloads: 30646
+downloads: 30713
 mobile: true
 number: 11
+stars: 188
 title: Text expand
 type: plugin
 updated: '2023-08-07T18:20:48'

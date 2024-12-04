@@ -5,9 +5,10 @@ author:
 - '[[yuleicul|Yulei Chen]]'
 categories: []
 description: View or draw chemical structures and reactions using Ketcher.
-downloads: 6059
+downloads: 6093
 mobile: false
 number: 929
+stars: 33
 title: Ketcher
 type: plugin
 updated: '2023-08-22T08:55:25'

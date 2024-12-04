@@ -5,9 +5,10 @@ author:
 - '[[Opisek|Kacper Darowski]]'
 categories: []
 description: Displays current battery level in the status bar.
-downloads: 261
+downloads: 269
 mobile: false
 number: 1866
+stars: 1
 title: Battery Indicator
 type: plugin
 updated: '2024-10-15T18:28:18'

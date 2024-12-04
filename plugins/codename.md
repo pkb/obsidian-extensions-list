@@ -5,9 +5,10 @@ author:
 - '[[dstack|dstack]]'
 categories: []
 description: A plugin to solve the hardest problem - naming things.
-downloads: 3469
+downloads: 3472
 mobile: true
 number: 1071
+stars: 6
 title: Codename
 type: plugin
 updated: '2023-08-07T04:00:13'

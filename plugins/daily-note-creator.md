@@ -5,9 +5,10 @@ author:
 - '[[mario-holubar|Mario Holubar]]'
 categories: []
 description: Automatically creates missing daily notes
-downloads: 1521
+downloads: 1530
 mobile: true
 number: 1387
+stars: 7
 title: Daily note creator
 type: plugin
 updated: '2024-02-06T03:33:09'

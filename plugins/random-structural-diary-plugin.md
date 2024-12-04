@@ -6,9 +6,10 @@ author:
 categories: []
 description: This is a plugin for picking random questions from prepared question
   list. It allows you answer on different questions each time.
-downloads: 6779
+downloads: 6796
 mobile: true
 number: 275
+stars: 31
 title: Random Structural Diary
 type: plugin
 updated: '2022-07-16T20:03:56'

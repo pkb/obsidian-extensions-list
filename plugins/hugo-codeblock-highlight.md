@@ -5,9 +5,10 @@ author:
 - '[[aarol|aarol]]'
 categories: []
 description: Highlights lines in codeblocks using Hugo's hl_lines syntax.
-downloads: 1758
+downloads: 1781
 mobile: true
 number: 1512
+stars: 3
 title: Hugo codeblock highlight
 type: plugin
 updated: '2024-06-14T16:56:36'

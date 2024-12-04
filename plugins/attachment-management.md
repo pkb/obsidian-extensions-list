@@ -7,9 +7,10 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize your attachment path of notes independently with variables
   and auto rename it on change.
-downloads: 29950
+downloads: 30262
 mobile: true
 number: 942
+stars: 189
 title: Attachment Management
 type: plugin
 updated: '2024-10-10T06:55:00'

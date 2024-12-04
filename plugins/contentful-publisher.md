@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Manage your Contentful content from Obsidian.
-downloads: 2633
+downloads: 2634
 mobile: true
 number: 1160
+stars: 0
 title: Contentful Publisher
 type: plugin
 updated: '2023-09-03T17:03:22'

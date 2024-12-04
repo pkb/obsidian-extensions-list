@@ -5,9 +5,10 @@ author:
 - '[[ozntel|Ozan Tellioglu]]'
 categories: []
 description: Scan all your links in the vault and convert them to your desired format.
-downloads: 21541
+downloads: 21638
 mobile: true
 number: 320
+stars: 179
 title: Link Converter
 type: plugin
 updated: '2024-02-11T01:45:11'

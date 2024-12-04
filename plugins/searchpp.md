@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Search++
+- Search++
 author:
-  - "[[nhaouari|Noureddine Haouari]]"
+- '[[nhaouari|Noureddine Haouari]]'
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
-description: Allow inserting text context search results on the active note, the plugin is based on the plugin mrj-text-expand-witb-text of MrJackphil.
-downloads: 6081
+- '[[categories/Search and navigation|Search and navigation]]'
+description: Allow inserting text context search results on the active note, the plugin
+  is based on the plugin mrj-text-expand-witb-text of MrJackphil.
+downloads: 6088
 mobile: true
 number: 26
+stars: 21
 title: Search++
 type: plugin
-updated: 2020-11-09T14:06:52
+updated: '2020-11-09T14:06:52'
 url: https://github.com/nhaouari/searchpp
 version: 0.0.1
 ---

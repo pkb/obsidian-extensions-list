@@ -5,9 +5,10 @@ author:
 - '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Send a card in Obsidian Canvas to be behind all other cards.
-downloads: 6117
+downloads: 6195
 mobile: true
 number: 1157
+stars: 12
 title: Canvas Send to Back
 type: plugin
 updated: '2023-10-30T04:13:54'

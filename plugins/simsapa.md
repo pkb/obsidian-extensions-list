@@ -7,9 +7,10 @@ categories: []
 description: Pāli dictionary and sutta search using Simsapa Dhamma Reader. Open a
   sidebar or double-click to lookup Pāli words in the dictionary, or search in the
   suttas.
-downloads: 786
+downloads: 787
 mobile: false
 number: 1526
+stars: 1
 title: Simsapa
 type: plugin
 updated: '2024-03-09T23:06:43'

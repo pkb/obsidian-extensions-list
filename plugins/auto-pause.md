@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allows one audio track to be played at a time, pausing or stopping any
   others.
-downloads: 79
+downloads: 85
 mobile: true
 number: 1906
+stars: 1
 title: AutoPause
 type: plugin
 updated: '2024-09-25T01:46:38'

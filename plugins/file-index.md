@@ -5,9 +5,10 @@ author:
 - '[[Steffo99|Steffo]]'
 categories: []
 description: Create a metadata file about the files present in the Vault
-downloads: 2644
+downloads: 2659
 mobile: true
 number: 1264
+stars: 6
 title: File Index
 type: plugin
 updated: '2023-11-17T20:19:49'

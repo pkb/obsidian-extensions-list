@@ -6,9 +6,10 @@ author:
 categories: []
 description: Create personalized and intelligent analysis, summaries, and more for
   audio recordings that can be imported or spoken directly into a note
-downloads: 3562
+downloads: 3652
 mobile: true
 number: 1740
+stars: 53
 title: Smart Memos
 type: plugin
 updated: '2024-09-30T03:38:43'

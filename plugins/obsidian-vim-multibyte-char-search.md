@@ -7,9 +7,10 @@ categories: []
 description: Search multibyte characters by the first character of corresponding ASCII
   encoding of input method. For example, for Chinese, search by the first character
   of Pinyin.
-downloads: 3928
+downloads: 3934
 mobile: true
 number: 454
+stars: 12
 title: Vim Multibyte Char Search
 type: plugin
 updated: '2022-04-22T03:45:56'

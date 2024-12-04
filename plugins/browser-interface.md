@@ -5,9 +5,10 @@ author:
 - '[[jason-lieb|Jason Lieb]]'
 categories: []
 description: Save and reopen browser tabs using your vault and a browser extension.
-downloads: 254
+downloads: 263
 mobile: false
 number: 1786
+stars: 4
 title: Browser Interface
 type: plugin
 updated: '2024-07-16T11:29:32'

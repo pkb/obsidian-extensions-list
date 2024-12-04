@@ -6,9 +6,10 @@ author:
 categories: []
 description: Integrate OpenAPI specification management with features for version
   control, visualization, editing, and easy navigation of API specs.
-downloads: 554
+downloads: 579
 mobile: false
 number: 1805
+stars: 6
 title: OpenAPI Renderer
 type: plugin
 updated: '2024-11-24T02:54:19'

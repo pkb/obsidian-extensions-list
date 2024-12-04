@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Reverse Prompter
+- Reverse Prompter
 author:
-  - "[[ryanhalliday|Ryan Halliday]]"
+- '[[ryanhalliday|Ryan Halliday]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Generate prompts to keep you writing with AI.
-downloads: 838
+downloads: 845
 mobile: true
 number: 1571
+stars: 13
 title: Reverse Prompter
 type: plugin
-updated: 2024-08-25T11:26:03
+updated: '2024-08-25T11:26:03'
 url: https://github.com/ryanhalliday/obsidian-reverse-prompter
 version: 1.0.10
 ---

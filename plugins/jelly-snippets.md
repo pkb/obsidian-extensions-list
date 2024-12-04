@@ -5,9 +5,10 @@ author:
 - '[[rabirabirara|Spencer Gouw]]'
 categories: []
 description: A simple plugin for text snippets, with auto replacement
-downloads: 5236
+downloads: 5251
 mobile: true
 number: 845
+stars: 24
 title: Jelly Snippets
 type: plugin
 updated: '2023-10-09T06:30:42'

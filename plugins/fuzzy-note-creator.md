@@ -5,9 +5,10 @@ author:
 - '[[HaloGamer33|HaloGamer33]]'
 categories: []
 description: Create notes in folders with the help of a fuzzy finder.
-downloads: 362
+downloads: 370
 mobile: false
 number: 1649
+stars: 3
 title: Fuzzy Note Creator
 type: plugin
 updated: '2024-11-13T03:49:54'

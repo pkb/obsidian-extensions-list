@@ -5,9 +5,10 @@ author:
 - '[[ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Automatically repair internal links to blocks and headings
-downloads: 4868
+downloads: 4880
 mobile: true
 number: 911
+stars: 60
 title: Persistent Links
 type: plugin
 updated: '2023-04-17T21:35:33'

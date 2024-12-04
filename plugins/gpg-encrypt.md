@@ -8,9 +8,10 @@ categories:
 description: Plugin to encrypt partial text or complete notes using GPG technology,
   it is compatible with security keys such as YubiKey or traditional GPG encryption
   methods
-downloads: 1634
+downloads: 1660
 mobile: false
 number: 1417
+stars: 11
 title: GPG Encrypt
 type: plugin
 updated: '2024-08-26T07:02:16'

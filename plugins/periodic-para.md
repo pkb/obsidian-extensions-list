@@ -1,17 +1,19 @@
 ---
 aliases:
-  - LifeOS
+- LifeOS
 author:
-  - "[[quanru|YiBing Lin]]"
+- '[[quanru|YiBing Lin]]'
 categories:
-  - "[[categories/Workflows]]"
-description: Life management system(Assist in practicing the PARA method with periodic notes and usememos).
-downloads: 25070
+- '[[categories/Workflows]]'
+description: Life management system(Assist in practicing the PARA method with periodic
+  notes and usememos).
+downloads: 25298
 mobile: true
 number: 1031
+stars: 369
 title: LifeOS
 type: plugin
-updated: 2024-11-17T19:13:34
+updated: '2024-11-17T19:13:34'
 url: https://github.com/quanru/obsidian-lifeos
 version: 1.20.2
 ---

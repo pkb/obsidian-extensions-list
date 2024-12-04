@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Search Everywhere
+- Search Everywhere
 author:
-  - "[[Mom0aut|Mom0]]"
+- '[[Mom0aut|Mom0]]'
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Search Everywhere with pressing Double Shift like in IntelliJ
-downloads: 6471
+downloads: 6475
 mobile: false
 number: 451
+stars: 21
 title: Search Everywhere
 type: plugin
-updated: 2022-03-14T20:24:46
+updated: '2022-03-14T20:24:46'
 url: https://github.com/Mom0aut/obsidian-search-everywhere
 version: 1.0.10
 ---

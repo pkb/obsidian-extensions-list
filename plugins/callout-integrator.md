@@ -5,9 +5,10 @@ author:
 - '[[Cleoche|Cleoche]]'
 categories: []
 description: Integrate long blocks of text into callouts and easier nested callouts
-downloads: 8204
+downloads: 8256
 mobile: true
 number: 818
+stars: 26
 title: Callout Integrator
 type: plugin
 updated: '2023-11-22T22:14:30'

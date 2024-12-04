@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: A flexible and configurable Spaced Repetition System built into Obsidian.
-downloads: 8655
+downloads: 8678
 mobile: true
 number: 163
+stars: 118
 title: Recall
 type: plugin
 updated: '2021-04-29T21:33:42'

@@ -5,9 +5,10 @@ author:
 - '[[popscallion|L Fahn-Lai]]'
 categories: []
 description: Closes Obsidian window with cmd+W on Mac when the last tab is closed.
-downloads: 3611
+downloads: 3614
 mobile: false
 number: 806
+stars: 1
 title: No Empty Windows
 type: plugin
 updated: '2023-02-27T07:31:44'

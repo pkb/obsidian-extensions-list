@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds the ability to choose the character to use when creating a bullet
   list between '-', '*' and '+'
-downloads: 4169
+downloads: 4178
 mobile: true
 number: 1038
+stars: 2
 title: Custom list character
 type: plugin
 updated: '2023-12-02T03:24:38'

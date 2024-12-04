@@ -5,9 +5,10 @@ author:
 - '[[clairefro|Claire Froelich]]'
 categories: []
 description: Get the etymology of words in your notes
-downloads: 2419
+downloads: 2457
 mobile: true
 number: 1530
+stars: 14
 title: Etymology Lookup
 type: plugin
 updated: '2024-08-28T22:05:58'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Focus file explorer on chosen folder and its files and subdirectories,
   while hiding all the other elements.
-downloads: 12536
+downloads: 12591
 mobile: true
 number: 517
+stars: 47
 title: Folder Focus Mode
 type: plugin
 updated: '2024-07-05T04:31:31'

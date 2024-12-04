@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: One-stop solution for image management.
-downloads: 8972
+downloads: 9009
 mobile: false
 number: 817
+stars: 58
 title: Awesome Image
 type: plugin
 updated: '2024-02-01T13:00:30'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Speedup latex math typing with auto fraction, custom shorthand, align
   block shortcut, matrix shortcut...etc
-downloads: 170056
+downloads: 170606
 mobile: true
 number: 304
+stars: 327
 title: Quick Latex
 type: plugin
 updated: '2024-01-29T09:24:07'

@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Quick Tagger
+- Quick Tagger
 author:
-  - "[[Gorkycreator|Gorkycreator]]"
+- '[[Gorkycreator|Gorkycreator]]'
 categories:
-  - "[[categories/Tag Management|Tag Management]]"
-description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated buttons/commands for your favorites!
-downloads: 6034
+- '[[categories/Tag Management|Tag Management]]'
+description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated
+  buttons/commands for your favorites!
+downloads: 6105
 mobile: true
 number: 1257
+stars: 28
 title: Quick Tagger
 type: plugin
-updated: 2023-11-12T05:48:55
+updated: '2023-11-12T05:48:55'
 url: https://github.com/Gorkycreator/obsidian-quick-tagger
 version: 2.2.3
 ---

@@ -5,9 +5,10 @@ author:
 - '[[TaylorJadin|Taylor Jadin]]'
 categories: []
 description: Close the window when the last note is closed, kind of how browsers work.
-downloads: 105
+downloads: 107
 mobile: false
 number: 1716
+stars: 0
 title: Close Window When Empty
 type: plugin
 updated: '2024-06-18T02:39:39'

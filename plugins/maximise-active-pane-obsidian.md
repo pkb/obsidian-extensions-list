@@ -5,9 +5,10 @@ author:
 - '[[deathau|death_au]]'
 categories: []
 description: Simply fills the workspace with the active pane
-downloads: 14495
+downloads: 14514
 mobile: true
 number: 45
+stars: 36
 title: Maximise Active Pane
 type: plugin
 updated: '2021-01-29T04:48:57'

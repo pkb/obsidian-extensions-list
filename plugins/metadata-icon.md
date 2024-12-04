@@ -5,9 +5,10 @@ author:
 - '[[Benature|Benature]]'
 categories: []
 description: Change metadata entry icon
-downloads: 2820
+downloads: 2850
 mobile: true
 number: 1455
+stars: 9
 title: Metadata Icon
 type: plugin
 updated: '2024-06-04T13:45:32'

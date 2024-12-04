@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Pocketbook Cloud Highlight Importer
+- Pocketbook Cloud Highlight Importer
 author:
-  - "[[lenalebt|Lena Brüder]]"
+- '[[lenalebt|Lena Brüder]]'
 categories:
-  - "[[categories/Annotations and highlights|Annotations and highlights]]"
-  - "[[categories/Import|Import]]"
+- '[[categories/Annotations and highlights|Annotations and highlights]]'
+- '[[categories/Import|Import]]'
 description: Imports notes and highlights from your Pocketbook Cloud account.
-downloads: 3898
+downloads: 3912
 mobile: true
 number: 896
+stars: 11
 title: Pocketbook Cloud Highlight Importer
 type: plugin
-updated: 2023-06-18T14:49:42
+updated: '2023-06-18T14:49:42'
 url: https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer
 version: 0.1.6
 ---

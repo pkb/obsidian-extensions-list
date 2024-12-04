@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Chessboard Viewer
+- Chessboard Viewer
 author:
-  - "[[THeK3nger|Davide Aversa]]"
+- '[[THeK3nger|Davide Aversa]]'
 categories:
-  - "[[categories/Games|Games]]"
+- '[[categories/Games|Games]]'
 description: Render chess positions diagrams in a note.
-downloads: 6796
+downloads: 6821
 mobile: true
 number: 115
+stars: 29
 title: Chessboard Viewer
 type: plugin
-updated: 2024-10-03T14:04:13
+updated: '2024-10-03T14:04:13'
 url: https://github.com/THeK3nger/obsidian-chessboard
 version: 0.7.1
 ---

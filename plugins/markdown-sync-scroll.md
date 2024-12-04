@@ -5,9 +5,10 @@ author:
 - '[[XeroAlpha|ProjectXero]]'
 categories: []
 description: Allow two linked markdown views to scroll synchronously.
-downloads: 3551
+downloads: 3557
 mobile: false
 number: 1024
+stars: 3
 title: Markdown Sync Scroll
 type: plugin
 updated: '2023-07-13T14:32:37'

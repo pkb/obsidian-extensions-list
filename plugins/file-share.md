@@ -7,9 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enables end-to-end encrypted file sharing directly between vaults via
   a socket server.
-downloads: 225
+downloads: 232
 mobile: false
 number: 1863
+stars: 9
 title: File Share
 type: plugin
 updated: '2024-09-16T01:41:36'

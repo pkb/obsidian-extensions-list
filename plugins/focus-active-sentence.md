@@ -5,9 +5,10 @@ author:
 - '[[artisticat1|artisticat]]'
 categories: []
 description: Highlight the sentence the cursor is currently resting on.
-downloads: 5683
+downloads: 5699
 mobile: true
 number: 840
+stars: 40
 title: Focus Active Sentence
 type: plugin
 updated: '2023-03-12T00:35:43'

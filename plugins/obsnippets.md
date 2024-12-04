@@ -5,14 +5,15 @@ author:
 - '[[Chrstn67|Christian Humbert]]'
 categories: []
 description: Create and managing text and code snippets.
-downloads: 21
+downloads: 82
 mobile: true
 number: 2034
+stars: 0
 title: Snippetsaurus
 type: plugin
-updated: '2024-11-21T18:55:43'
+updated: '2024-11-29T16:28:15'
 url: https://github.com/Chrstn67/obsidian-plugin-obsnippets
-version: 1.0.4
+version: 1.0.11
 ---
 
 %% README_START %%

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Utilities for folder-based journaling
-downloads: 1226
+downloads: 1248
 mobile: true
 number: 1796
+stars: 18
 title: Journal Folder
 type: plugin
 updated: '2024-10-07T20:53:39'

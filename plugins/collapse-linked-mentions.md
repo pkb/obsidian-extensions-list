@@ -5,9 +5,10 @@ author:
 - '[[n810K|n810]]'
 categories: []
 description: Automatically collapse embedded backlink mentions
-downloads: 163
+downloads: 176
 mobile: false
 number: 1911
+stars: 1
 title: Collapse Linked Mentions
 type: plugin
 updated: '2024-09-19T09:53:17'

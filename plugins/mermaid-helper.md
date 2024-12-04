@@ -5,9 +5,10 @@ author:
 - '[[FrancescoDiCursi|Francesco Di Cursi]]'
 categories: []
 description: plug in that helps in mermaid.js workflow and more
-downloads: 4758
+downloads: 4770
 mobile: true
 number: 947
+stars: 5
 title: Mermaid.js Helper (OMH)
 type: plugin
 updated: '2023-02-06T23:33:28'

@@ -5,9 +5,10 @@ author:
 - '[[luhaifeng666|Haifeng Lu]]'
 categories: []
 description: This is a plugin for Obsidian to translate selected text.
-downloads: 10137
+downloads: 10198
 mobile: false
 number: 554
+stars: 25
 title: Translator
 type: plugin
 updated: '2024-10-06T17:32:17'

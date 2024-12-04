@@ -6,9 +6,10 @@ author:
 categories: []
 description: Obsidian plugin which renders ABC music notation from code blocks using
   the `abc` language specifier.
-downloads: 17849
+downloads: 17980
 mobile: true
 number: 40
+stars: 190
 title: ABC Music Notation
 type: plugin
 updated: '2024-10-29T23:10:57'

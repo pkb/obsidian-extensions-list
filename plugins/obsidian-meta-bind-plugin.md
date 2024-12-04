@@ -6,12 +6,13 @@ author:
 categories: []
 description: Make your notes interactive with inline input fields, metadata displays,
   and buttons.
-downloads: 110738
+downloads: 112395
 mobile: true
 number: 612
+stars: 543
 title: Meta Bind
 type: plugin
-updated: '2024-11-06T16:26:14'
+updated: '2024-11-28T05:07:54'
 url: https://github.com/mProjectsCode/obsidian-meta-bind-plugin
 version: 1.2.5
 ---

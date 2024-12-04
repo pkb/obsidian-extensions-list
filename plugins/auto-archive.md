@@ -5,9 +5,10 @@ author:
 - '[[shanedonburke|Shane Burke]]'
 categories: []
 description: Automatically archive notes once they reach a certain age
-downloads: 3117
+downloads: 3128
 mobile: true
 number: 1170
+stars: 7
 title: Auto Archive
 type: plugin
 updated: '2023-08-26T21:56:34'

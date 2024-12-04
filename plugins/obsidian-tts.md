@@ -5,9 +5,10 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Hear your notes.
-downloads: 25293
+downloads: 25433
 mobile: true
 number: 372
+stars: 80
 title: Text to Speech
 type: plugin
 updated: '2024-02-20T02:15:20'

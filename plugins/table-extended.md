@@ -5,9 +5,10 @@ author:
 - '[[aidenlx|AidenLx]]'
 categories: []
 description: Enable extended table support with MultiMarkdown 6 syntax
-downloads: 47931
+downloads: 48141
 mobile: true
 number: 146
+stars: 183
 title: Table Extended
 type: plugin
 updated: '2022-01-16T14:30:13'

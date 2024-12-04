@@ -5,9 +5,10 @@ author:
 - '[[eatgrass|eatgrass]]'
 categories: []
 description: Hightlight vocabulary based on the word frequency
-downloads: 3678
+downloads: 3707
 mobile: true
 number: 1255
+stars: 47
 title: Vocabulary Highlighter
 type: plugin
 updated: '2023-11-16T15:29:22'

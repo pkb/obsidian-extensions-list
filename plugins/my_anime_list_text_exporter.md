@@ -5,9 +5,10 @@ author:
 - '[[Xmoncoco|XmoncocoX]]'
 categories: []
 description: add anime data for your notes
-downloads: 1049
+downloads: 1059
 mobile: true
 number: 1605
+stars: 4
 title: my anime list text exporter
 type: plugin
 updated: '2024-07-31T03:59:44'

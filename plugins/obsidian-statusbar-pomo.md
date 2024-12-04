@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Status Bar Pomodoro Timer
+- Status Bar Pomodoro Timer
 author:
-  - "[[kzhovn|kzhovn]]"
+- '[[kzhovn|kzhovn]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: Adds a pomodoro timer to your status bar.
-downloads: 41625
+downloads: 41800
 mobile: false
 number: 216
+stars: 79
 title: Status Bar Pomodoro Timer
 type: plugin
-updated: 2023-01-16T13:55:41
+updated: '2023-01-16T13:55:41'
 url: https://github.com/kzhovn/statusbar-pomo-obsidian
 version: 0.1.14
 ---

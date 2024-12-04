@@ -5,9 +5,10 @@ author:
 - '[[MamoruDS|MamoruDS]]'
 categories: []
 description: Open external link with specific browser / in-app view in Obsidian
-downloads: 14440
+downloads: 14486
 mobile: false
 number: 174
+stars: 39
 title: Open Link With
 type: plugin
 updated: '2023-02-01T14:52:54'

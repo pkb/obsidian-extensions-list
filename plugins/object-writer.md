@@ -5,9 +5,10 @@ author:
 - '[[IagoGrah|Iago Grah]]'
 categories: []
 description: Quickly create a note with a prompt for object writing.
-downloads: 1866
+downloads: 1871
 mobile: true
 number: 1348
+stars: 3
 title: Object Writer
 type: plugin
 updated: '2024-10-31T20:15:17'

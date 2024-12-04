@@ -6,9 +6,10 @@ author:
 categories: []
 description: Records audio directly, with input device and folder configuration, similar
   to the core one, but better
-downloads: 1141
+downloads: 1196
 mobile: false
 number: 1830
+stars: 6
 title: Super Duper Audio Recorder
 type: plugin
 updated: '2024-08-14T18:27:56'

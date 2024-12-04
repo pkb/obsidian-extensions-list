@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Text Transform
+- Text Transform
 author:
-  - "[[ipshing|ipshing]]"
+- '[[ipshing|ipshing]]'
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
-description: Transform text to different casings using the command palette or keyboard shortcuts.
-downloads: 3216
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
+description: Transform text to different casings using the command palette or keyboard
+  shortcuts.
+downloads: 3221
 mobile: true
 number: 1162
+stars: 0
 title: Text Transform
 type: plugin
-updated: 2024-05-01T02:25:42
+updated: '2024-05-01T02:25:42'
 url: https://github.com/ipshing/obsidian-text-transform
 version: 1.3.1
 ---

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Automatically switches previously opened Markdown pages into reading
   mode.
-downloads: 2927
+downloads: 2940
 mobile: false
 number: 1221
+stars: 0
 title: Auto Reading Mode
 type: plugin
 updated: '2024-03-18T22:10:20'

@@ -9,9 +9,10 @@ categories:
 description: 'Craft insightful quizzes: Generate key questions/answers pairs from
   your notes effortlessly using Open ai''s GPT-3/4 or local models. Elevate and optimize
   your learning journey.'
-downloads: 4063
+downloads: 4064
 mobile: true
 number: 1114
+stars: 18
 title: Flashcard Generator
 type: plugin
 updated: '2023-08-08T17:51:21'

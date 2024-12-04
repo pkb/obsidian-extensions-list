@@ -5,9 +5,10 @@ author:
 - '[[vran-dev|vran]]'
 categories: []
 description: Generate a interactive heatmap graph to visualize and track your productivity
-downloads: 17534
+downloads: 17926
 mobile: true
 number: 1399
+stars: 258
 title: Contribution Graph
 type: plugin
 updated: '2024-09-12T20:49:24'

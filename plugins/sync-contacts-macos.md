@@ -5,9 +5,10 @@ author:
 - '[[motschel123|Marcel Schöckel]]'
 categories: []
 description: Sync your contacts from macOS to your Obsidian Vault.
-downloads: 3147
+downloads: 3154
 mobile: false
 number: 1158
+stars: 12
 title: Sync Contacts on macOS
 type: plugin
 updated: '2024-10-15T21:00:53'

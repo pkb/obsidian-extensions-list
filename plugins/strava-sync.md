@@ -5,9 +5,10 @@ author:
 - '[[watsonbox|Howard Wilson]]'
 categories: []
 description: Sync activities from Strava.
-downloads: 57
+downloads: 60
 mobile: true
 number: 1958
+stars: 2
 title: Strava Sync
 type: plugin
 updated: '2024-10-23T00:41:40'

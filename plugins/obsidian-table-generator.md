@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plugin for generate markdown table quickly like Typora /card table
   in canvas .
-downloads: 43300
+downloads: 43491
 mobile: true
 number: 610
+stars: 112
 title: Table Generator
 type: plugin
 updated: '2023-08-25T20:00:33'

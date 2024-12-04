@@ -7,9 +7,10 @@ categories: []
 description: Search and insert quotes from a source text as you type. This is great
   for reading a physical book or eReader while taking notes on a separate laptop or
   phone. The plugin can also convert ePub files to Markdown notes.
-downloads: 4731
+downloads: 4749
 mobile: true
 number: 1007
+stars: 48
 title: Air Quotes
 type: plugin
 updated: '2023-10-29T22:15:57'

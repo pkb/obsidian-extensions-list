@@ -5,14 +5,15 @@ author:
 - '[[matthewturk|Matthew Turk]]'
 categories: []
 description: Add a context-dependent sidecar panel.
-downloads: 1236
+downloads: 1306
 mobile: true
 number: 1491
+stars: 12
 title: Contextual Sidecar
 type: plugin
-updated: '2024-11-20T17:19:07'
+updated: '2024-11-30T03:07:05'
 url: https://github.com/matthewturk/obsidian-sidecar-panel
-version: 0.2.5
+version: 0.3.3
 ---
 
 %% README_START %%

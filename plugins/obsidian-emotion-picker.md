@@ -6,14 +6,15 @@ author:
 categories: []
 description: A plugin for Obsidian.md that lets you choose an emotion from a list
   to insert into a note.
-downloads: 7744
+downloads: 7863
 mobile: true
 number: 383
+stars: 53
 title: Emotion Picker
 type: plugin
-updated: '2024-11-23T19:30:58'
+updated: '2024-11-28T17:13:28'
 url: https://github.com/dartungar/obsidian-emotion-picker
-version: 1.2.0
+version: 1.2.1
 ---
 
 %% README_START %%

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 description: This plugin imports a JSON/CSV file (or text block) and creates notes
   from a Handlebars template file
-downloads: 41009
+downloads: 41291
 mobile: false
 number: 391
+stars: 91
 title: JSON/CSV Importer
 type: plugin
 updated: '2024-10-20T03:13:22'

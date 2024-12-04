@@ -5,9 +5,10 @@ author:
 - '[[c4ctus5|cactus5]]'
 categories: []
 description: Map hotkeys to editor commands.
-downloads: 4130
+downloads: 4131
 mobile: true
 number: 258
+stars: 10
 title: Editor Commands Remap
 type: plugin
 updated: '2021-08-28T14:02:04'

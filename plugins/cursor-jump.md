@@ -6,9 +6,10 @@ author:
 categories: []
 description: Quickly jump between list items and headings throughout same or upper/lower
   level
-downloads: 573
+downloads: 586
 mobile: true
 number: 1653
+stars: 5
 title: Cursor Jump
 type: plugin
 updated: '2024-05-26T12:03:55'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Attachment uploader plugin, which allows you customize the upload command,
   customize upload file type.
-downloads: 2198
+downloads: 2209
 mobile: false
 number: 1303
+stars: 5
 title: Attachment Uploader
 type: plugin
 updated: '2024-09-17T12:34:51'

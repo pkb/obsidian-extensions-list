@@ -5,9 +5,10 @@ author:
 - '[[shiwer|Poe Zoel]]'
 categories: []
 description: Get ear training exercises inside your vault.
-downloads: 1155
+downloads: 1159
 mobile: false
 number: 1511
+stars: 5
 title: Ear Training
 type: plugin
 updated: '2024-05-26T16:55:03'

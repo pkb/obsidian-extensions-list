@@ -5,9 +5,10 @@ author:
 - '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin allows you to auto add current time to new bullet line.
-downloads: 5022
+downloads: 5034
 mobile: true
 number: 681
+stars: 31
 title: New Bullet With Time
 type: plugin
 updated: '2022-11-14T12:26:54'

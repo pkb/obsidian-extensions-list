@@ -5,14 +5,15 @@ author:
 - '[[ALONELUR|Alonelur]]'
 categories: []
 description: Support auto select the apposite input method in different vim mode
-downloads: 8219
+downloads: 8326
 mobile: false
 number: 382
+stars: 84
 title: Vim IM Select
 type: plugin
-updated: '2024-02-18T18:54:30'
+updated: '2024-11-28T01:30:32'
 url: https://github.com/ALONELUR/vim-im-select-obsidian
-version: 0.2.0
+version: 0.2.1
 ---
 
 %% README_START %%

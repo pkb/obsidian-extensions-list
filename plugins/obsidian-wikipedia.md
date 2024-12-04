@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Wikipedia
+- Wikipedia
 author:
-  - "[[jmilldotdev|Jonathan Miller]]"
+- '[[jmilldotdev|Jonathan Miller]]'
 categories:
-  - "[[categories/Content capture|Content capture]]"
-description: Grabs information from Wikipedia for a topic and brings it into Obsidian notes
-downloads: 20234
+- '[[categories/Content capture|Content capture]]'
+description: Grabs information from Wikipedia for a topic and brings it into Obsidian
+  notes
+downloads: 20335
 mobile: true
 number: 318
+stars: 102
 title: Wikipedia
 type: plugin
-updated: 2021-10-16T19:37:46
+updated: '2021-10-16T19:37:46'
 url: https://github.com/jmilldotdev/obsidian-wikipedia
 version: 1.0.3
 ---

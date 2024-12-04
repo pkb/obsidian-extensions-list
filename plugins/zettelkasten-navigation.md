@@ -5,14 +5,15 @@ author:
 - '[[terrychenzw|terrychenzw]]'
 categories: []
 description: Visualize a Luhmann-style zettelkasten.
-downloads: 2550
+downloads: 2673
 mobile: true
 number: 1636
+stars: 43
 title: zettelkasten navigation
 type: plugin
-updated: '2024-11-02T15:31:08'
+updated: '2024-12-01T13:40:51'
 url: https://github.com/terrychenzw/obsidian-zettelkasten-navigation
-version: 1.0.3
+version: 1.0.6
 ---
 
 %% README_START %%

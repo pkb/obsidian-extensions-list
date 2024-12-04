@@ -5,9 +5,10 @@ author:
 - '[[SalokinGreen|SGreen]]'
 categories: []
 description: Generate text with NovelAI's models.
-downloads: 4208
+downloads: 4215
 mobile: true
 number: 1012
+stars: 14
 title: NovelAI
 type: plugin
 updated: '2024-11-06T01:50:52'

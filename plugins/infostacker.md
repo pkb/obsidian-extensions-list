@@ -9,9 +9,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Easily share your notes, images and attachments publicly using private
   links
-downloads: 255
+downloads: 261
 mobile: true
 number: 1699
+stars: 2
 title: Infostacker Note Publish
 type: plugin
 updated: '2024-08-28T16:05:50'

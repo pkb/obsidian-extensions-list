@@ -6,9 +6,10 @@ author:
 categories: []
 description: Execute SQL base queries against your data in Obsidian and render it
   how you want using templates.
-downloads: 6986
+downloads: 7021
 mobile: true
 number: 983
+stars: 132
 title: Query all the things
 type: plugin
 updated: '2024-10-19T05:46:48'

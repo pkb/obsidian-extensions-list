@@ -7,9 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Seamlessly create Things tasks and projects from Obsidian
-downloads: 6581
+downloads: 6589
 mobile: true
 number: 434
+stars: 82
 title: Things Link
 type: plugin
 updated: '2022-02-25T22:47:37'

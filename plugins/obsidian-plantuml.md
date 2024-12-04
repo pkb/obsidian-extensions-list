@@ -7,9 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Render PlantUML Diagrams
-downloads: 87274
+downloads: 87882
 mobile: true
 number: 128
+stars: 415
 title: PlantUML
 type: plugin
 updated: '2024-04-26T16:45:22'

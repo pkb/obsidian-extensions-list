@@ -7,9 +7,10 @@ categories:
 - '[[categories/Content capture|Content capture]]'
 - '[[categories/Templates|Templates]]'
 description: Quickly add new pages or content to your vault.
-downloads: 863390
+downloads: 871060
 mobile: true
 number: 211
+stars: 1600
 title: QuickAdd
 type: plugin
 updated: '2024-11-18T01:42:07'

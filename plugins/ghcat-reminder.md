@@ -6,9 +6,10 @@ author:
 categories: []
 description: Sends notifications to Google Chat Webhook based on due dates in Obsidian
   tasks.
-downloads: 2427
+downloads: 2431
 mobile: true
 number: 1273
+stars: 5
 title: GChat Reminder
 type: plugin
 updated: '2023-11-24T20:05:08'

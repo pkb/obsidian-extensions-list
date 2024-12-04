@@ -5,9 +5,10 @@ author:
 - '[[AwesomeDog|AwesomeDog]]'
 categories: []
 description: Handy Anki integration for Obsidian.
-downloads: 4677
+downloads: 4686
 mobile: false
 number: 658
+stars: 30
 title: Awesome Flashcard
 type: plugin
 updated: '2023-01-29T10:44:00'

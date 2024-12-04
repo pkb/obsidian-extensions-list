@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import Newledge data.
-downloads: 143
+downloads: 156
 mobile: true
 number: 1924
+stars: 0
 title: 新枝Newledge
 type: plugin
 updated: '2024-09-26T20:56:52'

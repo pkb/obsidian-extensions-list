@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Re-use content within codeblocks using variables.
-downloads: 3070
+downloads: 3074
 mobile: true
 number: 1128
+stars: 10
 title: Codeblock Template
 type: plugin
 updated: '2023-06-14T10:18:47'

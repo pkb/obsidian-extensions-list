@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: In-memory AES256-GCM Markdown Encryption
-downloads: 3143
+downloads: 3158
 mobile: true
 number: 1247
+stars: 8
 title: Global Markdown Encryption
 type: plugin
 updated: '2023-12-09T10:23:30'

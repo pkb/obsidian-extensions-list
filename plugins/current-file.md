@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allows external applications to know what file the desktop app is currently
   viewing.
-downloads: 115
+downloads: 118
 mobile: false
 number: 1847
+stars: 2
 title: Current File
 type: plugin
 updated: '2024-07-20T17:43:46'

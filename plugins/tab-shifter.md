@@ -6,9 +6,10 @@ author:
 categories: []
 description: Enables shifting tabs between different tab splits and some other basic
   IDE tab functionalities
-downloads: 1190
+downloads: 1198
 mobile: false
 number: 1482
+stars: 8
 title: Tab Shifter
 type: plugin
 updated: '2024-03-21T05:51:36'

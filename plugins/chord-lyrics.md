@@ -6,9 +6,10 @@ author:
 categories: []
 description: Display chord names over lyrics. Supports line wrapping, section headers,
   auto-detection of lines and custom colors.
-downloads: 4815
+downloads: 4828
 mobile: true
 number: 711
+stars: 48
 title: Chord Lyrics
 type: plugin
 updated: '2022-12-31T22:13:36'

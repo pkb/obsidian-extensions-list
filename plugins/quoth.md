@@ -6,9 +6,10 @@ author:
 categories: []
 description: More flexible embedding. Embed precise selections, inline embeds, optionally
   include author and title.
-downloads: 6616
+downloads: 6627
 mobile: true
 number: 384
+stars: 41
 title: Quoth
 type: plugin
 updated: '2023-06-29T19:40:14'

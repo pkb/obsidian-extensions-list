@@ -5,9 +5,10 @@ author:
 - '[[Johnson0907|Johnson0907]]'
 categories: []
 description: Help you to view some recent daily notes on one page.
-downloads: 13987
+downloads: 14035
 mobile: true
 number: 472
+stars: 66
 title: Daily Notes Viewer
 type: plugin
 updated: '2022-03-26T19:36:09'

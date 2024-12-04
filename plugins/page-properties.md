@@ -5,9 +5,10 @@ author:
 - '[[necauqua|Anton Bulakh]]'
 categories: []
 description: Render page properties similar to Logseq
-downloads: 6692
+downloads: 6718
 mobile: true
 number: 851
+stars: 23
 title: Page Properties
 type: plugin
 updated: '2023-06-28T14:12:26'

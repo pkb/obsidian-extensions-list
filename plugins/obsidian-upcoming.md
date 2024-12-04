@@ -5,9 +5,10 @@ author:
 - '[[charliecm|Charlie Chao]]'
 categories: []
 description: Open upcoming and/or past daily notes in their own panes, tabs, or windows.
-downloads: 4298
+downloads: 4302
 mobile: true
 number: 519
+stars: 15
 title: Upcoming
 type: plugin
 updated: '2022-10-22T05:35:52'

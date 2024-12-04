@@ -5,9 +5,10 @@ author:
 - '[[cool-RR|ram@rachum.com]]'
 categories: []
 description: Select text between backticks with keyboard shortcuts.
-downloads: 145
+downloads: 149
 mobile: true
 number: 1874
+stars: 1
 title: Backtick text selector
 type: plugin
 updated: '2024-10-01T02:12:35'

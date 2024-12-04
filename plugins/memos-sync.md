@@ -7,9 +7,10 @@ categories: []
 description: Syncing memos from a [Memos](https://github.com/usememos/memos) server
   to your daily note. Fully compatible with official Daily Notes plugin, Calendar
   plugin and Periodic Notes plugin.
-downloads: 951
+downloads: 972
 mobile: false
 number: 1685
+stars: 34
 title: Memos Sync
 type: plugin
 updated: '2024-06-14T02:13:10'

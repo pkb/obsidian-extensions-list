@@ -7,9 +7,10 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: Offer an alternative view that displays open tabs vertically, allowing
   users to group and organize tabs for a better navigation experience.
-downloads: 9932
+downloads: 10209
 mobile: true
 number: 1831
+stars: 98
 title: Vertical Tabs
 type: plugin
 updated: '2024-11-11T18:22:06'

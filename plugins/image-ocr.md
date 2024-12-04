@@ -5,9 +5,10 @@ author:
 - '[[kaffarell|kaffarell]]'
 categories: []
 description: Runs OCR on images and copies content in image caption.
-downloads: 5181
+downloads: 5202
 mobile: false
 number: 904
+stars: 18
 title: Image OCR
 type: plugin
 updated: '2023-08-14T22:09:22'

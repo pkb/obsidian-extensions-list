@@ -5,9 +5,10 @@ author:
 - '[[wakeyi-git|wakeyi]]'
 categories: []
 description: Navigate your notes visually with card-based interface
-downloads: 315
+downloads: 342
 mobile: true
 number: 1896
+stars: 12
 title: Card Navigator
 type: plugin
 updated: '2024-10-19T04:05:02'

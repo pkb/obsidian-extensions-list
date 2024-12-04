@@ -5,9 +5,10 @@ author:
 - '[[micahke|Micah Elias]]'
 categories: []
 description: Create a note using OpenAI's GPT-3 language model.
-downloads: 31982
+downloads: 32112
 mobile: true
 number: 736
+stars: 172
 title: GPT-3 Notes
 type: plugin
 updated: '2023-07-07T15:11:34'

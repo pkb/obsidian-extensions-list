@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Adds additional iconsets to Obsidian
-downloads: 2741
+downloads: 2773
 mobile: true
 number: 1358
+stars: 5
 title: Additional Icons
 type: plugin
 updated: '2023-12-28T03:22:48'

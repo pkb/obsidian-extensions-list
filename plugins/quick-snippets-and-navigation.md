@@ -6,9 +6,10 @@ author:
 categories: []
 description: Keyboard navigation up/down for headings - Quick switcher extensions
   - Copy code block via keyboard shortcut - Configurable code block and callout snippets
-downloads: 5907
+downloads: 5924
 mobile: true
 number: 604
+stars: 26
 title: Quick snippets and navigation
 type: plugin
 updated: '2023-10-04T22:48:30'

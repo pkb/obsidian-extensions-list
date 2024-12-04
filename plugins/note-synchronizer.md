@@ -7,9 +7,10 @@ categories: []
 description: This is a plugin for synchornizing Obsidian notes to other note-based
   softwares like Anki, following more strictly the principles of Zettelkasten and
   treating each Obsidian file as a note.
-downloads: 7083
+downloads: 7096
 mobile: false
 number: 625
+stars: 69
 title: Note Synchronizer
 type: plugin
 updated: '2024-02-18T05:00:43'

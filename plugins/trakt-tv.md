@@ -5,14 +5,15 @@ author:
 - '[[fleker|Nick Felker]]'
 categories: []
 description: Syncs your Trakt.tv shows.
-downloads: 23
+downloads: 30
 mobile: true
 number: 2014
+stars: 0
 title: Trakt.tv Sync
 type: plugin
-updated: '2024-11-21T07:44:25'
+updated: '2024-12-03T07:01:51'
 url: https://github.com/fleker/trakt-for-obsidian
-version: 1.0.18
+version: 1.0.19
 ---
 
 %% README_START %%

@@ -5,9 +5,10 @@ author:
 - '[[Unearthed-App|CheersCal]]'
 categories: []
 description: Auto Sync Kindle Highlights and Daily Reflection via Unearthed
-downloads: 68
+downloads: 81
 mobile: true
 number: 1988
+stars: 1
 title: Unearthed (Kindle Sync)
 type: plugin
 updated: '2024-11-09T08:08:21'

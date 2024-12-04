@@ -5,9 +5,10 @@ author:
 - '[[hokim-m|Khokim Mamarasulov]]'
 categories: []
 description: Manage ClickUp space from notes
-downloads: 612
+downloads: 625
 mobile: false
 number: 1695
+stars: 21
 title: ClickUp sync
 type: plugin
 updated: '2024-08-27T20:01:10'

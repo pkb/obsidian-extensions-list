@@ -1,18 +1,20 @@
 ---
 aliases:
-  - Smart Second Brain
+- Smart Second Brain
 author:
-  - "[[authors/Leo310|Leo310]]"
-  - "[[your-papa|nicobrauchtgit]]"
+- '[[authors/Leo310|Leo310]]'
+- '[[your-papa|nicobrauchtgit]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: Interact with your privacy focused assistant, leveraging Ollama or OpenAI, making your second brain even smarter.
-downloads: 25566
+- '[[categories/AI assistance|AI assistance]]'
+description: Interact with your privacy focused assistant, leveraging Ollama or OpenAI,
+  making your second brain even smarter.
+downloads: 26167
 mobile: false
 number: 1418
+stars: 655
 title: Smart Second Brain
 type: plugin
-updated: 2024-05-18T17:45:48
+updated: '2024-05-18T17:45:48'
 url: https://github.com/your-papa/obsidian-Smart2Brain
 version: 1.3.0
 ---

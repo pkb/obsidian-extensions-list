@@ -5,9 +5,10 @@ author:
 - '[[n21rl|n21rl]]'
 categories: []
 description: Create and expand D&D 5e statblocks.
-downloads: 1511
+downloads: 1566
 mobile: true
 number: 1681
+stars: 0
 title: Statblock Sidekick
 type: plugin
 updated: '2024-06-13T23:33:23'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Enables the creation of new notes with custom formatted names, including
   dynamic datetime stamps.
-downloads: 1613
+downloads: 1629
 mobile: true
 number: 1621
+stars: 0
 title: Custom new file name
 type: plugin
 updated: '2024-08-24T07:06:43'

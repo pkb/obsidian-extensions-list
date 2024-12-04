@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Complex data views for the data-obsessed.
-downloads: 2285722
+downloads: 2301925
 mobile: true
 number: 92
+stars: 7100
 title: Dataview
 type: plugin
 updated: '2024-06-20T10:29:56'

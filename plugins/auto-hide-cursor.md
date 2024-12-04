@@ -5,9 +5,10 @@ author:
 - '[[moismat|jmxo]]'
 categories: []
 description: Hides the cursor when scrolling and shows it again when moving the mouse.
-downloads: 3834
+downloads: 3845
 mobile: false
 number: 932
+stars: 5
 title: Auto Hide Cursor
 type: plugin
 updated: '2023-06-13T21:37:22'

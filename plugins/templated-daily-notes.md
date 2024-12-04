@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds the ability to create daily notes with a specified template according
   to the described settings
-downloads: 1577
+downloads: 1590
 mobile: true
 number: 1406
+stars: 1
 title: Templated daily notes
 type: plugin
 updated: '2024-02-17T18:13:54'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allow generation of a content index based on your selection or of the
   whole file.
-downloads: 3268
+downloads: 3277
 mobile: true
 number: 1139
+stars: 7
 title: Potato Indexer
 type: plugin
 updated: '2024-01-28T22:57:10'

@@ -5,9 +5,10 @@ author:
 - '[[razeghi71|Mohammad Razeghi]]'
 categories: []
 description: Search and insert images using Google API
-downloads: 834
+downloads: 847
 mobile: true
 number: 1615
+stars: 3
 title: Image Search
 type: plugin
 updated: '2024-04-25T14:17:04'

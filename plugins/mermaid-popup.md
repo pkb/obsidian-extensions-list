@@ -6,9 +6,10 @@ author:
 categories: []
 description: Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable
   and zoomable popup
-downloads: 438
+downloads: 505
 mobile: true
 number: 1923
+stars: 5
 title: Diagram Popup
 type: plugin
 updated: '2024-11-16T22:33:24'

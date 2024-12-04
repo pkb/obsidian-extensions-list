@@ -5,9 +5,10 @@ author:
 - '[[beginner137|dorisxx]]'
 categories: []
 description: Start a simple quiz on your current note
-downloads: 4854
+downloads: 4860
 mobile: false
 number: 412
+stars: 12
 title: Simple Note Quiz
 type: plugin
 updated: '2022-04-08T16:30:26'

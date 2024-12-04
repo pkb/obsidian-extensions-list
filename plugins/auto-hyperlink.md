@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Automation|Automation]]'
 description: Insert hyperlink according to user-defined rule
-downloads: 4011
+downloads: 4018
 mobile: true
 number: 1022
+stars: 11
 title: Auto Hyperlink
 type: plugin
 updated: '2024-04-13T13:46:23'

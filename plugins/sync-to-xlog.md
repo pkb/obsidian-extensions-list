@@ -1,17 +1,18 @@
 ---
 aliases:
-  - sync-to-xlog
+- sync-to-xlog
 author:
-  - "[[Otto-J|Otto-J@github]]"
+- '[[Otto-J|Otto-J@github]]'
 categories:
-  - "[[categories/Sharing and publishing|Sharing and publishing]]"
+- '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your obsidian file to xlog.app
-downloads: 2371
+downloads: 2375
 mobile: false
 number: 1246
+stars: 83
 title: sync-to-xlog
 type: plugin
-updated: 2023-10-24T17:55:14
+updated: '2023-10-24T17:55:14'
 url: https://github.com/Otto-J/sync-to-xlog
 version: 0.2.1
 ---

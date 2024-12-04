@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Obsidian integration with Full Calendar (fullcalendar.io)
-downloads: 248753
+downloads: 250570
 mobile: true
 number: 440
+stars: 811
 title: Full Calendar
 type: plugin
 updated: '2023-04-06T21:22:12'

@@ -1,17 +1,19 @@
 ---
 aliases:
-  - ChatCBT
+- ChatCBT
 author:
-  - "[[clairefro|Claire Froelich]]"
+- '[[clairefro|Claire Froelich]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: Guides you in reframing negative thoughts and keeping record of your discoveries
-downloads: 3719
+- '[[categories/AI assistance|AI assistance]]'
+description: Guides you in reframing negative thoughts and keeping record of your
+  discoveries
+downloads: 3745
 mobile: false
 number: 1305
+stars: 189
 title: ChatCBT
 type: plugin
-updated: 2024-03-22T19:17:09
+updated: '2024-03-22T19:17:09'
 url: https://github.com/clairefro/obsidian-chat-cbt-plugin
 version: 1.1.5
 ---

@@ -5,9 +5,10 @@ author:
 - '[[Quorafind|Boninall]]'
 categories: []
 description: Add the Sakana! Widget to your own Obsidian!
-downloads: 4781
+downloads: 4792
 mobile: true
 number: 614
+stars: 28
 title: Sakana Widget
 type: plugin
 updated: '2022-10-29T15:49:12'

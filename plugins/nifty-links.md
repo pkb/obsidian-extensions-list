@@ -6,9 +6,10 @@ author:
 categories: []
 description: Generate elegant, Notion-style rich link cards to enhance your note-taking
   experience
-downloads: 6494
+downloads: 6542
 mobile: true
 number: 1120
+stars: 23
 title: Nifty Links
 type: plugin
 updated: '2024-09-22T13:34:20'

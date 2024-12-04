@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Booksidian
+- Booksidian
 author:
-  - "[[MichaBrugger|Micha Brugger and Zachary Wright]]"
+- '[[MichaBrugger|Micha Brugger and Zachary Wright]]'
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: Connect Obsidian to your Goodreads.
-downloads: 10496
+downloads: 10536
 mobile: false
 number: 534
+stars: 130
 title: Booksidian
 type: plugin
-updated: 2024-06-25T02:49:41
+updated: '2024-06-25T02:49:41'
 url: https://github.com/MichaBrugger/booksidian_plugin
 version: 0.5.2
 ---

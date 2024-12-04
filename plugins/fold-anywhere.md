@@ -5,9 +5,10 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: Set start and end marker, and then fold any text anywhere.
-downloads: 3309
+downloads: 3323
 mobile: true
 number: 1192
+stars: 15
 title: Fold Anywhere
 type: plugin
 updated: '2024-05-04T19:40:11'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Copy the value of a frontmatter key and allows to create link from it
   using various settings.
-downloads: 4996
+downloads: 5000
 mobile: true
 number: 338
+stars: 17
 title: Metacopy & URL
 type: plugin
 updated: '2023-07-30T23:32:40'

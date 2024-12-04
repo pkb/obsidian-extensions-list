@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track view count for each vault file.
-downloads: 2677
+downloads: 2698
 mobile: true
 number: 1498
+stars: 15
 title: View Count
 type: plugin
 updated: '2024-09-17T12:36:36'

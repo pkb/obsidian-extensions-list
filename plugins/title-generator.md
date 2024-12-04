@@ -5,9 +5,10 @@ author:
 - '[[jaschaephraim|Jascha Ephraim]]'
 categories: []
 description: Quickly and easily title your notes using OpenAI's GPT-3.5
-downloads: 3066
+downloads: 3077
 mobile: true
 number: 1236
+stars: 6
 title: Title Generator
 type: plugin
 updated: '2023-10-11T23:10:24'

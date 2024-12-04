@@ -5,9 +5,10 @@ author:
 - '[[k-quels|quels <@k-quels>]]'
 categories: []
 description: Treat ruby(Furigana) ​​marks commonly used in Japanese novels.
-downloads: 112
+downloads: 122
 mobile: true
 number: 1954
+stars: 0
 title: Japanese Novel Ruby
 type: plugin
 updated: '2024-10-21T21:45:56'

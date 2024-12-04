@@ -5,9 +5,10 @@ author:
 - '[[iVariable|Vladimir Savenkov]]'
 categories: []
 description: This plugin introduces commands to format code (internally uses prettier)
-downloads: 8654
+downloads: 8700
 mobile: true
 number: 465
+stars: 23
 title: Format code
 type: plugin
 updated: '2022-03-19T23:08:22'

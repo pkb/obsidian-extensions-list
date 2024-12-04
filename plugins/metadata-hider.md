@@ -5,9 +5,10 @@ author:
 - '[[Benature|Benature]]'
 categories: []
 description: Hide specific metadata property or if its value is empty.
-downloads: 4770
+downloads: 4824
 mobile: true
 number: 1355
+stars: 15
 title: Metadata Hider
 type: plugin
 updated: '2024-05-15T14:12:47'

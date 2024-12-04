@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use Google Gemini directly in obsidian for free.
-downloads: 4592
+downloads: 4659
 mobile: false
 number: 1214
+stars: 16
 title: Gemini AI Assistant
 type: plugin
 updated: '2024-08-28T16:02:23'

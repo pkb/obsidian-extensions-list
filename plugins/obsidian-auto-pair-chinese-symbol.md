@@ -5,9 +5,10 @@ author:
 - '[[renmu123|renmu123]]'
 categories: []
 description: Auto pair chinese symbol
-downloads: 10734
+downloads: 10748
 mobile: false
 number: 183
+stars: 28
 title: Auto pair chinese symbol
 type: plugin
 updated: '2021-06-05T20:12:26'

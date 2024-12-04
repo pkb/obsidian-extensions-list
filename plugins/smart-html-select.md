@@ -7,9 +7,10 @@ categories: []
 description: This plugin is useful to add an HTML select to your note with the possibility
   to configure the number of options. Integrates a logic behind the scene to change
   the markdown when in view mode the select value change.
-downloads: 196
+downloads: 200
 mobile: true
 number: 1675
+stars: 2
 title: Smart HTML Select
 type: plugin
 updated: '2024-05-27T20:16:02'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Sync contents from config folder to common folder for backup or other
   purposes
-downloads: 566
+downloads: 571
 mobile: false
 number: 1593
+stars: 4
 title: Sync config folder to common folder
 type: plugin
 updated: '2024-04-12T10:01:22'

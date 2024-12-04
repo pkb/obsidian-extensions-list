@@ -5,9 +5,10 @@ author:
 - '[[sedationh|SedationH]]'
 categories: []
 description: Quickly insert a divider line at the beginning of your note.
-downloads: 19
+downloads: 40
 mobile: false
 number: 2026
+stars: 0
 title: Instant Above Divider
 type: plugin
 updated: '2024-11-16T08:49:08'

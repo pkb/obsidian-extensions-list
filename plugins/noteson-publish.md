@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Make single notes instantly available on the web.
-downloads: 769
+downloads: 774
 mobile: true
 number: 1558
+stars: 1
 title: NotesOn Publish
 type: plugin
 updated: '2024-08-09T17:57:19'

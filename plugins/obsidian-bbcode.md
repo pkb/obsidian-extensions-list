@@ -5,9 +5,10 @@ author:
 - '[[salockhart|Alex Lockhart]]'
 categories: []
 description: Convert Markdown files to BBCode
-downloads: 3789
+downloads: 3795
 mobile: true
 number: 518
+stars: 0
 title: BBCode Convertor
 type: plugin
 updated: '2024-03-05T06:18:29'

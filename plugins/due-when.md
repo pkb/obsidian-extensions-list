@@ -6,9 +6,10 @@ author:
 categories: []
 description: This adds shortcuts to insert due dates for end of this week or end of
   next week.
-downloads: 3500
+downloads: 3503
 mobile: true
 number: 1004
+stars: 2
 title: Due When
 type: plugin
 updated: '2023-06-23T03:32:23'

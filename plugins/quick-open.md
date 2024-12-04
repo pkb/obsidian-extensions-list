@@ -6,9 +6,10 @@ author:
 categories: []
 description: Quickly select items in any modal using keyboard shortcuts. Supercharge
   your workflow with fast, efficient item selection in Obsidian modals.
-downloads: 748
+downloads: 762
 mobile: true
 number: 1820
+stars: 17
 title: Quick Select
 type: plugin
 updated: '2024-10-25T06:47:57'

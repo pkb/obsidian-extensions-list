@@ -6,9 +6,10 @@ author:
 categories: []
 description: Convert file path to uri for easier use of links to local files outside
   of Obsidian
-downloads: 19573
+downloads: 19616
 mobile: true
 number: 75
+stars: 33
 title: File path to URI
 type: plugin
 updated: '2022-09-04T18:06:17'

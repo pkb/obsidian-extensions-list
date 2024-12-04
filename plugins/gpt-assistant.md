@@ -6,9 +6,10 @@ author:
 categories: []
 description: Use a GPT-3 based model on your notes and get personalized answers from
   your knowledge base.
-downloads: 5729
+downloads: 5744
 mobile: true
 number: 860
+stars: 42
 title: GPT Assistant
 type: plugin
 updated: '2023-05-21T23:10:29'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all expiration dates, for example, for your groceries.
-downloads: 2936
+downloads: 2941
 mobile: true
 number: 1152
+stars: 5
 title: Expiration-Date-Tracker
 type: plugin
 updated: '2023-10-08T02:51:56'

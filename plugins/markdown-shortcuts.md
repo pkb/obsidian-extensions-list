@@ -5,9 +5,10 @@ author:
 - '[[JulesGuesnon|Jules Guesnon]]'
 categories: []
 description: 'Allows to write markdown from shortcuts (example: >h1 -> #).'
-downloads: 7349
+downloads: 7358
 mobile: true
 number: 435
+stars: 26
 title: Markdown shortcuts
 type: plugin
 updated: '2022-09-14T02:31:55'

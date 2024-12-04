@@ -5,9 +5,10 @@ author:
 - '[[rudimuc|Rudi Häusler]]'
 categories: []
 description: Converts text into other formats (base64, ROT13)
-downloads: 2112
+downloads: 2118
 mobile: true
 number: 1325
+stars: 1
 title: Encoder/Decoder
 type: plugin
 updated: '2024-02-13T14:28:13'

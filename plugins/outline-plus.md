@@ -6,9 +6,10 @@ author:
 categories: []
 description: Fix issues of the built-in outline view & optionally render markdown
   in it.
-downloads: 1550
+downloads: 1558
 mobile: true
 number: 1404
+stars: 5
 title: Outline++
 type: plugin
 updated: '2024-01-07T20:43:11'

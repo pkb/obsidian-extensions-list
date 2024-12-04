@@ -5,9 +5,10 @@ author:
 - '[[gr0grig|mr.grogrig]]'
 categories: []
 description: Creating a hierarchical structure like Luhmann's Zettelkasten
-downloads: 849
+downloads: 859
 mobile: true
 number: 1801
+stars: 25
 title: VirtFolder
 type: plugin
 updated: '2024-08-26T11:52:05'

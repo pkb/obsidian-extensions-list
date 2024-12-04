@@ -5,9 +5,10 @@ author:
 - '[[eoureo|eoureo]]'
 categories: []
 description: Run easily JavaScript codes for managing Obsidian and its notes.
-downloads: 5101
+downloads: 5128
 mobile: true
 number: 1051
+stars: 38
 title: RunJS
 type: plugin
 updated: '2023-07-18T21:55:27'

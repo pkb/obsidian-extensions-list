@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize your notes using AI
-downloads: 1236
+downloads: 1250
 mobile: true
 number: 1559
+stars: 10
 title: AI Summarize
 type: plugin
 updated: '2024-05-18T18:44:32'

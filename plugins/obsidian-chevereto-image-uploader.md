@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin uploads the image in your clipboard to chevereto automatically
   when pasting.
-downloads: 3518
+downloads: 3521
 mobile: false
 number: 429
+stars: 10
 title: Obsidian Chevereto Image Uploader
 type: plugin
 updated: '2022-02-17T11:38:53'

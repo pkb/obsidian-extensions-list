@@ -6,9 +6,10 @@ author:
 categories: []
 description: Collect your quotes from all over the repository and embed them in different
   locations with refresh delays.
-downloads: 6297
+downloads: 6315
 mobile: true
 number: 525
+stars: 47
 title: Local Quotes
 type: plugin
 updated: '2023-07-28T19:54:42'

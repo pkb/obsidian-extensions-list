@@ -5,9 +5,10 @@ author:
 - '[[Tej-Sharma|Tejas Sharma]]'
 categories: []
 description: Generate and schedule tweets automatically from your notes
-downloads: 151
+downloads: 152
 mobile: true
 number: 1668
+stars: 1
 title: Notes 2 Tweets
 type: plugin
 updated: '2024-05-30T12:15:58'

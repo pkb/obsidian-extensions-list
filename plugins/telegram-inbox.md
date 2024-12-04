@@ -5,9 +5,10 @@ author:
 - '[[icealtria|icealtria]]'
 categories: []
 description: Receive messages from Telegram bot and add them to daily note.
-downloads: 2055
+downloads: 2101
 mobile: true
 number: 1554
+stars: 25
 title: Telegram Inbox
 type: plugin
 updated: '2024-10-04T22:24:13'

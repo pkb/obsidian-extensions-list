@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Table of Contents
+- Table of Contents
 author:
-  - "[[hipstersmoothie|Andrew Lisowski]]"
+- '[[hipstersmoothie|Andrew Lisowski]]'
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Create a table of contents for a note.
-downloads: 141299
+downloads: 142190
 mobile: true
 number: 108
+stars: 298
 title: Table of Contents
 type: plugin
-updated: 2023-05-11T08:08:35
+updated: '2023-05-11T08:08:35'
 url: https://github.com/hipstersmoothie/obsidian-plugin-toc
 version: 0.2.0
 ---

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish and update notes as articles on DEV (https://dev.to)
-downloads: 133
+downloads: 138
 mobile: true
 number: 1752
+stars: 4
 title: Publish to DEV
 type: plugin
 updated: '2024-07-08T15:03:29'

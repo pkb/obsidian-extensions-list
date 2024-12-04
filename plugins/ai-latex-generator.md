@@ -5,9 +5,10 @@ author:
 - '[[aaaaayushh|Aayush Shah]]'
 categories: []
 description: Convert natural language to LaTeX equations using a local LLM.
-downloads: 319
+downloads: 336
 mobile: false
 number: 1853
+stars: 5
 title: AI LaTeX Generator
 type: plugin
 updated: '2024-09-14T15:45:06'

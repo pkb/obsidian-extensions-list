@@ -5,9 +5,10 @@ author:
 - '[[aidenlx|AidenLx]]'
 categories: []
 description: Insert emoji and custom icons with shortcodes
-downloads: 43562
+downloads: 43737
 mobile: true
 number: 378
+stars: 151
 title: Icon Shortcodes
 type: plugin
 updated: '2022-10-15T19:18:48'

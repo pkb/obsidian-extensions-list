@@ -5,9 +5,10 @@ author:
 - '[[filichev-evgeny|Filichev.Evgeny]]'
 categories: []
 description: Track news posts from the vk.com groups.
-downloads: 1112
+downloads: 1114
 mobile: true
 number: 1380
+stars: 3
 title: Vk group notifier
 type: plugin
 updated: '2023-12-26T17:48:39'

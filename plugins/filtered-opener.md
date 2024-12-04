@@ -5,9 +5,10 @@ author:
 - '[[Balibaloo|Roman Kubiv]]'
 categories: []
 description: Open notes and folders. Chose from sets defined by filters.
-downloads: 2504
+downloads: 2515
 mobile: true
 number: 1461
+stars: 9
 title: Filtered Opener
 type: plugin
 updated: '2024-08-25T08:03:09'

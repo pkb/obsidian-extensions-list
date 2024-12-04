@@ -5,9 +5,10 @@ author:
 - '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: Helps you write notes on podcasts.
-downloads: 41320
+downloads: 41578
 mobile: true
 number: 576
+stars: 220
 title: PodNotes
 type: plugin
 updated: '2024-11-03T17:36:26'

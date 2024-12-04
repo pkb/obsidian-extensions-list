@@ -7,9 +7,10 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Rename attachments, making their names unique (based on hashing of file
   content)
-downloads: 10464
+downloads: 10492
 mobile: true
 number: 131
+stars: 46
 title: Unique attachments
 type: plugin
 updated: '2021-08-30T21:23:09'

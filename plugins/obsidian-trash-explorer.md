@@ -5,9 +5,10 @@ author:
 - '[[proog|Per Mortensen]]'
 categories: []
 description: Restore and delete files from the Obsidian .trash folder
-downloads: 24800
+downloads: 25189
 mobile: true
 number: 655
+stars: 40
 title: Trash Explorer
 type: plugin
 updated: '2024-09-27T02:04:58'

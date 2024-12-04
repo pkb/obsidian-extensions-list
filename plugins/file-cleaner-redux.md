@@ -6,12 +6,13 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.
-downloads: 15469
+downloads: 15897
 mobile: true
 number: 1266
+stars: 33
 title: File Cleaner Redux
 type: plugin
-updated: '2024-11-13T21:52:57'
+updated: '2024-11-27T23:08:20'
 url: https://github.com/husjon/obsidian-file-cleaner-redux
 version: 1.2.0
 ---

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Forces serendipitous discoveries by displaying random notes from your
   vault each time you open the app
-downloads: 319
+downloads: 329
 mobile: true
 number: 1855
+stars: 3
 title: Serendipity
 type: plugin
 updated: '2024-08-02T12:28:10'

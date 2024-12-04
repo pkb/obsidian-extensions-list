@@ -6,9 +6,10 @@ author:
 categories: []
 description: Watches for changes in metadata and performs user-specified actions based
   on these changes.
-downloads: 180
+downloads: 185
 mobile: true
 number: 1723
+stars: 6
 title: Watched-Metadata
 type: plugin
 updated: '2024-06-02T02:25:28'

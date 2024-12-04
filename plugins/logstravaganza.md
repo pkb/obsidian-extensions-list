@@ -6,9 +6,10 @@ author:
 categories: []
 description: A simple proxy for `console.*()` calls which copies log messages and
   uncaught exceptions to a file.
-downloads: 5128
+downloads: 5158
 mobile: true
 number: 987
+stars: 32
 title: Logstravaganza
 type: plugin
 updated: '2024-08-06T17:53:58'

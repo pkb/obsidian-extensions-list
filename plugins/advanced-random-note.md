@@ -7,9 +7,10 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Open random notes with custom queries in languages like Dataview and
   Regex.
-downloads: 5676
+downloads: 5708
 mobile: true
 number: 995
+stars: 15
 title: Advanced Random Note
 type: plugin
 updated: '2023-10-16T19:03:48'

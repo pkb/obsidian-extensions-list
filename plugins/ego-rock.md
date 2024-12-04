@@ -5,9 +5,10 @@ author:
 - '[[echo-bravo-yahoo|Ashton Eby]]'
 categories: []
 description: A basic taskwarrior UI for listing and modifying tasks.
-downloads: 3285
+downloads: 3374
 mobile: false
 number: 1470
+stars: 8
 title: Ego Rock
 type: plugin
 updated: '2024-03-22T23:01:06'

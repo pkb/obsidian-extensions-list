@@ -5,9 +5,10 @@ author:
 - '[[Lemon695|Lemon695]]'
 categories: []
 description: List files by last added, including pictures, MP4s, PDFs etc.
-downloads: 102
+downloads: 144
 mobile: true
 number: 2005
+stars: 1
 title: Recently Added Files
 type: plugin
 updated: '2024-11-24T18:20:22'

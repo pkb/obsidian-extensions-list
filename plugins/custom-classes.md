@@ -6,9 +6,10 @@ author:
 categories: []
 description: Custom Classes is a minimalist plugin that allows you to add custom HTML
   classes to markdown blocks
-downloads: 6234
+downloads: 6256
 mobile: true
 number: 790
+stars: 80
 title: Custom Classes
 type: plugin
 updated: '2023-02-25T19:23:51'

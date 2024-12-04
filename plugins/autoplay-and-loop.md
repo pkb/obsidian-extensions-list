@@ -5,9 +5,10 @@ author:
 - '[[Wapply|Zerkshop & Wapply]]'
 categories: []
 description: Auto reproduces videos/audio inside notes.
-downloads: 1008
+downloads: 1028
 mobile: true
 number: 1564
+stars: 6
 title: Autoplay & Loop
 type: plugin
 updated: '2024-05-29T04:50:35'

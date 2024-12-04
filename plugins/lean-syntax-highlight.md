@@ -5,9 +5,10 @@ author:
 - '[[tomaz1502|tomaz1502]]'
 categories: []
 description: Provides live syntax highlight for the Lean programming language
-downloads: 1445
+downloads: 1460
 mobile: true
 number: 1450
+stars: 5
 title: Lean Syntax Highlight
 type: plugin
 updated: '2024-02-28T00:58:25'

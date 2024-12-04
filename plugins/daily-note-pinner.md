@@ -6,9 +6,10 @@ author:
 categories: []
 description: Pins the Daily Note of the present day. Unpinns all Daily Notes of past
   and future days.
-downloads: 3336
+downloads: 3341
 mobile: true
 number: 1224
+stars: 14
 title: Daily Note Pinner
 type: plugin
 updated: '2023-10-28T00:36:33'

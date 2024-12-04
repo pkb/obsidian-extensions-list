@@ -5,9 +5,10 @@ author:
 - '[[eth-p|eth-p]]'
 categories: []
 description: Easily create and customize callouts.
-downloads: 64057
+downloads: 65000
 mobile: true
 number: 816
+stars: 144
 title: Callout Manager
 type: plugin
 updated: '2024-06-02T08:48:56'

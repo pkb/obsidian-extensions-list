@@ -6,9 +6,10 @@ author:
 categories: []
 description: Quick note taking with the help of LLMs. LLMs help you to summarize /
   organize PDFs or existing notes.
-downloads: 606
+downloads: 700
 mobile: false
 number: 1930
+stars: 9
 title: LLM Summary
 type: plugin
 updated: '2024-09-13T19:41:42'

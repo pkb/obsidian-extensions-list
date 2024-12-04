@@ -5,9 +5,10 @@ author:
 - '[[liamcain|Liam Cain]]'
 categories: []
 description: Dress up your editor with decorations that mark each of your headings.
-downloads: 21298
+downloads: 21404
 mobile: true
 number: 467
+stars: 114
 title: Lapel
 type: plugin
 updated: '2024-07-18T00:30:28'

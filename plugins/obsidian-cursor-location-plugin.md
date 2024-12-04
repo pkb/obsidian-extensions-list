@@ -5,9 +5,10 @@ author:
 - '[[spslater|Sean Slater]]'
 categories: []
 description: This displays the location of the cursor (character and line number).
-downloads: 9286
+downloads: 9317
 mobile: false
 number: 222
+stars: 22
 title: Cursor Location
 type: plugin
 updated: '2024-08-26T12:30:29'

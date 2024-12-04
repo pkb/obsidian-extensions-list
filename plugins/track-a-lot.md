@@ -6,9 +6,10 @@ author:
 categories: []
 description: Scrape different webpages, builds lists with the items as Markdown tables,
   and allows you to track their status.
-downloads: 1656
+downloads: 1663
 mobile: true
 number: 1469
+stars: 10
 title: Track-a-Lot
 type: plugin
 updated: '2024-06-22T19:10:48'

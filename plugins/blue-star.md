@@ -5,9 +5,10 @@ author:
 - '[[Lio5n|Wang Guoshi]]'
 categories: []
 description: Generate Anki flashcards in multiple ways.
-downloads: 180
+downloads: 204
 mobile: false
 number: 1985
+stars: 5
 title: Blue Star
 type: plugin
 updated: '2024-11-20T16:18:31'

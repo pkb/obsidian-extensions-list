@@ -6,9 +6,10 @@ author:
 categories: []
 description: A plugin for Obsidian which uses the Cryptonator API to pull back prices
   for crypto in a target currency
-downloads: 3880
+downloads: 3884
 mobile: true
 number: 343
+stars: 13
 title: Crypto Lookup
 type: plugin
 updated: '2021-10-26T09:20:15'

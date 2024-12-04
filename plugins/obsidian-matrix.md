@@ -5,9 +5,10 @@ author:
 - '[[MohrJonas|Jonas Mohr]]'
 categories: []
 description: Utility to easily create LaTeX matrices
-downloads: 7128
+downloads: 7154
 mobile: false
 number: 460
+stars: 15
 title: Obsidian matrix
 type: plugin
 updated: '2023-02-22T04:15:30'

@@ -5,9 +5,10 @@ author:
 - '[[MohrJonas|Jonas Mohr]]'
 categories: []
 description: Add ocr capabilities to obsidian
-downloads: 15176
+downloads: 15264
 mobile: false
 number: 640
+stars: 283
 title: Obsidian OCR
 type: plugin
 updated: '2024-01-12T01:38:15'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Goal of this Plugin in to implement a native PDF handling workflow
-downloads: 54818
+downloads: 54956
 mobile: true
 number: 91
+stars: 209
 title: Better PDF Plugin
 type: plugin
 updated: '2022-06-20T03:29:33'

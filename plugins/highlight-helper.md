@@ -5,9 +5,10 @@ author:
 - '[[byfun|Chongmyung Park]]'
 categories: []
 description: Helper to copy and paste highlights
-downloads: 2202
+downloads: 2208
 mobile: true
 number: 1334
+stars: 2
 title: Highlight Helper
 type: plugin
 updated: '2023-12-12T07:52:27'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish the vault to a GitHub Pages blog.
-downloads: 199
+downloads: 215
 mobile: false
 number: 1877
+stars: 5
 title: Vault to blog
 type: plugin
 updated: '2024-11-19T11:59:29'

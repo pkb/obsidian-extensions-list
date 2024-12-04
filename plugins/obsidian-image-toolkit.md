@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: This plugin provides some image viewing toolkit.
-downloads: 213838
+downloads: 216152
 mobile: false
 number: 264
+stars: 316
 title: Image Toolkit
 type: plugin
 updated: '2024-10-07T11:05:51'

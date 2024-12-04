@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: This plugin ensures the consistency of attachments and links
-downloads: 40943
+downloads: 41657
 mobile: true
 number: 127
+stars: 242
 title: Consistent Attachments and Links
 type: plugin
 updated: '2024-11-26T08:16:00'

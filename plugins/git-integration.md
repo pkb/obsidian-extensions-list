@@ -5,9 +5,10 @@ author:
 - '[[noradroid|noradroid]]'
 categories: []
 description: Easily backup vault on a remote repository.
-downloads: 1854
+downloads: 1874
 mobile: false
 number: 1430
+stars: 4
 title: Git Integration
 type: plugin
 updated: '2024-02-22T21:46:08'

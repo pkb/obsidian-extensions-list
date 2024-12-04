@@ -6,9 +6,10 @@ author:
 categories: []
 description: The advanced and adaptive changelog. Links all modified files meeting
   certain criteria to a timed (daily, weekly, monthly) note.
-downloads: 10777
+downloads: 10836
 mobile: true
 number: 483
+stars: 115
 title: List Modified
 type: plugin
 updated: '2024-11-13T07:26:18'

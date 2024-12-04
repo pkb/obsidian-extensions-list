@@ -1,17 +1,20 @@
 ---
 aliases:
-  - Peerdraft
+- Peerdraft
 author:
-  - "[[peerdraft|Peerdraft]]"
+- '[[peerdraft|Peerdraft]]'
 categories:
-  - "[[categories/Syncing and collaboration|Syncing and collaboration]]"
-description: Real-time, instant collaboration on Obsidian documents or folders. Whether for quick note-taking or building a team knowledge base, Peerdaft syncs with your collaborators' Obsidian vaults and also offers a Web Editor.
-downloads: 8744
+- '[[categories/Syncing and collaboration|Syncing and collaboration]]'
+description: Real-time, instant collaboration on Obsidian documents or folders. Whether
+  for quick note-taking or building a team knowledge base, Peerdaft syncs with your
+  collaborators' Obsidian vaults and also offers a Web Editor.
+downloads: 8812
 mobile: true
 number: 1320
+stars: 45
 title: Peerdraft
 type: plugin
-updated: 2024-09-26T15:52:27
+updated: '2024-09-26T15:52:27'
 url: https://github.com/peerdraft/obsidian-plugin
 version: 2.10.3
 ---

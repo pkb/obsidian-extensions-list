@@ -5,9 +5,10 @@ author:
 - '[[tjbrennan|Taylor Brennan]]'
 categories: []
 description: Dynamically change the accent color of the theme.
-downloads: 2019
+downloads: 2039
 mobile: true
 number: 1509
+stars: 4
 title: Color cycler
 type: plugin
 updated: '2024-05-20T00:34:47'

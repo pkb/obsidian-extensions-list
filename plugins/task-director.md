@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Task Director
+- Task Director
 author:
-  - "[[cybertramp|cybertramp]]"
+- '[[cybertramp|cybertramp]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Manage and change tasks targeting a specific page
-downloads: 22
+downloads: 32
 mobile: true
 number: 2010
+stars: 1
 title: Task Director
 type: plugin
-updated: 2024-11-15T08:25:11
+updated: '2024-11-15T08:25:11'
 url: https://github.com/cybertramp/obsidian-task-director
 version: 0.0.2
 ---

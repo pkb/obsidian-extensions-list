@@ -7,9 +7,10 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: Enhance the experience of image seamlessly. For example, operations for
   image in context menu, command palette.
-downloads: 236
+downloads: 250
 mobile: true
 number: 1898
+stars: 8
 title: Enhanced Image
 type: plugin
 updated: '2024-09-04T07:16:17'

@@ -5,9 +5,10 @@ author:
 - '[[pacokwon|pacokwon]]'
 categories: []
 description: Easily insert references to LDS scriptures
-downloads: 3369
+downloads: 3370
 mobile: false
 number: 1014
+stars: 19
 title: LDS Scriptures Reference
 type: plugin
 updated: '2023-08-05T11:01:07'

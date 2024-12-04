@@ -5,9 +5,10 @@ author:
 - '[[renmu123|renmu123]]'
 categories: []
 description: obsidian-title-index
-downloads: 7092
+downloads: 7105
 mobile: true
 number: 210
+stars: 15
 title: obsidian-title-index
 type: plugin
 updated: '2022-06-10T15:27:14'

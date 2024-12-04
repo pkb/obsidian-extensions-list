@@ -5,9 +5,10 @@ author:
 - '[[zigahertz|zigahertz]]'
 categories: []
 description: Generates a cryptographically strong pseudorandom hash.
-downloads: 386
+downloads: 389
 mobile: true
 number: 1619
+stars: 0
 title: Generate Hash
 type: plugin
 updated: '2024-04-26T03:20:02'

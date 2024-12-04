@@ -7,9 +7,10 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: Show clock in the corner. Track total editing time of a note and the
   last time it was modified.
-downloads: 4097
+downloads: 4118
 mobile: false
 number: 1295
+stars: 15
 title: Time Things
 type: plugin
 updated: '2024-04-07T20:15:28'

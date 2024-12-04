@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Zotero integration
-downloads: 9668
+downloads: 9755
 mobile: false
 number: 546
+stars: 49
 title: Zotero Bridge
 type: plugin
 updated: '2024-10-28T01:06:03'

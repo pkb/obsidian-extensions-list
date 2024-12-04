@@ -5,9 +5,10 @@ author:
 - '[[fnya|fnya]]'
 categories: []
 description: Merge the selected notes.
-downloads: 6029
+downloads: 6094
 mobile: false
 number: 1177
+stars: 13
 title: Merge Notes
 type: plugin
 updated: '2024-06-19T19:23:26'

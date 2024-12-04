@@ -5,12 +5,13 @@ author:
 - '[[Synaptic-Labs-AI|Synaptic Labs]]'
 categories: []
 description: Enhances your note-taking with voice transcription and AI capabilities
-downloads: 132
+downloads: 167
 mobile: true
 number: 1993
+stars: 11
 title: NeuroVox
 type: plugin
-updated: '2024-11-13T22:58:33'
+updated: '2024-11-27T18:23:49'
 url: https://github.com/Synaptic-Labs-AI/NeuroVox
 version: 0.1.1
 ---

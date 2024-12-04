@@ -5,9 +5,10 @@ author:
 - '[[conorzhong|conorzhong]]'
 categories: []
 description: Auto update front matter
-downloads: 3868
+downloads: 3874
 mobile: false
 number: 993
+stars: 7
 title: Auto Front Matter
 type: plugin
 updated: '2023-11-08T07:13:31'

@@ -5,9 +5,10 @@ author:
 - '[[mkozhukharenko|death_au]]'
 categories: []
 description: Edit mdx files as if they were markdown
-downloads: 5218
+downloads: 5236
 mobile: true
 number: 155
+stars: 24
 title: mdx as md
 type: plugin
 updated: '2021-04-19T01:48:28'

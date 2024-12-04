@@ -5,9 +5,10 @@ author:
 - '[[anpigon|anpigon]]'
 categories: []
 description: Helps you find books and create notes.
-downloads: 131364
+downloads: 132530
 mobile: true
 number: 489
+stars: 466
 title: Book Search
 type: plugin
 updated: '2024-10-16T20:47:11'

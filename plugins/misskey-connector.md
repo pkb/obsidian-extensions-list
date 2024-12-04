@@ -5,9 +5,10 @@ author:
 - '[[minimarimo3|minimarimo3]]'
 categories: []
 description: Enables posting and embedding Misskey notes.
-downloads: 684
+downloads: 689
 mobile: true
 number: 1555
+stars: 5
 title: Misskey Connector
 type: plugin
 updated: '2024-04-05T14:21:44'

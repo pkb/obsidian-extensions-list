@@ -5,9 +5,10 @@ author:
 - '[[tabibyte|tabibyte]]'
 categories: []
 description: Create temporary session or one-off notes
-downloads: 72
+downloads: 81
 mobile: true
 number: 1972
+stars: 4
 title: Session Notes
 type: plugin
 updated: '2024-11-02T08:37:07'

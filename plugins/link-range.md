@@ -5,9 +5,10 @@ author:
 - '[[rmellmer|Ryan Mellmer and Eric Sowell]]'
 categories: []
 description: This Obsidian plugin brings ranged link support to Obsidian.
-downloads: 4310
+downloads: 4317
 mobile: true
 number: 891
+stars: 22
 title: Link Range
 type: plugin
 updated: '2024-05-01T23:11:36'

@@ -5,9 +5,10 @@ author:
 - '[[alexgavrusev|Alex Gavrusev]]'
 categories: []
 description: Format files in your vault using Prettier.
-downloads: 1782
+downloads: 1795
 mobile: true
 number: 1439
+stars: 13
 title: Format with Prettier
 type: plugin
 updated: '2024-08-18T01:30:24'

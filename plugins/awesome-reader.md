@@ -5,9 +5,10 @@ author:
 - '[[AwesomeDog|AwesomeDog]]'
 categories: []
 description: Make Obsidian a proper Reader.
-downloads: 7696
+downloads: 7767
 mobile: true
 number: 802
+stars: 94
 title: Awesome Reader
 type: plugin
 updated: '2023-02-20T15:25:33'

@@ -5,9 +5,10 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Enables context menu for vault root folder
-downloads: 1882
+downloads: 1907
 mobile: true
 number: 1386
+stars: 2
 title: Root Folder Context Menu
 type: plugin
 updated: '2024-11-21T11:04:54'

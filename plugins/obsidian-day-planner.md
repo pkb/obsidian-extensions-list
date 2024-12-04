@@ -7,9 +7,10 @@ author:
 categories:
 - '[[categories/Planning|Planning]]'
 description: A day planner with clean UI and readable syntax
-downloads: 546373
+downloads: 551688
 mobile: true
 number: 19
+stars: 2100
 title: Day Planner
 type: plugin
 updated: '2024-11-21T01:01:39'

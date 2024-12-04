@@ -5,9 +5,10 @@ author:
 - '[[kinabalu|Andrew Lombardi]]'
 categories: []
 description: A plugin for importing Oura Ring data from the Cloud-based API
-downloads: 3895
+downloads: 3900
 mobile: true
 number: 337
+stars: 33
 title: Oura Ring
 type: plugin
 updated: '2024-06-29T04:07:28'

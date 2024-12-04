@@ -5,9 +5,10 @@ author:
 - '[[zjhcn|Hank]]'
 categories: []
 description: Code Preview
-downloads: 4619
+downloads: 4624
 mobile: true
 number: 684
+stars: 36
 title: Code Preview
 type: plugin
 updated: '2023-01-10T08:24:08'

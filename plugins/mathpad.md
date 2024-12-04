@@ -5,9 +5,10 @@ author:
 - '[[Canna71|Gabriele Cannata]]'
 categories: []
 description: Computer Algebra System and Calculator for Obsidian
-downloads: 11642
+downloads: 11700
 mobile: false
 number: 653
+stars: 95
 title: Mathpad
 type: plugin
 updated: '2023-01-14T21:41:28'

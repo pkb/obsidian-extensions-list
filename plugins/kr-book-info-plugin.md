@@ -5,9 +5,10 @@ author:
 - '[[kmsk99|kmsk99]]'
 categories: []
 description: A plugin that crawls Yes24 to get book information.
-downloads: 11220
+downloads: 11286
 mobile: true
 number: 495
+stars: 23
 title: KoreanBook Info Plugin
 type: plugin
 updated: '2023-09-20T13:21:35'

@@ -5,9 +5,10 @@ author:
 - '[[vzsky|my99n]]'
 categories: []
 description: render APL syntax
-downloads: 3124
+downloads: 3127
 mobile: true
 number: 1002
+stars: 3
 title: APL Render
 type: plugin
 updated: '2023-07-20T13:37:44'

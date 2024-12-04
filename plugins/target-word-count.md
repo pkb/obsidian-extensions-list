@@ -5,9 +5,10 @@ author:
 - '[[twofive-labs|TwoFive Labs]]'
 categories: []
 description: Disable editing until you've added a target number of words.
-downloads: 632
+downloads: 639
 mobile: true
 number: 1578
+stars: 3
 title: Target Word Count
 type: plugin
 updated: '2024-04-10T03:02:57'

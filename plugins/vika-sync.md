@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync your note to vika
-downloads: 3865
+downloads: 3867
 mobile: true
 number: 656
+stars: 38
 title: Vika Sync
 type: plugin
 updated: '2022-11-17T16:12:08'

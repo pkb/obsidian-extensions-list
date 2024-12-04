@@ -5,9 +5,10 @@ author:
 - '[[deathau|death_au]]'
 categories: []
 description: Typewriter-style scrolling which keeps the view centered in the editor.
-downloads: 74104
+downloads: 74426
 mobile: true
 number: 41
+stars: 170
 title: Typewriter Scroll
 type: plugin
 updated: '2022-04-14T09:50:47'

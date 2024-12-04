@@ -6,9 +6,10 @@ author:
 categories: []
 description: This is a plugin to cardify markdown contents into subsequent markdown
   files.
-downloads: 4266
+downloads: 4283
 mobile: true
 number: 1171
+stars: 20
 title: Cardify
 type: plugin
 updated: '2024-02-27T09:16:43'

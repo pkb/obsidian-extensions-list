@@ -5,9 +5,10 @@ author:
 - '[[shumpei-tanaka|Shumpei-Tanaka]]'
 categories: []
 description: set tab name to short for uid user
-downloads: 2073
+downloads: 2074
 mobile: true
 number: 1269
+stars: 0
 title: short tab name
 type: plugin
 updated: '2023-11-23T19:36:18'

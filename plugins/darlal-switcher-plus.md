@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Enhanced Quick Switcher, search open panels, and symbols.
-downloads: 241839
+downloads: 243118
 mobile: true
 number: 18
+stars: 443
 title: Quick Switcher++
 type: plugin
 updated: '2024-11-02T07:27:24'

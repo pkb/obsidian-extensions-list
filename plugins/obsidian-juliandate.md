@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Simple hotkey to insert the current Julian Date
-downloads: 4155
+downloads: 4156
 mobile: true
 number: 46
+stars: 6
 title: Julian Date
 type: plugin
 updated: '2021-07-21T20:09:31'

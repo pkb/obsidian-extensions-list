@@ -5,9 +5,10 @@ author:
 - '[[Unarray|Unarray]]'
 categories: []
 description: Generate a file tree using Obsidian callouts.
-downloads: 3051
+downloads: 3064
 mobile: true
 number: 1206
+stars: 5
 title: File Tree Generator
 type: plugin
 updated: '2023-10-03T15:59:03'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Provides AI-generated summaries (GPT) of three notes from your Vault
   every day.
-downloads: 270
+downloads: 274
 mobile: false
 number: 1773
+stars: 1
 title: Notes Refresher
 type: plugin
 updated: '2024-07-18T23:02:14'

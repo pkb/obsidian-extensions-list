@@ -5,9 +5,10 @@ author:
 - '[[xhuajin|Huajin]]'
 categories: []
 description: Add file preview contents under file in file explorer.
-downloads: 1611
+downloads: 1641
 mobile: true
 number: 1676
+stars: 16
 title: File Preview
 type: plugin
 updated: '2024-10-22T23:45:25'

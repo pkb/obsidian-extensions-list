@@ -5,9 +5,10 @@ author:
 - '[[thiagocoutinhor|Thiago Coutinho]]'
 categories: []
 description: Displays Pathfinder 2E action icons easily
-downloads: 5606
+downloads: 5637
 mobile: true
 number: 997
+stars: 1
 title: Pathfinder 2E Action Icons
 type: plugin
 updated: '2024-11-04T19:08:07'

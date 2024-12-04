@@ -5,9 +5,10 @@ author:
 - '[[Stanley-Wang910|Stanley Wang]]'
 categories: []
 description: Autosuggests and completes codeblock language options based on history.
-downloads: 362
+downloads: 379
 mobile: false
 number: 1907
+stars: 5
 title: Code Language Completer
 type: plugin
 updated: '2024-09-25T02:50:15'

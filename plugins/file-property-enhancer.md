@@ -6,9 +6,10 @@ author:
 categories: []
 description: Improve user experience when using file properties like adding icons
   or custom display view.
-downloads: 5345
+downloads: 5399
 mobile: false
 number: 1193
+stars: 39
 title: File Property Enhancer
 type: plugin
 updated: '2024-09-20T13:27:29'

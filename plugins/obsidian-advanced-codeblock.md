@@ -5,9 +5,10 @@ author:
 - '[[lijyze|Lijyze]]'
 categories: []
 description: Give additioinal features to  code blocks.
-downloads: 12288
+downloads: 12351
 mobile: true
 number: 533
+stars: 56
 title: Advanced Codeblock
 type: plugin
 updated: '2023-07-28T17:23:58'

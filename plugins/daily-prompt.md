@@ -5,9 +5,10 @@ author:
 - '[[Erl-koenig|Erl-koenig]]'
 categories: []
 description: Set up custom prompts and automatically fill them into your daily notes
-downloads: 818
+downloads: 827
 mobile: true
 number: 1582
+stars: 4
 title: Daily Prompt
 type: plugin
 updated: '2024-04-02T23:46:23'

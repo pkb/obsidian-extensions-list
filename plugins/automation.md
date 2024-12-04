@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Automation|Automation]]'
 description: Execute commands on specific events.
-downloads: 1259
+downloads: 1278
 mobile: true
 number: 1572
+stars: 16
 title: Automation
 type: plugin
 updated: '2024-05-31T17:37:35'

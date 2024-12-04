@@ -7,9 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Integrates Tldraw into Obsidian, allowing users to draw and edit content
   on a virtual whiteboard.
-downloads: 17821
+downloads: 18329
 mobile: true
 number: 1314
+stars: 213
 title: Tldraw
 type: plugin
 updated: '2024-11-20T08:20:44'

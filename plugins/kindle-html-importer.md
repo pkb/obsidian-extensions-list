@@ -7,9 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: A simple way to import your Kindle highlights html file.
-downloads: 2703
+downloads: 2733
 mobile: true
 number: 1420
+stars: 3
 title: Kindle Highlights Importer
 type: plugin
 updated: '2024-01-29T15:26:46'

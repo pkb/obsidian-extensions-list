@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to Hexo
-downloads: 111
+downloads: 115
 mobile: false
 number: 1825
+stars: 3
 title: Hexo Publisher
 type: plugin
 updated: '2024-06-30T18:24:49'

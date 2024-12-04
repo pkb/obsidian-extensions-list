@@ -6,9 +6,10 @@ author:
 categories: []
 description: Like daily notes, but nested in a named daily folder. Better for attachment
   management. Includes more flexible naming.
-downloads: 16243
+downloads: 16389
 mobile: true
 number: 271
+stars: 16
 title: Daily Named Folder
 type: plugin
 updated: '2023-09-28T23:21:54'

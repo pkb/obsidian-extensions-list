@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Learning|Learning]]'
 description: Create quizzes for your Obsidian.md notes and learn better.
-downloads: 2907
+downloads: 2919
 mobile: true
 number: 1222
+stars: 5
 title: Studier
 type: plugin
 updated: '2023-11-15T22:55:13'

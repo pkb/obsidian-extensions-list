@@ -6,9 +6,10 @@ author:
 categories: []
 description: Conceal or replace user configured text patterns in Live Preview and
   Read Mode.
-downloads: 1234
+downloads: 1239
 mobile: true
 number: 1395
+stars: 8
 title: Dynamic Text Concealer
 type: plugin
 updated: '2024-02-15T02:21:14'

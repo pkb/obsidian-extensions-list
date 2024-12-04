@@ -5,9 +5,10 @@ author:
 - '[[aaachen|Andrew Chen]]'
 categories: []
 description: Sync your IMDb list
-downloads: 591
+downloads: 597
 mobile: false
 number: 1581
+stars: 12
 title: IMDb
 type: plugin
 updated: '2024-04-11T21:41:29'

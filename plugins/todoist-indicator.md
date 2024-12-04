@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a badge to "project" files when they miss a link to a Todoist project.
   (based on the GTD indicator from saibotsivad, thanks!)
-downloads: 180
+downloads: 184
 mobile: true
 number: 1757
+stars: 0
 title: Todoist Indicator
 type: plugin
 updated: '2024-07-02T14:22:19'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Create and place notes quickly in specific folders based on predefined
   prefixes.
-downloads: 5518
+downloads: 5532
 mobile: true
 number: 675
+stars: 51
 title: Rapid Notes
 type: plugin
 updated: '2023-05-03T05:55:43'

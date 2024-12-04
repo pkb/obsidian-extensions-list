@@ -5,9 +5,10 @@ author:
 - '[[Dyldog|Dylan Elliott]]'
 categories: []
 description: Shows the first markdown header of a note in the file explorer
-downloads: 5943
+downloads: 5952
 mobile: true
 number: 252
+stars: 28
 title: File Explorer Markdown Titles
 type: plugin
 updated: '2021-09-12T17:55:22'

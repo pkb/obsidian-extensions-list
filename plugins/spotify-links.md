@@ -5,9 +5,10 @@ author:
 - '[[cutaiar|Dillon Cutaiar]]'
 categories: []
 description: Insert a link to the song currently playing on your Spotify
-downloads: 2522
+downloads: 2531
 mobile: false
 number: 1288
+stars: 4
 title: Song Links
 type: plugin
 updated: '2024-06-07T05:58:33'

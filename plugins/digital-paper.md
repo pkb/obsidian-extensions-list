@@ -5,9 +5,10 @@ author:
 - '[[danferns|Daniel Fernandes]]'
 categories: []
 description: turn off backspace and undo, just like writing with a pen on real paper.
-downloads: 3306
+downloads: 3319
 mobile: true
 number: 1176
+stars: 9
 title: digital paper
 type: plugin
 updated: '2023-10-02T19:32:46'

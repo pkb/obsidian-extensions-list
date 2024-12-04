@@ -5,9 +5,10 @@ author:
 - '[[qawatake|qawatake]]'
 categories: []
 description: Command palette without unwanted commands
-downloads: 4562
+downloads: 4566
 mobile: true
 number: 432
+stars: 18
 title: Command Palette--
 type: plugin
 updated: '2022-02-07T20:49:37'

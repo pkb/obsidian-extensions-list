@@ -5,9 +5,10 @@ author:
 - '[[graydon|Graydon Hoare]]'
 categories: []
 description: This plugin shows any dangling links in your vault.
-downloads: 14805
+downloads: 14846
 mobile: true
 number: 43
+stars: 46
 title: Dangling links
 type: plugin
 updated: '2021-05-19T01:06:16'

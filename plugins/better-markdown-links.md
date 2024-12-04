@@ -5,9 +5,10 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Adds support for angle bracket links and manages relative links properly
-downloads: 1671
+downloads: 1750
 mobile: true
 number: 1784
+stars: 7
 title: Better Markdown Links
 type: plugin
 updated: '2024-11-26T08:19:33'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Show tags as folder
-downloads: 139255
+downloads: 140292
 mobile: true
 number: 379
+stars: 221
 title: TagFolder
 type: plugin
 updated: '2024-11-05T17:54:56'

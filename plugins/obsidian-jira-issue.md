@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin allows you to track the progress of Atlassian Jira issues
   from your Obsidian notes.
-downloads: 28267
+downloads: 28420
 mobile: true
 number: 476
+stars: 244
 title: Jira Issue
 type: plugin
 updated: '2024-07-27T21:45:38'

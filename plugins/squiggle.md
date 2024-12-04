@@ -5,9 +5,10 @@ author:
 - '[[jqhoogland|Jesse Hoogland]]'
 categories: []
 description: Enables running squiggle code snippets within a note.
-downloads: 3502
+downloads: 3506
 mobile: false
 number: 619
+stars: 22
 title: Squiggle
 type: plugin
 updated: '2022-09-26T02:30:52'

@@ -5,9 +5,10 @@ author:
 - '[[0918nobita|Kodai Matsumoto]]'
 categories: []
 description: Provides code blocks with features for Chinese learners
-downloads: 3064
+downloads: 3077
 mobile: true
 number: 1254
+stars: 21
 title: Zhongwen Block
 type: plugin
 updated: '2024-10-05T14:40:05'

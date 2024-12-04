@@ -5,9 +5,10 @@ author:
 - '[[lofttech|loftTech]]'
 categories: []
 description: tagger explorer and frontmatter logger
-downloads: 4743
+downloads: 4765
 mobile: true
 number: 1027
+stars: 34
 title: oblogger
 type: plugin
 updated: '2023-10-29T05:04:46'

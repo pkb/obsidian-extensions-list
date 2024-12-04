@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Pane Relief
+- Pane Relief
 author:
-  - "[[pjeby|PJ Eby]]"
+- '[[pjeby|PJ Eby]]'
 categories:
-  - "[[categories/UI customization|UI customization]]"
-description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace, and more
-downloads: 117585
+- '[[categories/UI customization|UI customization]]'
+description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace,
+  and more
+downloads: 118211
 mobile: false
 number: 123
+stars: 237
 title: Pane Relief
 type: plugin
-updated: 2024-11-09T13:03:39
+updated: '2024-11-09T13:03:39'
 url: https://github.com/pjeby/pane-relief
 version: 0.5.6
 ---

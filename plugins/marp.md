@@ -5,9 +5,10 @@ author:
 - '[[JichouP|JichouP]]'
 categories: []
 description: Plugin for using Marp on Obsidian.
-downloads: 10497
+downloads: 10564
 mobile: false
 number: 807
+stars: 132
 title: Marp
 type: plugin
 updated: '2023-08-06T19:32:47'

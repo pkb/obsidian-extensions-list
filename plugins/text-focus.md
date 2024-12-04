@@ -5,9 +5,10 @@ author:
 - '[[usysrc|usysrc]]'
 categories: []
 description: Focus the text area when creating new notes.
-downloads: 1104
+downloads: 1145
 mobile: true
 number: 1481
+stars: 4
 title: Text Focus
 type: plugin
 updated: '2024-11-26T23:40:35'

@@ -5,9 +5,10 @@ author:
 - '[[9r0x|Shukai Ni]]'
 categories: []
 description: Enables dashing cursor that follows the page scroll
-downloads: 4419
+downloads: 4429
 mobile: true
 number: 587
+stars: 13
 title: Dashing cursor
 type: plugin
 updated: '2022-10-14T20:38:28'

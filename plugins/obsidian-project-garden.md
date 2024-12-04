@@ -5,9 +5,10 @@ author:
 - '[[bgoosman|Ben Goosman]]'
 categories: []
 description: See all your projects in one place
-downloads: 5296
+downloads: 5314
 mobile: true
 number: 717
+stars: 20
 title: Project Garden
 type: plugin
 updated: '2022-12-06T04:28:41'

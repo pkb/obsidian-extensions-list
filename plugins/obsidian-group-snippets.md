@@ -5,9 +5,10 @@ author:
 - '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Create folder of snippets to activate them in one click !
-downloads: 4867
+downloads: 4871
 mobile: true
 number: 584
+stars: 17
 title: Group Snippets
 type: plugin
 updated: '2024-05-26T13:29:38'

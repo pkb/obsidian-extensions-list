@@ -9,9 +9,10 @@ categories:
 description: Related links up to 2 hops away are displayed in a card format, allowing
   for easy browsing through connections between notes. Each card contains a preview
   of the corresponding note.
-downloads: 9530
+downloads: 9605
 mobile: true
 number: 1129
+stars: 64
 title: 2Hop Links Plus
 type: plugin
 updated: '2023-10-16T08:12:45'

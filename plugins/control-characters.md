@@ -5,9 +5,10 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Show control/non-printing characters in edit mode.
-downloads: 5473
+downloads: 5485
 mobile: true
 number: 478
+stars: 24
 title: Control Characters
 type: plugin
 updated: '2022-06-20T20:15:43'

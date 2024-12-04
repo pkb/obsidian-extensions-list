@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Micro.blog
-downloads: 5062
+downloads: 5074
 mobile: true
 number: 613
+stars: 43
 title: Micro.publish
 type: plugin
 updated: '2024-06-06T02:09:15'

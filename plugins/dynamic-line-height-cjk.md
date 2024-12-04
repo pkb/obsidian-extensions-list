@@ -6,9 +6,10 @@ author:
 categories: []
 description: Dynamically adjust line height for lines & paragraphs containing CJK
   characters.
-downloads: 2076
+downloads: 2090
 mobile: true
 number: 1328
+stars: 3
 title: Dynamic Line Height for CJK
 type: plugin
 updated: '2023-12-12T14:49:50'

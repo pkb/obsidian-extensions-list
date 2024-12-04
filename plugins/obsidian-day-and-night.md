@@ -6,9 +6,10 @@ author:
 categories: []
 description: An Obsidian plugin to automatically toggle themes between day theme and
   night theme on a set time schedule.
-downloads: 7282
+downloads: 7302
 mobile: false
 number: 601
+stars: 14
 title: Day and Night
 type: plugin
 updated: '2023-10-18T05:18:31'

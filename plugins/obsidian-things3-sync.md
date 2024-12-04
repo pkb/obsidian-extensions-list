@@ -8,9 +8,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: An Obsidian plugin for sync between Obsidian and Things3, create Todo
   and sync Todo status
-downloads: 11418
+downloads: 11491
 mobile: true
 number: 652
+stars: 82
 title: Things3 Sync
 type: plugin
 updated: '2024-04-23T16:35:02'

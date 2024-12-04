@@ -5,9 +5,10 @@ author:
 - '[[OGKevin|Kevin Hellemun]]'
 categories: []
 description: Import highlights from your Kobo device
-downloads: 7770
+downloads: 7795
 mobile: false
 number: 447
+stars: 83
 title: Kobo Highlights Importer
 type: plugin
 updated: '2024-03-11T16:16:08'

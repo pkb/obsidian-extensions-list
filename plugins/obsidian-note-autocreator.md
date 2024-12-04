@@ -5,9 +5,10 @@ author:
 - '[[SimonTC|Simon T. Clement]]'
 categories: []
 description: Automatically create notes when links are created to them.
-downloads: 10884
+downloads: 10920
 mobile: true
 number: 524
+stars: 59
 title: Note Auto Creator
 type: plugin
 updated: '2023-05-16T23:10:47'

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Typefully integration. Publish social media posts with ease
-downloads: 87
+downloads: 93
 mobile: true
 number: 1940
+stars: 8
 title: Typefully
 type: plugin
 updated: '2024-10-27T08:57:03'

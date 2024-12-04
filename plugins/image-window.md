@@ -5,9 +5,10 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Allow images & notes to be viewed in new Obsidian windows.
-downloads: 24073
+downloads: 24178
 mobile: false
 number: 371
+stars: 37
 title: Second Window
 type: plugin
 updated: '2024-01-03T23:32:54'

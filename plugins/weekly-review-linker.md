@@ -6,9 +6,10 @@ author:
 categories: []
 description: This links all of the files you have created in the last week into a
   Weekly Review note.
-downloads: 394
+downloads: 403
 mobile: true
 number: 1645
+stars: 0
 title: Weekly Review notes linker
 type: plugin
 updated: '2024-05-06T22:04:16'

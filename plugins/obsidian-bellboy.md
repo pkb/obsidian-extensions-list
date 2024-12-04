@@ -5,9 +5,10 @@ author:
 - '[[shakedlokits|Shaked Lokits (shaked@melio.com)]]'
 categories: []
 description: Opinionated file structure manager.
-downloads: 3674
+downloads: 3678
 mobile: true
 number: 522
+stars: 25
 title: Bellboy
 type: plugin
 updated: '2022-08-06T15:07:20'

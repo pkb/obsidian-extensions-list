@@ -5,9 +5,10 @@ author:
 - '[[Natumsol|Natumsol]]'
 categories: []
 description: 自动为中英文之间插入空格，排版强迫者的福音。
-downloads: 22352
+downloads: 22465
 mobile: false
 number: 177
+stars: 82
 title: 盘古 PanGu
 type: plugin
 updated: '2024-10-22T14:33:04'

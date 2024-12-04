@@ -5,9 +5,10 @@ author:
 - '[[Max-Schulten|Maximilian Schulten]]'
 categories: []
 description: Generate truth tables quickly in your .md files
-downloads: 292
+downloads: 295
 mobile: true
 number: 1832
+stars: 3
 title: Truth Table+
 type: plugin
 updated: '2024-08-06T20:25:45'

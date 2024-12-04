@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Custom Icons
+- Custom Icons
 author:
-  - "[[RavenHogWarts|RavenHogWarts]]"
+- '[[RavenHogWarts|RavenHogWarts]]'
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Enhance your workspace with customizable icons for documents and folders.
-downloads: 3829
+downloads: 3902
 mobile: true
 number: 1583
+stars: 16
 title: Custom Icons
 type: plugin
-updated: 2024-05-29T23:06:57
+updated: '2024-05-29T23:06:57'
 url: https://github.com/RavenHogWarts/obsidian-custom-icons
 version: 0.6.2
 ---

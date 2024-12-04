@@ -5,9 +5,10 @@ author:
 - '[[jglev|Jacob Levernier]]'
 categories: []
 description: Apply custom patterns of find-and-replace in succession to text.
-downloads: 7715
+downloads: 7724
 mobile: true
 number: 242
+stars: 59
 title: Apply Patterns
 type: plugin
 updated: '2023-02-27T05:38:57'

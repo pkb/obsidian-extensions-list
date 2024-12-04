@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Copy as HTML
+- Copy as HTML
 author:
-  - "[[jenningsb2|Bailey Jennings]]"
+- '[[jenningsb2|Bailey Jennings]]'
 categories:
-  - "[[categories/Export|Export]]"
-description: This is a simple plugin that converts the selected markdown to HTML and copies it to the clipboard.
-downloads: 32766
+- '[[categories/Export|Export]]'
+description: This is a simple plugin that converts the selected markdown to HTML and
+  copies it to the clipboard.
+downloads: 32946
 mobile: true
 number: 410
+stars: 40
 title: Copy as HTML
 type: plugin
-updated: 2023-05-26T18:14:18
+updated: '2023-05-26T18:14:18'
 url: https://github.com/jenningsb2/copy-as-html
 version: 1.1.3
 ---

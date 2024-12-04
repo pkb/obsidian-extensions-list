@@ -5,9 +5,10 @@ author:
 - '[[dpickett|Dan Pickett]]'
 categories: []
 description: Opens URLs found in a note's YAML frontmatter
-downloads: 3983
+downloads: 3987
 mobile: true
 number: 575
+stars: 20
 title: Open Related Url
 type: plugin
 updated: '2022-08-20T21:30:56'

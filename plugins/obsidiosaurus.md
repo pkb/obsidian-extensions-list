@@ -5,9 +5,10 @@ author:
 - '[[CIMSTA|CIMSTA]]'
 categories: []
 description: Connect your vault to Docusaurus
-downloads: 3540
+downloads: 3548
 mobile: false
 number: 1053
+stars: 143
 title: Obsidiosaurus
 type: plugin
 updated: '2023-08-16T19:20:57'

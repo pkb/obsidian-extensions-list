@@ -5,9 +5,10 @@ author:
 - '[[jdrbrn|jdrbrn]]'
 categories: []
 description: Indexes references to scriptures in notes.
-downloads: 128
+downloads: 134
 mobile: true
 number: 1926
+stars: 0
 title: Scripture Indexer
 type: plugin
 updated: '2024-10-28T03:11:35'

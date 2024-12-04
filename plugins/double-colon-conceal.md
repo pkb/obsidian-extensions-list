@@ -6,9 +6,10 @@ author:
 categories: []
 description: Display double colon (i.e. Dataview inline fields) as a single colon
   for more natural reading experience.
-downloads: 5453
+downloads: 5467
 mobile: true
 number: 784
+stars: 17
 title: Double Colon Conceal
 type: plugin
 updated: '2024-06-17T18:06:38'

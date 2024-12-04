@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.
-downloads: 21156
+downloads: 21264
 mobile: true
 number: 456
+stars: 36
 title: File Cleaner
 type: plugin
 updated: '2022-04-01T18:49:05'

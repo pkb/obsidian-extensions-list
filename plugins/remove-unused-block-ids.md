@@ -5,9 +5,10 @@ author:
 - '[[isdmg|Daniel Geneta]]'
 categories: []
 description: Remove unused block ids in your vault.
-downloads: 183
+downloads: 187
 mobile: true
 number: 1910
+stars: 2
 title: Remove Unused Block IDs
 type: plugin
 updated: '2024-10-09T10:29:11'

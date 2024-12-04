@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Personal OS
+- Personal OS
 author:
-  - "[[GengAd|A.Buot]]"
+- '[[GengAd|A.Buot]]'
 categories:
-  - "[[categories/Task management|Task management]]"
+- '[[categories/Task management|Task management]]'
 description: Streamlining task management and productivity with a touch of gamification
-downloads: 736
+downloads: 753
 mobile: true
 number: 1608
+stars: 8
 title: Personal OS
 type: plugin
-updated: 2024-11-06T18:52:55
+updated: '2024-11-06T18:52:55'
 url: https://github.com/GengAd/obsidian-personal-os
 version: 1.1.0
 ---

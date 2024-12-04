@@ -6,9 +6,10 @@ author:
 categories: []
 description: Creates new periodic notes automatically in the background and allows
   these to be pinned in your open tabs, requires the Periodic Notes plugin.
-downloads: 340
+downloads: 363
 mobile: true
 number: 1887
+stars: 6
 title: Auto Periodic Notes
 type: plugin
 updated: '2024-09-14T13:19:55'

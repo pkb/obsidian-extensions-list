@@ -5,9 +5,10 @@ author:
 - '[[CSLukkun|Luke]]'
 categories: []
 description: Auto generate daily summary
-downloads: 72
+downloads: 122
 mobile: true
 number: 2008
+stars: 5
 title: Daily Summary
 type: plugin
 updated: '2024-11-25T17:13:48'

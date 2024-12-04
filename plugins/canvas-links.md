@@ -5,9 +5,10 @@ author:
 - '[[aqav|aqav]]'
 categories: []
 description: Show the links between "Canvas" and "File".
-downloads: 8276
+downloads: 8367
 mobile: true
 number: 951
+stars: 46
 title: Canvas Links
 type: plugin
 updated: '2023-09-02T13:20:57'

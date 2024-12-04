@@ -5,9 +5,10 @@ author:
 - '[[fyears|fyears]]'
 categories: []
 description: Fetch and insert current weather into the editor of Obsidian.
-downloads: 7470
+downloads: 7494
 mobile: true
 number: 403
+stars: 36
 title: Weather Fetcher
 type: plugin
 updated: '2022-01-24T21:52:17'

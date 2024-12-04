@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This plugin aims to enhance and optimize the editing experience in Obsidian
-downloads: 175829
+downloads: 178821
 mobile: true
 number: 195
+stars: 523
 title: Easy Typing
 type: plugin
-updated: '2024-11-25T01:10:08'
+updated: '2024-12-01T17:51:09'
 url: https://github.com/Yaozhuwa/easy-typing-obsidian
-version: 5.5.9
+version: 5.5.10
 ---
 
 %% README_START %%

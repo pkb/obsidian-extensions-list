@@ -6,9 +6,10 @@ author:
 categories: []
 description: Converts a markdown note to the Slack message blocks that enable you
   to send to your Slack
-downloads: 3773
+downloads: 3784
 mobile: true
 number: 1033
+stars: 5
 title: Markdown to Slack Message
 type: plugin
 updated: '2023-06-13T17:56:46'

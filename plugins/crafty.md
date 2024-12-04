@@ -5,9 +5,10 @@ author:
 - '[[liolle|liolle]]'
 categories: []
 description: Add tooltip to any canvas node and Quickly navigate between canvas nodes
-downloads: 2443
+downloads: 2470
 mobile: false
 number: 1508
+stars: 12
 title: Crafty
 type: plugin
 updated: '2024-08-29T21:17:49'

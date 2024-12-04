@@ -5,9 +5,10 @@ author:
 - '[[imcauley|Isaac McAuley]]'
 categories: []
 description: A pane for reviewing overdue tasks from todoist
-downloads: 1122
+downloads: 1127
 mobile: true
 number: 1462
+stars: 1
 title: Todoist Review
 type: plugin
 updated: '2024-02-28T08:30:46'

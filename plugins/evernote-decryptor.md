@@ -5,9 +5,10 @@ author:
 - '[[rcmdnk|rcmdnk]]'
 categories: []
 description: Obsidian Plugin for encrypted data imported from Evernote.
-downloads: 1487
+downloads: 1498
 mobile: true
 number: 1402
+stars: 3
 title: Evernote Decryptor
 type: plugin
 updated: '2024-06-17T07:29:36'

@@ -5,9 +5,10 @@ author:
 - '[[srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Azure issue tag as a link to you Azure instance.
-downloads: 268
+downloads: 273
 mobile: true
 number: 1629
+stars: 1
 title: Azure DevOps Linker
 type: plugin
 updated: '2024-04-26T19:28:22'

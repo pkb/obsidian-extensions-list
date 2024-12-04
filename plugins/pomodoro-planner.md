@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Pomodoro Planner
+- Pomodoro Planner
 author:
-  - "[[onesvat|Onur Nesvat]]"
+- '[[onesvat|Onur Nesvat]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: Generates a pomodoro schedule plan
-downloads: 1832
+downloads: 1851
 mobile: true
 number: 1488
+stars: 3
 title: Pomodoro Planner
 type: plugin
-updated: 2024-02-29T20:46:34
+updated: '2024-02-29T20:46:34'
 url: https://github.com/onesvat/obsidian-pomodoro-planner
 version: 1.0.7
 ---

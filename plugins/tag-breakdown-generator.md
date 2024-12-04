@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Tag Breakdown Generator
+- Tag Breakdown Generator
 author:
-  - "[[HananoshikaYomaru|Hananoshika Yomaru]]"
+- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories:
-  - "[[categories/Tag Management|Tag Management]]"
+- '[[categories/Tag Management|Tag Management]]'
 description: Breakdown nested tags into multiple parent tags
-downloads: 2519
+downloads: 2528
 mobile: false
 number: 1201
+stars: 8
 title: Tag Breakdown Generator
 type: plugin
-updated: 2023-11-21T09:57:41
+updated: '2023-11-21T09:57:41'
 url: https://github.com/HananoshikaYomaru/obsidian-tag-generator
 version: 1.0.10
 ---

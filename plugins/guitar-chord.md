@@ -7,9 +7,10 @@ categories: []
 description: Quickly enter and display guitar chords, with optional chords based on
   music theory. No need to write in code blocks, they can be inserted and edited directly
   in the document.
-downloads: 350
+downloads: 374
 mobile: true
 number: 1908
+stars: 3
 title: Guitar Chord
 type: plugin
 updated: '2024-10-11T14:25:09'

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Randomly exposes you to notes from your vault. Supports habits, to-dos,
   spaced repetition flashcards, iterative reading and more.
-downloads: 935
+downloads: 958
 mobile: true
 number: 1691
+stars: 30
 title: The Queue
 type: plugin
 updated: '2024-06-19T01:02:29'

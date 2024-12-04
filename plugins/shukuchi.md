@@ -5,9 +5,10 @@ author:
 - '[[tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: Teleport to links (URL or internal link) and jump to their destinations.
-downloads: 3853
+downloads: 3861
 mobile: true
 number: 965
+stars: 22
 title: Shukuchi
 type: plugin
 updated: '2024-01-01T12:26:59'

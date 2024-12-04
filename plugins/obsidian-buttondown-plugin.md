@@ -5,9 +5,10 @@ author:
 - '[[caro401|caro401]]'
 categories: []
 description: Send your notes to your buttondown.email account as email drafts.
-downloads: 3808
+downloads: 3810
 mobile: true
 number: 466
+stars: 17
 title: Buttondown
 type: plugin
 updated: '2023-03-29T16:38:18'

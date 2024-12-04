@@ -7,9 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Copy or open the URL of the corresponding note on your Publish site.
   You can also open its Git commit history on GitHub.
-downloads: 5647
+downloads: 5654
 mobile: true
 number: 347
+stars: 20
 title: Publish and GitHub URL
 type: plugin
 updated: '2023-04-30T00:20:51'

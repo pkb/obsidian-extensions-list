@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Move completed tasks to an archive with a date tree
-downloads: 25744
+downloads: 25832
 mobile: true
 number: 289
+stars: 119
 title: Archiver
 type: plugin
 updated: '2023-09-05T14:19:42'

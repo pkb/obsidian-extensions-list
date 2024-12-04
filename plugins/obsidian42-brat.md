@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Easily install a beta version of a plugin for testing.
-downloads: 254883
+downloads: 260516
 mobile: true
 number: 312
+stars: 656
 title: BRAT
 type: plugin
-updated: '2024-10-31T12:26:36'
+updated: '2024-11-29T12:01:19'
 url: https://github.com/TfTHacker/obsidian42-brat
-version: 1.0.5
+version: 1.0.6
 ---
 
 %% README_START %%

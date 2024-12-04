@@ -6,12 +6,13 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: An Obsidian plugin to edit and view Excalidraw drawings
-downloads: 3000915
+downloads: 3024654
 mobile: true
 number: 156
+stars: 4300
 title: Excalidraw
 type: plugin
-updated: '2024-11-10T19:32:41'
+updated: '2024-12-01T21:32:35'
 url: https://github.com/zsviczian/obsidian-excalidraw-plugin
 version: 2.6.7
 ---

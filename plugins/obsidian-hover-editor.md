@@ -6,9 +6,10 @@ author:
 categories: []
 description: Transform the Page Preview hover popover into a fully working editor
   instance
-downloads: 288017
+downloads: 289653
 mobile: true
 number: 462
+stars: 567
 title: Hover Editor
 type: plugin
 updated: '2024-10-14T00:56:58'

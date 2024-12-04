@@ -5,9 +5,10 @@ author:
 - '[[pj4316|Max Lee]]'
 categories: []
 description: Converts Markmap data to CSV format.
-downloads: 1029
+downloads: 1032
 mobile: true
 number: 1510
+stars: 3
 title: Markmap to CSV
 type: plugin
 updated: '2024-03-02T05:08:22'

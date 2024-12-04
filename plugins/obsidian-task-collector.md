@@ -7,9 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Change task status and collect tasks within a document using hotkeys
   and context menus.
-downloads: 27806
+downloads: 27903
 mobile: true
 number: 302
+stars: 212
 title: Task Collector (TC)
 type: plugin
 updated: '2024-10-30T03:10:11'

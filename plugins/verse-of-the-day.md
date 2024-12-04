@@ -5,9 +5,10 @@ author:
 - '[[janisringli|Janis Ringli]]'
 categories: []
 description: Lets you add the verse of the day from YouVersion to your daily notes
-downloads: 893
+downloads: 899
 mobile: false
 number: 1529
+stars: 5
 title: Verse of the Day
 type: plugin
 updated: '2024-03-13T22:36:30'

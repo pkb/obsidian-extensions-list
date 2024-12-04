@@ -5,9 +5,10 @@ author:
 - '[[skelato1|skelato1]]'
 categories: []
 description: Collapse sidebars when clicking on the editor/viewer panel
-downloads: 11583
+downloads: 11635
 mobile: false
 number: 597
+stars: 28
 title: Auto Hide
 type: plugin
 updated: '2024-03-25T19:03:30'

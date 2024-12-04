@@ -6,9 +6,10 @@ author:
 categories: []
 description: Some Utilities and Quality-of-Life Features for Designers of Obsidian
   Themes.
-downloads: 14712
+downloads: 14756
 mobile: false
 number: 367
+stars: 106
 title: Theme Design Utilities
 type: plugin
 updated: '2024-02-27T17:51:11'

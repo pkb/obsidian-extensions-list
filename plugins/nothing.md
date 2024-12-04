@@ -5,9 +5,10 @@ author:
 - '[[chrisgrieser|pseudometa]]'
 categories: []
 description: Adds a no-op command to disable hotkeys.
-downloads: 2430
+downloads: 2435
 mobile: true
 number: 1250
+stars: 17
 title: Nothing
 type: plugin
 updated: '2024-03-10T02:20:25'

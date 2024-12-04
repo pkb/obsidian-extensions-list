@@ -6,9 +6,10 @@ author:
 categories: []
 description: Edit Markdown in a keyboard-centric Miller columns interface. Inspired
   by Gingko Writer.
-downloads: 3804
+downloads: 3849
 mobile: true
 number: 1671
+stars: 109
 title: Lineage
 type: plugin
 updated: '2024-08-24T16:17:51'

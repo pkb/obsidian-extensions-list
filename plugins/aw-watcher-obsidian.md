@@ -5,9 +5,10 @@ author:
 - '[[LordGrimmauld|Grimmauld]]'
 categories: []
 description: This is a plugin bridging compatibility between ActivityWatch and Obsidian.
-downloads: 4955
+downloads: 4984
 mobile: false
 number: 813
+stars: 70
 title: ActivityWatch
 type: plugin
 updated: '2023-02-23T18:05:39'

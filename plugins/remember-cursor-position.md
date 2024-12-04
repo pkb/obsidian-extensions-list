@@ -5,9 +5,10 @@ author:
 - '[[dy-sh|Dmitry Savosh]]'
 categories: []
 description: Remember cursor and scroll position for each note
-downloads: 93635
+downloads: 94308
 mobile: true
 number: 122
+stars: 218
 title: Remember cursor position
 type: plugin
 updated: '2024-05-31T05:26:44'

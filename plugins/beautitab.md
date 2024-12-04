@@ -1,18 +1,20 @@
 ---
 aliases:
-  - Beautitab
+- Beautitab
 author:
-  - "[[andrewmcgivery|Andrew McGivery]]"
+- '[[andrewmcgivery|Andrew McGivery]]'
 categories:
-  - "[[categories/UI customization|UI customization]]"
-  - "[[categories/Appearence|Appearence]]"
-description: Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more.
-downloads: 23814
+- '[[categories/UI customization|UI customization]]'
+- '[[categories/Appearence|Appearence]]'
+description: Creates a customizable new tab view with beautiful backgrounds, quotes,
+  search, and more.
+downloads: 24245
 mobile: true
 number: 1389
+stars: 131
 title: Beautitab
 type: plugin
-updated: 2024-03-27T03:28:38
+updated: '2024-03-27T03:28:38'
 url: https://github.com/andrewmcgivery/obsidian-beautitab
 version: 1.6.1
 ---

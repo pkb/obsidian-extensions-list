@@ -7,9 +7,10 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 - '[[categories/Import|Import]]'
 description: Move and link the attachments into the vault.
-downloads: 2056
+downloads: 2108
 mobile: true
 number: 1760
+stars: 15
 title: Import Attachments+
 type: plugin
 updated: '2024-11-18T03:31:31'

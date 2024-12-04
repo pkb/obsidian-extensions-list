@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to write.as
-downloads: 2961
+downloads: 2967
 mobile: true
 number: 1110
+stars: 3
 title: Writeas Blog Publisher
 type: plugin
 updated: '2023-09-03T22:36:41'

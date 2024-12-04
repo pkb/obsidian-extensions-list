@@ -6,9 +6,10 @@ author:
 categories: []
 description: When a header is linked, preview mode will show only the header, and
   not the note name.
-downloads: 7735
+downloads: 7750
 mobile: true
 number: 324
+stars: 21
 title: Link Headers Directly
 type: plugin
 updated: '2021-10-19T03:29:09'

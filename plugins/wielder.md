@@ -5,9 +5,10 @@ author:
 - '[[victorb|Victor Bjelkholm]]'
 categories: []
 description: Clojure inside Obsidian
-downloads: 3613
+downloads: 3616
 mobile: true
 number: 547
+stars: 95
 title: Wielder
 type: plugin
 updated: '2022-06-23T01:51:16'

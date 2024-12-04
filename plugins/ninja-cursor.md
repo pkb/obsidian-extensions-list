@@ -5,9 +5,10 @@ author:
 - '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: The plugin which enhance cursor visibility.
-downloads: 10762
+downloads: 10800
 mobile: true
 number: 567
+stars: 50
 title: Ninja Cursor
 type: plugin
 updated: '2023-06-16T13:59:57'

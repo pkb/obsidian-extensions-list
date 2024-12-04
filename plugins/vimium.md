@@ -5,9 +5,10 @@ author:
 - '[[karstenpedersen|Karsten Finderup Pedersen]]'
 categories: []
 description: Interact with elements using keyboard shortcuts in the spirit of Vim
-downloads: 1283
+downloads: 1333
 mobile: false
 number: 1758
+stars: 16
 title: Vimium
 type: plugin
 updated: '2024-06-21T23:51:45'

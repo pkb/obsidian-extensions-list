@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Calendar view of your daily notes
-downloads: 1454021
+downloads: 1465610
 mobile: true
 number: 10
+stars: 1700
 title: Calendar
 type: plugin
 updated: '2021-04-21T00:50:01'

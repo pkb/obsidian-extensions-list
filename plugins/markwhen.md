@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Create timelines, gantt charts, calendars, and more using markwhen.
-downloads: 5211
+downloads: 6096
 mobile: false
 number: 1643
+stars: 210
 title: Markwhen
 type: plugin
 updated: '2024-07-04T04:40:27'

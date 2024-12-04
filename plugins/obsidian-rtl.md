@@ -6,9 +6,10 @@ author:
 categories: []
 description: Extended Right to Left (RTL) support for languages like Arabic, Hebrew
   and Persian (Farsi).
-downloads: 37102
+downloads: 37240
 mobile: true
 number: 30
+stars: 138
 title: RTL Support
 type: plugin
 updated: '2024-06-28T00:42:37'

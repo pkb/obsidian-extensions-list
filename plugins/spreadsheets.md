@@ -5,9 +5,10 @@ author:
 - '[[divamgupta|Divam Gupta]]'
 categories: []
 description: Plugin to create spreadsheets in Obsidian.
-downloads: 20837
+downloads: 21015
 mobile: false
 number: 1115
+stars: 143
 title: Spreadsheets
 type: plugin
 updated: '2023-09-06T09:03:51'

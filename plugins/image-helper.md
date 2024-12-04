@@ -5,9 +5,10 @@ author:
 - '[[byfun|Chongmyung Park]]'
 categories: []
 description: 'Context menu to convert a image to another format in reading view '
-downloads: 2027
+downloads: 2030
 mobile: false
 number: 1333
+stars: 2
 title: Image Helper
 type: plugin
 updated: '2023-12-12T08:07:24'

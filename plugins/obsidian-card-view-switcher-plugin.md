@@ -5,9 +5,10 @@ author:
 - '[[qawatake|qawatake]]'
 categories: []
 description: Quick switcher with card view
-downloads: 6852
+downloads: 6864
 mobile: false
 number: 457
+stars: 47
 title: Card View Switcher
 type: plugin
 updated: '2022-03-17T09:24:09'

@@ -7,9 +7,10 @@ categories:
 - '[[categories/Data management|Data management]]'
 description: Weave together data from diverse sources into different views. Inspired
   by Excel Spreadsheets and Notion.so.
-downloads: 261569
+downloads: 262070
 mobile: true
 number: 507
+stars: 922
 title: DataLoom
 type: plugin
 updated: '2024-06-28T12:25:12'

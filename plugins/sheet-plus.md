@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create Excel-like spreadsheets and easily embed them in Markdown.
-downloads: 16299
+downloads: 16886
 mobile: true
 number: 1722
+stars: 144
 title: Sheet Plus
 type: plugin
 updated: '2024-11-05T09:25:36'

@@ -5,9 +5,10 @@ author:
 - '[[jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Insert address / location data from geocoding APIs as Obsidian properties.
-downloads: 3894
+downloads: 3914
 mobile: true
 number: 1183
+stars: 37
 title: Geocoding Properties
 type: plugin
 updated: '2024-04-13T23:38:58'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Days Since
+- Days Since
 author:
-  - "[[gndclouds|gndclouds]]"
+- '[[gndclouds|gndclouds]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: A plugin to show the number of days since a given date.
-downloads: 1901
+downloads: 1914
 mobile: true
 number: 1409
+stars: 4
 title: Days Since
 type: plugin
-updated: 2024-05-20T11:09:42
+updated: '2024-05-20T11:09:42'
 url: https://github.com/gndclouds/days-since-obsidian
 version: 2.0.3
 ---

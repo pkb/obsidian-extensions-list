@@ -5,9 +5,10 @@ author:
 - '[[thenomadlad|thenomadlad]]'
 categories: []
 description: Tools to archive your notes in another folder
-downloads: 4568
+downloads: 4586
 mobile: true
 number: 962
+stars: 21
 title: Note archiver
 type: plugin
 updated: '2023-06-05T03:43:36'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate text using the ZhipuAI API.
-downloads: 1319
+downloads: 1336
 mobile: true
 number: 1544
+stars: 21
 title: AI Zhipu
 type: plugin
 updated: '2024-06-07T07:31:17'

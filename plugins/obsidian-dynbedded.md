@@ -5,9 +5,10 @@ author:
 - '[[MMoMM-org|Marcus Breiden <marcus@mmomm.org>]]'
 categories: []
 description: Dynamic Embeds for Obsidian.md
-downloads: 4357
+downloads: 4362
 mobile: true
 number: 668
+stars: 27
 title: Dynbedded
 type: plugin
 updated: '2022-10-31T03:19:17'

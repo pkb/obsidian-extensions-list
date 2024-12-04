@@ -5,9 +5,10 @@ author:
 - '[[kenzan100|Yuta Miyama]]'
 categories: []
 description: This lets you post word counts directly from obsidian file to Beeminder.
-downloads: 4107
+downloads: 4113
 mobile: true
 number: 165
+stars: 13
 title: Beeminder Word Count Plugin
 type: plugin
 updated: '2021-05-10T04:00:26'

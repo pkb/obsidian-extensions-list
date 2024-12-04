@@ -7,9 +7,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Monthly Habit Calendar for DataviewJS. This plugin helps you render a
   calendar inside DataviewJS code block, showing your habit status within a month.
-downloads: 7820
+downloads: 7845
 mobile: true
 number: 787
+stars: 30
 title: Habit Calendar
 type: plugin
 updated: '2023-03-19T12:34:51'

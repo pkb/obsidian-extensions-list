@@ -1,17 +1,18 @@
 ---
 aliases:
-  - WaveDrom
+- WaveDrom
 author:
-  - "[[kingsquirrel152|Alex Stewart]]"
+- '[[kingsquirrel152|Alex Stewart]]'
 categories:
-  - "[[categories/Integration|Integration]]"
+- '[[categories/Integration|Integration]]'
 description: This is very rough and quick integration of WaveDrom into obsidian
-downloads: 4464
+downloads: 4476
 mobile: false
 number: 237
+stars: 10
 title: WaveDrom
 type: plugin
-updated: 2024-01-06T07:07:43
+updated: '2024-01-06T07:07:43'
 url: https://github.com/kingsquirrel152/obsidian-wavedrom
 version: 0.1.1
 ---

@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'Insert shortcodes into your document, e.g smileys :) or emojis :wink:
   . User-defined short code maps are also supported.'
-downloads: 176
+downloads: 188
 mobile: true
 number: 1884
+stars: 3
 title: Tokenz
 type: plugin
 updated: '2024-08-26T20:26:50'

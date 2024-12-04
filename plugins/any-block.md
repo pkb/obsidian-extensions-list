@@ -7,9 +7,10 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: 'You can flexibility to create a ''Block'' by some means. It also provides
   some useful features, like `list to table`. '
-downloads: 15957
+downloads: 16268
 mobile: true
 number: 869
+stars: 204
 title: AnyBlock
 type: plugin
 updated: '2024-11-09T22:19:51'

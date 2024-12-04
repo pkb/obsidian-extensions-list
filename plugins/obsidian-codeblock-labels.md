@@ -5,9 +5,10 @@ author:
 - '[[stbowers|Sean Bowers]]'
 categories: []
 description: Adds labels to fenced code blocks
-downloads: 4507
+downloads: 4515
 mobile: true
 number: 414
+stars: 10
 title: Code Block Labels
 type: plugin
 updated: '2022-01-28T07:25:38'

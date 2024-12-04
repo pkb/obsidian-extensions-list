@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Select & Complete
+- Select & Complete
 author:
-  - "[[macro21KGB|Mario De Luca]]"
+- '[[macro21KGB|Mario De Luca]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Select something and let the AI complete it for you.
-downloads: 1229
+downloads: 1234
 mobile: true
 number: 1467
+stars: 3
 title: Select & Complete
 type: plugin
-updated: 2024-11-19T23:28:29
+updated: '2024-11-19T23:28:29'
 url: https://github.com/macro21KGB/select-and-complete
 version: 2.4.3
 ---

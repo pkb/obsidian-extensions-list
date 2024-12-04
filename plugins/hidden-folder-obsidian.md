@@ -5,9 +5,10 @@ author:
 - '[[ptrsvltns|ptrsvltns]]'
 categories: []
 description: Hidden Folder
-downloads: 6297
+downloads: 6324
 mobile: false
 number: 697
+stars: 17
 title: Hidden Folder
 type: plugin
 updated: '2022-12-14T21:06:37'

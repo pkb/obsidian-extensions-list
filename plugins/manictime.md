@@ -5,9 +5,10 @@ author:
 - '[[manictime|Finkit d.o.o.]]'
 categories: []
 description: Sends path of active file to locally installed ManicTime client.
-downloads: 1977
+downloads: 1980
 mobile: false
 number: 1297
+stars: 2
 title: ManicTime
 type: plugin
 updated: '2023-12-05T16:16:24'

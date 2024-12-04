@@ -5,9 +5,10 @@ author:
 - '[[nathonius|Nathonius]]'
 categories: []
 description: Enrich your notes with issue and pull request content from GitHub
-downloads: 2312
+downloads: 2336
 mobile: true
 number: 1431
+stars: 31
 title: GitHub Link
 type: plugin
 updated: '2024-08-31T04:35:53'

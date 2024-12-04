@@ -5,9 +5,10 @@ author:
 - '[[pulsovi|Pulsovi]]'
 categories: []
 description: Provide a preview mode for embeded `*.eml` files.
-downloads: 4530
+downloads: 4550
 mobile: true
 number: 1153
+stars: 9
 title: Email Reader
 type: plugin
 updated: '2023-11-20T03:41:52'

@@ -5,9 +5,10 @@ author:
 - '[[ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Add Focus Mode to Obsidian.
-downloads: 46847
+downloads: 47345
 mobile: true
 number: 167
+stars: 70
 title: Focus Mode
 type: plugin
 updated: '2024-11-07T10:03:30'

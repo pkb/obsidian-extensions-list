@@ -5,9 +5,10 @@ author:
 - '[[duoani|Duo]]'
 categories: []
 description: This plguin creates a simple Month view for visualizing your punch records.
-downloads: 13443
+downloads: 13494
 mobile: true
 number: 214
+stars: 51
 title: Habit Tracker
 type: plugin
 updated: '2021-09-17T22:21:24'

@@ -5,9 +5,10 @@ author:
 - '[[jshph|Joshua Pham]]'
 categories: []
 description: a REPL to digest your thoughts
-downloads: 2208
+downloads: 2210
 mobile: false
 number: 1393
+stars: 34
 title: Enzyme
 type: plugin
 updated: '2024-10-28T15:20:53'

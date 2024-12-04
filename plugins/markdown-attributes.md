@@ -5,9 +5,10 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Add markdown attributes to elements in Obsidian.md
-downloads: 15140
+downloads: 15209
 mobile: true
 number: 236
+stars: 94
 title: Markdown Attributes
 type: plugin
 updated: '2022-10-22T02:16:26'

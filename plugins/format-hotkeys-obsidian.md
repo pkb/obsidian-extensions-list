@@ -5,9 +5,10 @@ author:
 - '[[anstosa|Ansel Santosa]]'
 categories: []
 description: Google Docs style formatting hotkeys for Obsidian
-downloads: 6714
+downloads: 6717
 mobile: true
 number: 120
+stars: 19
 title: Format Hotkeys
 type: plugin
 updated: '2021-05-14T22:14:31'

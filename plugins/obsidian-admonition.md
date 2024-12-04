@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Enhanced callouts for Obsidian.md
-downloads: 736820
+downloads: 738962
 mobile: true
 number: 139
+stars: 1100
 title: Admonition
 type: plugin
 updated: '2024-06-02T06:06:28'

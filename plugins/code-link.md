@@ -5,9 +5,10 @@ author:
 - '[[observerw|observerw]]'
 categories: []
 description: Link to code files in your notes
-downloads: 316
+downloads: 333
 mobile: false
 number: 1776
+stars: 11
 title: Code Link
 type: plugin
 updated: '2024-10-27T14:52:54'

@@ -5,9 +5,10 @@ author:
 - '[[AllJavi|AllJavi]]'
 categories: []
 description: Create Spoiler Blocks to hide information until you want to see it
-downloads: 7685
+downloads: 7730
 mobile: true
 number: 748
+stars: 26
 title: Spoiler Block
 type: plugin
 updated: '2022-12-23T04:17:15'

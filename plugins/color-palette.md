@@ -5,9 +5,10 @@ author:
 - '[[ALegendsTale|ALegendsTale]]'
 categories: []
 description: Create and insert color palettes into your notes.
-downloads: 14988
+downloads: 15115
 mobile: true
 number: 1036
+stars: 47
 title: Color Palette
 type: plugin
 updated: '2024-08-08T14:01:16'

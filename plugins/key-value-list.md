@@ -5,9 +5,10 @@ author:
 - '[[christianwannerstedt|Christian Wannerstedt]]'
 categories: []
 description: Makes it easy to turn lists into formatted key-value lists.
-downloads: 4641
+downloads: 4662
 mobile: true
 number: 1301
+stars: 34
 title: Key-Value List
 type: plugin
 updated: '2024-03-06T00:23:33'

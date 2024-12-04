@@ -5,9 +5,10 @@ author:
 - '[[Karakaz|Daniel Karakka]]'
 categories: []
 description: Paste from the editor's recent clipboard history.
-downloads: 1729
+downloads: 1736
 mobile: true
 number: 1363
+stars: 7
 title: Paste From History
 type: plugin
 updated: '2024-07-16T22:59:11'

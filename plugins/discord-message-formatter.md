@@ -6,9 +6,10 @@ author:
 categories: []
 description: Simply CTRL+C CTRL+V Discord messages from the Desktop client and have
   them automatically formatted
-downloads: 3445
+downloads: 3461
 mobile: false
 number: 1219
+stars: 15
 title: Discord Message Formatter
 type: plugin
 updated: '2024-05-17T18:09:20'

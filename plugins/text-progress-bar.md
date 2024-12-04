@@ -5,9 +5,10 @@ author:
 - '[[michaeladams|Michael Adams]]'
 categories: []
 description: Display low-fi text progress bars in your notes.
-downloads: 5842
+downloads: 5870
 mobile: true
 number: 796
+stars: 36
 title: Text Progress Bar
 type: plugin
 updated: '2023-04-28T16:43:38'

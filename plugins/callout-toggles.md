@@ -5,14 +5,15 @@ author:
 - '[[alythobani|Aly Thobani]]'
 categories: []
 description: Quickly add, change, or remove callouts in your notes.
-downloads: 507
+downloads: 669
 mobile: true
 number: 1964
+stars: 9
 title: Callout Toggles
 type: plugin
-updated: '2024-11-08T12:57:47'
+updated: '2024-11-29T09:11:15'
 url: https://github.com/alythobani/obsidian-callout-toggles
-version: 1.0.1
+version: 1.1.0
 ---
 
 %% README_START %%

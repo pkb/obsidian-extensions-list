@@ -6,9 +6,10 @@ author:
 categories: []
 description: Collects all images from your note and saves them to a new folder called
   "file_name images".
-downloads: 1840
+downloads: 1851
 mobile: true
 number: 1427
+stars: 8
 title: Image Collector
 type: plugin
 updated: '2024-03-22T06:12:32'

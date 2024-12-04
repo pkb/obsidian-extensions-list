@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Ollama
+- Ollama
 author:
-  - "[[hinterdupfinger|hinterdupfinger]]"
+- '[[hinterdupfinger|hinterdupfinger]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: This is a plugin for Obsidian that enables the usage of Ollama within your notes.
-downloads: 14559
+- '[[categories/AI assistance|AI assistance]]'
+description: This is a plugin for Obsidian that enables the usage of Ollama within
+  your notes.
+downloads: 14691
 mobile: false
 number: 1203
+stars: 844
 title: Ollama
 type: plugin
-updated: 2023-09-19T07:21:01
+updated: '2023-09-19T07:21:01'
 url: https://github.com/hinterdupfinger/obsidian-ollama
 version: 0.0.1
 ---

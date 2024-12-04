@@ -7,9 +7,10 @@ categories: []
 description: Makes available helper commands for Speech to Text (Google Andoroid)
   keyboard in Obsidian command pallete (and from there could be added to e.g. mobile
   buttons toolbar).
-downloads: 3832
+downloads: 3847
 mobile: true
 number: 1072
+stars: 3
 title: Speech To Text Keyboard Helper
 type: plugin
 updated: '2023-08-17T01:31:09'

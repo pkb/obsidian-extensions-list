@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Unofficial Fabric Integration
+- Unofficial Fabric Integration
 author:
-  - "[[chasebank87|Chasebank87]]"
+- '[[chasebank87|Chasebank87]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Integrates Fabric into your vault
-downloads: 1646
+downloads: 1680
 mobile: false
 number: 1791
+stars: 43
 title: Unofficial Fabric Integration
 type: plugin
-updated: 2024-08-23T00:14:34
+updated: '2024-08-23T00:14:34'
 url: https://github.com/chasebank87/unofficial-fabric-plugin
 version: 1.3.3
 ---

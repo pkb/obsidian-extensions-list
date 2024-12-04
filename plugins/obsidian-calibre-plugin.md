@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin allows you to access your calibre libraries and read books
   directly in Obsidian.
-downloads: 15120
+downloads: 15197
 mobile: false
 number: 503
+stars: 155
 title: Calibre
 type: plugin
 updated: '2023-09-19T07:12:51'

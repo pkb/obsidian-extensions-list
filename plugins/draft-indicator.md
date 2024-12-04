@@ -5,9 +5,10 @@ author:
 - '[[beardicus|Brian Boucheron]]'
 categories: []
 description: Show draft status with ✎ icons in the file explorer.
-downloads: 427
+downloads: 438
 mobile: true
 number: 1628
+stars: 3
 title: Draft Indicator
 type: plugin
 updated: '2024-04-25T23:50:34'

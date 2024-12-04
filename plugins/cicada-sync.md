@@ -7,9 +7,10 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: uses Git to synchronize vaults for team collaboration.
-downloads: 906
+downloads: 910
 mobile: false
 number: 1528
+stars: 4
 title: Cicada Synchronizer
 type: plugin
 updated: '2024-03-11T22:43:24'

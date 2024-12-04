@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: A plugin to preview notes as Markmap mind maps
-downloads: 554844
+downloads: 558255
 mobile: true
 number: 50
+stars: 1100
 title: Mind Map
 type: plugin
 updated: '2020-12-13T22:33:04'

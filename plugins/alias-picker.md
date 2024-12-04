@@ -5,9 +5,10 @@ author:
 - '[[rostunic|rostunic]]'
 categories: []
 description: Pick aliases or blocks of links.
-downloads: 559
+downloads: 564
 mobile: true
 number: 1588
+stars: 3
 title: Alias Picker
 type: plugin
 updated: '2024-04-12T01:27:22'

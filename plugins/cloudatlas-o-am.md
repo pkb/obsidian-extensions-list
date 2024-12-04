@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration with Amazing Marvin
-downloads: 655
+downloads: 663
 mobile: true
 number: 1579
+stars: 16
 title: Amazing Marvin Integration
 type: plugin
 updated: '2024-04-09T07:53:56'

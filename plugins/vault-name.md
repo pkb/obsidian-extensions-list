@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Vault Name
+- Vault Name
 author:
-  - "[[gapmiss|@gapmiss]]"
+- '[[gapmiss|@gapmiss]]'
 categories:
-  - "[[categories/Appearence|Appearence]]"
-description: Display and customize the vault name (title) in the side navigation file explorer.
-downloads: 398
+- '[[categories/Appearence|Appearence]]'
+description: Display and customize the vault name (title) in the side navigation file
+  explorer.
+downloads: 412
 mobile: false
 number: 1697
+stars: 4
 title: Vault Name
 type: plugin
-updated: 2024-05-21T20:48:01
+updated: '2024-05-21T20:48:01'
 url: https://github.com/gapmiss/obsidian-vault-name
 version: 0.1.0
 ---

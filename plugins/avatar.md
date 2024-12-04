@@ -5,9 +5,10 @@ author:
 - '[[froehlichA|froehlichA]]'
 categories: []
 description: Display an avatar image in your notes.
-downloads: 7255
+downloads: 7294
 mobile: true
 number: 849
+stars: 28
 title: Avatar
 type: plugin
 updated: '2023-03-23T03:44:31'

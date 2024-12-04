@@ -8,9 +8,10 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Extract PDF Annotations (text, highlight, underline, squiggle, free text,
   etc.) from files inside and outside the vault and sort them by topics
-downloads: 14400
+downloads: 14514
 mobile: true
 number: 455
+stars: 31
 title: Extract PDF Annotations
 type: plugin
 updated: '2024-10-09T21:16:18'

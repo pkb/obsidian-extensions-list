@@ -6,9 +6,10 @@ author:
 categories: []
 description: Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency
   and get right to writing.
-downloads: 8091
+downloads: 8104
 mobile: true
 number: 319
+stars: 122
 title: "Lumberjack \U0001FA93 \U0001FAB5"
 type: plugin
 updated: '2022-11-08T02:01:35'

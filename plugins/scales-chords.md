@@ -6,9 +6,10 @@ author:
 categories: []
 description: Use this plugin to capture musical tab notation in your Obsidian vault.  Chords
   will become clickable links to modal images (provided by scales-chords.com)
-downloads: 6748
+downloads: 6768
 mobile: true
 number: 291
+stars: 30
 title: Scales and Chords
 type: plugin
 updated: '2021-09-18T07:03:18'

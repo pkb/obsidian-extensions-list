@@ -5,9 +5,10 @@ author:
 - '[[lijyze|Lijyze]]'
 categories: []
 description: Keep you away from directly operating of yaml front matter
-downloads: 9338
+downloads: 9369
 mobile: true
 number: 526
+stars: 43
 title: Yaml Manager
 type: plugin
 updated: '2022-06-30T08:02:09'

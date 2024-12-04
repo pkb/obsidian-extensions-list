@@ -5,14 +5,15 @@ author:
 - '[[D4rkP1xel|Alexandre Silva]]'
 categories: []
 description: Automatically open daily random notes based on your preferences.
-downloads: 90
+downloads: 118
 mobile: false
 number: 2005
+stars: 1
 title: Daily Random Note
 type: plugin
-updated: '2024-11-18T21:20:18'
+updated: '2024-11-30T20:55:18'
 url: https://github.com/D4rkP1xel/daily-random-note
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%

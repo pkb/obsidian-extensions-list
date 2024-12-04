@@ -5,9 +5,10 @@ author:
 - '[[trashhalo|Stephen Solka]]'
 categories: []
 description: Extract url converting content into markdown
-downloads: 27394
+downloads: 27510
 mobile: true
 number: 136
+stars: 280
 title: Extract url content
 type: plugin
 updated: '2022-05-31T19:52:29'

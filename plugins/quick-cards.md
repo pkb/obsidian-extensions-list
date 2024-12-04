@@ -5,9 +5,10 @@ author:
 - '[[abcamus|Camus Qiu]]'
 categories: []
 description: cardify your files
-downloads: 531
+downloads: 553
 mobile: true
 number: 1876
+stars: 3
 title: Quick Cards
 type: plugin
 updated: '2024-09-01T14:25:42'

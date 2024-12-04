@@ -6,9 +6,10 @@ author:
 categories: []
 description: Write and execute (sandboxed) JavaScript to render templates, query DataView
   and create dynamic notes.
-downloads: 4141
+downloads: 4145
 mobile: true
 number: 850
+stars: 28
 title: Meld Build
 type: plugin
 updated: '2023-03-26T03:43:20'

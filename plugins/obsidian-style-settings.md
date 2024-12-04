@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Offers controls for adjusting theme, plugin, and snippet CSS variables.
-downloads: 1266095
+downloads: 1278032
 mobile: true
 number: 142
+stars: 1300
 title: Style Settings
 type: plugin
 updated: '2024-08-24T23:45:16'

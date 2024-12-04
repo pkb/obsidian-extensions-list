@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Sync a relevant calendar event to your current note.
-downloads: 591
+downloads: 601
 mobile: false
 number: 1610
+stars: 5
 title: Calendar Event Sync
 type: plugin
 updated: '2024-10-29T21:32:06'

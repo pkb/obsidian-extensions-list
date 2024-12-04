@@ -6,9 +6,10 @@ author:
 categories: []
 description: Fullscreen focus across all platforms. It helps you get more display
   space when you focus on reading notes, especially on mobile devices.
-downloads: 2288
+downloads: 2322
 mobile: true
 number: 1365
+stars: 5
 title: Full Screen Toggle
 type: plugin
 updated: '2024-10-25T19:31:18'

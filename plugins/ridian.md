@@ -6,14 +6,15 @@ author:
 categories: []
 description: Execute R code blocks and display outputs and plots & render documents
   with Quarto within Obsidian.
-downloads: 61
+downloads: 119
 mobile: false
 number: 2029
+stars: 64
 title: Ridian
 type: plugin
-updated: '2024-11-24T19:52:02'
+updated: '2024-11-27T21:38:11'
 url: https://github.com/MichelNivard/Ridian
-version: 0.1.0
+version: 0.1.1
 ---
 
 %% README_START %%

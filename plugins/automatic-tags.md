@@ -7,9 +7,10 @@ categories:
 - '[[categories/Automation|Automation]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Add tags to new notes automatically based on their path.
-downloads: 3962
+downloads: 3994
 mobile: true
 number: 1260
+stars: 18
 title: Automatic Tags
 type: plugin
 updated: '2024-04-14T17:35:50'

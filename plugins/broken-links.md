@@ -5,9 +5,10 @@ author:
 - '[[ipshing|ipshing]]'
 categories: []
 description: Find broken links in your vault that don't connect to notes.
-downloads: 2283
+downloads: 2304
 mobile: true
 number: 1426
+stars: 20
 title: Broken Links
 type: plugin
 updated: '2024-02-22T10:06:27'

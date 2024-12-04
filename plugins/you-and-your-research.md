@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Research with the help of A.I.
-downloads: 404
+downloads: 408
 mobile: false
 number: 1726
+stars: 17
 title: You and Your Research
 type: plugin
 updated: '2024-07-19T05:43:11'

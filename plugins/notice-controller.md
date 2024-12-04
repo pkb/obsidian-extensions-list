@@ -5,9 +5,10 @@ author:
 - '[[juan-miii|Juan Miguel]]'
 categories: []
 description: Manages notifications at startup.
-downloads: 1225
+downloads: 1231
 mobile: true
 number: 1499
+stars: 1
 title: Notification Controller
 type: plugin
 updated: '2024-03-20T17:17:03'

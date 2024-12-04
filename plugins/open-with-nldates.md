@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Open with Natural Language Dates
+- Open with Natural Language Dates
 author:
-  - "[[charliecm|Charlie Chao]]"
+- '[[charliecm|Charlie Chao]]'
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
-description: Open a daily note using natural language. Requires "Natural Language Dates" plugin to work.
-downloads: 74
+- '[[categories/Date and calendar|Date and calendar]]'
+description: Open a daily note using natural language. Requires "Natural Language
+  Dates" plugin to work.
+downloads: 85
 mobile: true
 number: 1976
+stars: 0
 title: Open with Natural Language Dates
 type: plugin
-updated: 2024-10-17T11:39:40
+updated: '2024-10-17T11:39:40'
 url: https://github.com/charliecm/obsidian-open-with-nldates
 version: 1.0.0
 ---

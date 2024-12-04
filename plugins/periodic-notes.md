@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Create/manage your daily, weekly, and monthly notes
-downloads: 368410
+downloads: 371122
 mobile: true
 number: 93
+stars: 999
 title: Periodic Notes
 type: plugin
 updated: '2022-04-14T21:03:23'

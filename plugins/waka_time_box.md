@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Show daily coding activity from WakaTime
-downloads: 3532
+downloads: 3543
 mobile: true
 number: 1070
+stars: 9
 title: Waka time box
 type: plugin
 updated: '2023-08-16T23:43:24'

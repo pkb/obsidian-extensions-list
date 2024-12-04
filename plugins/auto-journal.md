@@ -7,9 +7,10 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Opinionated journaling automation like daily notes but with backfills
   for the days when Obsidian wasn't opened
-downloads: 4434
+downloads: 4448
 mobile: true
 number: 1119
+stars: 22
 title: Auto Journal
 type: plugin
 updated: '2024-02-14T03:12:16'

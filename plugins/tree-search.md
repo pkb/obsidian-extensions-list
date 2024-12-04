@@ -1,19 +1,20 @@
 ---
 aliases:
-  - Tree Search
+- Tree Search
 author:
-  - "[[catacgc|Catalin Costache]]"
+- '[[catacgc|Catalin Costache]]'
 categories:
-  - "[[categories/Search and navigation|Search and navigation]]"
+- '[[categories/Search and navigation|Search and navigation]]'
 description: Quickly search hierarchical line trees
-downloads: 355
+downloads: 470
 mobile: true
 number: 1986
+stars: 12
 title: Tree Search
 type: plugin
-updated: 2024-11-26T13:19:26
+updated: '2024-11-29T00:13:35'
 url: https://github.com/catacgc/obsidian-tree-search
-version: 0.9.5
+version: 0.9.6
 ---
 
 %% README_START %%

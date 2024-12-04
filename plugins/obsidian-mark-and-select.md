@@ -5,9 +5,10 @@ author:
 - '[[anselmwang|Yu Wang]]'
 categories: []
 description: More flexible ways to select texts in Obsidian Editor
-downloads: 4109
+downloads: 4114
 mobile: true
 number: 443
+stars: 11
 title: Mark and Select
 type: plugin
 updated: '2022-02-26T23:27:07'

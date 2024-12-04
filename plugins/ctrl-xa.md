@@ -6,9 +6,10 @@ author:
 categories: []
 description: Cycle through various items with keyboard shortcuts. Such as days, months,
   log level,... anything you need.
-downloads: 1314
+downloads: 1315
 mobile: true
 number: 1360
+stars: 5
 title: Ctrl-XA cycle various items
 type: plugin
 updated: '2024-02-13T14:25:00'

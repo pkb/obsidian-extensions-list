@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Creases
+- Creases
 author:
-  - "[[liamcain|Liam Cain]]"
+- '[[liamcain|Liam Cain]]'
 categories:
-  - "[[categories/Appearence|Appearence]]"
+- '[[categories/Appearence|Appearence]]'
 description: Tools for efficiently folding markdown sections in Obsidian
-downloads: 24826
+downloads: 24928
 mobile: true
 number: 446
+stars: 234
 title: Creases
 type: plugin
-updated: 2023-07-17T20:23:34
+updated: '2023-07-17T20:23:34'
 url: https://github.com/liamcain/obsidian-creases
 version: 0.7.0
 ---

@@ -5,9 +5,10 @@ author:
 - '[[maybe-hello-world|@maybehelloworld]]'
 categories: []
 description: Insert parsed musical notes from MIDI input devices.
-downloads: 200
+downloads: 208
 mobile: true
 number: 1711
+stars: 5
 title: MIDI Logger
 type: plugin
 updated: '2024-06-06T06:48:10'

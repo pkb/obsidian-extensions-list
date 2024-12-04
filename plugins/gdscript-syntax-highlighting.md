@@ -5,9 +5,10 @@ author:
 - '[[RobTheFiveNine|RobTheFiveNine]]'
 categories: []
 description: Add live GDScript syntax highlighting to code blocks.
-downloads: 1290
+downloads: 1325
 mobile: true
 number: 1648
+stars: 20
 title: GDScript Syntax Highlighting
 type: plugin
 updated: '2024-06-14T22:54:11'

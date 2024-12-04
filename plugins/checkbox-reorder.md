@@ -5,9 +5,10 @@ author:
 - '[[Erl-koenig|Ivan Knöfler]]'
 categories: []
 description: Reorder completed checkboxes to the end of the according list.
-downloads: 5223
+downloads: 5243
 mobile: true
 number: 1098
+stars: 8
 title: Checkbox Reorder
 type: plugin
 updated: '2024-03-18T20:08:52'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Allows adding personal comments to each installed plugin.
-downloads: 1984
+downloads: 2022
 mobile: true
 number: 1715
+stars: 13
 title: Plugins Annotations
 type: plugin
 updated: '2024-10-20T20:16:29'

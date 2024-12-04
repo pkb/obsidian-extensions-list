@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Vault Size History
+- Vault Size History
 author:
-  - "[[technerium|Technerium]]"
+- '[[technerium|Technerium]]'
 categories:
-  - "[[categories/Statistics|Statistics]]"
+- '[[categories/Statistics|Statistics]]'
 description: Graph of the number of files in the Vault.
-downloads: 1519
+downloads: 1567
 mobile: false
 number: 1836
+stars: 5
 title: Vault Size History
 type: plugin
-updated: 2024-11-08T21:16:45
+updated: '2024-11-08T21:16:45'
 url: https://github.com/technerium/obsidian-vault-size-history
 version: 1.1.3
 ---

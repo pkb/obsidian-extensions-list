@@ -7,9 +7,10 @@ categories: []
 description: Easily adjust header levels in Markdown documents by increasing or decreasing
   their levels. Supports full document adjustments or specified line ranges, with
   default settings and commands for convenience
-downloads: 347
+downloads: 361
 mobile: true
 number: 1730
+stars: 4
 title: Header Adjuster
 type: plugin
 updated: '2024-06-16T21:12:24'

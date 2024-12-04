@@ -5,9 +5,10 @@ author:
 - '[[almariah|Obsidian]]'
 categories: []
 description: This is a plugin for Obsidian that allows for embedding code files.
-downloads: 6309
+downloads: 6332
 mobile: true
 number: 591
+stars: 56
 title: Embed Code File
 type: plugin
 updated: '2022-09-10T00:50:53'

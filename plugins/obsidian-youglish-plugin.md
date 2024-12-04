@@ -6,9 +6,10 @@ author:
 categories: []
 description: Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased
   answers about how words is spoken by real people and in context.
-downloads: 10342
+downloads: 10378
 mobile: true
 number: 42
+stars: 66
 title: Youglish Plugin
 type: plugin
 updated: '2022-01-24T15:53:23'

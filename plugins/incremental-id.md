@@ -5,9 +5,10 @@ author:
 - '[[adziok|Adrian Karwowski]]'
 categories: []
 description: Allow to generate Jira like ids.
-downloads: 4191
+downloads: 4196
 mobile: true
 number: 773
+stars: 16
 title: Incremental ID
 type: plugin
 updated: '2024-01-06T18:57:28'

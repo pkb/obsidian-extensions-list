@@ -5,9 +5,10 @@ author:
 - '[[Pseudonium|Pseudonium]]'
 categories: []
 description: This is an Anki integration plugin! Designed for efficient bulk exporting.
-downloads: 91284
+downloads: 91717
 mobile: false
 number: 54
+stars: 1600
 title: Obsidian_to_Anki
 type: plugin
 updated: '2024-01-24T09:10:16'

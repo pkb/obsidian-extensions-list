@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Build your own knowledge graph with smiles :-)
-downloads: 13924
+downloads: 14118
 mobile: true
 number: 1064
+stars: 65
 title: Lovely-Mindmap
 type: plugin
 updated: '2024-09-21T13:12:16'

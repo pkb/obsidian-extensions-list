@@ -7,9 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Securely share your Obsidian notes with one click. Notes are end-to-end
   encrypted. No API keys or configuration required.
-downloads: 21387
+downloads: 21469
 mobile: true
 number: 588
+stars: 255
 title: QuickShare
 type: plugin
 updated: '2023-01-07T14:36:55'

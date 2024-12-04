@@ -5,9 +5,10 @@ author:
 - '[[hungsu|Hung-Su]]'
 categories: []
 description: Shows a random text prompt when triggered
-downloads: 5070
+downloads: 5074
 mobile: true
 number: 329
+stars: 23
 title: Prompt
 type: plugin
 updated: '2023-04-09T11:05:17'

@@ -8,9 +8,10 @@ description: “Elegant”, “Dangerous”, “Relaxing”, “Perverted”, �
   “Your worst nightmare”. When you start a Dangerzone session, you have to write without
   stopping for X seconds. If you stop, think and look around, after Y seconds the
   plugin will DELETE what you've written in this note.
-downloads: 10743
+downloads: 10773
 mobile: true
 number: 44
+stars: 70
 title: Dangerzone Writing
 type: plugin
 updated: '2022-09-29T22:17:21'

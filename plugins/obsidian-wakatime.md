@@ -7,9 +7,10 @@ categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Automatic time tracking and metrics generated from your Obsidian usage
   activity.
-downloads: 9224
+downloads: 9270
 mobile: false
 number: 733
+stars: 63
 title: WakaTime
 type: plugin
 updated: '2022-12-31T02:48:38'

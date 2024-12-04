@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Paper Importer
+- Paper Importer
 author:
-  - "[[chenzhekl|Zhe Chen]]"
+- '[[chenzhekl|Zhe Chen]]'
 categories:
-  - "[[categories/Import|Import]]"
+- '[[categories/Import|Import]]'
 description: Import papers from arXiv with one click.
-downloads: 42
+downloads: 60
 mobile: true
 number: 2028
+stars: 1
 title: Paper Importer
 type: plugin
-updated: 2024-11-20T16:10:22
+updated: '2024-11-20T16:10:22'
 url: https://github.com/chenzhekl/obsidian_paper_importer
 version: 1.0.5
 ---

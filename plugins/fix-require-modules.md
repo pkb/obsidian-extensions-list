@@ -6,9 +6,10 @@ author:
 categories: []
 description: Fixes require() calls, supporting JavaScript and TypeScript modules,
   enabling easy invocation, and adding code buttons for enhanced scripting capabilities
-downloads: 1509
+downloads: 1523
 mobile: false
 number: 1445
+stars: 13
 title: Fix Require Modules
 type: plugin
 updated: '2024-11-21T13:40:20'

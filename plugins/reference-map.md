@@ -5,9 +5,10 @@ author:
 - '[[anoopkcn|Anoop K. Chandran]]'
 categories: []
 description: Reference and citation map for literature review and discovery
-downloads: 14936
+downloads: 14972
 mobile: false
 number: 770
+stars: 201
 title: Reference Map
 type: plugin
 updated: '2024-01-02T05:50:15'

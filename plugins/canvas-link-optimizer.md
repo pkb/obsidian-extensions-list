@@ -5,9 +5,10 @@ author:
 - '[[khaelar|khaelar]]'
 categories: []
 description: Optimize canvas links by displaying a page thumbnail.
-downloads: 2626
+downloads: 2674
 mobile: false
 number: 1459
+stars: 16
 title: Canvas Link Optimizer
 type: plugin
 updated: '2024-10-28T21:10:04'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Peekaboo
+- Peekaboo
 author:
-  - "[[Lio5n|Wang Guoshi]]"
+- '[[Lio5n|Wang Guoshi]]'
 categories:
-  - "[[categories/Security and privacy|Security and privacy]]"
+- '[[categories/Security and privacy|Security and privacy]]'
 description: Protect your privacy by setting a password to hide files.
-downloads: 119
+downloads: 143
 mobile: true
 number: 1984
+stars: 2
 title: Peekaboo
 type: plugin
-updated: 2024-11-20T17:20:31
+updated: '2024-11-20T17:20:31'
 url: https://github.com/Lio5n/peekaboo
 version: 1.3.0
 ---

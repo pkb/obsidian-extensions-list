@@ -6,9 +6,10 @@ author:
 categories: []
 description: This is a markdown to jira markup and backwards converter plugin for
   Obsidian (https://obsidian.md)
-downloads: 6922
+downloads: 6951
 mobile: true
 number: 682
+stars: 27
 title: Markdown to Jira Converter
 type: plugin
 updated: '2024-08-31T19:38:39'

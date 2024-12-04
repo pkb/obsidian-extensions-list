@@ -6,9 +6,10 @@ author:
 categories: []
 description: Collection of various utilities e.g. duplicate empty line remover, Obsidian
   plugin release/tag version downloader (eg. for mobile tests)
-downloads: 3766
+downloads: 3792
 mobile: true
 number: 1149
+stars: 6
 title: Swiss army knife
 type: plugin
 updated: '2023-12-12T23:10:21'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Create date-links based on natural language
-downloads: 370615
+downloads: 372338
 mobile: true
 number: 1
+stars: 510
 title: Natural Language Dates
 type: plugin
 updated: '2023-12-02T02:31:44'

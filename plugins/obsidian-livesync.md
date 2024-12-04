@@ -8,9 +8,10 @@ categories:
 description: Community implementation of self-hosted livesync. Reflect your vault
   changes to some other devices immediately. Please make sure to disable other synchronize
   solutions to avoid content corruption or duplication.
-downloads: 233193
+downloads: 236146
 mobile: true
 number: 316
+stars: 5300
 title: Self-hosted LiveSync
 type: plugin
 updated: '2024-11-21T17:44:01'

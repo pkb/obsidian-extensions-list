@@ -5,9 +5,10 @@ author:
 - '[[denisoed|Denisoed]]'
 categories: []
 description: Check & fix orthography errors in text.
-downloads: 10301
+downloads: 10327
 mobile: true
 number: 86
+stars: 122
 title: Orthography
 type: plugin
 updated: '2024-10-23T22:09:36'

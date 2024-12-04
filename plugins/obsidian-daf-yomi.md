@@ -5,9 +5,10 @@ author:
 - '[[lyonsquark|Adam Lyon]]'
 categories: []
 description: Fill in Daf Yomi pages
-downloads: 4761
+downloads: 4767
 mobile: true
 number: 235
+stars: 8
 title: Daf Yomi
 type: plugin
 updated: '2023-01-18T10:21:24'

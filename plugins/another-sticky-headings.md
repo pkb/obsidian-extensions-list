@@ -7,9 +7,10 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Display headings tree during editing and preview to indicate the current
   position.
-downloads: 2695
+downloads: 2781
 mobile: true
 number: 1736
+stars: 25
 title: Another Sticky Headings
 type: plugin
 updated: '2024-11-09T08:30:36'

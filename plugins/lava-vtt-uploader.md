@@ -5,9 +5,10 @@ author:
 - '[[lavaforge|Lavaforge]]'
 categories: []
 description: Display images from your vault in Lava VTT.
-downloads: 280
+downloads: 282
 mobile: false
 number: 1616
+stars: 0
 title: Lava VTT Uploader
 type: plugin
 updated: '2024-04-21T02:04:54'

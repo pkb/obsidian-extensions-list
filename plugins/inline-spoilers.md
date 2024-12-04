@@ -5,9 +5,10 @@ author:
 - '[[logonoff|logonoff]]'
 categories: []
 description: Adds Discord-like syntax for inline spoilers.
-downloads: 1284
+downloads: 1354
 mobile: true
 number: 1826
+stars: 9
 title: Inline spoilers
 type: plugin
 updated: '2024-11-15T06:28:10'

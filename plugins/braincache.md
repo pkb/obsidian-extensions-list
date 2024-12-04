@@ -5,9 +5,10 @@ author:
 - '[[XSPGMike|braincache]]'
 categories: []
 description: Create flashcards from obsidian notes
-downloads: 4351
+downloads: 4354
 mobile: false
 number: 540
+stars: 9
 title: braincache
 type: plugin
 updated: '2024-03-23T06:59:14'

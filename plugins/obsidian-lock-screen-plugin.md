@@ -5,9 +5,10 @@ author:
 - '[[ericbiewener|Eric Biewener]]'
 categories: []
 description: Protect your vault with a lock screen.
-downloads: 8384
+downloads: 8413
 mobile: true
 number: 404
+stars: 21
 title: Lock Screen
 type: plugin
 updated: '2022-03-03T22:52:08'

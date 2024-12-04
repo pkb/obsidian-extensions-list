@@ -5,9 +5,10 @@ author:
 - '[[akaalias|Alexis Rondeau]]'
 categories: []
 description: Create, extract and leverage your markdown highlights
-downloads: 19379
+downloads: 19421
 mobile: true
 number: 35
+stars: 88
 title: Extract Highlights
 type: plugin
 updated: '2021-02-25T16:02:22'

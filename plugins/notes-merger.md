@@ -5,9 +5,10 @@ author:
 - '[[niffka|Nika Lopusna]]'
 categories: []
 description: Merge notes into a single markdown document based on index Markdown file.
-downloads: 3043
+downloads: 3070
 mobile: false
 number: 1265
+stars: 8
 title: Notes Merger
 type: plugin
 updated: '2023-12-31T20:23:53'

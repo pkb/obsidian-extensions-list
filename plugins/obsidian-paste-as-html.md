@@ -5,9 +5,10 @@ author:
 - '[[maotong06|maotong06]]'
 categories: []
 description: Paste As Html, Keep the original css style. Paste from web browser
-downloads: 8906
+downloads: 8961
 mobile: true
 number: 724
+stars: 25
 title: Paste As Html
 type: plugin
 updated: '2022-12-30T14:38:23'

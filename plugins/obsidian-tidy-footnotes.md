@@ -5,9 +5,10 @@ author:
 - '[[charliecm|Charlie Chao]]'
 categories: []
 description: Tidy your footnotes seamlessly.
-downloads: 15992
+downloads: 16133
 mobile: true
 number: 164
+stars: 47
 title: Tidy Footnotes
 type: plugin
 updated: '2024-10-15T12:47:48'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Create and use templates
-downloads: 1889686
+downloads: 1905191
 mobile: true
 number: 24
+stars: 3300
 title: Templater
 type: plugin
 updated: '2024-10-30T10:16:32'

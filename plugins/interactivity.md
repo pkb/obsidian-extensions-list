@@ -7,9 +7,10 @@ categories: []
 description: Interactivity allows you to run shell commands and scripts directly within
   your notes, providing their output right alongside your written content, making
   your note-taking process more dynamic and interactive.
-downloads: 761
+downloads: 792
 mobile: true
 number: 1663
+stars: 21
 title: 'Interactivity: Calculations and Scripts'
 type: plugin
 updated: '2024-05-24T20:10:57'

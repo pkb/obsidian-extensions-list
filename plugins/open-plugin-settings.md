@@ -5,9 +5,10 @@ author:
 - '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Create a command to open a specified plugin settings.
-downloads: 4313
+downloads: 4331
 mobile: true
 number: 930
+stars: 13
 title: Open Plugin Settings
 type: plugin
 updated: '2024-01-19T05:03:55'

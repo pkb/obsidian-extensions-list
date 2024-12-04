@@ -5,9 +5,10 @@ author:
 - '[[jonzfisher|Jonathan Fisher]]'
 categories: []
 description: Maps timing onto a storyclock. Inspired by Plot Devices Storyclock.
-downloads: 2248
+downloads: 2260
 mobile: true
 number: 1338
+stars: 6
 title: Storyclock Viewer
 type: plugin
 updated: '2023-12-14T09:28:49'

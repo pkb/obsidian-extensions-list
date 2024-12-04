@@ -5,9 +5,10 @@ author:
 - '[[dyc2424748461|dyc]]'
 categories: []
 description: Display the image of the <img> tag
-downloads: 1476
+downloads: 1497
 mobile: false
 number: 1454
+stars: 6
 title: Display Relative Path Img
 type: plugin
 updated: '2024-02-08T13:18:36'

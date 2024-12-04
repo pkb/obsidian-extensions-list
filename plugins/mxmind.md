@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Convert Markdown files to a mind map,mind map editor
-downloads: 6075
+downloads: 6210
 mobile: true
 number: 1490
+stars: 7
 title: Mxmind Mindmap
 type: plugin
 updated: '2024-06-12T09:41:31'

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Pomodoro Plugin
+- Pomodoro Plugin
 author:
-  - "[[tokuhirom|Tokuhiro Matsuno]]"
+- '[[tokuhirom|Tokuhiro Matsuno]]'
 categories:
-  - "[[categories/Time management|Time management]]"
+- '[[categories/Time management|Time management]]'
 description: This is a simple pomodoro plugin for Obsidian.
-downloads: 13577
+downloads: 13610
 mobile: true
 number: 184
+stars: 23
 title: Pomodoro Plugin
 type: plugin
-updated: 2021-05-20T07:39:33
+updated: '2021-05-20T07:39:33'
 url: https://github.com/tokuhirom/obsidian-pomodoro-plugin
 version: 0.0.2
 ---

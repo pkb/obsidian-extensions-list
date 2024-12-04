@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official ReClipped and Obsidian integration
-downloads: 2578
+downloads: 2581
 mobile: true
 number: 1202
+stars: 4
 title: ReClipped Official
 type: plugin
 updated: '2024-10-18T18:53:22'

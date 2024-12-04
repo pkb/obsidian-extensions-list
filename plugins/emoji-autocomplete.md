@@ -5,9 +5,10 @@ author:
 - '[[KraXen72|KraXen72]]'
 categories: []
 description: 'Smart suggestions when typing emoji shortcodes & more! :star:'
-downloads: 5707
+downloads: 5773
 mobile: true
 number: 1341
+stars: 16
 title: Emoji Autocomplete
 type: plugin
 updated: '2024-03-27T16:26:07'

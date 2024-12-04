@@ -6,9 +6,10 @@ author:
 categories: []
 description: Make planning your trip or event easier by rendering a calendar from
   event information found in your notes.
-downloads: 8897
+downloads: 8919
 mobile: true
 number: 305
+stars: 84
 title: Itinerary
 type: plugin
 updated: '2021-12-19T08:46:17'

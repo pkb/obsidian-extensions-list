@@ -7,9 +7,10 @@ categories: []
 description: Generate interactive flashcards from your notes using models from OpenAI
   (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your
   own to use with the quiz UI.
-downloads: 6349
+downloads: 6502
 mobile: true
 number: 1452
+stars: 95
 title: Quiz Generator
 type: plugin
 updated: '2024-10-25T10:33:31'

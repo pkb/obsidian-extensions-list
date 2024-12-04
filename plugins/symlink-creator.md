@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Symlink Creator
+- Symlink Creator
 author:
-  - "[[pteridin|Tobias Heidler]]"
+- '[[pteridin|Tobias Heidler]]'
 categories:
-  - "[[categories/File management|File management]]"
+- '[[categories/File management|File management]]'
 description: Create symlinks to files and folders inside and outside of your vault.
-downloads: 248
+downloads: 264
 mobile: false
 number: 1909
+stars: 5
 title: Symlink Creator
 type: plugin
-updated: 2024-10-31T18:24:00
+updated: '2024-10-31T18:24:00'
 url: https://github.com/pteridin/obsidian_symlink_plugin
 version: 0.1.3
 ---

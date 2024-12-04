@@ -5,9 +5,10 @@ author:
 - '[[decaf-dev|DecafDev]]'
 categories: []
 description: Split a note into individual notes based on a delimiter.
-downloads: 1123
+downloads: 1140
 mobile: false
 number: 1613
+stars: 15
 title: Note Splitter
 type: plugin
 updated: '2024-09-22T13:43:25'

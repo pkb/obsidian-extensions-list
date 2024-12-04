@@ -5,9 +5,10 @@ author:
 - '[[khuongduy354|khuongduy354]]'
 categories: []
 description: Create a url to your file on your git remote repo
-downloads: 3646
+downloads: 3648
 mobile: false
 number: 996
+stars: 2
 title: Git Url
 type: plugin
 updated: '2024-04-08T10:24:16'

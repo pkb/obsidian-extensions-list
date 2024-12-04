@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages
-downloads: 121
+downloads: 148
 mobile: false
 number: 1955
+stars: 15
 title: Asciidoctor editor
 type: plugin
 updated: '2024-11-25T02:07:04'

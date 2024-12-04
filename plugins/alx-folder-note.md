@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Add description, summary and more info to folders with folder notes.
-downloads: 48546
+downloads: 48647
 mobile: true
 number: 247
+stars: 253
 title: AidenLx's Folder Note
 type: plugin
 updated: '2023-05-05T13:34:04'

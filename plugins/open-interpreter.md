@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Open Interpreter
+- Open Interpreter
 author:
-  - "[[MikeBirdTech|Mike Bird]]"
+- '[[MikeBirdTech|Mike Bird]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
+- '[[categories/AI assistance|AI assistance]]'
 description: Use Open Interpreter to run automatic operations on your vault
-downloads: 217
+downloads: 232
 mobile: false
 number: 1942
+stars: 24
 title: Open Interpreter
 type: plugin
-updated: 2024-10-30T22:11:37
+updated: '2024-10-30T22:11:37'
 url: https://github.com/MikeBirdTech/obsidian-open-interpreter
 version: 1.3.1
 ---

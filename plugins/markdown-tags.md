@@ -6,14 +6,15 @@ author:
 categories: []
 description: Enhance your documents with custom tags. Use predefined or custom labels,
   customizable colors, and arrow indicators to visually track tasks and statuses.
-downloads: 93
+downloads: 247
 mobile: true
 number: 2025
+stars: 3
 title: Markdown Tags
 type: plugin
-updated: '2024-11-16T08:39:12'
+updated: '2024-11-29T03:09:06'
 url: https://github.com/binarynoir/obsidian-markdown-tags
-version: 1.2.0
+version: 1.2.1
 ---
 
 %% README_START %%

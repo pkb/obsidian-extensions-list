@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Simple Prompt
+- Simple Prompt
 author:
-  - "[[arumie|arumie]]"
+- '[[arumie|arumie]]'
 categories:
-  - "[[categories/AI assistance|AI assistance]]"
-description: Simple interface to generate or rewrite content using LLMs based on user input.
-downloads: 431
+- '[[categories/AI assistance|AI assistance]]'
+description: Simple interface to generate or rewrite content using LLMs based on user
+  input.
+downloads: 434
 mobile: true
 number: 1703
+stars: 9
 title: Simple Prompt
 type: plugin
-updated: 2024-06-16T13:45:18
+updated: '2024-06-16T13:45:18'
 url: https://github.com/arumie/obsidian-simple-prompt-plugin
 version: 1.0.1
 ---

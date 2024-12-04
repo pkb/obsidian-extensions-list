@@ -6,9 +6,10 @@ author:
 categories: []
 description: Highlight inline `'md **code**` blocks as well as you do the ```md **big**```
   ones
-downloads: 4125
+downloads: 4135
 mobile: true
 number: 1048
+stars: 3
 title: InlineCodeHighlight
 type: plugin
 updated: '2023-08-07T04:54:09'

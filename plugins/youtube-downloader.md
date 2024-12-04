@@ -5,9 +5,10 @@ author:
 - '[[ai-chen2050|Blake Chan]]'
 categories: []
 description: Download video from YouTube
-downloads: 680
+downloads: 706
 mobile: false
 number: 1813
+stars: 3
 title: YouTube downloader
 type: plugin
 updated: '2024-08-11T14:19:27'

@@ -6,14 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Find links to similar notes using artificial intelligence from OpenAI.
-downloads: 315407
+downloads: 319322
 mobile: true
 number: 754
+stars: 2900
 title: Smart Connections
 type: plugin
-updated: '2024-10-30T04:28:04'
+updated: '2024-12-04T05:57:48'
 url: https://github.com/brianpetro/obsidian-smart-connections
-version: 2.2.85
+version: 2.3.39
 ---
 
 %% README_START %%

@@ -5,9 +5,10 @@ author:
 - '[[Wapply|Wapply]]'
 categories: []
 description: Generates a note with a random string as its name.
-downloads: 812
+downloads: 818
 mobile: true
 number: 1542
+stars: 6
 title: Quick File Name
 type: plugin
 updated: '2024-03-20T17:17:18'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a codeblock language to parse internal links and render them in
   a book style navigation.
-downloads: 86
+downloads: 101
 mobile: true
 number: 1969
+stars: 5
 title: BookNav
 type: plugin
 updated: '2024-10-07T00:56:29'

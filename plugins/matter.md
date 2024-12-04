@@ -5,9 +5,10 @@ author:
 - '[[getmatterapp|Matter]]'
 categories: []
 description: The official Matter <> Obsidian plugin
-downloads: 19140
+downloads: 19161
 mobile: true
 number: 375
+stars: 124
 title: Matter
 type: plugin
 updated: '2022-11-15T22:12:42'

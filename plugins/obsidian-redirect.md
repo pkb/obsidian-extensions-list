@@ -6,9 +6,10 @@ author:
 categories: []
 description: An Obsidian (https://obsidian.md) plugin for redirecting links based
   on YAML frontmatter.
-downloads: 7394
+downloads: 7399
 mobile: true
 number: 545
+stars: 23
 title: Redirect
 type: plugin
 updated: '2022-09-04T18:25:02'

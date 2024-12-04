@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Export Obsidian data as a local GraphQL server.
-downloads: 2225
+downloads: 2231
 mobile: false
 number: 1286
+stars: 9
 title: Local GraphQL
 type: plugin
 updated: '2024-03-03T14:05:33'

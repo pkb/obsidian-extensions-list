@@ -8,9 +8,10 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import and consolidate highlights from different reading sources. Supports
   reconciling books across reading sources.
-downloads: 138
+downloads: 141
 mobile: false
 number: 1750
+stars: 1
 title: Multiplatform Highlights Importer
 type: plugin
 updated: '2024-06-25T04:58:08'

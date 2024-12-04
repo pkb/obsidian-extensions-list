@@ -1,20 +1,21 @@
 ---
 aliases:
-  - Daily notes calendar
+- Daily notes calendar
 author:
-  - "[[bartkessels|bartkessels]]"
+- '[[bartkessels|bartkessels]]'
 categories:
-  - "[[categories/Date and calendar|Date and calendar]]"
-  - "[[categories/Journalling|Journalling]]"
+- '[[categories/Date and calendar|Date and calendar]]'
+- '[[categories/Journalling|Journalling]]'
 description: Navigate to your weekly- and daily-notes using a calendar view.
-downloads: 537
+downloads: 751
 mobile: true
 number: 1997
+stars: 5
 title: Daily notes calendar
 type: plugin
-updated: 2024-11-25T09:37:38
+updated: '2024-12-02T22:48:27'
 url: https://github.com/bartkessels/daily-note-calendar
-version: 1.6.1
+version: 1.6.3
 ---
 
 %% README_START %%

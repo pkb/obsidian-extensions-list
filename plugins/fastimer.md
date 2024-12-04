@@ -5,9 +5,10 @@ author:
 - '[[vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Intermittent fasting tracker.
-downloads: 1458
+downloads: 1464
 mobile: true
 number: 1388
+stars: 4
 title: Fastimer
 type: plugin
 updated: '2024-06-03T21:55:36'

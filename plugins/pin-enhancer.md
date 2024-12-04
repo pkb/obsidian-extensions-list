@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Pin Enhancer
+- Pin Enhancer
 author:
-  - "[[Sheeplet1|Sheeplet1]]"
+- '[[Sheeplet1|Sheeplet1]]'
 categories:
-  - "[[categories/UI customization|UI customization]]"
+- '[[categories/UI customization|UI customization]]'
 description: Enhances the pin function to prevent closing the pinned tab.
-downloads: 386
+downloads: 396
 mobile: false
 number: 1686
+stars: 2
 title: Pin Enhancer
 type: plugin
-updated: 2024-05-28T13:04:43
+updated: '2024-05-28T13:04:43'
 url: https://github.com/Sheeplet1/obsidian-pin-enhancer
 version: 1.0.0
 ---

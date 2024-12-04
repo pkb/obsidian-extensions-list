@@ -5,9 +5,10 @@ author:
 - '[[Yaob1990|Yaob1990]]'
 categories: []
 description: View and review your historical notes from this day across previous years
-downloads: 95
+downloads: 118
 mobile: true
 number: 2011
+stars: 4
 title: History Today
 type: plugin
 updated: '2024-11-17T20:11:39'

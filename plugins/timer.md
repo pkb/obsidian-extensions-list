@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Allows you to measure time.
-downloads: 7034
+downloads: 7094
 mobile: true
 number: 1185
+stars: 8
 title: Timer
 type: plugin
 updated: '2024-10-27T03:05:26'

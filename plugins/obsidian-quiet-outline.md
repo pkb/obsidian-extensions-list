@@ -6,9 +6,10 @@ author:
 categories: []
 description: Make outline quiet and more powerful, including no-auto-expand, rendering
   heading as markdown, and search support.
-downloads: 124380
+downloads: 125062
 mobile: true
 number: 471
+stars: 321
 title: Quiet Outline
 type: plugin
 updated: '2024-10-20T14:50:37'

@@ -5,14 +5,15 @@ author:
 - '[[jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Track and align your focus.
-downloads: 596
+downloads: 666
 mobile: true
 number: 1678
+stars: 3
 title: Focus Tracker
 type: plugin
-updated: '2024-11-26T12:45:33'
+updated: '2024-11-27T19:43:34'
 url: https://github.com/jeetsukumaran/obsidian-focus-tracker
-version: 3.0.5
+version: 3.1.0
 ---
 
 %% README_START %%

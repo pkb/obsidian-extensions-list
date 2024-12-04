@@ -6,9 +6,10 @@ author:
 categories: []
 description: Opens a modal with scrollable content of all documents that contain a
   specific tag or tags.
-downloads: 31239
+downloads: 31435
 mobile: true
 number: 578
+stars: 28
 title: Tagged Documents Viewer
 type: plugin
 updated: '2022-07-17T23:23:02'

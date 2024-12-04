@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Generates diagrams using Pintora
-downloads: 116
+downloads: 121
 mobile: true
 number: 1904
+stars: 4
 title: Pintora
 type: plugin
 updated: '2024-09-09T13:06:21'

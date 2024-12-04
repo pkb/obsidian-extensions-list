@@ -5,9 +5,10 @@ author:
 - '[[augustin7698|Augustin]]'
 categories: []
 description: Generate tags from notes without openai key in multiple languages
-downloads: 470
+downloads: 479
 mobile: true
 number: 1815
+stars: 0
 title: Note 2 Tag Generator
 type: plugin
 updated: '2024-07-17T14:23:15'

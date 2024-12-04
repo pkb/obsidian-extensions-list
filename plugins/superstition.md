@@ -5,9 +5,10 @@ author:
 - '[[shuxueshuxue|Jeffry]]'
 categories: []
 description: Manage routines with traditional calendar concept of 宜/忌
-downloads: 43
+downloads: 50
 mobile: true
 number: 1992
+stars: 4
 title: Superstition
 type: plugin
 updated: '2024-11-05T07:01:10'

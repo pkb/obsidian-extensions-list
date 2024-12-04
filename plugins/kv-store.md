@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a key-value store. Use it to store and retrieve key-value pairs
   in your vault.
-downloads: 486
+downloads: 488
 mobile: true
 number: 1607
+stars: 5
 title: KV Store
 type: plugin
 updated: '2024-08-08T15:44:35'

@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Use the Pug templating engine in your vault.
-downloads: 77
+downloads: 78
 mobile: false
 number: 1880
+stars: 2
 title: Pug Templates
 type: plugin
 updated: '2024-09-08T22:09:52'

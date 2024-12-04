@@ -10,6 +10,7 @@ description: This plugins provides an easy way to collapse the sidebars without 
 downloads: 3089
 mobile: true
 number: 262
+stars: 12
 title: Window Collapse
 type: plugin
 updated: '2021-08-27T22:36:19'

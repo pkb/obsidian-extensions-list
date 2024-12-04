@@ -6,9 +6,10 @@ author:
 categories: []
 description: 'A plugin for managing Magic: The Gathering decks and card lists as Obsidian
   notes'
-downloads: 4491
+downloads: 4504
 mobile: true
 number: 644
+stars: 30
 title: Obsidian MtG
 type: plugin
 updated: '2023-09-28T02:48:27'

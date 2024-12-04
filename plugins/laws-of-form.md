@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allows you to create, manage and display Laws of Form expressions like
   ((a)) (b) = a (b).
-downloads: 3206
+downloads: 3209
 mobile: true
 number: 1010
+stars: 3
 title: Laws of Form
 type: plugin
 updated: '2023-08-11T15:52:42'

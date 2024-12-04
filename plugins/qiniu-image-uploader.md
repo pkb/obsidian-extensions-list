@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Qiniu Image Uploader
+- Qiniu Image Uploader
 author:
-  - "[[jianzs|Jade Zheng]]"
+- '[[jianzs|Jade Zheng]]'
 categories:
-  - "[[categories/Image handling|Image handling]]"
-description: Uploads images from your clipboard to qiniu.com and embeds uploaded image to your note.
-downloads: 3044
+- '[[categories/Image handling|Image handling]]'
+description: Uploads images from your clipboard to qiniu.com and embeds uploaded image
+  to your note.
+downloads: 3049
 mobile: true
 number: 1178
+stars: 4
 title: Qiniu Image Uploader
 type: plugin
-updated: 2024-07-27T19:00:15
+updated: '2024-07-27T19:00:15'
 url: https://github.com/jianzs/obsidian-qiniu-image-uploader
 version: 1.1.5
 ---

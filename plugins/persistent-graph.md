@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds commands to save and restore the positions of nodes on the global
   graph view
-downloads: 20977
+downloads: 21193
 mobile: true
 number: 423
+stars: 107
 title: Persistent Graph
 type: plugin
 updated: '2022-09-04T17:20:41'

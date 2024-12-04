@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds sidebar action icons to quickly open the Gnome Terminal or to have
   the Gnome Terminal run a Python module
-downloads: 3735
+downloads: 3747
 mobile: false
 number: 1099
+stars: 4
 title: Gnome Terminal Loader
 type: plugin
 updated: '2023-08-30T02:34:28'

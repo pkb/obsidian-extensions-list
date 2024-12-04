@@ -5,9 +5,10 @@ author:
 - '[[eebmagic|E. Bolton]]'
 categories: []
 description: Posts a note to your medium account as a draft.
-downloads: 218
+downloads: 227
 mobile: true
 number: 1816
+stars: 6
 title: Post Medium Draft
 type: plugin
 updated: '2024-07-29T05:16:33'

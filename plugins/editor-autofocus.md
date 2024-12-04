@@ -5,9 +5,10 @@ author:
 - '[[mgussekloo|Mgussekloo]]'
 categories: []
 description: Autofocus the editor when opening a new file.
-downloads: 2313
+downloads: 2317
 mobile: true
 number: 1258
+stars: 5
 title: Editor Autofocus
 type: plugin
 updated: '2023-11-13T02:01:24'

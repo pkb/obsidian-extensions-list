@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publishes a file to a given api.
-downloads: 3424
+downloads: 3428
 mobile: true
 number: 834
+stars: 13
 title: File Publisher
 type: plugin
 updated: '2023-03-07T04:16:55'

@@ -5,9 +5,10 @@ author:
 - '[[flyer1b|flyer1b]]'
 categories: []
 description: sync articles from syncread app
-downloads: 1913
+downloads: 1917
 mobile: false
 number: 1335
+stars: 1
 title: syncread-assistant
 type: plugin
 updated: '2024-08-01T14:52:03'

@@ -5,9 +5,10 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Prominently display bookmarked notes in the file explorer
-downloads: 9229
+downloads: 9249
 mobile: true
 number: 299
+stars: 26
 title: Prominent Bookmarked Files
 type: plugin
 updated: '2023-04-26T19:10:28'

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and
   Sunnah
-downloads: 321
+downloads: 332
 mobile: true
 number: 1683
+stars: 5
 title: Noor
 type: plugin
 updated: '2024-10-19T03:55:59'

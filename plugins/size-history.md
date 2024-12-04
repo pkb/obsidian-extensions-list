@@ -1,18 +1,19 @@
 ---
 aliases:
-  - Size History
+- Size History
 author:
-  - "[[pbrw|Piotr Borowski]]"
+- '[[pbrw|Piotr Borowski]]'
 categories:
-  - "[[categories/Statistics|Statistics]]"
-  - "[[categories/Charting|Charting]]"
+- '[[categories/Statistics|Statistics]]'
+- '[[categories/Charting|Charting]]'
 description: Admire the growth of your Obsidian vault with a "hand-drawn" chart.
-downloads: 3695
+downloads: 3704
 mobile: true
 number: 1154
+stars: 11
 title: Size History
 type: plugin
-updated: 2023-08-31T03:24:25
+updated: '2023-08-31T03:24:25'
 url: https://github.com/pbrw/obsidian-size-history
 version: 1.0.0
 ---

@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Moulinette Search for TTRPG
+- Moulinette Search for TTRPG
 author:
-  - "[[SvenWerlen|Sven Werlen (Moulinette)]]"
+- '[[SvenWerlen|Sven Werlen (Moulinette)]]'
 categories:
-  - "[[categories/Games|Games]]"
-description: Search, browse and download TTRPG (tabletop role-playing game) content from Moulinette Cloud.
-downloads: 1504
+- '[[categories/Games|Games]]'
+description: Search, browse and download TTRPG (tabletop role-playing game) content
+  from Moulinette Cloud.
+downloads: 1515
 mobile: false
 number: 1535
+stars: 3
 title: Moulinette Search for TTRPG
 type: plugin
-updated: 2024-03-17T21:12:26
+updated: '2024-03-17T21:12:26'
 url: https://github.com/SvenWerlen/moulinette-obsidian-plugin
 version: 0.5.1
 ---

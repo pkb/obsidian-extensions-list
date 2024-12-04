@@ -5,9 +5,10 @@ author:
 - '[[ahts4962|ahts4962]]'
 categories: []
 description: Display navigation links at the top of the notes.
-downloads: 333
+downloads: 381
 mobile: true
 number: 1953
+stars: 5
 title: Nav Link Header
 type: plugin
 updated: '2024-11-22T13:06:16'

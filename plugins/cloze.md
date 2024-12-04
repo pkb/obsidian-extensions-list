@@ -6,9 +6,10 @@ author:
 categories: []
 description: Convert highlights, underlines, bolded texts or any selected texts into
   clozes.
-downloads: 10123
+downloads: 10189
 mobile: true
 number: 1075
+stars: 68
 title: Cloze
 type: plugin
 updated: '2024-07-12T15:18:49'

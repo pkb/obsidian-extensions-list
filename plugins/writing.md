@@ -5,9 +5,10 @@ author:
 - '[[johackim|johackim]]'
 categories: []
 description: Write and format your next book directly from Obsidian
-downloads: 7272
+downloads: 7295
 mobile: false
 number: 701
+stars: 77
 title: Writing
 type: plugin
 updated: '2022-12-29T14:36:05'

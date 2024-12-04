@@ -5,9 +5,10 @@ author:
 - '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Automatically make all inline maths \displaystyle.
-downloads: 2305
+downloads: 2319
 mobile: true
 number: 1306
+stars: 7
 title: Auto-\displaystyle Inline Math
 type: plugin
 updated: '2023-12-02T13:10:48'

@@ -9,9 +9,10 @@ categories:
 description: A plugin to help you plan your day and setup pomodoro timers; fork of
   the original plugin by James Lynch (which stopped at 0.5.8) which preserves the
   look/feel and behavior of the original.
-downloads: 15152
+downloads: 15298
 mobile: true
 number: 1134
+stars: 116
 title: Day Planner (OG)
 type: plugin
 updated: '2024-11-14T04:05:11'

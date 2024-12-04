@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin allows you to prettify the symbols with actual symbols you
   commonly type, like arrows.
-downloads: 17501
+downloads: 17700
 mobile: true
 number: 643
+stars: 36
 title: Symbols Prettifier
 type: plugin
 updated: '2024-07-20T14:22:29'

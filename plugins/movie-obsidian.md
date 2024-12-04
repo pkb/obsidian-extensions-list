@@ -5,9 +5,10 @@ author:
 - '[[onuraycicek|Onur Ayçiçek]]'
 categories: []
 description: Search for movies and trailers.
-downloads: 6974
+downloads: 7006
 mobile: true
 number: 977
+stars: 11
 title: Movie
 type: plugin
 updated: '2023-10-04T02:23:01'

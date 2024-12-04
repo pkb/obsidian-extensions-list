@@ -6,9 +6,10 @@ author:
 categories: []
 description: Turn notes into folders and automaticaly move/rename their folders when
   they move or are renamed.
-downloads: 11978
+downloads: 11999
 mobile: true
 number: 99
+stars: 54
 title: Note Folder Autorename
 type: plugin
 updated: '2022-01-21T14:04:18'

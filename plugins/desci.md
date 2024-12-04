@@ -5,9 +5,10 @@ author:
 - '[[Obsidian-Desci|Taylor Hulsmans]]'
 categories: []
 description: A collection of tools that integrate obsidian with web3.
-downloads: 2019
+downloads: 2021
 mobile: false
 number: 1275
+stars: 11
 title: Desci
 type: plugin
 updated: '2023-11-01T04:52:03'

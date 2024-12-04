@@ -5,9 +5,10 @@ author:
 - '[[joshrouwhorst|Josh Rouwhorst]]'
 categories: []
 description: Import a stylesheet from a URL into your snippets folder.
-downloads: 3761
+downloads: 3772
 mobile: true
 number: 1001
+stars: 9
 title: Style Importer
 type: plugin
 updated: '2023-06-12T20:08:20'

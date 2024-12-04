@@ -6,9 +6,10 @@ author:
 categories: []
 description: Provides commands for bulk enabling/disabling of plugins. Useful for
   debugging when you have many plugins.
-downloads: 7561
+downloads: 7583
 mobile: true
 number: 419
+stars: 58
 title: Divide & Conquer
 type: plugin
 updated: '2022-11-14T06:58:13'

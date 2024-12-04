@@ -5,9 +5,10 @@ author:
 - '[[0xpapercut|0xpapercut]]'
 categories: []
 description: Typst math typesetting for Obsidian.
-downloads: 1934
+downloads: 1953
 mobile: true
 number: 1423
+stars: 36
 title: Wypst
 type: plugin
 updated: '2024-05-13T14:32:00'

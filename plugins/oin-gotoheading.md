@@ -5,9 +5,10 @@ author:
 - '[[oin|join]]'
 categories: []
 description: Quickly navigate between headings
-downloads: 3553
+downloads: 3569
 mobile: false
 number: 1186
+stars: 13
 title: Go To Heading
 type: plugin
 updated: '2023-12-15T00:16:19'

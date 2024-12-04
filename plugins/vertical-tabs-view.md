@@ -5,9 +5,10 @@ author:
 - '[[hdykokd|hdykokd]]'
 categories: []
 description: Provides a vertical tabs view.
-downloads: 6129
+downloads: 6163
 mobile: true
 number: 1137
+stars: 29
 title: Vertical Tabs View
 type: plugin
 updated: '2024-04-21T01:13:26'

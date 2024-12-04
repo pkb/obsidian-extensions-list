@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: A pomodoro timer that helps manage your daily focus
-downloads: 22930
+downloads: 23308
 mobile: true
 number: 1329
+stars: 139
 title: Pomodoro Timer
 type: plugin
 updated: '2024-05-30T13:01:19'

@@ -5,9 +5,10 @@ author:
 - '[[jsartelle|James Sartelle]]'
 categories: []
 description: Open notes with side-by-side editor & preview
-downloads: 8753
+downloads: 8787
 mobile: true
 number: 345
+stars: 32
 title: Auto Split
 type: plugin
 updated: '2024-08-12T07:40:58'

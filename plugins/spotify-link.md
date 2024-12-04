@@ -5,14 +5,15 @@ author:
 - '[[studiowebux|Studio Webux]]'
 categories: []
 description: Include the song you're currently listening to in your note.
-downloads: 3923
+downloads: 3996
 mobile: true
 number: 1262
+stars: 10
 title: Spotify Link
 type: plugin
-updated: '2024-11-25T20:04:56'
+updated: '2024-12-01T01:36:29'
 url: https://github.com/studiowebux/obsidian-spotify-link
-version: 1.8.0
+version: 1.9.0
 ---
 
 %% README_START %%

@@ -6,9 +6,10 @@ author:
 categories: []
 description: Allows users to upload local files to the cloud, reducing the burden
   on local vaults and enabling seamless synchronization across multiple devices.
-downloads: 310
+downloads: 338
 mobile: true
 number: 1948
+stars: 7
 title: Cloud Storage
 type: plugin
 updated: '2024-11-18T16:13:23'

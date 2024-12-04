@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin provides access to global network of notes. Anyone can create,
   view or edit notes. All changes will be synchronized between all participants
-downloads: 4037
+downloads: 4039
 mobile: false
 number: 298
+stars: 27
 title: Netwik
 type: plugin
 updated: '2021-09-29T01:44:13'

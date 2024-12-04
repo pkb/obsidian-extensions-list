@@ -6,9 +6,10 @@ author:
 categories: []
 description: Create a beautiful and intuitive directory tree using Markdown-oriented
   code style using tabs, spaces and enters.
-downloads: 5249
+downloads: 5282
 mobile: true
 number: 992
+stars: 7
 title: Markdown Tree
 type: plugin
 updated: '2023-07-17T21:50:37'

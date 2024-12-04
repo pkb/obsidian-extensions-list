@@ -5,9 +5,10 @@ author:
 - '[[lukewh|Lukewh]]'
 categories: []
 description: Insert a random fantasy name.
-downloads: 17209
+downloads: 17393
 mobile: true
 number: 1040
+stars: 1
 title: Fantasy name generator
 type: plugin
 updated: '2023-08-15T19:58:13'

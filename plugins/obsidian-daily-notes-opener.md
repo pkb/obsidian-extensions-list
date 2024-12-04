@@ -5,9 +5,10 @@ author:
 - '[[reorx|Reorx]]'
 categories: []
 description: Easily open daily/periodic notes in new pane, and much more!
-downloads: 7076
+downloads: 7087
 mobile: true
 number: 442
+stars: 25
 title: Daily notes opener
 type: plugin
 updated: '2022-04-18T09:48:23'

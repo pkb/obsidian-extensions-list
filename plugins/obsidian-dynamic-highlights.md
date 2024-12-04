@@ -6,9 +6,10 @@ author:
 categories: []
 description: Dynamically highlight text based on cursor selection or search query
   with full regex, mobile, and live preview support
-downloads: 20070
+downloads: 20139
 mobile: true
 number: 400
+stars: 141
 title: Dynamic Highlights
 type: plugin
 updated: '2022-06-22T20:30:52'

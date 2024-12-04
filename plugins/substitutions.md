@@ -5,9 +5,10 @@ author:
 - '[[BambusControl|BambusControl]]'
 categories: []
 description: Automatically replace text fragments with symbols or different text
-downloads: 931
+downloads: 956
 mobile: true
 number: 1698
+stars: 12
 title: Substitutions
 type: plugin
 updated: '2024-06-22T20:55:40'

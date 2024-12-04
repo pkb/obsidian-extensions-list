@@ -5,9 +5,10 @@ author:
 - '[[zolrath|Matt Furden]]'
 categories: []
 description: This plugin automatically fetches the titles of links from the web
-downloads: 213696
+downloads: 215127
 mobile: true
 number: 157
+stars: 482
 title: Auto Link Title
 type: plugin
 updated: '2024-04-17T06:49:06'

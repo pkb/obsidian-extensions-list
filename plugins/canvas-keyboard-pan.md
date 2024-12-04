@@ -5,9 +5,10 @@ author:
 - '[[nathonius|Nathonius]]'
 categories: []
 description: Pan around your canvas using the keyboard
-downloads: 961
+downloads: 979
 mobile: false
 number: 1644
+stars: 4
 title: Canvas Keyboard Pan
 type: plugin
 updated: '2024-05-19T00:54:44'

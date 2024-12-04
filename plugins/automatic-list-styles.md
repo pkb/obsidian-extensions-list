@@ -7,9 +7,10 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Automatically formats the styles of ordered lists, incrementing the list
   style for each layer
-downloads: 5453
+downloads: 5497
 mobile: true
 number: 964
+stars: 15
 title: Automatic List Styles
 type: plugin
 updated: '2024-08-29T06:24:40'

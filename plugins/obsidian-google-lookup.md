@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Import contact and calendar event information from your Google account
-downloads: 10967
+downloads: 10996
 mobile: false
 number: 543
+stars: 79
 title: Google Calendar and Contacts Lookup
 type: plugin
 updated: '2023-02-03T00:31:14'

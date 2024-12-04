@@ -5,9 +5,10 @@ author:
 - '[[jdbrice|dandandan]]'
 categories: []
 description: Load and manage css snippets
-downloads: 16096
+downloads: 16197
 mobile: false
 number: 32
+stars: 17
 title: css snippets
 type: plugin
 updated: '2020-11-13T07:28:34'

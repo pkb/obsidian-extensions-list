@@ -5,9 +5,10 @@ author:
 - '[[zedseven|Zacchary Dempsey-Plante]]'
 categories: []
 description: Allows tags to be opened as links using a hotkey.
-downloads: 785
+downloads: 788
 mobile: true
 number: 1549
+stars: 4
 title: Tag Links
 type: plugin
 updated: '2024-03-23T22:34:52'

@@ -5,9 +5,10 @@ author:
 - '[[MM-GO|SemaLogic UG]]'
 categories: []
 description: Real-time use of the SemaLogic formal language
-downloads: 1251
+downloads: 1255
 mobile: true
 number: 1384
+stars: 3
 title: UseSemaLogic
 type: plugin
 updated: '2024-07-16T21:59:14'

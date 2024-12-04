@@ -5,9 +5,10 @@ author:
 - '[[iafisher|Ian Fisher]]'
 categories: []
 description: Create quick link shortcuts to Wikipedia and other sites
-downloads: 4420
+downloads: 4431
 mobile: true
 number: 990
+stars: 8
 title: Quick Links
 type: plugin
 updated: '2024-07-29T01:07:58'

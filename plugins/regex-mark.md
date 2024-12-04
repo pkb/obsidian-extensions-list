@@ -6,9 +6,10 @@ author:
 - '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Add custom CSS classes to text based on regular expressions.
-downloads: 1163
+downloads: 1191
 mobile: true
 number: 1677
+stars: 19
 title: Regex Mark
 type: plugin
 updated: '2024-11-16T14:08:43'

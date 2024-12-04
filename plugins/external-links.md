@@ -5,14 +5,15 @@ author:
 - '[[jivimberg|Juan Vimberg]]'
 categories: []
 description: List external links and discover which notes reference them.
-downloads: 1587
+downloads: 1700
 mobile: true
 number: 1577
+stars: 9
 title: External Links
 type: plugin
-updated: '2024-07-14T09:05:58'
+updated: '2024-11-30T02:00:03'
 url: https://github.com/jivimberg/external-links
-version: 1.0.11
+version: 1.0.12
 ---
 
 %% README_START %%

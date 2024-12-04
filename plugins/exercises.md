@@ -5,9 +5,10 @@ author:
 - '[[AlexCCavaco|AlexCCavaco]]'
 categories: []
 description: Create Interactive Exercises along side your Obsidian Notes
-downloads: 3758
+downloads: 3774
 mobile: true
 number: 1121
+stars: 15
 title: Exercises
 type: plugin
 updated: '2023-09-23T20:47:38'

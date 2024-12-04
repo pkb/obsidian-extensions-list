@@ -7,9 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: This is a  plugin for Obsidian. This plugin share obsidian md  file to
   notion with notion api
-downloads: 19107
+downloads: 19182
 mobile: true
 number: 548
+stars: 475
 title: Obsidian shared to Notion
 type: plugin
 updated: '2023-01-01T12:02:49'

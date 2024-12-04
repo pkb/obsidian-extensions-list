@@ -1,17 +1,18 @@
 ---
 aliases:
-  - Simple Note Review
+- Simple Note Review
 author:
-  - "[[dartungar|dartungar]]"
+- '[[dartungar|dartungar]]'
 categories:
-  - "[[categories/Spaced repetition|Spaced repetition]]"
+- '[[categories/Spaced repetition|Spaced repetition]]'
 description: Simple, customizable plugin for easy note review, resurfacing  & repetition.
-downloads: 11394
+downloads: 11420
 mobile: true
 number: 579
+stars: 62
 title: Simple Note Review
 type: plugin
-updated: 2024-04-06T01:15:16
+updated: '2024-04-06T01:15:16'
 url: https://github.com/dartungar/obsidian-simple-note-review
 version: 1.2.6
 ---

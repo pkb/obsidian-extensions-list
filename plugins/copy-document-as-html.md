@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Copy document as HTML
+- Copy document as HTML
 author:
-  - "[[mvdkwast|mvdkwast]]"
+- '[[mvdkwast|mvdkwast]]'
 categories:
-  - "[[categories/Export|Export]]"
-description: Copy the current document to clipboard as HTML, including images, diagrams etc...
-downloads: 21707
+- '[[categories/Export|Export]]'
+description: Copy the current document to clipboard as HTML, including images, diagrams
+  etc...
+downloads: 21846
 mobile: false
 number: 669
+stars: 50
 title: Copy document as HTML
 type: plugin
-updated: 2024-06-30T21:06:46
+updated: '2024-06-30T21:06:46'
 url: https://github.com/mvdkwast/obsidian-copy-as-html
 version: 0.8.1
 ---

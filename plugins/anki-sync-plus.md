@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration between Obsidian and Anki.
-downloads: 3680
+downloads: 3694
 mobile: false
 number: 1181
+stars: 10
 title: AnkiSync+
 type: plugin
 updated: '2023-10-06T00:18:18'

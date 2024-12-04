@@ -5,9 +5,10 @@ author:
 - '[[Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Intelligent way to move text in file.
-downloads: 298
+downloads: 303
 mobile: true
 number: 1728
+stars: 8
 title: Smart Text Mover
 type: plugin
 updated: '2024-06-24T16:32:37'

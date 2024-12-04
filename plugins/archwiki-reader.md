@@ -6,9 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Read any ArchWiki page directly in Obsidian
-downloads: 3242
+downloads: 3249
 mobile: false
 number: 1059
+stars: 9
 title: ArchWiki Reader
 type: plugin
 updated: '2023-09-07T01:18:00'

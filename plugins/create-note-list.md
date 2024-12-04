@@ -5,9 +5,10 @@ author:
 - '[[andrewheekin|Andrew Heekin]]'
 categories: []
 description: Create a bulleted list (with links) of all notes in the current folder.
-downloads: 1016
+downloads: 1025
 mobile: true
 number: 1587
+stars: 4
 title: Create List of Notes
 type: plugin
 updated: '2024-05-08T19:28:43'

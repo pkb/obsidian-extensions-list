@@ -5,9 +5,10 @@ author:
 - '[[Ummler|Ummel]]'
 categories: []
 description: Automatically correct words with the first two letters in uppercase.
-downloads: 816
+downloads: 860
 mobile: true
 number: 1840
+stars: 3
 title: Auto Correct Capitals Misspellings
 type: plugin
 updated: '2024-10-30T21:56:29'

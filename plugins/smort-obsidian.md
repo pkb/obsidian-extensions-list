@@ -1,17 +1,19 @@
 ---
 aliases:
-  - Smort
+- Smort
 author:
-  - "[[SmortApp|Smort]]"
+- '[[SmortApp|Smort]]'
 categories:
-  - "[[categories/Import|Import]]"
-description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and share articles.
-downloads: 3688
+- '[[categories/Import|Import]]'
+description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate
+  and share articles.
+downloads: 3691
 mobile: true
 number: 477
+stars: 18
 title: Smort
 type: plugin
-updated: 2022-04-06T10:18:49
+updated: '2022-04-06T10:18:49'
 url: https://github.com/SmortApp/obsidian-smort
 version: 1.0.1
 ---

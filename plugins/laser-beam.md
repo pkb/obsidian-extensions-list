@@ -5,9 +5,10 @@ author:
 - '[[drbap|Bernardo Pires]]'
 categories: []
 description: Improve your reading experience with customizable laser lines.
-downloads: 563
+downloads: 567
 mobile: true
 number: 1673
+stars: 10
 title: Laser beam
 type: plugin
 updated: '2024-06-09T07:44:59'

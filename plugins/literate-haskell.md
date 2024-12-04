@@ -5,9 +5,10 @@ author:
 - '[[jajaperson|James Jensen]]'
 categories: []
 description: An obsidian plugin for integrating `.lhs` files into your PKM.
-downloads: 3372
+downloads: 3373
 mobile: true
 number: 590
+stars: 3
 title: Literate Haskell
 type: plugin
 updated: '2022-08-20T15:20:30'

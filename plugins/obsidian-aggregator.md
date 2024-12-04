@@ -6,9 +6,10 @@ author:
 categories: []
 description: This plugin helps you gather information from files, and make a summary
   in the file.
-downloads: 4252
+downloads: 4259
 mobile: true
 number: 707
+stars: 26
 title: Aggregator
 type: plugin
 updated: '2023-02-01T21:57:58'

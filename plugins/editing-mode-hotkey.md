@@ -6,9 +6,10 @@ author:
 categories: []
 description: Adds a command and hotkey to toggle the default editing mode (between
   Live Preview and Source)
-downloads: 136
+downloads: 147
 mobile: true
 number: 1919
+stars: 1
 title: Editing Mode Hotkey
 type: plugin
 updated: '2024-09-16T05:35:24'
