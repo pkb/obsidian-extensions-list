@@ -5,7 +5,7 @@ author:
 - '[[rudimuc|Rudi Häusler]]'
 categories: []
 description: This is a QR Code Generator plugin for Obsidian.
-downloads: 9891
+downloads: 9933
 mobile: true
 number: 166
 stars: 32

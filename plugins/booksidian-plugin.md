@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Connect Obsidian to your Goodreads.
-downloads: 10536
+downloads: 10571
 mobile: false
 number: 534
-stars: 130
+stars: 131
 title: Booksidian
 type: plugin
 updated: '2024-06-25T02:49:41'
@@ -65,7 +65,7 @@ In the end it's completely up to you how you style your book-notes. One thing I 
 You can achieve this look here by adding `cssClasses: cards` to the frontmatter of the file you'd like to have your library in and then pasting this code here:
 
 ```dataview
-table without id ("![](" + cover +")") as Cover, author as Author
+table without id ("![](https://raw.githubusercontent.com/MichaBrugger/booksidian_plugin/HEAD/" + cover +")") as Cover, author as Author
 where cover != null
 sort rating desc
 ```

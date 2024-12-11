@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Rollover todo items from the previous weekly note.
-downloads: 578
+downloads: 592
 mobile: true
 number: 1812
 stars: 4

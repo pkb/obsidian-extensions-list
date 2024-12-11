@@ -5,7 +5,7 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: This is a simple dictionary for the Obsidian Note-Taking Tool.
-downloads: 170631
+downloads: 171137
 mobile: true
 number: 189
 stars: 374

@@ -5,7 +5,7 @@ author:
 - '[[DylanHojnoski|Dylan Hojnoski]]'
 categories: []
 description: Create interactive graphs by writing YAML
-downloads: 2495
+downloads: 2538
 mobile: true
 number: 1441
 stars: 49

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post to Bluesky.
-downloads: 104
+downloads: 180
 mobile: true
 number: 2022
-stars: 3
+stars: 4
 title: Bluesky
 type: plugin
 updated: '2024-12-04T06:01:49'
@@ -42,6 +42,12 @@ A new `megaphone` icon will appear in the left sidebar after you install the plu
 
 ## Say Hi
 - [Bluesky](https://bsky.app/profile/evanharris.bsky.social)
+
+## Roadmap
+- Media
+- Embeds
+- Posting threads from within a file
+- Language specification
 
 ## Attribution
 

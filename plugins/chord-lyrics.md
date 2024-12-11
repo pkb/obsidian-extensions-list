@@ -6,7 +6,7 @@ author:
 categories: []
 description: Display chord names over lyrics. Supports line wrapping, section headers,
   auto-detection of lines and custom colors.
-downloads: 4828
+downloads: 4836
 mobile: true
 number: 711
 stars: 48

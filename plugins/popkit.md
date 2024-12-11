@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Select text to instantly access quick tools
-downloads: 1627
+downloads: 1664
 mobile: true
 number: 1782
 stars: 32

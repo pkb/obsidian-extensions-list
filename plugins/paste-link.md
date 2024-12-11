@@ -5,15 +5,15 @@ author:
 - '[[jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Intelligently paste Markdown links.
-downloads: 5478
+downloads: 5871
 mobile: true
 number: 1293
-stars: 8
+stars: 10
 title: Paste Link
 type: plugin
-updated: '2024-11-25T02:23:55'
+updated: '2024-12-09T03:13:03'
 url: https://github.com/jose-elias-alvarez/obsidian-paste-link
-version: 3.0.0
+version: 3.1.0
 ---
 
 %% README_START %%
@@ -40,14 +40,19 @@ If your clipboard contains a URL but you don't want to paste it as a Markdown li
 
 ## Notes
 
-The plugin is meant to improve on [obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) in the following ways:
+The plugin was originally inspired by [obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) and seeks to improve on it in the following ways:
 
 -   An option to disable overriding Obsidian's paste handler
 -   Separate commands to control pasting behavior
--   An option to fetch and use page titles
 -   Cleaner code, which also resulted in fixing occasional bugs and edge cases
 
-Replicating the precise behavior of obsidian-url-into-selection is not a goal, but if you have a feature request or find a bug, please open an issue.
+The ability to fetch page titles was inspired by [obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) and incorporates the following improvements:
+
+-   Using `fetch()` vs. an Electron window to get page titles, which is faster and more predictable
+-   Page-specific handlers for sites that don't normally expose titles (e.g. Reddit)
+-   An option to "clean" page titles using page-specific regular expressions
+
+100% feature parity with these plugins is not a goal, but if you have a feature request or find a bug, please open an issue.
 
 ### URLs
 
@@ -72,11 +77,29 @@ Additionally, URLs containing newlines are not handled, since Obsidian doesn't s
 
 If the `Fetch page titles on paste` setting is enabled, the plugin will attempt to fetch page titles from HTTP URLs and use them as titles when `Override paste handler` is enabled. Alternatively, you can also fetch page titles on demand using the `Paste link and fetch page title` command.
 
-Note that titles from some pages (e.g. Reddit) may fail to load. The priority here is speed and predictability, not absolute correctness. If you rely heavily on this functionality, I recommend [obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title).
+Note that some pages (e.g. SPAs) may not include the full title in their HTML, and behavior may be inconsistent across platforms. Exceptions are handled on a best-case basis, and contributions to add new handlers are very welcome.
 
--   You can "clean" titles by setting a regular expression in the plugin's settings. The first capture group will be used as the title.
--   To always keep the entire title, use an empty string.
--   Selected text will always be used as the title.
+#### Page title regexes
+
+You can optionally "clean" page titles using regular expressions, which are configured in the plugin's settings. Each entry there consists of two regular expressions:
+
+1. A page regex, which is matched against the page's full URL.
+2. A title regex, which is matched against the page's fetched title. The value of the first capture group is treated as the title.
+
+Regexes are matched top to bottom, so you can set values for specific sites as well as fallbacks. If no match is found, the plugin will use the full page title.
+
+Note that regexes are parsed using the [Javascript RegExp() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/RegExp). Use [regex101](https://regex101.com) for validation. (If you're not good with regular expressions, ask ChatGPT.)
+
+A few examples from my configuration:
+
+| Page regex                                    | Title regex               | Original                                                           | Cleaned                   |
+| --------------------------------------------- | ------------------------- | ------------------------------------------------------------------ | ------------------------- |
+| `^https?://(?:www\\.)?github\\.com/.+?/issue` | `^(.+?)·`                 | Add dark mode support · Issue #123 · raycast/extensions            | Add dark mode support     |
+| `^https?://(?:www\\.)?github\\.com`           | `GitHub\\s*-\\s*([^:]+)`  | GitHub - raycast/extensions: Everything you need to extend Raycast | raycast/extensions        |
+| `^https?://(?:www\\.)?youtube\\.com`          | `(.+?)(?:\\s*-[^-]*$\|$)` | Rust Tutorial Full Course - YouTube                                | Rust Tutorial Full Course |
+| `.+?`                                         | `^(.+?)[\|–—•·-]`         | How to use promises - Learn web development \| MDN                 | How to use promises       |
+
+To temporarily skip any configured regexes and fetch the full page title, use the `Paste link and fetch full page title` command.
 
 ### Edge cases
 

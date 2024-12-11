@@ -5,20 +5,20 @@ author:
 - '[[glovguy|Karl Smith]]'
 categories: []
 description: Zettelkasten note taking powered by LLMs
-downloads: 4610
+downloads: 4661
 mobile: true
 number: 1083
 stars: 33
 title: Zettelkasten LLM Tools
 type: plugin
-updated: '2024-11-19T10:48:59'
+updated: '2024-12-10T01:46:17'
 url: https://github.com/glovguy/obsidian-gpt-zettelkasten
-version: 1.4.0
+version: 1.4.1
 ---
 
 %% README_START %%
 
-<img src="https://raw.githubusercontent.com/glovguy/obsidian-gpt-zettelkasten/HEAD/NoteRobot.png" alt="Zettelkasten LLM Tools Logo" width="200" height="200" style="border-radius: 16px; border-style: solid; border-width: 4px; border-color: black;" />
+<img src="https://raw.githubusercontent.com/glovguy/obsidian-gpt-zettelkasten/HEAD/NoteRobot.jpg" alt="Zettelkasten LLM Tools Logo" width="200" height="200" style="border-radius: 16px; border-style: solid; border-width: 4px; border-color: black;" />
 
 # Zettelkasten LLM Tools
 

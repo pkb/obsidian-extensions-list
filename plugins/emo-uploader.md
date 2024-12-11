@@ -6,10 +6,10 @@ author:
 categories: []
 description: Embed markdown online file/image links. This plugin is for uploading
   images to hosting or files to github in Obsidian.
-downloads: 5099
+downloads: 5112
 mobile: false
 number: 676
-stars: 39
+stars: 40
 title: Emo
 type: plugin
 updated: '2024-08-10T11:44:26'
@@ -161,7 +161,7 @@ About [Cloudinary](https://cloudinary.com/), please refer to [obsidian-cloudinar
 
 If you live in China, [imgbb](https://imgbb.com/) is not recommended to use. I found that the pictures uploaded to this platform could not be easily accessed in Chinese Mainland and they are usually presented as thumbnails.
 
-~~[Imgur](https://imgur.com/) is good. But in my network environment, it is not easy to access and test. I simply implemented anonymous upload with reference to some posts.~~ Thanks for this [reference](https://github.com/gavvvr/obsidian-imgur-plugin). When using imgur anonymous upload, deletehash will appear in the form of `![deletehash](url)`, which is used to prevent you from regretting the upload of wrong pictures. You can delete them [here](https://lestua.eu.org/imgurdeleteimage) or in the plugin.
+~~[Imgur](https://imgur.com/) is good. But in my network environment, it is not easy to access and test. I simply implemented anonymous upload with reference to some posts.~~ Thanks for this [reference](https://github.com/gavvvr/obsidian-imgur-plugin). When using imgur anonymous upload, deletehash will appear in the form of `![deletehash](https://raw.githubusercontent.com/yaleiyale/obsidian-emo-uploader/HEAD/url)`, which is used to prevent you from regretting the upload of wrong pictures. You can delete them [here](https://lestua.eu.org/imgurdeleteimage) or in the plugin.
 
 [Catbox](https://catbox.moe/) originally supports anonymous uploads. But I didn't find out how to delete anonymously uploaded files. To avoid accidents, anonymous uploads of catbox are not provided here.
 
@@ -175,7 +175,7 @@ If you need to embed the file as an attachment, please close the plugin temporar
 
 In general, **Github, Cloudinary, Catbox** supports **any** file type, **SM.MS, ImgURL** supports common **image** types.  
 
-Trying to upload a file that the platform does not support or volume exceeds the upper limit may result in a string like `![](undefined)`. Notice it, don't just wait.  
+Trying to upload a file that the platform does not support or volume exceeds the upper limit may result in a string like `![](https://raw.githubusercontent.com/yaleiyale/obsidian-emo-uploader/HEAD/undefined)`. Notice it, don't just wait.  
 
 ---
 

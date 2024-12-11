@@ -5,7 +5,7 @@ author:
 - '[[Unarray|Unarray]]'
 categories: []
 description: Generate a file tree using Obsidian callouts.
-downloads: 3064
+downloads: 3075
 mobile: true
 number: 1206
 stars: 5

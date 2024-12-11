@@ -6,7 +6,7 @@ author:
 categories: []
 description: Pins the Daily Note of the present day. Unpinns all Daily Notes of past
   and future days.
-downloads: 3341
+downloads: 3349
 mobile: true
 number: 1224
 stars: 14

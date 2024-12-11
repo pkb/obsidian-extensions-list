@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is an image uploader for Obsidian that allows you to self host images
   on AWS s3. This plugin is supported by advertisements.
-downloads: 4551
+downloads: 4577
 mobile: true
 number: 779
 stars: 35

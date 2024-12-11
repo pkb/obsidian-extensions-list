@@ -5,10 +5,10 @@ author:
 - '[[twentytwokhz|Florin Bobis]]'
 categories: []
 description: Inserts random quotes in the editor
-downloads: 11130
+downloads: 11296
 mobile: true
 number: 327
-stars: 41
+stars: 42
 title: Quote of the Day
 type: plugin
 updated: '2024-11-28T22:54:56'

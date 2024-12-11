@@ -5,7 +5,7 @@ author:
 - '[[holubj|Jakub Holub]]'
 categories: []
 description: Create dialogues in Markdown.
-downloads: 14696
+downloads: 14796
 mobile: true
 number: 365
 stars: 144

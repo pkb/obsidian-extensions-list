@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/File management|File management]]'
 description: Utility to put any files in and out under your vault.
-downloads: 4440
+downloads: 4446
 mobile: true
 number: 463
 stars: 18

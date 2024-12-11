@@ -5,7 +5,7 @@ author:
 - '[[carnetdethese|hurj]]'
 categories: []
 description: Intégration de l'API Légifrance.
-downloads: 238
+downloads: 246
 mobile: true
 number: 1658
 stars: 2
@@ -146,6 +146,12 @@ Une fois le module validé par l'équipe d'Obsidian, il sera disponible directem
     -   [ ] _Parser_ de décisions.
     -   [ ] _Parser_ de textes législatifs.
 -   [ ] Une prévisualisation des textes (peut-être sous la forme d'un pop-up lorsqu'on passe la souris au dessus d'un lien lié à Légifrance ?)
+
+## Discord
+
+Pour venir discuter du plugin ou de l'utilisation, en général, des outils numériques en droit, vous pouvez rejoindre le serveur Discord suivant :
+
+https://discord.gg/ha3Vsk6DNQ
 
 
 ## Soutien

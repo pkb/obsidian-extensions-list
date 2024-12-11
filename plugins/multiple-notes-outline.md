@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add custom views which show outlines of multiple notes with headings,
   links, tags and list items.
-downloads: 6125
+downloads: 6157
 mobile: true
 number: 1144
 stars: 36

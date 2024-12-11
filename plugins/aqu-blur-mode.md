@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Blur anything you want to keep your privacy.
-downloads: 85
+downloads: 103
 mobile: true
 number: 2030
 stars: 4

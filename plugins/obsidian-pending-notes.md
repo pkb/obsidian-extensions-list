@@ -5,7 +5,7 @@ author:
 - '[[ulisesantana|Ulises Santana]]'
 categories: []
 description: Obsidian plugin for searching links without notes in your vault.
-downloads: 7136
+downloads: 7152
 mobile: true
 number: 762
 stars: 32

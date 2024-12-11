@@ -6,7 +6,7 @@ author:
 categories: []
 description: Collects all images from your note and saves them to a new folder called
   "file_name images".
-downloads: 1851
+downloads: 1864
 mobile: true
 number: 1427
 stars: 8

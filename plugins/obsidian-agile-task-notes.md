@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Import your tasks from your TFS (Azure or Jira) to take notes on them
   and make todo-lists!
-downloads: 8592
+downloads: 8639
 mobile: true
 number: 593
 stars: 42

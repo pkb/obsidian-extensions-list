@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Quickly search hierarchical line trees
-downloads: 470
+downloads: 533
 mobile: true
 number: 1986
 stars: 12

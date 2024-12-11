@@ -5,7 +5,7 @@ author:
 - '[[thisdotrob|Rob Stevenson]]'
 categories: []
 description: Displays relative line numbers in the editor's gutter.
-downloads: 4472
+downloads: 4482
 mobile: false
 number: 416
 stars: 10

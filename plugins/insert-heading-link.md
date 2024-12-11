@@ -5,7 +5,7 @@ author:
 - '[[Signynt|Signynt]]'
 categories: []
 description: Add a Link to a Heading
-downloads: 4574
+downloads: 4584
 mobile: true
 number: 425
 stars: 8

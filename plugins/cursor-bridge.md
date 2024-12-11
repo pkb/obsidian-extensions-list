@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Seamlessly bridge your notes with Cursor, the AI-powered code editor.
   Open notes directly in Cursor to enhance your workflow.
-downloads: 137
+downloads: 162
 mobile: false
 number: 1980
-stars: 9
+stars: 10
 title: Cursor Bridge
 type: plugin
 updated: '2024-11-28T22:28:44'
@@ -22,7 +22,7 @@ version: 1.0.0
 
 # Cursor Bridge for Obsidian
 
-
+![Cursor Bridge](https://path-to-your-logo-image.png)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/lengff123/cursor-bridge)](https://github.com/lengff123/cursor-bridge/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/lengff123/cursor-bridge)](https://github.com/lengff123/cursor-bridge/blob/main/LICENSE)
@@ -114,7 +114,7 @@ If you find this plugin helpful, consider buying me a coffee! Your support helps
 
 ---
 
-Happy coding and note-taking! 🚀📚
+Happy test coding and note-taking! 🚀📚
 
 
 %% README_END %%

@@ -5,7 +5,7 @@ author:
 - '[[adanielnoel|Alejandro Daniel Noel]]'
 categories: []
 description: Keep your notes indexed based on their (hierarchical) tags
-downloads: 782
+downloads: 807
 mobile: true
 number: 1777
 stars: 9
@@ -24,7 +24,7 @@ Indices are probably the easiest way to navigate a large knowledge base, but kee
 
 The Index Notes Plugin is a powerful tool for Obsidian users who want to automatically generate index blocks within their notes based on tags. The indices are updated automatically when tags are added or changed, offering a nested list of links to the notes following their tag hierarchy. As a bonus, by having the links actually written to the file the graph view reflects the organisation of the knowledge base.
 
-![](index_notes_demo.gif )
+![](https://raw.githubusercontent.com/adanielnoel/obsidian-index-notes/HEAD/index_notes_demo.gif )
 
 Tags are a much more flexible way of managing indices for the following reasons:
 - Index information is in the same note that is being indexed.

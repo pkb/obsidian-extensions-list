@@ -5,7 +5,7 @@ author:
 - '[[bhavers|Bram Havers]]'
 categories: []
 description: Synchronise Cognitive Architect (aka IBM IT Architect Assistant) architectures.
-downloads: 97
+downloads: 102
 mobile: false
 number: 1799
 stars: 1

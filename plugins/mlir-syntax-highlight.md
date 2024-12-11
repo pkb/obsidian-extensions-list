@@ -5,10 +5,10 @@ author:
 - '[[Lewuathe|Lewuathe]]'
 categories: []
 description: Show syntax highlighing for MLIR in code blocks the editor
-downloads: 5999
+downloads: 6062
 mobile: true
 number: 1112
-stars: 2
+stars: 3
 title: MLIR Syntax Highlight
 type: plugin
 updated: '2023-08-30T07:48:22'

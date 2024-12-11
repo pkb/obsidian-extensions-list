@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Zotero integration
-downloads: 9755
+downloads: 9828
 mobile: false
 number: 546
 stars: 49

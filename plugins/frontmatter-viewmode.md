@@ -5,10 +5,10 @@ author:
 - '[[AlexDavies8|Alex Davies]]'
 categories: []
 description: Use YAML frontmatter to specify a view mode per note.
-downloads: 1484
+downloads: 1506
 mobile: true
 number: 1428
-stars: 12
+stars: 13
 title: Set View Mode per Note
 type: plugin
 updated: '2024-02-13T11:09:38'

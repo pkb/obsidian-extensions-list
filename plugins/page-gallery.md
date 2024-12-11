@@ -5,10 +5,10 @@ author:
 - '[[tokenshift|Nathan Clark]]'
 categories: []
 description: Creates an embeddable gallery based on selected page contents.
-downloads: 11685
+downloads: 11743
 mobile: true
 number: 666
-stars: 69
+stars: 70
 title: Page Gallery
 type: plugin
 updated: '2024-02-19T22:39:14'

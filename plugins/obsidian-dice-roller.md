@@ -5,7 +5,7 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Inline dice rolling for Obsidian.md
-downloads: 183923
+downloads: 185212
 mobile: true
 number: 132
 stars: 275

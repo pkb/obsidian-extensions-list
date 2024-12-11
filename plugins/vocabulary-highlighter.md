@@ -5,7 +5,7 @@ author:
 - '[[eatgrass|eatgrass]]'
 categories: []
 description: Hightlight vocabulary based on the word frequency
-downloads: 3707
+downloads: 3728
 mobile: true
 number: 1255
 stars: 47

@@ -5,7 +5,7 @@ author:
 - '[[samuelrawrs|Samuel Ang]]'
 categories: []
 description: Switch to the most recently used tab.
-downloads: 186
+downloads: 191
 mobile: false
 number: 1823
 stars: 3

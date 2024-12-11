@@ -5,7 +5,7 @@ author:
 - '[[SpeedaRJ|SpeedaRJ]]'
 categories: []
 description: Enables navigation between files in a folder via hotkeys and commands.
-downloads: 61
+downloads: 70
 mobile: true
 number: 2024
 stars: 3

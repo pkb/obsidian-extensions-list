@@ -5,10 +5,10 @@ author:
 - '[[kevboh|Kevin Barrett]]'
 categories: []
 description: Write novels, screenplays, and other long projects in Obsidian.
-downloads: 79343
+downloads: 79976
 mobile: true
 number: 243
-stars: 679
+stars: 681
 title: Longform
 type: plugin
 updated: '2024-01-25T19:52:17'

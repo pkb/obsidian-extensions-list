@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enhance your documents with custom tags. Use predefined or custom labels,
   customizable colors, and arrow indicators to visually track tasks and statuses.
-downloads: 247
+downloads: 314
 mobile: true
 number: 2025
 stars: 3
@@ -19,15 +19,15 @@ version: 1.2.1
 
 %% README_START %%
 
-# Markdown Tags: Enhanced Tag Styling for Obsidian
+# Tags for Markdown: Enhanced Styled Labels for Obsidian
 
-Add visual flair to your Markdown documents with custom tag styles! **Markdown Tags** lets you highlight and style labels within Markdown using simple syntax, customizable colors, and optional arrow indicators—all within Obsidian.
+Add visual flair to your Markdown documents with custom tag styles! **Tags for Markdown** lets you highlight and style labels within Markdown documents using simple syntax, customizable colors, and optional arrow indicators—all within Obsidian. If you like **Tags for Markdown**, get our extension for [Visual Studio Code](https://github.com/binarynoir/vscode-markdown-tags/)!
 
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/binarynoir)
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me-Ko--fi-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/binarynoir)
-[![Visit my website](https://img.shields.io/badge/Website-binarynoir.tech-black?style=for-the-badge)](https://binarynoir.tech)
+[![Visit my website](https://img.shields.io/badge/Website-binarynoir.tech-8c8c8c?style=for-the-badge)](https://binarynoir.tech)
 
-![obsidian-markdown-tags](./screenshot.png)
+![obsidian-markdown-tags](https://raw.githubusercontent.com/binarynoir/obsidian-markdown-tags/HEAD/screenshot.png)
 
 ## Features
 

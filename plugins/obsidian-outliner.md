@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Outliner
+- Outliner
 author:
-  - "[[vslinko|Viacheslav Slinko]]"
+- '[[vslinko|Viacheslav Slinko]]'
 categories:
-  - "[[categories/Note editing and formatting|Note editing and formatting]]"
+- '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Work with your lists like in Workflowy or RoamResearch.
-downloads: 829825
+downloads: 832883
 mobile: true
 number: 135
-stars: 1000
+stars: -1
 title: Outliner
 type: plugin
-updated: 2024-03-21T13:57:27
+updated: '2024-03-21T13:57:27'
 url: https://github.com/vslinko/obsidian-outliner
 version: 4.8.1
 ---

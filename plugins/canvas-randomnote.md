@@ -5,7 +5,7 @@ author:
 - '[[jmilldotdev|Obsidian]]'
 categories: []
 description: Add random notes from your vault to the Obsidian canvas
-downloads: 3950
+downloads: 3954
 mobile: false
 number: 747
 stars: 10

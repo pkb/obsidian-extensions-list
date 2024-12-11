@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync your Hypothesis highlights
-downloads: 13994
+downloads: 14020
 mobile: true
 number: 322
 stars: 237

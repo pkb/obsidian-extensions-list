@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add icons to your Obsidian notes.
-downloads: 84294
+downloads: 84605
 mobile: false
 number: 77
 stars: 203

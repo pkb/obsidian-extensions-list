@@ -6,7 +6,7 @@ author:
 categories: []
 description: Make sure your index "MOC" files (notes or Canvas) contain all links
   they should contain.
-downloads: 4319
+downloads: 4335
 mobile: true
 number: 1049
 stars: 12

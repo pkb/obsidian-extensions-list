@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create a quick note in a floating window (on command or by right-clicking
   the Obsidian app icon)
-downloads: 3891
+downloads: 3905
 mobile: false
 number: 1080
 stars: 7

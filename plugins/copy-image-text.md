@@ -5,7 +5,7 @@ author:
 - '[[msgk239|msgk]]'
 categories: []
 description: Copy note content (including text and images) to clipboard. 复制笔记内容（包括文本和图片）到剪贴板。
-downloads: 173
+downloads: 206
 mobile: true
 number: 1965
 stars: 6

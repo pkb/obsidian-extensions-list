@@ -7,15 +7,15 @@ categories:
 - '[[categories/Import|Import]]'
 description: Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google
   Keep, Bear, Roam, and HTML files.
-downloads: 426492
+downloads: 436629
 mobile: true
 number: 974
-stars: 776
+stars: 781
 title: Importer
 type: plugin
-updated: '2024-11-13T00:31:26'
+updated: '2024-12-11T01:28:25'
 url: https://github.com/obsidianmd/obsidian-importer
-version: 1.6.12
+version: 1.6.14
 ---
 
 %% README_START %%

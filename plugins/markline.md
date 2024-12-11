@@ -5,7 +5,7 @@ author:
 - '[[hotoo|闲耘]]'
 categories: []
 description: Timeline view from markdown.
-downloads: 2098
+downloads: 2108
 mobile: true
 number: 1382
 stars: 28
@@ -217,7 +217,7 @@ for anonymous group.
 ### Image
 
 ```markdown
-* 2014 this is an image: ![alt](image-url)
+* 2014 this is an image: ![alt](https://raw.githubusercontent.com/hotoo/obsidian-markline/HEAD/image-url)
 * 2014 this is an internal image: ![[image file]]
 ```
 

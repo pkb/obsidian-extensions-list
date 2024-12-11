@@ -5,7 +5,7 @@ author:
 - '[[yajamon|yajamon<yajamon.cmnct@gmail.com>]]'
 categories: []
 description: This plugin gives aliases to Obsidian commands.
-downloads: 6092
+downloads: 6106
 mobile: true
 number: 259
 stars: 15

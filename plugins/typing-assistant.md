@@ -5,7 +5,7 @@ author:
 - '[[Jambo2018|Jambo]]'
 categories: []
 description: Support multiple shortcut menus to improve input efficiency
-downloads: 12431
+downloads: 12468
 mobile: true
 number: 1105
 stars: 52

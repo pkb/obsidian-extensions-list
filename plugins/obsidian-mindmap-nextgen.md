@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: View your Markdown as a mindmap
-downloads: 39949
+downloads: 40444
 mobile: true
 number: 703
-stars: 176
+stars: 183
 title: Mindmap NextGen
 type: plugin
 updated: '2024-11-18T01:15:14'

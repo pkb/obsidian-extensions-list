@@ -5,7 +5,7 @@ author:
 - '[[MamoruDS|MamoruDS]]'
 categories: []
 description: Open external link with specific browser / in-app view in Obsidian
-downloads: 14486
+downloads: 14535
 mobile: false
 number: 174
 stars: 39

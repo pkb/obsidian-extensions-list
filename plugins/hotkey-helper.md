@@ -7,7 +7,7 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: Easily see and access any plugin's settings or hotkey assignments (and
   conflicts) from the Community Plugins tab
-downloads: 54773
+downloads: 55128
 mobile: true
 number: 125
 stars: 113

@@ -5,7 +5,7 @@ author:
 - '[[victorb|Victor Bjelkholm]]'
 categories: []
 description: Clojure inside Obsidian
-downloads: 3616
+downloads: 3620
 mobile: true
 number: 547
 stars: 95

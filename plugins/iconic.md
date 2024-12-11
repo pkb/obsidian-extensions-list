@@ -6,10 +6,10 @@ author:
 categories: []
 description: Customize your icons and their colors directly from the UI, including
   tabs, files, bookmarks, properties, and ribbon commands.
-downloads: 12270
+downloads: 12837
 mobile: true
 number: 1772
-stars: 79
+stars: 81
 title: Iconic
 type: plugin
 updated: '2024-10-06T13:00:22'
@@ -25,7 +25,7 @@ A plugin for iconophiles, designed to blend seamlessly with vanilla Obsidian.
 
 Click almost any icon on a tab, list, or ribbon to swap in one of the 1,300+ icons included in the app, or one of the 1,900+ emojis that your device can display.
 
-![Banner](banner.webp)
+![Banner](https://raw.githubusercontent.com/gfxholo/iconic/HEAD/banner.webp)
 
 > ⤿ Themes: [Obsidian gruvbox](https://github.com/insanum/obsidian_gruvbox), [Catppuccin](https://github.com/catppuccin/obsidian), [Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted)
 
@@ -50,7 +50,7 @@ Every icon and emoji is searchable by name. Toggle the emoji picker by clicking 
 
 You can also choose one of nine optional colors per icon. These colors follow the CSS theme of your vault, so they adjust automatically when it changes. If you need a specific RGB color, secondary-click the bubble to open the full color picker.
 
-![Icon picker](picker.webp)
+![Icon picker](https://raw.githubusercontent.com/gfxholo/iconic/HEAD/picker.webp)
 
 ## How is this plugin different from [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)?
 

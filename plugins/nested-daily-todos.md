@@ -6,7 +6,7 @@ author:
 categories: []
 description: Carry over incomplete todos from Daily Notes grouped by headers, with
   support for nesting and flexible todo states.
-downloads: 2670
+downloads: 2690
 mobile: true
 number: 1385
 stars: 5

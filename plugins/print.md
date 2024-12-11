@@ -5,10 +5,10 @@ author:
 - '[[marijnbent|Marijn Bent]]'
 categories: []
 description: Print notes and documents directly from your workspace.
-downloads: 2582
+downloads: 2788
 mobile: false
 number: 1892
-stars: 26
+stars: 27
 title: Print
 type: plugin
 updated: '2024-09-27T16:49:36'

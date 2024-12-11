@@ -7,7 +7,7 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 - '[[categories/Import|Import]]'
 description: Move and link the attachments into the vault.
-downloads: 2108
+downloads: 2152
 mobile: true
 number: 1760
 stars: 15

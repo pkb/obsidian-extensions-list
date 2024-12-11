@@ -7,7 +7,7 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Display and customize the vault name (title) in the side navigation file
   explorer.
-downloads: 412
+downloads: 424
 mobile: false
 number: 1697
 stars: 4

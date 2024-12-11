@@ -5,7 +5,7 @@ author:
 - '[[usysrc|usysrc]]'
 categories: []
 description: Focus the text area when creating new notes.
-downloads: 1145
+downloads: 1158
 mobile: true
 number: 1481
 stars: 4

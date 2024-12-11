@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: TTRPG Initiative Tracker for Obsidian.md
-downloads: 91207
+downloads: 91707
 mobile: true
 number: 221
 stars: 149

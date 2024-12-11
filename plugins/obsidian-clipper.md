@@ -5,10 +5,10 @@ author:
 - '[[jgchristopher|John Christopher]]'
 categories: []
 description: This plugin helps you capture highlights from the web.
-downloads: 29224
+downloads: 29431
 mobile: true
 number: 705
-stars: 238
+stars: 239
 title: Clipper
 type: plugin
 updated: '2024-07-22T04:06:14'

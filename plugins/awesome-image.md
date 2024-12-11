@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: One-stop solution for image management.
-downloads: 9009
+downloads: 9071
 mobile: false
 number: 817
 stars: 58

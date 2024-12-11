@@ -6,7 +6,7 @@ author:
 categories: []
 description: Provides a find/replace window in edit mode similar to VSCode (supports
   regular expressions and case sensitivity).
-downloads: 388
+downloads: 457
 mobile: true
 number: 1989
 stars: 13

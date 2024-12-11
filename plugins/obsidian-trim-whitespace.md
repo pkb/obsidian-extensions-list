@@ -5,7 +5,7 @@ author:
 - '[[zlovatt|zlovatt]]'
 categories: []
 description: Trims unnecessary whitespace from your Obsidian documents
-downloads: 8478
+downloads: 8515
 mobile: true
 number: 566
 stars: 38

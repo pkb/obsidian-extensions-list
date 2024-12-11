@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Apply an image from various sources as a banner to your notes.
-downloads: 4213
+downloads: 4922
 mobile: true
 number: 1902
-stars: 53
+stars: 54
 title: Pixel Banner
 type: plugin
-updated: '2024-12-03T05:29:52'
+updated: '2024-12-10T05:00:58'
 url: https://github.com/jparkerweb/pixel-banner
-version: 2.12.0
+version: 2.13.0
 ---
 
 %% README_START %%
@@ -22,6 +22,14 @@ version: 2.12.0
 # 🚩 Pixel Banner for Obsidian
 
 Pixel Banner is a plugin for Obsidian that allows you to automatically add beautiful banner images to your notes using the Pexels/Pixabay APIs, direct URLs, or folder-specific settings. Enhance your note-taking experience with visually appealing headers that provide context and improve the overall aesthetics of your notes.
+
+### Maintained by
+<a href="https://www.equilllabs.com">
+  <img src="https://raw.githubusercontent.com/jparkerweb/eQuill-Labs/refs/heads/main/src/static/images/logo-text-outline.png" alt="eQuill Labs" height="40">
+</a>
+
+<br>
+<br>
 
 ![pixel-banner](https://raw.githubusercontent.com/jparkerweb/pixel-banner/HEAD/img/pixel-banner.jpg)
 

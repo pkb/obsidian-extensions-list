@@ -7,7 +7,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Integration|Integration]]'
 description: Synchronize highlights from your ReMarkable to Obsidian!
-downloads: 12478
+downloads: 12667
 mobile: true
 number: 692
 stars: 34

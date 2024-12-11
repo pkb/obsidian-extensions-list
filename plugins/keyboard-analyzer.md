@@ -5,7 +5,7 @@ author:
 - '[[cogscides|cogscides]]'
 categories: []
 description: See and analyse your keyboard hotkeys and shortcuts
-downloads: 13322
+downloads: 13385
 mobile: true
 number: 629
 stars: 87

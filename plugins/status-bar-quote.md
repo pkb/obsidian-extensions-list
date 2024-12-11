@@ -5,7 +5,7 @@ author:
 - '[[yesjinu|Jinu]]'
 categories: []
 description: Show your favorite quote in obsidian status bar
-downloads: 3976
+downloads: 3981
 mobile: true
 number: 649
 stars: 5

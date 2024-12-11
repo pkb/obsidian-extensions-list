@@ -5,7 +5,7 @@ author:
 - '[[isdmg|Daniel Geneta]]'
 categories: []
 description: Remove unused block ids in your vault.
-downloads: 187
+downloads: 192
 mobile: true
 number: 1910
 stars: 2

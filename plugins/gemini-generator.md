@@ -5,7 +5,7 @@ author:
 - '[[BjarneRentz|Bjarne Rentz]]'
 categories: []
 description: Let Google Gemini generator your notes!
-downloads: 792
+downloads: 809
 mobile: true
 number: 1731
 stars: 7

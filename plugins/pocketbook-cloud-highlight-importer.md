@@ -7,7 +7,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Import|Import]]'
 description: Imports notes and highlights from your Pocketbook Cloud account.
-downloads: 3912
+downloads: 3917
 mobile: true
 number: 896
 stars: 11

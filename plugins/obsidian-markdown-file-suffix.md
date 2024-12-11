@@ -5,7 +5,7 @@ author:
 - '[[git-no|swissmation]]'
 categories: []
 description: Use additional files like .mdx / .svx as if they were markdown.
-downloads: 4039
+downloads: 4051
 mobile: true
 number: 645
 stars: 6

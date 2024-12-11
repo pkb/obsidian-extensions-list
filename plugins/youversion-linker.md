@@ -5,15 +5,15 @@ author:
 - '[[jaanonim|jaanonim]]'
 categories: []
 description: Automatically link bible verses in your notes to YouVersion bible.
-downloads: 6450
+downloads: 6527
 mobile: true
 number: 1097
 stars: 23
 title: YouVersion Linker
 type: plugin
-updated: '2024-11-05T21:30:23'
+updated: '2024-12-09T21:25:53'
 url: https://github.com/jaanonim/obsidian-youversion-linker
-version: 1.4.2
+version: 1.4.3
 ---
 
 %% README_START %%

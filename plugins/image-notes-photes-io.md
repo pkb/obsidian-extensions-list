@@ -5,7 +5,7 @@ author:
 - '[[Kanaries|Kanaries Data Inc.]]'
 categories: []
 description: Turn your images into text notes with AI
-downloads: 258
+downloads: 264
 mobile: true
 number: 1814
 stars: 2

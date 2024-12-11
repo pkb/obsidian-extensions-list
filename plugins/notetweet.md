@@ -5,7 +5,7 @@ author:
 - '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: This plugin allows you to post tweets directly from Obsidian.
-downloads: 6077
+downloads: 6083
 mobile: true
 number: 118
 stars: 69

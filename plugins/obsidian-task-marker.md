@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Change task statuses with hotkeys and context menu. Complete, cancel
   and mark tasks, as well as cycle among selected task statuses.
-downloads: 11311
+downloads: 11465
 mobile: true
 number: 760
 stars: 40
@@ -26,7 +26,9 @@ version: 0.6.2
 
 An [Obsidian](https://obsidian.md/) plugin to change task status and append text with hotkeys and right-click context menu.
 
-## Features
+![demo](https://raw.githubusercontent.com/wenlzhang/obsidian-task-marker/HEAD//docs/attachment/demo.gif)
+
+## Key Features
 
 - Create tasks
     - Mark list items with `[ ]`
@@ -54,8 +56,6 @@ An [Obsidian](https://obsidian.md/) plugin to change task status and append text
 - Append text automatically 📝 2023-03-04
     - Automatically append text according to task/line status
 
-![demo](https://raw.githubusercontent.com/wenlzhang/obsidian-task-marker/HEAD//docs/attachment/demo.gif)
-
 ### Miscellaneous
 
 - Support operating on items that start with `-+*` 📝 2023-07-24
@@ -63,52 +63,54 @@ An [Obsidian](https://obsidian.md/) plugin to change task status and append text
     - The cursor location is set with respect to text, excluding item/task prefix.
     - The behaviour is the same as the default Obsidian command `Cycle bullet/checkbox`.
 
-## Usage
+## The Story Behind Task Marker
 
-### How to use
+[Obsidian Task Marker](https://exp.ptkm.net/obsidian-task-marker) was crafted with two [PTKM Core Principles](https://exp.ptkm.net/ptkm-core-principles) that shape its functionality:
 
-See [Usage](docs/Usage.md) for details.
+- **Task-Centered Workflow**: Prioritizing efficient task management
+- **Focus on Priority**: Helping users concentrate on what truly matters
 
-### How to configure
+This plugin was developed to address a simple yet essential need: tasks can have various statuses, such as open, completed, or transferred. In lengthy notes, like meeting notes, there can be numerous list items. When organizing and reviewing these notes, it’s helpful to mark different items with various statuses to highlight their importance and difference. Later, when revisiting the meeting notes, you can easily focus on these key items—such as ideas, questions, bookmarks, information, pros, cons, and similar elements—without having to sift through all the lengthy content.
 
-Task Marker uses [moment.js](https://momentjs.com/docs/#/displaying/format/) to format the date and time to be appended. In addition, **square brackets** are needed to surround the content that is not part of the format string.
+Recognizing the need to mark tasks with different statuses, I developed this plugin to simplify the process. With it, you can easily assign different statuses to items and use hotkeys to cycle through them. Additionally, when marking tasks, the plugin automatically adds timestamps to indicate when tasks were created, completed, and marked. This timestamp information is crucial, which is also why I developed the [Obsidian Timestamp Link](https://exp.ptkm.net/obsidian-timestamp-link) plugin.
 
-- For example, if `[completion::2023-01-01]` is the desired text to be appended, then `[[completion::]YYYY-MM-DD[]]` needs to be configured in settings.
+I hope you enjoy using this plugin!
 
-See [Setting](docs/Setting.md) for more detailed settings.
+## Documentation
 
-### How to install
+📚 **[View Full Documentation](https://exp.ptkm.net/obsidian-task-marker)**
 
-Install the plugin from the Obsidian Community Plugins store:
+Visit the documentation site to learn how to make the most of Task Marker in your Obsidian workflow.
 
-1. Go to `Settings > Community plugins` and disable "Restricted mode"
-2. Click "Browse" to search for plugins and type "task marker"
-3. Select **Task Marker** and click "Install"
-4. Enable Task Marker and configure it as desired
+## Support & Community
 
-<!-- The plugin has been submitted to the Obsidian **Community Plugins** for review but is not available in the community plugin store yet. For now, there are two methods to install this plugin:
+This plugin is a labor of love, developed and maintained during my free time after work and on weekends. A lot of thought, energy, and care goes into making it reliable, user-friendly, and aligned with PTKM principles.
 
-- Manually download `main.js`, `manifest.json` and `styles.css` and put them inside `.obsidian/obsidian-task-marker` of your Obsidian vault.
-- Alternatively, you can use [obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) to install and update the plugin. -->
+If you find this plugin valuable in your daily workflow:
 
-### Resources
+- If it helps you manage tasks more effectively
+- If it saves you time and mental energy
+- If it makes your work between Obsidian and Todoist smoother
 
-See [Resource](docs/Resource.md) for details.
+Please consider supporting my work. Your support would mean the world to me and would help me dedicate more time and energy to:
 
-## Development process
+- Developing new features
+- Maintaining code quality
+- Providing support and documentation
+- Making the plugin even better for everyone
 
-You can see how this plugin is developed starting from scratch as follows:
+### Ways to Support
 
-- [Project actions - Develop an Obsidian plugin for changing task status - 202212262317 - PTKM Experiment](https://exp.ptkm.net/220-Development/Project+action/Project+actions+-+Develop+an+Obsidian+plugin+for+changing+task+status+-+202212262317)
+You can support this project in several ways:
 
-## Credits
+- ⭐ Star the project on GitHub
+- 💝 <a href='https://ko-fi.com/C0C66C1TB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+- [Sponsor](https://github.com/sponsors/wenlzhang) my work on GitHub
+- 💌 Share your success stories and feedback
+- 📢 Spread the word about the plugin
+- 🐛 [Report issues](https://github.com/wenlzhang/obsidian-task-marker/issues) to help improve the plugin
 
-- [Obsidian: Task Collector](https://github.com/ebullient/obsidian-task-collector)
-    - This plugin serves as a starting template.
-
-## Support me
-
-<a href='https://ko-fi.com/C0C66C1TB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+Thank you for being part of this journey! 🙏
 
 
 %% README_END %%

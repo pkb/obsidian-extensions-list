@@ -5,7 +5,7 @@ author:
 - '[[dragonish|dragonish]]'
 categories: []
 description: Implements automatic marking of abbreviations and acronyms (terminology).
-downloads: 283
+downloads: 294
 mobile: true
 number: 1857
 stars: 10
@@ -97,13 +97,13 @@ abbr:
 
 | Source mode | Live Preview |
 | :---------: | :----------: |
-| ![source-mode](https://raw.githubusercontent.com/dragonish/obsidian-abbreviations/HEAD/images/source-mode.png) | ![live-preview](images/live-preview.png) |
+| ![source-mode](https://raw.githubusercontent.com/dragonish/obsidian-abbreviations/HEAD/images/source-mode.png) | ![live-preview](https://raw.githubusercontent.com/dragonish/obsidian-abbreviations/HEAD/images/live-preview.png) |
 
 **Reading:**
 
 | Source mode | Reading |
 | :---------: | :-----: |
-| ![source-mode](https://raw.githubusercontent.com/dragonish/obsidian-abbreviations/HEAD/images/source-mode.png) | ![reading](images/reading.png) |
+| ![source-mode](https://raw.githubusercontent.com/dragonish/obsidian-abbreviations/HEAD/images/source-mode.png) | ![reading](https://raw.githubusercontent.com/dragonish/obsidian-abbreviations/HEAD/images/reading.png) |
 
 ## License
 

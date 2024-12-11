@@ -5,7 +5,7 @@ author:
 - '[[niffka|Nika Lopusna]]'
 categories: []
 description: Merge notes into a single markdown document based on index Markdown file.
-downloads: 3070
+downloads: 3092
 mobile: false
 number: 1265
 stars: 8
@@ -157,8 +157,8 @@ optional metadata: `language label|caption`
 
 #### Markdown
 ```
-![description](image file "source")
-![black cat crossing street](blackcat.jpg "https://kittenpictures.com/blackcat.jpg")
+![description](https://raw.githubusercontent.com/niffka/notes-merger/HEAD/image file "source")
+![black cat crossing street](https://raw.githubusercontent.com/niffka/notes-merger/HEAD/blackcat.jpg "https://kittenpictures.com/blackcat.jpg")
 ```
 
 optional: `description, source`

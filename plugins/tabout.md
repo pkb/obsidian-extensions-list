@@ -5,7 +5,7 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: Easily "tab out" of Links or other Markdown Formatting Characters.
-downloads: 8606
+downloads: 8640
 mobile: false
 number: 326
 stars: 52

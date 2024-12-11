@@ -5,7 +5,7 @@ author:
 - '[[graydon|Graydon Hoare]]'
 categories: []
 description: This plugin shows any dangling links in your vault.
-downloads: 14846
+downloads: 14878
 mobile: true
 number: 43
 stars: 46
@@ -26,7 +26,9 @@ This plugin is only lightly maintained, you might find
 [this alternative](https://github.com/ipshing/obsidian-broken-links) suits your
 needs better.
 
-![Obsidian Dangling Links demo](https://raw.githubusercontent.com/graydon/obsidian-dangling-links/HEAD/assets/overview.gif) that displays the set
+![Obsidian Dangling Links demo](https://raw.githubusercontent.com/graydon/obsidian-dangling-links/HEAD/assets/overview.gif)
+
+This is a small plugin for [Obsidian](http://obsidian.md) that displays the set
 of dangling links in your current vault in a side-panel -- links you've put in
 a note somewhere that don't currently point to anything in the vault.
 

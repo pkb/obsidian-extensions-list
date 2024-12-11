@@ -7,7 +7,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Securely share your Obsidian notes with one click. Notes are end-to-end
   encrypted. No API keys or configuration required.
-downloads: 21469
+downloads: 21559
 mobile: true
 number: 588
 stars: 255

@@ -5,7 +5,7 @@ author:
 - '[[makary-s|Makary Sharoyan]]'
 categories: []
 description: Multidimensional note navigation
-downloads: 1576
+downloads: 1594
 mobile: true
 number: 1524
 stars: 19

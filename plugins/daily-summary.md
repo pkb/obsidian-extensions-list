@@ -5,15 +5,15 @@ author:
 - '[[CSLukkun|Luke]]'
 categories: []
 description: Auto generate daily summary
-downloads: 122
+downloads: 205
 mobile: true
 number: 2008
-stars: 5
+stars: 7
 title: Daily Summary
 type: plugin
-updated: '2024-11-25T17:13:48'
+updated: '2024-12-04T20:51:33'
 url: https://github.com/CSLukkun/ob_daily_summary
-version: 0.0.19
+version: 0.0.22
 ---
 
 %% README_START %%
@@ -47,11 +47,12 @@ An Obsidian plugin that automatically generates daily summaries. It collects not
    - Set report save location
 
 1.1. To use local Ollama models
-   - Set Ollama model you want to use
-      - To find installed models, type `ollama list` into a terminal
-      - Or find interesting local models on https://ollama.com/library
-   - Configure API Endpoint
-      - If you use a different port or run a remote ollama session
+
+- Set Ollama model you want to use
+  - To find installed models, type `ollama list` into a terminal
+  - Or find interesting local models on https://ollama.com/library
+- Configure API Endpoint
+  - If you use a different port or run a remote ollama session
 
 2. Generate a report:
    - Use the command palette and search for `Generate Daily Report`
@@ -73,6 +74,7 @@ An Obsidian plugin that automatically generates daily summaries. It collects not
 ## Error Handling
 
 The plugin includes comprehensive error logging:
+
 - API call failures
 - File operation errors
 - Configuration issues
@@ -83,18 +85,38 @@ The plugin includes comprehensive error logging:
 [MIT License](LICENSE) - see the LICENSE file for details
 
 ## Author
+
 Luke
 
 ## Changelog
 
-### 1.0.7
+### 0.0.22
+
+- Customized Prompt
+
+### 0.0.21
+
+- OpenAI API support
+- Add Excluded dirs setting
+- Fix timestamp
+
+### 0.0.7
+
 - Ollama support addition
 
-### 1.0.6
+### 0.0.6
+
 - Initial release
 - Basic daily report generation
 - Settings interface implementation
 - Error logging system
 - Automatic date detection in filenames
+
+## Buy me a coffee
+
+<img src="imgs/aipay.JPG" alt="" width="200" height="" style="margin-right: 50px">
+
+<img src="https://raw.githubusercontent.com/CSLukkun/ob_daily_summary/HEAD/imgs/bmc_qr.png" alt="" width="200" height="">
+
 
 %% README_END %%

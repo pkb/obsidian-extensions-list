@@ -5,7 +5,7 @@ author:
 - '[[wenlzhang|wenlzhang]]'
 categories: []
 description: Copy file metadata to clipboard. Insert copied metadata to file name.
-downloads: 2924
+downloads: 2931
 mobile: true
 number: 1163
 stars: 4

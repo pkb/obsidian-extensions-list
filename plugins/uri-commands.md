@@ -5,7 +5,7 @@ author:
 - '[[kzhovn|kzhovn]]'
 categories: []
 description: Execute URIs from the Obsidian command palette.
-downloads: 5545
+downloads: 5562
 mobile: true
 number: 306
 stars: 38

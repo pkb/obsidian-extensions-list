@@ -6,7 +6,7 @@ author:
 categories: []
 description: Watches for changes in metadata and performs user-specified actions based
   on these changes.
-downloads: 185
+downloads: 191
 mobile: true
 number: 1723
 stars: 6

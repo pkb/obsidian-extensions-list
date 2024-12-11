@@ -5,7 +5,7 @@ author:
 - '[[BogdanCodreanu|Bogdan Codreanu]]'
 categories: []
 description: Helps with some MOC janitor-linking tasks.
-downloads: 282
+downloads: 300
 mobile: false
 number: 1983
 stars: 4
@@ -53,7 +53,7 @@ This view also contains 3 filtering options of the notes
 - **MOC** - shows only included MOC notes
   - Operations will work on all MOCs. (If you want all the sub-MOCs to have an up-link to this note)
 
-![Main view](https://raw.githubusercontent.com/BogdanCodreanu/obsidian-moc-link-helper/HEAD/readme-imgs/img1.png)
+![Main view](https://raw.githubusercontent.com/BogdanCodreanu/obsidian-moc-link-helper/HEAD/readme-imgs/preview-main.gif)
 
 - You can also *select text in the MOC* and it will filter the notes on the view to the selected ones only.
   - This can be useful for when you want to split your MOC from including all notes to mutliple smaller MOCs. So if I want to turn **Red Fruits** into an MOC, I firstly remove the link to the **Fruits MOC** from all the red ones.
@@ -70,6 +70,13 @@ This view will show any notes that have an **up-link** to this MOC, but are not 
 ![Missing notes](https://raw.githubusercontent.com/BogdanCodreanu/obsidian-moc-link-helper/HEAD/readme-imgs/missing.png)
 
 - You can easily insert them as links at the position of your text cursor.
+
+### Child notes
+
+There are also small functionalities on child notes. You can see the note's parents (which are included in its up links) and also a possible MOCs that it belongs to.
+
+
+![Child note](https://raw.githubusercontent.com/BogdanCodreanu/obsidian-moc-link-helper/HEAD/readme-imgs/child-preview.gif)
 
 ## Issues
 

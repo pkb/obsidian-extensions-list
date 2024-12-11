@@ -6,7 +6,7 @@ author:
 categories: []
 description: Integrate vConsole for developers to facilitate the debugging of mobile
   plugins.
-downloads: 1168
+downloads: 1192
 mobile: true
 number: 1576
 stars: 18

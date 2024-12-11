@@ -9,7 +9,7 @@ categories:
 description: Related links up to 2 hops away are displayed in a card format, allowing
   for easy browsing through connections between notes. Each card contains a preview
   of the corresponding note.
-downloads: 9605
+downloads: 9669
 mobile: true
 number: 1129
 stars: 64

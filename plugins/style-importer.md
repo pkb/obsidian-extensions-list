@@ -5,7 +5,7 @@ author:
 - '[[joshrouwhorst|Josh Rouwhorst]]'
 categories: []
 description: Import a stylesheet from a URL into your snippets folder.
-downloads: 3772
+downloads: 3783
 mobile: true
 number: 1001
 stars: 9

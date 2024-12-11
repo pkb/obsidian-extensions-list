@@ -5,15 +5,15 @@ author:
 - '[[Lio5n|Wang Guoshi]]'
 categories: []
 description: Generate Anki flashcards in multiple ways.
-downloads: 204
+downloads: 252
 mobile: false
 number: 1985
 stars: 5
 title: Blue Star
 type: plugin
-updated: '2024-11-20T16:18:31'
+updated: '2024-12-05T17:00:02'
 url: https://github.com/Lio5n/blue-star
-version: 1.2.4
+version: 1.2.5
 ---
 
 %% README_START %%
@@ -238,7 +238,7 @@ parser: section-subsection
 * `deck` / `anki-deck`
 * `model` / `anki-model` / `note-type` / `anki-note-type`
 * `tag` / `anki-tag` / `card-tag` / `anki-card-tag`
-* `parser` / `parser-mode` / `match` / `match-mode` (Options: `section-subsection`, `heading-paragraph`, `multi-subsection`, `multi-subparagraph`, `regex`, `custom-delimiter`)
+* `parser` / `parser-mode` / `match` / `match-mode` (Options: `section-subsection`, `heading-paragraph`, `multi-subsection`, `multi-subparagraph`, `regex`, `custom-delimiter`, `single-delimiter`)
 * `heading` / `heading-level`
 * `regex`
 * `flags` / `regex-flag` / `flag` / `regex-flags`
@@ -249,7 +249,6 @@ parser: section-subsection
 * `single` / `single-field` (Values: `true` or `false`)
 * `html` / `html-break` / `html-line-break` (Values: `true` or `false`)
 * `ignore` (Values: `true` or `false`)
-* `image-max-width`
 
 ## Deck Tip
 

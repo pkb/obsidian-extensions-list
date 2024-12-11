@@ -5,7 +5,7 @@ author:
 - '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Get links to blocks and headings from Obsidian's right click menu
-downloads: 48825
+downloads: 49031
 mobile: true
 number: 267
 stars: 182

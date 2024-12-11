@@ -5,7 +5,7 @@ author:
 - '[[kuchejak|Jakub Kuchejda]]'
 categories: []
 description: Link multiple bible verses easily
-downloads: 12390
+downloads: 12468
 mobile: true
 number: 444
 stars: 81

@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plugin for Obsidian.md that lets you choose an emotion from a list
   to insert into a note.
-downloads: 7863
+downloads: 7959
 mobile: true
 number: 383
 stars: 53
@@ -32,7 +32,7 @@ Available options (default values can be set in Settings tab):
 -   insert as #tag
 -   capitalize the word before inserting
 
-![Plugin overview](./emotion-picker.png "Plugin overview")
+![Plugin overview](https://raw.githubusercontent.com/dartungar/obsidian-emotion-picker/HEAD/emotion-picker.png "Plugin overview")
 
 The primary purpose is to provide an easier way to add entries to daily journal, emotions / mood tracker, etc.
 

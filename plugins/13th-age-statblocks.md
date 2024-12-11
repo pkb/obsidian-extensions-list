@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Render 13th Age statblocks in Obsidian.
-downloads: 4249
+downloads: 4255
 mobile: true
 number: 399
 stars: 7

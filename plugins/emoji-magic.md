@@ -5,7 +5,7 @@ author:
 - '[[SimplGy|simplgy]]'
 categories: []
 description: "Easily add emoji, with a powerful keyword search. \U0001F52E ✨ \U0001F407"
-downloads: 13462
+downloads: 13562
 mobile: true
 number: 819
 stars: 18
@@ -28,6 +28,23 @@ It has a large dictionary of keywords so you can find emoji you wouldn't find ot
 Animated Screenshot:
 
 ![gif in action](https://raw.githubusercontent.com/SimplGy/obsidian-emoji-magic/HEAD/screenshots/emoji-magic-obsidian-2.gif)
+
+Still Screenshot:
+
+![screenshot](https://raw.githubusercontent.com/SimplGy/obsidian-emoji-magic/HEAD/screenshots/emoji-magic-blue.png)
+
+## Features
+
+1. Secure -- local only, no internet
+2. Rich keyword search -- the dictionary contains `1,812` emoji with `199,658` searchable keywords and thesaurus entries.
+3. Fast -- just keyboard shortcut and click
+4. Keyboard friendly -- arrow keys, tab, however you want.
+
+> Note: This is an [Obsidian](https://obsidian.md/)-compatible fork of the [Emoji Magic](https://github.com/SimplGy/emoji-magic) Chrome Extension I wrote.
+
+## Installing this Plugin
+
+1. Open settings. (if you haven't yet, one time: Third party plugin -> Disable Safe mode)
 1. Click "Browse community plugins" -> Search for "Magic File Hotkey"
 1. Install it, then click "enable"
 1. Add a hotkey. I like `cmd + shift + e` ("e" for "emoji").

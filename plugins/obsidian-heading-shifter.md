@@ -5,7 +5,7 @@ author:
 - '[[k4a-l|kasahala]]'
 categories: []
 description: Easily Shift and Change markdown headings.
-downloads: 15920
+downloads: 16041
 mobile: true
 number: 583
 stars: 76

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Add zoom and drag functionality to diagrams from Mermaid, Plantuml, Graphviz,
   Gravizo and so on
-downloads: 1599
+downloads: 1700
 mobile: true
 number: 1913
-stars: 20
+stars: 23
 title: Diagram Zoom Drag
 type: plugin
 updated: '2024-11-03T23:32:59'

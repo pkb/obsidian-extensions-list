@@ -5,7 +5,7 @@ author:
 - '[[denisoed|Denisoed]]'
 categories: []
 description: Check & fix orthography errors in text.
-downloads: 10327
+downloads: 10358
 mobile: true
 number: 86
 stars: 122

@@ -6,15 +6,15 @@ author:
 categories: []
 description: Looks for missing linked mentions or notes with a specific tag or alias
   and imports them into the current note.
-downloads: 12012
+downloads: 12194
 mobile: true
 number: 508
-stars: 41
+stars: 43
 title: AutoMOC
 type: plugin
-updated: '2024-11-25T21:34:17'
+updated: '2024-12-10T06:54:03'
 url: https://github.com/dalcantara7/obsidian-auto-moc
-version: 1.5.1
+version: 1.5.2
 ---
 
 %% README_START %%
@@ -67,7 +67,9 @@ Command 3 can be run through the command pallette, or a keyboard shortcut (must 
 
 ### Frontmatter Support
 
-The plugin will check to see if a note has aliases in its frontmatter (now "**Properties**"). If it finds one, it will add a link to the note with its alias so that the link will be:
+The plugin can check to see if a note has aliases in its frontmatter (now "**Properties**"). **NEW**: this is an optional setting. By default, it will include the alias. If you want to ignore aliases, you will need to disable the associated setting.
+
+If the plugin finds an alias on a note and the associated setting is enabled, it will add a link to the note with its alias so that the link will be:
 
 ```
 [[NOTE|ALIAS]]

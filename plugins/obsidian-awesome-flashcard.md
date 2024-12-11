@@ -5,7 +5,7 @@ author:
 - '[[AwesomeDog|AwesomeDog]]'
 categories: []
 description: Handy Anki integration for Obsidian.
-downloads: 4686
+downloads: 4694
 mobile: false
 number: 658
 stars: 30

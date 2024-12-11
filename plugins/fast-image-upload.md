@@ -5,10 +5,10 @@ author:
 - '[[eust-w|Longtao Wu]]'
 categories: []
 description: Uploads clipboard images using goPic
-downloads: 194
+downloads: 198
 mobile: false
 number: 1817
-stars: 23
+stars: 24
 title: Fast Image Auto Uploader
 type: plugin
 updated: '2024-07-24T18:00:28'

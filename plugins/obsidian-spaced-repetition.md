@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Fight the forgetting curve by reviewing flashcards & entire notes.
-downloads: 298323
+downloads: 300193
 mobile: true
 number: 152
 stars: 1600

@@ -5,7 +5,7 @@ author:
 - '[[linqing24|linqing]]'
 categories: []
 description: Allows you to focus on a specific file or folder
-downloads: 80
+downloads: 111
 mobile: true
 number: 2018
 stars: 0

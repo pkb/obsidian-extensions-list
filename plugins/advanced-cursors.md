@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Use multiple cursors even more powerfully.
-downloads: 14947
+downloads: 14987
 mobile: false
 number: 332
 stars: 101

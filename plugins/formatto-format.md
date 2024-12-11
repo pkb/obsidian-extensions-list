@@ -5,7 +5,7 @@ author:
 - '[[evasquare|Eva]]'
 categories: []
 description: Simple, fast, and easy-to-use Markdown formatter.
-downloads: 4880
+downloads: 4956
 mobile: true
 number: 1304
 stars: 20

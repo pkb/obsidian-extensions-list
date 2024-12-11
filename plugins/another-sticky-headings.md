@@ -7,15 +7,15 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Display headings tree during editing and preview to indicate the current
   position.
-downloads: 2781
+downloads: 3013
 mobile: true
 number: 1736
 stars: 25
 title: Another Sticky Headings
 type: plugin
-updated: '2024-11-09T08:30:36'
+updated: '2024-12-08T21:04:38'
 url: https://github.com/zhouhua/obsidian-sticky-headings
-version: 2.0.3
+version: 2.1.1
 ---
 
 %% README_START %%
@@ -76,6 +76,13 @@ Supports both editing and reading modes, as well as multi-column layouts.
 * [vConsole](https://github.com/zhouhua/obsidian-vconsole)
 * [POWER MODE](https://github.com/zhouhua/obsidian-power-mode)
 * [PopKit](https://github.com/zhouhua/obsidian-popkit)
+
+## Change Log
+
+### 2.1.0
+
+* ✨ Added status bar mode support
+* 🎨 Improved heading rendering with HTML format support (such as LaTeX equations, bold text)
 
 
 %% README_END %%

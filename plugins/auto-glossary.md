@@ -7,7 +7,7 @@ categories:
 - '[[categories/Automation|Automation]]'
 description: Obsidian plugin to automatically create a file with an index (MOC), a
   glossary or both.
-downloads: 6998
+downloads: 7009
 mobile: false
 number: 693
 stars: 75

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Planning|Planning]]'
 description: Plain text project planning.
-downloads: 356204
+downloads: 358763
 mobile: true
 number: 635
 stars: 1500

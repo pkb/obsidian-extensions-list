@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Obsidian Publish url to the clipboard
-downloads: 2222
+downloads: 2227
 mobile: true
 number: 1283
 stars: 3

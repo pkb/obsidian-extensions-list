@@ -5,7 +5,7 @@ author:
 - '[[Pseudonium|Pseudonium]]'
 categories: []
 description: This is an Anki integration plugin! Designed for efficient bulk exporting.
-downloads: 91717
+downloads: 92171
 mobile: false
 number: 54
 stars: 1600

@@ -6,15 +6,15 @@ author:
 categories: []
 description: Streamline workflows within Obsidian, managing memos and plugins with
   just one command.
-downloads: 11449
+downloads: 11711
 mobile: false
 number: 912
-stars: 84
+stars: 87
 title: Personal Assistant
 type: plugin
-updated: '2024-12-02T18:22:44'
+updated: '2024-12-05T15:19:43'
 url: https://github.com/edonyzpc/personal-assistant
-version: 1.4.2
+version: 1.4.4
 ---
 
 %% README_START %%
@@ -35,7 +35,17 @@ version: 1.4.2
  <mark><b><span style="font-size:18px;">💯</span>Tips</b></mark>: If you are not a developer, please refer to the manual for optimal use.
 </p>
 
-> ***NOTE***: New shiny feature: Personal Assitant Supporting AI Helper to improve your Obsidian notes management.
+> ***NOTE***: New shiny feature: Supporting featured image generation by AI according to the content of the note.
+<div align="center">
+<video src="./docs/featured-images-ai-generation.mp4" placeholder="personal assistant support generating featured images by AI" autoplay loop controls muted title="featured image generation"></video>
+
+
+https://github.com/user-attachments/assets/aa246889-0c32-4ce5-bde1-32eba813d034
+
+
+</div>
+
+> ***AI Helper to improve your Obsidian notes management***
 <div align="center">
 <img src="https://raw.githubusercontent.com/edonyzpc/personal-assistant/HEAD/docs/Personal-Assitant-With-AI.gif" alt="personal assistant support AI"/>
 </div>

@@ -5,7 +5,7 @@ author:
 - '[[Darren-project|Darren-project]]'
 categories: []
 description: Exposes Spotify API
-downloads: 1955
+downloads: 1973
 mobile: true
 number: 1457
 stars: 14

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Collect your quotes from all over the repository and embed them in different
   locations with refresh delays.
-downloads: 6315
+downloads: 6328
 mobile: true
 number: 525
 stars: 47

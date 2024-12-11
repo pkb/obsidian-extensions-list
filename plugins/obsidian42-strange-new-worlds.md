@@ -5,15 +5,15 @@ author:
 - '[[TfTHacker|TfTHacker]]'
 categories: []
 description: Help see how your vault is interconnected with visual indicators.
-downloads: 75572
+downloads: 77782
 mobile: true
 number: 667
-stars: 457
+stars: 462
 title: Strange New Worlds
 type: plugin
-updated: '2024-11-30T19:05:32'
+updated: '2024-12-05T12:00:22'
 url: https://github.com/TfTHacker/obsidian42-strange-new-worlds
-version: 2.2.1
+version: 2.3.2
 ---
 
 %% README_START %%

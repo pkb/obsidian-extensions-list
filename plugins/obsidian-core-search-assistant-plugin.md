@@ -5,7 +5,7 @@ author:
 - '[[qawatake|qawatake]]'
 categories: []
 description: 'Enhance built-in search: keyboard interface, card preview, bigger preview'
-downloads: 26235
+downloads: 26308
 mobile: false
 number: 417
 stars: 109

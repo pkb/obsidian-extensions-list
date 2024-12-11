@@ -5,7 +5,7 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Allow images & notes to be viewed in new Obsidian windows.
-downloads: 24178
+downloads: 24300
 mobile: false
 number: 371
 stars: 37

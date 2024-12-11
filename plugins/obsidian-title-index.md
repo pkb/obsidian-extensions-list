@@ -5,7 +5,7 @@ author:
 - '[[renmu123|renmu123]]'
 categories: []
 description: obsidian-title-index
-downloads: 7105
+downloads: 7121
 mobile: true
 number: 210
 stars: 15

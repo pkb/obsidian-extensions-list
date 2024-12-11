@@ -5,7 +5,7 @@ author:
 - '[[rostunic|rostunic]]'
 categories: []
 description: Pick aliases or blocks of links.
-downloads: 564
+downloads: 570
 mobile: true
 number: 1588
 stars: 3

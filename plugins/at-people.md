@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Links|Links]]'
 description: Use the @ to create links to people files.
-downloads: 5391
+downloads: 5416
 mobile: true
 number: 1058
-stars: 22
+stars: 23
 title: At People
 type: plugin
 updated: '2023-08-28T03:29:48'

@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Adding powerful semantic search, generative answers, and other AI tools
   to Obsidian, using Supabase + OpenAI.
-downloads: 4328
+downloads: 4345
 mobile: false
 number: 1026
-stars: 234
+stars: 235
 title: AI Tools
 type: plugin
 updated: '2023-08-04T14:41:14'

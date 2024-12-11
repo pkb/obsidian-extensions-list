@@ -6,7 +6,7 @@ author:
 categories: []
 description: An Obsidian plugin that declutters a canvas by reconnecting notes using
   their nearest edges.
-downloads: 12847
+downloads: 12939
 mobile: true
 number: 820
 stars: 52

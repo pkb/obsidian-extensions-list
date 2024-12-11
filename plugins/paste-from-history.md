@@ -5,7 +5,7 @@ author:
 - '[[Karakaz|Daniel Karakka]]'
 categories: []
 description: Paste from the editor's recent clipboard history.
-downloads: 1736
+downloads: 1747
 mobile: true
 number: 1363
 stars: 7

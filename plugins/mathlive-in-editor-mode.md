@@ -5,7 +5,7 @@ author:
 - '[[MizarZh|MizarZh]]'
 categories: []
 description: MathLive input in editor mode
-downloads: 1013
+downloads: 1037
 mobile: true
 number: 1670
 stars: 7

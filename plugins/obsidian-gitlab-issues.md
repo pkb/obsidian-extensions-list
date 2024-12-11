@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import issues from Gitlab into Obsidian.
-downloads: 4602
+downloads: 4612
 mobile: true
 number: 641
 stars: 29

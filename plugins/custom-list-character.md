@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds the ability to choose the character to use when creating a bullet
   list between '-', '*' and '+'
-downloads: 4178
+downloads: 4194
 mobile: true
 number: 1038
 stars: 2
@@ -45,15 +45,15 @@ It adds the following features:
 
 1. Choose your character!
 
-   ![Custom list character settings](./docs/images/custom_list_character_settings.png "Choosing my custom list character")
+   ![Custom list character settings](https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/HEAD/docs/images/custom_list_character_settings.png "Choosing my custom list character")
 
 2. Set your hotkeys:
 
-   ![Custom list character hotkeys](./docs/images/custom_list_character_hotkeys.png "Setting up my hotkeys to make bullet lists with the custom character")
+   ![Custom list character hotkeys](https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/HEAD/docs/images/custom_list_character_hotkeys.png "Setting up my hotkeys to make bullet lists with the custom character")
 
 3. Use the new hotkey to make and format your bullet lists like so:
 
-![Custom list character demo](./docs/images/custom_list_character_demo.gif "Formatting and making bullet lists with the character")
+![Custom list character demo](https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/HEAD/docs/images/custom_list_character_demo.gif "Formatting and making bullet lists with the character")
 
 ## 3. Install the plugin
 
@@ -88,11 +88,11 @@ You can also use `Custom list character` on mobile! To do so, here are the ewtra
 1. Install and activate `Custom list character`
 2. Choose the character you want to use in the settings
 3. While editing a document:
-   1. In your toolbar, click on the icon to edit it (![Wrench icon](docs/images/icon_wrench.svg))
+   1. In your toolbar, click on the icon to edit it (![Wrench icon](https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/HEAD/docs/images/icon_wrench.svg))
    2. Click configure and search for `Custom list character`
    3. Select `Custom list character: Toggle or format bullet list`, it will add the command to the toolbar icons
-   4. Remove the `Toggle bullet list` icon (![List icon](docs/images/icon_list.svg)) from the toolbar
-   5. Add the `Custom list character: Toggle or format bullet list` icon (![List icon](docs/images/icon_list.svg)) to the toolbar
+   4. Remove the `Toggle bullet list` icon (![List icon](https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/HEAD/docs/images/icon_list.svg)) from the toolbar
+   5. Add the `Custom list character: Toggle or format bullet list` icon (![List icon](https://raw.githubusercontent.com/lilian-pouliquen/obsidian-custom-list-character/HEAD/docs/images/icon_list.svg)) to the toolbar
 
 ## 4. Help on the project
 

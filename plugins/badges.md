@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add inline badges/callouts to notes.
-downloads: 7908
+downloads: 7969
 mobile: true
 number: 998
 stars: 65

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Display stopwatch on Obsidian!
-downloads: 6525
+downloads: 6547
 mobile: true
 number: 175
 stars: 14

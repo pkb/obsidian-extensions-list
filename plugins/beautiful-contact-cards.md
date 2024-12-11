@@ -7,7 +7,7 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Renders "contact" code blocks with tappable links for phone, social media,
   etc.
-downloads: 115
+downloads: 155
 mobile: true
 number: 2012
 stars: 2

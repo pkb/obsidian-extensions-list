@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Display your obsidian notes in a timeline, based on a given property.
-downloads: 5200
+downloads: 5227
 mobile: false
 number: 1216
 stars: 26
@@ -37,11 +37,11 @@ Transform the way you explore your notes with the Obsidian Timeline View Plugin!
 
 #### Light Theme
 
-![Light Theme Overview](docs/resources/Light-Theme%20Overview.PNG)
+![Light Theme Overview](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/Light-Theme%20Overview.PNG)
 
 #### Dark Theme
 
-![Dark Theme Overview](docs/resources/Dark-Theme%20Overview.PNG)
+![Dark Theme Overview](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/Dark-Theme%20Overview.PNG)
 
 The view should work with any theme you apply.
 
@@ -53,7 +53,7 @@ Each Timeline View orders your notes based on a property of your choice, which d
 
 The plugin detects all properties within your vault and lists any numeric (date, datetime, or number) properties as available options. Once a property is selected, the notes automatically rearrange, and the timeline adapts to the appropriate measurement.
 
-![Available properties](docs/resources/available-properties.PNG)
+![Available properties](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/available-properties.PNG)
 
 When a property is selected, the notes will automatically be re-arranged, and the appropriate type of measurement will appear at the top of the timeline.
 
@@ -79,11 +79,11 @@ Easily update the property value of a note by dragging and dropping it on the ti
 
 Want to focus only on relevant notes? Apply a filter to your timeline using a query that (mostly) follows Obsidian's search syntax. For details on syntax limitations, see [Obsidian Search](https://github.com/b-camphart/obsidian-search).
 
-![Filter Property](docs/resources/filter-property.PNG)
+![Filter Property](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/filter-property.PNG)
 
 The filtered view renames the tab to match the provided filter, making it easy to differentiate between multiple open timeline tabs.
 
-![Filtered tab names](docs/resources/filtered-tab-name.PNG)
+![Filtered tab names](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/filtered-tab-name.PNG)
 
 You can also set a default filter in the plugin settings to apply to every new timeline you open.
 
@@ -95,11 +95,11 @@ Use the same query syntax as filtering to group notes by color, similar to Obsid
 
 Open the timeline as a "linked view" from within an existing tab, or link it to another tab after opening. Once linked, navigating to a new note automatically focuses and scrolls the timeline to that note.
 
-![Open linked timeline view](docs/resources/open%20linked%20timeline%20view.PNG)
+![Open linked timeline view](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/open%20linked%20timeline%20view.PNG)
 
 Additionally, clicking on a note in the linked timeline will open it in the linked tab.
 
-![linked timeline tab](docs/resources/linked%20timeline%20tab.PNG)
+![linked timeline tab](https://raw.githubusercontent.com/b-camphart/timeline-view/HEAD/docs/resources/linked%20timeline%20tab.PNG)
 
 # Roadmap
 

@@ -5,7 +5,7 @@ author:
 - '[[eoureo|eoureo]]'
 categories: []
 description: Run easily JavaScript codes for managing Obsidian and its notes.
-downloads: 5128
+downloads: 5155
 mobile: true
 number: 1051
 stars: 38

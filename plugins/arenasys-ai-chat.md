@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Chat with AI about your notes.
-downloads: 665
+downloads: 679
 mobile: false
 number: 1630
 stars: 7

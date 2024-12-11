@@ -5,7 +5,7 @@ author:
 - '[[linjunpop|Jun Lin]]'
 categories: []
 description: This is a plugin to show badge for Obsidian.
-downloads: 5559
+downloads: 5577
 mobile: true
 number: 494
 stars: 30

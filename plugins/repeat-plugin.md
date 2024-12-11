@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Review notes using periodic or spaced repetition.
-downloads: 9750
+downloads: 9792
 mobile: true
 number: 633
 stars: 43

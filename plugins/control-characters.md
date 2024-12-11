@@ -5,7 +5,7 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Show control/non-printing characters in edit mode.
-downloads: 5485
+downloads: 5495
 mobile: true
 number: 478
 stars: 24

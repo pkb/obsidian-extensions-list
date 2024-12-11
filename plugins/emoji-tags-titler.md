@@ -5,7 +5,7 @@ author:
 - '[[Cyfine|Cyfine]]'
 categories: []
 description: Add the emojis contained in the tags to the beginning of the note title.
-downloads: 3758
+downloads: 3770
 mobile: true
 number: 994
 stars: 3

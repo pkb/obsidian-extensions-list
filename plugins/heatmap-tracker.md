@@ -6,28 +6,28 @@ author:
 categories: []
 description: Visualize your activity and track goals, progress, habits, tasks, exercise,
   finances, and more—all in a single, interactive heatmap!
-downloads: 188
+downloads: 630
 mobile: true
 number: 2051
-stars: 2
+stars: 15
 title: Heatmap Tracker
 type: plugin
-updated: '2024-12-03T01:30:42'
+updated: '2024-12-10T17:31:49'
 url: https://github.com/mokkiebear/heatmap-tracker
-version: 1.2.1
+version: 1.7.3
 ---
 
 %% README_START %%
 
 # Heatmap Tracker plugin for Obsidian
 
-<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/HEAD/public/readme-cover.png" />
+<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/refs/heads/main/public/readme-cover.png" />
 
 The **Heatmap Tracker plugin for Obsidian** is a powerful and customizable tool designed to help you **track, visualize, and analyze data** over a calendar year. Perfect for habit tracking, project management, personal development, or any kind of data visualization, this plugin enables you to create beautiful, interactive heatmaps directly within Obsidian. Whether you’re **monitoring progress, visualizing trends, or staying on top of daily goals**, the Heatmap Tracker enhances your productivity and organization. Discover its intuitive features, flexible customization options, and seamless integration with Obsidian in the detailed guide below.
 
 ## Watch video to start using this plugin in 30 seconds
 
-<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/HEAD/public/heatmap-how-to.gif" />
+<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/refs/heads/main/public/heatmap-how-to.gif" />
 
 
 ## Start with this code example
@@ -79,6 +79,13 @@ renderHeatmapTracker(this.container, trackerData);
 }
 ```
 - **Description:** Defines the color scale used for representing different intensity levels in the heatmap. Each color corresponds to a specific range of data intensity.
+
+---
+
+### `customColor`
+- **Type:** `string`
+- **Default:** `undefined`
+- **Description:** Entry property. Sets the color for specific entry. If you want some entry (based on the condition) to have a different color, you can set it here.
 
 ---
 
@@ -142,7 +149,7 @@ renderHeatmapTracker(this.container, trackerData);
 - **Description:** Determines whether months should be visually separated within the heatmap layout.
 
 
-<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/HEAD/public/two-mac-mockup.png" />
+<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/refs/heads/main/public/two-mac-mockup.png" />
 
 To be used with [Obsidian Dataview](https://blacksmithgu.github.io/obsidian-dataview/), but could be used standalone or with other plugins as well (if you know some javascript).
 
@@ -168,9 +175,16 @@ To be used with [Obsidian Dataview](https://blacksmithgu.github.io/obsidian-data
 6. **Localization**  
    Plugin supports multiple languages, including English, German and Russian.
 
-<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/HEAD/public/mac-mockup-dark.png" />
+7. **Statistics View**
+   Statistics view where you can see your progress.
 
-<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/HEAD/public/tracker-overview.png">
+<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/refs/heads/main/public/mac-mockup-dark.png" />
+
+<img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/refs/heads/main/public/tracker-overview.png">
+
+## Roadmap
+
+📍 Check out the [Roadmap](./ROADMAP.md) to see what's planned for the future!
 
 ## Development (Windows/Mac):
 
@@ -187,22 +201,11 @@ To be used with [Obsidian Dataview](https://blacksmithgu.github.io/obsidian-data
 
 Tip: ```ctrl-shift-i``` opens the devtools inside Obsidian.
 
-&nbsp;
-
-
-
-## Technical Explanation
-All the plugin does, is add the function ***renderHeatmapTracker()*** to the global namespace of you vault.
-
-**"this.container"** is passed as the first argument because the plugin needs to know where to render the tracker. You don't have to worry about this.
-
-"renderHeatmapTracker()" then takes **"trackerData"** as the secondary argument. This is the javascript object you have to create yourself in order to give plugin instructions and data. Most of the properties are optional, but you have to supply an entries array as an absolute minimum.  
-
-See the beginning of the readme for the full code example.
 
 ---
 
 ## Inspired by:
 https://github.com/Richardsl/heatmap-calendar-obsidian
+
 
 %% README_END %%

@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A ChatGPT bot trained on your vault notes. Ask your AI questions about
   your own thoughts and ideas!
-downloads: 6399
+downloads: 6439
 mobile: false
 number: 970
 stars: 117

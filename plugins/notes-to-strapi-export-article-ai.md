@@ -6,15 +6,15 @@ author:
 categories: []
 description: Effortlessly export your notes to Strapi CMS with AI-powered handling
   and SEO optimization.
-downloads: 1151
+downloads: 1173
 mobile: false
 number: 1597
 stars: 10
 title: Strapi Exporter AI
 type: plugin
-updated: '2024-12-03T06:32:29'
+updated: '2024-12-10T05:15:30'
 url: https://github.com/CinquinAndy/notes-to-strapi-export-article-ai
-version: 3.0.19
+version: 3.0.23
 ---
 
 %% README_START %%

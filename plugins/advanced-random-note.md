@@ -7,7 +7,7 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Open random notes with custom queries in languages like Dataview and
   Regex.
-downloads: 5708
+downloads: 5727
 mobile: true
 number: 995
 stars: 15

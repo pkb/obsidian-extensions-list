@@ -5,7 +5,7 @@ author:
 - '[[ivaneye|iuian]]'
 categories: []
 description: Deal multi notes from Search results、current file、Dataview query string...
-downloads: 9597
+downloads: 9637
 mobile: true
 number: 573
 stars: 47

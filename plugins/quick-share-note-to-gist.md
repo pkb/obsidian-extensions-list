@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quick share notes to GitHub gist and its image by upload images to Imgur.
-downloads: 52
+downloads: 68
 mobile: true
 number: 2015
 stars: 5
@@ -28,9 +28,8 @@ version: 1.0.18
 ![Demo of Plugin](https://raw.githubusercontent.com/chaintng/quick-share-note-to-gist/HEAD/docs/DEMO.gif)
 
 ## Installation
-
-1. Download the plugin files and place them in your Obsidian plugins folder.
-2. Enable the plugin in Obsidian settings.
+- Search "Quick Share Note to gist" in Obsidian's Plug-in marketplace
+- OR go to this link: https://obsidian.md/plugins?id=quick-share-note-to-gist
 
 ## Configuration
 

@@ -8,10 +8,10 @@ categories:
 description: Colorizes tags in different colors. Colors of nested tags are mixed with
   the root tag to improve readability. Text color contrast is automatically matched
   to comply with AA level of WCAG 2.1.
-downloads: 47476
+downloads: 48140
 mobile: true
 number: 1023
-stars: 66
+stars: 69
 title: Colored Tags
 type: plugin
 updated: '2024-08-04T06:01:38'
@@ -38,6 +38,7 @@ If you need to color individual tags, this plugin is not suitable. Try [Colored 
 
 >**Limitations:**
 >- Properties tags can not be styled until fixes in Obsidian.
+>- Tags with underscore _ can not be styled properly.
 
 ## Roadmap
 - [x] ~~Settings for palette size, base chroma, and base lightness.~~

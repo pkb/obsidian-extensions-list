@@ -6,7 +6,7 @@ author:
 categories: []
 description: Records audio directly, with input device and folder configuration, similar
   to the core one, but better
-downloads: 1196
+downloads: 1242
 mobile: false
 number: 1830
 stars: 6

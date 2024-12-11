@@ -5,10 +5,10 @@ author:
 - '[[mnowotnik|mnowotnik]]'
 categories: []
 description: Use ts and js modules or js snippets to code your own plugins
-downloads: 4645
+downloads: 4669
 mobile: true
 number: 537
-stars: 68
+stars: 69
 title: User Plugins
 type: plugin
 updated: '2024-11-16T20:59:07'

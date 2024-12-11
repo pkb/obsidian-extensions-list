@@ -5,7 +5,7 @@ author:
 - '[[nadavspi|Nadav Spiegelman]]'
 categories: []
 description: Enables relative line numbers in editor mode
-downloads: 70594
+downloads: 71021
 mobile: true
 number: 64
 stars: 162

@@ -7,15 +7,15 @@ categories: []
 description: Automatically sets a featured image property in your notes based on the
   first image, YouTube link, or Auto Card Link image found in your document. This
   allows you to create rich note galleries using Folder Notes and Dataview.
-downloads: 834
+downloads: 1088
 mobile: true
 number: 1996
-stars: 18
+stars: 19
 title: Featured Image
 type: plugin
-updated: '2024-11-25T19:58:25'
+updated: '2024-12-09T19:12:09'
 url: https://github.com/johansan/obsidian-featured-image
-version: 1.1.1
+version: 1.1.3
 ---
 
 %% README_START %%
@@ -46,7 +46,8 @@ https://github.com/user-attachments/assets/48be65f6-83b5-43f1-8e42-f82f08932b57
 ## Key Features
 
 - Automatically updates the Frontmatter section in your notes with a featured image property
-- Support for local images, YouTube thumbnails, and Auto Card Link images
+- Support for local images, external images, YouTube thumbnails, and Auto Card Link images
+- Downloads and caches external images locally for offline access
 - Bulk update commands for processing all files or all documents in the current folder
 - Cross-platform support for desktop and mobile
 - Highly customizible (see [Settings](#settings))
@@ -164,10 +165,13 @@ Featured Image offers several customizable settings to tailor the plugin to your
    - Description: When enabled, the plugin will attempt to download WebP format thumbnails for YouTube videos.
    - Usage: Disable this if you prefer JPG thumbnails or if you're experiencing issues with WebP images.
 
-8. **YouTube Download Folder**
+8. **Thumbnail Download Folder**
    - Default: `thumbnails`
-   - Description: The folder where YouTube thumbnails will be downloaded and stored.
-   - Usage: Set this to your preferred location for storing downloaded thumbnails. You can use subfolders like "resources/thumbnails" to keep your vault organized.
+   - Description: The folder where external images, YouTube thumbnails, and Auto Card Link images will be downloaded and stored.
+   - Usage: Set this to your preferred location for storing downloaded images. The plugin will automatically create subfolders:
+     - `youtube/` for YouTube thumbnails
+     - `external/` for external images
+     - `autocardlink/` for Auto Card Link external images
 
 9. **Image Extensions**
    - Default: `["png", "jpg", "jpeg", "gif", "webp"]`
@@ -180,15 +184,16 @@ Featured Image offers several customizable settings to tailor the plugin to your
 
 Featured Image is designed with efficiency and performance in mind:
 
-1. **Debounced Processing**: The plugin uses a debounce mechanism to prevent excessive processing when files are modified rapidly. This ensures that the plugin only runs when necessary, reducing CPU usage and improving overall performance.
+1. **Smart Caching**: The plugin utilizes Obsidian's built-in caching system to quickly access file metadata, minimizing the need for repeated file reads and improving processing speed.
 
-2. **Smart Caching**: The plugin utilizes Obsidian's built-in caching system to quickly access file metadata, minimizing the need for repeated file reads and improving processing speed.
+2. **Optimized Document Scanning**: A combined regex is used to match various image formats, external URLs, YouTube links, and Auto Card Link images in a single pass, reducing the number of regex operations to just one, improving efficiency.
 
-3. **Optimized Document Scanning**: A combined regex is used to match various image formats, YouTube links, and Auto Card Link images in a single pass, reducing the number of regex operations to just one, improving efficiency.
+3. **Intelligent Image Handling**: 
+   - For external images: Downloads and caches them locally for offline access
+   - For YouTube links: Attempts to download WebP thumbnails first (if enabled), falling back to different types of JPG formats
+   This ensures the best quality images while minimizing bandwidth usage.
 
-4. **Intelligent Image Handling**: For YouTube links the plugin attempts to download WebP thumbnails first (if enabled), falling back to different types of JPG formats. This ensures the best quality thumbnail while minimizing bandwidth usage.
-
-5. **Customizable Processing**: Exclude specific folders and choose to only update existing featured images, providing flexibility and further optimization based on individual needs.
+4. **Customizable Processing**: Exclude specific folders and choose to only update existing featured images, providing flexibility and further optimization based on individual needs.
 
 ## Support and Feedback
 

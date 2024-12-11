@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate audio transcripts, images, and text in context of PDF attachments
   or web search results using OpenAI (ChatGPT) and Bing API.
-downloads: 14146
+downloads: 14258
 mobile: true
 number: 856
-stars: 84
+stars: 85
 title: AI Commander
 type: plugin
 updated: '2024-10-15T17:32:53'

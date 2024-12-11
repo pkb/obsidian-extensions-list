@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Tools for efficiently folding markdown sections in Obsidian
-downloads: 24928
+downloads: 25075
 mobile: true
 number: 446
 stars: 234

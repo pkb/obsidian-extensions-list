@@ -5,7 +5,7 @@ author:
 - '[[AwesomeDog|AwesomeDog]]'
 categories: []
 description: Make Obsidian a proper Reader.
-downloads: 7767
+downloads: 7826
 mobile: true
 number: 802
 stars: 94

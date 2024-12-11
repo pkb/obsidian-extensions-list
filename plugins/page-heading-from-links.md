@@ -5,7 +5,7 @@ author:
 - '[[authors/beet|beet]]'
 categories: []
 description: Inserts a heading into blank pages from the filename
-downloads: 6578
+downloads: 6585
 mobile: true
 number: 76
 stars: 10

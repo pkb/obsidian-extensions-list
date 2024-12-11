@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly share content to Flomo.
-downloads: 4731
+downloads: 4742
 mobile: true
 number: 651
 stars: 12

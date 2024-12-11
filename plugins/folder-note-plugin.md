@@ -5,10 +5,10 @@ author:
 - '[[xpgo|xpgo]]'
 categories: []
 description: Click a folder node to show a note describing the folder.
-downloads: 110783
+downloads: 111327
 mobile: true
 number: 78
-stars: 402
+stars: 403
 title: Folder Note
 type: plugin
 updated: '2021-02-20T12:49:10'

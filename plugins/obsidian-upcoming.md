@@ -5,7 +5,7 @@ author:
 - '[[charliecm|Charlie Chao]]'
 categories: []
 description: Open upcoming and/or past daily notes in their own panes, tabs, or windows.
-downloads: 4302
+downloads: 4307
 mobile: true
 number: 519
 stars: 15

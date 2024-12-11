@@ -5,7 +5,7 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: Search text in canvas
-downloads: 984
+downloads: 1026
 mobile: true
 number: 1721
 stars: 10

@@ -7,7 +7,7 @@ categories: []
 description: You can predefine system commands that you want to run frequently, and
   assign hotkeys for them. For example open external applications. Automatic execution
   is also supported, and execution via URI links.
-downloads: 47463
+downloads: 47815
 mobile: false
 number: 265
 stars: 371

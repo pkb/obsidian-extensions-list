@@ -5,15 +5,15 @@ author:
 - '[[alexgavrusev|Alex Gavrusev]]'
 categories: []
 description: Format files in your vault using Prettier.
-downloads: 1795
+downloads: 1845
 mobile: true
 number: 1439
 stars: 13
 title: Format with Prettier
 type: plugin
-updated: '2024-08-18T01:30:24'
+updated: '2024-12-08T02:37:00'
 url: https://github.com/alexgavrusev/obsidian-format-with-prettier
-version: 0.6.0
+version: 0.7.0
 ---
 
 %% README_START %%

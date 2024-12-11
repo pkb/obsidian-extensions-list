@@ -5,7 +5,7 @@ author:
 - '[[Cleoche|Cleoche]]'
 categories: []
 description: Integrate long blocks of text into callouts and easier nested callouts
-downloads: 8256
+downloads: 8312
 mobile: true
 number: 818
 stars: 26

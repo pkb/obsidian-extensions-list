@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages
-downloads: 148
+downloads: 163
 mobile: false
 number: 1955
-stars: 15
+stars: 16
 title: Asciidoctor editor
 type: plugin
 updated: '2024-11-25T02:07:04'
@@ -23,9 +23,9 @@ version: 0.1.3
 
 A plugin that allows you to edit and view documents in the asciidoc language.
 
-The plugin supports view and edit modes (switching the mode with `ctrl+e` hotkey). Substring search in document is partially supported.
+The plugin supports both view and edit modes, which can be switched using standard `Toggle reading view` hotkey.
 
-Global search is not supported due to the limitations of the Obsidian API (however, you can use the omnisearch plugin https://github.com/scambier/obsidian-omnisearch)
+Global file search is not supported by Obsidian due to the limitations of the Obsidian API. But you can use the omnisearch plugin https://github.com/scambier/obsidian-omnisearch)
 
 
 ## preview
@@ -42,6 +42,10 @@ Global search is not supported due to the limitations of the Obsidian API (howev
 ## Manually installing the plugin
 
 - Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/your-plugin-id/`.
+
+## Please bump this Obsidian API feature request
+
+https://forum.obsidian.md/t/expand-support-for-non-markdown-text-files/79807
 
 
 %% README_END %%

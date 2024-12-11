@@ -6,7 +6,7 @@ author:
 categories: []
 description: A simple proxy for `console.*()` calls which copies log messages and
   uncaught exceptions to a file.
-downloads: 5158
+downloads: 5183
 mobile: true
 number: 987
 stars: 32

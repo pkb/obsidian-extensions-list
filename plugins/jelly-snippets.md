@@ -5,7 +5,7 @@ author:
 - '[[rabirabirara|Spencer Gouw]]'
 categories: []
 description: A simple plugin for text snippets, with auto replacement
-downloads: 5251
+downloads: 5263
 mobile: true
 number: 845
 stars: 24

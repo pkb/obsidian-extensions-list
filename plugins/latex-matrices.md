@@ -5,7 +5,7 @@ author:
 - '[[Deltekk|Daniele Susino]]'
 categories: []
 description: Speedup latex matrices writing.
-downloads: 3959
+downloads: 3975
 mobile: true
 number: 893
 stars: 2

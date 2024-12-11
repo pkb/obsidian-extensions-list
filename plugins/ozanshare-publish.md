@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your markdown notes with a single click from your vault.
-downloads: 4791
+downloads: 4803
 mobile: true
 number: 300
 stars: 26

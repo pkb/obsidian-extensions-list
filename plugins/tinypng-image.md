@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Compress images using TinyPNG to save your storage.
-downloads: 3848
+downloads: 3860
 mobile: true
 number: 1017
 stars: 6

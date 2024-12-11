@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Hides & Toggles configured folders (e.g. attachments folders).
-downloads: 17293
+downloads: 17449
 mobile: true
 number: 1000
 stars: 37

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Components to support the Draw Steel TTRPG by MCDM.
-downloads: 389
+downloads: 409
 mobile: false
 number: 1881
 stars: 1

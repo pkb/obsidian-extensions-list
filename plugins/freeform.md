@@ -5,7 +5,7 @@ author:
 - '[[tmcw|tmcw]]'
 categories: []
 description: Make visualizations and run arbitrary code with JavaScript + iframe blocks.
-downloads: 492
+downloads: 504
 mobile: true
 number: 1674
 stars: 85

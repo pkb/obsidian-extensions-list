@@ -5,7 +5,7 @@ author:
 - '[[samepage-network|samepage-network]]'
 categories: []
 description: Official Obsidian client into the inter-TFT-protocol
-downloads: 5141
+downloads: 5145
 mobile: false
 number: 694
 stars: 14

@@ -5,7 +5,7 @@ author:
 - '[[badrbouslikhin|Badr Bouslikhin]]'
 categories: []
 description: Obsidian plugin to maintain a notes changelog in a vault
-downloads: 11980
+downloads: 12020
 mobile: true
 number: 112
 stars: 75

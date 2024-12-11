@@ -6,7 +6,7 @@ author:
 categories: []
 description: Some Utilities and Quality-of-Life Features for Designers of Obsidian
   Themes.
-downloads: 14756
+downloads: 14809
 mobile: false
 number: 367
 stars: 106

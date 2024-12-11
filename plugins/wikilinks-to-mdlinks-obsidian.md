@@ -5,7 +5,7 @@ author:
 - '[[agathauy|Agatha Uy]]'
 categories: []
 description: A plugin that converts wikilinks to markdown links and vice versa
-downloads: 17075
+downloads: 17118
 mobile: true
 number: 37
 stars: 107

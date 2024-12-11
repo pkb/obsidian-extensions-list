@@ -5,7 +5,7 @@ author:
 - '[[HEmile|Emile]]'
 categories: []
 description: Add context menu items to search the internet within Obsidian.
-downloads: 26211
+downloads: 26275
 mobile: false
 number: 74
 stars: 109

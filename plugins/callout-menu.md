@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds some extra options to callouts context menu and allows you to add
   your own custom callouts.
-downloads: 1281
+downloads: 1370
 mobile: true
 number: 1897
 stars: 7

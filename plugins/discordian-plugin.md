@@ -5,7 +5,7 @@ author:
 - '[[radekkozak|@radekkozak]]'
 categories: []
 description: Discordian plugin for tweaking Discordian theme
-downloads: 14820
+downloads: 14860
 mobile: true
 number: 66
 stars: 15

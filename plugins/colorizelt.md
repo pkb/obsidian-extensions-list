@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Easy color and clear selected text
-downloads: 656
+downloads: 703
 mobile: true
 number: 1917
 stars: 1

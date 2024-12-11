@@ -5,7 +5,7 @@ author:
 - '[[liammagee|Liam Magee]]'
 categories: []
 description: Convert PDF files and web links to Markdown, and create topics from Markdown
-downloads: 20479
+downloads: 20565
 mobile: false
 number: 408
 stars: 82

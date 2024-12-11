@@ -5,7 +5,7 @@ author:
 - '[[tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: Teleport to links (URL or internal link) and jump to their destinations.
-downloads: 3861
+downloads: 3868
 mobile: true
 number: 965
 stars: 22

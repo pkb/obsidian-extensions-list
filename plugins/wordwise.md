@@ -5,7 +5,7 @@ author:
 - '[[ckt1031|ckt1031]]'
 categories: []
 description: Writing companion for AI content generation.
-downloads: 2739
+downloads: 2774
 mobile: true
 number: 1429
 stars: 27

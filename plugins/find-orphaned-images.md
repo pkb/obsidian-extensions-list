@@ -6,7 +6,7 @@ author:
 categories: []
 description: Finds images in the vault that are not linked to any notes. Either lists,
   or deletes them.
-downloads: 2372
+downloads: 2790
 mobile: true
 number: 1932
 stars: 4

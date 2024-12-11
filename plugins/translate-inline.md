@@ -6,7 +6,7 @@ author:
 categories: []
 description: Translations at your fingertips. Get inline Translations when writing
   Notes.
-downloads: 100
+downloads: 110
 mobile: false
 number: 1960
 stars: 1

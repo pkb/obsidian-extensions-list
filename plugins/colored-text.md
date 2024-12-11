@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Color the selected texts.
-downloads: 106152
+downloads: 107663
 mobile: true
 number: 920
-stars: 82
+stars: 83
 title: Colored Text
 type: plugin
 updated: '2024-08-22T17:57:00'

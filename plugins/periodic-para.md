@@ -7,15 +7,15 @@ categories:
 - '[[categories/Workflows]]'
 description: Life management system(Assist in practicing the PARA method with periodic
   notes and usememos).
-downloads: 25298
+downloads: 25696
 mobile: true
 number: 1031
-stars: 369
+stars: 371
 title: LifeOS
 type: plugin
-updated: '2024-11-17T19:13:34'
+updated: '2024-12-06T07:31:10'
 url: https://github.com/quanru/obsidian-lifeos
-version: 1.20.2
+version: 1.20.3
 ---
 
 %% README_START %%

@@ -5,7 +5,7 @@ author:
 - '[[waynevanson|Wayne Van Son]]'
 categories: []
 description: Create forms that save data simply; the data view of data entry
-downloads: 3939
+downloads: 3948
 mobile: true
 number: 1092
 stars: 26

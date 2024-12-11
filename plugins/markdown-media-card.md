@@ -6,10 +6,10 @@ author:
 categories: []
 description: Insert media information cards in Markdown, such as books, music, movies,
   etc.
-downloads: 1786
+downloads: 1801
 mobile: true
 number: 1516
-stars: 14
+stars: 15
 title: Markdown Media Card
 type: plugin
 updated: '2024-03-18T12:55:07'

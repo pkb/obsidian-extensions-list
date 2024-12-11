@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Provides a calendar and a timeline of the notes creation and modification
-downloads: 38358
+downloads: 38580
 mobile: true
 number: 617
 stars: 102

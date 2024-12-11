@@ -5,7 +5,7 @@ author:
 - '[[andrewheekin|Andrew Heekin]]'
 categories: []
 description: Periodic notes in a year, month, and day folder hierarchy.
-downloads: 901
+downloads: 922
 mobile: true
 number: 1641
 stars: 8

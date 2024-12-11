@@ -5,10 +5,10 @@ author:
 - '[[soberhacker|soberhacker]]'
 categories: []
 description: Transfer messages and files from Telegram to Obsidian.
-downloads: 24104
+downloads: 24482
 mobile: false
 number: 948
-stars: 360
+stars: 366
 title: Telegram Sync
 type: plugin
 updated: '2024-10-31T01:25:38'

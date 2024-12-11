@@ -7,7 +7,7 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Review your daily notes on their anniversaries, like "what happened today
   last year".
-downloads: 11372
+downloads: 11420
 mobile: true
 number: 841
 stars: 32

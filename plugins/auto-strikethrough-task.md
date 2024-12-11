@@ -5,7 +5,7 @@ author:
 - '[[Nomekuma|Nomekuma]]'
 categories: []
 description: Automatically adds strikethrough to completed tasks.
-downloads: 162
+downloads: 181
 mobile: true
 number: 1916
 stars: 1

@@ -7,15 +7,15 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a link to the current note to a daily note on a future date (or a
   past date, you time traveller).
-downloads: 52737
+downloads: 52873
 mobile: true
 number: 20
 stars: 147
 title: Review
 type: plugin
-updated: '2023-11-03T23:02:04'
+updated: '2024-12-11T00:39:25'
 url: https://github.com/ryanjamurphy/review-obsidian
-version: 1.6.5
+version: 1.6.6
 ---
 
 %% README_START %%

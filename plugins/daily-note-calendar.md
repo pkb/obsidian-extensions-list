@@ -7,15 +7,15 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 - '[[categories/Journalling|Journalling]]'
 description: Navigate to your weekly- and daily-notes using a calendar view.
-downloads: 751
+downloads: 1023
 mobile: true
 number: 1997
-stars: 5
+stars: 6
 title: Daily notes calendar
 type: plugin
-updated: '2024-12-02T22:48:27'
+updated: '2024-12-10T12:35:01'
 url: https://github.com/bartkessels/daily-note-calendar
-version: 1.6.3
+version: 1.7.1
 ---
 
 %% README_START %%
@@ -35,7 +35,6 @@ The Daily note calendar plugin started as a hobby project because another calend
 # Table of contents
 
 - [1. Overview](#1-overview)
-  - [1.1 Roadmap](#11-roadmap)
 - [2. External dependencies](#2-external-dependencies)
 - [3. Build and test](#3-build-and-test)
 - [4. Contribute](#4-contribute)
@@ -44,12 +43,7 @@ The Daily note calendar plugin started as a hobby project because another calend
 
 # 1. Overview
 
-The main focus of the Daily note calendar plugin is to provide a calendar view to access or create your own daily, or weekly notes. This allows you to quickly navigate to your notes without having to search for them in the file-tree.
-
-![Daily note calendar plugin in light mode](https://raw.githubusercontent.com/bartkessels/daily-note-calendar/HEAD/docs/images/daily-note-calendar-light-mode.png)
-![Daily note calendar plugin in dark mode](https://raw.githubusercontent.com/bartkessels/daily-note-calendar/HEAD/docs/images/daily-note-calendar-dark-mode.png)
-
-The plugin allows you to browse your periodic notes using a calendar view. Right now the following types of periodic notes are supported
+Quickly navigate your vault using a calendar view, this plugin allows you to create and navigate to your periodic notes such as
 
 - Daily notes
   - By clicking on a specific date
@@ -58,24 +52,29 @@ The plugin allows you to browse your periodic notes using a calendar view. Right
 - Monthly notes
   - By clicking on the month name
 - Quarterly notes
-    - By clicking on the quarter name in the upper-left corner
+  - By clicking on the quarter name in the upper-left corner
 - Yearly notes
   - By clicking on the year number
 
-The plugin also allows you to customize the format of your daily and weekly notes using the date formatting rules of [`date-fns`](https://date-fns.org/v4.1.0/docs/format).
+For each note, you can specify the template of the name `yyyy-MM-dd - eeee` and the folder where the newly created periodic note should be stored.
+The path is also customizable using the date formatting rules of [`date-fns`](https://date-fns.org/docs/format).
 
-To make it even more customizable, you can specify the template for your notes name, the template file on which your notes are based, and the location of your notes.
+All the notes that you create must be based on a template, this allows you to create your periodic note based on the same template every time.
+Inside your template-file you can use the following variables:
 
-![Daily note calendar plugin settings](https://raw.githubusercontent.com/bartkessels/daily-note-calendar/HEAD/docs/images/daily-note-calendar-settings.png).
+| Variable               | Description                                                                                  | Template                                                                                                                                                                                                                   |
+|------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `{{date:<template>}}`  | The date of the note. This date is based on the date that you've clicked on in the calendar. | You can use the same date templating rules of [date-fns](https://date-fns.org/docs/format) that you use in the name or the folder. Thus `{{date:yyyy-MM-dd - eeee}}` would turn into _2024-12-31 - Monday_.                |
+| `{{today:<template>}}` | The date of today. This date is based on the date and time of creation of the note.          | You can use the same date templating rules of [date-fns](https://date-fns.org/docs/format) that you use in the name or the folder. Thus `{{today:yyyy-MM-dd - eeee, HH:mm}}` would turn into _2024-12-31 - Monday, 12:59_. |
+| `{{title}}`            | -                                                                                            | This will take the title of the note you had opened before clicking a date in the calendar.                                                                                                                                |
 
-## 1.1 Roadmap
+<img src="https://raw.githubusercontent.com/bartkessels/daily-note-calendar/HEAD/docs/images/daily-note-calendar-light-mode.png" alt="Daily note calendar plugin in light mode" width="400" />
+<img src="https://raw.githubusercontent.com/bartkessels/daily-note-calendar/HEAD/docs/images/daily-note-calendar-dark-mode.png" alt="Daily note calendar plugin in dark mode" width="400" />
 
-Right now, the Daily note calendar plugin only allows you to navigate to your notes. But in the future, I would like to add the following features.
+As you see in the images above, you can also enable a feature which allows you to display all the notes created on a specific day. 
+This can be helpful when you need to navigate a lot back and forth between your periodic notes and the notes you created on a specific day.
 
-- Add an indicator for each date that has a note.
-- Display all notes created on that day when you click on a day
-  - Display the tiles below the calendar view, and open the note by clicking on the title
-- Show which daily note you have currently opened
+If you're missing a feature, or something is not working as expected, please let me know by creating an issue in the [issue tracker](https://github.com/bartkessels/daily-note-calendar/issues).
 
 # 2. External dependencies
 
@@ -124,7 +123,7 @@ The _Daily notes calendar_ project does not use a development branch but instead
 
 # 5. Create a new release
 
-To create a new release of the plugin, edit the `package.json`, `manifest.json` and `versions.json` files and update the `version` property in both. Edit these files in a `release/MAJOR.MINOR.PATCH` branch, and create a tag from this branch.
+To create a new release of the plugin, edit the `package.json` file and update the `version` property. Then run `npm run version` to update the version in the `manifest.json` and `versions.json` file.
 Once the release is completed, merge the branch back into the `main` branch.
 
 For versioning _Daily note calendar_ uses semantic versioning.
@@ -155,5 +154,6 @@ $ git push -u origin 5.0.1
 
 This will create the tag locally and then push it to Github which in turn will kick off the required
 pipelines to create the new release and add the build artifacts.
+
 
 %% README_END %%

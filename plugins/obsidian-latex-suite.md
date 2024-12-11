@@ -7,7 +7,7 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: Make typesetting LaTeX math as fast as handwriting through snippets,
   text expansion, and editor enhancements
-downloads: 211079
+downloads: 213718
 mobile: true
 number: 484
 stars: 1400
@@ -92,17 +92,16 @@ While inside a matrix, array, align, or cases environment,
 
 
 ### Conceal
-*This feature must be enabled in the plugin settings.*
+**This feature must be enabled in the plugin settings.**
 
 Make your equations more readable by hiding LaTeX markup and instead displaying it in a pretty format.
 
-For example, "\dot{x}^{2} + \dot{y}^{2}" will be displayed as "ẋ² + ẏ²".
+For example, "\dot{x}^{2} + \dot{y}^{2}" will be displayed as "ẋ² + ẏ²", and "\sqrt{ 1-\beta^{2} }" will be displayed as "√{ 1-β² }".
 
-"\sqrt{ 1-\beta^{2} }" will be displayed as "√{ 1-β² }".
-
-To reveal the LaTeX syntax, move your cursor over it.
+To reveal the LaTeX syntax, move your cursor over it. You can also choose to delay the reveal for a moment, which makes navigation with arrow keys more intuitive.
 
 ![conceal demo 2](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/conceal.gif)
+![conceal demo 3](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/conceal_delay.gif)
 ![conceal demo](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/conceal.png)
 
 

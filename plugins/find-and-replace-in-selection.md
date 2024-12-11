@@ -6,7 +6,7 @@ author:
 categories: []
 description: Finds what you are looking for in the selected text and replaces it with
   the specified text
-downloads: 15412
+downloads: 15468
 mobile: true
 number: 137
 stars: 33
@@ -51,11 +51,11 @@ If you want to make all H1 become H2, all H2 become H3, H3 become H4, then you n
 
 - RegExp to find: "```(?<!\\)\!\[(.*?)(?<!\\)\]\((.*?)(?<!\\)\)```"
 - RegExp flags: "gm"
-- Replace by: "```![]($2)```"
+- Replace by: "```![](https://raw.githubusercontent.com/dy-sh/obsidian-find-and-replace-in-selection/HEAD/$2)```"
 
 As result, this: 
-```![Description](URL)```
+```![Description](https://raw.githubusercontent.com/dy-sh/obsidian-find-and-replace-in-selection/HEAD/URL)```
 will become:
-```![](URL)```
+```![](https://raw.githubusercontent.com/dy-sh/obsidian-find-and-replace-in-selection/HEAD/URL)```
 
 %% README_END %%

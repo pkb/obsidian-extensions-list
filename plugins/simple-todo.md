@@ -6,7 +6,7 @@ author:
 categories: []
 description: A minimalist text-based todo manager (Text-Based GTD) for efficient task
   management.
-downloads: 78
+downloads: 129
 mobile: true
 number: 2035
 stars: 2

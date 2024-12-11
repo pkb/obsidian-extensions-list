@@ -5,7 +5,7 @@ author:
 - '[[Ratibus11|ratibus11]]'
 categories: []
 description: Display your vault folder structure into your graphs.
-downloads: 4473
+downloads: 4595
 mobile: true
 number: 1449
 stars: 18

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Annotate photos with Exif and other metadata right from the image viewer
   screen.
-downloads: 602
+downloads: 624
 mobile: false
 number: 1795
 stars: 3

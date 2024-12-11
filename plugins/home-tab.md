@@ -5,10 +5,10 @@ author:
 - '[[olrenso|Renso]]'
 categories: []
 description: A browser-like search tab for your local files.
-downloads: 36733
+downloads: 37286
 mobile: true
 number: 821
-stars: 263
+stars: 265
 title: Home tab
 type: plugin
 updated: '2024-10-20T14:11:28'

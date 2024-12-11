@@ -5,7 +5,7 @@ author:
 - '[[hokim-m|Khokim Mamarasulov]]'
 categories: []
 description: Manage ClickUp space from notes
-downloads: 625
+downloads: 652
 mobile: false
 number: 1695
 stars: 21

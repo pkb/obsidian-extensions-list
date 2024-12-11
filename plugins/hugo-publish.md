@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your blog to hugo site.
-downloads: 1118
+downloads: 1159
 mobile: false
 number: 1563
-stars: 37
+stars: 38
 title: Hugo Publish
 type: plugin
 updated: '2024-11-25T19:43:21'

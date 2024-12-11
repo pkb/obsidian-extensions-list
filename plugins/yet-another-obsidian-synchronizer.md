@@ -7,7 +7,7 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This is yet another obsidian synchronizer that uses Git to synchronize
   your vault contents across devices.
-downloads: 8472
+downloads: 8533
 mobile: false
 number: 1061
 stars: 65

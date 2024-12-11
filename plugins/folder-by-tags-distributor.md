@@ -5,7 +5,7 @@ author:
 - '[[RevoTale|RevoTale]]'
 categories: []
 description: Automatically move notes into existing folders by tags specified in note.
-downloads: 586
+downloads: 612
 mobile: true
 number: 1692
 stars: 6

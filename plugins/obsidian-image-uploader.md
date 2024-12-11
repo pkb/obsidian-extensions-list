@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin uploads the image in your clipboard to any image hosting
   automatically when pasting.
-downloads: 6306
+downloads: 6323
 mobile: false
 number: 226
 stars: 38

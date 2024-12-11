@@ -5,7 +5,7 @@ author:
 - '[[jackvonhouse|jackvonhouse]]'
 categories: []
 description: Customize nodes size for improved graph understanding.
-downloads: 734
+downloads: 782
 mobile: true
 number: 1922
 stars: 2

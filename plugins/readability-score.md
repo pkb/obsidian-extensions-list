@@ -6,7 +6,7 @@ author:
 categories: []
 description: Score the readabilty of your writing using the Flesch Reading Ease (FRE)
   formula.
-downloads: 4295
+downloads: 4310
 mobile: false
 number: 999
 stars: 10

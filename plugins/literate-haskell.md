@@ -5,7 +5,7 @@ author:
 - '[[jajaperson|James Jensen]]'
 categories: []
 description: An obsidian plugin for integrating `.lhs` files into your PKM.
-downloads: 3373
+downloads: 3375
 mobile: true
 number: 590
 stars: 3

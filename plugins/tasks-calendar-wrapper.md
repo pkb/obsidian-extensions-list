@@ -8,10 +8,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: This is a simple wrapper for Obsidian-Tasks-Calendar (https://github.com/702573N/Obsidian-Tasks-Calendar)
   and Obsidian-Tasks-Timeline (https://github.com/702573N/Obsidian-Tasks-Timeline).
-downloads: 44554
+downloads: 44875
 mobile: true
 number: 830
-stars: 190
+stars: 192
 title: Tasks Calendar Wrapper
 type: plugin
 updated: '2024-06-23T21:07:23'

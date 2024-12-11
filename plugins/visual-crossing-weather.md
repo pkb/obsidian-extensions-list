@@ -5,7 +5,7 @@ author:
 - '[[authors/willasm|willasm]]'
 categories: []
 description: Visual Crossing Weather API for Your Notes
-downloads: 121
+downloads: 174
 mobile: true
 number: 2052
 stars: 18

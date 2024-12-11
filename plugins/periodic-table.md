@@ -5,7 +5,7 @@ author:
 - '[[Jake-Cramer|jake-cramer]]'
 categories: []
 description: View a periodic table in the sidebar
-downloads: 3151
+downloads: 3166
 mobile: false
 number: 1291
 stars: 3

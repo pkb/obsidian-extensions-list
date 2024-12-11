@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allows translation of selected texts into more than 25 languages with
   DeepL.
-downloads: 12825
+downloads: 12899
 mobile: true
 number: 677
 stars: 48

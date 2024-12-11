@@ -5,7 +5,7 @@ author:
 - '[[jsonMartin|jsonmartin]]'
 categories: []
 description: Mirror your Readwise library directly to an Obsidian vault
-downloads: 8434
+downloads: 8454
 mobile: true
 number: 182
 stars: 53
@@ -159,7 +159,7 @@ ID: {{ id }}
 Updated: {{ updated }}
 %%
 
-![]( {{ cover_image_url }})
+![](https://raw.githubusercontent.com/jsonMartin/readwise-mirror/HEAD/ {{ cover_image_url }})
 
 # About
 Title: [[{{ title }}]]

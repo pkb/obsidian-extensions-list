@@ -5,7 +5,7 @@ author:
 - '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Easily open bookmarks.
-downloads: 1324
+downloads: 1344
 mobile: true
 number: 1622
 stars: 3

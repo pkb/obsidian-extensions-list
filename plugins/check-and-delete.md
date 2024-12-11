@@ -5,7 +5,7 @@ author:
 - '[[Danitiate|Danitiate]]'
 categories: []
 description: Quickly clean up temporary list-items with the press of a button
-downloads: 67
+downloads: 79
 mobile: true
 number: 2003
 stars: 0

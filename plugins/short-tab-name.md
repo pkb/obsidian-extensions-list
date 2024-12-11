@@ -5,7 +5,7 @@ author:
 - '[[shumpei-tanaka|Shumpei-Tanaka]]'
 categories: []
 description: set tab name to short for uid user
-downloads: 2074
+downloads: 2076
 mobile: true
 number: 1269
 stars: 0

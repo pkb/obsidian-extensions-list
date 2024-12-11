@@ -5,7 +5,7 @@ author:
 - '[[ssjy1919|ssjy1919]]'
 categories: []
 description: Customize a set of nested tabs through code blocks.
-downloads: 2502
+downloads: 2515
 mobile: true
 number: 1308
 stars: 20

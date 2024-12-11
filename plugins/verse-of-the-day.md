@@ -5,7 +5,7 @@ author:
 - '[[janisringli|Janis Ringli]]'
 categories: []
 description: Lets you add the verse of the day from YouVersion to your daily notes
-downloads: 899
+downloads: 903
 mobile: false
 number: 1529
 stars: 5
@@ -13,7 +13,7 @@ title: Verse of the Day
 type: plugin
 updated: '2024-03-13T22:36:30'
 url: https://github.com/janisringli/verse-of-the-day-for-obsidian
-version: 1.0.9
+version: 1.1.2
 ---
 
 %% README_START %%

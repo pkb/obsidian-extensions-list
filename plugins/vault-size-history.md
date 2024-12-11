@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Graph of the number of files in the Vault.
-downloads: 1567
+downloads: 1614
 mobile: false
 number: 1836
 stars: 5

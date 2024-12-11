@@ -6,15 +6,15 @@ author:
 categories: []
 description: A powerful tool for visualizing 3D graphs and managing orphan files,
   offering a dynamic and colorful 3D graph view for enhanced user experience.
-downloads: 5812
+downloads: 6083
 mobile: true
 number: 1806
 stars: 42
 title: Tags Routes
 type: plugin
-updated: '2024-11-26T18:03:03'
+updated: '2024-12-06T23:39:21'
 url: https://github.com/kctekn/obsidian-TagsRoutes
-version: 1.2.2
+version: 1.2.3
 ---
 
 %% README_START %%
@@ -38,6 +38,57 @@ Wiki:
 [Organize Tags with Hierarchy Using the Obsidian Plugin "Tags Routes"](https://github.com/kctekn/obsidian-TagsRoutes/wiki/Organize-Tags-with-Hierarchy-Using-the-Obsidian-Plugin-%22Tags-Routes%22)
 
 And you can show up your beautiful vault pictures here: [Share & showcase](https://github.com/kctekn/obsidian-TagsRoutes/discussions/17)
+## Version 1.2.3 Release Notes:
+
+
+### New Features:
+
+1. **Path Filter**:  
+   - You can now use both positive and negative filters to customize the display of your vault content.  
+   - This allows for more precise control over what is shown, as illustrated below.  
+
+<img  src="https://github.com/kctekn/obsidian-TagsRoutes/blob/main/usage/v1.2.3-feature1.png">
+
+
+
+https://github.com/user-attachments/assets/62c32f11-977b-4d38-b33f-835963125712
+
+
+
+2. **Open Scene in Sidebar as a Navigator**:  
+   - A new button has been added to the "Display Control" section, enabling you to open a scene in the sidebar for easier navigation.
+
+<img  src="https://github.com/kctekn/obsidian-TagsRoutes/blob/main/usage/v1.2.3-feature2.png">
+
+
+
+https://github.com/user-attachments/assets/6c734a67-1325-4466-b2cb-ec66445d0e71
+
+
+
+## Version 1.2.2 Bug Fix Release:
+
+- **Bug fix:** LMB+Drag and RMB+Drag has no effect
+
+Refer to https://github.com/kctekn/obsidian-TagsRoutes/issues/34 for detail.
+
+This appears to be an issue introduced in Obsidian v1.7.x, now been fixed.
+
+## Version 1.2.1 Release Notes:
+
+### New Features:
+
+- **Lock Scene**:
+    - When enabled, nodes within the visual will no longer change or update automatically, and the view angle will remain fixed unless manually adjusted by dragging.
+    - This is useful when you want to focus on a specific sub-network within a vault without distractions.
+
+<img  src="https://github.com/kctekn/obsidian-TagsRoutes/blob/main/usage/v1.2.1-lockScene.gif">
+
+- **View Distance Tuning**:
+    - You can now set the current view distance relative to the focused node as a global setting. This ensures that the view distance for all other nodes is automatically adjusted based on their size.
+    - This provides an optimal way to adjust the view distance for a more comfortable and consistent viewing experience across the scene.
+
+<img  src="https://github.com/kctekn/obsidian-TagsRoutes/blob/main/usage/v1.2.1-setFocus.gif">
 
 ## Version 1.2.0 Release Notes:
 

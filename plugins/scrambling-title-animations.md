@@ -6,10 +6,10 @@ author:
 categories: []
 description: Animates the title of any note you open by scrambling and revealing it
   in several visually appealing ways.
-downloads: 249
+downloads: 265
 mobile: false
 number: 1943
-stars: 2
+stars: 3
 title: Scrambling Title Animations
 type: plugin
 updated: '2024-08-19T09:06:14'

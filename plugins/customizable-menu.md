@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Allows you to add any command to Obsidian's right-click menu.
-downloads: 24137
+downloads: 24223
 mobile: true
 number: 293
-stars: 69
+stars: 70
 title: Customizable Menu
 type: plugin
 updated: '2022-06-06T09:02:45'

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Dynamically generate and update tag-specific pages, offering a consolidated
   view of each tag's references across your vault.
-downloads: 6620
+downloads: 6678
 mobile: true
 number: 1159
 stars: 18

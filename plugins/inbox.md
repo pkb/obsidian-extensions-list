@@ -5,7 +5,7 @@ author:
 - '[[Zachatoo|Zachatoo]]'
 categories: []
 description: Show in app notification if there is data to process in the "inbox" note.
-downloads: 5267
+downloads: 5279
 mobile: true
 number: 795
 stars: 26

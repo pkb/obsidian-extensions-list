@@ -7,7 +7,7 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Create minimalist sketches in a dedicated view, draw with a pencil, generate
   shapes, add text, save it to the vault or download it as an image.
-downloads: 866
+downloads: 945
 mobile: false
 number: 1879
 stars: 7
@@ -25,6 +25,7 @@ version: 1.0.9
 ## Overview
 
 Simple Sketch is a plugin for [Obsidian](https://obsidian.md). It allows users to create simple sketches in a dedicated view with a minimal, convenient interface that emphasizes productivity over completeness.
+
 
 ![demo](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/demo.gif)
 
@@ -74,7 +75,9 @@ Simple Sketch is a plugin for [Obsidian](https://obsidian.md). It allows users t
 1. Open Obsidian and navigate to the settings.
 2. Go to the "Community plugins" section and enable the "Simple Sketch" plugin.
 3. Once enabled, you will see a new ribbon icon with a pencil and ruler.
-4. Click on the ribbon icon to open the Simple Sketch view.
+4. Click on the ribbon icon to open the Simple Sketch view \
+   **or**\
+   Right-click on an image file and select `open with simple sketch`
 5. In the Simple Sketch view, you can:
     - Draw freehand sketches.
     - Generate shapes like lines, rectangles, and ellipses.
@@ -82,6 +85,27 @@ Simple Sketch is a plugin for [Obsidian](https://obsidian.md). It allows users t
     - Save your sketches in the vault or download them as images.
 
 Enjoy creating your sketches with Simple Sketch!
+
+## Controls
+
+|                         Icon                          |     Functionality     |   Key Binding    |
+| :---------------------------------------------------: | :-------------------: | :--------------: |
+|       ![Pencil](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/pencil-line.png)       |     Draw by hand      |       none       |
+|           ![Line](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/slash.png)           |       Draw line       |       none       |
+|        ![Rectangle](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/square.png)        |    Draw rectangle     |       none       |
+| ![Filled Rectangle](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/filled-square.png) | Draw filled rectangle |       none       |
+|         ![Ellipse](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/circle.png)         |     Draw ellipse      |       none       |
+|  ![Filled Ellipse](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/filled-circle.png)  |  Draw filled ellipse  |       none       |
+|           ![Text](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/type.png)            |       Add text        |       none       |
+|         ![Eraser](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/eraser.png)          |         Erase         |       none       |
+|       ![Undo](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/iteration-cw.png)        |         Undo          |     ctrl + z     |
+|       ![Redo](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/iteration-ccw.png)       |         Redo          | ctrl + shift + z |
+|         ![Grid](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/grid-2x2.png)          |      Toggle grid      | ctrl + shift + g |
+|           ![Save](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/save.png)            | Save sketch in vault  |       none       |
+|       ![Download](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/download.png)        |    Download sketch    |       none       |
+|         ![Trash](https://raw.githubusercontent.com/Yohh/obsidian-simple-sketch/HEAD/assets/icons/trash-2.png)          |     Reset canvas      |       none       |
+
+_Icons are imported from [Lucide](https://lucide.dev/) to be consistent with the Obsidian interface._
 
 ## Contribution
 

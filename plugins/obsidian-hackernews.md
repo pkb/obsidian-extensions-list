@@ -5,7 +5,7 @@ author:
 - '[[arpitbbhayani|Arpit Bhayani]]'
 categories: []
 description: Periodically fetches and displays top stories from HackerNews.
-downloads: 5733
+downloads: 5739
 mobile: true
 number: 283
 stars: 90

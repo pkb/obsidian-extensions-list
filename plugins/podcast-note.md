@@ -5,7 +5,7 @@ author:
 - '[[marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: Podcast Note lets you automatically add podcast information to your notes.
-downloads: 8191
+downloads: 8202
 mobile: true
 number: 285
 stars: 71
@@ -77,7 +77,7 @@ tags: [Podcast]
 date: {{Date}}
 ---
 # {{Title}} 
-![]({{ImageURL}})
+![](https://raw.githubusercontent.com/marcjulianschwarz/obsidian-podcast-note/HEAD/{{ImageURL}})
 ## Description: 
 > {{Description}}
 -> [Podcast Link]({{PodcastURL}})

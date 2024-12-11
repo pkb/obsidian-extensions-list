@@ -5,7 +5,7 @@ author:
 - '[[skelato1|skelato1]]'
 categories: []
 description: Collapse sidebars when clicking on the editor/viewer panel
-downloads: 11635
+downloads: 11699
 mobile: false
 number: 597
 stars: 28

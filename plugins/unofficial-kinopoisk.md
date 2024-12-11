@@ -5,7 +5,7 @@ author:
 - '[[Alintor|Alintor]]'
 categories: []
 description: Helps you find movies and tv shows via Kinopoisk and create notes.
-downloads: 1100
+downloads: 1114
 mobile: true
 number: 1540
 stars: 6
@@ -97,7 +97,7 @@ tags:
   - фильм
 ---
 
-![|300]({{posterUrl}})
+![|300](https://raw.githubusercontent.com/Alintor/obsidian-kinopoisk-plugin/HEAD/{{posterUrl}})
 
 # Описание
 {{description}}

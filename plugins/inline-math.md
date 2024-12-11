@@ -5,7 +5,7 @@ author:
 - '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Remove flickering inline math.
-downloads: 4789
+downloads: 4823
 mobile: true
 number: 1151
 stars: 22
@@ -24,7 +24,7 @@ With this [Obsidian.md](https://obsidian.md/) plugin, you will be no longer dist
 
 Turned OFF               | Turned ON
 :-----------------------:|:------------------------:
-![Turned OFF](https://raw.githubusercontent.com/RyotaUshio/obsidian-inline-math/HEAD/fig/off.gif) | ![Turned ON](fig/on.gif)
+![Turned OFF](https://raw.githubusercontent.com/RyotaUshio/obsidian-inline-math/HEAD/fig/off.gif) | ![Turned ON](https://raw.githubusercontent.com/RyotaUshio/obsidian-inline-math/HEAD/fig/on.gif)
 
 ## Latex Suite compatibility
 

@@ -5,7 +5,7 @@ author:
 - '[[n21rl|n21rl]]'
 categories: []
 description: Create and expand D&D 5e statblocks.
-downloads: 1566
+downloads: 1610
 mobile: true
 number: 1681
 stars: 0

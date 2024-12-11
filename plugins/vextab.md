@@ -6,7 +6,7 @@ author:
 categories: []
 description: An Obsidian plugin for rendering guitar tablature and music notation
   using Vextab.
-downloads: 4349
+downloads: 4360
 mobile: true
 number: 815
 stars: 29

@@ -5,7 +5,7 @@ author:
 - '[[Barba828|Barba828]]'
 categories: []
 description: Supports rendering of GuitarPro files such as `gtp/gp/gp5/gpx`.
-downloads: 179
+downloads: 187
 mobile: true
 number: 1845
 stars: 3

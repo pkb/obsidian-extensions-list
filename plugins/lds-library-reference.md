@@ -7,7 +7,7 @@ author:
 categories: []
 description: Easily insert references to scripture and conference talks from the Church
   of Jesus Christ of Latter-day Saints
-downloads: 109
+downloads: 112
 mobile: true
 number: 1843
 stars: 3

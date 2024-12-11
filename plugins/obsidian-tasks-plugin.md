@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Track tasks across your vault. Supports due dates, recurring tasks, done
   dates, sub-set of checklist items, and filtering.
-downloads: 1862006
+downloads: 1878751
 mobile: true
 number: 181
 stars: 2500

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds an extended tags panel where tagged files can be overviewed, filtered
   and accessed in an easy way.
-downloads: 11746
+downloads: 11833
 mobile: true
 number: 1167
 stars: 47

@@ -7,7 +7,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: uses Git to synchronize vaults for team collaboration.
-downloads: 910
+downloads: 913
 mobile: false
 number: 1528
 stars: 4

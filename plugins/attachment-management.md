@@ -7,7 +7,7 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize your attachment path of notes independently with variables
   and auto rename it on change.
-downloads: 30262
+downloads: 30558
 mobile: true
 number: 942
 stars: 189

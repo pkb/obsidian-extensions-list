@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Quickly grab the important contents of any online recipe.
-downloads: 4653
+downloads: 4689
 mobile: true
 number: 961
 stars: 60

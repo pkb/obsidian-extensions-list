@@ -5,7 +5,7 @@ author:
 - '[[yekingyan|yekingyan]]'
 categories: []
 description: Open current active file in gVim or VScode.
-downloads: 5673
+downloads: 5692
 mobile: false
 number: 595
 stars: 18

@@ -5,7 +5,7 @@ author:
 - '[[tdresser|Tim Dresser]]'
 categories: []
 description: Visualize Juggling Pattern Siteswap via the JugglingLab gif server.
-downloads: 3475
+downloads: 3477
 mobile: true
 number: 395
 stars: 4
@@ -32,7 +32,7 @@ Straight forward siteswaps can be visualized via:
 ```
 </pre>
 
-![](<https://jugglinglab.org/anim?redirect=true;height=200;width=200;pattern=(4%2C2x)*>)
+![](https://raw.githubusercontent.com/tdresser/obsidian-siteswap/HEAD/<https://jugglinglab.org/anim)*>)
 
 If you want to specify more details than just the pattern, use the following form:
 
@@ -44,7 +44,7 @@ colors: mixed
 ```
 </pre>
 
-![](<https://jugglinglab.org/anim?redirect=true;pattern=3;height=200;width=200;hands=(-25)(2.5).(25)(-2.5).(-25)(0).;colors=mixed>)
+![](https://raw.githubusercontent.com/tdresser/obsidian-siteswap/HEAD/<https://jugglinglab.org/anim)(2.5).(25)(-2.5).(-25)(0).;colors=mixed>)
 
 Details are specified via YAML - each line contains the name of a key, followed by a colon and a space, followed by a value.
 

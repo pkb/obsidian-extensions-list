@@ -5,7 +5,7 @@ author:
 - '[[authors/SteveOverSea|Stefan Rausch]]'
 categories: []
 description: Clicking a link to a folder makes it revealed in the navigation.
-downloads: 56
+downloads: 113
 mobile: true
 number: 2042
 stars: 1

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize events from Google Calendar and manage them like tasks.
-downloads: 8256
+downloads: 8317
 mobile: false
 number: 940
 stars: 71

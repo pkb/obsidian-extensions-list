@@ -6,15 +6,15 @@ author:
 categories: []
 description: 'Taking Bible Study note in Obsidian.md application easily. Automatically
   suggesting Bible Verses as references. '
-downloads: 34701
+downloads: 35239
 mobile: true
 number: 349
-stars: 240
+stars: 241
 title: Bible Reference
 type: plugin
-updated: '2024-11-27T10:41:37'
+updated: '2024-12-09T03:02:18'
 url: https://github.com/tim-hub/obsidian-bible-reference
-version: 3.2.2
+version: 2024.12.09
 ---
 
 %% README_START %%
@@ -27,7 +27,7 @@ version: 3.2.2
 [![CodeQL for Obsidain Bible Reference](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/codeql-analysis.yml)
 [![Build for Bible Reference Project](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/build.yml/badge.svg)](https://github.com/tim-hub/obsidian-bible-reference/actions/workflows/build.yml)
 [![obsidian bible reference user discussion forum](https://img.shields.io/badge/Discussion-blue)](https://github.com/tim-hub/obsidian-bible-reference/discussions)
-[![obsidain bible reference project kanban board and roadmap ](<https://img.shields.io/badge/Project(Kanban)-orange>)](https://github.com/users/tim-hub/projects/2/views/1)
+[![obsidain bible reference project kanban board and roadmap ](https://raw.githubusercontent.com/tim-hub/obsidian-bible-reference/HEAD/<https://img.shields.io/badge/Project(Kanban)-orange>)](https://github.com/users/tim-hub/projects/2/views/1)
 [![support button of obsidian bible reference](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tim-hub)
 
 > These will be very appreciate for the project development. 👍
@@ -104,6 +104,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Redster1"><img src="https://avatars.githubusercontent.com/u/69325218?v=4?s=65" width="65px;" alt="Redster1"/><br /><sub><b>Redster1</b></sub></a><br /><a href="https://github.com/tim-hub/obsidian-bible-reference/issues?q=author%3ARedster1" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dbergan"><img src="https://avatars.githubusercontent.com/u/6843811?v=4?s=65" width="65px;" alt="David Bergan"/><br /><sub><b>David Bergan</b></sub></a><br /><a href="#financial-dbergan" title="Financial">💵</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Benedictteo05"><img src="https://avatars.githubusercontent.com/u/75201951?v=4?s=65" width="65px;" alt="Benedictteo05"/><br /><sub><b>Benedictteo05</b></sub></a><br /><a href="https://github.com/tim-hub/obsidian-bible-reference/commits?author=Benedictteo05" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

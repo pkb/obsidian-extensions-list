@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Plugin to let you change the case (UPPER CASE, camelCase, snake_case,
   etc) of the current selection.
-downloads: 16787
+downloads: 16998
 mobile: true
 number: 1146
 stars: 12

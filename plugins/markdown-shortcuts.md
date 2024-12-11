@@ -5,7 +5,7 @@ author:
 - '[[JulesGuesnon|Jules Guesnon]]'
 categories: []
 description: 'Allows to write markdown from shortcuts (example: >h1 -> #).'
-downloads: 7358
+downloads: 7370
 mobile: true
 number: 435
 stars: 26

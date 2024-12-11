@@ -5,7 +5,7 @@ author:
 - '[[RichardX366|Richard Xiong]]'
 categories: []
 description: Syncs a vault into Google Drive for cross-platform use (works for iOS).
-downloads: 871
+downloads: 1330
 mobile: true
 number: 2020
 stars: 7

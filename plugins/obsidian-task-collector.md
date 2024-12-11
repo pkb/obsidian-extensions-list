@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Change task status and collect tasks within a document using hotkeys
   and context menus.
-downloads: 27903
+downloads: 27998
 mobile: true
 number: 302
 stars: 212

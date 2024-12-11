@@ -7,10 +7,10 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize your workspace by adding commands everywhere, create Macros
   and supercharge your mobile toolbar.
-downloads: 262463
+downloads: 265159
 mobile: true
 number: 568
-stars: 740
+stars: 745
 title: Commander
 type: plugin
 updated: '2024-10-11T07:55:46'

@@ -5,7 +5,7 @@ author:
 - '[[fleker|Nick Felker]]'
 categories: []
 description: Syncs your public Letterboxd diary.
-downloads: 591
+downloads: 614
 mobile: true
 number: 1602
 stars: 6

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: A chess study helper and PGN viewer/editor.
-downloads: 5359
+downloads: 5382
 mobile: false
 number: 943
 stars: 37

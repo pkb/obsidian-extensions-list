@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage your tasks inside codeblocks according to the Todo.txt specification.
-downloads: 3697
+downloads: 3711
 mobile: true
 number: 1189
-stars: 15
+stars: 16
 title: TodoTxt Codeblocks
 type: plugin
 updated: '2024-10-20T12:15:34'

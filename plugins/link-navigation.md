@@ -6,7 +6,7 @@ author:
 categories: []
 description: Navigate between incoming links (inlinks), outgoing links (outlinks)
   N levels deep. Links from Canvas are also supported.
-downloads: 383
+downloads: 395
 mobile: true
 number: 1933
 stars: 4

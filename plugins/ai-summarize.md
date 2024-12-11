@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize your notes using AI
-downloads: 1250
+downloads: 1276
 mobile: true
 number: 1559
 stars: 10

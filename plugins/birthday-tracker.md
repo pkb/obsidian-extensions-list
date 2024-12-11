@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all birthdays of your family and friends.
-downloads: 5469
+downloads: 5497
 mobile: true
 number: 1063
 stars: 17

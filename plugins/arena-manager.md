@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish content from your vault to Arena and the other way around.
-downloads: 245
+downloads: 252
 mobile: true
 number: 1762
 stars: 38

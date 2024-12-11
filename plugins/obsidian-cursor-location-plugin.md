@@ -5,7 +5,7 @@ author:
 - '[[spslater|Sean Slater]]'
 categories: []
 description: This displays the location of the cursor (character and line number).
-downloads: 9317
+downloads: 9337
 mobile: false
 number: 222
 stars: 22

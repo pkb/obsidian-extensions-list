@@ -5,10 +5,10 @@ author:
 - '[[uonr|Koppa]]'
 categories: []
 description: Helper plugin for furigana and <ruby>
-downloads: 4781
+downloads: 4791
 mobile: true
 number: 111
-stars: 25
+stars: 26
 title: Furigana
 type: plugin
 updated: '2021-02-27T18:09:12'

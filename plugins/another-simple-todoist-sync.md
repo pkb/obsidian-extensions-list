@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync tasks with Todoist from within your notes.
-downloads: 205
+downloads: 251
 mobile: true
 number: 1959
-stars: 15
+stars: 16
 title: Another Simple Todoist Sync
 type: plugin
-updated: '2024-11-24T05:13:53'
+updated: '2024-12-09T09:33:51'
 url: https://github.com/eudennis/ultimate-todoist-sync-for-obsidian-experiment
-version: 0.4.8
+version: 0.4.10
 ---
 
 %% README_START %%
@@ -54,6 +54,7 @@ Create, edit and delete tasks from within Obsidian.md to your Todoist.
 | Added-at date            | 🔜                       | 🔜                       |
 | Completed-at date        | 🔜                       | 🔜                       |
 | Task notes [2]           | 🔜                       | ✅                       |
+| Optional app link        |                          |                          |
 
 -   [1] Task priority only support one-way synchronization
 -   [2] Task notes/comments only support one-way synchronization from Todoist to Obsidian.

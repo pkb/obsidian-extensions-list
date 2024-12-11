@@ -5,7 +5,7 @@ author:
 - '[[drichardson|Doug Richardson]]'
 categories: []
 description: Add command to toggle Readable line length editor setting.
-downloads: 625
+downloads: 642
 mobile: true
 number: 1718
 stars: 0

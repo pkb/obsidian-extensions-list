@@ -5,10 +5,10 @@ author:
 - '[[Narsail|David Moeller]]'
 categories: []
 description: Track your Habits.
-downloads: 8086
+downloads: 8126
 mobile: true
 number: 560
-stars: 32
+stars: 33
 title: Habit Tracker
 type: plugin
 updated: '2022-07-17T14:49:04'

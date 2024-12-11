@@ -5,7 +5,7 @@ author:
 - '[[jvsteiner|jvsteiner]]'
 categories: []
 description: Render snippets of latex code as SVG files.
-downloads: 576
+downloads: 605
 mobile: false
 number: 1775
 stars: 8

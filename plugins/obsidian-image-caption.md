@@ -5,7 +5,7 @@ author:
 - '[[bicarlsen|Brian Carlsen]]'
 categories: []
 description: Add captions to images.
-downloads: 25393
+downloads: 25455
 mobile: true
 number: 339
 stars: 92

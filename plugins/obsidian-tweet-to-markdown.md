@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Save tweets as Markdown files, along with their images, polls, etc.
-downloads: 12303
+downloads: 12313
 mobile: true
 number: 335
 stars: 198

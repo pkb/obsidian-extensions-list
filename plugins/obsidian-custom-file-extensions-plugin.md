@@ -5,7 +5,7 @@ author:
 - '[[MeepTech|Meep.Tech]]'
 categories: []
 description: Associate views with custom file extensions via settings.
-downloads: 7309
+downloads: 7382
 mobile: true
 number: 772
 stars: 42

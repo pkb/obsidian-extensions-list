@@ -8,7 +8,7 @@ categories:
 description: Copy to clipboard, Open in default app, Show in system explorer, Reveal
   file in navigation, Open in new tab context menus for images. Also has an pen PDF
   externally context menu.
-downloads: 41546
+downloads: 41751
 mobile: true
 number: 220
 stars: 68

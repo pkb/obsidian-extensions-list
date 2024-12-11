@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Identify duplicate notes based on similar aliases and filenames.
-downloads: 1841
+downloads: 1864
 mobile: false
 number: 1483
 stars: 7

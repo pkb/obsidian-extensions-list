@@ -5,7 +5,7 @@ author:
 - '[[aidenlx|AidenLx]]'
 categories: []
 description: An Obsidian plugin to bridge MarginNote 3 and Obsidian
-downloads: 12951
+downloads: 12977
 mobile: true
 number: 297
 stars: 164
@@ -24,7 +24,7 @@ An Obsidian plugin to bridge MarginNote 3 and Obsidian
 
 用于连接 MarginNote 3 和 Obsidian 的 Obsidian 插件
 
-![demo](assets/demo.webp)
+![demo](https://raw.githubusercontent.com/aidenlx/marginnote-companion/HEAD/assets/demo.webp)
 
 ## Features 特性
 

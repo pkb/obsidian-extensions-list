@@ -6,7 +6,7 @@ author:
 categories: []
 description: Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency
   and get right to writing.
-downloads: 8104
+downloads: 8116
 mobile: true
 number: 319
 stars: 122

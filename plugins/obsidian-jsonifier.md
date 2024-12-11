@@ -7,7 +7,7 @@ categories: []
 description: Select text that you want to JSON.stringify(), or JSON.parse(). Select
   text and use the keystroke and the transformation will be copied to your clipboard.
   Paste it wherever you want.
-downloads: 5222
+downloads: 5236
 mobile: true
 number: 82
 stars: 6

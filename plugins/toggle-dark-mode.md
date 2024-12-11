@@ -5,7 +5,7 @@ author:
 - '[[juliavdkris|Julia van der Kris]]'
 categories: []
 description: Adds a command to toggle dark mode on and off
-downloads: 809
+downloads: 837
 mobile: true
 number: 1714
 stars: 3

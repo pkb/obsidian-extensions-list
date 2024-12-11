@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin archives links in your note so they're available to you even
   if the original site goes down or gets removed.
-downloads: 6033
+downloads: 6040
 mobile: true
 number: 330
 stars: 133

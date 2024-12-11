@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Insert a date at the cursor position using a calendar.
-downloads: 4519
+downloads: 4667
 mobile: true
 number: 1485
 stars: 9
 title: Date Inserter
 type: plugin
-updated: '2024-10-17T21:48:59'
+updated: '2024-12-08T15:02:31'
 url: https://github.com/namikaze-40p/obsidian-date-inserter
-version: 0.3.8
+version: 0.4.0
 ---
 
 %% README_START %%

@@ -5,7 +5,7 @@ author:
 - '[[johackim|johackim]]'
 categories: []
 description: Write and format your next book directly from Obsidian
-downloads: 7295
+downloads: 7326
 mobile: false
 number: 701
 stars: 77

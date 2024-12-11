@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Track your tasks across all the notes in your workspace. Organize your
   day. Plan your work
-downloads: 248
+downloads: 314
 mobile: true
 number: 2019
 stars: 10

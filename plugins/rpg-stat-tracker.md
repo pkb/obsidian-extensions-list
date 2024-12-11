@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: RPG-like stat tracker.
-downloads: 500
+downloads: 513
 mobile: false
 number: 1739
-stars: 12
+stars: 13
 title: RPG Stat Tracker
 type: plugin
 updated: '2024-06-23T23:34:24'

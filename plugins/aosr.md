@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Another obsidian spaced repetition
-downloads: 10666
+downloads: 10713
 mobile: true
 number: 611
 stars: 72

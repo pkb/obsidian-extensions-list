@@ -5,7 +5,7 @@ author:
 - '[[OGKevin|Kevin Hellemun]]'
 categories: []
 description: Import highlights from your Kobo device
-downloads: 7795
+downloads: 7824
 mobile: false
 number: 447
 stars: 83

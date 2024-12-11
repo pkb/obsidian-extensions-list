@@ -5,7 +5,7 @@ author:
 - '[[carlrobert|Robert Storlind]]'
 categories: []
 description: Toggling dark/light mode switches themes automatically
-downloads: 69
+downloads: 95
 mobile: true
 number: 2021
 stars: 0

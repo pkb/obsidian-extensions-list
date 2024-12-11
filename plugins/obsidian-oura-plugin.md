@@ -5,15 +5,15 @@ author:
 - '[[kinabalu|Andrew Lombardi]]'
 categories: []
 description: A plugin for importing Oura Ring data from the Cloud-based API
-downloads: 3900
+downloads: 3929
 mobile: true
 number: 337
 stars: 33
 title: Oura Ring
 type: plugin
-updated: '2024-06-29T04:07:28'
+updated: '2024-12-07T05:38:56'
 url: https://github.com/kinabalu/obsidian-oura-plugin
-version: 0.2.2
+version: 0.2.3
 ---
 
 %% README_START %%

@@ -8,7 +8,7 @@ categories:
 description: '`Supsub` is a plugin designed for Obsidian.md that adds functionality
   to wrap selected text with <sup></sup> (superscript) or <sub></sub> (subscript)
   tags.'
-downloads: 7170
+downloads: 7326
 mobile: true
 number: 980
 stars: 9
@@ -23,29 +23,68 @@ version: 1.0.4
 
 # SupSub
 
-[![Obsidian Plugin](https://img.shields.io/badge/SupSub%20Plugin%20Link-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/plugins?id=supsub) </br>
-<img src="https://raw.githubusercontent.com/wjgoarxiv/obsidian-supsub/HEAD/testmovie.gif" width="55%"> </br>
+[![Obsidian Plugin](https://img.shields.io/badge/SupSub%20Plugin%20Link-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/plugins?id=supsub)
+
+<img src="https://raw.githubusercontent.com/wjgoarxiv/obsidian-supsub/HEAD/demomovie.gif" width="65%"> </br>
 
 **SupSub** is an Obsidian plugin that allows you to easily format selected text with `<sup>` and `<sub>` tags, enabling quick superscript and subscript formatting in your notes.
 
-## What's New in Version 1.0.2 (@2024-09-08)
+## What's New in Version 1.0.4 (@2024-12-03)
 
-- **Cursor Positioning**: Now, if you use the hotkeys without selecting any text, the cursor will be positioned between the newly inserted `<sup>` or `<sub>` tags, allowing you to start typing immediately.
-- **Enhanced Toggle Behavior**: The plugin still allows you to toggle superscript and subscript formatting. If the selected text is already wrapped in the respective tags, pressing the hotkey will remove the tags.
+- **Bug Fixes**:
+  - **Resolved Selection Error**: Fixed an issue where enabling the popup buttons and using the **Sup** or **Sub** buttons could cause a `TypeError` related to invalid selection points. The plugin now correctly validates selection ranges to prevent errors.
+  
+- **Improved Stability**:
+  - Enhanced compatibility with the latest Obsidian updates by refining editor integrations and ensuring seamless functionality.
+
+## What's New in Version 1.0.3 (@2024-12-01)
+
+- **Enhanced Button Labels**: Updated the popup buttons to be more user-friendly:
+  - **Sup (ⁿ)**: Wraps the selected text with `<sup>` tags.
+  - **Sub (ₙ)**: Wraps the selected text with `<sub>` tags.
+  - **Normal (n)**: Removes existing `<sup>` or `<sub>` tags from the selected text.
+- **Conditional Button Display**: 
+  - When the selected text is already wrapped in `<sup>` or `<sub>`, only the **Normal (n)** button is displayed to allow easy removal of the tags.
+  - When the selected text is not wrapped, both **Sup (ⁿ)** and **Sub (ₙ)** buttons are available for formatting.
 
 ## Usage
 
-- **Superscript**: Use the hotkey `Option + Command + '='` on macOS or `Ctrl + Alt + '='` on Windows to wrap the selected text with `<sup>` tags. If no text is selected, the cursor will be placed between the `<sup></sup>` tags.
-- **Subscript**: Use the hotkey `Option + Command + '-'` on macOS or `Ctrl + Alt + '-'` on Windows to wrap the selected text with `<sub>` tags. If no text is selected, the cursor will be placed between the `<sub></sub>` tags.
-- **Toggling**: If the selected text is already wrapped in `<sup>` or `<sub>`, using the hotkey will remove the tags.
+- **Superscript**: 
+  - **Hotkey**: `Option + Command + '='` on macOS or `Ctrl + Alt + '='` on Windows.
+  - **Action**: Wraps the selected text with `<sup>` tags. If no text is selected, the cursor will be placed between the `<sup></sup>` tags.
+  - **Button**: **Sup (ⁿ)**
+  
+- **Subscript**: 
+  - **Hotkey**: `Option + Command + '-'` on macOS or `Ctrl + Alt + '-'` on Windows.
+  - **Action**: Wraps the selected text with `<sub>` tags. If no text is selected, the cursor will be placed between the `<sub></sub>` tags.
+  - **Button**: **Sub (ₙ)**
+  
+- **Remove Formatting**: 
+  - **Action**: Removes existing `<sup>` or `<sub>` tags from the selected text.
+  - **Button**: **Normal (n)**
+  
+- **Toggling**: 
+  - If the selected text is already wrapped in `<sup>` or `<sub>`, using the respective button or hotkey will remove the tags.
+
+## Example Workflow
+
+1. **Add Superscript/Subscript**:
+   - Select the text you want to format.
+   - Click the **Sup (ⁿ)** or **Sub (ₙ)** button in the popup, or use the designated hotkeys.
+   - The selected text will be wrapped with the corresponding tags, and the popup will disappear.
+
+2. **Remove Superscript/Subscript**:
+   - Select the text that is already formatted with `<sup>` or `<sub>` tags.
+   - Click the **Normal (n)** button in the popup.
+   - The tags will be removed, the text will be reverted to normal formatting, and the popup will disappear.
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open a new issue or submit a pull request in the GitHub repository.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open a new issue or submit a pull request in the [GitHub repository](https://github.com/wjgoarxiv/obsidian-supsub).
 
 ## License
 
-This plugin is licensed under the [MIT License](LICENSE).
+This plugin is licensed under the [MIT License](https://github.com/wjgoarxiv/obsidian-supsub/blob/master/LICENSE).
 
 
 %% README_END %%

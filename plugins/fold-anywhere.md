@@ -5,7 +5,7 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: Set start and end marker, and then fold any text anywhere.
-downloads: 3323
+downloads: 3338
 mobile: true
 number: 1192
 stars: 15

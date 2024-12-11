@@ -5,7 +5,7 @@ author:
 - '[[aoout|aoout]]'
 categories: []
 description: Get the rss articles as mdfiles.
-downloads: 1657
+downloads: 1670
 mobile: true
 number: 1378
 stars: 28
@@ -77,7 +77,7 @@ tags:
 ---
 ```dataview
 table dateformat(file.mtime, "yyyy.MM.dd") AS "publish date",
-"![](" + firstImage + ")"
+"![](https://raw.githubusercontent.com/aoout/obsidian-rss-copyist/HEAD/" + firstImage + ")"
 where file.folder = this.file.folder + "/" + this.file.name
 and (!this.showunreadonly or unread)
 sort file.mtime DESC 

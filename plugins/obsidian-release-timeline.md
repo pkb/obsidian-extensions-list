@@ -6,7 +6,7 @@ author:
 categories: []
 description: Release timeline rendered based on notes metadata with a dataview-like
   syntax.
-downloads: 8763
+downloads: 8780
 mobile: true
 number: 516
 stars: 46

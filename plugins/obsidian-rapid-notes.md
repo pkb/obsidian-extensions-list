@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create and place notes quickly in specific folders based on predefined
   prefixes.
-downloads: 5532
+downloads: 5545
 mobile: true
 number: 675
 stars: 51

@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Analyze and tag your document with one click for efficient note organization
   using AI.
-downloads: 4100
+downloads: 4437
 mobile: true
 number: 1451
-stars: 58
+stars: 63
 title: AI Tagger
 type: plugin
-updated: '2024-12-03T08:44:46'
+updated: '2024-12-08T06:11:33'
 url: https://github.com/lucagrippa/obsidian-ai-tagger
-version: 1.2.4
+version: 1.2.5
 ---
 
 %% README_START %%
@@ -37,6 +37,9 @@ The plugin analyzes the current document that you have open in the editor and al
 | Anthropic | Claude 3.5 Haiku | 200K | Closed Source |
 | Anthropic | Claude 3.5 Sonnet | 200K | Closed Source |
 | Anthropic | Claude 3 Opus | 200K | Closed Source |
+| Google | Gemini 1.5 Flash | 1M | Closed Source |
+| Google | Gemini 1.5 Flash-8B | 1M | Closed Source |
+| Google | Gemini 1.5 Pro | 1M | Closed Source |
 | Groq | Llama 3 Groq 8B | 8K | Open Source |
 | Groq | Llama 3 Groq 70B | 8K | Open Source |
 | Groq | Llama 3.1 8B | 128K | Open Source |

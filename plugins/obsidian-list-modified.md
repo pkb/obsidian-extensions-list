@@ -6,15 +6,15 @@ author:
 categories: []
 description: The advanced and adaptive changelog. Links all modified files meeting
   certain criteria to a timed (daily, weekly, monthly) note.
-downloads: 10836
+downloads: 10974
 mobile: true
 number: 483
-stars: 115
+stars: 114
 title: List Modified
 type: plugin
-updated: '2024-11-13T07:26:18'
+updated: '2024-12-09T21:15:54'
 url: https://github.com/franciskafieh/obsidian-list-modified
-version: 3.2.1
+version: 3.2.2
 ---
 
 %% README_START %%

@@ -5,7 +5,7 @@ author:
 - '[[lucasvanmol|Lucas Van Mol]]'
 categories: []
 description: Generate LaTeX equations from images in your vault or clipboard.
-downloads: 6177
+downloads: 6286
 mobile: false
 number: 1347
 stars: 86

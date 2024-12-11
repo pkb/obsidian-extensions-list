@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Store and visualise ASCII graphics and charts
-downloads: 199
+downloads: 277
 mobile: true
 number: 1999
-stars: 73
+stars: 74
 title: Textgrams
 type: plugin
 updated: '2024-12-03T17:21:09'

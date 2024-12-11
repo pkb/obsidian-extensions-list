@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Render chess positions diagrams in a note.
-downloads: 6821
+downloads: 6845
 mobile: true
 number: 115
 stars: 29

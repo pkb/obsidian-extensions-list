@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Create and run LLM scripts on the Obsidian Canvas.
-downloads: 7851
+downloads: 7909
 mobile: true
 number: 1143
-stars: 328
+stars: 329
 title: Cannoli
 type: plugin
 updated: '2024-09-26T01:47:40'

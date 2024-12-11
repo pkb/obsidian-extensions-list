@@ -7,10 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Release the article from your vault to WeChat, Baidu Baijiahao, or another
   article release platform.
-downloads: 584
+downloads: 597
 mobile: false
 number: 1744
-stars: 58
+stars: 59
 title: Wechat Public Platform
 type: plugin
 updated: '2024-09-07T22:35:14'
@@ -63,8 +63,8 @@ https://github.com/ai-chen2050/obsidian-wechat-public-platform/releases
 
 |    Overall    |    Down/Upload    |
 |:-----------:|:-----------:|
-| ![setting](https://raw.githubusercontent.com/ai-chen2050/obsidian-wechat-public-platform/HEAD/public/setting.png) | ![uploadMateial](./public/uploadMateial.png)  |
-| ![commands](https://raw.githubusercontent.com/ai-chen2050/obsidian-wechat-public-platform/HEAD/public/commands.png)| ![download](./public/download.png) |
+| ![setting](https://raw.githubusercontent.com/ai-chen2050/obsidian-wechat-public-platform/HEAD/public/setting.png) | ![uploadMateial](https://raw.githubusercontent.com/ai-chen2050/obsidian-wechat-public-platform/HEAD/public/uploadMateial.png)  |
+| ![commands](https://raw.githubusercontent.com/ai-chen2050/obsidian-wechat-public-platform/HEAD/public/commands.png)| ![download](https://raw.githubusercontent.com/ai-chen2050/obsidian-wechat-public-platform/HEAD/public/download.png) |
 
 ---
 

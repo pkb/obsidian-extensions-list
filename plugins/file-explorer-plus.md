@@ -7,7 +7,7 @@ categories: []
 description: Hide and pin files and folders in the file explorer using custom filters,
   such as wildcards and regex, based on their names, paths, and tags. Additionally,
   achieve the same with a single click in the file menu.
-downloads: 16893
+downloads: 17119
 mobile: true
 number: 1123
 stars: 60

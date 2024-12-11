@@ -5,7 +5,7 @@ author:
 - '[[0918nobita|Kodai Matsumoto]]'
 categories: []
 description: Provides code blocks with features for Chinese learners
-downloads: 3077
+downloads: 3090
 mobile: true
 number: 1254
 stars: 21

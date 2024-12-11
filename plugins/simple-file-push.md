@@ -5,10 +5,10 @@ author:
 - '[[huedaya|Kim Hudaya]]'
 categories: []
 description: Push Markdown file to API endpoint.
-downloads: 1006
+downloads: 1009
 mobile: true
 number: 1432
-stars: 4
+stars: 5
 title: Simple File Push
 type: plugin
 updated: '2024-02-20T16:48:37'

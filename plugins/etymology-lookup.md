@@ -5,7 +5,7 @@ author:
 - '[[clairefro|Claire Froelich]]'
 categories: []
 description: Get the etymology of words in your notes
-downloads: 2457
+downloads: 2507
 mobile: true
 number: 1530
 stars: 14

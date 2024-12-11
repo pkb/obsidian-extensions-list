@@ -5,7 +5,7 @@ author:
 - '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Create folder of snippets to activate them in one click !
-downloads: 4871
+downloads: 4877
 mobile: true
 number: 584
 stars: 17

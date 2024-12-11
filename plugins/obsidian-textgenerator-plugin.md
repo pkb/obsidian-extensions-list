@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Text generation using AI
-downloads: 342092
+downloads: 345915
 mobile: true
 number: 452
 stars: 1500

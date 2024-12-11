@@ -7,7 +7,7 @@ categories: []
 description: Quickly enter and display guitar chords, with optional chords based on
   music theory. No need to write in code blocks, they can be inserted and edited directly
   in the document.
-downloads: 374
+downloads: 391
 mobile: true
 number: 1908
 stars: 3

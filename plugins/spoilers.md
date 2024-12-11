@@ -5,7 +5,7 @@ author:
 - '[[jacobtread|Jacobtread]]'
 categories: []
 description: Hide and reveal blocks of information
-downloads: 1015
+downloads: 1044
 mobile: true
 number: 1734
 stars: 5

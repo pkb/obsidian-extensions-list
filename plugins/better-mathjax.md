@@ -5,7 +5,7 @@ author:
 - '[[greasycat|GreasyCat]]'
 categories: []
 description: Provide math autocompletion and customizable snippets.
-downloads: 6361
+downloads: 6412
 mobile: true
 number: 937
 stars: 13

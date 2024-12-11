@@ -5,7 +5,7 @@ author:
 - '[[trenta3|Dario Balboni]]'
 categories: []
 description: Set hotkeys chords to activate commands
-downloads: 4002
+downloads: 4009
 mobile: false
 number: 438
 stars: 11

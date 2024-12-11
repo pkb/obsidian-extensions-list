@@ -5,7 +5,7 @@ author:
 - '[[sneaky-foxes|sneaky-foxes]]'
 categories: []
 description: Lints filenames for invalid or troublesome characters
-downloads: 4007
+downloads: 4026
 mobile: true
 number: 1056
 stars: 12

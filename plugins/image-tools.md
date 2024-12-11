@@ -5,10 +5,10 @@ author:
 - '[[Hosstell|Andrey Serov]]'
 categories: []
 description: Formatter for image on page
-downloads: 494
+downloads: 601
 mobile: true
 number: 2006
-stars: 10
+stars: 11
 title: Image Tools
 type: plugin
 updated: '2024-11-26T23:13:36'
@@ -20,7 +20,8 @@ version: 1.1.0
 
 # Image tools [Obsidian plugin]
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Hosstell/image-tools-obsidian-plugin/latest/total?style=for-the-badge&logo=github) ![GitHub Repo stars](https://img.shields.io/github/stars/Hosstell/image-tools-obsidian-plugin?style=for-the-badge&logo=github) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2FHEAD%2Fcommunity-plugin-stats.json&query=%24.image-tools.downloads&style=for-the-badge&logo=obsidian&label=Downloads&color=red)
+![GitHub Repo stars](https://img.shields.io/github/stars/Hosstell/image-tools-obsidian-plugin?style=for-the-badge&logo=github) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Hosstell/image-tools-obsidian-plugin/total?style=for-the-badge&logo=github)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2FHEAD%2Fcommunity-plugin-stats.json&query=%24.image-tools.downloads&style=for-the-badge&logo=obsidian&label=Downloads&color=red)
 
 
 

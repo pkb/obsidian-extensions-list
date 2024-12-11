@@ -5,7 +5,7 @@ author:
 - '[[Supercip971|supercyp]]'
 categories: []
 description: This is a plugin for showing the current typing speed in the status bar
-downloads: 9820
+downloads: 9874
 mobile: true
 number: 486
 stars: 26
@@ -21,7 +21,7 @@ version: 1.3.0
 
 <div align="center">
 
-![](./meta/logo.svg)
+![](https://raw.githubusercontent.com/Supercip971/obsidian-typing-speed/HEAD/meta/logo.svg)
 
 
 </br> </br>
@@ -39,7 +39,7 @@ This little plugin show the current typing speed in the status bar !
 <div align="center">
 
 
-![](./meta/demo.svg)
+![](https://raw.githubusercontent.com/Supercip971/obsidian-typing-speed/HEAD/meta/demo.svg)
 
 </div>
 You can choose if you want the current speed being displayed in cps (character per second), cpm (character per minute) or wpm (word per minute).

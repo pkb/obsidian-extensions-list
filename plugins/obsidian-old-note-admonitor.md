@@ -6,7 +6,7 @@ author:
 categories: []
 description: This Obsidian plugin shows warnings if the note has not been updated
   in the last specific days
-downloads: 4484
+downloads: 4492
 mobile: true
 number: 664
 stars: 21

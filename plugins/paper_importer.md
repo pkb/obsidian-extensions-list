@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import papers from arXiv with one click.
-downloads: 60
+downloads: 79
 mobile: true
 number: 2028
 stars: 1

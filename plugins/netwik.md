@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin provides access to global network of notes. Anyone can create,
   view or edit notes. All changes will be synchronized between all participants
-downloads: 4039
+downloads: 4045
 mobile: false
 number: 298
 stars: 27

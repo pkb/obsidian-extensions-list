@@ -5,7 +5,7 @@ author:
 - '[[chrisgrieser|pseudometa]]'
 categories: []
 description: Open a note of your choice when creating a new tab, like in the browser.
-downloads: 21494
+downloads: 21642
 mobile: true
 number: 594
 stars: 47

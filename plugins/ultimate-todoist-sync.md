@@ -8,7 +8,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: This is the best Todoist task synchronization plugin for Obsidian so
   far.
-downloads: 12574
+downloads: 12665
 mobile: true
 number: 900
 stars: 152

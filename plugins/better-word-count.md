@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Counts the words of selected text in the editor.
-downloads: 408349
+downloads: 410523
 mobile: true
 number: 27
 stars: 263

@@ -5,7 +5,7 @@ author:
 - '[[pranavmangal|Pranav Mangal]]'
 categories: []
 description: Create and manage daily notes in a single file.
-downloads: 2495
+downloads: 2515
 mobile: true
 number: 1376
 stars: 16

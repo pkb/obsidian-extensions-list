@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Calendar view of your daily notes
-downloads: 1465610
+downloads: 1477060
 mobile: true
 number: 10
 stars: 1700

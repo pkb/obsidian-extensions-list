@@ -6,10 +6,10 @@ author:
 categories: []
 description: Converts quotes to curly quotes, dashes to em dashes, and periods to
   ellipses
-downloads: 88341
+downloads: 89083
 mobile: true
 number: 200
-stars: 257
+stars: 258
 title: Smart Typography
 type: plugin
 updated: '2022-06-18T01:02:11'

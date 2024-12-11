@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add underline(`<u>xxx</u>`) with shortcut, and `<center>xxx</center>`,
   `[[#xxx]]`, `[[#^xxx]]`
-downloads: 41234
+downloads: 41445
 mobile: true
 number: 168
 stars: 56

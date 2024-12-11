@@ -5,7 +5,7 @@ author:
 - '[[noxonad|noxonad]]'
 categories: []
 description: Generates customizable barcodes into your notes.
-downloads: 2532
+downloads: 2538
 mobile: true
 number: 1263
 stars: 8

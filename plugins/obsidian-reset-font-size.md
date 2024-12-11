@@ -5,7 +5,7 @@ author:
 - '[[luckman212|luckman212]]'
 categories: []
 description: Adds button and command to reset the font size back to its default value.
-downloads: 6040
+downloads: 6054
 mobile: true
 number: 284
 stars: 12

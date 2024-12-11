@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add better Live Preview support for math rendering inside callouts &
   blockquotes.
-downloads: 4028
+downloads: 4064
 mobile: true
 number: 1327
 stars: 30
@@ -38,7 +38,7 @@ Moreover, it also enables proper handling of multi-line math blocks; see [the ne
 
  Without this plugin                 | With this plugin
 :-----------------------------------:|:----------------------------------:
-![Before](https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/HEAD/fig/callout-before.png) | ![After](fig/callout-after.png)
+![Before](https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/HEAD/fig/callout-before.png) | ![After](https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/HEAD/fig/callout-after.png)
 
 ### Math in Blockquotes
 
@@ -57,7 +57,7 @@ In Live Preview, the vanilla Obsidian misunderstands a ">" symbol at the beginni
 
  Without this plugin                 | With this plugin
 :-----------------------------------:|:----------------------------------:
-![Before](https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/HEAD/fig/blockquote-before.png) | ![After](fig/blockquote-after.png)
+![Before](https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/HEAD/fig/blockquote-before.png) | ![After](https://raw.githubusercontent.com/RyotaUshio/obsidian-math-in-callout/HEAD/fig/blockquote-after.png)
 
 ## Installation
 

@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a HTML file reader plugin for Obsidian. Can open document with
   ".html" and ".htm" file extensions.
-downloads: 27077
+downloads: 27240
 mobile: true
 number: 623
 stars: 129
@@ -59,7 +59,7 @@ This is a plugin for Obsidian (https://obsidian.md). Can open document with `.ht
 1. Head to ⚙"Settings" ⇨ "Community plugins" options page, find the settings icon ⚙ of "**HTML Reader**" item, then click it.
 2. Or, Head to ⚙"Settings" ⇨ click "**HTML Reader**" item on the bottom of left panel under the "Community plugins" group after enabled it.
 
-![HtmlReadedSettings1.jpg](./assets/images/screenshots/HtmlReadedSettings1.jpg "HTML Reader Setting part1") 
+![HtmlReadedSettings1.jpg](https://raw.githubusercontent.com/nuthrash/obsidian-html-plugin/HEAD/assets/images/screenshots/HtmlReadedSettings1.jpg "HTML Reader Setting part1") 
 
 ### General Settings
 
@@ -144,7 +144,7 @@ Zoom the document using Ctrl + Wheel (zoom in: ↑, zoom out: ↓), or using the
 ## More options
 After opening HTML files, the three dots ⋮ "more options" menu icon on right-upper corner of tab would be added some menu items.
 
-![MoreOptions1.jpg](./assets/images/screenshots/MoreOptions1.jpg "More Options part1")
+![MoreOptions1.jpg](https://raw.githubusercontent.com/nuthrash/obsidian-html-plugin/HEAD/assets/images/screenshots/MoreOptions1.jpg "More Options part1")
  
 ### Find...
 Open search bar.
@@ -167,7 +167,7 @@ Reset current file zoom.
 - Cannot see local image files like `<img src="https://raw.githubusercontent.com/nuthrash/obsidian-html-plugin/HEAD/image1.jpg" />` or `<img src="file:///C:/image1.jpg" />`
   - This is Obsidian's constraint, it disallow to directly access local files through HTML code.
   - One of the possible remedy ways is re-save the HTML file as a complete HTML file by dedicated browser extensions such as "[SingleFile](https://github.com/gildas-lormeau/SingleFile)", it can save a complete page (with CSS, images, fonts, frames, etc.) as a single HTML file. After got the complete HTML file, put it to obsidian-html-plugin installed vault folder then open it, you would see all images.
-  - Another remedy way is add `app://local/` or `app://local//` prefix string to `src` attribute by hands(refer to "[Allow embed of Local images using `![](file:///...)`](https://forum.obsidian.md/t/allow-embed-of-local-images-using-file/1990/4)").
+  - Another remedy way is add `app://local/` or `app://local//` prefix string to `src` attribute by hands(refer to "[Allow embed of Local images using `![](https://raw.githubusercontent.com/nuthrash/obsidian-html-plugin/HEAD/file:///...)`](https://forum.obsidian.md/t/allow-embed-of-local-images-using-file/1990/4)").
 
 - After some .html files were opened, they look like blank pages and cannot see original contents.
   - In fact, currently (after 1.0.4), this plugin can handle only some kinds of HTML files:

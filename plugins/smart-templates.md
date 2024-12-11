@@ -8,7 +8,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI powered templates for generating structured content. Works with Local
   Models, Anthropic Claude, Gemini, OpenAI and more.
-downloads: 1357
+downloads: 1425
 mobile: true
 number: 1828
 stars: 28

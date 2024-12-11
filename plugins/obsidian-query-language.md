@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: This plugin allows you to query notes and represent data within Obsidian
-downloads: 13709
+downloads: 13734
 mobile: true
 number: 87
 stars: 177

@@ -5,7 +5,7 @@ author:
 - '[[kuvanov-2|yurikuvanov]]'
 categories: []
 description: Pull and push notes to DocBase
-downloads: 65
+downloads: 67
 mobile: true
 number: 1774
 stars: 0

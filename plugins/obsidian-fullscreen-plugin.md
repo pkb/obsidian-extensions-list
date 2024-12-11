@@ -5,7 +5,7 @@ author:
 - '[[Razumihin|Razum]]'
 categories: []
 description: This plugin allows viewing a single document in fullscreen focus mode
-downloads: 34857
+downloads: 34958
 mobile: true
 number: 48
 stars: 39

@@ -5,7 +5,7 @@ author:
 - '[[jdrbrn|jdrbrn]]'
 categories: []
 description: Indexes references to scriptures in notes.
-downloads: 134
+downloads: 139
 mobile: true
 number: 1926
 stars: 0

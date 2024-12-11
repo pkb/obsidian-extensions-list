@@ -5,7 +5,7 @@ author:
 - '[[luhaifeng666|luhaifeng666]]'
 categories: []
 description: Convert text to speech
-downloads: 1310
+downloads: 1337
 mobile: true
 number: 1632
 stars: 13

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Check and create tasks in TickTick via Obsidian
-downloads: 7565
+downloads: 7592
 mobile: true
 number: 1116
 stars: 30

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Track your moods & emotions easily. Visualize tracked history and browse
   the past entries.
-downloads: 12937
+downloads: 13043
 mobile: true
 number: 935
 stars: 89

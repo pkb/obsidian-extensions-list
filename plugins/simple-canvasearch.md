@@ -8,7 +8,7 @@ categories:
 - '[[categories/Canvas|Canvas]]'
 description: Quickly fuzzy-search and shift focus to notes or cards within the currently
   opened canvas.
-downloads: 74923
+downloads: 77752
 mobile: false
 number: 1028
 stars: 22

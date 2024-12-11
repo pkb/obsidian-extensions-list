@@ -6,10 +6,10 @@ author:
 categories: []
 description: 'IVRE integration for Obsidian: grab data from IVRE and brings it into
   Obsidian notes.'
-downloads: 3355
+downloads: 3362
 mobile: false
 number: 766
-stars: 27
+stars: 28
 title: IVRE
 type: plugin
 updated: '2024-09-20T02:07:01'

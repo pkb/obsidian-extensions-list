@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Switch your tabs with Ctrl + Tab in recently used order like in a browser.
-downloads: 70944
+downloads: 71083
 mobile: true
 number: 39
-stars: 128
+stars: 129
 title: Tab Switcher
 type: plugin
 updated: '2023-08-22T00:17:44'

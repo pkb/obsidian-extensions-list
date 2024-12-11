@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Remove newlines or blank lines from selected or pasted text.
-downloads: 622
+downloads: 670
 mobile: true
 number: 1764
 stars: 4
@@ -97,6 +97,9 @@ All relevant source code can be found in [`main.ts`](https://github.com/Handcart
 2. `cd` to the project folder
 3. run `npm run dev` or `npm run build`
 4. perform a manual install
+
+## Plugin Stats
+[View Plugin Statistics](https://handcartcactus.github.io/obsidian-remove-newlines/plugin_stats_viewer.html)
 
 
 %% README_END %%

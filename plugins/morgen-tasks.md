@@ -9,15 +9,15 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Plan, time block, and track tasks from your vault in any calendar using
   Morgen.
-downloads: 2044
+downloads: 2378
 mobile: true
 number: 1893
 stars: 3
 title: Morgen Tasks
 type: plugin
-updated: '2024-09-30T13:14:00'
+updated: '2024-12-06T21:32:06'
 url: https://github.com/morgen-so/morgen-obsidian
-version: 1.0.5
+version: 1.0.7
 ---
 
 %% README_START %%
@@ -26,13 +26,14 @@ version: 1.0.5
 
 Plan, time block, and track tasks from your Obsidian vault in any calendar using Morgen.
 
+![Obsidian Tasks in Morgen](https://d3rr38k70shmdg.cloudfront.net/images/obsidian_morgen_cover.jpg)
+
 -----
 
-Plan and schedule your Obsidian tasks in your calendar to protect focused time
-and prevent double-bookings. See your tasks side-by-side with your calendar,
-then drag and drop them in your calendar. You can even create multiple time
-slots for large tasks, filter based on due dates and priority, and sync task
-status back to Obsidian.
+Plan and schedule your Obsidian tasks in your calendar to protect focused time and prevent double-bookings. See your tasks side-by-side with your calendar, then drag and drop them in your calendar. 
+You can even create multiple time slots for large tasks, filter based on due dates and priority, and sync task status back to Obsidian.
+
+To see the plugin in action check out [Journaling in Obsidian onto my Morgen Calendar](https://www.youtube.com/watch?v=wxdQE8i95po) by Danny Hatcher.
 
 ## Features
 
@@ -61,8 +62,7 @@ Visit our website to [get signed up to Morgen](https://platform.morgen.so/auth/s
 ### Step 2: Download Morgen
 
 You can download Morgen by visiting [our downloads page](https://platform.morgen.so/download).
-Open the app and create a new account before continuing. You can try the
-Obsidian integration during your 14 day free trial.
+Open the app and create a new account before continuing. You can try the Obsidian integration during your 14 day free trial.
 
 ### Step 3: Connect your Obsidian vault
 
@@ -72,13 +72,11 @@ Click "Connect a vault" and find the root directory of the vault you want to con
 
 ### Step 4: Configure the task sidebar in Morgen
 
-You can do this by clicking on the context menu item in the top right of the
-task pane. Here you can modify how tasks are grouped, ordered and filtered.
+You can do this by clicking on the context menu item in the top right of the task pane. Here you can modify how tasks are grouped, ordered and filtered.
 
 ### Step 5: Install this plugin, and gain extra features
 
-Once installed, this plugin provides a setting to control whether to hide IDs in task 
-lists, so that you can sync your tasks without noisy task IDs cluttering your view.
+Once installed, this plugin provides a setting to control whether to hide IDs in task lists, so that you can sync your tasks without noisy task IDs cluttering your view.
 
 ## Support and Feedback
 
@@ -93,9 +91,7 @@ Not right now but please feel free to send us some feedback
 
 ### Can I sync Obsidian notes themselves as tasks in Morgen?
 
-At the moment only checklist tasks within notes are synced, but we are
-considering the possibility of using the frontmatter of notes to sync them
-as a parent task or a task sub-list.
+At the moment only checklist tasks within notes are synced, but we are considering the possibility of using the frontmatter of notes to sync them as a parent task or a task sub-list.
 
 ## Future
 

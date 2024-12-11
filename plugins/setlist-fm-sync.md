@@ -5,13 +5,13 @@ author:
 - '[[authors/fleker|Nick Felker]]'
 categories: []
 description: Syncs your setlist.fm attended concerts.
-downloads: 16
+downloads: 34
 mobile: true
 number: 2044
 stars: 0
 title: Setlist.fm Sync
 type: plugin
-updated: '2024-12-03T08:01:11'
+updated: '2024-12-05T23:53:27'
 url: https://github.com/fleker/setlist-for-obsidian
 version: 1.0.4
 ---

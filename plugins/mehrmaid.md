@@ -5,10 +5,10 @@ author:
 - '[[huterguier|huterguier]]'
 categories: []
 description: Enables you to put Markdown inside of Mermaid diagrams.
-downloads: 7465
+downloads: 7693
 mobile: true
 number: 1565
-stars: 25
+stars: 26
 title: Mehrmaid
 type: plugin
 updated: '2024-04-23T16:15:08'

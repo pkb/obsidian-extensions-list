@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Google Photos integration for Obsidian
-downloads: 12487
+downloads: 12534
 mobile: true
 number: 732
-stars: 96
+stars: 97
 title: Google Photos
 type: plugin
 updated: '2024-08-02T13:19:39'
@@ -54,13 +54,13 @@ You can use template variables to change the way the photo is imported / inserte
 The default format is as follows, which will add a thumbnail image which links back to the original Google Photo URL:
 
 ```markdown
-[![]({{local_thumbnail_link}})]({{google_photo_url}}) 
+[![](https://raw.githubusercontent.com/alangrainger/obsidian-google-photos/HEAD/{{local_thumbnail_link}})]({{google_photo_url}}) 
 ```
 
 If you want to bring across the description text field from your photos, you could add it as text following the photo like this:
 
 ```markdown
-[![]({{local_thumbnail_link}})]({{google_photo_url}})
+[![](https://raw.githubusercontent.com/alangrainger/obsidian-google-photos/HEAD/{{local_thumbnail_link}})]({{google_photo_url}})
 
 {{google_photo_desc}}
 ```
@@ -68,7 +68,7 @@ If you want to bring across the description text field from your photos, you cou
 Alternatively if you use an [image captions plugin](https://obsidian.md/plugins?id=image-captions) you could use this format:
 
 ```markdown
-[![{{google_photo_desc}}]({{local_thumbnail_link}})]({{google_photo_url}})
+[![{{google_photo_desc}}](https://raw.githubusercontent.com/alangrainger/obsidian-google-photos/HEAD/{{local_thumbnail_link}})]({{google_photo_url}})
 ```
 
 ## Insert an album

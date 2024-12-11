@@ -5,10 +5,10 @@ author:
 - '[[wakeyi-git|wakeyi]]'
 categories: []
 description: Navigate your notes visually with card-based interface
-downloads: 342
+downloads: 369
 mobile: true
 number: 1896
-stars: 12
+stars: 13
 title: Card Navigator
 type: plugin
 updated: '2024-10-19T04:05:02'
@@ -41,8 +41,8 @@ Card Navigator is an Obsidian plugin that offers a unique way to visualize and n
 - Multi-language support for English and Korean
 - Multiple layout options: Auto, List, Grid, and Masonry (1.0.3)
 
-![alt text](<src/screenshots/Keyboard Navigating.gif>)
-![alt text](<src/screenshots/Editing Note.gif>)
+![alt text](https://raw.githubusercontent.com/wakeyi-git/obsidian-card-navigator-plugin/HEAD/<src/screenshots/Keyboard Navigating.gif>)
+![alt text](https://raw.githubusercontent.com/wakeyi-git/obsidian-card-navigator-plugin/HEAD/<src/screenshots/Editing Note.gif>)
 
 ## Installation
 

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar
   to help with concentration. Also allows you to play your own local music files.
-downloads: 9158
+downloads: 9311
 mobile: false
 number: 1362
-stars: 59
+stars: 60
 title: Soundscapes
 type: plugin
 updated: '2024-03-27T06:56:31'

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Shuffle, reverse, or sort lines, using either visual width or lexical
   order.
-downloads: 1700
+downloads: 1803
 mobile: true
 number: 1720
 stars: 3

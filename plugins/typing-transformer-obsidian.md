@@ -5,7 +5,7 @@ author:
 - '[[aptend|aptend]]'
 categories: []
 description: Improved, configurable auto formatting as typing
-downloads: 6700
+downloads: 6782
 mobile: true
 number: 561
 stars: 57

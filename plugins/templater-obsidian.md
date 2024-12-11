@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Create and use templates
-downloads: 1905191
+downloads: 1919818
 mobile: true
 number: 24
-stars: 3300
+stars: 3400
 title: Templater
 type: plugin
 updated: '2024-10-30T10:16:32'
@@ -21,7 +21,7 @@ version: 2.9.1
 
 # Templater Obsidian Plugin
 
-![templater_logo](./imgs/templater_logo.svg)
+![templater_logo](https://raw.githubusercontent.com/SilentVoid13/Templater/HEAD/imgs/templater_logo.svg)
 
 [Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions.
 

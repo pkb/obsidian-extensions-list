@@ -5,7 +5,7 @@ author:
 - '[[smikula|Scott Mikula]]'
 categories: []
 description: Put a spotlight on your active pane
-downloads: 5383
+downloads: 5392
 mobile: true
 number: 328
 stars: 31

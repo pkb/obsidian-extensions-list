@@ -5,10 +5,10 @@ author:
 - '[[lucaorio|Luca Orio]]'
 categories: []
 description: A zero setup masonry image gallery for Obsidian
-downloads: 18121
+downloads: 18350
 mobile: true
 number: 549
-stars: 202
+stars: 205
 title: Image Gallery
 type: plugin
 updated: '2022-12-23T11:42:19'

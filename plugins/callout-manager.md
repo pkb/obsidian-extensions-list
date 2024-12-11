@@ -5,7 +5,7 @@ author:
 - '[[eth-p|eth-p]]'
 categories: []
 description: Easily create and customize callouts.
-downloads: 65000
+downloads: 66010
 mobile: true
 number: 816
 stars: 144

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Select something and let the AI complete it for you.
-downloads: 1234
+downloads: 1246
 mobile: true
 number: 1467
 stars: 3

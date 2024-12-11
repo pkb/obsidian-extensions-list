@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format the code block where the cursor is.
-downloads: 226
+downloads: 282
 mobile: true
 number: 1974
 stars: 8
 title: Simple Code Formatter
 type: plugin
-updated: '2024-11-18T08:45:42'
+updated: '2024-12-10T08:16:53'
 url: https://github.com/wiop93256/Simple-Code-Formmater
-version: 1.1.0
+version: 1.2.0
 ---
 
 %% README_START %%

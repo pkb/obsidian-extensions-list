@@ -5,7 +5,7 @@ author:
 - '[[pixley|Tyler Pixley]]'
 categories: []
 description: Renders Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
-downloads: 4352
+downloads: 4472
 mobile: true
 number: 1458
 stars: 10
@@ -70,7 +70,7 @@ You can add action icons as follows:
 
 ## Example
 
-![Item Example Formatted](/images/item_example.PNG)
+![Item Example Formatted](https://raw.githubusercontent.com/pixley/pf2e-statblock-for-obsidian/HEAD//images/item_example.PNG)
 
 	```pf2e-stats
 	# Awesome Belt of Various Actions

@@ -5,7 +5,7 @@ author:
 - '[[ebullient|ebullient]]'
 categories: []
 description: Create and tweak common snippets (starting with custom tasks)
-downloads: 8425
+downloads: 8443
 mobile: true
 number: 402
 stars: 113

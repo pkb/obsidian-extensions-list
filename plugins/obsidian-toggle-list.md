@@ -5,7 +5,7 @@ author:
 - '[[thingnotok|Lite C]]'
 categories: []
 description: Toggle the list/checklist with custom states/prefixes and suffixes
-downloads: 14543
+downloads: 14626
 mobile: true
 number: 618
 stars: 45

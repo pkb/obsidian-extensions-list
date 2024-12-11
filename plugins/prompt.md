@@ -5,7 +5,7 @@ author:
 - '[[hungsu|Hung-Su]]'
 categories: []
 description: Shows a random text prompt when triggered
-downloads: 5074
+downloads: 5086
 mobile: true
 number: 329
 stars: 23

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import your Apple Books highlights and notes to Obsidian.
-downloads: 3517
+downloads: 3561
 mobile: false
 number: 1377
-stars: 54
+stars: 55
 title: Apple Books - Import Highlights
 type: plugin
 updated: '2024-08-11T01:22:44'

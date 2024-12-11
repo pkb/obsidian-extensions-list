@@ -5,7 +5,7 @@ author:
 - '[[dabravin|Ivaylo Dabravin <ivaylo.dabravin@gmail.com>]]'
 categories: []
 description: Dynamicly interpreted inline embeds.
-downloads: 6228
+downloads: 6247
 mobile: true
 number: 448
 stars: 19

@@ -5,7 +5,7 @@ author:
 - '[[liolle|liolle]]'
 categories: []
 description: Add tooltip to any canvas node and Quickly navigate between canvas nodes
-downloads: 2470
+downloads: 2492
 mobile: false
 number: 1508
 stars: 12

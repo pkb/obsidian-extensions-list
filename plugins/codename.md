@@ -5,7 +5,7 @@ author:
 - '[[dstack|dstack]]'
 categories: []
 description: A plugin to solve the hardest problem - naming things.
-downloads: 3472
+downloads: 3481
 mobile: true
 number: 1071
 stars: 6

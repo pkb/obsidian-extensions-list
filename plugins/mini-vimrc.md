@@ -5,7 +5,7 @@ author:
 - '[[cabra-arretado|Felipe M.]]'
 categories: []
 description: Set Vim keybiddings via .vimrc file.
-downloads: 3738
+downloads: 3759
 mobile: true
 number: 1205
 stars: 22

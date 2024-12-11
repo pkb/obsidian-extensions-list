@@ -5,7 +5,7 @@ author:
 - '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Tweak various Electron window settings.
-downloads: 10420
+downloads: 10452
 mobile: false
 number: 199
 stars: 40

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Multiple branching AI conversations as Markdown hierarchy
-downloads: 395
+downloads: 399
 mobile: true
 number: 1767
 stars: 10

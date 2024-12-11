@@ -7,7 +7,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Output markdown from your Dataview queries and keep them up to date.
   You can also publish them.
-downloads: 964
+downloads: 1010
 mobile: true
 number: 1754
 stars: 31

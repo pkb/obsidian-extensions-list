@@ -5,15 +5,15 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`
-downloads: 5290
+downloads: 5541
 mobile: true
 number: 1244
-stars: 20
+stars: 21
 title: Backlink Cache
 type: plugin
-updated: '2024-11-21T10:43:11'
+updated: '2024-12-11T00:32:00'
 url: https://github.com/mnaoumov/obsidian-backlink-cache
-version: 1.11.5
+version: 2.2.2
 ---
 
 %% README_START %%
@@ -29,6 +29,8 @@ It speeds up `Backlinks Pane` performance and plugins that deal with the backlin
 This plugin the most likely will be useful for other plugin developers that deal with the backlinks.
 
 Its idea came from the [forum](https://forum.obsidian.md/t/store-backlinks-in-metadatacache/67000).
+
+Also the plugin includes canvas into the backlinks for the referenced files. This includes the `app.metadataCache.getBacklinksForFile` function and the `Backlinks Pane`.
 
 ## Usage
 

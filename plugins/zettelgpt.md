@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: 'ZettelGPT: Turbocharge Your Note-taking with AI Assistance'
-downloads: 4388
+downloads: 4406
 mobile: true
 number: 1029
 stars: 20
@@ -22,6 +22,8 @@ version: 1.0.0
 # Obsidian ZettelGPT Plugin
 
 To download Obsidian: [Click here](https://www.obsidian.md)
+
+📄 Read Presentation for this project(KOR): [Click here](https://drive.google.com/file/d/1Mn_qmZaWtLlf81fhUfjZDaraJ512RwZe/view?usp=sharing)
 
 <a href="https://www.buymeacoffee.com/Overraddit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;"></a>
 

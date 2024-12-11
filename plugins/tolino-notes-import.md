@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: This is a plugin for Obsidian to import notes from a Tolino E-Reader.
-downloads: 3329
+downloads: 3332
 mobile: false
 number: 881
 stars: 10

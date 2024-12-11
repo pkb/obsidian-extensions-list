@@ -5,7 +5,7 @@ author:
 - '[[0xroko|0xroko]]'
 categories: []
 description: Allows you to save Are.na blocks as notes.
-downloads: 2146
+downloads: 2154
 mobile: true
 number: 1276
 stars: 16

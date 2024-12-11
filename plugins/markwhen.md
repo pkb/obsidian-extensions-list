@@ -6,13 +6,13 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Create timelines, gantt charts, calendars, and more using markwhen.
-downloads: 6096
+downloads: 6782
 mobile: false
 number: 1643
-stars: 210
+stars: 240
 title: Markwhen
 type: plugin
-updated: '2024-07-04T04:40:27'
+updated: '2024-12-05T01:56:01'
 url: https://github.com/mark-when/obsidian-plugin
 version: 0.0.3
 ---

@@ -5,7 +5,7 @@ author:
 - '[[mahmudz|mahmudz]]'
 categories: []
 description: Mark your note as favorite.
-downloads: 4617
+downloads: 4664
 mobile: true
 number: 1241
 stars: 8

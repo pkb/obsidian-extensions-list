@@ -5,10 +5,10 @@ author:
 - '[[karstenpedersen|Karsten F. Pedersen]]'
 categories: []
 description: Navigate between sequential daily notes with ease.
-downloads: 3834
+downloads: 3872
 mobile: true
 number: 1503
-stars: 43
+stars: 45
 title: Daily Note Navbar
 type: plugin
 updated: '2024-06-27T15:28:32'

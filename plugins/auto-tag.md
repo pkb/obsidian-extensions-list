@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Easily generate relevant tags for your Obsidian notes or selected text.
-downloads: 6081
+downloads: 6128
 mobile: true
 number: 1184
-stars: 49
+stars: 51
 title: Auto Tag
 type: plugin
 updated: '2023-11-20T01:50:35'

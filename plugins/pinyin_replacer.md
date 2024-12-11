@@ -6,7 +6,7 @@ author:
 categories: []
 description: Simple plugin to use the pinyin tones in obsidian without having to install
   extra keyboard layouts.
-downloads: 1302
+downloads: 1305
 mobile: false
 number: 1381
 stars: 3

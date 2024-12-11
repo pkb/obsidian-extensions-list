@@ -5,7 +5,7 @@ author:
 - '[[cwfryer|cwfryer]]'
 categories: []
 description: Adds a fuzzy searched suggestion modal for callouts.
-downloads: 6282
+downloads: 6381
 mobile: true
 number: 1547
 stars: 15

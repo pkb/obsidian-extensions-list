@@ -5,15 +5,15 @@ author:
 - '[[authors/IvanKalmar|Ivan Kalmar]]'
 categories: []
 description: Creating simple quizzes.
-downloads: 14
+downloads: 69
 mobile: true
 number: 2041
 stars: 2
 title: Simple Quiz
 type: plugin
-updated: '2024-11-21T22:57:51'
+updated: '2024-12-09T00:27:18'
 url: https://github.com/IvanKalmar/simple-quiz
-version: 0.1.1
+version: 0.2.4
 ---
 
 %% README_START %%

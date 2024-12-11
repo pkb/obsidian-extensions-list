@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Sync a relevant calendar event to your current note.
-downloads: 601
+downloads: 614
 mobile: false
 number: 1610
 stars: 5

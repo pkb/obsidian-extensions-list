@@ -6,7 +6,7 @@ author:
 categories: []
 description: This pulgin allows you to launch scripts from the Obsidian app. You can
   add scripts shortcuts on your bottom bar and launch them with just one click!
-downloads: 7964
+downloads: 7974
 mobile: false
 number: 599
 stars: 24

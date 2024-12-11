@@ -8,7 +8,7 @@ categories:
 description: This plugin extracts annotations and highlights files exported from Onyx
   Boox tablets, and converts them to reference, literature and permanent notes fitting
   to the Zettelkasten method.
-downloads: 5246
+downloads: 5275
 mobile: true
 number: 616
 stars: 54

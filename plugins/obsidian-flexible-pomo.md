@@ -7,7 +7,7 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: Adds a pomodoro timer to your status bar. This pomodoro has additional
   options such as early log and extend.
-downloads: 12405
+downloads: 12445
 mobile: false
 number: 356
 stars: 57
@@ -54,11 +54,11 @@ All of these actions are available from the command pallete. You can also set a 
 
 The typical workflow in Flexible Pomodoro is to **Start** your Pomodoro.
 
-![](startpomo.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/startpomo.GIF)
 
 Do your work and at the end of the 25 minute period, you will be asked if you want to extend or not.
 
-![](extendpomo.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/extendpomo.GIF)
 
 If you choose **Yes**, your pomodoro will extend a stopwatch will appear instead of a countdown timer. If you choose **No**, a Break timer will start. If you choose **Not For This Session**, the normal pomodoro cycle timers will kick in.
 
@@ -127,7 +127,7 @@ You can open the current log file by clicking the timer.
 For tasks that were finished much earlier, the tool provides additional commands for logging and quitting. Once triggered, the application will already log the Pomodoro and stop the timer.
 For this to work, Pomodoro logging should be turned on in options.
 
-![log_pomodoro_time](logpomodorotime.GIF)
+![log_pomodoro_time](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/logpomodorotime.GIF)
 
 ### Show Active Note In Status Bar
 
@@ -144,11 +144,11 @@ For this to work, options should enable
 For Pomodoro users that want to work outside of the pomodoro time limit, this option provides a flexible option to extend your Pomodoro.
 If you choose to extend, a stop watch will start to log the pomodoro. If you choose not to extend, the next break will start already.
 
-![extended_pomdoro.gif](extendedpomodoro.GIF)
+![extended_pomdoro.gif](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/extendedpomodoro.GIF)
 
 Please use Log Pomodoro Time and Quit so that extended pomodoros are logged and recorded.
 
-![ending_extended_pomodoro.gif](ending_extended_pomodoro.GIF)
+![ending_extended_pomodoro.gif](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/ending_extended_pomodoro.GIF)
 
 ### Log Pomodoro Duration
 
@@ -177,7 +177,7 @@ when the Pomodoro is in active note. Tracking will not work during breaks.
 
 Note: There is a current limitation that tracking is only based on text of files. Duplicates might not be tracked properly.
 
-![](loggingtaskvideo.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/loggingtaskvideo.GIF)
 
 Please be sure to enable in settings.
 
@@ -188,7 +188,7 @@ Please be sure to enable in settings.
 The workbench is a feature that you can use to have multiple files tracked during a Pomodoro period.
 This will enable the user to log tasks added and completed with these multiple files.
 
-![](pomoworkbench.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/pomoworkbench.GIF)
 
 ### Persistent Workbench
 
@@ -197,7 +197,7 @@ to persist Workbenches across restart and enables the user to save different typ
 
 Please be sure to set your workbench folder first. Workbench Files that are saved will be placed in this folder.
 
-![](pomopersistentfolder.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/pomopersistentfolder.GIF)
 
 ### Save Pomo Workbench As
 
@@ -205,14 +205,14 @@ Save your workbench
 
 To make a workbench persistent, be sure to call **Save Pomo Workbench As** command. 
 
-![](savepomoworkbench.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/savepomoworkbench.GIF)
 
 
 ### Load A Workbench
 
 Load a workbench  command loads previously created workbenches.
 
-![](loadworkbench.GIF)
+![](https://raw.githubusercontent.com/grassbl8d/flexible-pomo-obsidian/HEAD/loadworkbench.GIF)
 
 
 ### Sortable Workbench

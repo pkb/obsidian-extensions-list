@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin uploads the media files in your clipboard (or drag and drop)
   to Cloudinary as unsigned uploads
-downloads: 4530
+downloads: 4537
 mobile: false
 number: 353
 stars: 25

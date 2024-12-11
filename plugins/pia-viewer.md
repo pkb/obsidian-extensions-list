@@ -5,7 +5,7 @@ author:
 - '[[dldisud|dldisud]]'
 categories: []
 description: Make it look like a mobile
-downloads: 310
+downloads: 321
 mobile: true
 number: 1798
 stars: 2

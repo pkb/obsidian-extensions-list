@@ -6,10 +6,10 @@ author:
 categories: []
 description: Enter Zen mode to focus on writing. The plugin expands current tab to
   full screen removing everything but content.
-downloads: 16534
+downloads: 16688
 mobile: false
 number: 706
-stars: 41
+stars: 42
 title: ProZen
 type: plugin
 updated: '2022-11-27T04:28:18'

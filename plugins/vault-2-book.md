@@ -7,7 +7,7 @@ categories:
 - '[[categories/Export|Export]]'
 description: Converts your notes to a book creating a single file containing all the
   notes linked
-downloads: 4002
+downloads: 4016
 mobile: true
 number: 1008
 stars: 25

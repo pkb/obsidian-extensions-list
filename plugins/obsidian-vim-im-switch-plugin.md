@@ -5,7 +5,7 @@ author:
 - '[[yuanotes|Yuan Chen]]'
 categories: []
 description: Switch input method with fcitx-remote when Vim keymap is enabled.
-downloads: 6400
+downloads: 6410
 mobile: false
 number: 269
 stars: 65
@@ -46,7 +46,7 @@ version: 1.0.8
 
 | 支付宝 | 微信支付 |
 |--------| ------- |
-|  ![支付宝收款码](https://raw.githubusercontent.com/yuanotes/obsidian-vim-im-switch-plugin/HEAD/assets/alipay.jpg) | ![微信支付收款码](./assets/wechat_pay.jpg) |
+|  ![支付宝收款码](https://raw.githubusercontent.com/yuanotes/obsidian-vim-im-switch-plugin/HEAD/assets/alipay.jpg) | ![微信支付收款码](https://raw.githubusercontent.com/yuanotes/obsidian-vim-im-switch-plugin/HEAD/assets/wechat_pay.jpg) |
 
 
 %% README_END %%

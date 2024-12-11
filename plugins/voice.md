@@ -7,7 +7,7 @@ categories: []
 description: Let your notes talk and speak to you and enhance your Obsidian experience
   to effortlessly listen to your notes being read aloud and enjoy the power of sound,
   audio, and speech.
-downloads: 11613
+downloads: 11756
 mobile: true
 number: 1074
 stars: 31

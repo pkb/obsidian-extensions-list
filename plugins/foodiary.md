@@ -5,7 +5,7 @@ author:
 - '[[vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Food tracker, macronutrient and calorie calculator.
-downloads: 1215
+downloads: 1232
 mobile: true
 number: 1557
 stars: 8

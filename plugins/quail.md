@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Save, publish, delivery notes via Quail.ink as newsletters and blogs.
-downloads: 3755
+downloads: 3759
 mobile: true
 number: 1054
 stars: 5

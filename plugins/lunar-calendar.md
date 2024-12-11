@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 一个支持农历的日历
-downloads: 3212
+downloads: 3223
 mobile: false
 number: 1204
 stars: 3
@@ -25,9 +25,9 @@ version: 1.2.0
 ![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/screenshot.png)
 
 ## 日历样式
-![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/calendar-day.png) ![](calendar-day-night.png)
+![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/calendar-day.png) ![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/calendar-day-night.png)
 ## 纯月历样式
-![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/calendar-lunar.png) ![](calendar-lunar-night.png)
+![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/calendar-lunar.png) ![](https://raw.githubusercontent.com/WHG555/lunar-calendar/HEAD/calendar-lunar-night.png)
 
 # 功能更新
 - 支持了浅色与深色模式

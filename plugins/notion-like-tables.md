@@ -7,7 +7,7 @@ categories:
 - '[[categories/Data management|Data management]]'
 description: Weave together data from diverse sources into different views. Inspired
   by Excel Spreadsheets and Notion.so.
-downloads: 262070
+downloads: 262583
 mobile: true
 number: 507
 stars: 922

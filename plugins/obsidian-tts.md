@@ -5,7 +5,7 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Hear your notes.
-downloads: 25433
+downloads: 25582
 mobile: true
 number: 372
 stars: 80

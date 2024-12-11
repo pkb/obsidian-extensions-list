@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: This plugin provides commands to publish Markdown documents to Quip.com
-downloads: 5455
+downloads: 5477
 mobile: false
 number: 789
-stars: 24
+stars: 25
 title: Quip
 type: plugin
 updated: '2024-04-23T02:46:18'

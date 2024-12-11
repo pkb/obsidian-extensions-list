@@ -7,7 +7,7 @@ categories: []
 description: Enhances right-click menu and global command with direct links to blocks
   and titles, adds support for multi-line blockquotes, and offers extensive customization
   options for block IDs.
-downloads: 569
+downloads: 585
 mobile: true
 number: 1842
 stars: 6

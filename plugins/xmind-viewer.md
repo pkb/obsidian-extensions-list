@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Integrate viewing of your XMind files
-downloads: 1093
+downloads: 1203
 mobile: true
 number: 1915
 stars: 12

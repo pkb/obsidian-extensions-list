@@ -6,10 +6,10 @@ author:
 categories: []
 description: This plugin for obsidian aids in the creation of fine-tuning datasets
   for language models.
-downloads: 3608
+downloads: 3615
 mobile: false
 number: 710
-stars: 36
+stars: 37
 title: Text Dataset Aid
 type: plugin
 updated: '2024-01-29T22:44:56'

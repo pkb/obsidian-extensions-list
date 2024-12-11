@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: A collection of commands to track your writing activity.
-downloads: 13888
+downloads: 13922
 mobile: true
 number: 100
 stars: 43

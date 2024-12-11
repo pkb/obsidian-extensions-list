@@ -5,7 +5,7 @@ author:
 - '[[qwegat|qwegat]]'
 categories: []
 description: Plugin for describing external service accounts in the front matter
-downloads: 4154
+downloads: 4160
 mobile: true
 number: 642
 stars: 25

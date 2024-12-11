@@ -5,7 +5,7 @@ author:
 - '[[Fevol|Fevol]]'
 categories: []
 description: Translate text and notes with Google Translate, DeepL, Azure, and more.
-downloads: 31358
+downloads: 31627
 mobile: true
 number: 714
 stars: 103

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Optional `folderv` Component for alx-folder-note
-downloads: 11778
+downloads: 11799
 mobile: true
 number: 428
 stars: 7

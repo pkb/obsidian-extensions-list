@@ -7,7 +7,7 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Adds ability to link with @ (the At Symbol) in Obsidian. Can limit @
   linking to specific folders e.g. People/
-downloads: 8906
+downloads: 8966
 mobile: true
 number: 1093
 stars: 63

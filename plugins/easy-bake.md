@@ -5,10 +5,10 @@ author:
 - '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Easily compile many Obsidian notes down to a single file.
-downloads: 5871
+downloads: 5941
 mobile: true
 number: 1060
-stars: 71
+stars: 72
 title: Easy Bake
 type: plugin
 updated: '2024-02-21T00:47:59'

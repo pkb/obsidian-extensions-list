@@ -6,7 +6,7 @@ author:
 categories: []
 description: Use Large Language Models (such as ChatGPT) to automatically generate
   flashcards from obsidian notes
-downloads: 6304
+downloads: 6343
 mobile: false
 number: 960
 stars: 34

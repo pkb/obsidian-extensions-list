@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin serves usefull commands to setup and manage your knowledge
   using the PARA method.
-downloads: 5591
+downloads: 5614
 mobile: true
 number: 398
 stars: 23

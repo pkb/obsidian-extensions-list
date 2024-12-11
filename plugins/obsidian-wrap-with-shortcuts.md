@@ -6,7 +6,7 @@ author:
 categories: []
 description: 'Wrap selected text in custom tags with shortcuts. E.g.: underline, sub,
   ruby(フリガナ)'
-downloads: 8780
+downloads: 8822
 mobile: true
 number: 386
 stars: 62

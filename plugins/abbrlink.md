@@ -5,15 +5,15 @@ author:
 - '[[authors/Hoshino-Yumetsuki|Q78KG]]'
 categories: []
 description: Automatically generate permanent short links for your markdown files.
-downloads: 28
+downloads: 63
 mobile: true
 number: 2047
 stars: 0
 title: Abbrlink
 type: plugin
-updated: '2024-11-23T17:24:39'
+updated: '2024-12-04T19:20:00'
 url: https://github.com/Hoshino-Yumetsuki/obsidian-plugin-abbrlink
-version: 1.1.3
+version: 1.1.4
 ---
 
 %% README_START %%

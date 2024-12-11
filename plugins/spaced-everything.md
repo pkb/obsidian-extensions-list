@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Apply spaced repetition algorithms to everything in your vault.
-downloads: 368
+downloads: 378
 mobile: true
 number: 1900
 stars: 12

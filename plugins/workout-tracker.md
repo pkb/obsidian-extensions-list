@@ -5,7 +5,7 @@ author:
 - '[[wanabeunique|wanabeunique]]'
 categories: []
 description: Log workouts, track progress, and view exercise statistic.
-downloads: 202
+downloads: 253
 mobile: true
 number: 1991
 stars: 5

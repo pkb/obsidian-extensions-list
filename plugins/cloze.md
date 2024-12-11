@@ -6,7 +6,7 @@ author:
 categories: []
 description: Convert highlights, underlines, bolded texts or any selected texts into
   clozes.
-downloads: 10189
+downloads: 10259
 mobile: true
 number: 1075
 stars: 68

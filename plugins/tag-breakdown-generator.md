@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Breakdown nested tags into multiple parent tags
-downloads: 2528
+downloads: 2532
 mobile: false
 number: 1201
 stars: 8

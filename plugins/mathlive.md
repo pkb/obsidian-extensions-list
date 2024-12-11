@@ -5,10 +5,10 @@ author:
 - '[[danzilberdan|Dan Zilberman]]'
 categories: []
 description: Faster and more intuitive MathJax editing using MathLive.
-downloads: 13505
+downloads: 13703
 mobile: false
 number: 931
-stars: 87
+stars: 89
 title: MathLive
 type: plugin
 updated: '2024-09-30T11:02:59'
@@ -20,7 +20,7 @@ version: 1.3.2
 
 # MathLive Plugin for Obsidian Docs
 
-![](./banner.svg)
+![](https://raw.githubusercontent.com/danzilberdan/obsidian-mathlive/HEAD/banner.svg)
 
 <span style="font-size:1.5em;">
 MathLive is a powerful Obsidian plugin that simplifies the process of creating and editing LaTeX formulas. It provides an intuitive interface for visual editing and an OCR feature to convert scanned images into LaTeX code with a single click.

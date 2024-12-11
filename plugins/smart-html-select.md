@@ -7,7 +7,7 @@ categories: []
 description: This plugin is useful to add an HTML select to your note with the possibility
   to configure the number of options. Integrates a logic behind the scene to change
   the markdown when in view mode the select value change.
-downloads: 200
+downloads: 204
 mobile: true
 number: 1675
 stars: 2

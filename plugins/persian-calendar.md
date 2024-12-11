@@ -8,10 +8,10 @@ categories:
 description: This tool lets you see events, add and organize notes from daily to yearly
   on the Persian calendar, use templates with placeholders, and works with all Obsidian
   daily plugins.
-downloads: 3350
+downloads: 3400
 mobile: true
 number: 1502
-stars: 58
+stars: 59
 title: Persian Calendar
 type: plugin
 updated: '2024-08-20T15:27:12'
@@ -42,7 +42,7 @@ This tool lets you see events, add and organize notes from daily to yearly on th
 
 این افزونه تقویم فارسی را به [ابسیدین](https://obsidian.md/) اضافه می‌کند و شما می‌توانید بااستفاده از آن روزنوشت‌، هفته‌نوشت، ماه‌نوشت، فصل‌نوشت و سال‌نوشت تولید کنید و آن‌ها را مدیریت کنید، به آسانی به آن‌ها ارجاع دهید و نوشته‌هایتان را غنی‌تر کنید.
 
-![نمای اصلی افزونه تقویم فارسی ابسیدین](Instructions/Obsidian.webp)
+![نمای اصلی افزونه تقویم فارسی ابسیدین](https://raw.githubusercontent.com/maleknejad/obsidian-persian-calendar/HEAD/Instructions/Obsidian.webp)
 
 ## قابلیت‌ها
 
@@ -73,7 +73,7 @@ This tool lets you see events, add and organize notes from daily to yearly on th
 با استفاده از افزونه [Templater](https://github.com/SilentVoid13/Templater) می‌توانید قالب‌های مشخصی را برای یاداشت‌های روزانه، هفتگی، ماهانه، فصلی و سالانه خود مشخص کنید:
 کافیست افزونه [Templater](https://github.com/SilentVoid13/Templater) را نصب کنید و مطابق تصویر زیر برای هر نوع از فایل‌ها یک قالب به افزونه معرفی کنید. در نظر داشته باشید مسیرهایی که به افزونه معرفی می‌کنید با مسیرهای مشخص شده در تنظیمات افزونه یکسان باشد. حتما باید گزینه Trigger Templater on new file creation روشن باشد. برای غنی‌تر کردن قالب‌ها حتما بخش عبارت معنادار این افزونه را مطالعه کنید.
 
-![راهنمای استفاده به همراه Templater](Instructions/templater.webp)
+![راهنمای استفاده به همراه Templater](https://raw.githubusercontent.com/maleknejad/obsidian-persian-calendar/HEAD/Instructions/templater.webp)
 
 ## امکان درج عبارت معنادار در قالب‌ها
 میتوانید با درج عبارت‌های معنادار زیر تاریخ‌ها را در قالب‌ها اضافه کنید:
@@ -104,7 +104,7 @@ This tool lets you see events, add and organize notes from daily to yearly on th
 
 دقت داشته باشید باید دقیقا این عبارت ها با همین فرمت در روزنوشت‌ها درج شود.
 این قابلیت افزونه با طور کامل با قابلیت‌های افزونه `Templater` هماهنگ است و پس از ساخته شدن قالب توسط این افزونه با 500 میلی‌ثانیه تاخیر اجرا می‌شود.
-![placeholders](Instructions/placeholders.webp)
+![placeholders](https://raw.githubusercontent.com/maleknejad/obsidian-persian-calendar/HEAD/Instructions/placeholders.webp)
 
 ## امکان ارجاع به یادداشت‌ها از طریق تایپ کردن '@' یا انتخاب کردن
 
@@ -117,7 +117,7 @@ This tool lets you see events, add and organize notes from daily to yearly on th
 - فصل‌ها به صورت `این فصل`، `فصل قبل` و `فصل بعد`
 - سال‌ها به صورت `امسال`، `سال قبل` و `سال بعد`
 همچنین میتوانید با انتخاب کردن عبارت‌های فوق را به روزنوشت‌ها لینک کنید. مثلا اگر فردا را انتخاب کنید و انتخاب دستور مرتبط یادداشت‌ها را لینک کنید. فیلم زیر را برای درک بهتر این موضوع ببینید. در نظر داشته باشید به صورت پیش‌فرض این افزونه فایل‌ها را نمی‌سازد و خودتان باید فایل‌ها را ازطریق افزونه بسازید.
-![suggester](Instructions/suggester.webp)
+![suggester](https://raw.githubusercontent.com/maleknejad/obsidian-persian-calendar/HEAD/Instructions/suggester.webp)
 
 ## امکان نامگذاری یادداشت‌ها بر اساس تقویم میلادی
 

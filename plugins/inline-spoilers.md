@@ -5,7 +5,7 @@ author:
 - '[[logonoff|logonoff]]'
 categories: []
 description: Adds Discord-like syntax for inline spoilers.
-downloads: 1354
+downloads: 1442
 mobile: true
 number: 1826
 stars: 9

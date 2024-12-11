@@ -5,7 +5,7 @@ author:
 - '[[OlegLustenko|Oleg Lustenko]]'
 categories: []
 description: Purpose of this plugin rename files based on pattern
-downloads: 11412
+downloads: 11482
 mobile: true
 number: 592
 stars: 74

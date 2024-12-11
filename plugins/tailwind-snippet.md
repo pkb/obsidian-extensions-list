@@ -5,7 +5,7 @@ author:
 - '[[nicholas-wilcox|Nicholas Wilcox]]'
 categories: []
 description: Use TailwindCSS utility classes in your markup.
-downloads: 235
+downloads: 247
 mobile: false
 number: 1878
 stars: 20

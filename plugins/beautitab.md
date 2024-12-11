@@ -8,10 +8,10 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Creates a customizable new tab view with beautiful backgrounds, quotes,
   search, and more.
-downloads: 24245
+downloads: 24706
 mobile: true
 number: 1389
-stars: 131
+stars: 132
 title: Beautitab
 type: plugin
 updated: '2024-03-27T03:28:38'

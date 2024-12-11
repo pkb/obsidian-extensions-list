@@ -5,7 +5,7 @@ author:
 - '[[marplek|marplek]]'
 categories: []
 description: Create a poker range grid
-downloads: 73
+downloads: 76
 mobile: true
 number: 1899
 stars: 1

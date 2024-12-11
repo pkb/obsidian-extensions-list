@@ -5,10 +5,10 @@ author:
 - '[[qaptoR|qaptoR]]'
 categories: []
 description: Enables the user to provide the number of times to repeat a command.
-downloads: 3350
+downloads: 3354
 mobile: true
 number: 833
-stars: 4
+stars: 5
 title: Commando
 type: plugin
 updated: '2023-02-22T11:58:49'

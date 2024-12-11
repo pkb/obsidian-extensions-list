@@ -6,7 +6,7 @@ author:
 categories: []
 description: Use network proxy throughout Obsidian according to the rules configured
   in this plugin.
-downloads: 6090
+downloads: 6191
 mobile: false
 number: 1331
 stars: 76

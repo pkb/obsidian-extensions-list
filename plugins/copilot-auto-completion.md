@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Adds a highly configurable copilot-like auto-completion to Obsidian using
   the ChatGPT API.
-downloads: 7916
+downloads: 7970
 mobile: false
 number: 1077
 stars: 131

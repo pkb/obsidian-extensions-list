@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Change the colors, fonts and features of Minimal Theme.
-downloads: 984877
+downloads: 990974
 mobile: true
 number: 22
-stars: 462
+stars: 465
 title: Minimal Theme Settings
 type: plugin
 updated: '2024-08-21T02:34:24'

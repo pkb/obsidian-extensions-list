@@ -5,10 +5,10 @@ author:
 - '[[ai-chen2050|Blake Chan]]'
 categories: []
 description: Download video from YouTube
-downloads: 706
+downloads: 719
 mobile: false
 number: 1813
-stars: 3
+stars: 4
 title: YouTube downloader
 type: plugin
 updated: '2024-08-11T14:19:27'
@@ -63,7 +63,7 @@ Or download the source code and compile it into main.js manifest.json and put it
 
 |    Memu Downloader    |    Commands Downloader   |
 |:-----------:|:-----------:|
-| ![Memu](https://raw.githubusercontent.com/ai-chen2050/obsidian-youtube-downloader/HEAD/public/memuYouDown.png) | ![Commands](./public/cammamYouD.png)  |
+| ![Memu](https://raw.githubusercontent.com/ai-chen2050/obsidian-youtube-downloader/HEAD/public/memuYouDown.png) | ![Commands](https://raw.githubusercontent.com/ai-chen2050/obsidian-youtube-downloader/HEAD/public/cammamYouD.png)  |
 
 ---
 

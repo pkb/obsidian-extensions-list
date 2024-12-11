@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Adds additional iconsets to Obsidian
-downloads: 2773
+downloads: 2788
 mobile: true
 number: 1358
 stars: 5

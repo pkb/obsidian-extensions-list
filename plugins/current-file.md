@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allows external applications to know what file the desktop app is currently
   viewing.
-downloads: 118
+downloads: 119
 mobile: false
 number: 1847
 stars: 2

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: "A minimal and aesthetically pleasing highlighting menu that makes color-coded
   highlighting much easier with a configurable assortment of highlight colors \U0001F3A8."
-downloads: 352241
+downloads: 355118
 mobile: true
 number: 361
 stars: 648

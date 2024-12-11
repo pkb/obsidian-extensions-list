@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: This is a mindmap，outline tool for obsidian.
-downloads: 315304
+downloads: 317638
 mobile: true
 number: 287
-stars: 800
+stars: 804
 title: Markmind
 type: plugin
 updated: '2024-11-29T17:29:45'
 url: https://github.com/MarkMindCkm/obsidian-markmind
-version: 3.0.8
+version: 3.0.9
 ---
 
 %% README_START %%

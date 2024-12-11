@@ -5,7 +5,7 @@ author:
 - '[[deathau|death_au]]'
 categories: []
 description: Edit CSV files in Obsidian
-downloads: 18672
+downloads: 18727
 mobile: true
 number: 107
 stars: 115

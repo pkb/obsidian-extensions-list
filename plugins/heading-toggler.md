@@ -5,7 +5,7 @@ author:
 - '[[Lord-Turmoil|Lord Turmoil]]'
 categories: []
 description: Easily toggle heading levels in Markdown documents with shortcuts.
-downloads: 218
+downloads: 223
 mobile: true
 number: 1811
 stars: 1

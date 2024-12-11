@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Process completed recurring Tasks
-downloads: 5124
+downloads: 5141
 mobile: true
 number: 529
 stars: 17

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import Newledge data.
-downloads: 156
+downloads: 167
 mobile: true
 number: 1924
 stars: 0

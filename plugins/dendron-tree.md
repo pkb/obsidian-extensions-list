@@ -5,7 +5,7 @@ author:
 - '[[levirs565|Levi Rizki Saputra]]'
 categories: []
 description: Add tree for exploring Dendron note.
-downloads: 4295
+downloads: 4310
 mobile: true
 number: 945
 stars: 33

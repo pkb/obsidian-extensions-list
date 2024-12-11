@@ -6,10 +6,10 @@ author:
 categories: []
 description: Typewriter scrolling, highlighting of the current line, dimming of unfocused
   paragraphs, writing focus and more.
-downloads: 31434
+downloads: 31947
 mobile: true
 number: 1140
-stars: 85
+stars: 87
 title: Typewriter Mode
 type: plugin
 updated: '2024-11-01T21:20:55'

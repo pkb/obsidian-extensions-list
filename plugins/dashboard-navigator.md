@@ -6,10 +6,10 @@ author:
 categories: []
 description: Vault dashboard and navigator. Show recent files by type, files per day,
   week, month, search files by name, date, tags and more.
-downloads: 14864
+downloads: 15430
 mobile: true
 number: 1819
-stars: 102
+stars: 105
 title: Dashboard navigator
 type: plugin
 updated: '2024-11-27T06:19:40'
@@ -37,7 +37,9 @@ version: 5.3.0
   - Total folders, 
   - Vault pie chart of notes and other file formats.
   
-- **Recent files by type**: Easily access your most frequently used files, categorized for quick reference. Save time searching and keep important notes readily available.
+- **Recent files by type**: Easily access your recently created or modified files, categorized for quick reference. Save time searching and keep important notes readily available.
+
+- **Recently opened files**: Quickly access your recently opened files. To see a file in the list, simply close its tab or open another file.
 
 ![Dashboard navigator for Obsidian - search](https://raw.githubusercontent.com/drbap/dashboard-navigator-for-obsidian/HEAD/images/dn_navigator_01.png)
 
@@ -108,7 +110,7 @@ You can combine search terms, file types (one per search) and date filters for m
 
 ### Quoted Search
 
-  - **Specific Quoted Search**: Search for specific sentences using double quotes or single quotes. For example, `"this is the description of a note"`.
+  - **Specific Quoted Search**: Search for specific sentences in frontmatter metadata or for specific filename using double or single quotes. For example, `"this is the description of a note"`.
 
 ### Additional Tips
 
@@ -223,7 +225,7 @@ The column-hiding feature gives you the flexibility to customize the **navigator
 You can hide the following columns:
 - **Ext**: Shows the file extension.
 - **Path**: Shows the location of the file within your vault structure.
-- **Size**: Displays the file size of the file.
+- **Size**: Displays the file size.
 - **Date**: Indicates the modification date of the file.
 - **Tags**: Lists the tags associated with the note, making it easier to categorize and search for notes.
 - **Frontmatter**: Lists the frontmatter/metadata associated with the note.
@@ -248,6 +250,10 @@ You can hide the following columns:
 - Select custom colors for files in the dashboard and navigator views. 
 - These colors will be reflected in the piechart graph, making it easier to identify and track different file types. To activate this feature, go to **plugin settings** and **toggle colored files**.
 
+## Colored Tags Support
+
+- If the theme being used supports colored tags or if you are using custom CSS snippet to color tags, the **tags** column and **file properties** window will show colored tags accordingly.
+
 ## Plugin Settings
 
 ![Dashboard navigator for Obsidian - settings](https://raw.githubusercontent.com/drbap/dashboard-navigator-for-obsidian/HEAD/images/dn_navigator_settings.png)
@@ -270,7 +276,13 @@ You can hide the following columns:
 
 ## Feedback
 
-Have suggestions for new features, usability improvements, or found a bug? Your feedback is appreciated! Submit an issue on GitHub and I'll do my best to respond as soon as possible. Thanks.
+Have suggestions for new features, usability improvements, or found a bug? Your feedback is appreciated! Submit an issue on GitHub and I'll do my best to respond as soon as possible.
+
+**Important Note:**
+
+Due to my busy schedule, I am currently not accepting pull requests. Please refer to contributing.md for future updates about it.
+
+Thanks.
 
 ## License and Acknowledgements
 
@@ -279,5 +291,23 @@ Dashboard navigator plugin for Obsidian
 MIT License ⓒ Bernardo Pires
 
 The Dashboard navigator icon (ribbon icon) and file icons are from [Lucide](https://lucide.dev/) Icons used by Obsidian. The Lucide icon library is licensed under the [ISC License](https://lucide.dev/license).
+
+### Thanks for the Suggestions and Feature Requests
+
+I'd like to express my sincere gratitude to everyone who has contributed suggestions and feature requests to improve this project. Your input is really valuable to me. Whether it's a new feature idea, a bug report, or a suggestion for improvement, I'll do my best to implement or fix it as soon as possible.
+
+* A special thanks to @merlinuwe for his ongoing support and constructive feedback since version 1.0.0. His suggestions and testing, including Issues #1, #5, #10, #11, and #12, have helped to improve the plugin's functionality and user experience. Some suggestions I hope to implement in future updates.
+
+* Thanks to @Minus10Celcius for suggesting the custom colors pie chart and the ability to hide columns in the navigator view (Issue #2).
+
+* Thanks to @oldjove for the idea of excluding folders from the dashboard view and adding different shortcuts for the dashboard and navigator views (Issues #3 and #4).
+
+* Thanks to @mudnug for suggesting the display of the .jpeg file extension in images (Issue #7).
+
+* Thanks to @nanjingman for the suggestion to add a file extensions column to the navigator view (Issue #9).
+
+I'm also grateful to everyone who took the time to star this repository. It really gives me extra motivation to keep improving this project. I hope you find this plugin useful in your daily tasks.
+
+
 
 %% README_END %%

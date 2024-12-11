@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your writing directly to Nostr.
-downloads: 3740
+downloads: 3755
 mobile: false
 number: 1090
-stars: 60
+stars: 62
 title: Nostr Writer
 type: plugin
 updated: '2024-04-18T12:56:53'

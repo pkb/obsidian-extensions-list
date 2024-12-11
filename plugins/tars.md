@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama,
   Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.
-downloads: 3039
+downloads: 3313
 mobile: false
 number: 1717
-stars: 48
+stars: 50
 title: Tars
 type: plugin
-updated: '2024-12-02T15:23:31'
+updated: '2024-12-05T15:22:39'
 url: https://github.com/TarsLab/obsidian-tars
-version: 0.6.4
+version: 0.7.0
 ---
 
 %% README_START %%
@@ -29,13 +29,15 @@ version: 0.6.4
 
 # 简介
 
-Tars 是一个 Obsidian 插件，基于标签建议进行文本生成，支持 Claude、OpenAI、Kimi、豆包、阿里千问、智谱、深度求索、百度千帆等。Tars 这个名字来源于电影《星际穿越》中的机器人 Tars。
+Tars 是一个 Obsidian 插件，基于标签建议进行文本生成，支持 Claude、OpenAI、Gemini、Ollama、Kimi、豆包、阿里千问、智谱、深度求索、百度千帆等。Tars 这个名字来源于电影《星际穿越》中的机器人 Tars。
 
 ## 特性
 
 - 通过标签触发，AI 助手生成文本
 
 ![通过标签触发文本生成](https://raw.githubusercontent.com/TarsLab/obsidian-tars/HEAD/docs/images/zh/用Kimi写故事.gif)
+
+> ⚠️ **注意**：前面不要加“#”。是输入“标签”触发，而不是输入“#标签”。如上图输入的是“kimi”，而不是“#kimi”。
 
 - 支持内部链接
 
@@ -45,16 +47,17 @@ Tars 是一个 Obsidian 插件，基于标签建议进行文本生成，支持 C
 
 ## AI 服务提供商
 
+- [Azure OpenAI](https://azure.microsoft.com)
 - [Claude](https://claude.ai)
-- [OpenAI](https://platform.openai.com/api-keys)
-- [Ollama](https://www.ollama.com)
-- [Kimi](https://www.moonshot.cn)
+- [DeepSeek 深度求索](https://www.deepseek.com)
 - [Doubao 豆包](https://www.volcengine.com/product/doubao)
+- [Gemini](https://gemini.google.com)
+- [Kimi](https://www.moonshot.cn)
+- [Ollama](https://www.ollama.com)
+- [OpenAI](https://platform.openai.com/api-keys)
 - [Qianfan 百度千帆](https://qianfan.cloud.baidu.com)
 - [Qwen 阿里千问](https://dashscope.console.aliyun.com)
 - [Zhipu 智谱](https://open.bigmodel.cn/)
-- [DeepSeek 深度求索](https://www.deepseek.com)
-- [Azure OpenAI](https://azure.microsoft.com)
 
 如果上面列表没有你想要的 AI 服务提供商，可以在 issue 中提出具体方案。
 

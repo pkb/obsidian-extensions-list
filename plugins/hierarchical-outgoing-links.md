@@ -5,7 +5,7 @@ author:
 - '[[jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays outgoing links in a hierarchy
-downloads: 1333
+downloads: 1350
 mobile: true
 number: 1586
 stars: 11

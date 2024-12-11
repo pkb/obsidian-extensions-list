@@ -5,7 +5,7 @@ author:
 - '[[seebin|Seebin]]'
 categories: []
 description: Upload images, videos, audio, pdf, and other files to Minio OSS.
-downloads: 2873
+downloads: 2896
 mobile: true
 number: 1278
 stars: 25

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 description: Unofficial integration of Antidote, a powerful English and French grammar
   checker
-downloads: 8722
+downloads: 8770
 mobile: false
 number: 778
 stars: 21

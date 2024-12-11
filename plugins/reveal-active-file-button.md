@@ -5,7 +5,7 @@ author:
 - '[[claremacrae|Clare Macrae]]'
 categories: []
 description: Add a button to the top of the File Explorer, to reveal the active file.
-downloads: 12370
+downloads: 12431
 mobile: true
 number: 358
 stars: 59

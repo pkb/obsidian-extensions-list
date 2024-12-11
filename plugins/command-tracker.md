@@ -5,7 +5,7 @@ author:
 - '[[namikaze-40p|namikaze-40p]]'
 categories: []
 description: Track the number of times the command is used.
-downloads: 215
+downloads: 222
 mobile: false
 number: 1929
 stars: 2

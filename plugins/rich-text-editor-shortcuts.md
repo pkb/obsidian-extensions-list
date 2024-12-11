@@ -6,10 +6,10 @@ author:
 categories: []
 description: Create and toggle checkboxes, paste links wrapping your current selection,
   and toggle underline without leaving the keyboard.
-downloads: 416
+downloads: 434
 mobile: true
 number: 1821
-stars: 2
+stars: 3
 title: Rich Text Editor Shortcuts
 type: plugin
 updated: '2024-08-27T12:13:48'

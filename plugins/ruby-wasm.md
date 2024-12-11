@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Run ruby code in your notes using WebAssembly
-downloads: 178
+downloads: 180
 mobile: true
 number: 1633
 stars: 7
@@ -26,13 +26,13 @@ This is a ruby.wasm plugin for Obsidian (https://obsidian.md).
 # How to use
 
 Select a code block
-![](./screenshot/step1.png "Select a code block")
+![](https://raw.githubusercontent.com/geeknees/obsidian-ruby-wasm-plugin/HEAD/screenshot/step1.png "Select a code block")
 
 Execute command
-![](./screenshot/step2.png "Execute command")
+![](https://raw.githubusercontent.com/geeknees/obsidian-ruby-wasm-plugin/HEAD/screenshot/step2.png "Execute command")
 
 Get Results
-![](./screenshot/step3.png "Get Results")
+![](https://raw.githubusercontent.com/geeknees/obsidian-ruby-wasm-plugin/HEAD/screenshot/step3.png "Get Results")
 
 ## API Documentation
 

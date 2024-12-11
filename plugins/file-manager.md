@@ -5,7 +5,7 @@ author:
 - '[[jfsicilia|Juan Sicilia]]'
 categories: []
 description: Adds missing features to the file explorer.
-downloads: 247
+downloads: 295
 mobile: false
 number: 2016
 stars: 11

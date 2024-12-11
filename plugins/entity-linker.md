@@ -5,7 +5,7 @@ author:
 - '[[Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Link research terms to standard entities
-downloads: 267
+downloads: 274
 mobile: true
 number: 1765
 stars: 6

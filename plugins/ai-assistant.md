@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI Assistant plugin for Obsidian
-downloads: 18080
+downloads: 18270
 mobile: true
 number: 884
-stars: 246
+stars: 251
 title: AI Assistant
 type: plugin
 updated: '2024-11-03T15:32:17'
@@ -44,7 +44,7 @@ You have two commands to interact with the text assistant:
 
 |        Chat Mode        |        Prompt Mode        |
 | :---------------------: | :-----------------------: |
-| ![](https://raw.githubusercontent.com/qgrail/obsidian-ai-assistant/HEAD/gifs/chat_mode.gif) | ![](gifs/prompt_mode.gif) |
+| ![](https://raw.githubusercontent.com/qgrail/obsidian-ai-assistant/HEAD/gifs/chat_mode.gif) | ![](https://raw.githubusercontent.com/qgrail/obsidian-ai-assistant/HEAD/gifs/prompt_mode.gif) |
 
 #### Chat mode
 

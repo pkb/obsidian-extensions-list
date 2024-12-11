@@ -7,7 +7,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily share individual notes online using an anonymized
   link. Also easy to self-host!
-downloads: 3602
+downloads: 3611
 mobile: true
 number: 1138
 stars: 16

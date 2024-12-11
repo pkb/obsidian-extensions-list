@@ -5,7 +5,7 @@ author:
 - '[[ytisf|ytisf]]'
 categories: []
 description: Enrich your notes with information from VirusTotal.
-downloads: 264
+downloads: 280
 mobile: false
 number: 1867
 stars: 4

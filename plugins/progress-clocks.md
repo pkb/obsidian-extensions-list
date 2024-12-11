@@ -5,7 +5,7 @@ author:
 - '[[tokenshift|Nathan Clark]]'
 categories: []
 description: Progress clocks and other useful widgets for real-time status tracking.
-downloads: 2027
+downloads: 2045
 mobile: true
 number: 1520
 stars: 2

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Export|Export]]'
 description: Export specific notes to general md for static site generator like Hugo,
   Hexo, Astro and more.
-downloads: 973
+downloads: 1012
 mobile: true
 number: 1590
 stars: 17
@@ -27,6 +27,8 @@ Integrate Obsidian into your blog writing process!
 Export notes with the `published: true` front matter into plain Markdown (and upload them), so that you can use them for static site generators!
 
 Meanwhile, wiki links`[[]]`  and many other Obsidian features can be used normally. This plugin does the work of converting `[[]]` style into `[]()` style automatically in exported markdown, leaving the links inside Obsidian untouched.
+
+[Simple guide on how to use this plugin with Hugo and Github Pages](https://github.com/yy4382/obsidian-static-site-export/wiki/Simple-Guide-with-Hugo)
 
 ## Features (How it Works?)
 
@@ -72,7 +74,7 @@ The latter option implies you need to upload them manually first, or find anothe
 
 Every link that obsidian thinks is a wiki link. Basically, any link that doesn't target to an URL is a wiki link.
 
-It may either in form of `[[Note]]`, `![[Embedded]]`, or `[title](not/a/url)`, `![alt](/not/a/url)`.
+It may either in form of `[[Note]]`, `![[Embedded]]`, or `[title](not/a/url)`, `![alt](https://raw.githubusercontent.com/yy4382/obsidian-static-site-export/HEAD//not/a/url)`.
 
 #### How will they be transformed?
 

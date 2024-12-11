@@ -5,7 +5,7 @@ author:
 - '[[kaffarell|kaffarell]]'
 categories: []
 description: Runs OCR on images and copies content in image caption.
-downloads: 5202
+downloads: 5222
 mobile: false
 number: 904
 stars: 18

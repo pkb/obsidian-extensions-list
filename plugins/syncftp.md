@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This plugin syncs files to an SFTP, with credentials in settings.
-downloads: 4364
+downloads: 4387
 mobile: false
 number: 1045
 stars: 23

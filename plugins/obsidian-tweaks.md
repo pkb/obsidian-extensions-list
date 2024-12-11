@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds some convenient tweaks including improved toggling and ergonomic
   commands
-downloads: 5393
+downloads: 5400
 mobile: true
 number: 396
 stars: 50

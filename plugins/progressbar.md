@@ -5,7 +5,7 @@ author:
 - '[[zwpaper|Wei Zhang]]'
 categories: []
 description: Render CodeBlock into a ProgressBar based on Time or Manually.
-downloads: 9603
+downloads: 9667
 mobile: true
 number: 798
 stars: 43

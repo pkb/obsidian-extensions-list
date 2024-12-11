@@ -6,7 +6,7 @@ author:
 categories: []
 description: Ribbon button, command and file explorer context menu to open the vault
   as a Visual Studio Code (VSCode) workspace
-downloads: 26402
+downloads: 26605
 mobile: false
 number: 225
 stars: 99

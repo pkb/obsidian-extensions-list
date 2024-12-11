@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Multi-purpose time trackers for your notes!
-downloads: 23293
+downloads: 23419
 mobile: true
 number: 607
 stars: 145

@@ -5,7 +5,7 @@ author:
 - '[[cycsd|cycsd]]'
 categories: []
 description: Help you quickly extract your thoughts in the Canvas and Excalidraw
-downloads: 4957
+downloads: 5046
 mobile: true
 number: 1442
 stars: 30

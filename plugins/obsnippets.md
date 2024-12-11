@@ -5,7 +5,7 @@ author:
 - '[[Chrstn67|Christian Humbert]]'
 categories: []
 description: Create and managing text and code snippets.
-downloads: 82
+downloads: 116
 mobile: true
 number: 2034
 stars: 0
@@ -48,15 +48,29 @@ Snippetsaurus is a plugin for Obsidian that allows you to create, manage, and in
 
 ### Demonstration
 
-- Create a snippet : ![Create a new text snippet](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/create-snippet.png)
-- Create a code snippet : ![Create a new code snippet](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/create-code-snippet.png)
-- Insert the snippet : ![Insert snippet](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/insert.png)
-- Manage snippets : ![Manage snippet](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/manage-snippets.png)
-- Edit snippets : ![Edit snippet](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/edit-snippet.png)
+##### Create a snippet :
 
-<video controls width="320" height="240">
+![Create a new text snippet](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/create-snippet.png)
+
+##### Create a code snippet :
+
+![Create a new code snippet](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/create-code-snippet.png)
+
+##### Insert the snippet :
+
+![Insert snippet](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/insert.png)
+
+##### Manage snippets :
+
+![Manage snippet](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/manage-snippets.png)
+
+##### Edit snippets :
+
+![Edit snippet](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/edit-snippet.png)
+
+<!-- <video controls width="320" height="240">
     <source src="./demo.mp4" type="video/mp4">
-</video>
+</video> -->
 
 ## Français
 
@@ -86,15 +100,29 @@ Snippetsaurus est un plugin pour Obsidian qui vous permet de créer, gérer et i
 
 ### Démonstration
 
-- Créer un snippet : ![Créer un nouveau snippet de texte](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/create-snippet.png)
-- Créer un code snippet : ![Créer un nouveau snippet de code](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/create-code-snippet.png)
-- Insérer le snippet dans la note : ![Insérer le snippet dans la note](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/insert.png)
-- Gérer les snippets : ![Gérer les snippets](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/manage-snippets.png)
-- Modifier les snippets : ![Modifie les snippet](https://raw.githubusercontent.com/Chrstn67/obsidian-plugin-obsnippets/HEAD/images/edit-snippet.png)
+##### Créer un snippet :
 
-<video controls width="320" height="240">
-    <source src="./demo.mp4" type="video/mp4">
-</video>
+![Créer un nouveau snippet de texte](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/create-snippet.png)
+
+##### Créer un code snippet :
+
+![Créer un nouveau snippet de code](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/create-code-snippet.png)
+
+##### Insérer le snippet dans la note :
+
+![Insérer le snippet dans la note](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/insert.png)
+
+##### Gérer les snippets :
+
+![Gérer les snippets](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/manage-snippets.png)
+
+##### Modifier les snippets :
+
+![Modifie les snippet](https://github.com/Chrstn67/Snippetsaurus/raw/main/images/edit-snippet.png)
+
+<!-- <video controls width="320" height="240">
+    <source src="https://github.com/Chrstn67/Snippetsaurus/raw/main/demo.mp4" type="video/mp4">
+</video> -->
 
 
 %% README_END %%

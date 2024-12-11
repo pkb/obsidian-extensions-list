@@ -6,7 +6,7 @@ author:
 categories: []
 description: Extended Right to Left (RTL) support for languages like Arabic, Hebrew
   and Persian (Farsi).
-downloads: 37240
+downloads: 37363
 mobile: true
 number: 30
 stars: 138

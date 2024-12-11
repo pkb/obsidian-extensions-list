@@ -5,7 +5,7 @@ author:
 - '[[vrtmrz|vorotamoroz]]'
 categories: []
 description: The plugin which enhance cursor visibility.
-downloads: 10800
+downloads: 10868
 mobile: true
 number: 567
 stars: 50

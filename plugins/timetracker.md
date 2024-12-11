@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Adds a stopwatch whose value can be inserted in the editor per hotkey.
-downloads: 4701
+downloads: 4740
 mobile: true
 number: 1174
 stars: 6

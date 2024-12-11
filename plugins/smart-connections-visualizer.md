@@ -5,7 +5,7 @@ author:
 - '[[mossy1022|Evan Moscoso]]'
 categories: []
 description: View your Smart Connections in a visualized format.
-downloads: 8301
+downloads: 8510
 mobile: false
 number: 1707
 stars: 64

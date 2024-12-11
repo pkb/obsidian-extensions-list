@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration between Obsidian and Anki.
-downloads: 3694
+downloads: 3711
 mobile: false
 number: 1181
 stars: 10

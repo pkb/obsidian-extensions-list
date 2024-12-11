@@ -5,7 +5,7 @@ author:
 - '[[Robin-Haupt-1|Robin Haupt]]'
 categories: []
 description: Automatically generate a Map of Content for your vault
-downloads: 35979
+downloads: 36075
 mobile: true
 number: 309
 stars: 173

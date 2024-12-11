@@ -6,7 +6,7 @@ author:
 categories: []
 description: Obsidian Plugin for blazingly fast file switching. For those who find
   the Quick Switcher still too slow.
-downloads: 7870
+downloads: 7886
 mobile: true
 number: 785
 stars: 47

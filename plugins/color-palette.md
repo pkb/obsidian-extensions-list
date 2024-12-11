@@ -5,7 +5,7 @@ author:
 - '[[ALegendsTale|ALegendsTale]]'
 categories: []
 description: Create and insert color palettes into your notes.
-downloads: 15115
+downloads: 15258
 mobile: true
 number: 1036
 stars: 47

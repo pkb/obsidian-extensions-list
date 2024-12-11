@@ -5,10 +5,10 @@ author:
 - '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: List files by most recently opened
-downloads: 618545
+downloads: 631693
 mobile: true
 number: 7
-stars: 362
+stars: 366
 title: Recent Files
 type: plugin
 updated: '2024-12-03T22:54:01'
@@ -21,7 +21,7 @@ version: 1.7.3
 # Recent Files for Obsidian
 
 This plugin displays a list of most recently opened files in the sidebar.
-Optionally include paths of files which should be excluded from the list.
+Optionally, exclude certain paths, frontmatter tags, or bookmarked files. 
 
 That's all there is to it!
 

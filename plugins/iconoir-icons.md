@@ -5,7 +5,7 @@ author:
 - '[[gapmiss|@gapmiss]]'
 categories: []
 description: Create & display customized SVG Iconoir icons.
-downloads: 4210
+downloads: 4217
 mobile: true
 number: 963
 stars: 16

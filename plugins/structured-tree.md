@@ -6,10 +6,10 @@ author:
 categories: []
 description: A file explorer similar to Dendron for navigating hierarchical notes
   separated by '.'
-downloads: 1144
+downloads: 1174
 mobile: true
 number: 1846
-stars: 14
+stars: 13
 title: Structured Tree
 type: plugin
 updated: '2024-11-23T22:28:48'

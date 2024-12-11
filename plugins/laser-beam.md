@@ -5,7 +5,7 @@ author:
 - '[[drbap|Bernardo Pires]]'
 categories: []
 description: Improve your reading experience with customizable laser lines.
-downloads: 567
+downloads: 570
 mobile: true
 number: 1673
 stars: 10

@@ -5,7 +5,7 @@ author:
 - '[[akopdev|Akop Kesheshyan]]'
 categories: []
 description: Create a literature notes from a BibTeX entries.
-downloads: 1053
+downloads: 1081
 mobile: true
 number: 1650
 stars: 59

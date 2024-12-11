@@ -5,10 +5,10 @@ author:
 - '[[aidenlx|AidenLx]]'
 categories: []
 description: Provide core features and API for folder notes
-downloads: 39037
+downloads: 39128
 mobile: true
 number: 282
-stars: 60
+stars: 62
 title: Folder Note Core
 type: plugin
 updated: '2022-04-24T10:59:24'

@@ -8,10 +8,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Integrate Opengist and Github gists into your notes, allowing you to
   create, update, and share between your notes and gist services
-downloads: 1425
+downloads: 1433
 mobile: true
 number: 1505
-stars: 17
+stars: 18
 title: Gistr
 type: plugin
 updated: '2024-07-15T06:14:15'

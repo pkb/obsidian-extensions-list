@@ -5,7 +5,7 @@ author:
 - '[[Meikul|Michael Harris]]'
 categories: []
 description: Insert video thumbnails into your notes
-downloads: 13777
+downloads: 13856
 mobile: true
 number: 550
 stars: 51

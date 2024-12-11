@@ -5,7 +5,7 @@ author:
 - '[[alythobani|Aly Thobani]]'
 categories: []
 description: Quickly add, change, or remove callouts in your notes.
-downloads: 669
+downloads: 780
 mobile: true
 number: 1964
 stars: 9
@@ -22,7 +22,7 @@ version: 1.1.0
 
 An [Obsidian plugin](https://obsidian.md/plugins?id=callout-toggles) to quickly add, change, or remove callouts in your notes.
 
-![Switching between callout types demonstration](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/6-demo-switching.gif)
+![Switching between callout types demonstration](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/main-demo-switching.gif)
 
 ## Table of contents
 
@@ -37,7 +37,10 @@ An [Obsidian plugin](https://obsidian.md/plugins?id=callout-toggles) to quickly 
    4. [Removing a callout](#removing-a-callout)
    5. [Retaining custom titles](#retaining-custom-titles)
 4. [Available settings](#available-settings)
-   1. [Select text after inserting callout (default: off)](#select-text-after-inserting-callout-default-off)
+   1. [Explicit callout titles (default: on)](#explicit-callout-titles-default-on)
+   2. [Callout ID capitalization (default: lowercase)](#callout-id-capitalization-default-lowercase)
+   3. [Foldable callouts (default: unfoldable)](#foldable-callouts-default-unfoldable)
+   4. [Select text after inserting callout (default: off)](#select-text-after-inserting-callout-default-off)
 5. [Callout Manager integration (custom callouts)](#callout-manager-integration-custom-callouts)
 6. [Related plugins](#related-plugins)
 7. [Feedback](#feedback)
@@ -67,25 +70,25 @@ This will remove the callout syntax from the selected lines, turning the callout
 
 To insert a fresh callout of your choice, simply run `Wrap lines in X callout` on a blank line:
 
-![Inserting a fresh callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/0-insert-fresh.gif)
+![Inserting a fresh callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/usage_examples/0-insert-fresh.gif)
 
 ### Wrapping the current line
 
 If the current line is not blank and nothing is selected, the current line will be turned into a callout:
 
-![Wrapping the current line in a callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/1-current-line.gif)
+![Wrapping the current line in a callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/usage_examples/1-current-line.gif)
 
 ### Wrapping multiple lines
 
 To turn multiple lines of text into a callout, first select the lines, and then  run `Wrap lines in X callout`:
 
-![Wrapping multiple lines in a callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/2-multi-line.gif)
+![Wrapping multiple lines in a callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/usage_examples/2-multi-line.gif)
 
 ### Removing a callout
 
 To turn a callout back into regular text, run `Remove callout from selected lines` with the given lines selected (make sure the callout header is on the first selected line):
 
-![Unwrapping a callout block](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/3-remove-callout.gif)
+![Unwrapping a callout block](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/usage_examples/3-remove-callout.gif)
 
 ### Retaining custom titles
 
@@ -93,22 +96,43 @@ If a callout has a default title (e.g. `> [!quote] Quote`), the entire header li
 
 If you call `Wrap lines in X callout` on a selection whose first line is a Markdown heading, the heading will be used as the custom title for the new callout block:
 
-![Retaining custom titles](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/4-custom-title.gif)
+![Retaining custom titles](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/usage_examples/4a-custom-title.gif)
 
 This makes it easy to switch between callout types while retaining your custom titles:
 
-![Retaining custom titles while switching between callout types](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/6-demo-switching-aristotle.gif)
+![Retaining custom titles while switching between callout types](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/usage_examples/4b-custom-title-fast.gif)
 
 ## Available settings
+
+### Explicit callout titles (default: on)
+
+Whether inserted callouts should have an explicit (e.g., `> [!quote] Quote`) or implicit (e.g., `> [!quote]`) title by default.
+
+### Callout ID capitalization (default: lowercase)
+
+The default capitalization format used for inserted callout IDs:
+
+- Lowercase: E.g. `> [!my-custom-callout]`
+- Uppercase: E.g. `> [!MY-CUSTOM-CALLOUT]`
+- Sentence case: E.g. `> [!My-custom-callout]`
+- Title case: E.g. `> [!My-Custom-Callout]`
+
+### Foldable callouts (default: unfoldable)
+
+Whether inserted callouts should be unfoldable, expanded, or collapsed by default.
+
+![Foldable callouts](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/settings/foldable-callouts.gif)
 
 ### Select text after inserting callout (default: off)
 
 > [!NOTE]
-> This setting only affects what `Wrap lines in X callout` does *when no text is initially selected*.
+> This setting only affects what `Wrap lines in X callout` does *when no text is selected*. When text is already selected, the new callout's header is auto-selected for convenience, regardless of this setting.
 
-When enabled, callout text will be automatically selected after insertion, even if no text was initially selected (i.e. when inserting a fresh callout or wrapping the current line). Keep this setting disabled if you'd prefer to be able to immediately start typing content after inserting/wrapping. Enable this setting if you'd prefer to be able to immediately run `Remove callout from selected lines` instead (useful for switching between callout types):
+Whether to auto-select text up until the cursor, after inserting a callout with no text selected—e.g. when inserting a fresh callout, or wrapping the current line.
 
-![Select text after inserting callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_assets/5-setting-select-text-after-inserting-callout.gif)
+Keep this setting disabled if you'd prefer to keep typing content after inserting/wrapping. Enable this setting if you'd prefer to be able to immediately run `Remove callout from selected lines` instead (useful for switching between callout types):
+
+![Select text after inserting callout](https://raw.githubusercontent.com/alythobani/obsidian-callout-toggles/HEAD/readme_gifs/settings/select-text-after-inserting-callout.gif)
 
 ## Callout Manager integration (custom callouts)
 

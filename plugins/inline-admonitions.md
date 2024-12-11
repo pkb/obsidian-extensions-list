@@ -5,7 +5,7 @@ author:
 - '[[scottTomaszewski|Scott Tomaszewski (Xentis)]]'
 categories: []
 description: Inline callouts to make text pop.
-downloads: 3531
+downloads: 3586
 mobile: false
 number: 1460
 stars: 20

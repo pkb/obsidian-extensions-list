@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: This plugin ensures the consistency of attachments and links
-downloads: 41657
+downloads: 42423
 mobile: true
 number: 127
-stars: 242
+stars: 247
 title: Consistent Attachments and Links
 type: plugin
-updated: '2024-11-26T08:16:00'
+updated: '2024-12-11T05:21:50'
 url: https://github.com/dy-sh/obsidian-consistent-attachments-and-links
-version: 3.21.11
+version: 3.21.14
 ---
 
 %% README_START %%
@@ -133,13 +133,13 @@ Example: `[[readme]]` will turn into `[readme](readme.md)`
 
 Searches for all wiki embeds in notes and converts them into regular markdown embeds.
 
-Example: `![[readme]]` will turn into `![readme](readme.md)`
+Example: `![[readme]]` will turn into `![readme](https://raw.githubusercontent.com/dy-sh/obsidian-consistent-attachments-and-links/HEAD/readme.md)`
 
 ### Convert All Embed Paths to Relative
 
 Searches for all embeds in notes and converts their paths to relative format.
 
-Example: `![](https://raw.githubusercontent.com/dy-sh/obsidian-consistent-attachments-and-links/HEAD/title.png)` will turn into `![](../attachments/title.png)`
+Example: `![](https://raw.githubusercontent.com/dy-sh/obsidian-consistent-attachments-and-links/HEAD/title.png)` will turn into `![](https://raw.githubusercontent.com/dy-sh/obsidian-consistent-attachments-and-links/HEAD/../attachments/title.png)`
 
 This is one of the most important steps on the road to consistency, ensuring that all embed links now point to the correct files accurately.
 

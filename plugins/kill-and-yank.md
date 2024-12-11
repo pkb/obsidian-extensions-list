@@ -5,7 +5,7 @@ author:
 - '[[inouetakuya|INOUE Takuya]]'
 categories: []
 description: Enable kill and yank (like Emacs) in the editor
-downloads: 3667
+downloads: 3671
 mobile: false
 number: 783
 stars: 13

@@ -5,7 +5,7 @@ author:
 - '[[nickrallison|Nick Allison]]'
 categories: []
 description: Link your notes together
-downloads: 561
+downloads: 567
 mobile: true
 number: 1807
 stars: 4

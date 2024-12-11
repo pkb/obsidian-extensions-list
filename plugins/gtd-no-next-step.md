@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a badge to Getting Things Done (GTD) "project" files with no defined
   next step.
-downloads: 3923
+downloads: 3935
 mobile: true
 number: 1055
 stars: 12

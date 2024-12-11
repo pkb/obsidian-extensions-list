@@ -5,7 +5,7 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Enables context menu for vault root folder
-downloads: 1907
+downloads: 1939
 mobile: true
 number: 1386
 stars: 2

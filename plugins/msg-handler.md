@@ -5,7 +5,7 @@ author:
 - '[[ozntel|Ozan Tellioglu]]'
 categories: []
 description: Easily display and search MSG files from Outlook in your Obsidian Vault
-downloads: 6216
+downloads: 6253
 mobile: true
 number: 811
 stars: 16

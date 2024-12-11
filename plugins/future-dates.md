@@ -5,7 +5,7 @@ author:
 - '[[slonoed|Dmitry Manannikov]]'
 categories: []
 description: Show list of future dates in vault
-downloads: 188
+downloads: 194
 mobile: false
 number: 1647
 stars: 1
@@ -20,7 +20,7 @@ version: 1.3.4
 
 # Obsidian future dates plugin
 
-![Future dates plugin screenshot that demonstrates how it works](./extra/screenshot.png "Future dates plugin screenshot")
+![Future dates plugin screenshot that demonstrates how it works](https://raw.githubusercontent.com/slonoed/obsidian-future-dates/HEAD/extra/screenshot.png "Future dates plugin screenshot")
 
 Plugin creates a new view in the right panel that collects all links with future dates.
 It is hepful to track all future tasks in one place.

@@ -5,7 +5,7 @@ author:
 - '[[khaelar|khaelar]]'
 categories: []
 description: Optimize canvas links by displaying a page thumbnail.
-downloads: 2674
+downloads: 2711
 mobile: false
 number: 1459
 stars: 16

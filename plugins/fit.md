@@ -7,7 +7,7 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Minimalist File gIT (FIT) to sync your files across mobile and desktop
   devices using GitHub.
-downloads: 12584
+downloads: 13015
 mobile: true
 number: 1518
 stars: 66

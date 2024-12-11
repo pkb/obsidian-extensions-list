@@ -8,7 +8,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Insert and write footnotes faster
-downloads: 110357
+downloads: 110893
 mobile: true
 number: 116
 stars: 130

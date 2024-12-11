@@ -5,7 +5,7 @@ author:
 - '[[tejas-hosamani|Tejas H]]'
 categories: []
 description: Covert text to natural voice audio, locally - Listen Up!
-downloads: 533
+downloads: 556
 mobile: false
 number: 1854
 stars: 9

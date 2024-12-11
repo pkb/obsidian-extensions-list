@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Paint text different colors
-downloads: 6297
+downloads: 6441
 mobile: true
 number: 1611
 stars: 35

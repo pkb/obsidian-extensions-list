@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Show daily coding activity from WakaTime
-downloads: 3543
+downloads: 3554
 mobile: true
 number: 1070
 stars: 9
@@ -21,8 +21,8 @@ version: 1.0.8
 
 # Obsidian WakaTime Box
 
-![](./docs/screenshot.webp)
-![](./docs/screenshot_2.webp)
+![](https://raw.githubusercontent.com/simonla/obsidian_waka_box/HEAD/docs/screenshot.webp)
+![](https://raw.githubusercontent.com/simonla/obsidian_waka_box/HEAD/docs/screenshot_2.webp)
 
 Show your [WakaTime](https://wakatime.com/) stats in your Obsidian daily notes.
 

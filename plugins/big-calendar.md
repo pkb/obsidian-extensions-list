@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: A Big Calendar for Obsidian
-downloads: 36078
+downloads: 36241
 mobile: true
 number: 431
 stars: 117

@@ -5,7 +5,7 @@ author:
 - '[[authors/nmady|nmady]]'
 categories: []
 description: Apply formatting to selected text, dealing with the paragraph breaks.
-downloads: 7128
+downloads: 7152
 mobile: true
 number: 241
 stars: 19

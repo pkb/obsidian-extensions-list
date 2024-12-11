@@ -8,10 +8,10 @@ categories:
 description: An obsidian plugin that allows code blocks executed interactively in
   sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript
   etc.
-downloads: 29197
+downloads: 29953
 mobile: true
 number: 764
-stars: 280
+stars: 283
 title: Code Emitter
 type: plugin
 updated: '2024-12-02T10:44:54'

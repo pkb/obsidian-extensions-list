@@ -6,7 +6,7 @@ author:
 categories: []
 description: Custom Classes is a minimalist plugin that allows you to add custom HTML
   classes to markdown blocks
-downloads: 6256
+downloads: 6279
 mobile: true
 number: 790
 stars: 80
@@ -525,7 +525,7 @@ I'm the paragraph and you ?
 <br>
 
 ## Inspiration
-This plugin is originally inspired by the [Obsidian Stylist](plugins/obsidian-stylist) plugin but has been entirely rewritten to :
+This plugin is originally inspired by the [Obsidian Stylist](https://github.com/ixth/obsidian-stylist) plugin but has been entirely rewritten to :
 - focus exclusively on adding custom HTML classes,
 - support the Live Preview mode,
 - fix some majors bugs (e.g. classes were not properly appended if the targetted block was modified and then re-rendered).

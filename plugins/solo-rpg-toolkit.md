@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Random generator tools geared towards solo TTRPG gameplay
-downloads: 6557
+downloads: 6702
 mobile: true
 number: 1662
-stars: 22
+stars: 23
 title: Solo RPG Toolkit
 type: plugin
 updated: '2024-08-18T17:01:06'

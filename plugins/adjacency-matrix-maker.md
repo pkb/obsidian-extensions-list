@@ -5,7 +5,7 @@ author:
 - '[[SkepticMystic|SkepticMystic]]'
 categories: []
 description: Create an interactive image of an adjacency matrix of your vault
-downloads: 5694
+downloads: 5703
 mobile: true
 number: 203
 stars: 40

@@ -5,10 +5,10 @@ author:
 - '[[fzdwx|fzdwx]]'
 categories: []
 description: Hugo preview in obsidian
-downloads: 4291
+downloads: 4306
 mobile: false
 number: 743
-stars: 35
+stars: 36
 title: Hugo preview
 type: plugin
 updated: '2024-09-02T20:42:04'

@@ -5,7 +5,7 @@ author:
 - '[[nothingislost|NothingIsLost and Johnny ✨]]'
 categories: []
 description: Quickly switch and manage workspaces
-downloads: 59310
+downloads: 59487
 mobile: false
 number: 294
 stars: 199

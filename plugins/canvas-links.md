@@ -5,7 +5,7 @@ author:
 - '[[aqav|aqav]]'
 categories: []
 description: Show the links between "Canvas" and "File".
-downloads: 8367
+downloads: 8472
 mobile: true
 number: 951
 stars: 46

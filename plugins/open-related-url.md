@@ -5,7 +5,7 @@ author:
 - '[[dpickett|Dan Pickett]]'
 categories: []
 description: Opens URLs found in a note's YAML frontmatter
-downloads: 3987
+downloads: 3991
 mobile: true
 number: 575
 stars: 20

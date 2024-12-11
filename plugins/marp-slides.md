@@ -5,7 +5,7 @@ author:
 - '[[samuele-cozzi|Samuele Cozzi]]'
 categories: []
 description: Create markdown-based Marp presentations in Obsidian
-downloads: 18108
+downloads: 18272
 mobile: true
 number: 879
 stars: 89

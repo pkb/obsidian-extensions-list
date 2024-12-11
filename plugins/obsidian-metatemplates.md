@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Generate notes from templates using YAML front-matter
-downloads: 6226
+downloads: 6234
 mobile: true
 number: 71
 stars: 114

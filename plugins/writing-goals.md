@@ -5,10 +5,10 @@ author:
 - '[[authors/lynchjames|lynchjames]]'
 categories: []
 description: Set dynamic writing goals for notes and folders in Obsidian.
-downloads: 13720
+downloads: 13906
 mobile: true
 number: 1169
-stars: 74
+stars: 75
 title: Writing Goals
 type: plugin
 updated: '2024-08-15T05:56:09'
@@ -74,7 +74,7 @@ You can exclude a note from contributing to word counts towards parent folders a
 
 Set a frontmatter property in one of two formats:
 
-![](https://raw.githubusercontent.com/lynchjames/obsidian-writing-goals/HEAD/images/wordcount-frontmatter-bool.png) ![](./images/wordcount-frontmatter-string.png)
+![](https://raw.githubusercontent.com/lynchjames/obsidian-writing-goals/HEAD/images/wordcount-frontmatter-bool.png) ![](https://raw.githubusercontent.com/lynchjames/obsidian-writing-goals/HEAD/images/wordcount-frontmatter-string.png)
 
 ## Sprint goals
 Using file explorer and command pallette commands, you can also set a sprint goal for a note with a target word goal within a specific time limit. You can start, pause, edit and reset the sprint goal.

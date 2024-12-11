@@ -6,7 +6,7 @@ author:
 categories: []
 description: Run Obsidian from the system tray for customisable window management
   & global quick notes
-downloads: 15702
+downloads: 15877
 mobile: false
 number: 886
 stars: 224

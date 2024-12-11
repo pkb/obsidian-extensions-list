@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw nomnoml diagrams in Obsidian notes
-downloads: 9025
+downloads: 9048
 mobile: true
 number: 308
 stars: 56

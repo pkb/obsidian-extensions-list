@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Saving your current note as Gist on github
-downloads: 4081
+downloads: 4084
 mobile: true
 number: 418
 stars: 24

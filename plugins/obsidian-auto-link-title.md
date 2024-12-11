@@ -5,15 +5,15 @@ author:
 - '[[zolrath|Matt Furden]]'
 categories: []
 description: This plugin automatically fetches the titles of links from the web
-downloads: 215127
+downloads: 221907
 mobile: true
 number: 157
-stars: 482
+stars: 487
 title: Auto Link Title
 type: plugin
-updated: '2024-04-17T06:49:06'
+updated: '2024-12-05T03:35:35'
 url: https://github.com/zolrath/obsidian-auto-link-title
-version: 1.5.4
+version: 1.5.5
 ---
 
 %% README_START %%

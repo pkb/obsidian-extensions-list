@@ -7,10 +7,10 @@ categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Create a table of contents in a note, that updates itself when the note
   changes
-downloads: 42209
+downloads: 43425
 mobile: true
 number: 1135
-stars: 148
+stars: 150
 title: Automatic Table Of Contents
 type: plugin
 updated: '2024-11-24T20:25:55'
@@ -113,6 +113,7 @@ This project uses [semver](http://semver.org/).
 
 | Version | Date | Notes |
 | --- | --- | --- |
+| `1.5.0` | 2024-11-24 | Add `hideWhenEmpty` option (fix #51) |
 | `1.4.0` | 2024-05-19 | Add `nestedOrderedList` style ([@bjtho08](https://github.com/bjtho08)) (fix #41) |
 | `1.3.3` | 2024-05-16 | Compute the right min level when `style:inlineFirstLevel` (fix #39) |
 | `1.3.2` | 2024-02-18 | Harden headings stripping |

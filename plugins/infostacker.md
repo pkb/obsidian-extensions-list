@@ -9,7 +9,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Easily share your notes, images and attachments publicly using private
   links
-downloads: 261
+downloads: 264
 mobile: true
 number: 1699
 stars: 2

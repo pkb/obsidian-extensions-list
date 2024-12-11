@@ -5,7 +5,7 @@ author:
 - '[[Vinzent03|Vinzent03]]'
 categories: []
 description: Add hotkeys to insert specific templates
-downloads: 24588
+downloads: 24664
 mobile: true
 number: 141
 stars: 113

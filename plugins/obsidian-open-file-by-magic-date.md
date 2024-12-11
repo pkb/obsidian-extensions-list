@@ -7,7 +7,7 @@ categories: []
 description: 'Define a Moment.js date pattern that specifies the file that is most
   important to you (eg: your daily/weekly/monthly note). Will create the file if it
   doesn''t exist.'
-downloads: 3965
+downloads: 3971
 mobile: true
 number: 582
 stars: 10

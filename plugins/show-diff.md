@@ -5,10 +5,10 @@ author:
 - '[[ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Render Git diffs in Obsidian files
-downloads: 3704
+downloads: 3712
 mobile: false
 number: 918
-stars: 16
+stars: 18
 title: Show Diff
 type: plugin
 updated: '2023-04-24T14:39:13'

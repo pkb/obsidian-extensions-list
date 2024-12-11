@@ -6,7 +6,7 @@ author:
 categories: []
 description: Transforms code blocks with Standard Form logical syntax into clean,
   styled renderings. Perfect for philosophy, logic, and argument reconstructions.
-downloads: 33
+downloads: 44
 mobile: true
 number: 2017
 stars: 2

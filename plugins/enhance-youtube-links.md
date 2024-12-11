@@ -5,7 +5,7 @@ author:
 - '[[Git-Sum|Git-Sum]]'
 categories: []
 description: Get metadata from a YouTube video
-downloads: 4362
+downloads: 4384
 mobile: true
 number: 1245
 stars: 12

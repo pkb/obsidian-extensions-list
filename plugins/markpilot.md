@@ -5,7 +5,7 @@ author:
 - '[[taichimaeda|Taichi Maeda]]'
 categories: []
 description: Inline completions and chat view powered by OpenAI
-downloads: 866
+downloads: 875
 mobile: false
 number: 1585
 stars: 10

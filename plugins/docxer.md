@@ -7,7 +7,7 @@ categories:
 - '[[categories/Import|Import]]'
 description: Import Word files easily. Adds a preview mode for .docx files and the
   ability to convert them to markdown (.md) files.
-downloads: 10885
+downloads: 11343
 mobile: true
 number: 1690
 stars: 54

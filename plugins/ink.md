@@ -9,13 +9,13 @@ description: Hand write or draw directly between paragraphs in your notes using 
   digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles,
   or even math equations and scientific notation. Runs on the tldraw framework and
   drawing provides an infinite canvas.
-downloads: 38499
+downloads: 39873
 mobile: true
 number: 1592
-stars: 502
+stars: 513
 title: Ink
 type: plugin
-updated: '2024-09-11T18:43:10'
+updated: '2024-12-04T18:41:59'
 url: https://github.com/daledesilva/obsidian_ink
 version: 0.2.6
 ---

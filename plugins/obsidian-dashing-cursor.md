@@ -5,7 +5,7 @@ author:
 - '[[9r0x|Shukai Ni]]'
 categories: []
 description: Enables dashing cursor that follows the page scroll
-downloads: 4429
+downloads: 4432
 mobile: true
 number: 587
 stars: 13

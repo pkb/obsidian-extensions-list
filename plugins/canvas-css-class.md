@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Canvas]]'
 description: Add a CSS class to the canvas, but also other attributes.
-downloads: 18719
+downloads: 18807
 mobile: true
 number: 753
 stars: 38

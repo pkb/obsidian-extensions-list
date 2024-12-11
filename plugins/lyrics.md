@@ -5,7 +5,7 @@ author:
 - '[[eatgrass|eatgrass]]'
 categories: []
 description: Enhance the audio player with interacive lyrics
-downloads: 2641
+downloads: 2658
 mobile: true
 number: 1309
 stars: 23

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Registers custom css snippets as commands (which you can bind hotkeys
   to)
-downloads: 6042
+downloads: 6056
 mobile: true
 number: 313
 stars: 29

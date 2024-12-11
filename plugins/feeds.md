@@ -7,7 +7,7 @@ author:
 - '[[lukemt|madx]]'
 categories: []
 description: Create feeds of topic-specific bullet points in Obsidian.
-downloads: 2462
+downloads: 2476
 mobile: true
 number: 1287
 stars: 24

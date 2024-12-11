@@ -5,7 +5,7 @@ author:
 - '[[reorx|Reorx]]'
 categories: []
 description: Easily open daily/periodic notes in new pane, and much more!
-downloads: 7087
+downloads: 7106
 mobile: true
 number: 442
 stars: 25

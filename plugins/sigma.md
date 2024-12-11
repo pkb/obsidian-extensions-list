@@ -5,7 +5,7 @@ author:
 - '[[monesga|monesga]]'
 categories: []
 description: A plugin to enable using obsidian notes as calculation sheets.
-downloads: 4339
+downloads: 4347
 mobile: true
 number: 679
 stars: 24

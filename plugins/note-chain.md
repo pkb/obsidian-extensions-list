@@ -6,15 +6,15 @@ author:
 categories: []
 description: Thoughts as river, notes as chain. Add prev and next notes to a notes,
   and order files by the chain in File Explorer.
-downloads: 1146
+downloads: 1237
 mobile: true
 number: 1640
 stars: 12
 title: Note Chain
 type: plugin
-updated: '2024-12-03T18:48:15'
+updated: '2024-12-10T17:27:40'
 url: https://github.com/zigholding/obsidian-notechain-plugin
-version: 1.1.8
+version: 1.1.10
 ---
 
 %% README_START %%

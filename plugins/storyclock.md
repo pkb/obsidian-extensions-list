@@ -5,7 +5,7 @@ author:
 - '[[jonzfisher|Jonathan Fisher]]'
 categories: []
 description: Maps timing onto a storyclock. Inspired by Plot Devices Storyclock.
-downloads: 2260
+downloads: 2271
 mobile: true
 number: 1338
 stars: 6

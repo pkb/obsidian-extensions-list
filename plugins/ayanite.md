@@ -8,10 +8,10 @@ categories:
 description: Advanced AI chat interface and knowledge copilot for professionals. Turn
   Obsidian into an Integrated Knowledge Environment. Supports Ollama and cloud GPT
   providers. (Closed source)
-downloads: 299
+downloads: 304
 mobile: false
 number: 1689
-stars: 5
+stars: 6
 title: Ayanite
 type: plugin
 updated: '2024-04-08T13:40:30'

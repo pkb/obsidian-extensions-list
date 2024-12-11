@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create Excel-like spreadsheets and easily embed them in Markdown.
-downloads: 16886
+downloads: 17994
 mobile: true
 number: 1722
-stars: 144
+stars: 149
 title: Sheet Plus
 type: plugin
-updated: '2024-11-05T09:25:36'
+updated: '2024-12-05T14:00:49'
 url: https://github.com/ljcoder2015/obsidian-sheet-plus
-version: 1.4.4
+version: 1.5.0
 ---
 
 %% README_START %%

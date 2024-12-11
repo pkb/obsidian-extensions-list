@@ -5,7 +5,7 @@ author:
 - '[[onlyafly|Kevin Albrecht (onlyafly@gmail.com)]]'
 categories: []
 description: Automatically number or re-number headings in an Obsidian document
-downloads: 49769
+downloads: 50190
 mobile: true
 number: 250
 stars: 119

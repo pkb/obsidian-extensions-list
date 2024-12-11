@@ -5,7 +5,7 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Learn keyboard shortcuts by showing them when using the mouse
-downloads: 12587
+downloads: 12608
 mobile: true
 number: 315
 stars: 37

@@ -5,10 +5,10 @@ author:
 - '[[levi-ivel|Levi Kingma]]'
 categories: []
 description: Creates a top 100 of the most used words in your notes
-downloads: 545
+downloads: 570
 mobile: true
 number: 1651
-stars: 5
+stars: 6
 title: MostUsed
 type: plugin
 updated: '2024-11-25T18:54:51'
@@ -24,9 +24,13 @@ MostUsed is a simple plugin for Obsidian that takes the 100 most common words fr
 
 You can either click on the icon seen in the video above or type the command "Show Most Used Words Graph" to show the graph. 
 
-You can also exclude words or specify the scope of the scanning in the plugins settings
+You can also exclude words or specify the scope of the scanning in the plugins settings.
 
 ![Screenshot 2024-08-18 162114](https://github.com/user-attachments/assets/be6d8028-8395-4303-9103-2f9f36a87ad8)
+
+The settings tab also includes an option to see the full list of all words present in your vault and gives the option to copy or export this list as a .txt or .json. Do note that you first have to use the graph feature before you can see the full list.
+
+![image](https://github.com/user-attachments/assets/171950ee-4ba5-44fb-9328-3dc8ddca1621)
 
 
 %% README_END %%

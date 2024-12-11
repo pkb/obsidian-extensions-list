@@ -6,10 +6,10 @@ author:
 categories: []
 description: Providing chemistry supports. Rendering SMILES strings into chemistry
   structures.
-downloads: 10351
+downloads: 10438
 mobile: true
 number: 922
-stars: 84
+stars: 86
 title: Chem
 type: plugin
 updated: '2024-03-11T14:58:50'

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Explore your Obsidian vault by adding or ignoring linked notes, generating
   a customizable canvas with note sorting and section exclusion.
-downloads: 620
+downloads: 642
 mobile: true
 number: 1864
 stars: 9

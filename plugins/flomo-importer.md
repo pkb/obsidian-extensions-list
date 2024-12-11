@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Make Flomo Memos to Obsidian Notes
-downloads: 9061
+downloads: 9137
 mobile: false
 number: 880
 stars: 96

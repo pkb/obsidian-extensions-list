@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Remove HTML tag in Markdown file
-downloads: 165
+downloads: 177
 mobile: true
 number: 1912
 stars: 0

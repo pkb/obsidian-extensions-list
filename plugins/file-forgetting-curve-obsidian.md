@@ -5,7 +5,7 @@ author:
 - '[[ptrsvltns|ptrsvltns]]'
 categories: []
 description: File Forgetting Curve
-downloads: 3438
+downloads: 3440
 mobile: false
 number: 725
 stars: 19

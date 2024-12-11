@@ -7,7 +7,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Integration|Integration]]'
 description: Sync your Raindrop.io highlights.
-downloads: 21398
+downloads: 21528
 mobile: true
 number: 585
 stars: 228

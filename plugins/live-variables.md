@@ -6,7 +6,7 @@ author:
 categories: []
 description: Define variables in your note's properties and reuse them throughout
   your content.
-downloads: 1122
+downloads: 1163
 mobile: true
 number: 1871
 stars: 20

@@ -5,15 +5,15 @@ author:
 - '[[lazyloong|lazyloong]]'
 categories: []
 description: Provide the function of fuzzy search using Chinese Pinyin.
-downloads: 15188
+downloads: 15577
 mobile: true
 number: 927
 stars: 53
 title: Fuzzy Chinese Pinyin
 type: plugin
-updated: '2024-11-15T21:19:28'
+updated: '2024-12-09T12:40:50'
 url: https://github.com/lazyloong/obsidian-fuzzy-chinese
-version: 2.27.10
+version: 2.27.12
 ---
 
 %% README_START %%

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Allows you to measure time.
-downloads: 7094
+downloads: 7160
 mobile: true
 number: 1185
-stars: 8
+stars: 9
 title: Timer
 type: plugin
 updated: '2024-10-27T03:05:26'
@@ -33,7 +33,7 @@ Also there is another time format called ``Verbose`` (screenshots with stacked t
 
 With not set values | Without not set values (00)|
 --- | --- |
-![Verbose time format](https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/HEAD/assets/VerboseUI.png) | ![Verbose time format without not set values](assets/VerboseUIWithoutNotSetValues.png) |
+![Verbose time format](https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/HEAD/assets/VerboseUI.png) | ![Verbose time format without not set values](https://raw.githubusercontent.com/Raboro/obsidian-timer-plugin/HEAD/assets/VerboseUIWithoutNotSetValues.png) |
 
 ## Commands 
 You can open the timer by clicking on the ribbon icon or using the command ``Timer: Open timer``. You can also directly set the timer via the command ``Timer: Set timer to``. You can use one of those two notation as input: 

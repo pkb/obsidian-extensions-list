@@ -6,7 +6,7 @@ author:
 categories: []
 description: This opens all of the files you have created in the last week to support
   easy Weekly Reviews.
-downloads: 6479
+downloads: 6505
 mobile: true
 number: 761
 stars: 31

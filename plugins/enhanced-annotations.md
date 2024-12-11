@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Add a sidebar view for comments and highlights.
-downloads: 5155
+downloads: 5282
 mobile: false
 number: 1476
-stars: 46
+stars: 47
 title: Enhanced Annotations
 type: plugin
 updated: '2024-09-04T00:37:20'

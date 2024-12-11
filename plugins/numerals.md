@@ -7,7 +7,7 @@ categories: []
 description: Numerals turns any code block into an advanced calculator. Evaluates
   math expressions on each line of a code block, including units, currency, and optional
   TeX rendering.
-downloads: 31806
+downloads: 32131
 mobile: true
 number: 695
 stars: 420

@@ -7,15 +7,15 @@ categories:
 - '[[categories/Export|Export]]'
 description: Export your notes to PDF, support export preview, add bookmarks outline
   and header/footer.
-downloads: 69877
+downloads: 73198
 mobile: false
 number: 1408
-stars: 365
+stars: 372
 title: Better Export PDF
 type: plugin
-updated: '2024-08-18T15:24:50'
+updated: '2024-12-05T08:49:36'
 url: https://github.com/l1xnan/obsidian-better-export-pdf
-version: 1.9.2
+version: 1.10.0
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: In place autogeneration of content based on prompts.
-downloads: 1224
+downloads: 1230
 mobile: false
 number: 1425
 stars: 9

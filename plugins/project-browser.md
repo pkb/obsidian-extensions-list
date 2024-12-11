@@ -6,7 +6,7 @@ author:
 categories: []
 description: Replaces your new tab window with a browseable list of the files and
   folders in your vault.
-downloads: 5958
+downloads: 6033
 mobile: true
 number: 1527
 stars: 51

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync your Apple Books highlights automatically
-downloads: 5303
+downloads: 5320
 mobile: false
 number: 810
 stars: 44

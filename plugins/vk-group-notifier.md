@@ -5,7 +5,7 @@ author:
 - '[[filichev-evgeny|Filichev.Evgeny]]'
 categories: []
 description: Track news posts from the vk.com groups.
-downloads: 1114
+downloads: 1116
 mobile: true
 number: 1380
 stars: 3

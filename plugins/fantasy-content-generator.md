@@ -7,7 +7,7 @@ categories:
 - '[[categories/Games|Games]]'
 description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
   Needs
-downloads: 24576
+downloads: 24778
 mobile: true
 number: 829
 stars: 39

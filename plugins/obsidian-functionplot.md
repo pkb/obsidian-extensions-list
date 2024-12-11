@@ -5,10 +5,10 @@ author:
 - '[[leonhma|leonhma]]'
 categories: []
 description: A plugin for displaying mathematical graphs in obsidian.md.
-downloads: 14446
+downloads: 14526
 mobile: true
 number: 523
-stars: 225
+stars: 226
 title: Obsidian Functionplot
 type: plugin
 updated: '2022-08-23T23:22:19'
@@ -38,13 +38,13 @@ Since version `1.1.0` you can create plots via a handy GUI with live-preview fun
 
 2. Adjust the plot to your liking.
 
-    ![Create plot modal](./images/create-modal/light.png#gh-light-mode-only)
-    ![Create plot modal](./images/create-modal//dark.png#gh-dark-mode-only)
+    ![Create plot modal](https://raw.githubusercontent.com/leonhma/obsidian-functionplot/HEAD/images/create-modal/light.png#gh-light-mode-only)
+    ![Create plot modal](https://raw.githubusercontent.com/leonhma/obsidian-functionplot/HEAD/images/create-modal//dark.png#gh-dark-mode-only)
 
 3. This will create a coordinate system with bounds `-10 < x < 10, -10 < y < 10` and plot the functions f and g. If you havent disabled it, you can even drag and zoom the graph.
 
-<!--     ![Graph image](./images/plot/light.png#gh-light-mode-only)
-    ![Graph image](./images/plot/dark.png#gh-dark-mode-only) -->
+<!--     ![Graph image](https://raw.githubusercontent.com/leonhma/obsidian-functionplot/HEAD/images/plot/light.png#gh-light-mode-only)
+    ![Graph image](https://raw.githubusercontent.com/leonhma/obsidian-functionplot/HEAD/images/plot/dark.png#gh-dark-mode-only) -->
 
 ### With `functionplot` Block
 

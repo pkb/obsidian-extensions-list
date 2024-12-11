@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create flashcards on Mochi.cards using the API provided by Mochi's Pro
   subscription.
-downloads: 2523
+downloads: 2531
 mobile: true
 number: 1223
 stars: 20

@@ -5,7 +5,7 @@ author:
 - '[[Developer-Mike|Developer-Mike]]'
 categories: []
 description: Calculate LaTeX formulas inside Obsidian.
-downloads: 4784
+downloads: 4817
 mobile: true
 number: 1173
 stars: 7

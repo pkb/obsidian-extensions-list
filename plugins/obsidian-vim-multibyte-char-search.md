@@ -7,7 +7,7 @@ categories: []
 description: Search multibyte characters by the first character of corresponding ASCII
   encoding of input method. For example, for Chinese, search by the first character
   of Pinyin.
-downloads: 3934
+downloads: 3937
 mobile: true
 number: 454
 stars: 12

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enables smooth navigation using mouse gestures for scrolling and switching
   pages.
-downloads: 283
+downloads: 319
 mobile: false
 number: 1935
 stars: 4
@@ -14,7 +14,7 @@ title: Mouse Navigation
 type: plugin
 updated: '2024-11-26T11:00:35'
 url: https://github.com/hobeom/obsidian-mouse-navigation
-version: 1.0.1
+version: 1.0.2
 ---
 
 %% README_START %%

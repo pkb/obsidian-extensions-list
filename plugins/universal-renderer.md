@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render many different diagrams natively
-downloads: 504
+downloads: 510
 mobile: false
 number: 1600
 stars: 21

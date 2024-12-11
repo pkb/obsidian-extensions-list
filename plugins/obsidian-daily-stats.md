@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track your daily word count across all notes in your vault.
-downloads: 17718
+downloads: 17807
 mobile: true
 number: 101
 stars: 98

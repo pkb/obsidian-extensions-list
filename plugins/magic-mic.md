@@ -6,7 +6,7 @@ author:
 categories: []
 description: Record, transcribe, and summarize audio directly into your vault with
   custom assistants.
-downloads: 839
+downloads: 886
 mobile: true
 number: 1918
 stars: 5

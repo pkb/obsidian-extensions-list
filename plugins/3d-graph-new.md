@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian
-downloads: 9363
+downloads: 9464
 mobile: false
 number: 1284
 stars: 129

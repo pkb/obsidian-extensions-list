@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Merge a folder of notes for easier export.
-downloads: 8133
+downloads: 8199
 mobile: true
 number: 858
 stars: 15

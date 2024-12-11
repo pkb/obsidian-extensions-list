@@ -5,7 +5,7 @@ author:
 - '[[jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays backlinks in a hierarchy
-downloads: 285
+downloads: 319
 mobile: true
 number: 1977
 stars: 6

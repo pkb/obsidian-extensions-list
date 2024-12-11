@@ -6,10 +6,10 @@ author:
 categories: []
 description: Keyboard navigation up/down for headings - Quick switcher extensions
   - Copy code block via keyboard shortcut - Configurable code block and callout snippets
-downloads: 5924
+downloads: 5946
 mobile: true
 number: 604
-stars: 26
+stars: 27
 title: Quick snippets and navigation
 type: plugin
 updated: '2023-10-04T22:48:30'
@@ -92,7 +92,7 @@ Tag search with:
 - AND queries
 
 ![](https://github.com/ieviev/obsidian-keyboard-shortcuts/blob/main/_resources/folded-search-by-tag.gif?raw=true)
-<!-- ![](_resources/folded-search-by-tag.gif) -->
+<!-- ![](https://raw.githubusercontent.com/ieviev/obsidian-keyboard-shortcuts/HEAD/_resources/folded-search-by-tag.gif) -->
 
 #### Switcher extensions / Open switcher with Tag 1
 
@@ -106,7 +106,7 @@ Opens the switcher with the first tag in the file already added to the query.
 app.commands.listCommands().map(x => x.id);
 ```
 
-![](_resources/command-ids.png)
+![](https://raw.githubusercontent.com/ieviev/obsidian-keyboard-shortcuts/HEAD/_resources/command-ids.png)
 
 
 

@@ -5,15 +5,15 @@ author:
 - '[[Synaptic-Labs-AI|Synaptic Labs]]'
 categories: []
 description: Enhances your note-taking with voice transcription and AI capabilities
-downloads: 167
+downloads: 297
 mobile: true
 number: 1993
-stars: 11
+stars: 12
 title: NeuroVox
 type: plugin
-updated: '2024-11-27T18:23:49'
+updated: '2024-12-05T20:23:32'
 url: https://github.com/Synaptic-Labs-AI/NeuroVox
-version: 0.1.1
+version: 0.1.3
 ---
 
 %% README_START %%
@@ -24,7 +24,7 @@ NeuroVox is an Obsidian plugin that enhances your note-taking with voice transcr
 
 ## Features
 
-- **Voice Recording**: Insert a code block with three backticks, the word `record`, and three backticks again. A mic icon will appear in your note, which you can press to record.
+- **Voice Recording**: A mic icon will appear in your note, which you can press to record.
 - **Transcription**: Automatically transcribes your voice recordings using the [OpenAI Whisper API](https://openai.com/index/whisper/) along with Groq.
 - **Custom Prompts**: Apply custom prompts to the transcription to summarize, extract to-dos, or other actions.
 - **Audio Playback**: Embeds the audio file in your note for easy access.
@@ -62,6 +62,11 @@ If you need to obtain an OpenAI API key, follow the steps below:
 5. **Billing Information**:
     - You need to add billing information to your OpenAI account to make API calls.
     - Groq is currently free.
+
+## Roadmap
+- Allow users to customize the callouts
+- Allow users to decide whether or not to keep the recording
+- Improve ability to transcribe videos
 
 ## Contribution
 

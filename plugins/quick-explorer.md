@@ -7,7 +7,7 @@ categories:
 - '[[categories/File management|File management]]'
 description: Perform file explorer operations (and see your current file path) from
   the title bar, using the mouse or keyboard
-downloads: 100616
+downloads: 101609
 mobile: false
 number: 277
 stars: 271

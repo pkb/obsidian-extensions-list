@@ -5,7 +5,7 @@ author:
 - '[[phasip|Phasip]]'
 categories: []
 description: Let the OpenAI LLVM add nodes to your canvas.
-downloads: 2955
+downloads: 2966
 mobile: true
 number: 1242
 stars: 27

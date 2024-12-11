@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Meet your open source AI mentor in Obsidian. Ask questions, get answers,
   and learn new things.
-downloads: 5845
+downloads: 5858
 mobile: true
 number: 914
 stars: 38

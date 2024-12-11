@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI chat with note context, smart writing assistance, and one-click edits
   for your vault.
-downloads: 1910
+downloads: 2310
 mobile: true
 number: 1971
-stars: 310
+stars: 452
 title: Smart Composer
 type: plugin
 updated: '2024-11-27T13:04:21'
@@ -51,11 +51,15 @@ Everytime we ask ChatGPT, we need to put so much context information for each qu
 
 <img src="https://github.com/user-attachments/assets/b22175d4-80a2-4122-8555-2b9dd4987f93" alt="SC2-2_MultiContext.png" width="360"/>
 
-Now, you can **add website links** as additional context for your queries.
+Now, you can **add website links and images** as additional context for your queries.
 
 - Website content is automatically extracted
+- **Image support**: Add images directly to your chat through:
+  - Upload button
+  - Drag & drop
+  - Paste from clipboard
 - **Youtube link support**: YouTube transcripts are fetched and included as context
-- **Coming soon**: Support for image, and external files (PDF, DOCX, ...)
+- **Coming soon**: Support for external files (PDF, DOCX, ...)
 
 ### Apply Edit
 
@@ -104,7 +108,10 @@ Note: The Apply Edit feature is currently slower than desired. We are working on
 5. Set up your API key in plugin settings
    - OpenAI : [ChatGPT API Keys](https://platform.openai.com/api-keys)
    - Anthropic : [Claude API Keys](https://console.anthropic.com/settings/keys)
+   - Gemini : [Gemini API Keys](https://aistudio.google.com/apikey)
    - Groq : [Groq API Keys](https://console.groq.com/keys)
+
+> **💡 Free Option Available**: While rate-limited, Gemini API provides the best performance among free models for Smart Composer. Recommended for users looking for a free option.
 
 **📚 For detailed setup instructions and documentation, please visit our [Documentation](https://github.com/glowingjade/obsidian-smart-composer/wiki).**
 
@@ -114,9 +121,7 @@ To see our up-to-date project roadmap and progress, please check out our [GitHub
 
 Some of our planned features include:
 
-- Support for other models, including local models
-- Support for image inputs or external files (PDF, DOCX, etc.)
-- Custom prompt templates and system prompts
+- Support for external files (PDF, DOCX, etc.)
 - Mentioning with tags or other metadata
 
 ## Feedback and Support
@@ -161,6 +166,10 @@ If you find Smart Composer valuable, consider supporting its development:
 Follow me on X (Twitter) [@andy_suh_](https://x.com/andy_suh_) for updates and announcements!
 
 Your support helps maintain and improve this plugin. Every contribution is appreciated and makes a difference. Thank you for your support!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=glowingjade/obsidian-smart-composer&type=Date)](https://star-history.com/#glowingjade/obsidian-smart-composer&Date)
 
 
 %% README_END %%

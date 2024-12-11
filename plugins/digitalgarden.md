@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to the web for others to enjoy. For free.
-downloads: 41210
+downloads: 41422
 mobile: true
 number: 436
 stars: 1400

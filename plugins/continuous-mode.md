@@ -9,10 +9,10 @@ description: Displays all open notes in a tab group as if they were a continuous
   from a folder, search results, or links in a file or Dataview/query block; use arrow
   keys to navigate between notes; reorder notes via tab header drag-and-drop, sorting,
   more.
-downloads: 11288
+downloads: 11378
 mobile: true
 number: 1372
-stars: 83
+stars: 84
 title: Continuous Mode
 type: plugin
 updated: '2024-09-27T08:45:07'

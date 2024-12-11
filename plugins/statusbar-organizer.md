@@ -5,7 +5,7 @@ author:
 - '[[Opisek|Kacper Darowski]]'
 categories: []
 description: Lets you rearrange and hide specific status bar elements.
-downloads: 3942
+downloads: 3998
 mobile: false
 number: 1413
 stars: 21

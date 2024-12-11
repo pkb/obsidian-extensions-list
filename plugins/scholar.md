@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Workflows]]'
 description: Streamline Research Workflow in Obsidian
-downloads: 5099
+downloads: 5142
 mobile: true
 number: 1239
 stars: 32

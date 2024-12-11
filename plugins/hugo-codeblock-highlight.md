@@ -5,7 +5,7 @@ author:
 - '[[aarol|aarol]]'
 categories: []
 description: Highlights lines in codeblocks using Hugo's hl_lines syntax.
-downloads: 1781
+downloads: 1801
 mobile: true
 number: 1512
 stars: 3

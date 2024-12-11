@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync and share (publish) your notes in your own private service.
-downloads: 4742
+downloads: 4774
 mobile: true
 number: 1011
 stars: 94

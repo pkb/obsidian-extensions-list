@@ -8,7 +8,7 @@ categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Manage timers and generate time reports using Toggl Track without leaving
   Obsidian.
-downloads: 26028
+downloads: 26107
 mobile: false
 number: 246
 stars: 288

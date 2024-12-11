@@ -5,7 +5,7 @@ author:
 - '[[beaussan|@beaussan]]'
 categories: []
 description: Keep front matter in sync with the last edit time
-downloads: 44516
+downloads: 44815
 mobile: true
 number: 307
 stars: 171

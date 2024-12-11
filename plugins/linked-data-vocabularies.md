@@ -5,7 +5,7 @@ author:
 - '[[kometenstaub|kometenstaub]]'
 categories: []
 description: Add linked data (LCSH) as metadata to your notes.
-downloads: 5082
+downloads: 5094
 mobile: true
 number: 916
 stars: 88

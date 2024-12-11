@@ -6,10 +6,10 @@ author:
 categories: []
 description: Updates numbered lists automatically to keep them in sequential order.
   Offers both live updating and manual control options, and supports nested lists.
-downloads: 335
+downloads: 413
 mobile: false
 number: 2008
-stars: 5
+stars: 7
 title: Automatic Renumbering
 type: plugin
 updated: '2024-11-26T16:02:54'
@@ -19,56 +19,70 @@ version: 1.1.0
 
 %% README_START %%
 
-# Automatic Renumbering Plugin for Obsidian
+# Automatic List Renumbering Plugin for Obsidian
 
 The Automatic Renumbering plugin helps keep your numbered lists in sequential order automatically, which is particularly useful for users who frequently work with structured documents. It features live updates, smart pasting, and manual control options.
 
+![Example](https://raw.githubusercontent.com/OmriLeviGit/Automatic-Renumbering-Obsidian/HEAD/resources/example.gif)
+
 ## Installation Steps
 
-To get started with the Automatic Renumbering Plugin, follow these steps:
+> Step 3 is required for accurate parsing of indentations.
 
-1. Download the latest release files and place them into a folder.
-2. Move that folder into Obsidian's **plugins** folder. You can find this folder by opening Obsidian and navigating to **Options → Community plugins**, where you'll see a **folder** and a **refresh** buttons next to the **Installed plugins** heading.
+1. In Obsidian, go to **Options → Community plugins → Browse** and search for **Automatic List Renumbering**.
+2. Click **Install** and enable the plugin.
+3. In the plugin settings, adjust the **tab size** to match your editor's settings (found under **Options → Editor → Tab indent size**).
 
-    > **Note:** If the **Installed plugins** heading isn’t visible, this may be because this is your first plugin. Downloading any other community plugin will give you access to this section and the associated buttons.
+Once installed, the plugin will automatically manage your numbered lists.
 
-3. Click the **refresh** button and enable the plugin.
-4. Adjust the **tab size** in the plugin’s in the settings to match your editor’s settings (found under **Options → Editor → Tab indent size**).
+## Configuration Options
 
-## Features
+-   **Live Update**: Automatically renumbers lists as you edit, helping maintain accurate sequencing without manual adjustments. Additional commands are available if you prefer to manually control which lists to renumber.
 
--   **Live Update**: Automatically renumbers lists as you edit, helping maintain accurate sequencing without manual adjustments.
+-   **Smart Pasting**: Keeps the numbering intact when pasting content into an existing list, rather than adopting the numbering from the pasted text. Requires _live update_ to be active.
 
--   **Pasting**: Ensures correct sequencing when pasting numbered content. When live update is enabled, an optional smart pasting feature can be enabled to keep the sequencing consistent with the original numbered list.
+-   **Start numbering from 1**: When enabled, all numbered lists will be numbered starting from 1.
 
--   **Special Key Handling**: Temporarily disables the live update when special keys (`Ctrl`, `Command` on Mac, or `Alt/Option`) are pressed during editing, enabling actions such as undo without triggering unnecessary renumbering.
-
--   **Manual Control**: Offers commands for manual renumbering if you prefer to manage updates yourself.
+-   **Tab Size**: You need to manually specify your preferred tab size in the plugin settings, as the plugin cannot automatically detect tab sizes. This step is necessary to ensure proper functionality of nested numbering.
 
 <br>
-<br>
+<div>
+  <em>Content in clipboard:</em>
+    <ol>
+      <li>Apple</li>
+      <li>Banana</li>
+    </ol>
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/OmriLeviGit/Automatic-Renumbering-Obsidian/HEAD/resources/regular_paste.gif" alt="Regular paste" style="display: block; margin: auto;" />
+        <p><em>Regular pasting</em></p>
+      </td>
+      <td style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/OmriLeviGit/Automatic-Renumbering-Obsidian/HEAD/resources/smart_paste.gif" alt="Smart paste" style="display: block; margin: auto;" />
+        <p><em>Smart pasting</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Regular paste](https://raw.githubusercontent.com/OmriLeviGit/Automatic-Renumbering-Obsidian/HEAD/resources/regular_paste.gif)
-![Smart paste](https://raw.githubusercontent.com/OmriLeviGit/Automatic-Renumbering-Obsidian/HEAD/resources/smart_paste.gif)
+## Available Commands
 
-> Regular paste (left) | Smart paste (right).
-
-## Commands
-
-You can view the available commands by pressing `Ctrl + P`.
-
--   **Renumber at Cursor**: This command will renumber the list starting from the current cursor position, allowing you to make quick adjustments as needed.
+-   **Renumber at Cursor**: This command renumbers the list that the cursor is within, regardless of where the cursor is placed.
 -   **Renumber Selected Lists**: If you highlight multiple numbered lists, this command renumbers all of them at once.
--   **Renumber Entire Note**: For a comprehensive update, this command renumbers every numbered list in your active note, ensuring complete consistency.
+-   **Renumber the Entire Note**: Renumbers every numbered list in your active note.
 
 ## Performance
 
-The live update feature renumbers lists locally, adjusting the current line based on the previous line until it reaches the first correctly numbered line, which minimizes unnecessary calculations.
-In addition, the plugin was tested with documents containing lists with over 10,000 lines, and no performance issues were found on my machine.
+The plugin was tested with documents containing lists with over 10,000 lines, and no performance issues were found on my machine.
 
 ## Limitations
 
-The plugin does not support automatic renumbering in Vim mode, but you can still trigger renumbering commands manually. Additionally, it requires manual specification of tab sizes for correct nested numbering, as automatic detection is not available.
+-   **Undo Behavior**: Renumbering is treated as a separate action in the editor's history, as I couldn't find a reliable way to fully control the edit history.
+
+-   **Modifier Keys**: To avoid conflicts with keyboard shortcuts, the _live update_ feature is temporarily disabled when modifier Keys (`Ctrl`, `Command` on Mac, or `Alt/Option`) held down during editing.
+
+-   **Vim users**: The _live update_ feature only works in **Insert** mode. Manual renumbering commands, however, will function normally in any of the modes.
 
 
 %% README_END %%

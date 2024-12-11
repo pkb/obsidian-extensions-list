@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Enhance your data flow with AI-powered tools for note-taking, task management,
   templates, and so much more.
-downloads: 6900
+downloads: 6988
 mobile: false
 number: 1618
-stars: 100
+stars: 101
 title: SystemSculpt AI
 type: plugin
 updated: '2024-10-15T23:29:10'

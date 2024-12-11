@@ -6,7 +6,7 @@ author:
 categories: []
 description: Quickly wrap selected text with HTML tags by using a shortcut or from
   the command palette
-downloads: 4368
+downloads: 4380
 mobile: true
 number: 782
 stars: 9

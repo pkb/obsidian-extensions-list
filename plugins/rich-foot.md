@@ -5,15 +5,15 @@ author:
 - '[[jparkerweb|Justin Parker (eQui\\ Labs)]]'
 categories: []
 description: Adds backlink tags and created/modified dates to the footer of your notes.
-downloads: 2787
+downloads: 3253
 mobile: true
 number: 1903
-stars: 22
+stars: 25
 title: Rich Foot
 type: plugin
-updated: '2024-12-03T03:39:58'
+updated: '2024-12-11T02:56:11'
 url: https://github.com/jparkerweb/rich-foot
-version: 1.9.2
+version: 1.10.2
 ---
 
 %% README_START %%
@@ -21,6 +21,14 @@ version: 1.9.2
 # 🦶 Rich Foot
 
 Rich Foot is an Obsidian plugin that enhances the footer of your notes by adding backlinks, outlinks, and created/modified dates.
+
+### Maintained by
+<a href="https://www.equilllabs.com">
+  <img src="https://raw.githubusercontent.com/jparkerweb/eQuill-Labs/refs/heads/main/src/static/images/logo-text-outline.png" alt="eQuill Labs" height="40">
+</a>
+
+<br>
+<br>
 
 ## Features
 
@@ -32,15 +40,14 @@ Rich Foot is an Obsidian plugin that enhances the footer of your notes by adding
 - Highly customizable appearance with opacity and border controls
 - Option to exclude folder(s) from displaying 🦶 Rich Foot
 
+![example](https://raw.githubusercontent.com/jparkerweb/rich-foot/HEAD/rich-foot.jpg)
+
 ## Installation
 
 1. Open Obsidian and go to Settings
 2. Navigate to Community Plugins and disable Safe Mode
 3. Click on Browse and search for "Rich Foot"
 4. Install the plugin and enable it
-
-### Manual Installation
-- Unzip the [latest release](https://github.com/jparkerweb/rich-foot/releases/latest) into your `<vault>/.obsidian/plugins/` folder.
 
 ## Usage
 
@@ -111,10 +118,6 @@ Notes:
 - Excluding a folder will hide Rich Foot completely from notes in that folder
 - Excluded folders also affect all subfolders
 - Links from notes in excluded folders will still appear in the backlinks of other notes
-
-## Example Screenshot
-
-![example](https://raw.githubusercontent.com/jparkerweb/rich-foot/HEAD/rich-foot.jpg)
 
 ![settings](https://raw.githubusercontent.com/jparkerweb/rich-foot/HEAD/rich-foot-settings.jpg)
 

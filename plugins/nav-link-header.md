@@ -5,7 +5,7 @@ author:
 - '[[ahts4962|ahts4962]]'
 categories: []
 description: Display navigation links at the top of the notes.
-downloads: 381
+downloads: 419
 mobile: true
 number: 1953
 stars: 5
@@ -54,6 +54,13 @@ so settings for daily notes or [periodic notes](https://github.com/liamcain/obsi
 After installing the plugin, enable the options you need in the plugin settings page.
 You can customize whether to show annotated links and periodic note links in markdown views and page previews individually.
 Specify the annotation strings if you use the annotated links.
+
+## Examples of annotated links
+
+In the case of the screenshot above, "⚓,📅" is set in the "Annotation strings" field on the settings page.
+And one of the annotation strings is placed before the links in the "MOC1" note (e.g. `⚓[[Note 1]]`).
+The links to "MOC1" will then appear at the top of the target note (e.g. ⚓MOC1 in "Note 1").
+This feature allows you to create links that navigate to the MOC by simply adding an annotation string to the MOC.
 
 
 %% README_END %%

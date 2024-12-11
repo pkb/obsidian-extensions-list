@@ -5,7 +5,7 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin provides a go to Line Command
-downloads: 4401
+downloads: 4410
 mobile: true
 number: 256
 stars: 16

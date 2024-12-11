@@ -5,7 +5,7 @@ author:
 - '[[bruce-pain|Franklin]]'
 categories: []
 description: tpot leaderboard productivity tracker
-downloads: 48
+downloads: 51
 mobile: true
 number: 1937
 stars: 2

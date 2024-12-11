@@ -7,7 +7,7 @@ categories: []
 description: Effortlessly treat any file extension as note, organize diverse file
   formats in your vault and take advancements in control of extension system even
   with custom modals.
-downloads: 15311
+downloads: 15586
 mobile: true
 number: 1078
 stars: 61

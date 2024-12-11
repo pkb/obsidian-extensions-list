@@ -6,15 +6,15 @@ author:
 categories: []
 description: Define forms for filling data that you will be able to open from anywhere
   you can run JS
-downloads: 17667
+downloads: 18031
 mobile: true
 number: 1198
-stars: 221
+stars: 222
 title: Modal forms
 type: plugin
-updated: '2024-09-30T00:28:16'
+updated: '2024-12-09T22:28:08'
 url: https://github.com/danielo515/obsidian-modal-form
-version: 1.52.0
+version: 1.53.0
 ---
 
 %% README_START %%

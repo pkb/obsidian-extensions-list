@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Image handling|Image handling]]'
 description: Analyze images with AI to get keywords of the image.
-downloads: 3306
+downloads: 3506
 mobile: false
 number: 1800
-stars: 35
+stars: 36
 title: AI image analyzer
 type: plugin
 updated: '2024-08-01T13:00:06'

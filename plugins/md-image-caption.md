@@ -5,7 +5,7 @@ author:
 - '[[HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate image caption
-downloads: 2799
+downloads: 2806
 mobile: true
 number: 1234
 stars: 10
@@ -32,11 +32,11 @@ demo: <https://www.youtube.com/watch?v=dee_OzcibLI>
 ## Usage
 
 ```md
-%% caption ![alt](src) %%
+%% caption ![alt](https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-image-caption/HEAD/src) %%
 
-%% lightbox ![alt](src) %%
+%% lightbox ![alt](https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-image-caption/HEAD/src) %%
 
-%% lightbox-{group} ![alt](src) %%
+%% lightbox-{group} ![alt](https://raw.githubusercontent.com/HananoshikaYomaru/obsidian-image-caption/HEAD/src) %%
 ```
 
 then it will generate `<figure>` element with a `<figcaption>` element inside on command `generate image caption on current file`.

@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for Obsidian that adds a button to scroll to the top
   of the current note.
-downloads: 14028
+downloads: 14117
 mobile: true
 number: 663
 stars: 49
@@ -35,19 +35,19 @@ This is a plugin for Obsidian that adds a button to scroll to the top of the cur
 
 - Click the button in the ribbon to scroll until the selection or cursor (in the edit mode)
 
-![Scroll to Cursor](./assets/image.ku7p6hzfg1c.webp)
+![Scroll to Cursor](https://raw.githubusercontent.com/cloudhao1999/obsidian-scroll-to-top-plugin/HEAD/assets/image.ku7p6hzfg1c.webp)
 
 - You can use this plugin in a Obsidian browser (should work with the Surfing plugin)
 
-![Browser](./assets/image.768ldvty9lw0.webp)
+![Browser](https://raw.githubusercontent.com/cloudhao1999/obsidian-scroll-to-top-plugin/HEAD/assets/image.768ldvty9lw0.webp)
 
 - Customize the button style (should work with Style Settings Plugin)
 
-![Customize](./assets/image.1shejki8q4rk.webp)
+![Customize](https://raw.githubusercontent.com/cloudhao1999/obsidian-scroll-to-top-plugin/HEAD/assets/image.1shejki8q4rk.webp)
 
 - Edit more button options in the plugin settings
 
-![Settings](./assets/image.16rzrrt2tl5s.webp)
+![Settings](https://raw.githubusercontent.com/cloudhao1999/obsidian-scroll-to-top-plugin/HEAD/assets/image.16rzrrt2tl5s.webp)
 
 
 %% README_END %%

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Create tasks faster from anywhere.
-downloads: 2651
+downloads: 2677
 mobile: true
 number: 1369
 stars: 11

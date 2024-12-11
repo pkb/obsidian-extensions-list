@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds the ability to create daily notes with a specified template according
   to the described settings
-downloads: 1590
+downloads: 1602
 mobile: true
 number: 1406
 stars: 1

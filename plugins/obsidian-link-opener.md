@@ -5,7 +5,7 @@ author:
 - '[[zorazrr|Zora Zhang]]'
 categories: []
 description: Open external links within Obsidian using a modal or a tab.
-downloads: 4494
+downloads: 4509
 mobile: false
 number: 704
 stars: 23

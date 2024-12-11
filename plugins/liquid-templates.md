@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Empower your template with LiquidJS tags
-downloads: 5124
+downloads: 5133
 mobile: false
 number: 190
 stars: 20

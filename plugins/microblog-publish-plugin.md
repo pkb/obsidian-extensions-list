@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Micro.blog
-downloads: 5074
+downloads: 5087
 mobile: true
 number: 613
 stars: 43

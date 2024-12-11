@@ -7,7 +7,7 @@ categories: []
 description: Allows you to embed YouTube videos with timestamps directly in your notes,
   enabling seamless referencing and note-taking without needing to open a separate
   browser window.
-downloads: 313
+downloads: 359
 mobile: true
 number: 1961
 stars: 5
@@ -27,7 +27,7 @@ This Obsidian plugin allows you to embed YouTube videos with timestamps directly
 ---
 ## Demo
 
-![Demo0](<CleanShot 2024-10-05 at 11.55.53.gif>)
+![Demo0](https://raw.githubusercontent.com/NilsLeo/obsidian-youtube-iframe-timestamps/HEAD/<CleanShot 2024-10-05 at 11.55.53.gif>)
 
 ---
 ## Features
@@ -95,7 +95,7 @@ Let's reference a video using a footnote[^1].
 
 Once the note is created, right-click on any YouTube link and select “Open Timestamp on Iframe.” The video will be loaded inside the iframe at the specified timestamp.
 
-![Demo](<CleanShot 2024-10-03 at 16.31.52.gif>)
+![Demo](https://raw.githubusercontent.com/NilsLeo/obsidian-youtube-iframe-timestamps/HEAD/<CleanShot 2024-10-03 at 16.31.52.gif>)
 
 
 ### Adding Timestamps to YouTube Links
@@ -107,7 +107,7 @@ To add a timestamp to a YouTube link:
  3. Paste the link into your Obsidian note.
 
 This will allow you to jump to the specific time in the video directly from Obsidian.
-![Demo2](<CleanShot 2024-10-03 at 16.55.45.gif>)
+![Demo2](https://raw.githubusercontent.com/NilsLeo/obsidian-youtube-iframe-timestamps/HEAD/<CleanShot 2024-10-03 at 16.55.45.gif>)
 
 --- 
 

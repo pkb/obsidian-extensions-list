@@ -6,7 +6,7 @@ author:
 categories: []
 description: More flexible embedding. Embed precise selections, inline embeds, optionally
   include author and title.
-downloads: 6627
+downloads: 6636
 mobile: true
 number: 384
 stars: 41

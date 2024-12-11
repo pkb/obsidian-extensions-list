@@ -6,7 +6,7 @@ author:
 categories: []
 description: Like daily notes, but nested in a named daily folder. Better for attachment
   management. Includes more flexible naming.
-downloads: 16389
+downloads: 16534
 mobile: true
 number: 271
 stars: 16

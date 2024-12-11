@@ -5,10 +5,10 @@ author:
 - '[[javalent|Jeremy Valentine]]'
 categories: []
 description: Interactive maps inside your notes
-downloads: 186975
+downloads: 188037
 mobile: true
 number: 121
-stars: 521
+stars: 523
 title: Leaflet
 type: plugin
 updated: '2024-04-01T05:43:06'

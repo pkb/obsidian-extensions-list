@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 description: View Supernote notes, generate markdown from note and capture screen
   mirror.
-downloads: 2826
+downloads: 2860
 mobile: true
 number: 1567
 stars: 138

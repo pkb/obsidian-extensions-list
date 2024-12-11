@@ -5,7 +5,7 @@ author:
 - '[[sedationh|SedationH]]'
 categories: []
 description: Quickly insert a divider line at the beginning of your note.
-downloads: 40
+downloads: 49
 mobile: false
 number: 2026
 stars: 0

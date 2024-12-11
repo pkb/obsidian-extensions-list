@@ -5,7 +5,7 @@ author:
 - '[[Acylation|Acylation]]'
 categories: []
 description: Simulates typewriter / mechanical keyboard sounds.
-downloads: 3815
+downloads: 3884
 mobile: true
 number: 1573
 stars: 17

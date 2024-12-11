@@ -5,7 +5,7 @@ author:
 - '[[IagoGrah|Iago Grah]]'
 categories: []
 description: Quickly create a note with a prompt for object writing.
-downloads: 1871
+downloads: 1882
 mobile: true
 number: 1348
 stars: 3

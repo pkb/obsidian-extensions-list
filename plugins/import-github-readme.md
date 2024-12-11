@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Fetches and integrates GitHub README files into personal notesmai
-downloads: 240
+downloads: 246
 mobile: true
 number: 1873
 stars: 7

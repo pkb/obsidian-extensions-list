@@ -7,7 +7,7 @@ categories: []
 description: Replace/substitute the symbols with actual symbols you commonly type.
   It also works for emojis shortcuts, abbreviations, greek letters, math symbols or
   other snippets/aliases you define
-downloads: 2787
+downloads: 2887
 mobile: true
 number: 1827
 stars: 12
@@ -40,7 +40,7 @@ The easiest way to use the plugin is to install it and then try to type the foll
 
 If you want to customize the symbols, you can do so by going to the settings of the plugin. There you can add your own symbols and their corresponding prettified symbols or any substitution you want (for instance abbreviations, greek letters, emojis, etc.).
 
-![Settings Image](./assets/settings.webp)
+![Settings Image](https://raw.githubusercontent.com/noam-sc/obsidian-enhanced-symbols-prettifier/HEAD/assets/settings.webp)
 
 You can also temporarily disable some replacements by using the toggles in the settings.
 
@@ -52,7 +52,7 @@ In the [discussion](https://github.com/noam-sc/obsidian-enhanced-symbols-prettif
 
 On top of the settings page, you can find your most used words in your notes to create abbreviations shortcuts for them.
 
-![Shortcuts Finder](./assets/shortcuts-finder.webp)
+![Shortcuts Finder](https://raw.githubusercontent.com/noam-sc/obsidian-enhanced-symbols-prettifier/HEAD/assets/shortcuts-finder.webp)
 
 ## Installation
 

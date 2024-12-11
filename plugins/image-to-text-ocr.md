@@ -5,7 +5,7 @@ author:
 - '[[dario-baumberger|Dario Baumberger]]'
 categories: []
 description: Convert a image in your note to text.
-downloads: 2297
+downloads: 2337
 mobile: true
 number: 1463
 stars: 9

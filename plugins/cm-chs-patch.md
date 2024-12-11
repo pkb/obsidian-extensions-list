@@ -6,10 +6,10 @@ author:
 categories: []
 description: A patch for Obsidian's built-in CodeMirror Editor to support Simplified
   Chinese word splitting
-downloads: 45576
+downloads: 45734
 mobile: true
 number: 145
-stars: 197
+stars: 198
 title: Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
 type: plugin
 updated: '2024-05-06T21:37:33'

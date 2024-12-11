@@ -6,7 +6,7 @@ author:
 categories: []
 description: Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä,
   joka hyödyntää Voikkoa.
-downloads: 3673
+downloads: 3680
 mobile: false
 number: 1062
 stars: 6

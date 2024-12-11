@@ -5,7 +5,7 @@ author:
 - '[[red0orange|red0orange]]'
 categories: []
 description: A webdav file explorer for Obsidian.
-downloads: 4173
+downloads: 4196
 mobile: false
 number: 1117
 stars: 13

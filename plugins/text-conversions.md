@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Perform various text conversions on the selected text
-downloads: 3065
+downloads: 3072
 mobile: true
 number: 1164
 stars: 2

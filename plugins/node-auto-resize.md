@@ -5,7 +5,7 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: Automatically resize the node when the content changes.
-downloads: 1017
+downloads: 1053
 mobile: true
 number: 1732
 stars: 18

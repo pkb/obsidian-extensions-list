@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Empower your note editor with LLM capabilities. Customizable to work
   for your use cases.
-downloads: 4776
+downloads: 4802
 mobile: true
 number: 1132
 stars: 25

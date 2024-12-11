@@ -5,7 +5,7 @@ author:
 - '[[fabricehong|Fabrice Hong]]'
 categories: []
 description: Create reusable, modular prompts.
-downloads: 104
+downloads: 125
 mobile: true
 number: 1979
 stars: 4

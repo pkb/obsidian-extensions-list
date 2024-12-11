@@ -5,7 +5,7 @@ author:
 - '[[linjunpop|Jun Lin]]'
 categories: []
 description: This is a plugin to display the GitHub Gist.
-downloads: 9197
+downloads: 9209
 mobile: true
 number: 205
 stars: 81

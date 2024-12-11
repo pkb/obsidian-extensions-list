@@ -5,7 +5,7 @@ author:
 - '[[Xmoncoco|XmoncocoX]]'
 categories: []
 description: add anime data for your notes
-downloads: 1059
+downloads: 1066
 mobile: true
 number: 1605
 stars: 4

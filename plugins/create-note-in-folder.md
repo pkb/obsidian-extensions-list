@@ -5,7 +5,7 @@ author:
 - '[[Mara-Li|Mara-Li]]'
 categories: []
 description: Add commands to create a note in a specific folder.
-downloads: 7847
+downloads: 7914
 mobile: true
 number: 809
 stars: 21

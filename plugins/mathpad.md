@@ -5,7 +5,7 @@ author:
 - '[[Canna71|Gabriele Cannata]]'
 categories: []
 description: Computer Algebra System and Calculator for Obsidian
-downloads: 11700
+downloads: 11760
 mobile: false
 number: 653
 stars: 95

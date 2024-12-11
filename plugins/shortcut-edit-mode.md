@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add a button in file header in edit mode, to switch between source &
   live-preview
-downloads: 391
+downloads: 408
 mobile: true
 number: 1891
 stars: 4

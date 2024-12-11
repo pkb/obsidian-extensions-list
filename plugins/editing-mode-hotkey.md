@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a command and hotkey to toggle the default editing mode (between
   Live Preview and Source)
-downloads: 147
+downloads: 152
 mobile: true
 number: 1919
 stars: 1

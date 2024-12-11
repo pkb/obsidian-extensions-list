@@ -5,7 +5,7 @@ author:
 - '[[AlexBieg|Alex Bieg]]'
 categories: []
 description: A command palette that does all of the things you want it to do.
-downloads: 30381
+downloads: 30499
 mobile: true
 number: 415
 stars: 166

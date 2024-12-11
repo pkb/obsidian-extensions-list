@@ -5,7 +5,7 @@ author:
 - '[[NekoTarou|NekouTarou]]'
 categories: []
 description: Auto upload images from clipboard to lskypro
-downloads: 3557
+downloads: 3560
 mobile: false
 number: 944
 stars: 10

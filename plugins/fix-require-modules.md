@@ -6,10 +6,10 @@ author:
 categories: []
 description: Fixes require() calls, supporting JavaScript and TypeScript modules,
   enabling easy invocation, and adding code buttons for enhanced scripting capabilities
-downloads: 1523
+downloads: 1548
 mobile: false
 number: 1445
-stars: 13
+stars: 15
 title: Fix Require Modules
 type: plugin
 updated: '2024-11-21T13:40:20'
@@ -191,32 +191,32 @@ await dynamicImport('app://obsidian-resource-path-prefix/C:/path/to/vault/then/t
 
 ### Invocable Scripts
 
-Make any script invocable by defining a module with a default export function (sync or async) that accepts `App` argument
+Make any script invocable by defining a module that exports a function named `invoke` (sync or async) that accepts `app` argument
 
 ```ts
 // cjs sync
-module.exports = (app) => { console.log('cjs sync'); };
+exports.invoke = (app) => { console.log('cjs sync'); };
 
 // cjs async
-module.exports = async (app) => { console.log('cjs async'); await Promise.resolve(); };
+exports.invoke = async (app) => { console.log('cjs async'); await Promise.resolve(); };
 
 // mjs sync
-export default function invoke(app) { console.log('mjs sync'); };
+export function invoke(app) { console.log('mjs sync'); };
 
 // mjs async
-export default async function invoke(app) { console.log('mjs async'); await Promise.resolve(); };
+export async function invoke(app) { console.log('mjs async'); await Promise.resolve(); };
 
 // cts sync
-module.exports = (app: App): void => { console.log('cts sync'); };
+exports.invoke = (app: App): void => { console.log('cts sync'); };
 
 // cts async
-module.exports = async (app: App): Promise<void> => { console.log('cts async'); await Promise.resolve(); };
+exports.invoke = async (app: App): Promise<void> => { console.log('cts async'); await Promise.resolve(); };
 
 // mts sync
-export default function invoke(app: App): void { console.log('mts sync'); };
+export function invoke(app: App): void { console.log('mts sync'); };
 
 // mts async
-export default async function invoke(app: App): Promise<void> { console.log('mts async'); await Promise.resolve(param1); };
+export async function invoke(app: App): Promise<void> { console.log('mts async'); await Promise.resolve(); };
 ```
 
 ### Invoke Scripts
@@ -230,6 +230,10 @@ Configure a script directory so every script in it can be invoked using the [`Co
 ### Startup Script
 
 Invoke any script when [`Obsidian`][Obsidian] loads via a configuration setting.
+
+You can add a `cleanup()` function to the startup script, which will be called when the plugin is unloaded.
+
+The function has the same signature as [`invoke()`](#invocable-scripts) function.
 
 ### Hotkeys
 
@@ -280,7 +284,7 @@ Extending dynamic [`import()`][import] expressions to support `const obsidian = 
 
 ## License
 
- © [Michael Naumov](https://github.com/mnaoumov/)
+© [Michael Naumov](https://github.com/mnaoumov/)
 
 [Command Palette]: https://help.obsidian.md/Plugins/Command+palette
 

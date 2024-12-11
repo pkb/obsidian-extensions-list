@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize referenced notes using OpenAI.
-downloads: 4054
+downloads: 4085
 mobile: false
 number: 982
 stars: 31

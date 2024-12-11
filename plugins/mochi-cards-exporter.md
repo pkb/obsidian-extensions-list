@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Export Markdown notes to Mochi cards from within obsidian
-downloads: 4875
+downloads: 4885
 mobile: false
 number: 109
 stars: 31

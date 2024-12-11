@@ -5,7 +5,7 @@ author:
 - '[[aidenlx|AidenLx]]'
 categories: []
 description: Enable extended table support with MultiMarkdown 6 syntax
-downloads: 48141
+downloads: 48369
 mobile: true
 number: 146
 stars: 183

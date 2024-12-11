@@ -5,10 +5,10 @@ author:
 - '[[aaachen|Andrew Chen]]'
 categories: []
 description: Sync your IMDb list
-downloads: 597
+downloads: 606
 mobile: false
 number: 1581
-stars: 12
+stars: 13
 title: IMDb
 type: plugin
 updated: '2024-04-11T21:41:29'
@@ -120,7 +120,7 @@ Dataview script:
 
 ```dataview
 table without id
-	("![](" + poster + ")") as Poster, 
+	("![](https://raw.githubusercontent.com/aaachen/IMDb-Obsidian/HEAD/" + poster + ")") as Poster, 
 	file.link as Title, 
 	year as Year, 
 	director as Director, 

@@ -5,7 +5,7 @@ author:
 - '[[hipstersmoothie|Andrew Lisowski]]'
 categories: []
 description: Opinionated formatting for your notes.
-downloads: 15397
+downloads: 15481
 mobile: true
 number: 110
 stars: 88

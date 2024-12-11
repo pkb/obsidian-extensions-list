@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Convert Markdown files to a mind map,mind map editor
-downloads: 6210
+downloads: 6345
 mobile: true
 number: 1490
 stars: 7

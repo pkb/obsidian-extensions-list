@@ -6,7 +6,7 @@ author:
 categories: []
 description: Type text shortcuts which are then replaced with JavaScript generated
   text.
-downloads: 12943
+downloads: 12984
 mobile: true
 number: 563
 stars: 136
@@ -136,7 +136,7 @@ that I should keep working to make it better.
 
 <a href='https://paypal.me/jonheard99?country.x=US&locale.x=en_US'>
 
-![paypal](readmeMedia/paypal.svg) <a href="https://www.buymeacoffee.com/jonheard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 163px !important;"></a>
+![paypal](https://raw.githubusercontent.com/jon-heard/obsidian-inline-scripts/HEAD/readmeMedia/paypal.svg) <a href="https://www.buymeacoffee.com/jonheard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 163px !important;"></a>
 
 </a>
 

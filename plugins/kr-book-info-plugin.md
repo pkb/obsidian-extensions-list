@@ -5,7 +5,7 @@ author:
 - '[[kmsk99|kmsk99]]'
 categories: []
 description: A plugin that crawls Yes24 to get book information.
-downloads: 11286
+downloads: 11350
 mobile: true
 number: 495
 stars: 23

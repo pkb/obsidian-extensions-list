@@ -5,7 +5,7 @@ author:
 - '[[renmu123|renmu123]]'
 categories: []
 description: Auto pair chinese symbol
-downloads: 10748
+downloads: 10769
 mobile: false
 number: 183
 stars: 28

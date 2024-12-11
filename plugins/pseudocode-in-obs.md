@@ -6,10 +6,10 @@ author:
 categories: []
 description: This is an obsidian plugin that helps to render a LaTeX-style pseudocode
   inside a code block.
-downloads: 11406
+downloads: 11500
 mobile: true
 number: 857
-stars: 88
+stars: 91
 title: Pseudocode
 type: plugin
 updated: '2024-09-01T05:46:50'

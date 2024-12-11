@@ -5,7 +5,7 @@ author:
 - '[[TaylorJadin|Taylor Jadin]]'
 categories: []
 description: Close the window when the last note is closed, kind of how browsers work.
-downloads: 107
+downloads: 108
 mobile: false
 number: 1716
 stars: 0

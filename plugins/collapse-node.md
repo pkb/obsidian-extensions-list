@@ -5,7 +5,7 @@ author:
 - '[[quorafind|Boninall]]'
 categories: []
 description: Collapse node in canvas.
-downloads: 6636
+downloads: 6700
 mobile: true
 number: 1194
 stars: 51

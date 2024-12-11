@@ -5,10 +5,10 @@ author:
 - '[[omnivore-app|Omnivore]]'
 categories: []
 description: This is an Omnivore plugin for Obsidian.
-downloads: 121590
+downloads: 121878
 mobile: true
 number: 794
-stars: 844
+stars: 845
 title: Omnivore
 type: plugin
 updated: '2024-07-16T10:15:20'

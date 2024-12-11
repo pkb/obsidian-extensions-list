@@ -5,7 +5,7 @@ author:
 - '[[ifree|ifree]]'
 categories: []
 description: For easy navigation in large canvas
-downloads: 4875
+downloads: 4960
 mobile: true
 number: 1517
 stars: 26

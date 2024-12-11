@@ -6,7 +6,7 @@ author:
 categories: []
 description: Copy the value of a frontmatter key and allows to create link from it
   using various settings.
-downloads: 5000
+downloads: 5004
 mobile: true
 number: 338
 stars: 17

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Turn links into bibliographies in styles like Harvard, MLA, APA, and
   more.
-downloads: 1993
+downloads: 2023
 mobile: true
 number: 1357
 stars: 24

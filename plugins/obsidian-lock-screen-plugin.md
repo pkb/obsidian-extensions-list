@@ -5,7 +5,7 @@ author:
 - '[[ericbiewener|Eric Biewener]]'
 categories: []
 description: Protect your vault with a lock screen.
-downloads: 8413
+downloads: 8441
 mobile: true
 number: 404
 stars: 21

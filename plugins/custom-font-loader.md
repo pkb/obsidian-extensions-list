@@ -6,10 +6,10 @@ author:
 categories: []
 description: Customize your Obsidian vault with any font you want (+ Support for Android
   and IOS)
-downloads: 20450
+downloads: 20749
 mobile: true
 number: 1130
-stars: 65
+stars: 66
 title: Custom Font Loader
 type: plugin
 updated: '2024-08-21T02:41:22'

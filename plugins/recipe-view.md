@@ -5,10 +5,10 @@ author:
 - '[[lachholden|lachholden]]'
 categories: []
 description: View your notes as interactive recipe cards while you cook.
-downloads: 17372
+downloads: 17774
 mobile: true
 number: 1197
-stars: 106
+stars: 107
 title: Recipe view
 type: plugin
 updated: '2024-05-05T09:55:32'

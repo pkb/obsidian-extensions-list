@@ -5,7 +5,7 @@ author:
 - '[[felipetappata|Felipe Tappata]]'
 categories: []
 description: Show a preview of external links on hover
-downloads: 405
+downloads: 502
 mobile: true
 number: 2031
 stars: 9

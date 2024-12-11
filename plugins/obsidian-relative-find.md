@@ -5,7 +5,7 @@ author:
 - '[[phibr0|phibr0]]'
 categories: []
 description: This Plugin lets you search relative to your Cursor Position.
-downloads: 4368
+downloads: 4371
 mobile: true
 number: 263
 stars: 10

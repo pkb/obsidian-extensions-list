@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Popup calendar for quickly navigating dates
-downloads: 15821
+downloads: 15896
 mobile: true
 number: 279
 stars: 40

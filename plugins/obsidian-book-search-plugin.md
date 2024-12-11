@@ -5,10 +5,10 @@ author:
 - '[[anpigon|anpigon]]'
 categories: []
 description: Helps you find books and create notes.
-downloads: 132530
+downloads: 133606
 mobile: true
 number: 489
-stars: 466
+stars: 471
 title: Book Search
 type: plugin
 updated: '2024-10-16T20:47:11'
@@ -181,7 +181,7 @@ updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 ---
 
 %% To use an image URL from the server, use the following syntax: %%
-<%* if (tp.frontmatter.cover && tp.frontmatter.cover.trim() !== "") { tR += `![cover|150](${tp.frontmatter.cover})` } %>
+<%* if (tp.frontmatter.cover && tp.frontmatter.cover.trim() !== "") { tR += `![cover|150](https://raw.githubusercontent.com/anpigon/obsidian-book-search-plugin/HEAD/${tp.frontmatter.cover})` } %>
 
 %% To save images locally, enable the 'Enable Cover Image Save' option in the settings and enter as follows: %%
 <%* if (tp.frontmatter.localCover && tp.frontmatter.localCover.trim() !== "") { tR += `![[${tp.frontmatter.localCover}|150]]` } %>
@@ -216,7 +216,7 @@ SORT status
 ```dataview
 TABLE WITHOUT ID
 	status as Status,
-	"![|60](" + cover + ")" as Cover,
+	"![|60](https://raw.githubusercontent.com/anpigon/obsidian-book-search-plugin/HEAD/" + cover + ")" as Cover,
 	link(file.link, title) as Title,
 	author as Author,
 	join(list(publisher, publish)) as Publisher

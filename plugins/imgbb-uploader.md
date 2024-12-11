@@ -5,7 +5,7 @@ author:
 - '[[jordanhandy|Jordan Handy]]'
 categories: []
 description: Upload images from your clipboard to ImgBB.
-downloads: 101
+downloads: 107
 mobile: false
 number: 1872
 stars: 2

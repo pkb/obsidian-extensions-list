@@ -5,7 +5,7 @@ author:
 - '[[XSPGMike|braincache]]'
 categories: []
 description: Create flashcards from obsidian notes
-downloads: 4354
+downloads: 4357
 mobile: false
 number: 540
 stars: 9

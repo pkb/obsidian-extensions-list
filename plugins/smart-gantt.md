@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Intelligently generate Gantt chart from your tasks
-downloads: 4185
+downloads: 4300
 mobile: true
 number: 1666
 stars: 27

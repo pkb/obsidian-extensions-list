@@ -5,7 +5,7 @@ author:
 - '[[GRA0007|Benji Grant]]'
 categories: []
 description: Show inline color hints for CSS colors
-downloads: 604
+downloads: 628
 mobile: true
 number: 1844
 stars: 7

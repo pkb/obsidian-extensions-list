@@ -5,15 +5,15 @@ author:
 - '[[rafaelveiga|Rafael Veiga]]'
 categories: []
 description: Adds widgets to your notes like clock, countdown and quotes.
-downloads: 9334
+downloads: 9780
 mobile: true
 number: 1354
-stars: 74
+stars: 75
 title: Widgets
 type: plugin
-updated: '2024-05-18T22:40:53'
+updated: '2024-12-08T10:22:50'
 url: https://github.com/rafaelveiga/obsidian-widgets
-version: 0.0.9
+version: 0.0.10
 ---
 
 %% README_START %%
@@ -87,6 +87,8 @@ author: Lorem Ipsum
 
 `to`: Description of the countdown (optional)
 
+`completedLabel`: The label to show when the countdown is complete (optional)
+
 #### Example
 
 ````
@@ -94,6 +96,7 @@ author: Lorem Ipsum
 type: countdown
 date: 2024-01-01 00:00:00
 to: New Year! 🎉
+completedLabel: Happy new year! 🎉
 ```
 ````
 
@@ -107,9 +110,11 @@ to: New Year! 🎉
 
 `text`: the text label below the counter
 
+`id`: the id of the counter. Use this if you want to have more than one counter in the same note (optional)
+
 #### Notice
 
-The counter widget is supported only once by note. If you add more than one counter widget to a note, they will share the same count. To sync the count between devices, make sure your `.obsidian/plugins` folder is synced between devices. This is where Obsidian stores the data for this plugin
+The counter widget is supported multiple times by note if you provide an unique `id` per counter. If you add more than one counter widget to a note without an `id`, they will share the same count. To sync the count between devices, make sure your `.obsidian/plugins` folder is synced between devices. This is where Obsidian stores the data for this plugin
 
 #### Example
 
@@ -117,6 +122,7 @@ The counter widget is supported only once by note. If you add more than one coun
 ```widgets
 type: counter
 text: Push-ups
+id: push-ups
 ```
 ````
 

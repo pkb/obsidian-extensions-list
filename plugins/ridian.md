@@ -6,15 +6,15 @@ author:
 categories: []
 description: Execute R code blocks and display outputs and plots & render documents
   with Quarto within Obsidian.
-downloads: 119
+downloads: 198
 mobile: false
 number: 2029
-stars: 64
+stars: 70
 title: Ridian
 type: plugin
-updated: '2024-11-27T21:38:11'
+updated: '2024-12-04T14:27:52'
 url: https://github.com/MichelNivard/Ridian
-version: 0.1.1
+version: 0.1.2
 ---
 
 %% README_START %%
@@ -31,8 +31,8 @@ literal programming with R notebooks, and Quarto rendering from within Obsidian:
 
 **Check out he website:**
 
-Up to date info and install guide:
-[https://michelnivard.github.io/Ridian/]
+
+[Up to date info and install guide on the Ridian website](https://michelnivard.github.io/Ridian/)
 
 **What this is:**
 
@@ -99,47 +99,6 @@ Here's a step-by-step guide to installing your Obsidian plugin, **Ridian**, usin
 
 R package Dependecies: In R/Rstudio Install: `languageserver`, `evaluate`, `jsonlite` & `htmlwidgets` packages.
 
----
-
-### Step 1: Install BRAT (if not already installed)
-
-1. Open Obsidian.
-2. Go to **Settings** > **Community Plugins**.
-3. Click **Browse** and search for "BRAT".
-4. Install **BRAT** and enable it by clicking **Enable** after installation.
-
----
-
-### Step 2: Add Ridian Plugin in BRAT
-
-1. In Obsidian, go to **Settings** > **BRAT**.
-2. Under **Beta Plugins List**, click **Add Beta Plugin**.
-3. Paste the GitHub repository URL for Ridian:
-   
-   ```
-   https://github.com/MichelNivard/Ridian
-   ```
-
-4. Click **Add Plugin**.
-
----
-
-### Step 3: Install and Enable Ridian
-
-1. After adding Ridian to BRAT, BRAT will automatically download it for you.
-2. Go to **Settings** > **Community Plugins** and find **Ridian** in the list of installed plugins.
-3. Enable **Ridian** by clicking **Enable**.
-
----
-
-### Step 4: Verify Installation
-
-1. Once enabled, check the **Settings** menu for any configuration options related to Ridian. 
-2. Ensure you see options to configure or activate the plugin in Obsidian’s interface.
-
----
-
-### Step 5: Set Path to R instalation & pandoc installation
 
 In R/Rstudio Install:
 
@@ -147,6 +106,7 @@ In R/Rstudio Install:
 install.packages(evaluate)
 install.packages(jsonlite)
 install.packages(htmlwidgets)
+install.packages(languageserver)
 ```
 
 In the **Ridian** settings provide the path to your R installation, which can for example be:

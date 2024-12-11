@@ -5,7 +5,7 @@ author:
 - '[[llimllib|Bill Mill]]'
 categories: []
 description: Add a globally unique ID to every markdown document's front matter
-downloads: 4379
+downloads: 4397
 mobile: true
 number: 1003
 stars: 21

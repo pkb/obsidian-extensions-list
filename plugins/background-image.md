@@ -7,7 +7,7 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: This allows you to specify a remote URL as the background image, and
   a few settings to tweak the experience.
-downloads: 8536
+downloads: 8629
 mobile: true
 number: 972
 stars: 17

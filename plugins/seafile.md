@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync notes across devices using Seafile.
-downloads: 2366
+downloads: 2382
 mobile: true
 number: 1466
 stars: 23

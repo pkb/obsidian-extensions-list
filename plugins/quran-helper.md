@@ -5,7 +5,7 @@ author:
 - '[[AmmarCodes|Ammar Alakkad]]'
 categories: []
 description: Find and insert any Quran Ayah (verse) in your notes.
-downloads: 197
+downloads: 200
 mobile: true
 number: 1742
 stars: 4
@@ -26,7 +26,7 @@ An Obsidian plugin that helps you select and insert Ayahs (verses) from the Qura
 
 | Selecting Ayah                                    | Rendered Ayah                                            | Command Palette                                                |
 | ------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------- |
-| ![finding an Ayah](https://raw.githubusercontent.com/AmmarCodes/obsidian-quran-plugin/HEAD/assets/screenshots/ayah.png) | ![rendering the Ayah](./assets/screenshots/rendered.png) | ![the rendered ayah](./assets/screenshots/command-palette.png) |
+| ![finding an Ayah](https://raw.githubusercontent.com/AmmarCodes/obsidian-quran-plugin/HEAD/assets/screenshots/ayah.png) | ![rendering the Ayah](https://raw.githubusercontent.com/AmmarCodes/obsidian-quran-plugin/HEAD/assets/screenshots/rendered.png) | ![the rendered ayah](https://raw.githubusercontent.com/AmmarCodes/obsidian-quran-plugin/HEAD/assets/screenshots/command-palette.png) |
 
 ## Features
 

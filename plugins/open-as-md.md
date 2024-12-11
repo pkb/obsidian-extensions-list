@@ -5,7 +5,7 @@ author:
 - '[[kursad-k|kursad-k]]'
 categories: []
 description: Edit non-md file types as markdown files
-downloads: 2460
+downloads: 2476
 mobile: true
 number: 1342
 stars: 5

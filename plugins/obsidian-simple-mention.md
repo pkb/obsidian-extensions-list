@@ -6,7 +6,7 @@ author:
 categories: []
 description: Get highlighted mentions and mention suggestions. Find all occurrences
   of a mention
-downloads: 5260
+downloads: 5266
 mobile: false
 number: 596
 stars: 36

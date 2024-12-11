@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin remembers the recent 50 cursor positions history and allows
   you to jump to them back and forth like VSCode
-downloads: 5946
+downloads: 5969
 mobile: false
 number: 459
 stars: 29

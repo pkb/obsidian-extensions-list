@@ -5,7 +5,7 @@ author:
 - '[[imfenghuang|imfenghuang]]'
 categories: []
 description: A free-to-use translatation service for foreign language markdown file.
-downloads: 714
+downloads: 739
 mobile: false
 number: 1925
 stars: 17

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: A plugin to render asciidoc blocks in Obsidian, initially asciidoc tables.
-downloads: 5387
+downloads: 5401
 mobile: true
 number: 479
 stars: 37

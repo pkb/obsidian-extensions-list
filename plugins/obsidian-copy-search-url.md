@@ -5,7 +5,7 @@ author:
 - '[[czottmann|Carlo Zottmann]]'
 categories: []
 description: Adds a button to the search view for copying the Obsidian search URL.
-downloads: 4929
+downloads: 4935
 mobile: false
 number: 606
 stars: 26

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes and blog posts with Mixa directly from Obsidian
-downloads: 3881
+downloads: 3892
 mobile: false
 number: 814
 stars: 18

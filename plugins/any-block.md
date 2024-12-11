@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: 'You can flexibility to create a ''Block'' by some means. It also provides
   some useful features, like `list to table`. '
-downloads: 16268
+downloads: 16534
 mobile: true
 number: 869
 stars: 204

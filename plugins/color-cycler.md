@@ -5,7 +5,7 @@ author:
 - '[[tjbrennan|Taylor Brennan]]'
 categories: []
 description: Dynamically change the accent color of the theme.
-downloads: 2039
+downloads: 2061
 mobile: true
 number: 1509
 stars: 4

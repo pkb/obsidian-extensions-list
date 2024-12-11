@@ -5,7 +5,7 @@ author:
 - '[[Natumsol|Natumsol]]'
 categories: []
 description: 自动为中英文之间插入空格，排版强迫者的福音。
-downloads: 22465
+downloads: 22592
 mobile: false
 number: 177
 stars: 82

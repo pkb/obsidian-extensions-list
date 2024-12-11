@@ -5,7 +5,7 @@ author:
 - '[[geoffreysflaminglasersword|Garrett]]'
 categories: []
 description: A for-fun graph plugin
-downloads: 10036
+downloads: 10084
 mobile: true
 number: 437
 stars: 36

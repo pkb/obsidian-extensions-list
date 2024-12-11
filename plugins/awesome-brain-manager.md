@@ -6,7 +6,7 @@ author:
 categories: []
 description: A toolkit tries to solve all the trivial problems most people usually
   encountered in obsidian.
-downloads: 7355
+downloads: 7375
 mobile: true
 number: 831
 stars: 89

@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for Obsidian. This plugin renders codeblocks with csv
   format.
-downloads: 3632
+downloads: 3652
 mobile: true
 number: 1218
 stars: 5

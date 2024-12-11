@@ -6,7 +6,7 @@ author:
 categories: []
 description: 'Work with chord sheets (chords over lyrics) in your Vault: Chord diagrams,
   transpose, autoscroll and more. Works in live preview and reading mode.'
-downloads: 4958
+downloads: 5057
 mobile: true
 number: 1447
 stars: 54
@@ -86,7 +86,7 @@ automatically as you adjust the speed.
 
 | Minimal dark                               | Minimal light                                 | AnuPpuccin light                                  |
 |--------------------------------------------|------------------------------------------------|------------------------------------------------------|
-| ![minimal-dark.png](https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/HEAD/docs/minimal-dark.png) | ![minimal-bright.png](docs/minimal-bright.png) | ![anuppuccin-bright.png](docs/anuppuccin-bright.png) |
+| ![minimal-dark.png](https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/HEAD/docs/minimal-dark.png) | ![minimal-bright.png](https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/HEAD/docs/minimal-bright.png) | ![anuppuccin-bright.png](https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/HEAD/docs/anuppuccin-bright.png) |
 
 To customize colors and styles, use the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin. 
 

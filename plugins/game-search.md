@@ -5,7 +5,7 @@ author:
 - '[[CMorooney|Calvin forked from anpigon]]'
 categories: []
 description: Helps you find games and create notes. Optional Steam Library Sync
-downloads: 6465
+downloads: 6497
 mobile: true
 number: 915
 stars: 36
@@ -86,7 +86,7 @@ release_date: {{released}}
 background_image: {{background_image}}
 ---
 
-![{{name}}]({{background_image}})
+![{{name}}](https://raw.githubusercontent.com/CMorooney/obsidian-game-search-plugin/HEAD/{{background_image}})
 
 Genres: {{genres}}
 Release Date: {{released}}

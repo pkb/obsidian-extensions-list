@@ -5,7 +5,7 @@ author:
 - '[[basham|Chris Basham]]'
 categories: []
 description: Implicitly add an alias matching the first heading in a document.
-downloads: 5025
+downloads: 5041
 mobile: true
 number: 639
 stars: 16

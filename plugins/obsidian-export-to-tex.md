@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Export vault files in a format amenable to pasting into a tex document
-downloads: 8397
+downloads: 8416
 mobile: false
 number: 57
 stars: 39

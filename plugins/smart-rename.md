@@ -5,7 +5,7 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Renames notes keeping previous title in existing links
-downloads: 5256
+downloads: 5313
 mobile: true
 number: 894
 stars: 26

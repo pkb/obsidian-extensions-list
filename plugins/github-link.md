@@ -5,7 +5,7 @@ author:
 - '[[nathonius|Nathonius]]'
 categories: []
 description: Enrich your notes with issue and pull request content from GitHub
-downloads: 2336
+downloads: 2357
 mobile: true
 number: 1431
 stars: 31

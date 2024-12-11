@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: This is an Obsidian plugin which is another choice of Quick switcher.
-downloads: 74504
+downloads: 74816
 mobile: true
 number: 323
 stars: 251

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Screenshot png to jpeg and compress and rename
-downloads: 9534
+downloads: 9568
 mobile: true
 number: 509
 stars: 41

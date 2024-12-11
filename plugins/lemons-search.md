@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A blazingly fast fuzzy finder with file preview.
-downloads: 497
+downloads: 519
 mobile: false
 number: 1944
 stars: 14

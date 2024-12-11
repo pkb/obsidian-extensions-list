@@ -5,7 +5,7 @@ author:
 - '[[xiaotianhu|Rainyluo]]'
 categories: []
 description: Save messages into vault which sending through WeChat / HTTP API / Email
-downloads: 1483
+downloads: 1515
 mobile: true
 number: 1793
 stars: 8

@@ -5,7 +5,7 @@ author:
 - '[[twentytwokhz|Florin Bobis]]'
 categories: []
 description: Translates given text to desired language
-downloads: 35789
+downloads: 36069
 mobile: true
 number: 351
 stars: 43

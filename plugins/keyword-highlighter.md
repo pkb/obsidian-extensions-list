@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically highlight specified keywords within your Obsidian notes
   for enhanced visibility and quick reference.
-downloads: 5660
+downloads: 5718
 mobile: true
 number: 1253
 stars: 22

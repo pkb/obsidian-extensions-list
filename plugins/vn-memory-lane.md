@@ -8,7 +8,7 @@ categories:
 description: Relive and celebrate your life's milestones on a personal, interactive
   timeline. A nostalgic journey through your history with anniversary reminders and
   cherished memories.
-downloads: 3159
+downloads: 3215
 mobile: true
 number: 1434
 stars: 9

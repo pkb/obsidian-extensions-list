@@ -5,7 +5,7 @@ author:
 - '[[dobrovolsky|dobrovolsky]]'
 categories: []
 description: 'Structured plugin. Create hierarchy in notes using . '
-downloads: 5766
+downloads: 5775
 mobile: true
 number: 359
 stars: 65

@@ -5,7 +5,7 @@ author:
 - '[[ixth|Mikhail Menshikov <ainop@ya.ru>]]'
 categories: []
 description: Obsidian plugin that allows to add classes and styles on markdown blocks
-downloads: 4813
+downloads: 4829
 mobile: true
 number: 709
 stars: 40
@@ -43,8 +43,8 @@ h2 {
 
 Result:
 
-![Style tag render](./style-dark.png#gh-dark-mode-only)
-![Style tag render](./style-light.png#gh-light-mode-only)
+![Style tag render](https://raw.githubusercontent.com/ixth/obsidian-stylist/HEAD/style-dark.png#gh-dark-mode-only)
+![Style tag render](https://raw.githubusercontent.com/ixth/obsidian-stylist/HEAD/style-light.png#gh-light-mode-only)
 
 > **Note**
 > All styles are processed to prevent messing up the rest of the Obsidian app.
@@ -79,8 +79,8 @@ Or if you want certain blocks on your page to use multi-column layout, you can j
 
 Result:
 
-![Class render](./class-dark.png#gh-dark-mode-only)
-![Class render](./class-light.png#gh-light-mode-only)
+![Class render](https://raw.githubusercontent.com/ixth/obsidian-stylist/HEAD/class-dark.png#gh-dark-mode-only)
+![Class render](https://raw.githubusercontent.com/ixth/obsidian-stylist/HEAD/class-light.png#gh-light-mode-only)
 
 
 %% README_END %%

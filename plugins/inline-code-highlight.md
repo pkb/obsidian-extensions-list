@@ -6,7 +6,7 @@ author:
 categories: []
 description: Highlight inline `'md **code**` blocks as well as you do the ```md **big**```
   ones
-downloads: 4135
+downloads: 4154
 mobile: true
 number: 1048
 stars: 3

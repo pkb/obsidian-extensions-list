@@ -5,7 +5,7 @@ author:
 - '[[scottwillmoore|Scott Moore]]'
 categories: []
 description: An Obsidian plugin to display short internal links.
-downloads: 10491
+downloads: 10531
 mobile: true
 number: 755
 stars: 51
@@ -36,8 +36,8 @@ Please create an issue on [GitHub](https://github.com/scottwillmoore/obsidian-sh
 
 | Without plugin                                                      | With Plugin                                                   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------- |
-| ![Screenshot without the plugin](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/australia-without.png) | ![Screenshot with the plugin](screenshots/australia-with.png) |
-| ![Screenshot without the plugin](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/example-without.png)   | ![Screenshot with the plugin](screenshots/example-with.png)   |
+| ![Screenshot without the plugin](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/australia-without.png) | ![Screenshot with the plugin](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/australia-with.png) |
+| ![Screenshot without the plugin](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/example-without.png)   | ![Screenshot with the plugin](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/example-with.png)   |
 
 ![Screenshot of settings](https://raw.githubusercontent.com/scottwillmoore/obsidian-short-links/HEAD/screenshots/configuration.png)
 

@@ -5,7 +5,7 @@ author:
 - '[[liuxingyu521|Xuer]]'
 categories: []
 description: make cursor goaway after open a text file
-downloads: 9449
+downloads: 9615
 mobile: true
 number: 1371
 stars: 4

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Provides commands for bulk enabling/disabling of plugins. Useful for
   debugging when you have many plugins.
-downloads: 7583
+downloads: 7604
 mobile: true
 number: 419
 stars: 58

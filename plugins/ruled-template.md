@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Select templates automaticaly based on rules at file creation.
-downloads: 3586
+downloads: 3590
 mobile: true
 number: 1025
 stars: 11

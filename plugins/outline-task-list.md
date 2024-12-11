@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Convert a note's outline to a task list.
-downloads: 488
+downloads: 492
 mobile: true
 number: 1617
 stars: 1

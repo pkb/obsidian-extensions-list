@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Integrates Fabric into your vault
-downloads: 1680
+downloads: 1720
 mobile: false
 number: 1791
-stars: 43
+stars: 44
 title: Unofficial Fabric Integration
 type: plugin
 updated: '2024-08-23T00:14:34'

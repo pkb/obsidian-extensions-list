@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Export notes to Quarto-compatible QMD files.
-downloads: 122
+downloads: 136
 mobile: true
 number: 1946
 stars: 17

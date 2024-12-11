@@ -5,7 +5,7 @@ author:
 - '[[FabianUntermoser|Fabian Untermoser]]'
 categories: []
 description: Navigate to the next and previous file in the current directory
-downloads: 2932
+downloads: 2954
 mobile: true
 number: 1337
 stars: 10

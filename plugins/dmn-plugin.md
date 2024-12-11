@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: This plugin enables viewing DMNs using dmn-js.
-downloads: 3557
+downloads: 3560
 mobile: true
 number: 715
 stars: 3

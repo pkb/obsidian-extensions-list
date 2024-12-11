@@ -6,20 +6,20 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Find links to similar notes using artificial intelligence from OpenAI.
-downloads: 319322
+downloads: 327731
 mobile: true
 number: 754
 stars: 2900
 title: Smart Connections
 type: plugin
-updated: '2024-12-04T05:57:48'
+updated: '2024-12-06T22:59:24'
 url: https://github.com/brianpetro/obsidian-smart-connections
-version: 2.3.39
+version: 2.3.42
 ---
 
 %% README_START %%
 
-# 🧩 Smart Connections: AI-Powered Note Connections `v2.1`
+# 🧩 Smart Connections: AI-Powered Note Connections `v2.3`
 
 **Spend less time** *linking*, *tagging* and *organizing* because **Smart Connections *finds relevant notes*** so you don't have to!
 

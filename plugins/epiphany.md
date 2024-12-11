@@ -5,7 +5,7 @@ author:
 - '[[Epiphany-Notes|Epiphany]]'
 categories: []
 description: Synchronize voice notes from the Epiphany app directly into your vault
-downloads: 110
+downloads: 123
 mobile: true
 number: 1901
 stars: 1
@@ -20,12 +20,13 @@ version: 1.1.5
 
 # Epiphany Voice Plugin
 
-**Send transcribed voice notes to Obsidian from your iPhone and Apple Watch in seconds.** 
+Send transcribed voice notes to Obsidian from your iPhone and Apple Watch in seconds.
 
-This plugin makes it ridiculously easy to dictate notes to Obsidian without ever need to open the Obsidian mobile app.
+This plugin makes it ridiculously easy to dictate notes to Obsidian without ever needing to open the Obsidian mobile app.
 
-The Epiphany Voice mobile app will need to be installed to function.  
-While in beta, access can be requested at [Epiphany](https://epiphanyvoice.io/)   (ios only currently)
+The Epiphany Voice mobile app will need to be installed to function. 
+
+[iOS App Store Page](http://www.epiphanyvoice.io) (ios only currently)
 
 ## Installation Instructions
 
@@ -35,14 +36,16 @@ While in beta, access can be requested at [Epiphany](https://epiphanyvoice.io/) 
 
 3. Enabling will open a new One Time Password tab. (Use the same email your Epiphany account is associated with). Enter the One Time Password you receive via email to complete the authentication process.
 
-4. Once OTP process is complete, you'll be able to connect Obsidian as a destination in the Epiphany app.
-By default, notes will go to an "Epiphany Notes" note.  If you toggle "Create a separate note for each record", a new note will be created for every new Epiphany you send.
-
-(Daily note appending coming soon)
-
 ## Usage
+- Once the OTP process is complete in Obsidian, you'll be able to create an action with Obsidian in the Epiphany app.
 
-### Voice Note Synchronization
+Options for Note creation:
+- By default, notes will go to an "Epiphany Notes" note. 
+- If you toggle "Create a separate note for each record", a new note will be created for every new Epiphany you send.
+- (Daily note appending coming soon)
+
+
+## Voice Note Synchronization
 
 #### Periodic Fetching
 The plugin will periodically check for new voice notes on the Epiphany service and update your vault. You can also manually trigger a sync via the command palette.

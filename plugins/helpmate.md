@@ -5,7 +5,7 @@ author:
 - '[[TfTHacker|TfTHacker]]'
 categories: []
 description: Integrating help systems into the Obsidian UI.
-downloads: 6528
+downloads: 6643
 mobile: true
 number: 1292
 stars: 35

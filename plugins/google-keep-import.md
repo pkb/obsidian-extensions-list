@@ -8,7 +8,7 @@ categories:
 description: Imports Google Keep backup files and attachments. Can also be used to
   import other files. Use the official Obsidian Importer plugin instead unless you
   need additional customisation of character mapping or importing of extraneous files.
-downloads: 7304
+downloads: 7329
 mobile: true
 number: 903
 stars: 25

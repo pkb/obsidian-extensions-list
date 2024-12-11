@@ -6,10 +6,10 @@ author:
 categories: []
 description: Gamify your task management with rewards system, craft your tasks by
   tags.
-downloads: 2971
+downloads: 3045
 mobile: true
 number: 1574
-stars: 53
+stars: 55
 title: Gamified Tasks
 type: plugin
 updated: '2024-11-27T00:15:23'

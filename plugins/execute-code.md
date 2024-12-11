@@ -9,7 +9,7 @@ description: 'Allows to execute code snippets within a note. Supported programmi
   languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript,
   Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell,
   Scala, Racket, F#, Batch, Shell & Powershell.'
-downloads: 92221
+downloads: 93148
 mobile: false
 number: 493
 stars: 1200
@@ -31,7 +31,7 @@ version: 2.0.0
 
 </div>
 
-This plugin allows you to execute code snippets in code blocks in your notes. The plugin adds a 'run' button for code blocks in supported languages. Clicking them results in the code of the block being executed. After the execution the result of the execution is showed. An interactive input element is created when your code snippets reads expects user input.
+This plugin allows you to execute code snippets in code blocks in your notes. The plugin adds a 'run' button for code blocks in supported languages. Clicking them results in the code of the block being executed locally. After the execution the result of the execution is showed. An interactive input element is created when your code snippets reads expects user input.
 
 The result is shown only after the execution is finished. It is not possible to enter text on the command line into the executed program now.
 
@@ -42,20 +42,20 @@ The result is shown only after the execution is finished. It is not possible to 
 
 > [!NOTE]
 > Advertisement on my behalf:
-> I am working on my master's thesis and looking for a PhD position in explainable AI or foundations of learning - if you have or know about an open position in that field, I would love to hear about it 😄
+> I am working on my master's thesis and looking for a PhD position in AI (especially explainable AI or foundations of machine learning) - if you have or know about an open position in that field, I would love to hear about it 😄
 
 
 <hr></div>
 
-
 The following [languages are supported](#supported-programming-languages-): C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell, Octave, Maxima, Zig and OCaml.
 
+If you are new to MarkDown or Obsidian.md, you can go to the [Quickstart Guide](#quickstart-guide-) or take a look in to [some blogs and videos that feature this plugin](#featured-in)
 
 Python, Rust, and Octave support embedded plots. All languages support ["magic" commands](#magic-commands-) that help you to access paths in obsidian or show images in your notes.
 
 You can create code blocks that are executed before or after each code block of the same language and define [global code injections](#global-code-injection-and-reusing-code-blocks-).
 
-New: You can [persistent output](#persistent-output-experimental) to store the output of a code block in the note and export it to PDF.
+New: You can enable [persistent output](#persistent-output-experimental) to store the output of a code block in the note and export it to PDF.
 
 Take a look at the [changelog](CHANGELOG.md) to see what has changed in recent versions.
 
@@ -78,6 +78,7 @@ If you like this plugin and use it a lot, please consider supporting me in conti
 | "Escape ChatGPT. Make your own Code Interpreter EASY" by _I Versus AI_ | "Obsidian & quarto integration" by _Michel's Science Speedrun_ | "Write SQL Queries in...Obsidian?" by _GlareDB_ | "인생 노트앱...드디어 찾았습니다..!" by _노마드 코더 Nomad Coders_|
 
 In blogs:
+- ["Why and how you should switch to Obsidian." by _Connero_](https://medium.com/@connero_44521/why-and-how-you-should-switch-to-obsidian-c857ae315afd)
 - ["Using Obsidian: Coding Notes" by _Kera Cudmore_](https://www.codu.co/articles/using-obsidian-coding-notes-pqjyljkh)
 - ["Obsidian and Jupyter Notebooks" by _Brian Carey_](https://medium.com/@biscotty666/obsidian-and-jupyter-notebooks-5d90ab3eab4c)
 
@@ -732,6 +733,17 @@ or the [Obsidian Code Styler plugin](https://github.com/mayurankv/Obsidian-Code-
 
 Take a look at the [Obsidian Tools python package](https://github.com/mfarragher/obsidiantools) to find some useful 
 tools for interacting with your vault.
+
+
+## Quickstart Guide
+
+Start by checking if the plugin is installed and **activated**. Continue by creating a code block in your preferred language. Check above to see if the language is supported.
+
+Now you can switch from the preview mode to the rendered mode (where you can't edit the text anymore). Now, when you hover over the code block, you should see a button labeled "run". Click it!
+
+If it didn't work and a warning appears (that is not related to a bug in your code), you probably need to set the correct execution part for the language (e.g., "C://User/YourName/anaconda/python.exe" or something like that). You can find instructions about how to find the right path below.
+
+Now it works, great! Feel free to read or skim through the text above to learn more features you might like, for example persistent output or embedding of plots.
 
 
 ## Installation 💾

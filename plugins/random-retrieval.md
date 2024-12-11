@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Random Note Retrieval based on LLMs.
-downloads: 36
+downloads: 38
 mobile: false
 number: 1962
 stars: 1

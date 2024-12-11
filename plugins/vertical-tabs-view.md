@@ -5,7 +5,7 @@ author:
 - '[[hdykokd|hdykokd]]'
 categories: []
 description: Provides a vertical tabs view.
-downloads: 6163
+downloads: 6185
 mobile: true
 number: 1137
 stars: 29

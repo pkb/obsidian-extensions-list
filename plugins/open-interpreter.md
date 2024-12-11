@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use Open Interpreter to run automatic operations on your vault
-downloads: 232
+downloads: 246
 mobile: false
 number: 1942
-stars: 24
+stars: 25
 title: Open Interpreter
 type: plugin
 updated: '2024-10-30T22:11:37'

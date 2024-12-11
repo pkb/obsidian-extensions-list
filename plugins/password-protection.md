@@ -7,7 +7,7 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Lock and protect your private notes and diary with a password, no encrypt,
   no decrypt.
-downloads: 18009
+downloads: 18294
 mobile: true
 number: 1013
 stars: 42

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically switches previously opened Markdown pages into reading
   mode.
-downloads: 2940
+downloads: 2950
 mobile: false
 number: 1221
 stars: 0

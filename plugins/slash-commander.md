@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize the slash command list, assign each command an icon.
-downloads: 12882
+downloads: 13082
 mobile: true
 number: 1318
 stars: 51

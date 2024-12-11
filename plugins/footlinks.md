@@ -5,7 +5,7 @@ author:
 - '[[DahaWong|Daha]]'
 categories: []
 description: Extracts links from the main text to footer.
-downloads: 11166
+downloads: 11178
 mobile: true
 number: 49
 stars: 59

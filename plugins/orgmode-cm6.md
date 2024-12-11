@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Edit Orgmode files in Obsidian.
-downloads: 3187
+downloads: 3240
 mobile: true
 number: 1379
 stars: 54

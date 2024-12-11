@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin allows open a link in current document or regex based navigation
   in editor mode using hotkey
-downloads: 24441
+downloads: 24501
 mobile: true
 number: 12
 stars: 138

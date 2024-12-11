@@ -7,7 +7,7 @@ categories: []
 description: Automatically update a frontmatter modified date field when you modify
   your note. This will not use the filesystem time, but only when you modify the file
   through Obsidian. Optionally store a history of edit times.
-downloads: 18010
+downloads: 18265
 mobile: true
 number: 1081
 stars: 81

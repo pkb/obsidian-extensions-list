@@ -5,7 +5,7 @@ author:
 - '[[autohub7|Steven Jin]]'
 categories: []
 description: This plugin allows users to easily open all selected links in edit mode.
-downloads: 3577
+downloads: 3585
 mobile: true
 number: 873
 stars: 7

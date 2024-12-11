@@ -5,10 +5,10 @@ author:
 - '[[tnichols217|Trevor Nichols]]'
 categories: []
 description: Allows you to create columns in Obsidian Markdown
-downloads: 50084
+downloads: 51054
 mobile: true
 number: 497
-stars: 212
+stars: 214
 title: Obsidian Columns
 type: plugin
 updated: '2024-12-01T03:23:20'
@@ -184,6 +184,18 @@ The flexGrow property sets the width of a column with respect to the sizes of al
 
 The property can be set to any valid positive number (0.4, 10, 23.62)
 
+#### border properties
+
+Border properties can be used to configure a border around both either a `col` or `col-md` column. These properties
+directly match to the available CSS properties as seen [here](https://www.w3schools.com/css/css_border.asp). If any of
+the border properties are specified, a border will be created with default values for all non-specified properties. The
+available properties are:
+- borderColor: (Default: `white`) CSS color
+- borderStyle: (Default: `solid`) CSS border-style
+- borderWidth: (Default: `1px`) CSS border-width. If no unit is specified, `px` is assumed
+- borderRadius: (Default: `0`) CSS border-radius. If no unit is specified, `px` is assumed
+- borderPadding: (Default: `0`) CSS padding. If no unit is specified, `px` is assumed
+
 ## Examples
 
 ![image](https://user-images.githubusercontent.com/62992267/181198772-f9f11e54-d0f2-4a60-a0aa-8ebb364bffe8.png)
@@ -273,6 +285,51 @@ or using callout syntax:
 >>>> let msg = "Hello, world!";
 >>>> console.log(msg)
 ````
+
+### Border example
+![image](https://github.com/NateHawk85/obsidian-columns/assets/7596412/c6725301-cb12-41e7-80b3-361fd5a79280)
+
+Produced by the MD below:
+
+````````md
+`````col
+borderColor=purple
+borderPadding=10
+===
+
+```col-md
+borderColor=red
+borderStyle=dashed
+===
+## Column 0
+```
+```col-md
+borderPadding=5px
+===
+## Column 1
+```
+
+````col
+borderColor=#d60da1
+borderPadding=20
+borderRadius=5em
+===
+
+```col-md
+borderColor=teal
+borderWidth=5px
+===
+### Nested Column 0
+```
+```col-md
+borderColor=orange
+===
+### Nested Column 1
+```
+````
+
+`````
+````````
 
 ## List Structure
 

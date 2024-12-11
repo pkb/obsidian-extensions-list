@@ -5,7 +5,7 @@ author:
 - '[[paddan|Patrik Lindefors]]'
 categories: []
 description: This plugin converts text into code blocks with automatic language detection.
-downloads: 9261
+downloads: 9321
 mobile: true
 number: 542
 stars: 31

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Export|Export]]'
 description: This is a simple plugin that converts the selected markdown to HTML and
   copies it to the clipboard.
-downloads: 32946
+downloads: 33131
 mobile: true
 number: 410
 stars: 40

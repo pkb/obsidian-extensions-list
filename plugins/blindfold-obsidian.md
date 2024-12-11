@@ -5,7 +5,7 @@ author:
 - '[[vzsky|my99n]]'
 categories: []
 description: Fold text by making it completely hidden.
-downloads: 4276
+downloads: 4289
 mobile: true
 number: 967
 stars: 6

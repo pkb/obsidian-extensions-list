@@ -5,7 +5,7 @@ author:
 - '[[hrenaud|Renaud Héluin @ NovaGaïa]]'
 categories: []
 description: This is a simple plugin for add a third state to checkbox list.
-downloads: 6052
+downloads: 6077
 mobile: true
 number: 648
 stars: 15

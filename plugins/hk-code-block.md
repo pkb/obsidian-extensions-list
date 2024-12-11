@@ -6,10 +6,10 @@ author:
 categories: []
 description: Obsidian plugin developed by Heekang Park; Make code block looking good
   on reading view
-downloads: 6774
+downloads: 6816
 mobile: true
 number: 890
-stars: 62
+stars: 63
 title: HK Code Block
 type: plugin
 updated: '2023-04-18T05:58:27'

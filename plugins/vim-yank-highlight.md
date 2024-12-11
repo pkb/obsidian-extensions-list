@@ -6,7 +6,7 @@ author:
 categories: []
 description: Highlight yanked text in Vim mode. Enjoy that subtle animation you've
   missed so much.
-downloads: 3667
+downloads: 3700
 mobile: false
 number: 1316
 stars: 10

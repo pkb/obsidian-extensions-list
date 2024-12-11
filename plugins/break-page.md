@@ -7,7 +7,7 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Export|Export]]'
 description: Add shortkey and command to insert a break page formating for pdf exports.
-downloads: 4364
+downloads: 4482
 mobile: true
 number: 1464
 stars: 6

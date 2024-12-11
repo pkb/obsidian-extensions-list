@@ -5,10 +5,10 @@ author:
 - '[[vincentbavitz|vincentbavitz]]'
 categories: []
 description: Intelligently trancribe and categorize your voice notes
-downloads: 5242
+downloads: 5275
 mobile: false
 number: 1124
-stars: 52
+stars: 53
 title: Vox
 type: plugin
 updated: '2024-09-18T12:26:01'
@@ -19,6 +19,9 @@ version: 1.1.1
 %% README_START %%
 
 # Obsidian Vox - Smart Voice Transcription
+
+> [!NOTE]  
+> Due to massively increased usage, the backend will be down between December 3rd and December 7th 2024 for major backend refactoring and speed and reliability improvements. **The backend will be upgraded to a dedicated 4090 cluster** which requires reconfiguring its container and configuring Kubernetes.
 
 VOX automatically transcribes the audio notes in your Obsidian vault - extracting metadata, categories and tag information. The transcribed text is then placed into its final direcory with its accompanying metadata (frontmatter) and tags.
 

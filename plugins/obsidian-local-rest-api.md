@@ -6,10 +6,10 @@ author:
 categories: []
 description: Get, change or otherwise interact with your notes in Obsidian via a REST
   API.
-downloads: 89681
+downloads: 90491
 mobile: false
 number: 413
-stars: 667
+stars: 678
 title: Local REST API
 type: plugin
 updated: '2024-11-19T22:39:53'

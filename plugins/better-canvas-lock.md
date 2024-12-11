@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enhance the read-only mode in canvas with fully lock the scroll, zoom,
   drag-and-drop in read-only!
-downloads: 3293
+downloads: 3315
 mobile: true
 number: 1279
 stars: 14

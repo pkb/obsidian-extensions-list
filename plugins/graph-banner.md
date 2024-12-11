@@ -5,10 +5,10 @@ author:
 - '[[ras0q|ras0q]]'
 categories: []
 description: Display a local graph view to the note header
-downloads: 6911
+downloads: 7070
 mobile: true
 number: 1684
-stars: 50
+stars: 51
 title: Graph Banner
 type: plugin
 updated: '2024-10-21T14:30:03'

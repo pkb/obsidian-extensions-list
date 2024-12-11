@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search Everywhere with pressing Double Shift like in IntelliJ
-downloads: 6475
+downloads: 6494
 mobile: false
 number: 451
 stars: 21

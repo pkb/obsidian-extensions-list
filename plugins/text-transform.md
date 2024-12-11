@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Transform text to different casings using the command palette or keyboard
   shortcuts.
-downloads: 3221
+downloads: 3232
 mobile: true
 number: 1162
 stars: 0

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allows one audio track to be played at a time, pausing or stopping any
   others.
-downloads: 85
+downloads: 88
 mobile: true
 number: 1906
 stars: 1

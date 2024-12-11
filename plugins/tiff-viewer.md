@@ -5,7 +5,7 @@ author:
 - '[[ullmannJan|Jan Ullmann]]'
 categories: []
 description: View .tif(f) files by generating duplicates in form of .tif(f).png
-downloads: 1223
+downloads: 1230
 mobile: true
 number: 1465
 stars: 0

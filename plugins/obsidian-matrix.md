@@ -5,7 +5,7 @@ author:
 - '[[MohrJonas|Jonas Mohr]]'
 categories: []
 description: Utility to easily create LaTeX matrices
-downloads: 7154
+downloads: 7172
 mobile: false
 number: 460
 stars: 15

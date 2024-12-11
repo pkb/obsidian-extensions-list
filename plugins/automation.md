@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Automation|Automation]]'
 description: Execute commands on specific events.
-downloads: 1278
+downloads: 1299
 mobile: true
 number: 1572
 stars: 16

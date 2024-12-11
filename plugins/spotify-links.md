@@ -5,7 +5,7 @@ author:
 - '[[cutaiar|Dillon Cutaiar]]'
 categories: []
 description: Insert a link to the song currently playing on your Spotify
-downloads: 2531
+downloads: 2541
 mobile: false
 number: 1288
 stars: 4

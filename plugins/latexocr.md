@@ -5,7 +5,7 @@ author:
 - '[[JackBarker7|Jack Barker]]'
 categories: []
 description: Run LaTeX-OCR if it is installed locally.
-downloads: 1806
+downloads: 1822
 mobile: false
 number: 1356
 stars: 3

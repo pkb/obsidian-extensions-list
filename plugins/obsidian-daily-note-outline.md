@@ -7,7 +7,7 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a custom view which shows outline of multiple daily notes with headings,
   links, tags and list items
-downloads: 20112
+downloads: 20187
 mobile: true
 number: 659
 stars: 109

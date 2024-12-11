@@ -5,7 +5,7 @@ author:
 - '[[OpTi9|OpTi9]]'
 categories: []
 description: Renders Tekken Notation.
-downloads: 1133
+downloads: 1136
 mobile: true
 number: 1486
 stars: 14

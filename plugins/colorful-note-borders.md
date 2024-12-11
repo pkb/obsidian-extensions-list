@@ -7,7 +7,7 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add customizable colorful borders to notes based on folder location or
   frontmatter metadata, enhancing visual organization in Obsidian.
-downloads: 9547
+downloads: 9632
 mobile: true
 number: 866
 stars: 33

@@ -5,7 +5,7 @@ author:
 - '[[Ummler|Ummel]]'
 categories: []
 description: Automatically correct words with the first two letters in uppercase.
-downloads: 860
+downloads: 918
 mobile: true
 number: 1840
 stars: 3

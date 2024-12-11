@@ -6,15 +6,15 @@ author:
 categories: []
 description: Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the
   editor
-downloads: 11342
+downloads: 11703
 mobile: true
 number: 839
-stars: 102
+stars: 104
 title: Natural Language Syntax Highlighting
 type: plugin
-updated: '2023-03-12T00:21:24'
+updated: '2024-12-05T18:02:55'
 url: https://github.com/artisticat1/nl-syntax-highlighting
-version: 0.3.0
+version: 0.4.0
 ---
 
 %% README_START %%
@@ -28,6 +28,8 @@ A plugin for [Obsidian.md](https://obsidian.md/) that highlights adjectives, nou
 Colours can be customised in the plugin settings.
 
 ![screenshot 2](https://raw.githubusercontent.com/artisticat1/nl-syntax-highlighting/HEAD/img/screenshot_2.png)
+
+The highlighting can be toggled on or off at any time via the command **Natural Language Syntax Highlighting: Toggle on/off** in the Command palette.
 
 ## Contributing
 

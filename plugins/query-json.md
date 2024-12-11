@@ -5,7 +5,7 @@ author:
 - '[[rooyca|rooyca]]'
 categories: []
 description: Read, query and work with JSON.
-downloads: 746
+downloads: 765
 mobile: true
 number: 1656
 stars: 10

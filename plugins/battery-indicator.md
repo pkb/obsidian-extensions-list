@@ -5,7 +5,7 @@ author:
 - '[[Opisek|Kacper Darowski]]'
 categories: []
 description: Displays current battery level in the status bar.
-downloads: 269
+downloads: 273
 mobile: false
 number: 1866
 stars: 1

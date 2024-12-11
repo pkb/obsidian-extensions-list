@@ -5,7 +5,7 @@ author:
 - '[[Canna71|Gabriele Cannata]]'
 categories: []
 description: Performs cleanup tasks on the Obsidian vault
-downloads: 31737
+downloads: 31917
 mobile: true
 number: 598
 stars: 97

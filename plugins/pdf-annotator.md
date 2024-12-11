@@ -7,7 +7,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Other formats|Other formats]]'
 description: Simple PDF annotator.
-downloads: 2760
+downloads: 2858
 mobile: true
 number: 1804
 stars: 32

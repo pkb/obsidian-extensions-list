@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Opens the sidebar by hovering over it.
-downloads: 778
+downloads: 814
 mobile: false
 number: 1927
 stars: 7

@@ -5,7 +5,7 @@ author:
 - '[[DarioCasciato|Dario Casciato]]'
 categories: []
 description: Automatically collapses subfolders when a parent folder is collapsed
-downloads: 1319
+downloads: 1354
 mobile: true
 number: 1818
 stars: 5

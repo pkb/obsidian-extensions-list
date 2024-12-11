@@ -6,7 +6,7 @@ author:
 categories: []
 description: Control Input Method (IM) when `InsertLeave` and `InsertEnter` in Vim
   mode. Supports macOS, Windows, and Linux.
-downloads: 2328
+downloads: 2335
 mobile: false
 number: 1330
 stars: 14

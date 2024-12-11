@@ -5,7 +5,7 @@ author:
 - '[[RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Automatically make all inline maths \displaystyle.
-downloads: 2319
+downloads: 2327
 mobile: true
 number: 1306
 stars: 7

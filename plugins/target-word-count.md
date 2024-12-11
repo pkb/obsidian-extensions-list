@@ -5,7 +5,7 @@ author:
 - '[[twofive-labs|TwoFive Labs]]'
 categories: []
 description: Disable editing until you've added a target number of words.
-downloads: 639
+downloads: 647
 mobile: true
 number: 1578
 stars: 3

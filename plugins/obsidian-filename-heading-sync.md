@@ -6,7 +6,7 @@ author:
 categories: []
 description: Obsidian plugin for keeping the filename with the first heading of a
   file in sync
-downloads: 44985
+downloads: 45102
 mobile: true
 number: 85
 stars: 173

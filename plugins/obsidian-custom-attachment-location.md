@@ -7,15 +7,15 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize attachment location with variables($filename, $data, etc) like
   typora.
-downloads: 36360
+downloads: 37098
 mobile: true
 number: 341
-stars: 239
+stars: 241
 title: Custom Attachment Location
 type: plugin
-updated: '2024-11-26T08:18:33'
+updated: '2024-12-11T05:24:02'
 url: https://github.com/RainCat1998/obsidian-custom-attachment-location
-version: 4.29.1
+version: 4.30.2
 ---
 
 %% README_START %%

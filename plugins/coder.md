@@ -5,7 +5,7 @@ author:
 - '[[rudimuc|Rudi Häusler]]'
 categories: []
 description: Converts text into other formats (base64, ROT13)
-downloads: 2118
+downloads: 2127
 mobile: true
 number: 1325
 stars: 1

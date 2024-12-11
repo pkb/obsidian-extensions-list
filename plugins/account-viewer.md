@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically generate accounting tables from Markdown code blocks tagged
   with accounting.
-downloads: 975
+downloads: 1008
 mobile: true
 number: 1783
 stars: 0

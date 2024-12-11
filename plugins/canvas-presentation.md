@@ -5,7 +5,7 @@ author:
 - '[[Quorafind|Boninall]]'
 categories: []
 description: A plugin to help you display cards based on sequence.
-downloads: 10744
+downloads: 10795
 mobile: true
 number: 723
 stars: 79

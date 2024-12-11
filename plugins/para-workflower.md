@@ -7,7 +7,7 @@ categories:
 - '[[categories/Workflows]]'
 description: Helpful commands for starting and working in your vault with the PARA
   method.
-downloads: 1459
+downloads: 1479
 mobile: true
 number: 1538
 stars: 5

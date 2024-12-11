@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin allows you to set hotkeys with key sequences instead of a
   single chord.
-downloads: 6098
+downloads: 6120
 mobile: true
 number: 528
 stars: 39
@@ -23,6 +23,8 @@ version: 0.6.0
 
 This plugin allows you to use a sequences of chords for shortcuts instead of single chords.
 
+*NOTE*: I don't use Obsidian so much anymore, so I probably won't be working on the repo much going forward.
+
 ## Creating a hotkey
 
 You can modify your hotkeys under `Plugin Options > Sequence Hotkeys` or `Options > Community plugings > Sequence Hotkeys > Options`.
@@ -34,6 +36,7 @@ To create a hotkey for a command click the set hotkey button on the right-hand s
 # Known Issues
 
 -   If you have hotkey set in the default hotkeys, for example ⌘F, and you set a shortcut in the plugin using ⌘F ⌘W, for example, the plugin shortcut won't trigger.
+-   Doesn't support the use of different keyboard layouts, like Dvorak.
 
 
 %% README_END %%

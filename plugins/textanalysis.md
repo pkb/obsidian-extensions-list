@@ -8,7 +8,7 @@ description: 'Real-time text analysis on readability, structure, and complexity,
   over 30 tests like Average Syllables per Word, percent of difficult words, Lexical
   Diversity, Flesch Reading Ease Score, Gunning Fog Index, SMOG indes, Rix, Lix, Reading
   level and Reading/Speaking time. Built on top of textstat library. '
-downloads: 3021
+downloads: 3062
 mobile: true
 number: 1307
 stars: 31
@@ -23,7 +23,6 @@ version: 1.2.1
 
 [![Version](https://img.shields.io/github/v/release/mihakralj/obsidian-textanalysis)](https://github.com/mihakralj/obsidian-textanalysis) [![GitHub all releases](https://img.shields.io/github/downloads/mihakralj/obsidian-textanalysis/total?color=blue)](https://github.com/mihakralj/obsidian-textanalysis/releases)
  [![Stars](https://img.shields.io/github/stars/mihakralj/obsidian-textanalysis?style=flat)](https://github.com/mihakralj/obsidian-textanalysis/stargazers)  
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=mihakralj_obsidian-textanalysis&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=mihakralj_obsidian-textanalysis) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=mihakralj_obsidian-textanalysis&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=mihakralj_obsidian-textanalysis) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mihakralj_obsidian-textanalysis&metric=alert_status)](https://sonarcloud.io/summary/overall?id=mihakralj_obsidian-textanalysis)
 
 
 # Obsidian Text Analytics plugin
@@ -138,5 +137,6 @@ Issues and pull requests are welcome - happy to accept any improvements!
 
 ## Support
 Reach out on the Obsidian forums or open an issue here if you encounter any problems or have a feature request.
+
 
 %% README_END %%

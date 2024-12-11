@@ -5,7 +5,7 @@ author:
 - '[[ms3056|HiroMike]]'
 categories: []
 description: A simple clock.
-downloads: 3984
+downloads: 4007
 mobile: true
 number: 1127
 stars: 13

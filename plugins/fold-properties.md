@@ -5,7 +5,7 @@ author:
 - '[[itsonlyjames|James Alexandre]]'
 categories: []
 description: Adds fold/unfold properties function to folder context menu
-downloads: 223
+downloads: 265
 mobile: true
 number: 1966
 stars: 3

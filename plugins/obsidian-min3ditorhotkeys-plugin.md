@@ -5,7 +5,7 @@ author:
 - '[[d-sauer|d-sauer]]'
 categories: []
 description: Additional editor hotkeys inspired by coding editors
-downloads: 4488
+downloads: 4497
 mobile: true
 number: 81
 stars: 6

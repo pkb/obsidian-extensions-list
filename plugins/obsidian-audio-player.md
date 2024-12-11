@@ -6,10 +6,10 @@ author:
 categories: []
 description: Audio player with background playback, bookmarks and wave visualiser
   instead of the default html5 audio
-downloads: 10466
+downloads: 10552
 mobile: true
 number: 759
-stars: 98
+stars: 100
 title: Audio Player
 type: plugin
 updated: '2022-12-14T22:12:19'

@@ -5,10 +5,10 @@ author:
 - '[[joleaf|JoLeaf]]'
 categories: []
 description: This plugin renders an email code block.
-downloads: 5650
+downloads: 5658
 mobile: true
 number: 763
-stars: 31
+stars: 32
 title: Email code block
 type: plugin
 updated: '2024-06-18T16:28:15'

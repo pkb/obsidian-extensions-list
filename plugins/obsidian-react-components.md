@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for Obsidian. It allows you to write and use React components
   with Jsx inside your Obsidian notes.
-downloads: 16633
+downloads: 16749
 mobile: true
 number: 180
 stars: 250

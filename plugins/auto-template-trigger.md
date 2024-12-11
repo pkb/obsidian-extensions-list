@@ -7,10 +7,10 @@ categories:
 - '[[categories/Automation|Automation]]'
 description: Automatically apply or prompt for a template when creating a note. Supports
   assigning templates to folders.
-downloads: 14979
+downloads: 15177
 mobile: true
 number: 928
-stars: 33
+stars: 35
 title: Auto Template Trigger
 type: plugin
 updated: '2024-11-20T04:26:57'
@@ -42,6 +42,8 @@ The most specific folder path will take precedence.
 
 This means, if you assign a template for the root folder ("/"), all the new files will automatically apply that template.
 Still, you can assign other templates for folders to overwrite that behavior.
+
+If you _only_ want to use folder-specific templates and do not want to be prompted to pick a template, use the `Disable prompt` option.
 
 ## Prerequisites
 

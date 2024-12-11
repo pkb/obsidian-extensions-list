@@ -5,10 +5,10 @@ author:
 - '[[ALONELUR|Alonelur]]'
 categories: []
 description: Support auto select the apposite input method in different vim mode
-downloads: 8326
+downloads: 8407
 mobile: false
 number: 382
-stars: 84
+stars: 85
 title: Vim IM Select
 type: plugin
 updated: '2024-11-28T01:30:32'
@@ -23,6 +23,9 @@ version: 0.2.1
 [Chinese ver. 中文版本](./README_zh.md)
 
 This plugin is used to automatically switch the current input method of the system when `vim key binding` is used in Obsidian, to prevent non-English input method from causing key binding failure in `vim normal` mode.
+
+本插件用于在Obsidian.md中使用Vim时，自动切换当前输入法，以防止**非英文输入法**
+导致在Vim normal模式下按键失效。
 
 ## Install
 

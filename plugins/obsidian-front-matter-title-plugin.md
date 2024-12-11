@@ -6,15 +6,15 @@ author:
 categories: []
 description: Lets you define a title in frontmatter to be displayed as the filename
   for explorer, graph, search and etc.
-downloads: 33047
+downloads: 33587
 mobile: true
 number: 521
 stars: 252
 title: Front Matter Title
 type: plugin
-updated: '2024-10-27T17:24:23'
+updated: '2024-12-07T13:05:37'
 url: https://github.com/snezhig/obsidian-front-matter-title
-version: 3.12.0
+version: 3.13.1
 ---
 
 %% README_START %%

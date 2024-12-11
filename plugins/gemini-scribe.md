@@ -5,15 +5,15 @@ author:
 - '[[allenhutchison|Allen Hutchison]]'
 categories: []
 description: Interact with Gemini and use your notes as context.
-downloads: 187
+downloads: 295
 mobile: true
 number: 2007
 stars: 7
 title: Gemini Scribe
 type: plugin
-updated: '2024-11-26T07:20:31'
+updated: '2024-12-10T00:56:40'
 url: https://github.com/allenhutchison/obsidian-gemini
-version: 1.2.1
+version: 1.3.7
 ---
 
 %% README_START %%

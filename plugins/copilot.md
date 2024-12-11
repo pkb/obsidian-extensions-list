@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI Copilot in Obsidian.
-downloads: 278592
+downloads: 287199
 mobile: true
 number: 909
-stars: 3100
+stars: 3200
 title: Copilot
 type: plugin
-updated: '2024-12-04T02:52:00'
+updated: '2024-12-11T04:20:45'
 url: https://github.com/logancyang/obsidian-copilot
-version: 2.7.6
+version: 2.7.9
 ---
 
 %% README_START %%
@@ -41,7 +41,7 @@ If you enjoy Copilot for Obsidian, please consider [sponsoring this project](htt
 <a href="https://www.buymeacoffee.com/logancyang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
 
 SPECIAL THANKS TO OUR TOP SPONSORS:
-@pedramamini, @Arlorean, @dashinja, @azagore, @MTGMAD, @gpythomas, @emaynard, @scmarinelli, @borthwick, @adamhill, @gluecode, @rusi, @timgrote, @JiaruiYu-Consilium, @ddocta, @AMOz1, @agu3rra
+@mikelaaron, @pedramamini, @Arlorean, @dashinja, @azagore, @MTGMAD, @gpythomas, @emaynard, @scmarinelli, @borthwick, @adamhill, @gluecode, @rusi, @timgrote, @JiaruiYu-Consilium, @ddocta, @AMOz1, @chchwy, @pborenstein, @GitTom, @kazukgw, @mjluser1, @joesfer, @rwaal, @turnoutnow-harpreet, @dreznicek, @xrise-informatik, @jeremygentles, @ZhengRui, @bfoujols, @jsmith0475, @pagiaddlemon
 
 [Changelog](https://github.com/logancyang/obsidian-copilot/releases)
 
@@ -51,13 +51,13 @@ Copilot Plus is a brand new mode that brings powerful agentic capabilities to Ob
 
 Check out the demo video below for the first sneak peak of what Copilot Plus can do. It is under active development so expect more features to come very soon!
 
-<a href="https://youtu.be/WxcBEXkQoSE?si=Y5HnJgt-Ii_ZxLDl" target="_blank"><img src="https://raw.githubusercontent.com/logancyang/obsidian-copilot/HEAD/images/thumbnail-copilot-plus.png" width="700" /></a>
+<a href="https://youtu.be/tZ2jm_UPc6c?si=KjwkHFFRAHwZqlW4" target="_blank"><img src="https://raw.githubusercontent.com/logancyang/obsidian-copilot/HEAD/images/thumbnail-copilot-plus.png" width="700" /></a>
 
 ## 🛠️ Features
 
 - Engage with numerous LLMs seamlessly within Obsidian via the Copilot Chat window.
-- Access GPT-4 or Claude 3 without purchasing ChatGPT Plus or Claude Pro—simply use your own API key (stored locally) and pay as you go for the best value.
-- Choose from a variety of models, including OpenAI, Azure, Google, Claude, OpenRouter, Groq, Cohere, or **any third-party models with OpenAI-compatible APIs** via Custom Model.
+- Access OpenAI or Anthropic models without purchasing ChatGPT Plus or Claude Pro—simply use your own API key (stored locally) and pay as you go for the best value.
+- Choose from a variety of models, including OpenAI, Azure, Google, Anthropic, OpenRouter, Groq, Cohere, or **any third-party models with OpenAI-compatible APIs** via Custom Model.
 - Customize parameters like LLM temperature, max tokens, and conversation context to suit your needs (**be mindful of API costs**).
 - Utilize local models powered by LM Studio and Ollama.
 - Easily copy, edit, or insert any message to your note with a single click.
@@ -134,7 +134,7 @@ Now you can see the chat icon in your leftside ribbon, clicking on it will open 
 - "**New Chat**" clears all previous chat history. Again, please use "**Save as Note**" if you would like to save the chat.
 - You can set a very long context in the setting "**Conversation turns in context**" if needed.
 
-#### 📣 Again, please always be mindful of the API cost if you use GPT-4 with a long context!
+#### 📣 Again, please always be mindful of the API cost if you use expensive models with a long context!
 
 ## 🤔 FAQ (please read before submitting an issue)
 
@@ -181,13 +181,6 @@ Now you can see the chat icon in your leftside ribbon, clicking on it will open 
 </details>
 
 When opening an issue, please follow the issue template and include relevant console logs. You can go to Copilot's settings and turn on "Debug mode" at the bottom for more console messages. On Mac, you can open the console by pressing `Cmd+Opt+I`. On Windows, you can open the console by pressing `Ctrl+Shift+I`.
-
-## 📝 Planned features (feedback welcome)
-
-- Support **embedded PDFs** as context. Index PDFs in the vault locally same as notes.
-- Image support in chat.
-- User profile with different system prompts and model parameters for different use cases e.g. work, personal, creative writing, etc.
-- Interact with a **powerful AI agent** that knows your vault that has access to various tools like web search, note search, youtube video to markdown, etc. Explore, brainstorm and research like never before!
 
 ## 🙏 Thank You
 

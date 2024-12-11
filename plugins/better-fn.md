@@ -5,7 +5,7 @@ author:
 - '[[aidenlx|]]'
 categories: []
 description: Footnote popover for Obsidian
-downloads: 31374
+downloads: 31532
 mobile: false
 number: 191
 stars: 104

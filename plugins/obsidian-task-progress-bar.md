@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: A task progress bar plugin for tasks in Obsidian.
-downloads: 26549
+downloads: 26698
 mobile: true
 number: 552
 stars: 110

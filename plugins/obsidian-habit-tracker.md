@@ -5,7 +5,7 @@ author:
 - '[[duoani|Duo]]'
 categories: []
 description: This plguin creates a simple Month view for visualizing your punch records.
-downloads: 13494
+downloads: 13568
 mobile: true
 number: 214
 stars: 51

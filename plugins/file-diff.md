@@ -5,7 +5,7 @@ author:
 - '[[friebetill|Till Friebe]]'
 categories: []
 description: Shows the differences between two files..
-downloads: 8892
+downloads: 8962
 mobile: true
 number: 898
 stars: 97

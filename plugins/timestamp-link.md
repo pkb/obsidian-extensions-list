@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Copy timestamped links to blocks, headings and notes.
-downloads: 2502
+downloads: 2507
 mobile: true
 number: 1252
 stars: 2
@@ -37,10 +37,16 @@ An [Obsidian](https://obsidian.md/) plugin to copy timestamped links to blocks, 
     - E.g., `[[Note]]`
     - E.g., `[[Note]] 📝 2023-11-04T12:00`
 
-## Use cases
+## The story behind this plugin
 
-- Adding timestamps to links provides context
-    - For instance, in the slip-box method, one may create entry notes to accumulate notes (links) of similar topics. With timestamp information, can can see when the (block) links are created and inserted into the entry notes.
+[Obsidian Timestamp Link](https://exp.ptkm.net/obsidian-timestamp-link) was crafted with two [PTKM Core Principles](https://exp.ptkm.net/ptkm-core-principles) that shape its functionality:
+
+- **Context Preservation**: Ensuring no valuable information is lost
+- **Linking Everything**: Allowing seamless navigation
+
+Adding timestamps to links provides valuable context. For example, in the slip-box method, users can create entry notes to gather links related to similar topics.
+
+By including timestamp information, you can easily see when each block link was created and when note links were inserted into the entry notes, enhancing your understanding of the timeline and evolution of your ideas.
 
 ## Usage
 
@@ -57,7 +63,9 @@ Timestamp Link uses [moment.js](https://momentjs.com/docs/#/displaying/format/) 
 
 ## Support me
 
-<a href='https://ko-fi.com/C0C66C1TB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+If you find this plugin helpful, consider [sponsoring my work](https://github.com/sponsors/wenlzhang) or
+
+<a href='https://ko-fi.com/C0C66C1TB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 
 %% README_END %%

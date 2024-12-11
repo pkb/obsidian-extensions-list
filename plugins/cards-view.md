@@ -5,7 +5,7 @@ author:
 - '[[jillro|Maud Royer]]'
 categories: []
 description: Displays a card view of your notes.
-downloads: 6429
+downloads: 6579
 mobile: true
 number: 1532
 stars: 56

@@ -8,7 +8,7 @@ categories:
 description: Enhance your learning with active recall and spaced repetition. Track
   changes, create review questions, and streamline your study process for more effective,
   long-lasting learning.
-downloads: 1006
+downloads: 1041
 mobile: true
 number: 1833
 stars: 18

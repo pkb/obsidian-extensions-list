@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Flexible embedded micro templates powered by javascript functions
-downloads: 3525
+downloads: 3535
 mobile: true
 number: 1034
 stars: 7

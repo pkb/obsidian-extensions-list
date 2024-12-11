@@ -7,7 +7,7 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: An Obsidian plugin to paste data from Microsoft Excel, Google Sheets,
   Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.
-downloads: 115471
+downloads: 116084
 mobile: true
 number: 420
 stars: 202

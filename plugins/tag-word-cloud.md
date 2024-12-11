@@ -5,7 +5,7 @@ author:
 - '[[joethei|Johannes Theiner]]'
 categories: []
 description: Show a cloud of your tags/words in a note
-downloads: 13450
+downloads: 13495
 mobile: true
 number: 422
 stars: 53

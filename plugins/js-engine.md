@@ -5,7 +5,7 @@ author:
 - '[[mProjectsCode|Moritz Jung]]'
 categories: []
 description: Run JavaScript from within your notes.
-downloads: 14610
+downloads: 14867
 mobile: true
 number: 1141
 stars: 89

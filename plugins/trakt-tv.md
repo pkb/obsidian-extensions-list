@@ -5,7 +5,7 @@ author:
 - '[[fleker|Nick Felker]]'
 categories: []
 description: Syncs your Trakt.tv shows.
-downloads: 30
+downloads: 57
 mobile: true
 number: 2014
 stars: 0

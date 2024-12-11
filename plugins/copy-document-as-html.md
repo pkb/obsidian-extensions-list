@@ -7,7 +7,7 @@ categories:
 - '[[categories/Export|Export]]'
 description: Copy the current document to clipboard as HTML, including images, diagrams
   etc...
-downloads: 21846
+downloads: 21995
 mobile: false
 number: 669
 stars: 50

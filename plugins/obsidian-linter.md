@@ -9,7 +9,7 @@ description: Formats and styles your notes. It can be used to format YAML tags, 
   arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown
   contents like list, italics, and bold styles; and more with the use of custom rule
   options as well.
-downloads: 469466
+downloads: 472875
 mobile: true
 number: 249
 stars: 1300

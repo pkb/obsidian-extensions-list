@@ -6,7 +6,7 @@ author:
 categories: []
 description: This adds shortcuts to insert due dates for end of this week or end of
   next week.
-downloads: 3503
+downloads: 3507
 mobile: true
 number: 1004
 stars: 2

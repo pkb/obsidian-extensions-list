@@ -7,7 +7,7 @@ categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Automatic time tracking and metrics generated from your Obsidian usage
   activity.
-downloads: 9270
+downloads: 9325
 mobile: false
 number: 733
 stars: 63

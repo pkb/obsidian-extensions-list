@@ -5,7 +5,7 @@ author:
 - '[[jlweston|Jamie Weston]]'
 categories: []
 description: Find similar notes based on the frequency of terms within the vault.
-downloads: 448
+downloads: 454
 mobile: false
 number: 1729
 stars: 15

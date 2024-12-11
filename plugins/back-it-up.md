@@ -5,7 +5,7 @@ author:
 - '[[hammadxp|Hammad Javed]]'
 categories: []
 description: Quickly make a copy or snapshot of a note.
-downloads: 808
+downloads: 814
 mobile: true
 number: 1546
 stars: 4

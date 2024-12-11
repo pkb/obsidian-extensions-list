@@ -5,7 +5,7 @@ author:
 - '[[jcollingj|Jake Colling]]'
 categories: []
 description: Accelerate your work with LLMs in canvas and your notes
-downloads: 2856
+downloads: 2919
 mobile: false
 number: 1792
 stars: 119

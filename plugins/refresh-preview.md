@@ -5,7 +5,7 @@ author:
 - '[[mnaoumov|mnaoumov]]'
 categories: []
 description: Allows to refresh preview mode without reopening the note
-downloads: 856
+downloads: 885
 mobile: true
 number: 1769
 stars: 5

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Hide a file or a folder from the explorer (and bookmarks) using a little
   bit of auto-managed CSS!
-downloads: 720
+downloads: 756
 mobile: true
 number: 1704
 stars: 3

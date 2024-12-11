@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Embeddable Pikchr(https://pikchr.org) diagrams renderer for Obsidian(https://obsidian.md).
-downloads: 4374
+downloads: 4382
 mobile: true
 number: 777
 stars: 25

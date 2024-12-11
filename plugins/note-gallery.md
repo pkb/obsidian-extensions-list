@@ -6,7 +6,7 @@ author:
 categories: []
 description: A masonry gallery view for your notes. Allows to have a birds eye view
   over the notes in your vault.
-downloads: 10635
+downloads: 10942
 mobile: true
 number: 1321
 stars: 197
@@ -75,6 +75,7 @@ recursive: true      # optional: true | false
 limit: 10            # optional: 0 | any number
 sort: desc           # optional: desc | asc
 sortBy: mtime        # optional: mtime | ctime | name
+sortRandom: false    # optional: false | true - randomly sorts the cards, overrides other sorting options
 fontSize: 6pt        # optional: 6pt | NUMBERpt | NUMBERpx
 showTitle: true      # optional: true | false
 breakpoints:         # optional: allows to set breakpoints for number of columns

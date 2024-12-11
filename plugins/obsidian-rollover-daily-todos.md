@@ -8,10 +8,10 @@ categories:
 description: This Obsidian.md plugin rolls over incomplete TODOs from the previous
   daily note to today's daily note. (https://obsidian.md). (Originally created by
   Matthew Sessions)
-downloads: 101761
+downloads: 102200
 mobile: true
 number: 55
-stars: 273
+stars: 274
 title: Rollover Daily Todos
 type: plugin
 updated: '2024-01-22T11:35:29'

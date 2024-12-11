@@ -6,7 +6,7 @@ author:
 categories: []
 description: Effortlessly fetch and manage all the YouTube videos you've liked, search
   and sort them, and add them to your daily note.
-downloads: 416
+downloads: 428
 mobile: false
 number: 1838
 stars: 8

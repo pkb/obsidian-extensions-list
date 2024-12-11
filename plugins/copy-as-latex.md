@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Plugin to quickly copy markdown as Latex, with citations
-downloads: 9284
+downloads: 9319
 mobile: false
 number: 344
 stars: 36

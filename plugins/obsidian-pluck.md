@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Quickly create notes in Obsidian from web pages.
-downloads: 9201
+downloads: 9219
 mobile: false
 number: 212
 stars: 68

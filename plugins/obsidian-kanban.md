@@ -5,7 +5,7 @@ author:
 - '[[mgmeyers|mgmeyers]]'
 categories: []
 description: Create markdown-backed Kanban boards in Obsidian.
-downloads: 1443382
+downloads: 1452848
 mobile: true
 number: 159
 stars: 3300

@@ -5,7 +5,7 @@ author:
 - '[[WoodenMaiden|Yann POMIE (WoodenMaiden)]]'
 categories: []
 description: Easily create abbreviations that will be expanded after hitting `Space`.
-downloads: 3676
+downloads: 3704
 mobile: false
 number: 1228
 stars: 8

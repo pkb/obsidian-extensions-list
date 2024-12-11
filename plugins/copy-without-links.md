@@ -6,10 +6,10 @@ author:
 categories: []
 description: Strips the selection or current file of internal links and either copies
   to the clipboard, or in-place
-downloads: 1886
+downloads: 1894
 mobile: true
 number: 1350
-stars: 2
+stars: 3
 title: Strip Internal Links
 type: plugin
 updated: '2024-02-05T16:02:10'

@@ -5,7 +5,7 @@ author:
 - '[[akaalias|Alexis Rondeau]]'
 categories: []
 description: Discover the stories between your notes.
-downloads: 19368
+downloads: 19395
 mobile: true
 number: 89
 stars: 147

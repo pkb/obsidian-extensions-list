@@ -6,7 +6,7 @@ author:
 categories: []
 description: Set an individual hotkey for the first 9 bookmarks and open them just
   with your keyboard.
-downloads: 8890
+downloads: 8901
 mobile: true
 number: 84
 stars: 24

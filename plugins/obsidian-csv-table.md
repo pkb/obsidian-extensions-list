@@ -5,7 +5,7 @@ author:
 - '[[coddingtonbear|Adam Coddington <me@adamcoddington.net>]]'
 categories: []
 description: Render CSV data as a table within your notes.
-downloads: 21002
+downloads: 21116
 mobile: true
 number: 207
 stars: 122

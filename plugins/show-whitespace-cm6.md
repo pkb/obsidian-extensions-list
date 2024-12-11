@@ -6,15 +6,15 @@ author:
 categories: []
 description: CSS styles and CM6 extensions to highlight whitespace in Source and Live
   Preview modes.
-downloads: 5816
+downloads: 5940
 mobile: true
 number: 1310
-stars: 16
+stars: 17
 title: Show Whitespace
 type: plugin
-updated: '2024-10-30T03:14:06'
+updated: '2024-12-10T08:10:25'
 url: https://github.com/ebullient/obsidian-show-whitespace-cm6
-version: 0.2.4
+version: 0.2.5
 ---
 
 %% README_START %%

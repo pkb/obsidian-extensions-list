@@ -5,10 +5,10 @@ author:
 - '[[elijah-potter|Elijah Potter]]'
 categories: []
 description: The Grammar Checker for Developers
-downloads: 2720
+downloads: 2838
 mobile: false
 number: 1837
-stars: 24
+stars: 26
 title: Harper
 type: plugin
 updated: '2024-10-14T00:52:38'
@@ -23,7 +23,7 @@ version: 0.12.0
 [Harper](https://github.com/elijah-potter/harper) is a grammar checker for developers.
 Starting today, it's the [grammar checker for everyone else, too](https://writewithharper.com/obsidian/).
 
-![Screenshot of the Harper Plugin at work](./screenshot.webp)
+![Screenshot of the Harper Plugin at work](https://raw.githubusercontent.com/elijah-potter/harper-obsidian-plugin/HEAD/screenshot.webp)
 
 Unlike other grammar checkers available for Obsidian, Harper runs entirely on your device, without any additional setup. Just enable it, and you get fantastic, private, and open source grammar checking, instantly.
 

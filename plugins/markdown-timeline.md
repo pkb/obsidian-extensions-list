@@ -5,15 +5,15 @@ author:
 - '[[recklyss|Jiaheng Zhang]]'
 categories: []
 description: Convert markdown into timeline visualization
-downloads: 452
+downloads: 673
 mobile: true
 number: 2002
-stars: 11
+stars: 13
 title: Markdown Timeline
 type: plugin
-updated: '2024-11-30T18:18:51'
+updated: '2024-12-07T21:34:31'
 url: https://github.com/recklyss/markdown-timeline
-version: 0.0.2
+version: 0.0.3
 ---
 
 %% README_START %%
@@ -28,9 +28,11 @@ Convert markdown files into timeline visualizations within Obsidian.
 
 - Convert markdown content into visual timelines
 - Simple and intuitive markdown syntax
-- Interactive timeline view
+- Interactive timeline view with search and sort capabilities
 - Customizable styling
 - Chronological sorting of events
+- Search functionality to filter events by keywords
+- Configurable timeline header controls
 
 ## Installation
 
@@ -50,7 +52,13 @@ Create a timeline by using a code block with the `timeline` language identifier:
 # 2024-03-15
 ## Event Title
 Content
+![[some other notes]]
+---
 
+# 2023-03
+## Event Title
+Content
+![[some other notes]]
 ---
 
 # 2024-01-01
@@ -62,15 +70,29 @@ More content here
 ### Syntax Structure
 
 Each timeline event follows this structure:
-- `# YYYY-MM-DD` - The date of the event
+
+- `# YYYY-MM-DD` - The date of the event, the year is required, the month and day are optional
 - `## Title` - The event title
-- Content - The event description, can be markdown content
+- Content - The event description, can be markdown content, also support wikilink, try `[[some article]]` and `![[some notes]]`
 - `---` - Separator between events
+
+### Timeline Controls
+
+Each timeline includes interactive controls in the header:
+- Search box to filter events by keywords (searches in titles and content)
+- Sort button to toggle between ascending (oldest first) and descending (newest first) order
+
+### Settings
+
+The plugin settings allow you to:
+- Set the default sort order for new timelines
+- Show/hide the timeline header controls
+- Each timeline maintains its own sort order independently
 
 ## Support
 
 If you encounter any issues or have suggestions:
-1. Check the [GitHub Issues](https://github.com/recklyss/obsidian-timeline/issues)
+1. Check the [GitHub Issues](https://github.com/recklyss/markdown-timeline/issues)
 2. Create a new issue if needed
 
 ## License

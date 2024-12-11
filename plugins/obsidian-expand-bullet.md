@@ -5,7 +5,7 @@ author:
 - '[[Quorafind|Obsidian]]'
 categories: []
 description: A plugin for transforming bullet content into note.
-downloads: 4708
+downloads: 4713
 mobile: true
 number: 531
 stars: 15

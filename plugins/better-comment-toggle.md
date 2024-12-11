@@ -5,7 +5,7 @@ author:
 - '[[MrGVSV|Gino Valente]]'
 categories: []
 description: Improved comment toggling.
-downloads: 4195
+downloads: 4217
 mobile: true
 number: 1043
 stars: 8

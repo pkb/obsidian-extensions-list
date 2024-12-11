@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Embed videos and images and audios from your local device  in your notes.
-downloads: 357
+downloads: 415
 mobile: false
 number: 1949
-stars: 9
+stars: 10
 title: Local Media Embedder
 type: plugin
 updated: '2024-10-21T17:51:43'

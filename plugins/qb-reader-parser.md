@@ -5,7 +5,7 @@ author:
 - '[[J-Barta|Jedi_4]]'
 categories: []
 description: Parse tossups from QB Reader into individual clues to send to Anki.
-downloads: 2923
+downloads: 2934
 mobile: false
 number: 1166
 stars: 3

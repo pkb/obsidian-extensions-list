@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and embed blocks with ^block-references (aka ^block-ids)
-downloads: 418
+downloads: 444
 mobile: true
 number: 1851
 stars: 10

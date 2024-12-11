@@ -7,7 +7,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Copy or open the URL of the corresponding note on your Publish site.
   You can also open its Git commit history on GitHub.
-downloads: 5654
+downloads: 5661
 mobile: true
 number: 347
 stars: 20

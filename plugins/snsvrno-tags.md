@@ -5,7 +5,7 @@ author:
 - '[[snsvrno|snsvrno]]'
 categories: []
 description: Gives more options on how to display tags in preview mode.
-downloads: 1467
+downloads: 1474
 mobile: true
 number: 1421
 stars: 8

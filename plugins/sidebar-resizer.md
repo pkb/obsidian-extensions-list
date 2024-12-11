@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Adjust the sidebar sizes easily.
-downloads: 365
+downloads: 376
 mobile: true
 number: 1768
 stars: 0

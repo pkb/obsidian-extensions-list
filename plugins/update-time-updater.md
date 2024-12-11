@@ -5,7 +5,7 @@ author:
 - '[[muratagawa|MURATAGAWA Kei]]'
 categories: []
 description: Update the 'update time' element when saving or manually.
-downloads: 562
+downloads: 564
 mobile: true
 number: 1584
 stars: 4

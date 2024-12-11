@@ -6,10 +6,10 @@ author:
 categories: []
 description: This plugin adds a leaf id parameter to the URI protocol for switching
   between open obsidian tabs with Rofi. A sample Rofi script is included.
-downloads: 3197
+downloads: 3201
 mobile: false
 number: 934
-stars: 16
+stars: 17
 title: Rofi Helper
 type: plugin
 updated: '2023-02-21T19:00:04'

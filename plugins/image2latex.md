@@ -5,7 +5,7 @@ author:
 - '[[Hugo-Persson|Hugo Persson]]'
 categories: []
 description: Convert your images to Markdown and MathJax
-downloads: 4514
+downloads: 4538
 mobile: false
 number: 1200
 stars: 26

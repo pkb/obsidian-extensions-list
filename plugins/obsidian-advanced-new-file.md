@@ -5,10 +5,10 @@ author:
 - '[[vanadium23|vanadium23]]'
 categories: []
 description: This is a plugin for choosing folder on note creation.
-downloads: 17998
+downloads: 18056
 mobile: true
 number: 208
-stars: 62
+stars: 63
 title: Advanced new file
 type: plugin
 updated: '2023-03-04T21:01:29'

@@ -5,7 +5,7 @@ author:
 - '[[kdnk|Kodai Nakamura]]'
 categories: []
 description: Display the hierarchy instead of just the file name.
-downloads: 225
+downloads: 231
 mobile: true
 number: 1920
 stars: 1

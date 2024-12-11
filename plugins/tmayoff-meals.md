@@ -6,7 +6,7 @@ author:
 categories: []
 description: Store and manage recipes, create weekly meal plans and generate shopping
   lists.
-downloads: 2547
+downloads: 2573
 mobile: true
 number: 1340
 stars: 12

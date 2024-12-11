@@ -7,10 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Plugin to integrate Apple Reminders into Obsidian
-downloads: 10609
+downloads: 10653
 mobile: false
 number: 59
-stars: 150
+stars: 151
 title: Apple Reminders
 type: plugin
 updated: '2022-09-13T14:59:30'

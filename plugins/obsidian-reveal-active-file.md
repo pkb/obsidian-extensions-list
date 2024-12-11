@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin will reveal the active file in the navigation when a file
   is opened.
-downloads: 19572
+downloads: 19714
 mobile: true
 number: 56
 stars: 95

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Draw arrows across different parts of your notes, similar to on paper
-downloads: 3966
+downloads: 4028
 mobile: true
 number: 1403
 stars: 59

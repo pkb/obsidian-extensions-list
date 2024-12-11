@@ -5,7 +5,7 @@ author:
 - '[[sandrofigo|Sandro Figo]]'
 categories: []
 description: Shows raw BibTeX bibliography entries in a prettier way
-downloads: 7554
+downloads: 7590
 mobile: true
 number: 661
 stars: 27

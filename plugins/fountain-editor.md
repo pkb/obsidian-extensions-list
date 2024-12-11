@@ -5,10 +5,10 @@ author:
 - '[[chuangcaleb|Chuang Caleb]]'
 categories: []
 description: Fountain (screenplay) syntax highlighting in the editor
-downloads: 5210
+downloads: 5293
 mobile: true
 number: 1235
-stars: 39
+stars: 40
 title: Fountain Editor
 type: plugin
 updated: '2024-01-25T10:04:07'

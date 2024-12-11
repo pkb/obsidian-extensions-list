@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Build advanced search queries in Obsidian.
-downloads: 27321
+downloads: 27368
 mobile: true
 number: 79
 stars: 104

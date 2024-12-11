@@ -5,7 +5,7 @@ author:
 - '[[froehlichA|froehlichA]]'
 categories: []
 description: Display an avatar image in your notes.
-downloads: 7294
+downloads: 7332
 mobile: true
 number: 849
 stars: 28
@@ -22,7 +22,7 @@ version: 1.0.5
 
 This plugin provides you with a component that will display a small image with some accompanying text. That's it.
 
-![Preview Mode](./docs/avatar_preview.PNG)
+![Preview Mode](https://raw.githubusercontent.com/froehlichA/obsidian-avatar/HEAD/docs/avatar_preview.PNG)
 
 To use, insert the following snippet into your markdown.
 
@@ -44,7 +44,7 @@ description: This will be displayed as the description!
 
 **In live preview mode**, click on the image to change it *(then either select one from your vault, or paste in a URL to a picture online)*, or edit the description by clicking on it *(Don't forget to click the button to save your changes!)*
 
-![Edit Mode](./docs/avatar_edit.PNG)
+![Edit Mode](https://raw.githubusercontent.com/froehlichA/obsidian-avatar/HEAD/docs/avatar_edit.PNG)
 
 The description editor supports all markdown features of Obsidian.
 

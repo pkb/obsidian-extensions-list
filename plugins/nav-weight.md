@@ -5,7 +5,7 @@ author:
 - '[[shu307|shu307]]'
 categories: []
 description: Sort your navigation items by Markdown frontmatter.
-downloads: 92
+downloads: 98
 mobile: false
 number: 1981
 stars: 2
@@ -32,7 +32,7 @@ While several plugins are available for customizing navigation, I created this p
 
 Make sure the following icon in the left ribbon is activated (lit up). You can enable/disable the plugin temporary as you wish by clicking it, but not now.
 
-![arrow-down-0-1.svg](./assets/arrow-down-0-1.svg)
+![arrow-down-0-1.svg](https://raw.githubusercontent.com/shu307/obsidian-nav-weight/HEAD/assets/arrow-down-0-1.svg)
 
 ### Data Preparing
 
@@ -57,9 +57,9 @@ When the left ribbon icon is activated, sorting is automatic if you have defined
 
 You can find one of the following icons in the bottom status bar. Move your mouse over the icon to see the tooltip.
 
-![file-check.svg](./assets/file-check.svg)
-![file-x.svg](./assets/file-x.svg)
-![file-warning.svg](./assets/file-warning.svg)
+![file-check.svg](https://raw.githubusercontent.com/shu307/obsidian-nav-weight/HEAD/assets/file-check.svg)
+![file-x.svg](https://raw.githubusercontent.com/shu307/obsidian-nav-weight/HEAD/assets/file-x.svg)
+![file-warning.svg](https://raw.githubusercontent.com/shu307/obsidian-nav-weight/HEAD/assets/file-warning.svg)
 
 ## Additional
 
@@ -70,7 +70,7 @@ All features of mkdocs-nav-weight have been implemented in this plugin, but you 
 
 After sorting, you may encounter the following icons, which respectively represent `headless: true` or `empty: true`, and `retitled: true`, displayed alongside the names of files or folders.
 
-![leaf.svg](./assets/leaf.svg) ![text-cursor-input.svg](./assets/text-cursor-input.svg)
+![leaf.svg](https://raw.githubusercontent.com/shu307/obsidian-nav-weight/HEAD/assets/leaf.svg) ![text-cursor-input.svg](https://raw.githubusercontent.com/shu307/obsidian-nav-weight/HEAD/assets/text-cursor-input.svg)
 
 
 %% README_END %%

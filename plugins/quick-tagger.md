@@ -7,7 +7,7 @@ categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated
   buttons/commands for your favorites!
-downloads: 6105
+downloads: 6179
 mobile: true
 number: 1257
 stars: 28

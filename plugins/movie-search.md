@@ -5,7 +5,7 @@ author:
 - '[[Gubchik123|Gubchik123]]'
 categories: []
 description: Helps you find movies and create notes.
-downloads: 1713
+downloads: 1730
 mobile: true
 number: 1497
 stars: 7
@@ -175,7 +175,7 @@ banner: "{{backdrop_path}}"
 
 ## 📺 -> {{title}}
 
-![Cover]({{poster_path}})
+![Cover](https://raw.githubusercontent.com/Gubchik123/obsidian-movie-search-plugin/HEAD/{{poster_path}})
 
 ### 1️⃣ -> Introduction
 
@@ -214,7 +214,7 @@ Spoken-languages:: {{spoken_languages}}
 
 ID:: {{id}}
 
-![Backdrop]({{youtube_url}})
+![Backdrop](https://raw.githubusercontent.com/Gubchik123/obsidian-movie-search-plugin/HEAD/{{youtube_url}})
 ```
 
 > The idea of the template was taken from the [OB_Template](https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_10_Entertainment/0A_10_2_Movies%26ShowReview.md). Look through the repository for more examples.
@@ -239,7 +239,7 @@ Here is the dataview query used in the demo
 ````
 ```dataview
 TABLE WITHOUT ID
-	"![|100](" + cover + ")" as Cover,
+	"![|100](https://raw.githubusercontent.com/Gubchik123/obsidian-movie-search-plugin/HEAD/" + cover + ")" as Cover,
 	link(file.link, Title) as Title,
 	dateformat(Release-date, "yyyy") as Year,
 	Vote-average as "Vote average",
@@ -256,7 +256,7 @@ SORT Score DESC, Vote-average DESC, Title ASC
 ````
 ```dataview
 TABLE WITHOUT ID
-	"![|100](" + cover + ")" as Cover,
+	"![|100](https://raw.githubusercontent.com/Gubchik123/obsidian-movie-search-plugin/HEAD/" + cover + ")" as Cover,
 	link(file.link, Title) as Title,
 	dateformat(Release-date, "yyyy") as Year,
 	Vote-average as "Vote average",

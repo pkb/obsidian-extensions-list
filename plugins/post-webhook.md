@@ -6,31 +6,30 @@ author:
 categories: []
 description: Send notes to Webhook endpoints, for seamless integration with n8n, Make.com,
   and Zapier.
-downloads: 51
+downloads: 136
 mobile: true
 number: 2040
-stars: 4
+stars: 5
 title: Post Webhook
 type: plugin
-updated: '2024-11-30T16:36:21'
+updated: '2024-12-08T04:16:21'
 url: https://github.com/Masterb1234/obsidian-post-webhook
-version: 1.0.3
+version: 1.1.0
 ---
 
 %% README_START %%
 
 # Post Webhook Plugin
 
-Send your Obsidian notes to any Webhook endpoint with YAML frontmatter support and attachment handling. Perfect for automating your note-taking workflow and integrating with external services.
+Send your Obsidian notes or selected text to any Webhook endpoint with YAML frontmatter support and attachment handling. Perfect for automating your note-taking workflow and integrating with external services.
 
 ## Features
 
-- 📤 Send note content to any Webhook endpoint
+- 📤 Send note content to multiple Webhook endpoints
+- ✂️ Send selected text to Webhook endpoints (not yet available on mobile)
 - 📋 YAML frontmatter parsing and inclusion in the Webhook payload
 - 📎 Automatic attachment handling
-- ⚡ Quick access through command palette
-- 🧪 Built-in Webhook testing functionality 
-- 📥 Optional response attachment to notes
+- 📥 Response insertion into notes
 
 ## Installation
 
@@ -42,10 +41,25 @@ Send your Obsidian notes to any Webhook endpoint with YAML frontmatter support a
 
 ## Usage
 
-1. Set your Webhook URL in the plugin settings
-2. Open any note
-3. Use the command palette (Ctrl/Cmd + P) and search for "Send to Webhook"
-4. Your note's content, frontmatter, and attachments will be sent to the configured Webhook
+### Setting Up Webhooks
+
+1. Open plugin settings
+2. Add one or more Webhook endpoints
+3. Choose whether to append responses to your notes
+
+### Sending Content
+
+#### Full Notes
+1. Open any note
+2. Use the command palette (Ctrl/Cmd + P)
+3. Search for "Send to [Webhook Name]"
+4. Your note's content, frontmatter, and attachments will be sent
+
+#### Selected Text
+1. Select text in your note
+2. Open command palette
+3. Choose "Send Selection to [Webhook Name]"
+4. The selected text will be sent and any response will be inserted after the selection
 
 ### YAML Frontmatter Support
 
@@ -94,11 +108,12 @@ The plugin automatically:
 
 ### Response Handling
 
-The plugin can automatically append Webhook responses to your notes:
+The plugin can automatically insert Webhook responses into your notes:
 
-1. Enable "Attach Response" in plugin settings
-2. When sending a note, any response from the Webhook will be appended at the bottom with a separator line
-3. Perfect for receiving processed data, AI responses, or confirmation messages
+1. Enable "Attach Response" in webhook settings
+2. When sending a note/selection, any response will be inserted:
+   - For full notes: Appended at the bottom
+   - For selections: Inserted after the selected text
 
 ## License
 
@@ -107,5 +122,6 @@ MIT License - feel free to use this plugin in any way you'd like.
 ---
 
 Created by MasterB1234
+
 
 %% README_END %%

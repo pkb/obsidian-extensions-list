@@ -7,10 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: This is an ePub reader plugin for Obsidian. Can open document with ".epub"
   file extension.
-downloads: 26430
+downloads: 26631
 mobile: true
 number: 512
-stars: 93
+stars: 94
 title: ePub Reader
 type: plugin
 updated: '2023-02-09T17:41:57'

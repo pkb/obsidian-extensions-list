@@ -5,10 +5,10 @@ author:
 - '[[ljcoder2015|ljcoder]]'
 categories: []
 description: Create spreadsheets and easily embed them in Markdown
-downloads: 40931
+downloads: 41321
 mobile: true
 number: 1156
-stars: 120
+stars: 121
 title: Excel
 type: plugin
 updated: '2024-03-20T08:47:34'

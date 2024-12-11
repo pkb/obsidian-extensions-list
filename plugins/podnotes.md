@@ -5,7 +5,7 @@ author:
 - '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: Helps you write notes on podcasts.
-downloads: 41578
+downloads: 41828
 mobile: true
 number: 576
 stars: 220

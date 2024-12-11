@@ -5,7 +5,7 @@ author:
 - '[[Trikzon|Dion Tryban (Trikzon)]]'
 categories: []
 description: Renders links in a note's frontmatter as links.
-downloads: 9625
+downloads: 9650
 mobile: true
 number: 662
 stars: 67

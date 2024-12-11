@@ -5,10 +5,10 @@ author:
 - '[[chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: MetaEdit helps you manage your metadata.
-downloads: 92856
+downloads: 93173
 mobile: true
 number: 193
-stars: 416
+stars: 417
 title: MetaEdit
 type: plugin
 updated: '2023-07-31T01:08:57'

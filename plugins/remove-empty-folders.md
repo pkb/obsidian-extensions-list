@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/File management|File management]]'
 description: Easily remove empty folders.
-downloads: 2785
+downloads: 2790
 mobile: false
 number: 1230
 stars: 4

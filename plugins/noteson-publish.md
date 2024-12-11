@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Make single notes instantly available on the web.
-downloads: 774
+downloads: 778
 mobile: true
 number: 1558
 stars: 1

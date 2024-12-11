@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a set of tools to help Obsidian manage extras (such as storing
   links like products and software) that it doesn't currently do.
-downloads: 4379
+downloads: 4388
 mobile: true
 number: 842
 stars: 25

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Create a table of contents for a note.
-downloads: 142190
+downloads: 143092
 mobile: true
 number: 108
 stars: 298

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all expiration dates, for example, for your groceries.
-downloads: 2941
+downloads: 2948
 mobile: true
 number: 1152
 stars: 5

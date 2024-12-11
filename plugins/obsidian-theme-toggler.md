@@ -5,7 +5,7 @@ author:
 - '[[larsmagnus|larsmagnus]]'
 categories: []
 description: Toggle the theme in Obsidian's panels.
-downloads: 5170
+downloads: 5189
 mobile: false
 number: 620
 stars: 15

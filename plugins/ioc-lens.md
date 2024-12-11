@@ -6,7 +6,7 @@ author:
 categories: []
 description: Extracts and displays security-relevant indicators such as IP addresses,
   domains, and file hashes to enhance your cyber security note-taking process.
-downloads: 122
+downloads: 136
 mobile: false
 number: 2007
 stars: 8
@@ -29,13 +29,13 @@ As security professionals, we encounter indicators of compromise (IOCs) constant
 - SHA256 hashes
 - MD5 hashes
 
-![demo](https://raw.githubusercontent.com/acgabbert/ioc-lens/refs/heads/master/resources/usage-example.png)
+![demo](https://raw.githubusercontent.com/acgabbert/ioc-lens/refs/heads/main/resources/usage-example.png)
 
 To activate IOC Lens, click the ribbon icon or use the command palette.
 
-![ribbon icon](https://raw.githubusercontent.com/acgabbert/ioc-lens/refs/heads/master/resources/ribbon-icon.png)
+![ribbon icon](https://raw.githubusercontent.com/acgabbert/ioc-lens/refs/heads/main/resources/ribbon-icon.png)
 
-![command palette](https://raw.githubusercontent.com/acgabbert/ioc-lens/refs/heads/master/resources/command-palette.png)
+![command palette](https://raw.githubusercontent.com/acgabbert/ioc-lens/refs/heads/main/resources/command-palette.png)
 
 Key features:
 - Automatic IOC extraction from your notes
@@ -58,5 +58,6 @@ IOC Lens currently supports pivots to the following resources/search engines. Pi
 - [Spur Context API](https://spur.us/context-api/)
 - [URLScan](https://urlscan.io/search/)
 - [VirusTotal](https://virustotal.com)
+- [GreyNoise](https://viz.greynoise.io)
 
 %% README_END %%

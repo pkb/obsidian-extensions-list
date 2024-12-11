@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds the ability to show guitar chords and tabs directly in your notes
   using jTab.
-downloads: 7293
+downloads: 7324
 mobile: true
 number: 488
 stars: 71

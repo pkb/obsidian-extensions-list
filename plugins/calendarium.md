@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Craft mind-bending fantasy and sci-fi calendars.
-downloads: 37343
+downloads: 38389
 mobile: true
 number: 1500
 stars: 86

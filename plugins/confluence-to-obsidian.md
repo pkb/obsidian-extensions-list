@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import Confluence space into Obsidian vault
-downloads: 4814
+downloads: 4829
 mobile: false
 number: 959
 stars: 31

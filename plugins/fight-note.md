@@ -6,7 +6,7 @@ author:
 categories: []
 description: 'Render Tekken notation into an easy-to-read format (partially useful
   for other fighting games: Guilty Gear, Street Fighter and etc).'
-downloads: 928
+downloads: 931
 mobile: true
 number: 1531
 stars: 3

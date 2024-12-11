@@ -7,7 +7,7 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced
   security! Keep your information safe and accessible only to you.
-downloads: 3762
+downloads: 3775
 mobile: false
 number: 1187
 stars: 38

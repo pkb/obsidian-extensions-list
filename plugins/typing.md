@@ -5,7 +5,7 @@ author:
 - '[[konodyuk|Nikita Konodyuk]]'
 categories: []
 description: Programmatic customizations for groups of notes
-downloads: 3230
+downloads: 3233
 mobile: true
 number: 1211
 stars: 134

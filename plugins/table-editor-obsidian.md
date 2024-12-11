@@ -5,7 +5,7 @@ author:
 - '[[tgrosinger|Tony Grosinger]]'
 categories: []
 description: Improved table navigation, formatting, manipulation, and formulas
-downloads: 1926248
+downloads: 1939648
 mobile: true
 number: 5
 stars: 2200

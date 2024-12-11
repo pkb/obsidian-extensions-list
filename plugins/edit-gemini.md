@@ -5,7 +5,7 @@ author:
 - '[[Basil-Mori|Basil_Mori]]'
 categories: []
 description: Allows the user to edit and create .gmi files.
-downloads: 3433
+downloads: 3438
 mobile: true
 number: 660
 stars: 5

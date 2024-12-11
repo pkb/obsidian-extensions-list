@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Goal of this Plugin in to implement a native PDF handling workflow
-downloads: 54956
+downloads: 55107
 mobile: true
 number: 91
 stars: 209

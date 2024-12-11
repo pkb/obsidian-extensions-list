@@ -5,7 +5,7 @@ author:
 - '[[StrangeGirlMurph|StrangeGirlMurph]]'
 categories: []
 description: Search, link and open Wikipedia/Wiki articles, all within the app!
-downloads: 16166
+downloads: 16223
 mobile: true
 number: 876
 stars: 49

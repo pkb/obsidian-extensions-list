@@ -5,7 +5,7 @@ author:
 - '[[bramses|Bram Adams]]'
 categories: []
 description: Copy and Paste Stack Overflow answers directly into Obsidian.
-downloads: 4096
+downloads: 4098
 mobile: false
 number: 544
 stars: 34

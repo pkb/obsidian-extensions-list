@@ -6,7 +6,7 @@ author:
 categories: []
 description: Speeds up some note taking abilities and allows for creating notes/links
   in the background
-downloads: 134
+downloads: 139
 mobile: false
 number: 1939
 stars: 4

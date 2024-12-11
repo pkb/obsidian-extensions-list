@@ -7,7 +7,7 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Set Password and Protect your notes from other people. Encrypt and Decrypt
   all notes!
-downloads: 3530
+downloads: 3599
 mobile: true
 number: 1412
 stars: 20

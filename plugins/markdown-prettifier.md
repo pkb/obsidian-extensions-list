@@ -6,7 +6,7 @@ author:
 categories: []
 description: Tries to fix and reformat ugly Markdown and adds things like 'modified
   date' etc.
-downloads: 70221
+downloads: 70316
 mobile: true
 number: 31
 stars: 131

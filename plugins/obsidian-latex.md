@@ -6,10 +6,10 @@ author:
 categories: []
 description: Adds support for a MathJax preamble and enables additional MathJax extensions
   for specific domains (chemistry, proofs).
-downloads: 34144
+downloads: 34400
 mobile: true
 number: 58
-stars: 155
+stars: 156
 title: Extended MathJax
 type: plugin
 updated: '2023-01-13T11:53:42'

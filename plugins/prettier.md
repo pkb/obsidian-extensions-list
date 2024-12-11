@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format your notes with Prettier and custom formatting options.
-downloads: 842
+downloads: 872
 mobile: true
 number: 1708
 stars: 8

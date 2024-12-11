@@ -5,7 +5,7 @@ author:
 - '[[cool-RR|ram@rachum.com]]'
 categories: []
 description: Select text between backticks with keyboard shortcuts.
-downloads: 149
+downloads: 152
 mobile: true
 number: 1874
 stars: 1
