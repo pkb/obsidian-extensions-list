@@ -1,128 +1,53 @@
 
 ```datacorejsx
-
-// Based on a sample provided by boninall at discord
 const query = `@page and type="plugin"`;
 
 const { Link } = await dc.require('basement/datacore/Link.jsx');
-const { useLocalStorage } = await dc.require('basement/datacore/hooks.jsx');
-
-const Highlight = ({ content, filter }) => {
-    if (!filter) return content; 
-    
-    const regex = new RegExp(`(${escapeRegExp(filter)})`, 'gi'); 
-    const parts = content.split(regex); 
-    
-    return parts.map((part, index) => { 
-        if (index % 2 === 0) return <span>{part}</span>;
-        return <mark key={index}>{part}</mark>; 
-    });
-};
-
-const escapeRegExp = (string) => {
-    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$0');
-};
+const { IndexTable } = await dc.require('basement/datacore/index_table.jsx');
 
 function View() {
     const pages = dc.useQuery(query);
-    const today = dc.luxon.DateTime.now();
-    const [sortConfig, setSortConfig] = useLocalStorage("sortConfig", 
-    { key: "title", direction: 'asc' });
-    const [filter, setFilter] = useLocalStorage("filter", "");
     
-    const Header = ({ field, children }) => {
-        return (
-            <span onClick={() => handleSort(field)}>
-               {children}
-               {getSortIndicator(field)}
-            </span>
-        );
-    }
-    
-const COLUMNS = [
-    { 
-        title: <Header field={"number"}>#</Header>, 
-        value: (page) => page.value("number")
-    },
-    { 
-        title: <Header field={"title"}>Plugin</Header>,
-        value: (page) => <div><Link path={page.$path}><Highlight content={page.value("title")} filter={filter}/></Link><br/><small><Highlight content={page.value("description")} filter={filter}/></small></div>, 
-        width: "50%"
-    },
-    { 
-        title: <Header field={"mobile"}><dc.Icon icon="smartphone" className="icon" /></Header>, 
-        value: (page) => <dc.Checkbox checked={page.value("mobile")} disabled={true}/>
-    },
-    {
-        title: <Header field={"stars"}><dc.Icon icon="star" className="icon"/></Header>, 
-        value: (page) => page.value("stars"),
-    },
-    { 
-        title: <Header field={"downloads"}><dc.Icon icon="cloud-download" className="icon" /></Header>, 
-        value: (page) => page.value("downloads"),
-        width: "15%"
-    },
-    { 
-        title: <Header field={"updated"}>Updated</Header>, 
-        value: (page) => page.value("updated").toRelative()
-    }
-]
-
-    const filteredAndSortedPages = dc.useMemo(() => {
-        let filtered = pages;
-
-        if (filter) {
-            filtered = pages.filter((page) => {
-                return page.value("title").toLowerCase().includes(filter.toLowerCase()) ||
-page.value("description").toLowerCase().includes(filter.toLowerCase())
-            });
+    const COLUMNS = [
+        { 
+            field: "number",
+            title: "#",
+            sortable: true
+        },
+        { 
+            field: "title",
+            title: "Plugin",
+            render: (n, p) => <div><Link path={p.$path}>{p.value("title")}</Link><br/><small>{p.value("description")}</small></div>,
+            width: "50%",
+            sortable: true,
+        },
+        { 
+            field: "mobile",
+            title: <dc.Icon icon="smartphone" className="icon"/>, 
+            render: (n, p) => <dc.Checkbox checked={p.value("mobile")} disabled={true}/>,
+            sortable: true
+        },
+        {
+            field: "stars",
+            title: <dc.Icon icon="star" className="icon"/>, 
+            sortable: true
+        },
+        {
+            field: "downloads",
+            title: <dc.Icon icon="cloud-download" className="icon"/>, 
+            sortable: true,
+            width: "15%"
+        },
+        {
+            field: "updated",
+            title: "Updated", 
+            value: (page) => page.value("updated").toRelative(),
+            sortable: true
         }
-
-        if (sortConfig.key) {
-            filtered = [...filtered].sort((a, b) => {
-                const aValue = a.value(sortConfig.key);
-                const bValue = b.value(sortConfig.key);
-
-                let ret = 0;
-                if(aValue < bValue)
-                    ret = -1;
-                else if (aValue > bValue)
-                    ret = 1;
-                return sortConfig.direction === 'asc' ? ret : -ret;            
-            });
-        }
-        return filtered;
-    }, [pages, filter, sortConfig]);
-
-    const handleSearch = (inputEvent) => {
-        setFilter(inputEvent.target.value);
-    };
-
-    const handleSort = (key) => {
-        let direction = 'asc';
-        if (sortConfig.key === key && sortConfig.direction === 'asc') {
-            direction = 'desc';
-        }
-        setSortConfig({ key, direction });
-    };
-
-    const getSortIndicator = (key) => {
-        if (sortConfig.key === key) {
-            return sortConfig.direction === 'asc' ? ' ↑' : ' ↓';
-        }
-        return '';
-    };
-
-    return (
-        <>
-            <dc.Group className="search-input-container">
-                <input enterkeyhint="search" type="search" value={filter} onChange={handleSearch}/>{filter && (<div className="search-input-clear-button" aria-label="Clear search" onClick={() => setFilter("")}/>)}
-            </dc.Group>
-            <dc.VanillaTable columns={COLUMNS} rows={filteredAndSortedPages} paging={10}/>
-        </>
-    );
+    ];
+    return <IndexTable id={"main_index"} columnsConfig={COLUMNS} search_fields={["title", "description"]} rows={pages} paging={10}/>
 }
 
-return <View />;
-
+return <View/>;
 ```
+
