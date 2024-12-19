@@ -41,7 +41,7 @@ function View() {
         {
             field: "updated",
             title: "Updated", 
-            value: (page) => page.value("updated").toRelative(),
+            render: (n, p) => p.value("updated").toRelative(),
             sortable: true
         }
     ];
