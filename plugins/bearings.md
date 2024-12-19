@@ -2,11 +2,11 @@
 aliases:
 - Bearings
 author:
-- '[[jeetsukumaran|Jeet Sukumaran]]'
+- '[[authors/jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Dynamically-scoped expanding tree views of your vault's semantic and
   logical architectures.
-downloads: 1550
+downloads: 1561
 mobile: true
 number: 1614
 stars: 21

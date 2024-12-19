@@ -2,14 +2,14 @@
 aliases:
 - Juggl
 author:
-- '[[HEmile|Emile]]'
+- '[[authors/HEmile|Emile]]'
 categories: []
 description: Adds a completely interactive, stylable and expandable graph view to
   Obsidian.
-downloads: 77613
+downloads: 78030
 mobile: true
 number: 151
-stars: 652
+stars: 654
 title: Juggl
 type: plugin
 updated: '2023-11-10T18:57:09'

@@ -2,11 +2,11 @@
 aliases:
 - ArchWiki Reader
 author:
-- '[[Jackboxx|Lucy Gschwantner]]'
+- '[[authors/Jackboxx|Lucy Gschwantner]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Read any ArchWiki page directly in Obsidian
-downloads: 3254
+downloads: 3258
 mobile: false
 number: 1059
 stars: 9

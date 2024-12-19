@@ -2,10 +2,10 @@
 aliases:
 - Highlight Helper
 author:
-- '[[byfun|Chongmyung Park]]'
+- '[[authors/byfun|Chongmyung Park]]'
 categories: []
 description: Helper to copy and paste highlights
-downloads: 2214
+downloads: 2222
 mobile: true
 number: 1334
 stars: 2

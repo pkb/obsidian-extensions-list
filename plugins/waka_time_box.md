@@ -2,11 +2,11 @@
 aliases:
 - Waka time box
 author:
-- '[[simonla|complexzeng]]'
+- '[[authors/simonla|complexzeng]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Show daily coding activity from WakaTime
-downloads: 3554
+downloads: 3564
 mobile: true
 number: 1070
 stars: 9

@@ -2,10 +2,10 @@
 aliases:
 - Node Screenshot
 author:
-- '[[istfredy|Fredy Taboutsa]]'
+- '[[authors/istfredy|Fredy Taboutsa]]'
 categories: []
 description: Capture node effortlessly with precision screenshot.
-downloads: 1163
+downloads: 1171
 mobile: true
 number: 1513
 stars: 7

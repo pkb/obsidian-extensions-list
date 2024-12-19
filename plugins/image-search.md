@@ -2,10 +2,10 @@
 aliases:
 - Image Search
 author:
-- '[[razeghi71|Mohammad Razeghi]]'
+- '[[authors/razeghi71|Mohammad Razeghi]]'
 categories: []
 description: Search and insert images using Google API
-downloads: 870
+downloads: 885
 mobile: true
 number: 1615
 stars: 3

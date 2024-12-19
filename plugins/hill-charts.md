@@ -2,10 +2,10 @@
 aliases:
 - Hill Charts
 author:
-- '[[stufro|stufro]]'
+- '[[authors/stufro|stufro]]'
 categories: []
 description: Add Hill Charts to your notes.
-downloads: 1996
+downloads: 2007
 mobile: true
 number: 1344
 stars: 10

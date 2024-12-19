@@ -2,10 +2,10 @@
 aliases:
 - APL Render
 author:
-- '[[vzsky|my99n]]'
+- '[[authors/vzsky|my99n]]'
 categories: []
 description: render APL syntax
-downloads: 3130
+downloads: 3131
 mobile: true
 number: 1002
 stars: 3

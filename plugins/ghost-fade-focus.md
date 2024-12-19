@@ -2,13 +2,13 @@
 aliases:
 - Ghost Fade Focus
 author:
-- '[[skipadu|Sami Korpela]]'
+- '[[authors/skipadu|Sami Korpela]]'
 categories: []
 description: Focused on the current line, others faded like a ghost!
-downloads: 9496
+downloads: 9510
 mobile: false
 number: 281
-stars: 45
+stars: 46
 title: Ghost Fade Focus
 type: plugin
 updated: '2022-09-25T00:54:30'

@@ -2,12 +2,12 @@
 aliases:
 - Todoist Link
 author:
-- '[[dennisseidel|dennisseidel]]'
+- '[[authors/dennisseidel|dennisseidel]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Create Todoist tasks and projects from Obsidian with bidirectional links.
-downloads: 10249
+downloads: 10282
 mobile: true
 number: 501
 stars: 30

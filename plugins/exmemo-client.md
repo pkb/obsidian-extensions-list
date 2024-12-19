@@ -2,14 +2,14 @@
 aliases:
 - ExMemo Client
 author:
-- '[[exmemo-ai|Yan.Xie]]'
+- '[[authors/exmemo-ai|Yan.Xie]]'
 categories: []
 description: A client for the ExMemo service, used to search, sync, and organize data
   from the server.
-downloads: 35
+downloads: 38
 mobile: true
 number: 1978
-stars: 1
+stars: 3
 title: ExMemo Client
 type: plugin
 updated: '2024-11-06T16:03:32'

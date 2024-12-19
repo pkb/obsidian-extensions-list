@@ -2,10 +2,10 @@
 aliases:
 - Git Url
 author:
-- '[[khuongduy354|khuongduy354]]'
+- '[[authors/khuongduy354|khuongduy354]]'
 categories: []
 description: Create a url to your file on your git remote repo
-downloads: 3653
+downloads: 3660
 mobile: false
 number: 996
 stars: 2

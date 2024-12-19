@@ -2,14 +2,14 @@
 aliases:
 - Hypothes.is
 author:
-- '[[weichenw|weichenw]]'
+- '[[authors/weichenw|weichenw]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync your Hypothesis highlights
-downloads: 14020
+downloads: 14036
 mobile: true
 number: 322
-stars: 237
+stars: 238
 title: Hypothes.is
 type: plugin
 updated: '2022-06-01T18:03:22'

@@ -2,11 +2,11 @@
 aliases:
 - Blur
 author:
-- '[[gapmiss|@gapmiss]]'
+- '[[authors/gapmiss|@gapmiss]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Create obfuscated blocks of text.
-downloads: 4577
+downloads: 4605
 mobile: true
 number: 950
 stars: 34

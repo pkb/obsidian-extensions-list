@@ -2,10 +2,10 @@
 aliases:
 - Vault Review
 author:
-- '[[SashaKryzh|Alexander]]'
+- '[[authors/SashaKryzh|Alexander]]'
 categories: []
 description: Randomly review your vault and track progress.
-downloads: 75
+downloads: 89
 mobile: true
 number: 1973
 stars: 3

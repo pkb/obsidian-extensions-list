@@ -2,15 +2,15 @@
 aliases:
 - Buttons
 author:
-- '[[shabegom|shabegom]]'
+- '[[authors/shabegom|shabegom]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Create Buttons in your Obsidian notes to run commands, open links, and
   insert templates
-downloads: 220864
+downloads: 222170
 mobile: true
 number: 138
-stars: 496
+stars: 497
 title: Buttons
 type: plugin
 updated: '2024-02-10T06:31:01'

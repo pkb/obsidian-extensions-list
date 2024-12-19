@@ -2,11 +2,11 @@
 aliases:
 - DMN
 author:
-- '[[joleaf|JoLeaf]]'
+- '[[authors/joleaf|JoLeaf]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: This plugin enables viewing DMNs using dmn-js.
-downloads: 3560
+downloads: 3563
 mobile: true
 number: 715
 stars: 3

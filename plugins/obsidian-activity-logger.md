@@ -2,11 +2,11 @@
 aliases:
 - Activity Logger
 author:
-- '[[Creling|Creling]]'
+- '[[authors/Creling|Creling]]'
 categories: []
 description: Log your activities like creating notes, modifying notes, deleting notes
   and so on.
-downloads: 4770
+downloads: 4776
 mobile: false
 number: 245
 stars: 20

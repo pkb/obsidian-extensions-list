@@ -2,11 +2,11 @@
 aliases:
 - Liquid Templates
 author:
-- '[[oeN|diomedet]]'
+- '[[authors/oeN|diomedet]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Empower your template with LiquidJS tags
-downloads: 5133
+downloads: 5138
 mobile: false
 number: 190
 stars: 20

@@ -2,12 +2,12 @@
 aliases:
 - JSON table
 author:
-- '[[dario-baumberger|Dario Baumberger]]'
+- '[[authors/dario-baumberger|Dario Baumberger]]'
 categories: []
 description: Simply switch between JSON and tables. Generate a table from a JSON string
   or a URL (which returns JSON) in your notes. Generate JSON from a table in your
   notes.
-downloads: 4344
+downloads: 4377
 mobile: true
 number: 1227
 stars: 12

@@ -2,10 +2,10 @@
 aliases:
 - Iconoir Icons
 author:
-- '[[gapmiss|@gapmiss]]'
+- '[[authors/gapmiss|@gapmiss]]'
 categories: []
 description: Create & display customized SVG Iconoir icons.
-downloads: 4217
+downloads: 4232
 mobile: true
 number: 963
 stars: 16

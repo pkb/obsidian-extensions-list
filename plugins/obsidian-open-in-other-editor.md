@@ -2,10 +2,10 @@
 aliases:
 - Open in other editor
 author:
-- '[[yekingyan|yekingyan]]'
+- '[[authors/yekingyan|yekingyan]]'
 categories: []
 description: Open current active file in gVim or VScode.
-downloads: 5692
+downloads: 5704
 mobile: false
 number: 595
 stars: 18

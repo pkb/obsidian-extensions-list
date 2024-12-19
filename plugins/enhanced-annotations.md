@@ -2,11 +2,11 @@
 aliases:
 - Enhanced Annotations
 author:
-- '[[ycnmhd|ycnmhd]]'
+- '[[authors/ycnmhd|ycnmhd]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Add a sidebar view for comments and highlights.
-downloads: 5282
+downloads: 5401
 mobile: false
 number: 1476
 stars: 47

@@ -2,12 +2,12 @@
 aliases:
 - Timestamp Notes
 author:
-- '[[juliang22|Julian Grunauer]]'
+- '[[authors/juliang22|Julian Grunauer]]'
 categories: []
 description: This plugin allows side-by-side notetaking with videos. Annotate your
   notes with timestamps to directly control the video and remember where each note
   comes from.
-downloads: 19644
+downloads: 19739
 mobile: false
 number: 538
 stars: 197

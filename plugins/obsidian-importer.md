@@ -2,20 +2,20 @@
 aliases:
 - Importer
 author:
-- '[[obsidianmd|Obsidian]]'
+- '[[authors/obsidianmd|Obsidian]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google
   Keep, Bear, Roam, and HTML files.
-downloads: 436629
+downloads: 449997
 mobile: true
 number: 974
-stars: 781
+stars: 791
 title: Importer
 type: plugin
-updated: '2024-12-11T01:28:25'
+updated: '2024-12-19T00:04:45'
 url: https://github.com/obsidianmd/obsidian-importer
-version: 1.6.14
+version: 1.6.17
 ---
 
 %% README_START %%

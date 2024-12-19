@@ -2,10 +2,10 @@
 aliases:
 - Fontsource
 author:
-- '[[fontsource|Ayuhito]]'
+- '[[authors/fontsource|Ayuhito]]'
 categories: []
 description: Load custom fonts from Fontsource into your notes.
-downloads: 2703
+downloads: 2783
 mobile: true
 number: 1589
 stars: 10

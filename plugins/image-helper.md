@@ -2,10 +2,10 @@
 aliases:
 - Image Helper
 author:
-- '[[byfun|Chongmyung Park]]'
+- '[[authors/byfun|Chongmyung Park]]'
 categories: []
 description: 'Context menu to convert a image to another format in reading view '
-downloads: 2036
+downloads: 2039
 mobile: false
 number: 1333
 stars: 2

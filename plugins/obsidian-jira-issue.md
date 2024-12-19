@@ -2,11 +2,11 @@
 aliases:
 - Jira Issue
 author:
-- '[[marc0l92|marc0l92]]'
+- '[[authors/marc0l92|marc0l92]]'
 categories: []
 description: This plugin allows you to track the progress of Atlassian Jira issues
   from your Obsidian notes.
-downloads: 28562
+downloads: 28702
 mobile: true
 number: 476
 stars: 244

@@ -2,18 +2,18 @@
 aliases:
 - MOC Link Helper
 author:
-- '[[BogdanCodreanu|Bogdan Codreanu]]'
+- '[[authors/BogdanCodreanu|Bogdan Codreanu]]'
 categories: []
 description: Helps with some MOC janitor-linking tasks.
-downloads: 300
+downloads: 340
 mobile: false
 number: 1983
 stars: 4
 title: MOC Link Helper
 type: plugin
-updated: '2024-11-19T18:18:03'
+updated: '2024-12-16T20:19:41'
 url: https://github.com/BogdanCodreanu/obsidian-moc-link-helper
-version: 1.1.11
+version: 1.1.12
 ---
 
 %% README_START %%

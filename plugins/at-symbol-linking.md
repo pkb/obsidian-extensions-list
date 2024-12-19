@@ -2,15 +2,15 @@
 aliases:
 - '@ Symbol Linking'
 author:
-- '[[Ebonsignori|Evan Bonsignori]]'
+- '[[authors/Ebonsignori|Evan Bonsignori]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Adds ability to link with @ (the At Symbol) in Obsidian. Can limit @
   linking to specific folders e.g. People/
-downloads: 8966
+downloads: 9024
 mobile: true
 number: 1093
-stars: 63
+stars: 64
 title: '@ Symbol Linking'
 type: plugin
 updated: '2024-02-16T07:02:09'

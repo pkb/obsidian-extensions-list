@@ -2,12 +2,12 @@
 aliases:
 - ePub Reader
 author:
-- '[[caronchen|caronchen]]'
+- '[[authors/caronchen|caronchen]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: This is an ePub reader plugin for Obsidian. Can open document with ".epub"
   file extension.
-downloads: 26631
+downloads: 26850
 mobile: true
 number: 512
 stars: 94

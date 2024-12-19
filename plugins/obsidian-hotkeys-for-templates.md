@@ -2,10 +2,10 @@
 aliases:
 - Hotkeys for templates
 author:
-- '[[Vinzent03|Vinzent03]]'
+- '[[authors/Vinzent03|Vinzent03]]'
 categories: []
 description: Add hotkeys to insert specific templates
-downloads: 24664
+downloads: 24778
 mobile: true
 number: 141
 stars: 113

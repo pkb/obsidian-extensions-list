@@ -2,10 +2,10 @@
 aliases:
 - Tenki
 author:
-- '[[ms3056|HiroMike]]'
+- '[[authors/ms3056|HiroMike]]'
 categories: []
 description: Display the weather.
-downloads: 4305
+downloads: 4331
 mobile: true
 number: 1126
 stars: 11

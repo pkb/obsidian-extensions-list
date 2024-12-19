@@ -2,11 +2,11 @@
 aliases:
 - Magic Move
 author:
-- '[[imfenghuang|imfenghuang]]'
+- '[[authors/imfenghuang|imfenghuang]]'
 categories: []
 description: Animating code blocks with markdown and code syntax highlighting with
   beautiful themes.
-downloads: 629
+downloads: 649
 mobile: false
 number: 1802
 stars: 7

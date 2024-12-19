@@ -2,10 +2,10 @@
 aliases:
 - Query JSON
 author:
-- '[[rooyca|rooyca]]'
+- '[[authors/rooyca|rooyca]]'
 categories: []
 description: Read, query and work with JSON.
-downloads: 765
+downloads: 781
 mobile: true
 number: 1656
 stars: 10

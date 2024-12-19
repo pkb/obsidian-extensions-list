@@ -2,10 +2,10 @@
 aliases:
 - Evernote Decryptor
 author:
-- '[[rcmdnk|rcmdnk]]'
+- '[[authors/rcmdnk|rcmdnk]]'
 categories: []
 description: Obsidian Plugin for encrypted data imported from Evernote.
-downloads: 1508
+downloads: 1520
 mobile: true
 number: 1402
 stars: 3

@@ -2,11 +2,11 @@
 aliases:
 - Universal renderer
 author:
-- '[[dgudim|Kloud]]'
+- '[[authors/dgudim|Kloud]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render many different diagrams natively
-downloads: 510
+downloads: 515
 mobile: false
 number: 1600
 stars: 21

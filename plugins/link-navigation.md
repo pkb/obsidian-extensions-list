@@ -2,11 +2,11 @@
 aliases:
 - Link Navigation
 author:
-- '[[xRyul|xRyul]]'
+- '[[authors/xRyul|xRyul]]'
 categories: []
 description: Navigate between incoming links (inlinks), outgoing links (outlinks)
   N levels deep. Links from Canvas are also supported.
-downloads: 395
+downloads: 413
 mobile: true
 number: 1933
 stars: 4

@@ -2,19 +2,19 @@
 aliases:
 - Excalidraw
 author:
-- '[[zsviczian|Zsolt Viczian]]'
+- '[[authors/zsviczian|Zsolt Viczian]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: An Obsidian plugin to edit and view Excalidraw drawings
-downloads: 3054459
+downloads: 3092364
 mobile: true
 number: 156
 stars: 4400
 title: Excalidraw
 type: plugin
-updated: '2024-12-11T03:23:08'
+updated: '2024-12-19T02:59:48'
 url: https://github.com/zsviczian/obsidian-excalidraw-plugin
-version: 2.6.8
+version: 2.7.1
 ---
 
 %% README_START %%

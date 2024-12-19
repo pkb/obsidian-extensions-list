@@ -2,10 +2,10 @@
 aliases:
 - Desmos
 author:
-- '[[Nigecat|Nigecat]]'
+- '[[authors/Nigecat|Nigecat]]'
 categories: []
 description: Embed Desmos graphs into your notes
-downloads: 15660
+downloads: 15760
 mobile: true
 number: 468
 stars: 126

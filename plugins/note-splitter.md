@@ -2,10 +2,10 @@
 aliases:
 - Note Splitter
 author:
-- '[[decaf-dev|DecafDev]]'
+- '[[authors/decaf-dev|DecafDev]]'
 categories: []
 description: Split a note into individual notes based on a delimiter.
-downloads: 1147
+downloads: 1159
 mobile: false
 number: 1613
 stars: 15

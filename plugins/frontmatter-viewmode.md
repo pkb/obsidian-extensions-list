@@ -2,10 +2,10 @@
 aliases:
 - Set View Mode per Note
 author:
-- '[[AlexDavies8|Alex Davies]]'
+- '[[authors/AlexDavies8|Alex Davies]]'
 categories: []
 description: Use YAML frontmatter to specify a view mode per note.
-downloads: 1506
+downloads: 1522
 mobile: true
 number: 1428
 stars: 13

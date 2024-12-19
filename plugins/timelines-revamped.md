@@ -2,15 +2,15 @@
 aliases:
 - Timelines (Revamped)
 author:
-- '[[seanlowe|seanlowe]]'
+- '[[authors/seanlowe|seanlowe]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: 'Successor to darakah''s Timelines plugin: Generate a chronological timeline
   in which all ''events'' are notes that include a specific tag or set of tags.'
-downloads: 9620
+downloads: 9887
 mobile: true
 number: 1396
-stars: 56
+stars: 58
 title: Timelines (Revamped)
 type: plugin
 updated: '2024-12-04T05:36:40'

@@ -2,10 +2,10 @@
 aliases:
 - Card View Mode
 author:
-- '[[yo-goto|PADAone]]'
+- '[[authors/yo-goto|PADAone]]'
 categories: []
 description: Enable to view your notes as cards.
-downloads: 15862
+downloads: 15929
 mobile: true
 number: 290
 stars: 56

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Hides text in a simple diagramatic cypher to make reading unrecognizable
   for viewers.
-downloads: 8
+downloads: 42
 mobile: true
 number: 2067
 stars: 1

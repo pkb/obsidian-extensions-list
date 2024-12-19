@@ -2,11 +2,11 @@
 aliases:
 - Emotion Picker
 author:
-- '[[dartungar|dartungar]]'
+- '[[authors/dartungar|dartungar]]'
 categories: []
 description: A plugin for Obsidian.md that lets you choose an emotion from a list
   to insert into a note.
-downloads: 7959
+downloads: 8025
 mobile: true
 number: 383
 stars: 53

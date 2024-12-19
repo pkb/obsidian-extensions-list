@@ -2,13 +2,13 @@
 aliases:
 - Google Drive Sync
 author:
-- '[[RichardX366|Richard Xiong]]'
+- '[[authors/RichardX366|Richard Xiong]]'
 categories: []
 description: Syncs a vault into Google Drive for cross-platform use (works for iOS).
-downloads: 1330
+downloads: 1830
 mobile: true
 number: 2020
-stars: 7
+stars: 9
 title: Google Drive Sync
 type: plugin
 updated: '2024-12-01T14:47:35'

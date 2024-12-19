@@ -2,16 +2,16 @@
 aliases:
 - Tasks Calendar Wrapper
 author:
-- '[[Leonezz|zhuwenq]]'
+- '[[authors/Leonezz|zhuwenq]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Date and calendar|Date and calendar]]'
 description: This is a simple wrapper for Obsidian-Tasks-Calendar (https://github.com/702573N/Obsidian-Tasks-Calendar)
   and Obsidian-Tasks-Timeline (https://github.com/702573N/Obsidian-Tasks-Timeline).
-downloads: 44875
+downloads: 45238
 mobile: true
 number: 830
-stars: 192
+stars: 193
 title: Tasks Calendar Wrapper
 type: plugin
 updated: '2024-06-23T21:07:23'

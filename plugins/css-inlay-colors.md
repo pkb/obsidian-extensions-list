@@ -2,18 +2,18 @@
 aliases:
 - CSS Inlay Colors
 author:
-- '[[GRA0007|Benji Grant]]'
+- '[[authors/GRA0007|Benji Grant]]'
 categories: []
 description: Show inline color hints for CSS colors
-downloads: 628
+downloads: 749
 mobile: true
 number: 1844
-stars: 7
+stars: 8
 title: CSS Inlay Colors
 type: plugin
-updated: '2024-08-21T06:55:26'
+updated: '2024-12-12T08:40:02'
 url: https://github.com/GRA0007/obsidian-css-inlay-colors
-version: 1.1.0
+version: 1.2.0
 ---
 
 %% README_START %%

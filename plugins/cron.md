@@ -2,11 +2,11 @@
 aliases:
 - Cron
 author:
-- '[[cdloh|Callum Loh]]'
+- '[[authors/cdloh|Callum Loh]]'
 categories: []
 description: Simple CRON / schedular plugin to regularly run user scripts or Obsidian
   commands.
-downloads: 4505
+downloads: 4514
 mobile: true
 number: 885
 stars: 45

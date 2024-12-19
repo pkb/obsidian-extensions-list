@@ -2,10 +2,10 @@
 aliases:
 - Hugo preview
 author:
-- '[[fzdwx|fzdwx]]'
+- '[[authors/fzdwx|fzdwx]]'
 categories: []
 description: Hugo preview in obsidian
-downloads: 4306
+downloads: 4318
 mobile: false
 number: 743
 stars: 36

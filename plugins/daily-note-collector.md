@@ -2,11 +2,11 @@
 aliases:
 - Daily Note Collector
 author:
-- '[[LA|Adar Butel]]'
+- '[[authors/LA|Adar Butel]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Adds links to new notes to your daily note.
-downloads: 503
+downloads: 517
 mobile: true
 number: 1875
 stars: 3

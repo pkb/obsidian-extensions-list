@@ -2,11 +2,11 @@
 aliases:
 - Projects
 author:
-- '[[marcusolsson|Marcus Olsson]]'
+- '[[authors/marcusolsson|Marcus Olsson]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: Plain text project planning.
-downloads: 358763
+downloads: 361840
 mobile: true
 number: 635
 stars: 1500

@@ -2,11 +2,11 @@
 aliases:
 - Multi Tag
 author:
-- '[[fez-github|technohiker]]'
+- '[[authors/fez-github|technohiker]]'
 categories: []
 description: Adds a tag to multiple notes at once.  Either right-click a folder, or
   select multiple notes and right-click the selection.
-downloads: 10121
+downloads: 10264
 mobile: false
 number: 1082
 stars: 17

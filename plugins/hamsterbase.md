@@ -2,11 +2,11 @@
 aliases:
 - HamsterBase Official
 author:
-- '[[hamsterbase|HamsterBase]]'
+- '[[authors/hamsterbase|HamsterBase]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official HamsterBase -> Obsidian integration
-downloads: 3440
+downloads: 3442
 mobile: false
 number: 952
 stars: 7

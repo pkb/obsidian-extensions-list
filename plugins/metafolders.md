@@ -2,10 +2,10 @@
 aliases:
 - Metafolders
 author:
-- '[[makary-s|Makary Sharoyan]]'
+- '[[authors/makary-s|Makary Sharoyan]]'
 categories: []
 description: Multidimensional note navigation
-downloads: 1594
+downloads: 1616
 mobile: true
 number: 1524
 stars: 19

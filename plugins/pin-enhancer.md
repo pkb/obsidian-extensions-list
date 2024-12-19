@@ -2,11 +2,11 @@
 aliases:
 - Pin Enhancer
 author:
-- '[[Sheeplet1|Sheeplet1]]'
+- '[[authors/Sheeplet1|Sheeplet1]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Enhances the pin function to prevent closing the pinned tab.
-downloads: 405
+downloads: 418
 mobile: false
 number: 1686
 stars: 2

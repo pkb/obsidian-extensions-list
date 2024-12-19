@@ -2,10 +2,10 @@
 aliases:
 - Discordian Theme
 author:
-- '[[radekkozak|@radekkozak]]'
+- '[[authors/radekkozak|@radekkozak]]'
 categories: []
 description: Discordian plugin for tweaking Discordian theme
-downloads: 14860
+downloads: 14902
 mobile: true
 number: 66
 stars: 15

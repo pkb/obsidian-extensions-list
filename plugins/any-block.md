@@ -2,15 +2,15 @@
 aliases:
 - AnyBlock
 author:
-- '[[LincZero|LincZero]]'
+- '[[authors/LincZero|LincZero]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: 'You can flexibility to create a ''Block'' by some means. It also provides
   some useful features, like `list to table`. '
-downloads: 16534
+downloads: 16800
 mobile: true
 number: 869
-stars: 204
+stars: 207
 title: AnyBlock
 type: plugin
 updated: '2024-11-09T22:19:51'

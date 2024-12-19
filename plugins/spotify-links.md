@@ -2,10 +2,10 @@
 aliases:
 - Song Links
 author:
-- '[[cutaiar|Dillon Cutaiar]]'
+- '[[authors/cutaiar|Dillon Cutaiar]]'
 categories: []
 description: Insert a link to the song currently playing on your Spotify
-downloads: 2541
+downloads: 2550
 mobile: false
 number: 1288
 stars: 4

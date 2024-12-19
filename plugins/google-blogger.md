@@ -2,11 +2,11 @@
 aliases:
 - Google Blogger
 author:
-- '[[privet-kitty|Hugo Sansaqua]]'
+- '[[authors/privet-kitty|Hugo Sansaqua]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Google Blogger.
-downloads: 583
+downloads: 594
 mobile: true
 number: 1596
 stars: 5

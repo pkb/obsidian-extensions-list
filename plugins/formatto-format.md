@@ -2,10 +2,10 @@
 aliases:
 - Formatto
 author:
-- '[[evasquare|Eva]]'
+- '[[authors/evasquare|Eva]]'
 categories: []
 description: Simple, fast, and easy-to-use Markdown formatter.
-downloads: 4956
+downloads: 4992
 mobile: true
 number: 1304
 stars: 20

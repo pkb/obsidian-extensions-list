@@ -2,10 +2,10 @@
 aliases:
 - Canvas Keyboard Pan
 author:
-- '[[nathonius|Nathonius]]'
+- '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Pan around your canvas using the keyboard
-downloads: 1008
+downloads: 1041
 mobile: false
 number: 1644
 stars: 4

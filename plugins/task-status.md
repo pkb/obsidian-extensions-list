@@ -2,14 +2,14 @@
 aliases:
 - Task Status
 author:
-- '[[vburzynski|Valerie Burzynski]]'
+- '[[authors/vburzynski|Valerie Burzynski]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Quickly select and apply custom task status markers
-downloads: 4539
+downloads: 4593
 mobile: true
 number: 1349
-stars: 21
+stars: 23
 title: Task Status
 type: plugin
 updated: '2024-10-29T09:02:10'

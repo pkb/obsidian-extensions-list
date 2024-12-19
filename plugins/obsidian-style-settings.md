@@ -2,11 +2,11 @@
 aliases:
 - Style Settings
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Offers controls for adjusting theme, plugin, and snippet CSS variables.
-downloads: 1289839
+downloads: 1302806
 mobile: true
 number: 142
 stars: 1300

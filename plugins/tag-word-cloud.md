@@ -2,10 +2,10 @@
 aliases:
 - Tag & Word Cloud
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Show a cloud of your tags/words in a note
-downloads: 13495
+downloads: 13560
 mobile: true
 number: 422
 stars: 53

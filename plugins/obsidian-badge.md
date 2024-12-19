@@ -2,10 +2,10 @@
 aliases:
 - Obsidian Badge
 author:
-- '[[linjunpop|Jun Lin]]'
+- '[[authors/linjunpop|Jun Lin]]'
 categories: []
 description: This is a plugin to show badge for Obsidian.
-downloads: 5577
+downloads: 5602
 mobile: true
 number: 494
 stars: 30

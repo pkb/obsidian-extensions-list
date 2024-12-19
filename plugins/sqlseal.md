@@ -2,13 +2,13 @@
 aliases:
 - SQLSeal
 author:
-- '[[h-sphere|hypersphere]]'
+- '[[authors/h-sphere|hypersphere]]'
 categories: []
 description: Use SQL in your notes to query your vault files and CSV content.
-downloads: 807
+downloads: 835
 mobile: true
 number: 1733
-stars: 8
+stars: 9
 title: SQLSeal
 type: plugin
 updated: '2024-11-24T22:22:18'

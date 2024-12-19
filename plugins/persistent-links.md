@@ -2,13 +2,13 @@
 aliases:
 - Persistent Links
 author:
-- '[[ivan-lednev|Ivan Lednev]]'
+- '[[authors/ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Automatically repair internal links to blocks and headings
-downloads: 4894
+downloads: 4915
 mobile: true
 number: 911
-stars: 60
+stars: 61
 title: Persistent Links
 type: plugin
 updated: '2023-04-17T21:35:33'

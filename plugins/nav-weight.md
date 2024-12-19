@@ -2,10 +2,10 @@
 aliases:
 - Nav Weight
 author:
-- '[[shu307|shu307]]'
+- '[[authors/shu307|shu307]]'
 categories: []
 description: Sort your navigation items by Markdown frontmatter.
-downloads: 98
+downloads: 105
 mobile: false
 number: 1981
 stars: 2

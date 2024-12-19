@@ -2,11 +2,11 @@
 aliases:
 - BlazeJump
 author:
-- '[[henryco|henryco]]'
+- '[[authors/henryco|henryco]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Navigate through text at blazing speed.
-downloads: 95
+downloads: 105
 mobile: false
 number: 2013
 stars: 6

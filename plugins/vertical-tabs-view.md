@@ -2,10 +2,10 @@
 aliases:
 - Vertical Tabs View
 author:
-- '[[hdykokd|hdykokd]]'
+- '[[authors/hdykokd|hdykokd]]'
 categories: []
 description: Provides a vertical tabs view.
-downloads: 6185
+downloads: 6209
 mobile: true
 number: 1137
 stars: 29

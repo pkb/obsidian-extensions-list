@@ -2,14 +2,14 @@
 aliases:
 - Dataview Serializer
 author:
-- '[[dsebastien|Sébastien Dubois]]'
+- '[[authors/dsebastien|Sébastien Dubois]]'
 categories: []
 description: Serialize Dataview queries to Markdown, and keep the Markdown representation
   up to date.
-downloads: 2176
+downloads: 2280
 mobile: true
 number: 1747
-stars: 71
+stars: 73
 title: Dataview Serializer
 type: plugin
 updated: '2024-11-27T00:08:55'

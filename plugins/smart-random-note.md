@@ -2,13 +2,13 @@
 aliases:
 - Smart Random Note
 author:
-- '[[erichalldev|Eric Hall]]'
+- '[[authors/erichalldev|Eric Hall]]'
 categories: []
 description: A smart random note plugin
-downloads: 45265
+downloads: 45753
 mobile: true
 number: 38
-stars: 106
+stars: 107
 title: Smart Random Note
 type: plugin
 updated: '2021-07-08T19:35:54'

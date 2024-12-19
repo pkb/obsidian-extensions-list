@@ -2,10 +2,10 @@
 aliases:
 - Note Auto Creator
 author:
-- '[[SimonTC|Simon T. Clement]]'
+- '[[authors/SimonTC|Simon T. Clement]]'
 categories: []
 description: Automatically create notes when links are created to them.
-downloads: 10960
+downloads: 11000
 mobile: true
 number: 524
 stars: 59

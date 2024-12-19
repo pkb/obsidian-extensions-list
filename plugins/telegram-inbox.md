@@ -2,18 +2,18 @@
 aliases:
 - Telegram Inbox
 author:
-- '[[icealtria|icealtria]]'
+- '[[authors/icealtria|icealtria]]'
 categories: []
 description: Receive messages from Telegram bot and add them to daily note.
-downloads: 2132
+downloads: 2235
 mobile: true
 number: 1554
 stars: 25
 title: Telegram Inbox
 type: plugin
-updated: '2024-10-04T22:24:13'
+updated: '2024-12-13T18:49:54'
 url: https://github.com/icealtria/obsidian-telegram-inbox
-version: 1.4.2
+version: 1.4.3
 ---
 
 %% README_START %%

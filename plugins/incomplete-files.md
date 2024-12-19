@@ -2,13 +2,13 @@
 aliases:
 - Incomplete files
 author:
-- '[[HananoshikaYomaru|HananoshikaYomaru]]'
+- '[[authors/HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Rule based keep track of your incomplete files
-downloads: 2415
+downloads: 2422
 mobile: true
 number: 1294
-stars: 4
+stars: 5
 title: Incomplete files
 type: plugin
 updated: '2023-12-21T12:01:05'

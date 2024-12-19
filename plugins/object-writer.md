@@ -2,10 +2,10 @@
 aliases:
 - Object Writer
 author:
-- '[[IagoGrah|Iago Grah]]'
+- '[[authors/IagoGrah|Iago Grah]]'
 categories: []
 description: Quickly create a note with a prompt for object writing.
-downloads: 1882
+downloads: 1889
 mobile: true
 number: 1348
 stars: 3

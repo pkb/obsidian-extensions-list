@@ -2,11 +2,11 @@
 aliases:
 - Zotero Link
 author:
-- '[[vanakat|Shmavon Gazanchyan]]'
+- '[[authors/vanakat|Shmavon Gazanchyan]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Insert link to Zotero items from Obsidian interface using Zotero Bridge
-downloads: 9986
+downloads: 10066
 mobile: false
 number: 558
 stars: 41

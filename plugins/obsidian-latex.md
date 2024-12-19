@@ -2,11 +2,11 @@
 aliases:
 - Extended MathJax
 author:
-- '[[wei2912|Xavier Denis & Ng Wei En]]'
+- '[[authors/wei2912|Xavier Denis & Ng Wei En]]'
 categories: []
 description: Adds support for a MathJax preamble and enables additional MathJax extensions
   for specific domains (chemistry, proofs).
-downloads: 34400
+downloads: 34660
 mobile: true
 number: 58
 stars: 156

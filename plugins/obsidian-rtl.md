@@ -2,11 +2,11 @@
 aliases:
 - RTL Support
 author:
-- '[[esm7|esm]]'
+- '[[authors/esm7|esm]]'
 categories: []
 description: Extended Right to Left (RTL) support for languages like Arabic, Hebrew
   and Persian (Farsi).
-downloads: 37363
+downloads: 37508
 mobile: true
 number: 30
 stars: 138

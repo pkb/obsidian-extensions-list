@@ -2,10 +2,10 @@
 aliases:
 - BlindFold
 author:
-- '[[vzsky|my99n]]'
+- '[[authors/vzsky|my99n]]'
 categories: []
 description: Fold text by making it completely hidden.
-downloads: 4289
+downloads: 4302
 mobile: true
 number: 967
 stars: 6

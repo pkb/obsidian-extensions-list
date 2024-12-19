@@ -2,11 +2,11 @@
 aliases:
 - Obsidian Chevereto Image Uploader
 author:
-- '[[kkzzhizhou|kkzzhizhou]]'
+- '[[authors/kkzzhizhou|kkzzhizhou]]'
 categories: []
 description: This plugin uploads the image in your clipboard to chevereto automatically
   when pasting.
-downloads: 3524
+downloads: 3526
 mobile: false
 number: 429
 stars: 10

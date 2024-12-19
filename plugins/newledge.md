@@ -2,11 +2,11 @@
 aliases:
 - 新枝Newledge
 author:
-- '[[DepartingAgain|新枝Newledge]]'
+- '[[authors/DepartingAgain|新枝Newledge]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Newledge data.
-downloads: 167
+downloads: 185
 mobile: true
 number: 1924
 stars: 0

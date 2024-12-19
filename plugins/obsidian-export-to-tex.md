@@ -2,11 +2,11 @@
 aliases:
 - Export To TeX
 author:
-- '[[raineszm|Zach Raines]]'
+- '[[authors/raineszm|Zach Raines]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export vault files in a format amenable to pasting into a tex document
-downloads: 8416
+downloads: 8442
 mobile: false
 number: 57
 stars: 39

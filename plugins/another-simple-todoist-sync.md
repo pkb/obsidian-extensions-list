@@ -2,14 +2,14 @@
 aliases:
 - Another Simple Todoist Sync
 author:
-- '[[eudennis|eudennis]]'
+- '[[authors/eudennis|eudennis]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync tasks with Todoist from within your notes.
-downloads: 251
+downloads: 301
 mobile: true
 number: 1959
-stars: 16
+stars: 19
 title: Another Simple Todoist Sync
 type: plugin
 updated: '2024-12-09T09:33:51'

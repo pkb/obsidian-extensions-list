@@ -2,12 +2,12 @@
 aliases:
 - Simsapa
 author:
-- '[[simsapa|gambhiro]]'
+- '[[authors/simsapa|gambhiro]]'
 categories: []
 description: Pāli dictionary and sutta search using Simsapa Dhamma Reader. Open a
   sidebar or double-click to lookup Pāli words in the dictionary, or search in the
   suttas.
-downloads: 791
+downloads: 795
 mobile: false
 number: 1526
 stars: 1

@@ -2,10 +2,10 @@
 aliases:
 - Messager
 author:
-- '[[xiaotianhu|Rainyluo]]'
+- '[[authors/xiaotianhu|Rainyluo]]'
 categories: []
 description: Save messages into vault which sending through WeChat / HTTP API / Email
-downloads: 1515
+downloads: 1558
 mobile: true
 number: 1793
 stars: 8

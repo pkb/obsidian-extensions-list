@@ -2,10 +2,10 @@
 aliases:
 - Linked Data Helper
 author:
-- '[[kometenstaub|kometenstaub]]'
+- '[[authors/kometenstaub|kometenstaub]]'
 categories: []
 description: Parse Linked data for Linked Data Vocabularies.
-downloads: 3968
+downloads: 3969
 mobile: false
 number: 917
 stars: 17

@@ -2,10 +2,10 @@
 aliases:
 - Movie and TV show tracker
 author:
-- '[[Shreshth-mehra|Shreshth Mehra]]'
+- '[[authors/Shreshth-mehra|Shreshth Mehra]]'
 categories: []
 description: A Movie and TV show tracker.
-downloads: 2055
+downloads: 2071
 mobile: true
 number: 1424
 stars: 10

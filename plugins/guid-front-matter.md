@@ -2,10 +2,10 @@
 aliases:
 - Add an ID to the front matter
 author:
-- '[[llimllib|Bill Mill]]'
+- '[[authors/llimllib|Bill Mill]]'
 categories: []
 description: Add a globally unique ID to every markdown document's front matter
-downloads: 4397
+downloads: 4414
 mobile: true
 number: 1003
 stars: 21

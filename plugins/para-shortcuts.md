@@ -2,11 +2,11 @@
 aliases:
 - PARA Shortcuts
 author:
-- '[[gOATiful|gOAT]]'
+- '[[authors/gOATiful|gOAT]]'
 categories: []
 description: This plugin serves usefull commands to setup and manage your knowledge
   using the PARA method.
-downloads: 5614
+downloads: 5635
 mobile: true
 number: 398
 stars: 23

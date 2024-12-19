@@ -2,12 +2,12 @@
 aliases:
 - Privacy Glasses
 author:
-- '[[jillalberts|Jill Alberts]]'
+- '[[authors/jillalberts|Jill Alberts]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Provides a button and command to obfuscate onscreen text for better privacy
   in public settings.
-downloads: 66049
+downloads: 66399
 mobile: true
 number: 147
 stars: 79

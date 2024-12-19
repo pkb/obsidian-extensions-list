@@ -6,10 +6,10 @@ author:
 categories: []
 description: You can visualize your classes and their inheritance, composition, aggregation
   relation.
-downloads: 22
+downloads: 43
 mobile: true
 number: 2061
-stars: 1
+stars: 2
 title: Class Relation Visualization
 type: plugin
 updated: '2024-11-12T20:54:23'

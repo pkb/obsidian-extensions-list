@@ -2,11 +2,11 @@
 aliases:
 - Git File Explorer
 author:
-- '[[MateusMolina|Mateus Molina]]'
+- '[[authors/MateusMolina|Mateus Molina]]'
 categories: []
 description: Add relevant git information to detected git repostitories in the file
   explorer.
-downloads: 2059
+downloads: 2068
 mobile: false
 number: 1351
 stars: 22

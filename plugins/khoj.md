@@ -2,23 +2,23 @@
 aliases:
 - Khoj
 author:
-- '[[khoj-ai|Khoj Inc.]]'
+- '[[authors/khoj-ai|Khoj Inc.]]'
 categories: []
 description: Your Second Brain
-downloads: 30751
+downloads: 31254
 mobile: true
 number: 771
-stars: 17100
+stars: 17300
 title: Khoj
 type: plugin
-updated: '2024-11-29T09:44:30'
+updated: '2024-12-18T06:04:16'
 url: https://github.com/khoj-ai/khoj
-version: 1.31.0
+version: 1.32.2
 ---
 
 %% README_START %%
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoj-ai/khoj/HEAD/src/khoj/interface/web/assets/icons/khoj-logo-sideways-500.png" width="230" alt="Khoj Logo"></p>
+<p align="center"><img src="https://assets.khoj.dev/khoj-logo-sideways-1200x540.png" width="230" alt="Khoj Logo"></p>
 
 <div align="center">
 

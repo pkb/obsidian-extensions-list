@@ -2,10 +2,10 @@
 aliases:
 - Default New Tab Page
 author:
-- '[[chrisgrieser|pseudometa]]'
+- '[[authors/chrisgrieser|pseudometa]]'
 categories: []
 description: Open a note of your choice when creating a new tab, like in the browser.
-downloads: 21642
+downloads: 21801
 mobile: true
 number: 594
 stars: 47

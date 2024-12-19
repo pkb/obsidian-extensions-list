@@ -2,14 +2,14 @@
 aliases:
 - Continuous Mode
 author:
-- '[[gasparschott|Michael Schrauzer]]'
+- '[[authors/gasparschott|Michael Schrauzer]]'
 categories: []
 description: Displays all open notes in a tab group as if they were a continuous scrollable
   document (sometimes called "Scrivenings mode"). Open all notes in Continuous Mode
   from a folder, search results, or links in a file or Dataview/query block; use arrow
   keys to navigate between notes; reorder notes via tab header drag-and-drop, sorting,
   more.
-downloads: 11378
+downloads: 11453
 mobile: true
 number: 1372
 stars: 84

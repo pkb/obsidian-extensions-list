@@ -2,13 +2,13 @@
 aliases:
 - Markdown Furigana
 author:
-- '[[steven-kraft|Steven Kraft]]'
+- '[[authors/steven-kraft|Steven Kraft]]'
 categories: []
 description: Simple Markdown to Furigana Rendering Plugin for Obsidian.
-downloads: 11726
+downloads: 11790
 mobile: true
 number: 170
-stars: 88
+stars: 89
 title: Markdown Furigana
 type: plugin
 updated: '2023-06-16T09:56:54'

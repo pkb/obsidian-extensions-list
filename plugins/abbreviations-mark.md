@@ -2,10 +2,10 @@
 aliases:
 - Abbreviations and Acronyms
 author:
-- '[[dragonish|dragonish]]'
+- '[[authors/dragonish|dragonish]]'
 categories: []
 description: Implements automatic marking of abbreviations and acronyms (terminology).
-downloads: 294
+downloads: 305
 mobile: true
 number: 1857
 stars: 10

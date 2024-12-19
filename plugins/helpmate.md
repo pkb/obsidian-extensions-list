@@ -2,13 +2,13 @@
 aliases:
 - HelpMate
 author:
-- '[[TfTHacker|TfTHacker]]'
+- '[[authors/TfTHacker|TfTHacker]]'
 categories: []
 description: Integrating help systems into the Obsidian UI.
-downloads: 6643
+downloads: 6735
 mobile: true
 number: 1292
-stars: 35
+stars: 36
 title: HelpMate
 type: plugin
 updated: '2024-11-05T20:50:27'

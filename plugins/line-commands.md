@@ -2,11 +2,11 @@
 aliases:
 - Line Commands
 author:
-- '[[charliecm|Charlie Chao]]'
+- '[[authors/charliecm|Charlie Chao]]'
 categories: []
 description: Adds commands to quickly select, copy, cut, and paste lines under the
   selection or cursor.
-downloads: 1264
+downloads: 1278
 mobile: true
 number: 1514
 stars: 10

@@ -2,14 +2,14 @@
 aliases:
 - Persistent Key-Value Store
 author:
-- '[[iamrecursion|Ara Adkins]]'
+- '[[authors/iamrecursion|Ara Adkins]]'
 categories: []
 description: Provides a persistent key-value store for use in scripts, along with
   a portable web inspector.
-downloads: 1265
+downloads: 1268
 mobile: true
 number: 1366
-stars: 18
+stars: 19
 title: Persistent Key-Value Store
 type: plugin
 updated: '2024-04-03T05:59:04'

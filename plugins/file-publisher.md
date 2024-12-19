@@ -2,11 +2,11 @@
 aliases:
 - File Publisher
 author:
-- '[[yiglas|Devin Sackett]]'
+- '[[authors/yiglas|Devin Sackett]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publishes a file to a given api.
-downloads: 3435
+downloads: 3440
 mobile: true
 number: 834
 stars: 13

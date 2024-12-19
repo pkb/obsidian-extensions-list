@@ -2,11 +2,11 @@
 aliases:
 - Select current line
 author:
-- '[[gokulk16|Gokul]]'
+- '[[authors/gokulk16|Gokul]]'
 categories: []
 description: Selects the current line where the cursor is placed. Press 'ESC' button
   to select.
-downloads: 3697
+downloads: 3710
 mobile: true
 number: 875
 stars: 5

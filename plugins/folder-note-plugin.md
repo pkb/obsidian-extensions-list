@@ -2,13 +2,13 @@
 aliases:
 - Folder Note
 author:
-- '[[xpgo|xpgo]]'
+- '[[authors/xpgo|xpgo]]'
 categories: []
 description: Click a folder node to show a note describing the folder.
-downloads: 111327
+downloads: 112019
 mobile: true
 number: 78
-stars: 403
+stars: 405
 title: Folder Note
 type: plugin
 updated: '2021-02-20T12:49:10'

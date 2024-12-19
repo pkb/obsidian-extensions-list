@@ -2,11 +2,11 @@
 aliases:
 - Dynamic Text Concealer
 author:
-- '[[mattcoleanderson|Matt Cole Anderson]]'
+- '[[authors/mattcoleanderson|Matt Cole Anderson]]'
 categories: []
 description: Conceal or replace user configured text patterns in Live Preview and
   Read Mode.
-downloads: 1249
+downloads: 1255
 mobile: true
 number: 1395
 stars: 8

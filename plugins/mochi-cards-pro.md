@@ -2,11 +2,11 @@
 aliases:
 - Mochi Cards Pro
 author:
-- '[[xHayden|Hayden Carpenter]]'
+- '[[authors/xHayden|Hayden Carpenter]]'
 categories: []
 description: Create flashcards on Mochi.cards using the API provided by Mochi's Pro
   subscription.
-downloads: 2531
+downloads: 2540
 mobile: true
 number: 1223
 stars: 20

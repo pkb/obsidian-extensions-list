@@ -2,11 +2,11 @@
 aliases:
 - Daily Named Folder
 author:
-- '[[NemoAndrea|Nemo Andrea]]'
+- '[[authors/NemoAndrea|Nemo Andrea]]'
 categories: []
 description: Like daily notes, but nested in a named daily folder. Better for attachment
   management. Includes more flexible naming.
-downloads: 16534
+downloads: 16713
 mobile: true
 number: 271
 stars: 16

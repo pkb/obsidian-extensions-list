@@ -2,14 +2,14 @@
 aliases:
 - SyncFTP
 author:
-- '[[alex-donnan|Alex Donnan]]'
+- '[[authors/alex-donnan|Alex Donnan]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This plugin syncs files to an SFTP, with credentials in settings.
-downloads: 4387
+downloads: 4413
 mobile: false
 number: 1045
-stars: 23
+stars: 24
 title: SyncFTP
 type: plugin
 updated: '2023-06-13T22:46:36'

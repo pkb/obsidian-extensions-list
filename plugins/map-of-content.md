@@ -2,10 +2,10 @@
 aliases:
 - Map of Content
 author:
-- '[[Robin-Haupt-1|Robin Haupt]]'
+- '[[authors/Robin-Haupt-1|Robin Haupt]]'
 categories: []
 description: Automatically generate a Map of Content for your vault
-downloads: 36075
+downloads: 36173
 mobile: true
 number: 309
 stars: 173

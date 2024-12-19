@@ -2,14 +2,14 @@
 aliases:
 - Aloud
 author:
-- '[[adrianlyjak|Adrian Lyjak]]'
+- '[[authors/adrianlyjak|Adrian Lyjak]]'
 categories: []
 description: Highlight and speak text from your notes. Converts text to speech in
   real-time using lifelike voices from OpenAI.
-downloads: 5039
+downloads: 5114
 mobile: true
 number: 1407
-stars: 26
+stars: 27
 title: Aloud
 type: plugin
 updated: '2024-10-27T08:06:56'

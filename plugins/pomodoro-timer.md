@@ -2,14 +2,14 @@
 aliases:
 - Pomodoro Timer
 author:
-- '[[eatgrass|eatgrass]]'
+- '[[authors/eatgrass|eatgrass]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: A pomodoro timer that helps manage your daily focus
-downloads: 23720
+downloads: 24142
 mobile: true
 number: 1329
-stars: 141
+stars: 142
 title: Pomodoro Timer
 type: plugin
 updated: '2024-05-30T13:01:19'

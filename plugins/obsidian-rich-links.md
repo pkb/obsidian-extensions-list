@@ -2,10 +2,10 @@
 aliases:
 - Rich Links
 author:
-- '[[dhamaniasad|Asad Dhamani]]'
+- '[[authors/dhamaniasad|Asad Dhamani]]'
 categories: []
 description: Rich Links plugin for Obsidian.
-downloads: 26372
+downloads: 26466
 mobile: true
 number: 260
 stars: 123

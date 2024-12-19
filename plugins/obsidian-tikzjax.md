@@ -2,14 +2,14 @@
 aliases:
 - TikZJax
 author:
-- '[[artisticat1|artisticat]]'
+- '[[authors/artisticat1|artisticat]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render LaTeX and TikZ diagrams in your notes
-downloads: 27430
+downloads: 27726
 mobile: true
 number: 602
-stars: 459
+stars: 464
 title: TikZJax
 type: plugin
 updated: '2024-03-31T20:39:31'

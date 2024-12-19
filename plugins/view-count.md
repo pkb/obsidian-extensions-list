@@ -2,11 +2,11 @@
 aliases:
 - View Count
 author:
-- '[[decaf-dev|DecafDev]]'
+- '[[authors/decaf-dev|DecafDev]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track view count for each vault file.
-downloads: 2724
+downloads: 2751
 mobile: true
 number: 1498
 stars: 16

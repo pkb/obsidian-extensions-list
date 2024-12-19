@@ -2,12 +2,12 @@
 aliases:
 - Search++
 author:
-- '[[nhaouari|Noureddine Haouari]]'
+- '[[authors/nhaouari|Noureddine Haouari]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Allow inserting text context search results on the active note, the plugin
   is based on the plugin mrj-text-expand-witb-text of MrJackphil.
-downloads: 6095
+downloads: 6100
 mobile: true
 number: 26
 stars: 21

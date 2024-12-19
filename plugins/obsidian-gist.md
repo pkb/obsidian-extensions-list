@@ -2,10 +2,10 @@
 aliases:
 - Gist
 author:
-- '[[linjunpop|Jun Lin]]'
+- '[[authors/linjunpop|Jun Lin]]'
 categories: []
 description: This is a plugin to display the GitHub Gist.
-downloads: 9209
+downloads: 9228
 mobile: true
 number: 205
 stars: 81

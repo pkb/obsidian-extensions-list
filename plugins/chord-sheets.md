@@ -2,19 +2,19 @@
 aliases:
 - Chord Sheets
 author:
-- '[[olvidalo|Marcel Schaeben]]'
+- '[[authors/olvidalo|Marcel Schaeben]]'
 categories: []
 description: 'Work with chord sheets (chords over lyrics) in your Vault: Chord diagrams,
   transpose, autoscroll and more. Works in live preview and reading mode.'
-downloads: 5057
+downloads: 5397
 mobile: true
 number: 1447
-stars: 54
+stars: 56
 title: Chord Sheets
 type: plugin
-updated: '2024-10-07T21:35:14'
+updated: '2024-12-18T22:14:45'
 url: https://github.com/olvidalo/obsidian-chord-sheets
-version: 1.3.2
+version: 1.5.0
 ---
 
 %% README_START %%
@@ -52,6 +52,11 @@ rendered locally, no API calls to an external service required.
 ![diagram-popups.gif](https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/HEAD/docs/diagram-popups.gif)
 
 ![chord-overview.gif](https://raw.githubusercontent.com/olvidalo/obsidian-chord-sheets/HEAD/docs/chord-overview.gif)
+
+### 🔨 Custom Chord Shapes
+
+Define your own chord shapes using brackets: `Bbadd13[x13333]`, `Dm6[4|x2x132]` (with capo), or `C°[x34_242_]`
+(with barre).
 
 ### 🎸 Choose Your Instrument
 
@@ -162,8 +167,8 @@ This plugin uses:
 If you like this plugin and want to say thanks, here are ways to support its development:  
   
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/olvidalo)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/olvidalo?style=social)](https://github.com/sponsors/tgrosinger)
-[![Paypal](https://img.shields.io/badge/paypal-tgrosinger-yellow?style=social&logo=paypal)](https://paypal.me/tgrosinger)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/olvidalo?style=social)](https://github.com/sponsors/olvidalo)
+[![Paypal](https://img.shields.io/badge/paypal-mschaeben-yellow?style=social&logo=paypal)](https://paypal.me/mschaeben)
 
 Your support helps maintain and improve this project. Thank you!
 

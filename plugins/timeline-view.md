@@ -2,11 +2,11 @@
 aliases:
 - Timeline View
 author:
-- '[[b-camphart|b-camphart]]'
+- '[[authors/b-camphart|b-camphart]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Display your obsidian notes in a timeline, based on a given property.
-downloads: 5227
+downloads: 5256
 mobile: false
 number: 1216
 stars: 26

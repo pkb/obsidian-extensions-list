@@ -2,13 +2,13 @@
 aliases:
 - April's Automatic Timelines
 author:
-- '[[April-Gras|April Gras]]'
+- '[[authors/April-Gras|April Gras]]'
 categories: []
 description: Simple timeline generator for story tellers
-downloads: 30491
+downloads: 31020
 mobile: true
 number: 913
-stars: 133
+stars: 137
 title: April's Automatic Timelines
 type: plugin
 updated: '2024-12-02T20:36:19'

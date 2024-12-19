@@ -2,10 +2,10 @@
 aliases:
 - Kinopoisk search
 author:
-- '[[Alintor|Alintor]]'
+- '[[authors/Alintor|Alintor]]'
 categories: []
 description: Helps you find movies and tv shows via Kinopoisk and create notes.
-downloads: 1114
+downloads: 1131
 mobile: true
 number: 1540
 stars: 6

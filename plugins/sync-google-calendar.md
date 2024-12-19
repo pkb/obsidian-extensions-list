@@ -2,11 +2,11 @@
 aliases:
 - Sync Google Calendar
 author:
-- '[[dexin-qi|Dexin Qi]]'
+- '[[authors/dexin-qi|Dexin Qi]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize events from Google Calendar and manage them like tasks.
-downloads: 8317
+downloads: 8377
 mobile: false
 number: 940
 stars: 71

@@ -2,13 +2,13 @@
 aliases:
 - Trash Explorer
 author:
-- '[[proog|Per Mortensen]]'
+- '[[authors/proog|Per Mortensen]]'
 categories: []
 description: Restore and delete files from the Obsidian .trash folder
-downloads: 25553
+downloads: 25997
 mobile: true
 number: 655
-stars: 40
+stars: 41
 title: Trash Explorer
 type: plugin
 updated: '2024-09-27T02:04:58'

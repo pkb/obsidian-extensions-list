@@ -2,12 +2,12 @@
 aliases:
 - Size History
 author:
-- '[[pbrw|Piotr Borowski]]'
+- '[[authors/pbrw|Piotr Borowski]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 - '[[categories/Charting|Charting]]'
 description: Admire the growth of your Obsidian vault with a "hand-drawn" chart.
-downloads: 3719
+downloads: 3731
 mobile: true
 number: 1154
 stars: 11

@@ -2,10 +2,10 @@
 aliases:
 - Copy Search URL
 author:
-- '[[czottmann|Carlo Zottmann]]'
+- '[[authors/czottmann|Carlo Zottmann]]'
 categories: []
 description: Adds a button to the search view for copying the Obsidian search URL.
-downloads: 4935
+downloads: 4939
 mobile: false
 number: 606
 stars: 26

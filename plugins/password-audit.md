@@ -2,12 +2,12 @@
 aliases:
 - Password Audit
 author:
-- '[[prashanthpulisetti|Sai Prashanth Pulisetti]]'
+- '[[authors/prashanthpulisetti|Sai Prashanth Pulisetti]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Audit password strength, check breaches, and generate secure passwords.
   Not a password manager.
-downloads: 52
+downloads: 63
 mobile: true
 number: 2033
 stars: 5

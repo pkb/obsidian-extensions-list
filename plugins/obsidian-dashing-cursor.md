@@ -2,10 +2,10 @@
 aliases:
 - Dashing cursor
 author:
-- '[[9r0x|Shukai Ni]]'
+- '[[authors/9r0x|Shukai Ni]]'
 categories: []
 description: Enables dashing cursor that follows the page scroll
-downloads: 4432
+downloads: 4439
 mobile: true
 number: 587
 stars: 13

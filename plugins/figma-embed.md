@@ -2,10 +2,10 @@
 aliases:
 - Figma Embed
 author:
-- '[[kocheck|Kyle Kochanek]]'
+- '[[authors/kocheck|Kyle Kochanek]]'
 categories: []
 description: Embed Figma files as inline previews.
-downloads: 424
+downloads: 450
 mobile: true
 number: 1914
 stars: 2

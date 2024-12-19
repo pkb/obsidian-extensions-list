@@ -2,11 +2,11 @@
 aliases:
 - TodoTxt Codeblocks
 author:
-- '[[benjamonnguyen|Benjamin Nguyen]]'
+- '[[authors/benjamonnguyen|Benjamin Nguyen]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage your tasks inside codeblocks according to the Todo.txt specification.
-downloads: 3711
+downloads: 3734
 mobile: true
 number: 1189
 stars: 16

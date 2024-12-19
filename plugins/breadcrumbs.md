@@ -2,14 +2,14 @@
 aliases:
 - Breadcrumbs
 author:
-- '[[SkepticMystic|SkepticMystic]]'
+- '[[authors/SkepticMystic|SkepticMystic]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Add structured hierarchies to your notes
-downloads: 122087
+downloads: 122529
 mobile: true
 number: 224
-stars: 546
+stars: 547
 title: Breadcrumbs
 type: plugin
 updated: '2024-05-07T14:20:57'

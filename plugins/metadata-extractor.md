@@ -2,11 +2,11 @@
 aliases:
 - Metadata Extractor
 author:
-- '[[kometenstaub|kometenstaub]]'
+- '[[authors/kometenstaub|kometenstaub]]'
 categories: []
 description: Metadata export on a schedule for integration with third-party apps like
   launchers.
-downloads: 20595
+downloads: 20676
 mobile: false
 number: 303
 stars: 103

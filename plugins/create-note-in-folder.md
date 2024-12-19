@@ -2,10 +2,10 @@
 aliases:
 - Create Note in Folder
 author:
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Add commands to create a note in a specific folder.
-downloads: 7914
+downloads: 7952
 mobile: true
 number: 809
 stars: 21

@@ -2,10 +2,10 @@
 aliases:
 - Text2Audio
 author:
-- '[[luhaifeng666|luhaifeng666]]'
+- '[[authors/luhaifeng666|luhaifeng666]]'
 categories: []
 description: Convert text to speech
-downloads: 1337
+downloads: 1363
 mobile: true
 number: 1632
 stars: 13

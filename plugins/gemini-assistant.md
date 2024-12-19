@@ -2,14 +2,14 @@
 aliases:
 - Gemini Assistant
 author:
-- '[[eatgrass|eatgrass]]'
+- '[[authors/eatgrass|eatgrass]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Your Gemini AI assistant
-downloads: 6413
+downloads: 6518
 mobile: true
 number: 1397
-stars: 47
+stars: 48
 title: Gemini Assistant
 type: plugin
 updated: '2024-03-05T11:51:08'

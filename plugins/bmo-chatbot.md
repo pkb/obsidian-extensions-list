@@ -2,13 +2,13 @@
 aliases:
 - BMO Chatbot
 author:
-- '[[longy2k|Longy2k]]'
+- '[[authors/longy2k|Longy2k]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate and brainstorm ideas while creating your notes using Large Language
   Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI,
   and more for Obsidian.
-downloads: 24725
+downloads: 24976
 mobile: true
 number: 979
 stars: 385

@@ -2,11 +2,11 @@
 aliases:
 - BattleSnake Board Viewer
 author:
-- '[[EnderInvader|EnderInvader]]'
+- '[[authors/EnderInvader|EnderInvader]]'
 categories:
 - '[[categories/Games|Games]]'
 description: Render BattleSnake positions diagrams in note preview.
-downloads: 2877
+downloads: 2878
 mobile: true
 number: 1107
 stars: 0

@@ -2,10 +2,10 @@
 aliases:
 - Material Symbols
 author:
-- '[[cberane|Cristoph Berane]]'
+- '[[authors/cberane|Cristoph Berane]]'
 categories: []
 description: This plugin adds the material symbols (outlined) to obsidian
-downloads: 3892
+downloads: 3904
 mobile: true
 number: 800
 stars: 6

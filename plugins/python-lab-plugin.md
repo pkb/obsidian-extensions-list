@@ -2,10 +2,10 @@
 aliases:
 - Python lab
 author:
-- '[[cristianvasquez|Cristian Vasquez]]'
+- '[[authors/cristianvasquez|Cristian Vasquez]]'
 categories: []
 description: An interface to experiment with python scripts and more.
-downloads: 8486
+downloads: 8534
 mobile: true
 number: 158
 stars: 92

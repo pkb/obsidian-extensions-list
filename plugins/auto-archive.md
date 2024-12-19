@@ -2,10 +2,10 @@
 aliases:
 - Auto Archive
 author:
-- '[[shanedonburke|Shane Burke]]'
+- '[[authors/shanedonburke|Shane Burke]]'
 categories: []
 description: Automatically archive notes once they reach a certain age
-downloads: 3138
+downloads: 3148
 mobile: true
 number: 1170
 stars: 7

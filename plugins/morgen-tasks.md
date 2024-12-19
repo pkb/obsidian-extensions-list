@@ -2,17 +2,17 @@
 aliases:
 - Morgen Tasks
 author:
-- '[[morgen-so|Morgen AG]]'
+- '[[authors/morgen-so|Morgen AG]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Plan, time block, and track tasks from your vault in any calendar using
   Morgen.
-downloads: 2378
+downloads: 2639
 mobile: true
 number: 1893
-stars: 3
+stars: 4
 title: Morgen Tasks
 type: plugin
 updated: '2024-12-06T21:32:06'

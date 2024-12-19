@@ -2,11 +2,11 @@
 aliases:
 - Itinerary
 author:
-- '[[coddingtonbear|Adam Coddington <me@adamcoddington.net>]]'
+- '[[authors/coddingtonbear|Adam Coddington <me@adamcoddington.net>]]'
 categories: []
 description: Make planning your trip or event easier by rendering a calendar from
   event information found in your notes.
-downloads: 8936
+downloads: 8956
 mobile: true
 number: 305
 stars: 84

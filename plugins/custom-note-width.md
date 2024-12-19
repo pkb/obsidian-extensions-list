@@ -2,10 +2,10 @@
 aliases:
 - Custom Note Width
 author:
-- '[[0skater0|0skater0]]'
+- '[[authors/0skater0|0skater0]]'
 categories: []
 description: Let's you adjust the line width on a note-by-note basis.
-downloads: 6370
+downloads: 6468
 mobile: false
 number: 1296
 stars: 17

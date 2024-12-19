@@ -2,12 +2,12 @@
 aliases:
 - Header Adjuster
 author:
-- '[[Netajam|Valentin Pelletier]]'
+- '[[authors/Netajam|Valentin Pelletier]]'
 categories: []
 description: Easily adjust header levels in Markdown documents by increasing or decreasing
   their levels. Supports full document adjustments or specified line ranges, with
   default settings and commands for convenience
-downloads: 374
+downloads: 385
 mobile: true
 number: 1730
 stars: 4

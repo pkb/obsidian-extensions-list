@@ -2,11 +2,11 @@
 aliases:
 - Link Archive
 author:
-- '[[tomzorz|Tamás Deme - @tomzorz_]]'
+- '[[authors/tomzorz|Tamás Deme - @tomzorz_]]'
 categories: []
 description: This plugin archives links in your note so they're available to you even
   if the original site goes down or gets removed.
-downloads: 6040
+downloads: 6049
 mobile: true
 number: 330
 stars: 133

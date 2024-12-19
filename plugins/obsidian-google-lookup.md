@@ -2,11 +2,11 @@
 aliases:
 - Google Calendar and Contacts Lookup
 author:
-- '[[ntawileh|nadim@park5.io]]'
+- '[[authors/ntawileh|nadim@park5.io]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Import contact and calendar event information from your Google account
-downloads: 11020
+downloads: 11052
 mobile: false
 number: 543
 stars: 81

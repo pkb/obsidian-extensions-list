@@ -2,10 +2,10 @@
 aliases:
 - Code block from selection
 author:
-- '[[dy-sh|Dmitry Savosh]]'
+- '[[authors/dy-sh|Dmitry Savosh]]'
 categories: []
 description: Adds code block for the selected text
-downloads: 10424
+downloads: 10443
 mobile: true
 number: 119
 stars: 33

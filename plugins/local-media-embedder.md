@@ -2,11 +2,11 @@
 aliases:
 - Local Media Embedder
 author:
-- '[[seyf1elislam|seyf1elislam]]'
+- '[[authors/seyf1elislam|seyf1elislam]]'
 categories:
 - '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Embed videos and images and audios from your local device  in your notes.
-downloads: 415
+downloads: 470
 mobile: false
 number: 1949
 stars: 10

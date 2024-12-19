@@ -2,13 +2,13 @@
 aliases:
 - Local GPT
 author:
-- '[[pfrankov|Pavel Frankov]]'
+- '[[authors/pfrankov|Pavel Frankov]]'
 categories: []
 description: Local GPT assistance for maximum privacy and offline access
-downloads: 21430
+downloads: 22303
 mobile: true
 number: 1339
-stars: 346
+stars: 353
 title: Local GPT
 type: plugin
 updated: '2024-12-06T04:30:50'

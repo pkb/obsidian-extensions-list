@@ -2,19 +2,19 @@
 aliases:
 - Vault to blog
 author:
-- '[[barkstone2|barkstone2]]'
+- '[[authors/barkstone2|barkstone2]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish the vault to a GitHub Pages blog.
-downloads: 223
+downloads: 250
 mobile: false
 number: 1877
 stars: 5
 title: Vault to blog
 type: plugin
-updated: '2024-11-19T11:59:29'
+updated: '2024-12-15T12:38:06'
 url: https://github.com/barkstone2/vault-to-blog
-version: 0.0.5
+version: 0.0.6
 ---
 
 %% README_START %%
@@ -77,6 +77,11 @@ A Community Plugin for [Obsidian.md](https://obsidian.md/) to publish your vault
   - Math
     - Math blocks are supported
     - Inline math expressions are supported
+- Utterances Comments Layout
+  - Comments layout provided by the Utterances are supported
+## Demo Page
+If you want to see a demo page, you can see the very simple result [here](https://barkstone3.github.io/).
+
 ## Bug Report
 To report a bug, simply go to the [Issues](https://github.com/barkstone2/vault-to-blog/issues) tab and use the provided template to submit your bug report.
 

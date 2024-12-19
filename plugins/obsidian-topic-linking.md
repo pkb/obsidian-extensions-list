@@ -2,10 +2,10 @@
 aliases:
 - Topic Linking
 author:
-- '[[liammagee|Liam Magee]]'
+- '[[authors/liammagee|Liam Magee]]'
 categories: []
 description: Convert PDF files and web links to Markdown, and create topics from Markdown
-downloads: 20565
+downloads: 20635
 mobile: false
 number: 408
 stars: 82

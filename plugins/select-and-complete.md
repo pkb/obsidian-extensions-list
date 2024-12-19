@@ -2,11 +2,11 @@
 aliases:
 - Select & Complete
 author:
-- '[[macro21KGB|Mario De Luca]]'
+- '[[authors/macro21KGB|Mario De Luca]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Select something and let the AI complete it for you.
-downloads: 1246
+downloads: 1261
 mobile: true
 number: 1467
 stars: 3

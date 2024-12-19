@@ -2,19 +2,19 @@
 aliases:
 - Lineage
 author:
-- '[[ycnmhd|ycnmhd]]'
+- '[[authors/ycnmhd|ycnmhd]]'
 categories: []
 description: Edit Markdown in a keyboard-centric Miller columns interface. Inspired
   by Gingko Writer.
-downloads: 3905
+downloads: 4227
 mobile: true
 number: 1671
-stars: 109
+stars: 110
 title: Lineage
 type: plugin
-updated: '2024-08-24T16:17:51'
+updated: '2024-12-15T03:19:26'
 url: https://github.com/ycnmhd/obsidian-lineage
-version: 0.6.1
+version: 0.7.0-beta
 ---
 
 %% README_START %%

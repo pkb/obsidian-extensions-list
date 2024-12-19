@@ -2,10 +2,10 @@
 aliases:
 - Mark and Select
 author:
-- '[[anselmwang|Yu Wang]]'
+- '[[authors/anselmwang|Yu Wang]]'
 categories: []
 description: More flexible ways to select texts in Obsidian Editor
-downloads: 4124
+downloads: 4130
 mobile: true
 number: 443
 stars: 11

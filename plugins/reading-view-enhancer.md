@@ -2,11 +2,11 @@
 aliases:
 - Reading View Enhancer
 author:
-- '[[Galacsh|Galacsh]]'
+- '[[authors/Galacsh|Galacsh]]'
 categories: []
 description: Enhances reading view. Use arrow keys to navigate between blocks or toggle
   collapse.
-downloads: 4821
+downloads: 4851
 mobile: true
 number: 901
 stars: 21

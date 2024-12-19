@@ -2,13 +2,13 @@
 aliases:
 - RSS Reader
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Read RSS Feeds from within obsidian
-downloads: 28609
+downloads: 28731
 mobile: true
 number: 354
-stars: 397
+stars: 398
 title: RSS Reader
 type: plugin
 updated: '2022-06-27T13:36:52'

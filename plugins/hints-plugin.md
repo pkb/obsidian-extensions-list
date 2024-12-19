@@ -2,15 +2,15 @@
 aliases:
 - Hints Flow
 author:
-- '[[slpbx|Hints]]'
+- '[[authors/slpbx|Hints]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Save data directly to Obsidian with a specified template. Capture from
   Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
-downloads: 8299
+downloads: 8341
 mobile: true
 number: 745
-stars: 59
+stars: 61
 title: Hints Flow
 type: plugin
 updated: '2024-01-05T16:49:15'

@@ -2,10 +2,10 @@
 aliases:
 - Minimize on Close
 author:
-- '[[alberti42|Andrea Alberti]]'
+- '[[authors/alberti42|Andrea Alberti]]'
 categories: []
 description: Minimizes the app window to an icon after closing the last open pane
-downloads: 251
+downloads: 269
 mobile: false
 number: 1921
 stars: 3

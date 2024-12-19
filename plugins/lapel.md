@@ -2,10 +2,10 @@
 aliases:
 - Lapel
 author:
-- '[[liamcain|Liam Cain]]'
+- '[[authors/liamcain|Liam Cain]]'
 categories: []
 description: Dress up your editor with decorations that mark each of your headings.
-downloads: 21503
+downloads: 21635
 mobile: true
 number: 467
 stars: 114

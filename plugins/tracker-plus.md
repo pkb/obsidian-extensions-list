@@ -2,11 +2,11 @@
 aliases:
 - Tracker+
 author:
-- '[[greater-than|greater-than]]'
+- '[[authors/greater-than|greater-than]]'
 categories: []
 description: Track and visualize data from your notes. Compatible with original Tracker
   plugin.
-downloads: 4300
+downloads: 4339
 mobile: true
 number: 1215
 stars: 36

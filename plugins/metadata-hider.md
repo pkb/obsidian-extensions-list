@@ -2,10 +2,10 @@
 aliases:
 - Metadata Hider
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories: []
 description: Hide specific metadata property or if its value is empty.
-downloads: 4883
+downloads: 4923
 mobile: true
 number: 1355
 stars: 15

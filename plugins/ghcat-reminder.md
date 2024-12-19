@@ -2,11 +2,11 @@
 aliases:
 - GChat Reminder
 author:
-- '[[anil-e|Anil Erdogan]]'
+- '[[authors/anil-e|Anil Erdogan]]'
 categories: []
 description: Sends notifications to Google Chat Webhook based on due dates in Obsidian
   tasks.
-downloads: 2438
+downloads: 2451
 mobile: true
 number: 1273
 stars: 5

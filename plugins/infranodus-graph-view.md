@@ -2,14 +2,14 @@
 aliases:
 - InfraNodus AI Graph View
 author:
-- '[[noduslabs|Nodus Labs]]'
+- '[[authors/noduslabs|Nodus Labs]]'
 categories: []
 description: 'Interactive 3D graph view: text analysis, topic modeling, gap detection,
   and AI.'
-downloads: 1490
+downloads: 1689
 mobile: true
 number: 1941
-stars: 32
+stars: 34
 title: InfraNodus AI Graph View
 type: plugin
 updated: '2024-10-07T18:49:54'

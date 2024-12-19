@@ -2,14 +2,14 @@
 aliases:
 - Create Task
 author:
-- '[[simonknittel|Simon Knittel]]'
+- '[[authors/simonknittel|Simon Knittel]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Create tasks faster from anywhere.
-downloads: 2677
+downloads: 2699
 mobile: true
 number: 1369
-stars: 11
+stars: 12
 title: Create Task
 type: plugin
 updated: '2024-06-08T13:47:22'

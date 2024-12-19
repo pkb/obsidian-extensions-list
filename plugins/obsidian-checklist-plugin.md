@@ -2,10 +2,10 @@
 aliases:
 - Checklist
 author:
-- '[[delashum|delashum]]'
+- '[[authors/delashum|delashum]]'
 categories: []
 description: Combines checklists across pages into users sidebar
-downloads: 342371
+downloads: 343512
 mobile: true
 number: 73
 stars: 402

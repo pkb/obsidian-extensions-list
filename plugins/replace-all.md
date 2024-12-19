@@ -2,10 +2,10 @@
 aliases:
 - Replace All
 author:
-- '[[patrickchiang|patrickchiang]]'
+- '[[authors/patrickchiang|patrickchiang]]'
 categories: []
 description: Replace all in vault.
-downloads: 349
+downloads: 378
 mobile: true
 number: 1956
 stars: 4

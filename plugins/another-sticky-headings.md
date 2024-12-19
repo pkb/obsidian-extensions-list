@@ -2,15 +2,15 @@
 aliases:
 - Another Sticky Headings
 author:
-- '[[zhouhua|Zhou Hua]]'
+- '[[authors/zhouhua|Zhou Hua]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Display headings tree during editing and preview to indicate the current
   position.
-downloads: 3013
+downloads: 3238
 mobile: true
 number: 1736
-stars: 25
+stars: 26
 title: Another Sticky Headings
 type: plugin
 updated: '2024-12-08T21:04:38'
@@ -68,6 +68,13 @@ The headings that are fixed at the top of the note are all clickable. By clickin
 ![More](https://raw.githubusercontent.com/zhouhua/obsidian-sticky-headings/HEAD/screenshots/more.gif)
 
 Supports both editing and reading modes, as well as multi-column layouts.
+
+## Community Showcase
+
+Here are some custom styles from the community. Thanks for the creative ideas and contributions!
+
+* [Colorful and floating right](https://gist.github.com/Aiuanyu/8539a8425435406ea79cbc64eaea6082)
+* ...
 
 ## My Other Obsidian Plugins
 

@@ -2,10 +2,10 @@
 aliases:
 - LaTeX to Unicode converter
 author:
-- '[[fjdu|fjdu]]'
+- '[[authors/fjdu|fjdu]]'
 categories: []
 description: Convert LaTeX commands into unicode sqeuences
-downloads: 3993
+downloads: 4003
 mobile: true
 number: 838
 stars: 3

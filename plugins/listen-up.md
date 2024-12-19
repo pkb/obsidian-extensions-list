@@ -2,10 +2,10 @@
 aliases:
 - Listen Up!
 author:
-- '[[tejas-hosamani|Tejas H]]'
+- '[[authors/tejas-hosamani|Tejas H]]'
 categories: []
 description: Covert text to natural voice audio, locally - Listen Up!
-downloads: 556
+downloads: 571
 mobile: false
 number: 1854
 stars: 9

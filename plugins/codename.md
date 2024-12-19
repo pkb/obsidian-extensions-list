@@ -2,10 +2,10 @@
 aliases:
 - Codename
 author:
-- '[[dstack|dstack]]'
+- '[[authors/dstack|dstack]]'
 categories: []
 description: A plugin to solve the hardest problem - naming things.
-downloads: 3481
+downloads: 3489
 mobile: true
 number: 1071
 stars: 6

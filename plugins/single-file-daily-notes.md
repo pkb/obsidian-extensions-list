@@ -2,10 +2,10 @@
 aliases:
 - Single File Daily Notes
 author:
-- '[[pranavmangal|Pranav Mangal]]'
+- '[[authors/pranavmangal|Pranav Mangal]]'
 categories: []
 description: Create and manage daily notes in a single file.
-downloads: 2515
+downloads: 2530
 mobile: true
 number: 1376
 stars: 16

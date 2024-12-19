@@ -2,11 +2,11 @@
 aliases:
 - OzanShare Publish
 author:
-- '[[ozntel|Ozan Tellioglu]]'
+- '[[authors/ozntel|Ozan Tellioglu]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your markdown notes with a single click from your vault.
-downloads: 4803
+downloads: 4812
 mobile: true
 number: 300
 stars: 26

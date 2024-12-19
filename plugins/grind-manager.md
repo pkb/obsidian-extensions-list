@@ -2,14 +2,14 @@
 aliases:
 - Gamified Tasks
 author:
-- '[[dromse|dromse]]'
+- '[[authors/dromse|dromse]]'
 categories: []
 description: Gamify your task management with rewards system, craft your tasks by
   tags.
-downloads: 3045
+downloads: 3093
 mobile: true
 number: 1574
-stars: 55
+stars: 57
 title: Gamified Tasks
 type: plugin
 updated: '2024-11-27T00:15:23'
@@ -31,8 +31,8 @@ version: 1.9.0
 - Earn coins by completing tasks and acquire epic rewards!  
 - It's your ticket to excitement and adventure in your digital domain!
 
-<img  src="https://github.com/dromse/obsidian-gamified-tasks/assets/57846319/26b6914a-8a34-4553-957c-d0de34201ffe" width="400">
-<img  src="https://github.com/dromse/obsidian-gamified-tasks/assets/57846319/ca4f5a8d-6904-46b2-af8f-8ec9eb1060fb" width="400">
+<img  src="https://github.com/user-attachments/assets/af9513e4-7b7d-4a00-bb78-91e9b0a569a1" width="400" height="600">
+<img  src="https://github.com/user-attachments/assets/e3a5f8b1-3d7b-49e1-89f3-0d653c79efd6" width="400" height="600">
 
 ## Features
 

@@ -2,11 +2,11 @@
 aliases:
 - Nuke Orphans
 author:
-- '[[sandorex|Sandorex]]'
+- '[[authors/sandorex|Sandorex]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Plugin that trashes orphaned files and attachments
-downloads: 9890
+downloads: 9942
 mobile: true
 number: 520
 stars: 45

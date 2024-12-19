@@ -2,10 +2,10 @@
 aliases:
 - ManicTime
 author:
-- '[[manictime|Finkit d.o.o.]]'
+- '[[authors/manictime|Finkit d.o.o.]]'
 categories: []
 description: Sends path of active file to locally installed ManicTime client.
-downloads: 1981
+downloads: 1986
 mobile: false
 number: 1297
 stars: 2

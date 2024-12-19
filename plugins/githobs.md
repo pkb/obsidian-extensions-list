@@ -2,10 +2,10 @@
 aliases:
 - GitHobs
 author:
-- '[[GabAlpha|GabAlpha and MarcoG]]'
+- '[[authors/GabAlpha|GabAlpha and MarcoG]]'
 categories: []
 description: Use Obsidian as Github issue editor!
-downloads: 1928
+downloads: 1950
 mobile: false
 number: 1361
 stars: 17

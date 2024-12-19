@@ -2,11 +2,11 @@
 aliases:
 - Explorer Hider
 author:
-- '[[mara-li|Mara-Li]]'
+- '[[authors/mara-li|Mara-Li]]'
 categories: []
 description: Hide a file or a folder from the explorer (and bookmarks) using a little
   bit of auto-managed CSS!
-downloads: 756
+downloads: 781
 mobile: true
 number: 1704
 stars: 3

@@ -2,14 +2,14 @@
 aliases:
 - Cardify
 author:
-- '[[joshuakto|joshuakto]]'
+- '[[authors/joshuakto|joshuakto]]'
 categories: []
 description: This is a plugin to cardify markdown contents into subsequent markdown
   files.
-downloads: 4302
+downloads: 4340
 mobile: true
 number: 1171
-stars: 20
+stars: 21
 title: Cardify
 type: plugin
 updated: '2024-02-27T09:16:43'

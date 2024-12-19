@@ -2,11 +2,11 @@
 aliases:
 - Advanced Copy
 author:
-- '[[leschuster|leschuster]]'
+- '[[authors/leschuster|leschuster]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Copy Markdown and transform it according to your needs.
-downloads: 277
+downloads: 298
 mobile: true
 number: 1952
 stars: 1

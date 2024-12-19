@@ -2,13 +2,13 @@
 aliases:
 - Perilous Writing
 author:
-- '[[sameersismail|Sameer Ismail]]'
+- '[[authors/sameersismail|Sameer Ismail]]'
 categories: []
 description: Write continuously—or lose all progress.
-downloads: 4325
+downloads: 4336
 mobile: false
 number: 825
-stars: 25
+stars: 26
 title: Perilous Writing
 type: plugin
 updated: '2024-02-03T12:30:13'

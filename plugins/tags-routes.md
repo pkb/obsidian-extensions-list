@@ -2,14 +2,14 @@
 aliases:
 - Tags Routes
 author:
-- '[[kctekn|Ken]]'
+- '[[authors/kctekn|Ken]]'
 categories: []
 description: A powerful tool for visualizing 3D graphs and managing orphan files,
   offering a dynamic and colorful 3D graph view for enhanced user experience.
-downloads: 6083
+downloads: 6296
 mobile: true
 number: 1806
-stars: 42
+stars: 43
 title: Tags Routes
 type: plugin
 updated: '2024-12-06T23:39:21'

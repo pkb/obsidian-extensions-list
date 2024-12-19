@@ -2,12 +2,12 @@
 aliases:
 - Quick Tagger
 author:
-- '[[Gorkycreator|Gorkycreator]]'
+- '[[authors/Gorkycreator|Gorkycreator]]'
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated
   buttons/commands for your favorites!
-downloads: 6179
+downloads: 6278
 mobile: true
 number: 1257
 stars: 28

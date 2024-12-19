@@ -2,11 +2,11 @@
 aliases:
 - Julian Date
 author:
-- '[[THeK3nger|thek3nger]]'
+- '[[authors/THeK3nger|thek3nger]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Simple hotkey to insert the current Julian Date
-downloads: 4160
+downloads: 4162
 mobile: true
 number: 46
 stars: 6

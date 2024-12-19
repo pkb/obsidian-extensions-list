@@ -2,18 +2,18 @@
 aliases:
 - Gemini Generator
 author:
-- '[[BjarneRentz|Bjarne Rentz]]'
+- '[[authors/BjarneRentz|Bjarne Rentz]]'
 categories: []
 description: Let Google Gemini generator your notes!
-downloads: 809
+downloads: 848
 mobile: true
 number: 1731
 stars: 7
 title: Gemini Generator
 type: plugin
-updated: '2024-07-30T18:28:05'
+updated: '2024-12-17T15:13:00'
 url: https://github.com/BjarneRentz/obsidian-gemini-generator
-version: 1.1.3
+version: 1.1.4
 ---
 
 %% README_START %%

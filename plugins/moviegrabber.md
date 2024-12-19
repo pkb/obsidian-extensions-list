@@ -2,14 +2,14 @@
 aliases:
 - Moviegrabber
 author:
-- '[[Superschnizel|Superschnizel]]'
+- '[[authors/Superschnizel|Superschnizel]]'
 categories: []
 description: Grab movie data from public APIs and transform it into notes with a powerful
   templating engine.
-downloads: 4859
+downloads: 4888
 mobile: true
 number: 1182
-stars: 24
+stars: 26
 title: Moviegrabber
 type: plugin
 updated: '2024-10-11T16:52:57'

@@ -2,15 +2,15 @@
 aliases:
 - Markdown Formatting Assistant
 author:
-- '[[Reocin|Reocin]]'
+- '[[authors/Reocin|Reocin]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This Plugin provides a simple Editor for Markdown, HTML and Colors and
   in addition a command interface. The command interface facilitate a faster workflow.
-downloads: 82977
+downloads: 83594
 mobile: true
 number: 88
-stars: 251
+stars: 254
 title: Markdown Formatting Assistant
 type: plugin
 updated: '2022-11-15T17:16:02'

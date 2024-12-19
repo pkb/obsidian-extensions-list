@@ -2,11 +2,11 @@
 aliases:
 - Periodic Notes
 author:
-- '[[liamcain|Liam Cain]]'
+- '[[authors/liamcain|Liam Cain]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Create/manage your daily, weekly, and monthly notes
-downloads: 373892
+downloads: 377089
 mobile: true
 number: 93
 stars: -1

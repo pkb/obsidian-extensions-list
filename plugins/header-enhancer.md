@@ -2,19 +2,19 @@
 aliases:
 - Header Enhancer
 author:
-- '[[HoBeedzc|Hobee Liu]]'
+- '[[authors/HoBeedzc|Hobee Liu]]'
 categories: []
 description: Level up your headers, customize your notes. Header Enhancer makes your
   notes header better and more useful.
-downloads: 5315
+downloads: 5426
 mobile: true
 number: 1111
 stars: 15
 title: Header Enhancer
 type: plugin
-updated: '2024-06-12T13:40:59'
+updated: '2024-12-15T21:17:02'
 url: https://github.com/HoBeedzc/obsidian-header-enhancer-plugin
-version: 0.1.4
+version: 0.1.5
 ---
 
 %% README_START %%
@@ -85,7 +85,7 @@ Here are some known bugs, I will fix them as soon as possible.
 - [ ] When you change the header level, the auto number will not be updated immediately. You need move cursor to header line and press `Enter` key to update it.
 
 ## Todo list
-- [ ] Setting support Chinese. - Header Enhancer
+- [x] Setting support Chinese. - Header Enhancer
 
 ## ChangeLog
 Full changelog can be found [here](./doc/changelog.md).

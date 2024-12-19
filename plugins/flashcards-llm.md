@@ -2,14 +2,14 @@
 aliases:
 - Flashcards LLM
 author:
-- '[[crybot|Marco Pampaloni]]'
+- '[[authors/crybot|Marco Pampaloni]]'
 categories: []
 description: Use Large Language Models (such as ChatGPT) to automatically generate
   flashcards from obsidian notes
-downloads: 6343
+downloads: 6379
 mobile: false
 number: 960
-stars: 34
+stars: 37
 title: Flashcards LLM
 type: plugin
 updated: '2024-06-01T21:59:30'

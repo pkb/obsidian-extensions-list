@@ -2,19 +2,19 @@
 aliases:
 - Improved Random Note
 author:
-- '[[ShockThunder|ShockThunder]]'
+- '[[authors/ShockThunder|ShockThunder]]'
 categories: []
 description: Improved interaction with the knowledge base in so-called wandering mode
   by opening specific Random Notes.
-downloads: 4930
+downloads: 5146
 mobile: true
 number: 1226
 stars: 14
 title: Improved Random Note
 type: plugin
-updated: '2024-10-30T21:33:48'
+updated: '2024-12-14T04:56:04'
 url: https://github.com/ShockThunder/improved-random-note
-version: 1.0.3
+version: 1.0.4
 ---
 
 %% README_START %%

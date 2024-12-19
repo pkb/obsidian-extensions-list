@@ -2,11 +2,11 @@
 aliases:
 - Remove Empty Folders
 author:
-- '[[fnya|fnya]]'
+- '[[authors/fnya|fnya]]'
 categories:
 - '[[categories/File management|File management]]'
 description: Easily remove empty folders.
-downloads: 2790
+downloads: 2801
 mobile: false
 number: 1230
 stars: 4

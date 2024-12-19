@@ -2,12 +2,12 @@
 aliases:
 - Text Snippets
 author:
-- '[[ArianaKhit|Ariana Khitrova]]'
+- '[[authors/ArianaKhit|Ariana Khitrova]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Allows you to replace text templates for faster typing, create your own,
   expand text shortcuts.
-downloads: 34058
+downloads: 34226
 mobile: true
 number: 126
 stars: 191

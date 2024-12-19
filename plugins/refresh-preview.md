@@ -2,10 +2,10 @@
 aliases:
 - Refresh Preview
 author:
-- '[[mnaoumov|mnaoumov]]'
+- '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Allows to refresh preview mode without reopening the note
-downloads: 885
+downloads: 925
 mobile: true
 number: 1769
 stars: 5

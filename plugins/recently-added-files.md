@@ -2,18 +2,18 @@
 aliases:
 - Recently Added Files
 author:
-- '[[Lemon695|Lemon695]]'
+- '[[authors/Lemon695|Lemon695]]'
 categories: []
 description: List files by last added, including pictures, MP4s, PDFs etc.
-downloads: 200
+downloads: 319
 mobile: true
 number: 2005
-stars: 1
+stars: 2
 title: Recently Added Files
 type: plugin
-updated: '2024-11-24T18:20:22'
+updated: '2024-12-12T13:32:02'
 url: https://github.com/Lemon695/obsidian-recently-added-files
-version: 1.0.7
+version: 1.0.8
 ---
 
 %% README_START %%

@@ -2,10 +2,10 @@
 aliases:
 - Clipper
 author:
-- '[[jgchristopher|John Christopher]]'
+- '[[authors/jgchristopher|John Christopher]]'
 categories: []
 description: This plugin helps you capture highlights from the web.
-downloads: 29431
+downloads: 29679
 mobile: true
 number: 705
 stars: 239

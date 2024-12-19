@@ -2,11 +2,11 @@
 aliases:
 - Simple Note Review
 author:
-- '[[dartungar|dartungar]]'
+- '[[authors/dartungar|dartungar]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Simple, customizable plugin for easy note review, resurfacing  & repetition.
-downloads: 11452
+downloads: 11481
 mobile: true
 number: 579
 stars: 62

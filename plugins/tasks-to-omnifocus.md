@@ -2,13 +2,13 @@
 aliases:
 - Send Tasks to OmniFocus
 author:
-- '[[lizard-heart|Henry Gustafson]]'
+- '[[authors/lizard-heart|Henry Gustafson]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: An Obsidian plugin will extract tasks from the current note and create
   them in OmniFocus.
-downloads: 5410
+downloads: 5440
 mobile: true
 number: 855
 stars: 32

@@ -2,15 +2,15 @@
 aliases:
 - TickTick
 author:
-- '[[viduycheung|Viduy Cheung]]'
+- '[[authors/viduycheung|Viduy Cheung]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Check and create tasks in TickTick via Obsidian
-downloads: 7592
+downloads: 7621
 mobile: true
 number: 1116
-stars: 30
+stars: 32
 title: TickTick
 type: plugin
 updated: '2023-11-30T14:13:40'

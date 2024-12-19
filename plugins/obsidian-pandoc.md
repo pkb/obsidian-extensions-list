@@ -2,12 +2,12 @@
 aliases:
 - Pandoc Plugin
 author:
-- '[[OliverBalfour|Oliver Balfour]]'
+- '[[authors/OliverBalfour|Oliver Balfour]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a Pandoc export plugin for Obsidian. It provides commands to
   export to formats like DOCX, ePub and PDF.
-downloads: 310577
+downloads: 313135
 mobile: false
 number: 213
 stars: 724

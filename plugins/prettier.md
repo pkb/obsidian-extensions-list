@@ -2,11 +2,11 @@
 aliases:
 - Prettier
 author:
-- '[[GoodbyeNJN|GoodbyeNJN]]'
+- '[[authors/GoodbyeNJN|GoodbyeNJN]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format your notes with Prettier and custom formatting options.
-downloads: 872
+downloads: 898
 mobile: true
 number: 1708
 stars: 8

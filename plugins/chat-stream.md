@@ -2,14 +2,14 @@
 aliases:
 - Chat Stream
 author:
-- '[[rpggio|Ryan P Smith]]'
+- '[[authors/rpggio|Ryan P Smith]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Create branching GPT chats using canvas notes.
-downloads: 7114
+downloads: 7140
 mobile: false
 number: 966
-stars: 111
+stars: 112
 title: Chat Stream
 type: plugin
 updated: '2024-07-31T06:25:48'

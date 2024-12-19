@@ -2,12 +2,12 @@
 aliases:
 - ICS
 author:
-- '[[cloud-atlas-ai|Cloud Atlas]]'
+- '[[authors/cloud-atlas-ai|Cloud Atlas]]'
 categories: []
 description: Parse multiple ICS files to include in your notes. Designed for Daily
   Notes and the Day Planner format. Through templates you can customize it for other
   use cases.
-downloads: 10711
+downloads: 10876
 mobile: true
 number: 1039
 stars: 146

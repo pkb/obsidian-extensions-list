@@ -2,10 +2,10 @@
 aliases:
 - Progress Clocks
 author:
-- '[[tokenshift|Nathan Clark]]'
+- '[[authors/tokenshift|Nathan Clark]]'
 categories: []
 description: Progress clocks and other useful widgets for real-time status tracking.
-downloads: 2045
+downloads: 2083
 mobile: true
 number: 1520
 stars: 2

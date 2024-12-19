@@ -2,10 +2,10 @@
 aliases:
 - Card View Switcher
 author:
-- '[[qawatake|qawatake]]'
+- '[[authors/qawatake|qawatake]]'
 categories: []
 description: Quick switcher with card view
-downloads: 6876
+downloads: 6892
 mobile: false
 number: 457
 stars: 47

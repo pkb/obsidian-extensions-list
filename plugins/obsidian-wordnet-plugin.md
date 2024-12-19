@@ -2,11 +2,11 @@
 aliases:
 - WordNet Dictionary
 author:
-- '[[TfTHacker|TfT Hacker]]'
+- '[[authors/TfTHacker|TfT Hacker]]'
 categories: []
 description: WordNet is a large lexical database of English developed by Princeton
   University.
-downloads: 19409
+downloads: 19542
 mobile: true
 number: 240
 stars: 80

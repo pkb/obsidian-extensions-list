@@ -2,18 +2,18 @@
 aliases:
 - Folder Index
 author:
-- '[[turulix|turulix]]'
+- '[[authors/turulix|turulix]]'
 categories: []
 description: This Plugin will automatically generate a TOC for the current Folder.
-downloads: 23071
+downloads: 23609
 mobile: true
 number: 510
-stars: 117
+stars: 118
 title: Folder Index
 type: plugin
-updated: '2024-12-11T00:56:55'
+updated: '2024-12-11T20:55:09'
 url: https://github.com/turulix/obsidian-folder-index
-version: 1.0.28
+version: 1.0.29
 ---
 
 %% README_START %%

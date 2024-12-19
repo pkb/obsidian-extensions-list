@@ -2,11 +2,11 @@
 aliases:
 - Random Structural Diary
 author:
-- '[[ShockThunder|ShockThunder]]'
+- '[[authors/ShockThunder|ShockThunder]]'
 categories: []
 description: This is a plugin for picking random questions from prepared question
   list. It allows you answer on different questions each time.
-downloads: 6810
+downloads: 6820
 mobile: true
 number: 275
 stars: 31

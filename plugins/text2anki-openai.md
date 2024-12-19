@@ -2,13 +2,13 @@
 aliases:
 - text2anki-openai
 author:
-- '[[manibatra|Mani Batra]]'
+- '[[authors/manibatra|Mani Batra]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: This is an obsidian plugin that uses OpenAI to generate flashcards from
   text and add them to Anki.
-downloads: 4010
+downloads: 4012
 mobile: false
 number: 899
 stars: 9

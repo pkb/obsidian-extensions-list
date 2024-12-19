@@ -2,10 +2,10 @@
 aliases:
 - Static File Server
 author:
-- '[[elias-sundqvist|Obsidian]]'
+- '[[authors/elias-sundqvist|Obsidian]]'
 categories: []
 description: Host obsidian subfolders as static file servers.
-downloads: 4485
+downloads: 4488
 mobile: false
 number: 194
 stars: 43

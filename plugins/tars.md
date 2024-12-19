@@ -2,15 +2,15 @@
 aliases:
 - Tars
 author:
-- '[[TarsLab|Tarslab]]'
+- '[[authors/TarsLab|Tarslab]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama,
   Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.
-downloads: 3313
+downloads: 3503
 mobile: false
 number: 1717
-stars: 50
+stars: 51
 title: Tars
 type: plugin
 updated: '2024-12-05T15:22:39'

@@ -2,10 +2,10 @@
 aliases:
 - "NoteTweet\U0001F426"
 author:
-- '[[chhoumann|Christian B. B. Houmann]]'
+- '[[authors/chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: This plugin allows you to post tweets directly from Obsidian.
-downloads: 6083
+downloads: 6093
 mobile: true
 number: 118
 stars: 69

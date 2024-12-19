@@ -3,15 +3,15 @@ aliases:
 - Share to NotionNext
 author:
 - '[[authors/EasyChris|EasyChris]]'
-- '[[jxpeng98|jxpeng98]]'
+- '[[authors/jxpeng98|jxpeng98]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares obsidian md file to notion with notion api for NotionNext web
   deploy, originally created by EasyChris/obsidian-to-notion.
-downloads: 6923
+downloads: 7003
 mobile: true
 number: 1150
-stars: 51
+stars: 53
 title: Share to NotionNext
 type: plugin
 updated: '2024-11-21T04:20:06'

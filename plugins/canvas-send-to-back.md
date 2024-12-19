@@ -2,10 +2,10 @@
 aliases:
 - Canvas Send to Back
 author:
-- '[[Zachatoo|Zachatoo]]'
+- '[[authors/Zachatoo|Zachatoo]]'
 categories: []
 description: Send a card in Obsidian Canvas to be behind all other cards.
-downloads: 6251
+downloads: 6335
 mobile: true
 number: 1157
 stars: 12

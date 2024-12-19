@@ -2,13 +2,13 @@
 aliases:
 - Slurp
 author:
-- '[[inhumantsar|inhumantsar]]'
+- '[[authors/inhumantsar|inhumantsar]]'
 categories: []
 description: Slurps webpages and saves them as clean, uncluttered Markdown.
-downloads: 8959
+downloads: 9696
 mobile: true
 number: 1569
-stars: 182
+stars: 183
 title: Slurp
 type: plugin
 updated: '2024-12-11T05:51:54'

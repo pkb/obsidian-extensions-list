@@ -2,10 +2,10 @@
 aliases:
 - Obsidian Functionplot
 author:
-- '[[leonhma|leonhma]]'
+- '[[authors/leonhma|leonhma]]'
 categories: []
 description: A plugin for displaying mathematical graphs in obsidian.md.
-downloads: 14526
+downloads: 14578
 mobile: true
 number: 523
 stars: 226

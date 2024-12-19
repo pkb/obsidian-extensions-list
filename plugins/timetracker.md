@@ -2,14 +2,14 @@
 aliases:
 - Timetracker
 author:
-- '[[hedgehog1833|Nils Dammenhayn]]'
+- '[[authors/hedgehog1833|Nils Dammenhayn]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Adds a stopwatch whose value can be inserted in the editor per hotkey.
-downloads: 4740
+downloads: 4786
 mobile: true
 number: 1174
-stars: 6
+stars: 7
 title: Timetracker
 type: plugin
 updated: '2024-11-20T00:26:01'

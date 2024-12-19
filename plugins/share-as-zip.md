@@ -5,7 +5,7 @@ author:
 - '[[authors/friebetill|Till Friebe]]'
 categories: []
 description: Share notes and their links as a ZIP folder.
-downloads: 33
+downloads: 60
 mobile: true
 number: 2058
 stars: 2

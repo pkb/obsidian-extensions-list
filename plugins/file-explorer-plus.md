@@ -2,15 +2,15 @@
 aliases:
 - File Explorer++
 author:
-- '[[kelszo|kelszo]]'
+- '[[authors/kelszo|kelszo]]'
 categories: []
 description: Hide and pin files and folders in the file explorer using custom filters,
   such as wildcards and regex, based on their names, paths, and tags. Additionally,
   achieve the same with a single click in the file menu.
-downloads: 17119
+downloads: 17383
 mobile: true
 number: 1123
-stars: 60
+stars: 61
 title: File Explorer++
 type: plugin
 updated: '2024-06-10T22:55:48'

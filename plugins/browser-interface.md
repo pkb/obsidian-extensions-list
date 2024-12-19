@@ -2,10 +2,10 @@
 aliases:
 - Browser Interface
 author:
-- '[[jason-lieb|Jason Lieb]]'
+- '[[authors/jason-lieb|Jason Lieb]]'
 categories: []
 description: Save and reopen browser tabs using your vault and a browser extension.
-downloads: 266
+downloads: 269
 mobile: false
 number: 1786
 stars: 4

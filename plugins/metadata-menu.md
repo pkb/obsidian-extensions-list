@@ -2,15 +2,15 @@
 aliases:
 - Metadata Menu
 author:
-- '[[mdelobelle|mdelobelle]]'
+- '[[authors/mdelobelle|mdelobelle]]'
 categories:
 - '[[categories/Data management|Data management]]'
 description: 'For data quality enthusiasts (and dataview users): manage the metadata
   of your notes.'
-downloads: 162869
+downloads: 163600
 mobile: true
 number: 564
-stars: 538
+stars: 539
 title: Metadata Menu
 type: plugin
 updated: '2024-03-25T00:23:32'

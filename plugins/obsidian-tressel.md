@@ -2,11 +2,11 @@
 aliases:
 - Tressel Sync for Obsidian
 author:
-- '[[tresselteam|Tressel]]'
+- '[[authors/tresselteam|Tressel]]'
 categories: []
 description: Official Tressel plugin to sync/export various content from the Internet
   to Obsidian
-downloads: 5363
+downloads: 5368
 mobile: false
 number: 370
 stars: 21

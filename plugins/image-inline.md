@@ -2,10 +2,10 @@
 aliases:
 - Image Inline
 author:
-- '[[ZackaryW|ZackaryW]]'
+- '[[authors/ZackaryW|ZackaryW]]'
 categories: []
 description: Paste your image without attachment files
-downloads: 3593
+downloads: 3644
 mobile: true
 number: 1414
 stars: 26

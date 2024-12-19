@@ -2,13 +2,13 @@
 aliases:
 - Ledger
 author:
-- '[[tgrosinger|Tony Grosinger]]'
+- '[[authors/tgrosinger|Tony Grosinger]]'
 categories: []
 description: Plain text accounting
-downloads: 27700
+downloads: 27913
 mobile: true
 number: 8
-stars: 433
+stars: 432
 title: Ledger
 type: plugin
 updated: '2024-05-22T21:36:20'

@@ -2,10 +2,10 @@
 aliases:
 - Templify
 author:
-- '[[quorafind|Boninall]]'
+- '[[authors/quorafind|Boninall]]'
 categories: []
 description: (Closed Source) Multi layout for one note.
-downloads: 2169
+downloads: 2206
 mobile: true
 number: 1688
 stars: 56

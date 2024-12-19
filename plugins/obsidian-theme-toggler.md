@@ -2,10 +2,10 @@
 aliases:
 - Theme Toggler
 author:
-- '[[larsmagnus|larsmagnus]]'
+- '[[authors/larsmagnus|larsmagnus]]'
 categories: []
 description: Toggle the theme in Obsidian's panels.
-downloads: 5189
+downloads: 5205
 mobile: false
 number: 620
 stars: 15

@@ -2,11 +2,11 @@
 aliases:
 - Custom new file name
 author:
-- '[[homu-konamilk|homu-konamilk]]'
+- '[[authors/homu-konamilk|homu-konamilk]]'
 categories: []
 description: Enables the creation of new notes with custom formatted names, including
   dynamic datetime stamps.
-downloads: 1645
+downloads: 1668
 mobile: true
 number: 1621
 stars: 0

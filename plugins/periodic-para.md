@@ -2,15 +2,15 @@
 aliases:
 - LifeOS
 author:
-- '[[quanru|YiBing Lin]]'
+- '[[authors/quanru|YiBing Lin]]'
 categories:
 - '[[categories/Workflows]]'
 description: Life management system(Assist in practicing the PARA method with periodic
   notes and usememos).
-downloads: 25696
+downloads: 26003
 mobile: true
 number: 1031
-stars: 371
+stars: 379
 title: LifeOS
 type: plugin
 updated: '2024-12-06T07:31:10'

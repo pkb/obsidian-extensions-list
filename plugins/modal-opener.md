@@ -2,19 +2,19 @@
 aliases:
 - Modal Opener
 author:
-- '[[likemuuxi|Muuxi]]'
+- '[[authors/likemuuxi|Muuxi]]'
 categories: []
 description: Open files and links in modal windows, or create and edit compatible
   files in modal windows.
-downloads: 871
+downloads: 1094
 mobile: true
 number: 1934
 stars: 10
 title: Modal Opener
 type: plugin
-updated: '2024-12-07T14:15:49'
+updated: '2024-12-16T21:46:46'
 url: https://github.com/likemuuxi/obsidian-modal-opener
-version: 0.7.6
+version: 0.7.10
 ---
 
 %% README_START %%
@@ -41,6 +41,9 @@ English Doc｜[中文文档](https://github.com/likemuuxi/obsidian-modal-plugin/
   ![image](https://github.com/user-attachments/assets/a6303d46-10a1-4f82-a758-5dd6ddfbec40)
 
 > The use of Diagrams requires the installation of my modified plugin: [obsidian-diagrams-net](https://github.com/likemuuxi/obsidian-diagrams-net)
+> 
+> Using `alt+click` to enter the modal window to Edit the code block requires a modified version using the `VSCode Edit` plugin: [download link](https://github.com/likemuuxi/obsidian-modal-opener/releases/tag/0.7.8)
+> 
 
 # 🎯How to use
 

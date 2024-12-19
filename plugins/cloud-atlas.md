@@ -2,14 +2,14 @@
 aliases:
 - Cloud Atlas
 author:
-- '[[cloud-atlas-ai|Cloud Atlas]]'
+- '[[authors/cloud-atlas-ai|Cloud Atlas]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Cloud Atlas provides a unique way to use content from your vault with
   ChatGPT. Reference a note and it (optionally) gets resolved and sent along. We also
   provide a Canvas interface for ChatGPT. Advanced features include chaining results
   and batching.
-downloads: 2297
+downloads: 2373
 mobile: true
 number: 1568
 stars: 20

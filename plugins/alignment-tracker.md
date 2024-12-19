@@ -2,11 +2,11 @@
 aliases:
 - Alignment Tracker
 author:
-- '[[FioPio|LittleOwl]]'
+- '[[authors/FioPio|LittleOwl]]'
 categories:
 - '[[categories/Games|Games]]'
 description: Track character alignment using a 3x3 grid.
-downloads: 91
+downloads: 96
 mobile: true
 number: 1905
 stars: 1

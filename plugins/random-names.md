@@ -2,10 +2,10 @@
 aliases:
 - Random names
 author:
-- '[[palfrey|Tom Parker-Shemilt]]'
+- '[[authors/palfrey|Tom Parker-Shemilt]]'
 categories: []
 description: Generates random names
-downloads: 584
+downloads: 590
 mobile: true
 number: 1612
 stars: 0

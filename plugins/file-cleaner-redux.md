@@ -2,19 +2,19 @@
 aliases:
 - File Cleaner Redux
 author:
-- '[[husjon|husjon]]'
+- '[[authors/husjon|husjon]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.
-downloads: 16582
+downloads: 17418
 mobile: true
 number: 1266
 stars: 34
 title: File Cleaner Redux
 type: plugin
-updated: '2024-12-06T23:44:17'
+updated: '2024-12-14T15:59:39'
 url: https://github.com/husjon/obsidian-file-cleaner-redux
-version: 1.2.1
+version: 1.3.0
 ---
 
 %% README_START %%
@@ -40,6 +40,9 @@ Based on https://github.com/Johnson0907/obsidian-file-cleaner
 - Run on Startup (Optional)
 - Supports the following external plugins:
   - Admonition (as of v1.0.0 - [#57](https://github.com/husjon/obsidian-file-cleaner-redux/pull/57))
+  - Excalidraw (as of v1.3.0)
+    Note: This does require JSON compression in Excalidraw to be turned off.
+    This can be done in Excalidraw Setting > Saving > Compress Excalidraw JSON in Markdown
 
 ### How to use the plugin
 

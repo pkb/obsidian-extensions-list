@@ -2,12 +2,12 @@
 aliases:
 - Halo
 author:
-- '[[halo-sigs|Ryan Wang]]'
+- '[[authors/halo-sigs|Ryan Wang]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Halo's Obsidian integration supports publishing content to Halo sites
-downloads: 2987
+downloads: 3000
 mobile: true
 number: 1208
 stars: 28

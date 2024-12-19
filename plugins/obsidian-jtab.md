@@ -2,11 +2,11 @@
 aliases:
 - jTab Guitar Codeblocks
 author:
-- '[[davfive|davfive]]'
+- '[[authors/davfive|davfive]]'
 categories: []
 description: Adds the ability to show guitar chords and tabs directly in your notes
   using jTab.
-downloads: 7324
+downloads: 7356
 mobile: true
 number: 488
 stars: 71

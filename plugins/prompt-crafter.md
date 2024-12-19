@@ -2,13 +2,13 @@
 aliases:
 - PromptCrafter
 author:
-- '[[fabricehong|Fabrice Hong]]'
+- '[[authors/fabricehong|Fabrice Hong]]'
 categories: []
 description: Create reusable, modular prompts.
-downloads: 125
+downloads: 142
 mobile: true
 number: 1979
-stars: 4
+stars: 5
 title: PromptCrafter
 type: plugin
 updated: '2024-11-02T17:04:58'

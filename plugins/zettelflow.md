@@ -2,13 +2,13 @@
 aliases:
 - ZettelFlow
 author:
-- '[[RafaelGB|RafaelGB]]'
+- '[[authors/RafaelGB|RafaelGB]]'
 categories: []
 description: Helps you to create and manage your notes in a Zettelkasten way via Canvas.
-downloads: 12003
+downloads: 12101
 mobile: true
 number: 1155
-stars: 101
+stars: 103
 title: ZettelFlow
 type: plugin
 updated: '2024-10-14T13:27:25'

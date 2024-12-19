@@ -2,10 +2,10 @@
 aliases:
 - Open Link With
 author:
-- '[[MamoruDS|MamoruDS]]'
+- '[[authors/MamoruDS|MamoruDS]]'
 categories: []
 description: Open external link with specific browser / in-app view in Obsidian
-downloads: 14535
+downloads: 14586
 mobile: false
 number: 174
 stars: 39

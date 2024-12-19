@@ -2,11 +2,11 @@
 aliases:
 - Paste image Png to Jpeg
 author:
-- '[[musug|musug]]'
+- '[[authors/musug|musug]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Screenshot png to jpeg and compress and rename
-downloads: 9568
+downloads: 9612
 mobile: true
 number: 509
 stars: 41

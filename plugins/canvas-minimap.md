@@ -2,10 +2,10 @@
 aliases:
 - Canvas minimap
 author:
-- '[[ifree|ifree]]'
+- '[[authors/ifree|ifree]]'
 categories: []
 description: For easy navigation in large canvas
-downloads: 4960
+downloads: 5042
 mobile: true
 number: 1517
 stars: 26

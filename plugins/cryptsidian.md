@@ -2,14 +2,14 @@
 aliases:
 - Cryptsidian
 author:
-- '[[triumphantomato|triumphantomato]]'
+- '[[authors/triumphantomato|triumphantomato]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Encrypt all files in your Obsidian.md Vault with a password.
-downloads: 13094
+downloads: 13152
 mobile: false
 number: 342
-stars: 76
+stars: 78
 title: Cryptsidian
 type: plugin
 updated: '2021-11-03T01:26:40'

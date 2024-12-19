@@ -2,10 +2,10 @@
 aliases:
 - Sort Frontmatter
 author:
-- '[[mariomui|Kanzi]]'
+- '[[authors/mariomui|Kanzi]]'
 categories: []
 description: Sort frontmatter recursively
-downloads: 2322
+downloads: 2328
 mobile: false
 number: 1281
 stars: 6

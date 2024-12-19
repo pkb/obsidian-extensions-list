@@ -2,11 +2,11 @@
 aliases:
 - Text Transporter
 author:
-- '[[TfTHacker|TfTHacker]]'
+- '[[authors/TfTHacker|TfTHacker]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Advanced text tools for working with text in your vault
-downloads: 25562
+downloads: 25770
 mobile: true
 number: 296
 stars: 205

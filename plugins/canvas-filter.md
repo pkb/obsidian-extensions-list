@@ -2,11 +2,11 @@
 aliases:
 - Canvas Filter
 author:
-- '[[IKoshelev|Ivan Koshelev]]'
+- '[[authors/IKoshelev|Ivan Koshelev]]'
 categories: []
 description: This plugin lets you filter Canvas to only show items of specific color,
   tags or only connected to currently selected node.
-downloads: 10862
+downloads: 10947
 mobile: true
 number: 780
 stars: 36

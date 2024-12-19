@@ -2,11 +2,11 @@
 aliases:
 - At People
 author:
-- '[[saibotsivad|saibotsivad]]'
+- '[[authors/saibotsivad|saibotsivad]]'
 categories:
 - '[[categories/Links|Links]]'
 description: Use the @ to create links to people files.
-downloads: 5416
+downloads: 5454
 mobile: true
 number: 1058
 stars: 23

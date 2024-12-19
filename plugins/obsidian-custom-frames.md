@@ -2,11 +2,11 @@
 aliases:
 - Custom Frames
 author:
-- '[[Ellpeck|Ellpeck]]'
+- '[[authors/Ellpeck|Ellpeck]]'
 categories: []
 description: A plugin that turns web apps into panes using iframes with custom styling.
   Also comes with presets for Google Keep, Todoist and more.
-downloads: 128830
+downloads: 129901
 mobile: true
 number: 469
 stars: 594

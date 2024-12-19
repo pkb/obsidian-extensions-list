@@ -2,10 +2,10 @@
 aliases:
 - Vocabulary Cards
 author:
-- '[[meniam|Eugene Myazin]]'
+- '[[authors/meniam|Eugene Myazin]]'
 categories: []
 description: An easy way to display vocabulary words as flashcards and as a list.
-downloads: 4634
+downloads: 4649
 mobile: true
 number: 1172
 stars: 10

@@ -2,13 +2,13 @@
 aliases:
 - Dice Roller
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Inline dice rolling for Obsidian.md
-downloads: 185212
+downloads: 186610
 mobile: true
 number: 132
-stars: 275
+stars: 277
 title: Dice Roller
 type: plugin
 updated: '2024-11-20T23:18:28'

@@ -2,11 +2,11 @@
 aliases:
 - Customizable Menu
 author:
-- '[[kzhovn|kzhovn]]'
+- '[[authors/kzhovn|kzhovn]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Allows you to add any command to Obsidian's right-click menu.
-downloads: 24223
+downloads: 24315
 mobile: true
 number: 293
 stars: 70

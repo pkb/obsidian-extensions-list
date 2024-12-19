@@ -2,11 +2,11 @@
 aliases:
 - Old Note Admonitor
 author:
-- '[[tadashi-aikawa|tadashi-aikawa]]'
+- '[[authors/tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: This Obsidian plugin shows warnings if the note has not been updated
   in the last specific days
-downloads: 4492
+downloads: 4502
 mobile: true
 number: 664
 stars: 21

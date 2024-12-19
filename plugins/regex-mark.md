@@ -3,10 +3,10 @@ aliases:
 - Regex Mark
 author:
 - '[[authors/rien7|rien7]]'
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Add custom CSS classes to text based on regular expressions.
-downloads: 1219
+downloads: 1252
 mobile: true
 number: 1677
 stars: 19

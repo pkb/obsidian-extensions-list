@@ -2,10 +2,10 @@
 aliases:
 - Thumbnails
 author:
-- '[[Meikul|Michael Harris]]'
+- '[[authors/Meikul|Michael Harris]]'
 categories: []
 description: Insert video thumbnails into your notes
-downloads: 13856
+downloads: 13927
 mobile: true
 number: 550
 stars: 51

@@ -2,10 +2,10 @@
 aliases:
 - Notion Video
 author:
-- '[[LastKnightCoder|lastknightcoder]]'
+- '[[authors/LastKnightCoder|lastknightcoder]]'
 categories: []
 description: embed your notion video in obsidian
-downloads: 4155
+downloads: 4159
 mobile: false
 number: 499
 stars: 5

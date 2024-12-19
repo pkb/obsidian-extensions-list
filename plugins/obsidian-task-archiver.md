@@ -2,14 +2,14 @@
 aliases:
 - Archiver
 author:
-- '[[ivan-lednev|Ivan Lednev]]'
+- '[[authors/ivan-lednev|Ivan Lednev]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Move completed tasks to an archive with a date tree
-downloads: 25921
+downloads: 25990
 mobile: true
 number: 289
-stars: 120
+stars: 121
 title: Archiver
 type: plugin
 updated: '2023-09-05T14:19:42'

@@ -2,10 +2,10 @@
 aliases:
 - autoLiterature
 author:
-- '[[hucorz|hucorz]]'
+- '[[authors/hucorz|hucorz]]'
 categories: []
 description: Assist you in taking notes for your literature.
-downloads: 3353
+downloads: 3367
 mobile: false
 number: 1101
 stars: 8

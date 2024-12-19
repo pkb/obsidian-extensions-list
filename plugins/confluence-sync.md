@@ -2,10 +2,10 @@
 aliases:
 - Confluence Sync
 author:
-- '[[kerry|Prateek Grover]]'
+- '[[authors/kerry|Prateek Grover]]'
 categories: []
 description: Sync Obsidian notes with Confluence
-downloads: 1536
+downloads: 1549
 mobile: true
 number: 1501
 stars: 9

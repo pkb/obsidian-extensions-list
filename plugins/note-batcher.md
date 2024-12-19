@@ -2,10 +2,10 @@
 aliases:
 - Note Batcher
 author:
-- '[[MrAnyx|MrAnyx]]'
+- '[[authors/MrAnyx|MrAnyx]]'
 categories: []
 description: Create all unresolvered links with a single click on your Obsidian vault
-downloads: 2334
+downloads: 2338
 mobile: true
 number: 1259
 stars: 6

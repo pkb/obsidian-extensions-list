@@ -2,10 +2,10 @@
 aliases:
 - Autocomplete
 author:
-- '[[Yeboster|Yeboster]]'
+- '[[authors/Yeboster|Yeboster]]'
 categories: []
 description: This plugin provides a text autocomplete feature to enhance typing speed.
-downloads: 30959
+downloads: 31054
 mobile: true
 number: 67
 stars: 142

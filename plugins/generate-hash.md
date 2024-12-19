@@ -2,10 +2,10 @@
 aliases:
 - Generate Hash
 author:
-- '[[zigahertz|zigahertz]]'
+- '[[authors/zigahertz|zigahertz]]'
 categories: []
 description: Generates a cryptographically strong pseudorandom hash.
-downloads: 393
+downloads: 397
 mobile: true
 number: 1619
 stars: 0

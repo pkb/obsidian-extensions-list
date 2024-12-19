@@ -2,11 +2,11 @@
 aliases:
 - Finnish Spellcheck
 author:
-- '[[antoKeinanen|Anto Keinänen]]'
+- '[[authors/antoKeinanen|Anto Keinänen]]'
 categories: []
 description: Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä,
   joka hyödyntää Voikkoa.
-downloads: 3680
+downloads: 3690
 mobile: false
 number: 1062
 stars: 6

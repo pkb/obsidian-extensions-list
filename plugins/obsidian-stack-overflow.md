@@ -2,10 +2,10 @@
 aliases:
 - Stack Overflow Answers
 author:
-- '[[bramses|Bram Adams]]'
+- '[[authors/bramses|Bram Adams]]'
 categories: []
 description: Copy and Paste Stack Overflow answers directly into Obsidian.
-downloads: 4098
+downloads: 4099
 mobile: false
 number: 544
 stars: 34

@@ -2,10 +2,10 @@
 aliases:
 - Pivotal Tracker URL Helper
 author:
-- '[[kndshein|kndshein]]'
+- '[[authors/kndshein|kndshein]]'
 categories: []
 description: Automatically creates a Markdown link for Pivotal Tracker stories.
-downloads: 63
+downloads: 64
 mobile: true
 number: 1701
 stars: 0

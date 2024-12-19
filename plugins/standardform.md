@@ -2,11 +2,11 @@
 aliases:
 - StandardForm
 author:
-- '[[philphilphil|Phil Baum]]'
+- '[[authors/philphilphil|Phil Baum]]'
 categories: []
 description: Transforms code blocks with Standard Form logical syntax into clean,
   styled renderings. Perfect for philosophy, logic, and argument reconstructions.
-downloads: 44
+downloads: 55
 mobile: true
 number: 2017
 stars: 2

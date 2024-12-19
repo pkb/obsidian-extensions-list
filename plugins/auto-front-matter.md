@@ -2,10 +2,10 @@
 aliases:
 - Auto Front Matter
 author:
-- '[[conorzhong|conorzhong]]'
+- '[[authors/conorzhong|conorzhong]]'
 categories: []
 description: Auto update front matter
-downloads: 3879
+downloads: 3882
 mobile: false
 number: 993
 stars: 7

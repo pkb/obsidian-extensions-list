@@ -2,11 +2,11 @@
 aliases:
 - Pug Templates
 author:
-- '[[nicholas-wilcox|Nicholas Wilcox]]'
+- '[[authors/nicholas-wilcox|Nicholas Wilcox]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Use the Pug templating engine in your vault.
-downloads: 80
+downloads: 82
 mobile: false
 number: 1880
 stars: 2

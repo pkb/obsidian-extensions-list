@@ -2,10 +2,10 @@
 aliases:
 - Advanced Tables
 author:
-- '[[tgrosinger|Tony Grosinger]]'
+- '[[authors/tgrosinger|Tony Grosinger]]'
 categories: []
 description: Improved table navigation, formatting, manipulation, and formulas
-downloads: 1939648
+downloads: 1954284
 mobile: true
 number: 5
 stars: 2200

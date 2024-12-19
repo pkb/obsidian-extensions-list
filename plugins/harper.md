@@ -2,13 +2,13 @@
 aliases:
 - Harper
 author:
-- '[[elijah-potter|Elijah Potter]]'
+- '[[authors/elijah-potter|Elijah Potter]]'
 categories: []
 description: The Grammar Checker for Developers
-downloads: 2838
+downloads: 2932
 mobile: false
 number: 1837
-stars: 26
+stars: 27
 title: Harper
 type: plugin
 updated: '2024-10-14T00:52:38'

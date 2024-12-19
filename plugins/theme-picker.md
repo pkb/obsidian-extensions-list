@@ -2,10 +2,10 @@
 aliases:
 - Theme Picker
 author:
-- '[[kenset|kenset]]'
+- '[[authors/kenset|kenset]]'
 categories: []
 description: Quickly preview installed themes
-downloads: 27253
+downloads: 27412
 mobile: false
 number: 253
 stars: 39

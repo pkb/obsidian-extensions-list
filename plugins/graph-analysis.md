@@ -2,10 +2,10 @@
 aliases:
 - Graph Analysis
 author:
-- '[[SkepticMystic|SkepticMystic]]'
+- '[[authors/SkepticMystic|SkepticMystic]]'
 categories: []
 description: Analyse your Obsidian graph.
-downloads: 43838
+downloads: 44115
 mobile: true
 number: 340
 stars: 417

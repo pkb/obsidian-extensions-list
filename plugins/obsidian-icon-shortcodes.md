@@ -2,10 +2,10 @@
 aliases:
 - Icon Shortcodes
 author:
-- '[[aidenlx|AidenLx]]'
+- '[[authors/aidenlx|AidenLx]]'
 categories: []
 description: Insert emoji and custom icons with shortcodes
-downloads: 43910
+downloads: 44096
 mobile: true
 number: 378
 stars: 151

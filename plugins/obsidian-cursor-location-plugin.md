@@ -2,10 +2,10 @@
 aliases:
 - Cursor Location
 author:
-- '[[spslater|Sean Slater]]'
+- '[[authors/spslater|Sean Slater]]'
 categories: []
 description: This displays the location of the cursor (character and line number).
-downloads: 9337
+downloads: 9368
 mobile: false
 number: 222
 stars: 22

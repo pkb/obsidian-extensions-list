@@ -2,11 +2,11 @@
 aliases:
 - Double Colon Conceal
 author:
-- '[[msrch|Michal Srch]]'
+- '[[authors/msrch|Michal Srch]]'
 categories: []
 description: Display double colon (i.e. Dataview inline fields) as a single colon
   for more natural reading experience.
-downloads: 5477
+downloads: 5486
 mobile: true
 number: 784
 stars: 17

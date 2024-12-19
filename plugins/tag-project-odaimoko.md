@@ -2,10 +2,10 @@
 aliases:
 - Tag Project
 author:
-- '[[Odaimoko|Odaimoko]]'
+- '[[authors/Odaimoko|Odaimoko]]'
 categories: []
 description: 'A Project Management Tool: Tag tasks everywhere, Manage in One page.'
-downloads: 5953
+downloads: 6004
 mobile: true
 number: 1248
 stars: 26

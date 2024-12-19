@@ -2,10 +2,10 @@
 aliases:
 - Bellboy
 author:
-- '[[shakedlokits|Shaked Lokits (shaked@melio.com)]]'
+- '[[authors/shakedlokits|Shaked Lokits (shaked@melio.com)]]'
 categories: []
 description: Opinionated file structure manager.
-downloads: 3684
+downloads: 3688
 mobile: true
 number: 522
 stars: 25

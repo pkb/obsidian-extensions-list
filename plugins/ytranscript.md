@@ -2,13 +2,13 @@
 aliases:
 - YTranscript
 author:
-- '[[lstrzepek|Łukasz Strzępek]]'
+- '[[authors/lstrzepek|Łukasz Strzępek]]'
 categories: []
 description: This is simple plugin to fetch transcription for Youtube.
-downloads: 18402
+downloads: 18579
 mobile: true
 number: 786
-stars: 107
+stars: 108
 title: YTranscript
 type: plugin
 updated: '2024-09-12T00:41:12'

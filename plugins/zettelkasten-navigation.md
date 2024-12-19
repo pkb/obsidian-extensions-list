@@ -2,13 +2,13 @@
 aliases:
 - zettelkasten navigation
 author:
-- '[[terrychenzw|terrychenzw]]'
+- '[[authors/terrychenzw|terrychenzw]]'
 categories: []
 description: Visualize a Luhmann-style zettelkasten.
-downloads: 2807
+downloads: 2905
 mobile: true
 number: 1636
-stars: 45
+stars: 46
 title: zettelkasten navigation
 type: plugin
 updated: '2024-12-07T08:43:47'

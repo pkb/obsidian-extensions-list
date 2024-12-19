@@ -2,10 +2,10 @@
 aliases:
 - Phone to Note to Obsidian
 author:
-- '[[dgarrett|Dylan Garrett]]'
+- '[[authors/dgarrett|Dylan Garrett]]'
 categories: []
 description: An unofficial Obsidian client for phonetonote.com (previously phonetoroam.com)
-downloads: 4049
+downloads: 4053
 mobile: true
 number: 238
 stars: 9

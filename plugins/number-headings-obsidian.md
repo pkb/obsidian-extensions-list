@@ -2,13 +2,13 @@
 aliases:
 - Number Headings
 author:
-- '[[onlyafly|Kevin Albrecht (onlyafly@gmail.com)]]'
+- '[[authors/onlyafly|Kevin Albrecht (onlyafly@gmail.com)]]'
 categories: []
 description: Automatically number or re-number headings in an Obsidian document
-downloads: 50190
+downloads: 50673
 mobile: true
 number: 250
-stars: 119
+stars: 120
 title: Number Headings
 type: plugin
 updated: '2023-10-03T18:47:37'

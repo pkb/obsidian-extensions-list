@@ -2,11 +2,11 @@
 aliases:
 - WaveDrom
 author:
-- '[[kingsquirrel152|Alex Stewart]]'
+- '[[authors/kingsquirrel152|Alex Stewart]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: This is very rough and quick integration of WaveDrom into obsidian
-downloads: 4483
+downloads: 4497
 mobile: false
 number: 237
 stars: 10

@@ -2,10 +2,10 @@
 aliases:
 - Zhongwen Block
 author:
-- '[[0918nobita|Kodai Matsumoto]]'
+- '[[authors/0918nobita|Kodai Matsumoto]]'
 categories: []
 description: Provides code blocks with features for Chinese learners
-downloads: 3090
+downloads: 3101
 mobile: true
 number: 1254
 stars: 21

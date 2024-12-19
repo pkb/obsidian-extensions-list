@@ -2,15 +2,15 @@
 aliases:
 - Advanced Canvas
 author:
-- '[[Developer-Mike|Developer-Mike]]'
+- '[[authors/Developer-Mike|Developer-Mike]]'
 categories:
 - '[[categories/Canvas|Canvas]]'
 description: Supercharge your canvas experience! Create presentations, flowcharts
   and more!
-downloads: 79384
+downloads: 81436
 mobile: true
 number: 1474
-stars: 383
+stars: 391
 title: Advanced Canvas
 type: plugin
 updated: '2024-11-08T22:33:39'

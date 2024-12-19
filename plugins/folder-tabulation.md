@@ -2,10 +2,10 @@
 aliases:
 - Folder Tabulation
 author:
-- '[[SpeedaRJ|SpeedaRJ]]'
+- '[[authors/SpeedaRJ|SpeedaRJ]]'
 categories: []
 description: Enables navigation between files in a folder via hotkeys and commands.
-downloads: 70
+downloads: 81
 mobile: true
 number: 2024
 stars: 3

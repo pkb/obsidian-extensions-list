@@ -2,13 +2,13 @@
 aliases:
 - AnkiBridge
 author:
-- '[[JeppeKlitgaard|Jeppe Klitgaard]]'
+- '[[authors/JeppeKlitgaard|Jeppe Klitgaard]]'
 categories: []
 description: Yet Another Anki Bridge
-downloads: 6530
+downloads: 6544
 mobile: false
 number: 369
-stars: 91
+stars: 92
 title: AnkiBridge
 type: plugin
 updated: '2023-03-30T20:57:30'

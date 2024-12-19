@@ -2,14 +2,14 @@
 aliases:
 - Flomo Importer
 author:
-- '[[jia6y|Jialu Y]]'
+- '[[authors/jia6y|Jialu Y]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Make Flomo Memos to Obsidian Notes
-downloads: 9137
+downloads: 9221
 mobile: false
 number: 880
-stars: 96
+stars: 100
 title: Flomo Importer
 type: plugin
 updated: '2024-08-18T07:48:03'

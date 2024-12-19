@@ -2,11 +2,11 @@
 aliases:
 - Inline Encrypter
 author:
-- '[[solargate|Alexander Cheryomukhin]]'
+- '[[authors/solargate|Alexander Cheryomukhin]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Encrypt secrets in your notes.
-downloads: 3743
+downloads: 3764
 mobile: true
 number: 1238
 stars: 25

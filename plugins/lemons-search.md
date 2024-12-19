@@ -2,11 +2,11 @@
 aliases:
 - Lemons Search
 author:
-- '[[mProjectsCode|Moritz Jung]]'
+- '[[authors/mProjectsCode|Moritz Jung]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A blazingly fast fuzzy finder with file preview.
-downloads: 519
+downloads: 549
 mobile: false
 number: 1944
 stars: 14

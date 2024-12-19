@@ -2,11 +2,11 @@
 aliases:
 - Sidebar Resizer
 author:
-- '[[jeetsukumaran|Jeet Sukumaran]]'
+- '[[authors/jeetsukumaran|Jeet Sukumaran]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Adjust the sidebar sizes easily.
-downloads: 376
+downloads: 391
 mobile: true
 number: 1768
 stars: 0

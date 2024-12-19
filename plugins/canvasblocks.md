@@ -2,13 +2,13 @@
 aliases:
 - Canvas Blocks
 author:
-- '[[Kay607|Kay606]]'
+- '[[authors/Kay607|Kay606]]'
 categories: []
 description: Execute scripts from canvas
-downloads: 965
+downloads: 978
 mobile: false
 number: 1637
-stars: 22
+stars: 23
 title: Canvas Blocks
 type: plugin
 updated: '2024-07-15T01:13:58'

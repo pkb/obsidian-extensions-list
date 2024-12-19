@@ -2,10 +2,10 @@
 aliases:
 - Regex Pipeline
 author:
-- '[[No3371|No3371]]'
+- '[[authors/No3371|No3371]]'
 categories: []
 description: Allows users setup custom regex rules to automatically format notes.
-downloads: 15989
+downloads: 16078
 mobile: true
 number: 150
 stars: 72

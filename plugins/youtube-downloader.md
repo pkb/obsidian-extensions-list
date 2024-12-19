@@ -2,10 +2,10 @@
 aliases:
 - YouTube downloader
 author:
-- '[[ai-chen2050|Blake Chan]]'
+- '[[authors/ai-chen2050|Blake Chan]]'
 categories: []
 description: Download video from YouTube
-downloads: 719
+downloads: 739
 mobile: false
 number: 1813
 stars: 4

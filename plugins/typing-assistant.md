@@ -2,10 +2,10 @@
 aliases:
 - Typing Assistant
 author:
-- '[[Jambo2018|Jambo]]'
+- '[[authors/Jambo2018|Jambo]]'
 categories: []
 description: Support multiple shortcut menus to improve input efficiency
-downloads: 12468
+downloads: 12506
 mobile: true
 number: 1105
 stars: 52

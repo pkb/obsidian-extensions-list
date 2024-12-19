@@ -2,10 +2,10 @@
 aliases:
 - Abbreviations expander
 author:
-- '[[WoodenMaiden|Yann POMIE (WoodenMaiden)]]'
+- '[[authors/WoodenMaiden|Yann POMIE (WoodenMaiden)]]'
 categories: []
 description: Easily create abbreviations that will be expanded after hitting `Space`.
-downloads: 3704
+downloads: 3725
 mobile: false
 number: 1228
 stars: 8

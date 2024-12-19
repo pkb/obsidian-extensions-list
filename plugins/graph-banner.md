@@ -2,10 +2,10 @@
 aliases:
 - Graph Banner
 author:
-- '[[ras0q|ras0q]]'
+- '[[authors/ras0q|ras0q]]'
 categories: []
 description: Display a local graph view to the note header
-downloads: 7070
+downloads: 7214
 mobile: true
 number: 1684
 stars: 51

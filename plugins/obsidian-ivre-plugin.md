@@ -2,11 +2,11 @@
 aliases:
 - IVRE
 author:
-- '[[ivre|The IVRE contributors]]'
+- '[[authors/ivre|The IVRE contributors]]'
 categories: []
 description: 'IVRE integration for Obsidian: grab data from IVRE and brings it into
   Obsidian notes.'
-downloads: 3362
+downloads: 3363
 mobile: false
 number: 766
 stars: 28

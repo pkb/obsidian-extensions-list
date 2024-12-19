@@ -2,15 +2,15 @@
 aliases:
 - TimeSaver
 author:
-- '[[odayou|tommy.li]]'
+- '[[authors/odayou|tommy.li]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the
   time spent on tasks in the current note and the total time spent.
-downloads: 582
+downloads: 588
 mobile: true
 number: 1609
-stars: 4
+stars: 5
 title: TimeSaver
 type: plugin
 updated: '2024-04-18T09:55:56'

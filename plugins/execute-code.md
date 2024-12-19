@@ -2,14 +2,14 @@
 aliases:
 - Execute Code
 author:
-- '[[twibiral|twibiral]]'
+- '[[authors/twibiral|twibiral]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: 'Allows to execute code snippets within a note. Supported programming
   languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript,
   Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell,
   Scala, Racket, F#, Batch, Shell & Powershell.'
-downloads: 93148
+downloads: 94106
 mobile: false
 number: 493
 stars: 1200
@@ -36,13 +36,6 @@ This plugin allows you to execute code snippets in code blocks in your notes. Th
 The result is shown only after the execution is finished. It is not possible to enter text on the command line into the executed program now.
 
 ![Video that shows how the plugin works.](https://github.com/twibiral/obsidian-execute-code/blob/master/images/execute_code_example.gif?raw=true)
-
-
-<hr>
-
-> [!NOTE]
-> Advertisement on my behalf:
-> I am working on my master's thesis and looking for a PhD position in AI (especially explainable AI or foundations of machine learning) - if you have or know about an open position in that field, I would love to hear about it 😄
 
 
 <hr></div>

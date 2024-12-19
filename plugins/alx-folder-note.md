@@ -2,11 +2,11 @@
 aliases:
 - AidenLx's Folder Note
 author:
-- '[[aidenlx|AidenLx]]'
+- '[[authors/aidenlx|AidenLx]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Add description, summary and more info to folders with folder notes.
-downloads: 48759
+downloads: 48896
 mobile: true
 number: 247
 stars: 255

@@ -2,11 +2,11 @@
 aliases:
 - Chessboard Viewer
 author:
-- '[[THeK3nger|Davide Aversa]]'
+- '[[authors/THeK3nger|Davide Aversa]]'
 categories:
 - '[[categories/Games|Games]]'
 description: Render chess positions diagrams in a note.
-downloads: 6845
+downloads: 6866
 mobile: true
 number: 115
 stars: 29

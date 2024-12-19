@@ -2,16 +2,16 @@
 aliases:
 - Toggl Track
 author:
-- '[[mcndt|Maxime Cannoodt (@mcndt)]]'
+- '[[authors/mcndt|Maxime Cannoodt (@mcndt)]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Time tracking|Time tracking]]'
 description: Manage timers and generate time reports using Toggl Track without leaving
   Obsidian.
-downloads: 26107
+downloads: 26181
 mobile: false
 number: 246
-stars: 288
+stars: 289
 title: Toggl Track
 type: plugin
 updated: '2023-07-23T18:50:21'

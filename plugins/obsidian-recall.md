@@ -2,11 +2,11 @@
 aliases:
 - Recall
 author:
-- '[[martin-jw|Martin Jirlow]]'
+- '[[authors/martin-jw|Martin Jirlow]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: A flexible and configurable Spaced Repetition System built into Obsidian.
-downloads: 8701
+downloads: 8721
 mobile: true
 number: 163
 stars: 118

@@ -2,10 +2,10 @@
 aliases:
 - NeuroVox
 author:
-- '[[Synaptic-Labs-AI|Synaptic Labs]]'
+- '[[authors/Synaptic-Labs-AI|Synaptic Labs]]'
 categories: []
 description: Enhances your note-taking with voice transcription and AI capabilities
-downloads: 297
+downloads: 363
 mobile: true
 number: 1993
 stars: 12

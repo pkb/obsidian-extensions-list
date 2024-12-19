@@ -2,10 +2,10 @@
 aliases:
 - Outline Converter
 author:
-- '[[masaki39|masaki39]]'
+- '[[authors/masaki39|masaki39]]'
 categories: []
 description: Convert outline to continuous text.
-downloads: 818
+downloads: 826
 mobile: false
 number: 1599
 stars: 6

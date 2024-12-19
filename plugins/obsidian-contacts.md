@@ -2,10 +2,10 @@
 aliases:
 - Contacts
 author:
-- '[[vbeskrovnov|Vadim Beskrovnov]]'
+- '[[authors/vbeskrovnov|Vadim Beskrovnov]]'
 categories: []
 description: Allows you to manage and organize your contacts.
-downloads: 6738
+downloads: 6759
 mobile: false
 number: 750
 stars: 70

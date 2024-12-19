@@ -2,10 +2,10 @@
 aliases:
 - Hierarchy
 author:
-- '[[kdnk|Kodai Nakamura]]'
+- '[[authors/kdnk|Kodai Nakamura]]'
 categories: []
 description: Display the hierarchy instead of just the file name.
-downloads: 231
+downloads: 239
 mobile: true
 number: 1920
 stars: 1

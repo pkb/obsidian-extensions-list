@@ -2,11 +2,11 @@
 aliases:
 - Nomnoml Diagram
 author:
-- '[[Daeik|Daeik Kim]]'
+- '[[authors/Daeik|Daeik Kim]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw nomnoml diagrams in Obsidian notes
-downloads: 9048
+downloads: 9059
 mobile: true
 number: 308
 stars: 56

@@ -2,10 +2,10 @@
 aliases:
 - Poker
 author:
-- '[[mAAdhaTTah|James DiGioia]]'
+- '[[authors/mAAdhaTTah|James DiGioia]]'
 categories: []
 description: Easily document and view your poker hands.
-downloads: 3537
+downloads: 3543
 mobile: true
 number: 1035
 stars: 12

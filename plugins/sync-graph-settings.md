@@ -2,10 +2,10 @@
 aliases:
 - Sync Graph Settings
 author:
-- '[[Xallt|xallt]]'
+- '[[authors/Xallt|xallt]]'
 categories: []
 description: This is a plugin for syncing various graph settings to Local Graphs
-downloads: 9533
+downloads: 9618
 mobile: true
 number: 700
 stars: 28

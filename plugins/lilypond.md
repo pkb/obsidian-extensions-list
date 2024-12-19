@@ -2,10 +2,10 @@
 aliases:
 - Lilypond
 author:
-- '[[dot-asterisk-nl|DOT-ASTERISK]]'
+- '[[authors/dot-asterisk-nl|DOT-ASTERISK]]'
 categories: []
 description: Lilypond support in Obsidian
-downloads: 3530
+downloads: 3541
 mobile: false
 number: 984
 stars: 7

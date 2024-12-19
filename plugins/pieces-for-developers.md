@@ -2,20 +2,20 @@
 aliases:
 - Pieces for Developers
 author:
-- '[[pieces-app|Pieces For Developers]]'
+- '[[authors/pieces-app|Pieces For Developers]]'
 categories: []
 description: 'Streamline your coding workflow in Obsidian with the Pieces For Developers
   plugin, offering powerful features for capturing, managing, translating, and enhancing
   code snippets. (Closed Source) '
-downloads: 17320
+downloads: 17576
 mobile: false
 number: 949
-stars: 167
+stars: 168
 title: Pieces for Developers
 type: plugin
-updated: '2024-12-05T02:41:29'
+updated: '2024-12-18T06:03:54'
 url: https://github.com/pieces-app/obsidian-pieces
-version: 1.20.0
+version: 1.21.0
 ---
 
 %% README_START %%
@@ -88,11 +88,11 @@ _Sept. 8, 2023_
 
 ### Requirements
 
-**You must have [Pieces OS](https://docs.pieces.app/installation-getting-started/what-am-i-installing) installed**.
+**You must have [PiecesOS](https://docs.pieces.app/installation-getting-started/what-am-i-installing) installed**.
 
-Pieces OS facilitates the local operation of Pieces products on your machine and coordinates connections to Pieces extensions. **The extension will not function as intended without Pieces OS active on your machine.**
+PiecesOS facilitates the local operation of Pieces products on your machine and coordinates connections to Pieces extensions. **The extension will not function as intended without PiecesOS active on your machine.**
 
-\*_Pieces OS installation comes with the Pieces for Developers Desktop App where your snippets can also be viewed and managed._
+\*_PiecesOS installation comes with the Pieces for Developers Desktop App where your snippets can also be viewed and managed._
 
 ## Install Instructions
 

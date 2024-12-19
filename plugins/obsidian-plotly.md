@@ -2,12 +2,12 @@
 aliases:
 - Plotly
 author:
-- '[[Dmytro-Shulha|Dmitriy Shulha]]'
+- '[[authors/Dmytro-Shulha|Dmitriy Shulha]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: Obsidian plugin, which allow user to embed Plotly charts into markdown
   notes.
-downloads: 7521
+downloads: 7543
 mobile: true
 number: 317
 stars: 74

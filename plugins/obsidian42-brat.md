@@ -2,14 +2,14 @@
 aliases:
 - BRAT
 author:
-- '[[TfTHacker|TfTHacker]]'
+- '[[authors/TfTHacker|TfTHacker]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Easily install a beta version of a plugin for testing.
-downloads: 264675
+downloads: 268355
 mobile: true
 number: 312
-stars: 658
+stars: 661
 title: BRAT
 type: plugin
 updated: '2024-11-29T12:01:19'

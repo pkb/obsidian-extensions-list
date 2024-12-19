@@ -2,11 +2,11 @@
 aliases:
 - Completed Area
 author:
-- '[[DahaWong|Daha]]'
+- '[[authors/DahaWong|Daha]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Move completed to-do items to a seperate completed area.
-downloads: 7694
+downloads: 7705
 mobile: true
 number: 52
 stars: 19

@@ -2,11 +2,11 @@
 aliases:
 - BookNav
 author:
-- '[[jemberton|Josh Emberton]]'
+- '[[authors/jemberton|Josh Emberton]]'
 categories: []
 description: Adds a codeblock language to parse internal links and render them in
   a book style navigation.
-downloads: 118
+downloads: 135
 mobile: true
 number: 1969
 stars: 5

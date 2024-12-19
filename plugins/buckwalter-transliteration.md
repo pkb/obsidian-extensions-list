@@ -2,10 +2,10 @@
 aliases:
 - Buckwalter Transliteration
 author:
-- '[[amrojjeh|Amr Ojjeh]]'
+- '[[authors/amrojjeh|Amr Ojjeh]]'
 categories: []
 description: Renders Arabic using Buckwalter's encoding scheme.
-downloads: 669
+downloads: 676
 mobile: true
 number: 1551
 stars: 0

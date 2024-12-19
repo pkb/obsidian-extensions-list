@@ -2,10 +2,10 @@
 aliases:
 - Pinned Notes
 author:
-- '[[vasilcoin002|vasilcoin002]]'
+- '[[authors/vasilcoin002|vasilcoin002]]'
 categories: []
 description: Pin frequently-used notes on Ribbon actions
-downloads: 1336
+downloads: 1391
 mobile: false
 number: 1709
 stars: 21

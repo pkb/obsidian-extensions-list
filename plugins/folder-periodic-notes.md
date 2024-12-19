@@ -2,10 +2,10 @@
 aliases:
 - Folder Periodic Notes
 author:
-- '[[andrewheekin|Andrew Heekin]]'
+- '[[authors/andrewheekin|Andrew Heekin]]'
 categories: []
 description: Periodic notes in a year, month, and day folder hierarchy.
-downloads: 922
+downloads: 944
 mobile: true
 number: 1641
 stars: 8

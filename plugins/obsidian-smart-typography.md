@@ -2,14 +2,14 @@
 aliases:
 - Smart Typography
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Converts quotes to curly quotes, dashes to em dashes, and periods to
   ellipses
-downloads: 89083
+downloads: 89872
 mobile: true
 number: 200
-stars: 258
+stars: 261
 title: Smart Typography
 type: plugin
 updated: '2022-06-18T01:02:11'

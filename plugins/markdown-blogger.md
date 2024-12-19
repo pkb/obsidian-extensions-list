@@ -2,15 +2,15 @@
 aliases:
 - Markdown Blogger
 author:
-- '[[afazio1|Alexa Fazio]]'
+- '[[authors/afazio1|Alexa Fazio]]'
 categories: []
 description: Allows developers to push markdown notes to their local blog, portfolio,
   or static site. Works with Astro.js, Next.js, and any other framework configured
   to render markdown pages.
-downloads: 3927
+downloads: 3933
 mobile: false
 number: 988
-stars: 97
+stars: 98
 title: Markdown Blogger
 type: plugin
 updated: '2023-11-05T06:31:03'

@@ -2,10 +2,10 @@
 aliases:
 - Image OCR
 author:
-- '[[kaffarell|kaffarell]]'
+- '[[authors/kaffarell|kaffarell]]'
 categories: []
 description: Runs OCR on images and copies content in image caption.
-downloads: 5222
+downloads: 5247
 mobile: false
 number: 904
 stars: 18

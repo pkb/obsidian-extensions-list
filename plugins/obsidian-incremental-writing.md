@@ -2,10 +2,10 @@
 aliases:
 - Incremental Writing
 author:
-- '[[bjsi|Experimental Learning]]'
+- '[[authors/bjsi|Experimental Learning]]'
 categories: []
 description: Incrementally review notes and blocks over time.
-downloads: 11170
+downloads: 11200
 mobile: false
 number: 160
 stars: 182

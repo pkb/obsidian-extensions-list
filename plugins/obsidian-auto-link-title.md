@@ -2,13 +2,13 @@
 aliases:
 - Auto Link Title
 author:
-- '[[zolrath|Matt Furden]]'
+- '[[authors/zolrath|Matt Furden]]'
 categories: []
 description: This plugin automatically fetches the titles of links from the web
-downloads: 221907
+downloads: 226909
 mobile: true
 number: 157
-stars: 487
+stars: 490
 title: Auto Link Title
 type: plugin
 updated: '2024-12-05T03:35:35'

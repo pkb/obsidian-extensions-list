@@ -2,10 +2,10 @@
 aliases:
 - Mini Vimrc
 author:
-- '[[cabra-arretado|Felipe M.]]'
+- '[[authors/cabra-arretado|Felipe M.]]'
 categories: []
 description: Set Vim keybiddings via .vimrc file.
-downloads: 3759
+downloads: 3771
 mobile: true
 number: 1205
 stars: 22

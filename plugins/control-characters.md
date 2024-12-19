@@ -2,10 +2,10 @@
 aliases:
 - Control Characters
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Show control/non-printing characters in edit mode.
-downloads: 5495
+downloads: 5509
 mobile: true
 number: 478
 stars: 24

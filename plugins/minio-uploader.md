@@ -2,10 +2,10 @@
 aliases:
 - Minio Uploader
 author:
-- '[[seebin|Seebin]]'
+- '[[authors/seebin|Seebin]]'
 categories: []
 description: Upload images, videos, audio, pdf, and other files to Minio OSS.
-downloads: 2896
+downloads: 2915
 mobile: true
 number: 1278
 stars: 25

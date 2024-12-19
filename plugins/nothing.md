@@ -2,10 +2,10 @@
 aliases:
 - Nothing
 author:
-- '[[chrisgrieser|pseudometa]]'
+- '[[authors/chrisgrieser|pseudometa]]'
 categories: []
 description: Adds a no-op command to disable hotkeys.
-downloads: 2438
+downloads: 2443
 mobile: true
 number: 1250
 stars: 17

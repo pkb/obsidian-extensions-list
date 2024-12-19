@@ -2,10 +2,10 @@
 aliases:
 - Journey
 author:
-- '[[akaalias|Alexis Rondeau]]'
+- '[[authors/akaalias|Alexis Rondeau]]'
 categories: []
 description: Discover the stories between your notes.
-downloads: 19395
+downloads: 19424
 mobile: true
 number: 89
 stars: 147

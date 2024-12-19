@@ -2,10 +2,10 @@
 aliases:
 - Dynamic Embed
 author:
-- '[[dabravin|Ivaylo Dabravin <ivaylo.dabravin@gmail.com>]]'
+- '[[authors/dabravin|Ivaylo Dabravin <ivaylo.dabravin@gmail.com>]]'
 categories: []
 description: Dynamicly interpreted inline embeds.
-downloads: 6247
+downloads: 6264
 mobile: true
 number: 448
 stars: 19

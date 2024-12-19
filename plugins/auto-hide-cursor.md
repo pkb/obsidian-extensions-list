@@ -2,10 +2,10 @@
 aliases:
 - Auto Hide Cursor
 author:
-- '[[moismat|jmxo]]'
+- '[[authors/moismat|jmxo]]'
 categories: []
 description: Hides the cursor when scrolling and shows it again when moving the mouse.
-downloads: 3857
+downloads: 3865
 mobile: false
 number: 932
 stars: 5

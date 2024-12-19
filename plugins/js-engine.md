@@ -2,10 +2,10 @@
 aliases:
 - JS Engine
 author:
-- '[[mProjectsCode|Moritz Jung]]'
+- '[[authors/mProjectsCode|Moritz Jung]]'
 categories: []
 description: Run JavaScript from within your notes.
-downloads: 14867
+downloads: 15131
 mobile: true
 number: 1141
 stars: 89

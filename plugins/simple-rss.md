@@ -2,13 +2,13 @@
 aliases:
 - Simple RSS
 author:
-- '[[monnierant|Monnierant]]'
+- '[[authors/monnierant|Monnierant]]'
 categories: []
 description: Collect RSS articles into notes.
-downloads: 13941
+downloads: 14156
 mobile: true
 number: 989
-stars: 29
+stars: 28
 title: Simple RSS
 type: plugin
 updated: '2024-01-21T03:02:06'

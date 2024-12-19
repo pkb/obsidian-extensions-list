@@ -2,11 +2,11 @@
 aliases:
 - File Cleaner
 author:
-- '[[Johnson0907|Johnson0907]]'
+- '[[authors/Johnson0907|Johnson0907]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.
-downloads: 21387
+downloads: 21548
 mobile: true
 number: 456
 stars: 36

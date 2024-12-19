@@ -2,11 +2,11 @@
 aliases:
 - Outline++
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Fix issues of the built-in outline view & optionally render markdown
   in it.
-downloads: 1567
+downloads: 1582
 mobile: true
 number: 1404
 stars: 5

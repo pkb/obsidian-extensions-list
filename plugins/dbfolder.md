@@ -2,12 +2,12 @@
 aliases:
 - DB Folder
 author:
-- '[[RafaelGB|RafaelGB]]'
+- '[[authors/RafaelGB|RafaelGB]]'
 categories:
 - '[[categories/Data management|Data management]]'
 description: Folder with the capability to store and retrieve data from a folder like
   database
-downloads: 290605
+downloads: 291720
 mobile: true
 number: 532
 stars: 1300

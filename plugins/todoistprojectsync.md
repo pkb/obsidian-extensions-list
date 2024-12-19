@@ -2,10 +2,10 @@
 aliases:
 - Todoist Project sync
 author:
-- '[[stuporfly|Jonas Dam]]'
+- '[[authors/stuporfly|Jonas Dam]]'
 categories: []
 description: synchronizes projects from Todoist, creating a note for each.
-downloads: 1522
+downloads: 1636
 mobile: false
 number: 1849
 stars: 19

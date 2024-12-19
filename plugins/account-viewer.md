@@ -2,11 +2,11 @@
 aliases:
 - Account Viewer
 author:
-- '[[muaz742|Muaz Yediyüzkırkiki]]'
+- '[[authors/muaz742|Muaz Yediyüzkırkiki]]'
 categories: []
 description: Automatically generate accounting tables from Markdown code blocks tagged
   with accounting.
-downloads: 1008
+downloads: 1060
 mobile: true
 number: 1783
 stars: 0

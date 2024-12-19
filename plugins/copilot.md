@@ -2,17 +2,17 @@
 aliases:
 - Copilot
 author:
-- '[[logancyang|Logan Yang]]'
+- '[[authors/logancyang|Logan Yang]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI Copilot in Obsidian.
-downloads: 287199
+downloads: 296345
 mobile: true
 number: 909
 stars: 3200
 title: Copilot
 type: plugin
-updated: '2024-12-11T04:20:45'
+updated: '2024-12-11T11:49:20'
 url: https://github.com/logancyang/obsidian-copilot
 version: 2.7.9
 ---
@@ -41,7 +41,7 @@ If you enjoy Copilot for Obsidian, please consider [sponsoring this project](htt
 <a href="https://www.buymeacoffee.com/logancyang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
 
 SPECIAL THANKS TO OUR TOP SPONSORS:
-@mikelaaron, @pedramamini, @Arlorean, @dashinja, @azagore, @MTGMAD, @gpythomas, @emaynard, @scmarinelli, @borthwick, @adamhill, @gluecode, @rusi, @timgrote, @JiaruiYu-Consilium, @ddocta, @AMOz1, @chchwy, @pborenstein, @GitTom, @kazukgw, @mjluser1, @joesfer, @rwaal, @turnoutnow-harpreet, @dreznicek, @xrise-informatik, @jeremygentles, @ZhengRui, @bfoujols, @jsmith0475, @pagiaddlemon
+@mikelaaron, @pedramamini, @Arlorean, @dashinja, @azagore, @MTGMAD, @gpythomas, @emaynard, @scmarinelli, @borthwick, @adamhill, @gluecode, @rusi, @timgrote, @JiaruiYu-Consilium, @ddocta, @AMOz1, @chchwy, @pborenstein, @GitTom, @kazukgw, @mjluser1, @joesfer, @rwaal, @turnoutnow-harpreet, @dreznicek, @xrise-informatik, @jeremygentles, @ZhengRui, @bfoujols, @jsmith0475, @pagiaddlemon, @sebbyyyywebbyyy
 
 [Changelog](https://github.com/logancyang/obsidian-copilot/releases)
 

@@ -2,11 +2,11 @@
 aliases:
 - File Property Enhancer
 author:
-- '[[quorafind|Boninall]]'
+- '[[authors/quorafind|Boninall]]'
 categories: []
 description: Improve user experience when using file properties like adding icons
   or custom display view.
-downloads: 5443
+downloads: 5484
 mobile: false
 number: 1193
 stars: 39

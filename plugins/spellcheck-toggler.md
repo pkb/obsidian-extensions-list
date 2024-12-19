@@ -2,10 +2,10 @@
 aliases:
 - Spellcheck Toggler
 author:
-- '[[julzerinos|Julian Szachowicz]]'
+- '[[authors/julzerinos|Julian Szachowicz]]'
 categories: []
 description: Toggle spellchecking for types of text blocks in the editing view.
-downloads: 1913
+downloads: 1939
 mobile: true
 number: 1525
 stars: 3

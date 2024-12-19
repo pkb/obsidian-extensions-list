@@ -2,12 +2,12 @@
 aliases:
 - Fantasy Content Generator
 author:
-- '[[Gregory-Jagermeister|Gregory Jagermeister ]]'
+- '[[authors/Gregory-Jagermeister|Gregory Jagermeister ]]'
 categories:
 - '[[categories/Games|Games]]'
 description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
   Needs
-downloads: 24778
+downloads: 25034
 mobile: true
 number: 829
 stars: 39

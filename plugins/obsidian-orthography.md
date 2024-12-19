@@ -2,13 +2,13 @@
 aliases:
 - Orthography
 author:
-- '[[denisoed|Denisoed]]'
+- '[[authors/denisoed|Denisoed]]'
 categories: []
 description: Check & fix orthography errors in text.
-downloads: 10358
+downloads: 10387
 mobile: true
 number: 86
-stars: 122
+stars: 121
 title: Orthography
 type: plugin
 updated: '2024-10-23T22:09:36'

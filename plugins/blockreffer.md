@@ -2,14 +2,14 @@
 aliases:
 - Blockreffer
 author:
-- '[[tyler-dot-earth|tyler.earth]]'
+- '[[authors/tyler-dot-earth|tyler.earth]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and embed blocks with ^block-references (aka ^block-ids)
-downloads: 444
+downloads: 462
 mobile: true
 number: 1851
-stars: 10
+stars: 11
 title: Blockreffer
 type: plugin
 updated: '2024-11-18T00:47:38'

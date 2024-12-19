@@ -2,16 +2,16 @@
 aliases:
 - Smart Templates
 author:
-- "[[brianpetro|\U0001F334 Brian Petro]]"
+- "[[authors/brianpetro|\U0001F334 Brian Petro]]"
 categories:
 - '[[categories/Templates|Templates]]'
 - '[[categories/AI assistance|AI assistance]]'
 description: AI powered templates for generating structured content. Works with Local
   Models, Anthropic Claude, Gemini, OpenAI and more.
-downloads: 1425
+downloads: 1485
 mobile: true
 number: 1828
-stars: 28
+stars: 29
 title: Smart Templates
 type: plugin
 updated: '2024-07-31T02:26:05'

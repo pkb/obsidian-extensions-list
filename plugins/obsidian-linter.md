@@ -2,14 +2,14 @@
 aliases:
 - Linter
 author:
-- '[[platers|Victor Tao]]'
+- '[[authors/platers|Victor Tao]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Formats and styles your notes. It can be used to format YAML tags, aliases,
   arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown
   contents like list, italics, and bold styles; and more with the use of custom rule
   options as well.
-downloads: 472875
+downloads: 476329
 mobile: true
 number: 249
 stars: 1300

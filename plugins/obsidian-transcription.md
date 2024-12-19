@@ -2,15 +2,15 @@
 aliases:
 - Transcription
 author:
-- '[[djmango|djmango]]'
+- '[[authors/djmango|djmango]]'
 categories: []
 description: Transcription 3.0, now with Swiftink.io domain-aware speech-to-text!
   Create high-quality text transcriptions from any media file, on any device. Best-in-class
   ASR
-downloads: 21614
+downloads: 21758
 mobile: true
 number: 702
-stars: 163
+stars: 164
 title: Transcription
 type: plugin
 updated: '2024-04-12T22:55:54'

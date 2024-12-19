@@ -2,15 +2,15 @@
 aliases:
 - Reminder
 author:
-- '[[uphy|uphy]]'
+- '[[authors/uphy|uphy]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Reminder plugin for Obsidian. This plugin adds feature to manage TODOs
   with reminder.
-downloads: 159156
+downloads: 161552
 mobile: true
 number: 255
-stars: 463
+stars: 465
 title: Reminder
 type: plugin
 updated: '2024-11-26T13:00:56'

@@ -2,19 +2,19 @@
 aliases:
 - Modal forms
 author:
-- '[[danielo515|Danielo Rodriguez]]'
+- '[[authors/danielo515|Danielo Rodriguez]]'
 categories: []
 description: Define forms for filling data that you will be able to open from anywhere
   you can run JS
-downloads: 18031
+downloads: 19012
 mobile: true
 number: 1198
-stars: 222
+stars: 227
 title: Modal forms
 type: plugin
-updated: '2024-12-09T22:28:08'
+updated: '2024-12-12T19:13:40'
 url: https://github.com/danielo515/obsidian-modal-form
-version: 1.53.0
+version: 1.55.0
 ---
 
 %% README_START %%

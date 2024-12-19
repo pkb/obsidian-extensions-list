@@ -2,10 +2,10 @@
 aliases:
 - Markline
 author:
-- '[[hotoo|闲耘]]'
+- '[[authors/hotoo|闲耘]]'
 categories: []
 description: Timeline view from markdown.
-downloads: 2108
+downloads: 2125
 mobile: true
 number: 1382
 stars: 28

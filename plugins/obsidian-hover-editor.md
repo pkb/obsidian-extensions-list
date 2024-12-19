@@ -2,14 +2,14 @@
 aliases:
 - Hover Editor
 author:
-- '[[nothingislost|NothingIsLost]]'
+- '[[authors/nothingislost|NothingIsLost]]'
 categories: []
 description: Transform the Page Preview hover popover into a fully working editor
   instance
-downloads: 291339
+downloads: 293124
 mobile: true
 number: 462
-stars: 568
+stars: 571
 title: Hover Editor
 type: plugin
 updated: '2024-10-14T00:56:58'

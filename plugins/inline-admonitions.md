@@ -2,10 +2,10 @@
 aliases:
 - Inline Admonitions
 author:
-- '[[scottTomaszewski|Scott Tomaszewski (Xentis)]]'
+- '[[authors/scottTomaszewski|Scott Tomaszewski (Xentis)]]'
 categories: []
 description: Inline callouts to make text pop.
-downloads: 3586
+downloads: 3645
 mobile: false
 number: 1460
 stars: 20

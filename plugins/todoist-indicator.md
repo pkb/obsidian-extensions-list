@@ -2,11 +2,11 @@
 aliases:
 - Todoist Indicator
 author:
-- '[[kapej42|Kapej42]]'
+- '[[authors/kapej42|Kapej42]]'
 categories: []
 description: Adds a badge to "project" files when they miss a link to a Todoist project.
   (based on the GTD indicator from saibotsivad, thanks!)
-downloads: 186
+downloads: 190
 mobile: true
 number: 1757
 stars: 0

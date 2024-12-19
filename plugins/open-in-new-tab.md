@@ -2,13 +2,13 @@
 aliases:
 - Open In New Tab
 author:
-- '[[patleeman|Patrick Lee]]'
+- '[[authors/patleeman|Patrick Lee]]'
 categories: []
 description: Opens files in new tabs
-downloads: 18370
+downloads: 18582
 mobile: true
 number: 832
-stars: 97
+stars: 98
 title: Open In New Tab
 type: plugin
 updated: '2023-03-01T09:37:47'

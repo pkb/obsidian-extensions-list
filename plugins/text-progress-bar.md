@@ -2,10 +2,10 @@
 aliases:
 - Text Progress Bar
 author:
-- '[[michaeladams|Michael Adams]]'
+- '[[authors/michaeladams|Michael Adams]]'
 categories: []
 description: Display low-fi text progress bars in your notes.
-downloads: 5897
+downloads: 5918
 mobile: true
 number: 796
 stars: 36

@@ -2,10 +2,10 @@
 aliases:
 - Quick Cards
 author:
-- '[[abcamus|Camus Qiu]]'
+- '[[authors/abcamus|Camus Qiu]]'
 categories: []
 description: cardify your files
-downloads: 570
+downloads: 592
 mobile: true
 number: 1876
 stars: 3

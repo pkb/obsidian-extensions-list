@@ -2,10 +2,10 @@
 aliases:
 - DMN Eval
 author:
-- '[[joleaf|JoLeaf]]'
+- '[[authors/joleaf|JoLeaf]]'
 categories: []
 description: This plugin enables evaluating DMNs in an obsidian note.
-downloads: 3454
+downloads: 3455
 mobile: false
 number: 792
 stars: 3

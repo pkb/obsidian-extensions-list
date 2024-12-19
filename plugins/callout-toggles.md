@@ -2,10 +2,10 @@
 aliases:
 - Callout Toggles
 author:
-- '[[alythobani|Aly Thobani]]'
+- '[[authors/alythobani|Aly Thobani]]'
 categories: []
 description: Quickly add, change, or remove callouts in your notes.
-downloads: 780
+downloads: 848
 mobile: true
 number: 1964
 stars: 9

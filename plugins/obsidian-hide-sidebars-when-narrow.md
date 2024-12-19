@@ -3,13 +3,13 @@ aliases:
 - Hide Sidebars on Window Resize
 author:
 - '[[authors/NomarCub|NomarCub]]'
-- '[[NomarCub|Michael Hanson]]'
+- '[[authors/NomarCub|Michael Hanson]]'
 categories: []
 description: Automatically hides the sidebars when your window is resized to be narrower
-downloads: 14207
+downloads: 14263
 mobile: false
 number: 248
-stars: 25
+stars: 26
 title: Hide Sidebars on Window Resize
 type: plugin
 updated: '2023-05-12T21:45:50'

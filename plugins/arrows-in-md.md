@@ -2,11 +2,11 @@
 aliases:
 - Arrows
 author:
-- '[[artisticat1|artisticat]]'
+- '[[authors/artisticat1|artisticat]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Draw arrows across different parts of your notes, similar to on paper
-downloads: 4028
+downloads: 4083
 mobile: true
 number: 1403
 stars: 59

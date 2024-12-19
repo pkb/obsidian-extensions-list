@@ -2,13 +2,13 @@
 aliases:
 - Marp
 author:
-- '[[JichouP|JichouP]]'
+- '[[authors/JichouP|JichouP]]'
 categories: []
 description: Plugin for using Marp on Obsidian.
-downloads: 10630
+downloads: 10702
 mobile: false
 number: 807
-stars: 132
+stars: 133
 title: Marp
 type: plugin
 updated: '2023-08-06T19:32:47'

@@ -2,13 +2,13 @@
 aliases:
 - Wikipedia Search
 author:
-- '[[StrangeGirlMurph|StrangeGirlMurph]]'
+- '[[authors/StrangeGirlMurph|StrangeGirlMurph]]'
 categories: []
 description: Search, link and open Wikipedia/Wiki articles, all within the app!
-downloads: 16223
+downloads: 16274
 mobile: true
 number: 876
-stars: 49
+stars: 52
 title: Wikipedia Search
 type: plugin
 updated: '2024-07-30T18:44:20'

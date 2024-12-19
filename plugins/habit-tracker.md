@@ -2,10 +2,10 @@
 aliases:
 - Habit Tracker
 author:
-- '[[Narsail|David Moeller]]'
+- '[[authors/Narsail|David Moeller]]'
 categories: []
 description: Track your Habits.
-downloads: 8126
+downloads: 8152
 mobile: true
 number: 560
 stars: 33

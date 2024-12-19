@@ -2,11 +2,11 @@
 aliases:
 - Date Inserter
 author:
-- '[[namikaze-40p|namikaze-40p]]'
+- '[[authors/namikaze-40p|namikaze-40p]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Insert a date at the cursor position using a calendar.
-downloads: 4667
+downloads: 4815
 mobile: true
 number: 1485
 stars: 9

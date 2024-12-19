@@ -2,14 +2,14 @@
 aliases:
 - Meld Encrypt
 author:
-- '[[meld-cp|meld-cp]]'
+- '[[authors/meld-cp|meld-cp]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Hide secrets in your vault
-downloads: 98410
+downloads: 99034
 mobile: true
 number: 103
-stars: 635
+stars: 640
 title: Meld Encrypt
 type: plugin
 updated: '2024-07-14T04:51:03'

@@ -2,15 +2,15 @@
 aliases:
 - Better Export PDF
 author:
-- '[[l1xnan|l1xnan]]'
+- '[[authors/l1xnan|l1xnan]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export your notes to PDF, support export preview, add bookmarks outline
   and header/footer.
-downloads: 73198
+downloads: 75996
 mobile: false
 number: 1408
-stars: 372
+stars: 380
 title: Better Export PDF
 type: plugin
 updated: '2024-12-05T08:49:36'

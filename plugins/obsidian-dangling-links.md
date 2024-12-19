@@ -2,10 +2,10 @@
 aliases:
 - Dangling links
 author:
-- '[[graydon|Graydon Hoare]]'
+- '[[authors/graydon|Graydon Hoare]]'
 categories: []
 description: This plugin shows any dangling links in your vault.
-downloads: 14878
+downloads: 14906
 mobile: true
 number: 43
 stars: 46

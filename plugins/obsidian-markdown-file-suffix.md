@@ -2,10 +2,10 @@
 aliases:
 - Addional Markdown suffix (.mdx/.svx).
 author:
-- '[[git-no|swissmation]]'
+- '[[authors/git-no|swissmation]]'
 categories: []
 description: Use additional files like .mdx / .svx as if they were markdown.
-downloads: 4051
+downloads: 4066
 mobile: true
 number: 645
 stars: 6

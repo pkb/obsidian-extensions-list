@@ -2,10 +2,10 @@
 aliases:
 - Excel
 author:
-- '[[ljcoder2015|ljcoder]]'
+- '[[authors/ljcoder2015|ljcoder]]'
 categories: []
 description: Create spreadsheets and easily embed them in Markdown
-downloads: 41321
+downloads: 41795
 mobile: true
 number: 1156
 stars: 121

@@ -2,10 +2,10 @@
 aliases:
 - User Plugins
 author:
-- '[[mnowotnik|mnowotnik]]'
+- '[[authors/mnowotnik|mnowotnik]]'
 categories: []
 description: Use ts and js modules or js snippets to code your own plugins
-downloads: 4669
+downloads: 4685
 mobile: true
 number: 537
 stars: 69

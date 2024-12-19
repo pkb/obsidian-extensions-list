@@ -2,11 +2,11 @@
 aliases:
 - Zen
 author:
-- '[[Maxymillion|Maxymillion]]'
+- '[[authors/Maxymillion|Maxymillion]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: A focus mode Obsidian plugin.
-downloads: 7981
+downloads: 8021
 mobile: false
 number: 828
 stars: 45

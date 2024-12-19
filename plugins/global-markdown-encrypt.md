@@ -2,11 +2,11 @@
 aliases:
 - Global Markdown Encryption
 author:
-- '[[shlemiel|shlemiel]]'
+- '[[authors/shlemiel|shlemiel]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: In-memory AES256-GCM Markdown Encryption
-downloads: 3168
+downloads: 3182
 mobile: true
 number: 1247
 stars: 8

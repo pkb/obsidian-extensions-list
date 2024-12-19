@@ -2,11 +2,11 @@
 aliases:
 - From Template
 author:
-- '[[mo-seph|Dave Murray-Rust]]'
+- '[[authors/mo-seph|Dave Murray-Rust]]'
 categories: []
 description: Create new notes from Templates - for each Template, provides a Command
   to trigger it, and a form to fill in any variables in the template
-downloads: 12023
+downloads: 12066
 mobile: true
 number: 363
 stars: 108

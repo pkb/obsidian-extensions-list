@@ -2,12 +2,12 @@
 aliases:
 - PDF break page
 author:
-- '[[corentin-godefroy|CG]]'
+- '[[authors/corentin-godefroy|CG]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Export|Export]]'
 description: Add shortkey and command to insert a break page formating for pdf exports.
-downloads: 4482
+downloads: 4594
 mobile: true
 number: 1464
 stars: 6

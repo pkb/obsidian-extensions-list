@@ -2,10 +2,10 @@
 aliases:
 - Simple Note Quiz
 author:
-- '[[beginner137|dorisxx]]'
+- '[[authors/beginner137|dorisxx]]'
 categories: []
 description: Start a simple quiz on your current note
-downloads: 4869
+downloads: 4879
 mobile: false
 number: 412
 stars: 12

@@ -2,11 +2,11 @@
 aliases:
 - Tagged Documents Viewer
 author:
-- '[[mgeduld|Marcus Geduld]]'
+- '[[authors/mgeduld|Marcus Geduld]]'
 categories: []
 description: Opens a modal with scrollable content of all documents that contain a
   specific tag or tags.
-downloads: 31630
+downloads: 31851
 mobile: true
 number: 578
 stars: 28

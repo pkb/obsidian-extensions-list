@@ -2,11 +2,11 @@
 aliases:
 - Orion Publish
 author:
-- '[[seanrcollings|Sean Collings]]'
+- '[[authors/seanrcollings|Sean Collings]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily publish your notes to the web with Orion Publish.
-downloads: 982
+downloads: 985
 mobile: true
 number: 1504
 stars: 8

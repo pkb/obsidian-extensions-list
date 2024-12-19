@@ -2,12 +2,12 @@
 aliases:
 - Day One Importer
 author:
-- '[[marcdonald|Marc Donald]]'
+- '[[authors/marcdonald|Marc Donald]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 - '[[categories/Import|Import]]'
 description: Import Day One journals
-downloads: 826
+downloads: 842
 mobile: false
 number: 1627
 stars: 6

@@ -2,10 +2,10 @@
 aliases:
 - Key-Value List
 author:
-- '[[christianwannerstedt|Christian Wannerstedt]]'
+- '[[authors/christianwannerstedt|Christian Wannerstedt]]'
 categories: []
 description: Makes it easy to turn lists into formatted key-value lists.
-downloads: 4682
+downloads: 4707
 mobile: true
 number: 1301
 stars: 34

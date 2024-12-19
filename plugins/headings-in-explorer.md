@@ -2,10 +2,10 @@
 aliases:
 - Headings in Explorer
 author:
-- '[[patrickchiang|patrickchiang]]'
+- '[[authors/patrickchiang|patrickchiang]]'
 categories: []
 description: Show headings in the file explorer.
-downloads: 510
+downloads: 522
 mobile: false
 number: 1705
 stars: 7

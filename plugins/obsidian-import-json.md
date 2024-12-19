@@ -2,12 +2,12 @@
 aliases:
 - JSON/CSV Importer
 author:
-- '[[farling42|farling42]]'
+- '[[authors/farling42|farling42]]'
 categories:
 - '[[categories/Import|Import]]'
 description: This plugin imports a JSON/CSV file (or text block) and creates notes
   from a Handlebars template file
-downloads: 41578
+downloads: 41858
 mobile: false
 number: 391
 stars: 91

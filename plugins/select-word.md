@@ -2,10 +2,10 @@
 aliases:
 - Select word
 author:
-- '[[ConnorEspino|Connor Espino]]'
+- '[[authors/ConnorEspino|Connor Espino]]'
 categories: []
 description: Selects the word that is closest to the caret.
-downloads: 197
+downloads: 202
 mobile: true
 number: 1639
 stars: 1

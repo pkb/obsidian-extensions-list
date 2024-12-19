@@ -2,10 +2,10 @@
 aliases:
 - Daily Random Note
 author:
-- '[[D4rkP1xel|Alexandre Silva]]'
+- '[[authors/D4rkP1xel|Alexandre Silva]]'
 categories: []
 description: Automatically open daily random notes based on your preferences.
-downloads: 137
+downloads: 150
 mobile: false
 number: 2005
 stars: 1

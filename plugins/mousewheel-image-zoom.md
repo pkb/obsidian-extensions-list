@@ -2,11 +2,11 @@
 aliases:
 - Mousewheel Image zoom
 author:
-- '[[nicojeske|Nico Jeske]]'
+- '[[authors/nicojeske|Nico Jeske]]'
 categories: []
 description: This plugin enables you to increase/decrease the size of an image by
   scrolling
-downloads: 89460
+downloads: 90179
 mobile: false
 number: 355
 stars: 93

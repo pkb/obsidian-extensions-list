@@ -2,12 +2,12 @@
 aliases:
 - Typefully
 author:
-- '[[dsebastien|Sébastien Dubois]]'
+- '[[authors/dsebastien|Sébastien Dubois]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Typefully integration. Publish social media posts with ease
-downloads: 95
+downloads: 100
 mobile: true
 number: 1940
 stars: 8

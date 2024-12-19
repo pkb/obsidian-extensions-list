@@ -2,11 +2,11 @@
 aliases:
 - Confluence Import
 author:
-- '[[KkEi34|K]]'
+- '[[authors/KkEi34|K]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Confluence space into Obsidian vault
-downloads: 4829
+downloads: 4848
 mobile: false
 number: 959
 stars: 31

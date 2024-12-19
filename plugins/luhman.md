@@ -2,10 +2,10 @@
 aliases:
 - Luhman
 author:
-- '[[Dyldog|Dylan Elliott]]'
+- '[[authors/Dyldog|Dylan Elliott]]'
 categories: []
 description: Commands for handling a zettelkasten with Luhmann-style IDs as filenames
-downloads: 14602
+downloads: 14657
 mobile: true
 number: 270
 stars: 61

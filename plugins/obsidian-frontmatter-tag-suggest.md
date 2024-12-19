@@ -2,10 +2,10 @@
 aliases:
 - Frontmatter Tag Suggest
 author:
-- '[[jmilldotdev|Jonathan Miller]]'
+- '[[authors/jmilldotdev|Jonathan Miller]]'
 categories: []
 description: Autocompletes tags in the frontmatter tags field
-downloads: 22173
+downloads: 22251
 mobile: true
 number: 411
 stars: 112

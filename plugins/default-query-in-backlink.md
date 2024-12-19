@@ -2,10 +2,10 @@
 aliases:
 - Default query in backlinks
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories: []
 description: Automatically input default query in search input of backlinks in document.
-downloads: 1603
+downloads: 1610
 mobile: true
 number: 1523
 stars: 6

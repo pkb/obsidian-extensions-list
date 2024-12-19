@@ -2,11 +2,11 @@
 aliases:
 - Lunar Calendar
 author:
-- '[[WHG555|OSmile]]'
+- '[[authors/WHG555|OSmile]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 一个支持农历的日历
-downloads: 3223
+downloads: 3231
 mobile: false
 number: 1204
 stars: 3

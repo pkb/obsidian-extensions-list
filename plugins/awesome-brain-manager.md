@@ -2,19 +2,19 @@
 aliases:
 - Awesome Brain Manager
 author:
-- '[[JuckZ|Juck]]'
+- '[[authors/JuckZ|Juck]]'
 categories: []
 description: A toolkit tries to solve all the trivial problems most people usually
   encountered in obsidian.
-downloads: 7375
+downloads: 7452
 mobile: true
 number: 831
 stars: 89
 title: Awesome Brain Manager
 type: plugin
-updated: '2023-10-25T19:36:11'
+updated: '2024-12-17T20:41:22'
 url: https://github.com/JuckZ/awesome-brain-manager
-version: 1.11.0
+version: 1.12.1
 ---
 
 %% README_START %%
@@ -55,7 +55,7 @@ version: 1.11.0
 <details open>
   <summary><h2>📝 Documentation </h2></summary>
 
-  To check out docs, visit [English Doc](https://abm.timesavior.io) or [中文文档](https://abm.timesavior.io/zh)
+  To check out docs, visit [English Doc](https://abm.ihave.cool) or [中文文档](https://abm.ihave.cool/zh)
 
 </details>
 

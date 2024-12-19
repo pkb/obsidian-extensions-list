@@ -2,12 +2,12 @@
 aliases:
 - Apple Books - Import Highlights
 author:
-- '[[bandantonio|bandantonio]]'
+- '[[authors/bandantonio|bandantonio]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import your Apple Books highlights and notes to Obsidian.
-downloads: 3561
+downloads: 3606
 mobile: false
 number: 1377
 stars: 55

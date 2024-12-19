@@ -2,15 +2,15 @@
 aliases:
 - Augmented Canvas
 author:
-- '[[MetaCorp|MetaCorp]]'
+- '[[authors/MetaCorp|MetaCorp]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Canvas|Canvas]]'
 description: Obsidian Canvas with AI features.
-downloads: 2091
+downloads: 2142
 mobile: true
 number: 1471
-stars: 68
+stars: 69
 title: Augmented Canvas
 type: plugin
 updated: '2024-11-24T21:07:22'

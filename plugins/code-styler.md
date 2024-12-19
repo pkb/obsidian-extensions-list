@@ -2,14 +2,14 @@
 aliases:
 - Code Styler
 author:
-- '[[mayurankv|Mayuran Visakan]]'
+- '[[authors/mayurankv|Mayuran Visakan]]'
 categories: []
 description: Style and customize codeblocks and inline code in both editing mode and
   reading mode.
-downloads: 57362
+downloads: 58845
 mobile: true
 number: 1021
-stars: 296
+stars: 299
 title: Code Styler
 type: plugin
 updated: '2024-02-23T19:32:40'

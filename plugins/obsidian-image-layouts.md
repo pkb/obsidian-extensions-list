@@ -2,13 +2,13 @@
 aliases:
 - Image Layouts
 author:
-- '[[vertis|Luke Chadwick]]'
+- '[[authors/vertis|Luke Chadwick]]'
 categories: []
 description: Add beautiful image layouts to your notes
-downloads: 17171
+downloads: 17384
 mobile: true
 number: 689
-stars: 143
+stars: 146
 title: Image Layouts
 type: plugin
 updated: '2024-07-12T23:47:35'

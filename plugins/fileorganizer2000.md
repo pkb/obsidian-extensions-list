@@ -2,19 +2,19 @@
 aliases:
 - AI File Organizer 2000
 author:
-- '[[different-ai|Benjamin Ashgan Shafii]]'
+- '[[authors/different-ai|Benjamin Ashgan Shafii]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI assistant to organize and chat with your vault
-downloads: 15097
+downloads: 15559
 mobile: false
 number: 1456
-stars: 401
+stars: 412
 title: AI File Organizer 2000
 type: plugin
-updated: '2024-12-06T22:26:34'
+updated: '2024-12-12T18:25:23'
 url: https://github.com/different-ai/file-organizer-2000
-version: 1.130.0
+version: 1.131.1
 ---
 
 %% README_START %%

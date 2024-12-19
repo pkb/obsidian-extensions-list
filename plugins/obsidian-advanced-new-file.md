@@ -2,10 +2,10 @@
 aliases:
 - Advanced new file
 author:
-- '[[vanadium23|vanadium23]]'
+- '[[authors/vanadium23|vanadium23]]'
 categories: []
 description: This is a plugin for choosing folder on note creation.
-downloads: 18056
+downloads: 18120
 mobile: true
 number: 208
 stars: 63

@@ -2,13 +2,13 @@
 aliases:
 - Fast Image Auto Uploader
 author:
-- '[[eust-w|Longtao Wu]]'
+- '[[authors/eust-w|Longtao Wu]]'
 categories: []
 description: Uploads clipboard images using goPic
-downloads: 198
+downloads: 202
 mobile: false
 number: 1817
-stars: 24
+stars: 26
 title: Fast Image Auto Uploader
 type: plugin
 updated: '2024-07-24T18:00:28'

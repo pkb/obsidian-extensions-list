@@ -2,12 +2,12 @@
 aliases:
 - Beautiful Contact Cards
 author:
-- '[[seth10|Seth Tenembaum]]'
+- '[[authors/seth10|Seth Tenembaum]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Renders "contact" code blocks with tappable links for phone, social media,
   etc.
-downloads: 155
+downloads: 188
 mobile: true
 number: 2012
 stars: 2

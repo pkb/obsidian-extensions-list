@@ -2,10 +2,10 @@
 aliases:
 - Daily Prompt
 author:
-- '[[Erl-koenig|Erl-koenig]]'
+- '[[authors/Erl-koenig|Erl-koenig]]'
 categories: []
 description: Set up custom prompts and automatically fill them into your daily notes
-downloads: 839
+downloads: 847
 mobile: true
 number: 1582
 stars: 4

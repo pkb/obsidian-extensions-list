@@ -2,14 +2,14 @@
 aliases:
 - Edge TTS
 author:
-- '[[travisvn|Travis]]'
+- '[[authors/travisvn|Travis]]'
 categories: []
 description: Read notes aloud using Microsoft Edge Read Aloud API (free, high quality
   text-to-speech).
-downloads: 1181
+downloads: 1379
 mobile: true
 number: 1998
-stars: 32
+stars: 38
 title: Edge TTS
 type: plugin
 updated: '2024-12-04T03:15:25'
@@ -24,7 +24,8 @@ version: 1.5.0
 <p align="center">
 	<a href="https://github.com/travisvn/obsidian-edge-tts">
 		<img src="https://img.shields.io/github/stars/travisvn/obsidian-edge-tts?style=social" alt="GitHub stars"></a>
-    <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%27edge-tts%27%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json" alt="Obsidian downloads">
+	<a href="https://tts.travisvn.com/obsidian" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%27edge-tts%27%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json" alt="Obsidian downloads"></a>
 	<a href="https://github.com/travisvn/obsidian-edge-tts/releases">
 		<img src="https://img.shields.io/github/v/release/travisvn/obsidian-edge-tts" alt="GitHub release"></a>
 	<a href="https://github.com/travisvn/obsidian-edge-tts/issues">
@@ -53,6 +54,8 @@ The **Obsidian Edge TTS Plugin** is a community plugin for [Obsidian](https://ob
 - Listen to voice samples before selecting a voice (via [tts.travisvn.com](https://tts.travisvn.com))
 
 ## Installation
+
+[Install Obsidian plugin](https://tts.travisvn.com/obsidian)
 
 1. Open Obsidian
 2. Go to **Settings** → **Community Plugins**

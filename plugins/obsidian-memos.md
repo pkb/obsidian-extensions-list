@@ -2,11 +2,11 @@
 aliases:
 - Thino
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Capturing ideas and save them into daily notes. (Closed source)
-downloads: 188486
+downloads: 189821
 mobile: true
 number: 397
 stars: 1100

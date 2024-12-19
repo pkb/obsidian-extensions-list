@@ -2,11 +2,11 @@
 aliases:
 - Ctrl-XA cycle various items
 author:
-- '[[nbossard|Nicolas BOSSARD]]'
+- '[[authors/nbossard|Nicolas BOSSARD]]'
 categories: []
 description: Cycle through various items with keyboard shortcuts. Such as days, months,
   log level,... anything you need.
-downloads: 1319
+downloads: 1327
 mobile: true
 number: 1360
 stars: 5

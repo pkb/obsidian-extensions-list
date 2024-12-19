@@ -2,12 +2,12 @@
 aliases:
 - Askify Sync
 author:
-- '[[helloworldkr|Askify founders]]'
+- '[[authors/helloworldkr|Askify founders]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This plugin help to sync notes from Askify (https://askify.video/) to
   Obsidian
-downloads: 3551
+downloads: 3558
 mobile: false
 number: 924
 stars: 10

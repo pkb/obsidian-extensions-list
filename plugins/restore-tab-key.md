@@ -2,11 +2,11 @@
 aliases:
 - Restore Tab Key
 author:
-- '[[jrymk|jerrymk]]'
+- '[[authors/jrymk|jerrymk]]'
 categories: []
 description: 'Restore tab key behaviour: tab key inserts a tab character, the way
   it should be.'
-downloads: 9434
+downloads: 9503
 mobile: true
 number: 793
 stars: 48

@@ -2,14 +2,14 @@
 aliases:
 - Mononote
 author:
-- '[[czottmann|Carlo Zottmann]]'
+- '[[authors/czottmann|Carlo Zottmann]]'
 categories: []
 description: Ensures each note occupies only one tab. If a note is already open, its
   existing tab will be focussed instead of opening the same file in the current tab.
-downloads: 14499
+downloads: 14728
 mobile: true
 number: 1142
-stars: 104
+stars: 105
 title: Mononote
 type: plugin
 updated: '2024-06-24T18:30:18'

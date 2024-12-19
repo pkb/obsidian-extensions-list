@@ -2,11 +2,11 @@
 aliases:
 - Password Protect
 author:
-- '[[Aspharmyx|Aspharmyx]]'
+- '[[authors/Aspharmyx|Aspharmyx]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Password protect your notes.
-downloads: 1743
+downloads: 1778
 mobile: true
 number: 1534
 stars: 0

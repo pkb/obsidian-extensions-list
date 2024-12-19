@@ -2,11 +2,11 @@
 aliases:
 - MantouAI
 author:
-- '[[ravenSanstete|Morino Pan]]'
+- '[[authors/ravenSanstete|Morino Pan]]'
 categories: []
 description: Work as a personal assistant for translation, writing polish, general
   Q&A, summarizing, using the power of large language models.
-downloads: 1936
+downloads: 1954
 mobile: true
 number: 1487
 stars: 84

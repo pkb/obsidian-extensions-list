@@ -2,11 +2,11 @@
 aliases:
 - Soomda
 author:
-- '[[michaellee|Michael Lee]]'
+- '[[authors/michaellee|Michael Lee]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Quickly hide your sidebars
-downloads: 3568
+downloads: 3571
 mobile: false
 number: 888
 stars: 9

@@ -3,13 +3,13 @@ aliases:
 - 2Hop Links Plus
 author:
 - '[[authors/Tokuhiro Matsuno|Tokuhiro Matsuno]]'
-- '[[L7Cy|L7Cy]]'
+- '[[authors/L7Cy|L7Cy]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Related links up to 2 hops away are displayed in a card format, allowing
   for easy browsing through connections between notes. Each card contains a preview
   of the corresponding note.
-downloads: 9669
+downloads: 9743
 mobile: true
 number: 1129
 stars: 64

@@ -2,11 +2,11 @@
 aliases:
 - Vocabulary View
 author:
-- '[[nnshi-s|]]'
+- '[[authors/nnshi-s|]]'
 categories: []
 description: Write down some words with their explanations and preview them in a vocabulary
   test style
-downloads: 6800
+downloads: 6823
 mobile: true
 number: 311
 stars: 25

@@ -2,10 +2,10 @@
 aliases:
 - Mathematica Plot
 author:
-- '[[MarcosNicolau|Marcos Nicolau]]'
+- '[[authors/MarcosNicolau|Marcos Nicolau]]'
 categories: []
 description: Render graphs using Wolfram Mathematica code!
-downloads: 1854
+downloads: 1867
 mobile: false
 number: 1401
 stars: 17

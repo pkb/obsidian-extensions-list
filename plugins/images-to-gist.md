@@ -2,11 +2,11 @@
 aliases:
 - Images to Gist
 author:
-- '[[singh-inder|Inder Singh]]'
+- '[[authors/singh-inder|Inder Singh]]'
 categories: []
 description: Upload images to your GitHub secret Gists. Also, resize uploaded images
   on the fly.
-downloads: 265
+downloads: 274
 mobile: true
 number: 1810
 stars: 6

@@ -2,13 +2,13 @@
 aliases:
 - Text to Speech
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Hear your notes.
-downloads: 25582
+downloads: 25712
 mobile: true
 number: 372
-stars: 80
+stars: 81
 title: Text to Speech
 type: plugin
 updated: '2024-02-20T02:15:20'

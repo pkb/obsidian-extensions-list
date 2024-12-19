@@ -2,15 +2,15 @@
 aliases:
 - Task Collector (TC)
 author:
-- '[[ebullient|ebullient]]'
+- '[[authors/ebullient|ebullient]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Change task status and collect tasks within a document using hotkeys
   and context menus.
-downloads: 27998
+downloads: 28118
 mobile: true
 number: 302
-stars: 212
+stars: 213
 title: Task Collector (TC)
 type: plugin
 updated: '2024-10-30T03:10:11'

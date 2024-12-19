@@ -2,15 +2,15 @@
 aliases:
 - QuickShare
 author:
-- '[[mcndt|Maxime Cannoodt (@mcndt)]]'
+- '[[authors/mcndt|Maxime Cannoodt (@mcndt)]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Securely share your Obsidian notes with one click. Notes are end-to-end
   encrypted. No API keys or configuration required.
-downloads: 21559
+downloads: 21664
 mobile: true
 number: 588
-stars: 255
+stars: 256
 title: QuickShare
 type: plugin
 updated: '2023-01-07T14:36:55'

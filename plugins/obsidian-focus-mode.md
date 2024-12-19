@@ -2,10 +2,10 @@
 aliases:
 - Focus Mode
 author:
-- '[[ryanpcmcquen|ryanpcmcquen]]'
+- '[[authors/ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Add Focus Mode to Obsidian.
-downloads: 47777
+downloads: 48207
 mobile: true
 number: 167
 stars: 70

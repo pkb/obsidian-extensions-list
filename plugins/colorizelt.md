@@ -2,11 +2,11 @@
 aliases:
 - Colorizelt
 author:
-- '[[WiNE-iNEFF|Artsem Holub (WiNE-iNEFF)]]'
+- '[[authors/WiNE-iNEFF|Artsem Holub (WiNE-iNEFF)]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Easy color and clear selected text
-downloads: 703
+downloads: 746
 mobile: true
 number: 1917
 stars: 1

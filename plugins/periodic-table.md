@@ -2,10 +2,10 @@
 aliases:
 - Periodic Table
 author:
-- '[[Jake-Cramer|jake-cramer]]'
+- '[[authors/Jake-Cramer|jake-cramer]]'
 categories: []
 description: View a periodic table in the sidebar
-downloads: 3166
+downloads: 3181
 mobile: false
 number: 1291
 stars: 3

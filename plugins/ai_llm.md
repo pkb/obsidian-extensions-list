@@ -2,15 +2,15 @@
 aliases:
 - AI LLM
 author:
-- '[[Sparky4567|Sparky4567]]'
+- '[[authors/Sparky4567|Sparky4567]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Integrate local machine learning (OLLAMA) functionality into your notes,
   enhancing their capabilities
-downloads: 3383
+downloads: 3439
 mobile: true
 number: 1548
-stars: 39
+stars: 42
 title: AI LLM
 type: plugin
 updated: '2024-06-30T14:09:13'

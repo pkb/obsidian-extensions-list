@@ -2,11 +2,11 @@
 aliases:
 - Typezen
 author:
-- '[[IlgamGabdullin|Ilgam Gabdullin]]'
+- '[[authors/IlgamGabdullin|Ilgam Gabdullin]]'
 categories: []
 description: Type and get in zen mode instantly, no more distraction between you and
   your thoughts
-downloads: 299
+downloads: 330
 mobile: false
 number: 2006
 stars: 3

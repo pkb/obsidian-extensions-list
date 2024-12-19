@@ -2,11 +2,11 @@
 aliases:
 - Pintora
 author:
-- '[[amiaslee|Amias Lee]]'
+- '[[authors/amiaslee|Amias Lee]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Generates diagrams using Pintora
-downloads: 126
+downloads: 131
 mobile: true
 number: 1904
 stars: 4

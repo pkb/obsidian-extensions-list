@@ -2,11 +2,11 @@
 aliases:
 - File Order
 author:
-- '[[lukasbach|Lukas Bach]]'
+- '[[authors/lukasbach|Lukas Bach]]'
 categories: []
 description: Use number-prefixes in your file names to define a custom order, and
   drag-and-drop the files to update that order
-downloads: 25185
+downloads: 25458
 mobile: true
 number: 871
 stars: 68

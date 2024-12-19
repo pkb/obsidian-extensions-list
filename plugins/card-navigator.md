@@ -2,10 +2,10 @@
 aliases:
 - Card Navigator
 author:
-- '[[wakeyi-git|wakeyi]]'
+- '[[authors/wakeyi-git|wakeyi]]'
 categories: []
 description: Navigate your notes visually with card-based interface
-downloads: 369
+downloads: 396
 mobile: true
 number: 1896
 stars: 13

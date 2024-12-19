@@ -4,10 +4,10 @@ aliases:
 author:
 - '[[authors/LukeMT|LukeMT]]'
 - '[[authors/pashashocky|pashashocky]]'
-- '[[lukemt|madx]]'
+- '[[authors/lukemt|madx]]'
 categories: []
 description: Create feeds of topic-specific bullet points in Obsidian.
-downloads: 2476
+downloads: 2480
 mobile: true
 number: 1287
 stars: 24

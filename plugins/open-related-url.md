@@ -2,10 +2,10 @@
 aliases:
 - Open Related Url
 author:
-- '[[dpickett|Dan Pickett]]'
+- '[[authors/dpickett|Dan Pickett]]'
 categories: []
 description: Opens URLs found in a note's YAML frontmatter
-downloads: 3991
+downloads: 3992
 mobile: true
 number: 575
 stars: 20

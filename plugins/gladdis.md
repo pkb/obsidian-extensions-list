@@ -2,11 +2,11 @@
 aliases:
 - Gladdis
 author:
-- '[[AurelienStebe|Aurélien Stébé]]'
+- '[[authors/AurelienStebe|Aurélien Stébé]]'
 categories: []
 description: Gladdis (Generative Language Artificial Dedicated & Diligent Intelligence
   System) - it's an AI chatbot.
-downloads: 3066
+downloads: 3089
 mobile: true
 number: 1233
 stars: 39

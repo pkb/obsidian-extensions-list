@@ -2,10 +2,10 @@
 aliases:
 - Immich
 author:
-- '[[Talal-A|Talal Abou Haiba]]'
+- '[[authors/Talal-A|Talal Abou Haiba]]'
 categories: []
 description: Link your Immich images within your vault.
-downloads: 95
+downloads: 100
 mobile: true
 number: 1894
 stars: 7

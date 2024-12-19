@@ -2,10 +2,10 @@
 aliases:
 - Dialogue
 author:
-- '[[holubj|Jakub Holub]]'
+- '[[authors/holubj|Jakub Holub]]'
 categories: []
 description: Create dialogues in Markdown.
-downloads: 14796
+downloads: 14884
 mobile: true
 number: 365
 stars: 144

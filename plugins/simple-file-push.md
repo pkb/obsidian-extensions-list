@@ -2,10 +2,10 @@
 aliases:
 - Simple File Push
 author:
-- '[[huedaya|Kim Hudaya]]'
+- '[[authors/huedaya|Kim Hudaya]]'
 categories: []
 description: Push Markdown file to API endpoint.
-downloads: 1009
+downloads: 1016
 mobile: true
 number: 1432
 stars: 5

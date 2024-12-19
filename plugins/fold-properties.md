@@ -2,10 +2,10 @@
 aliases:
 - Fold Properties
 author:
-- '[[itsonlyjames|James Alexandre]]'
+- '[[authors/itsonlyjames|James Alexandre]]'
 categories: []
 description: Adds fold/unfold properties function to folder context menu
-downloads: 265
+downloads: 317
 mobile: true
 number: 1966
 stars: 3

@@ -2,14 +2,14 @@
 aliases:
 - Neo4j Graph View
 author:
-- '[[HEmile|Emile]]'
+- '[[authors/HEmile|Emile]]'
 categories: []
 description: An Obsidian plugin for advanced graph visualization and querying using
   Neo4j.
-downloads: 9413
+downloads: 9438
 mobile: false
 number: 61
-stars: 84
+stars: 85
 title: Neo4j Graph View
 type: plugin
 updated: '2021-04-19T20:21:41'

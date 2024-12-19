@@ -2,14 +2,14 @@
 aliases:
 - Daily Activity
 author:
-- '[[trydalch|Trevor Rydalch]]'
+- '[[authors/trydalch|Trevor Rydalch]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: A collection of commands to track your writing activity.
-downloads: 13922
+downloads: 13959
 mobile: true
 number: 100
-stars: 43
+stars: 44
 title: Daily Activity
 type: plugin
 updated: '2024-02-18T00:20:32'

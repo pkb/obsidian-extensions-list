@@ -2,11 +2,11 @@
 aliases:
 - Laws of Form
 author:
-- '[[Kevger|Kevin German]]'
+- '[[authors/Kevger|Kevin German]]'
 categories: []
 description: Allows you to create, manage and display Laws of Form expressions like
   ((a)) (b) = a (b).
-downloads: 3212
+downloads: 3215
 mobile: true
 number: 1010
 stars: 3

@@ -2,11 +2,11 @@
 aliases:
 - Serendipity
 author:
-- '[[ggauravr|Gaurav Ramesh]]'
+- '[[authors/ggauravr|Gaurav Ramesh]]'
 categories: []
 description: Forces serendipitous discoveries by displaying random notes from your
   vault each time you open the app
-downloads: 339
+downloads: 355
 mobile: true
 number: 1855
 stars: 3

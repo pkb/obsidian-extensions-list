@@ -2,15 +2,15 @@
 aliases:
 - Epub Importer
 author:
-- '[[aoout|aoout]]'
+- '[[authors/aoout|aoout]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Other formats|Other formats]]'
 description: Import EPUB files as Markdown.
-downloads: 13839
+downloads: 14149
 mobile: false
 number: 1261
-stars: 135
+stars: 136
 title: Epub Importer
 type: plugin
 updated: '2024-11-24T13:06:52'

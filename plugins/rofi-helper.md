@@ -2,11 +2,11 @@
 aliases:
 - Rofi Helper
 author:
-- '[[digitalsignalperson|digitalsignalperson]]'
+- '[[authors/digitalsignalperson|digitalsignalperson]]'
 categories: []
 description: This plugin adds a leaf id parameter to the URI protocol for switching
   between open obsidian tabs with Rofi. A sample Rofi script is included.
-downloads: 3201
+downloads: 3203
 mobile: false
 number: 934
 stars: 17

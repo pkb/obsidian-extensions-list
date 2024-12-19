@@ -2,14 +2,14 @@
 aliases:
 - Infostacker Note Publish
 author:
-- '[[authors/taskscape|Taskscape LTD]]'
+- '[[authors/Taskscape LTD|Taskscape LTD]]'
 - '[[authors/Patryk Nowak|Patryk Nowak]]'
 - '[[authors/taskscape|Kacper Pabianiak]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Easily share your notes, images and attachments publicly using private
   links
-downloads: 264
+downloads: 268
 mobile: true
 number: 1699
 stars: 2

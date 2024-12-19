@@ -2,10 +2,10 @@
 aliases:
 - Simple Citations
 author:
-- '[[masaki39|masaki39]]'
+- '[[authors/masaki39|masaki39]]'
 categories: []
 description: Add & update simple literature notes from Zotero.
-downloads: 811
+downloads: 831
 mobile: false
 number: 1620
 stars: 4

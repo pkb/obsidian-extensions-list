@@ -2,11 +2,11 @@
 aliases:
 - Aggregator
 author:
-- '[[Seraphli|SErAphLi]]'
+- '[[authors/Seraphli|SErAphLi]]'
 categories: []
 description: This plugin helps you gather information from files, and make a summary
   in the file.
-downloads: 4266
+downloads: 4272
 mobile: true
 number: 707
 stars: 26

@@ -2,10 +2,10 @@
 aliases:
 - Truth Table+
 author:
-- '[[Max-Schulten|Maximilian Schulten]]'
+- '[[authors/Max-Schulten|Maximilian Schulten]]'
 categories: []
 description: Generate truth tables quickly in your .md files
-downloads: 299
+downloads: 309
 mobile: true
 number: 1832
 stars: 3

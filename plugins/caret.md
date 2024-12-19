@@ -2,13 +2,13 @@
 aliases:
 - Caret
 author:
-- '[[jcollingj|Jake Colling]]'
+- '[[authors/jcollingj|Jake Colling]]'
 categories: []
 description: Accelerate your work with LLMs in canvas and your notes
-downloads: 2919
+downloads: 2997
 mobile: false
 number: 1792
-stars: 119
+stars: 122
 title: Caret
 type: plugin
 updated: '2024-11-19T02:03:39'

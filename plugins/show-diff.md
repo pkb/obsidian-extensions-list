@@ -2,10 +2,10 @@
 aliases:
 - Show Diff
 author:
-- '[[ivan-lednev|Ivan Lednev]]'
+- '[[authors/ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Render Git diffs in Obsidian files
-downloads: 3712
+downloads: 3721
 mobile: false
 number: 918
 stars: 18

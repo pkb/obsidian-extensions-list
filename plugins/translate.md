@@ -2,13 +2,13 @@
 aliases:
 - Translate
 author:
-- '[[Fevol|Fevol]]'
+- '[[authors/Fevol|Fevol]]'
 categories: []
 description: Translate text and notes with Google Translate, DeepL, Azure, and more.
-downloads: 31627
+downloads: 31962
 mobile: true
 number: 714
-stars: 103
+stars: 105
 title: Translate
 type: plugin
 updated: '2024-07-02T18:46:05'

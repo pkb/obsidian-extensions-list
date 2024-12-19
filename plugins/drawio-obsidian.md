@@ -2,16 +2,16 @@
 aliases:
 - Diagrams
 author:
-- '[[zapthedingbat|Sam Greenhalgh]]'
+- '[[authors/zapthedingbat|Sam Greenhalgh]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Draw.io diagrams for Obsidian. This plugin introduces diagrams that can
   be included within notes or as stand-alone files. Diagrams are created as SVG files
   (although .drawio extensions are also supported).
-downloads: 104070
+downloads: 104925
 mobile: false
 number: 268
-stars: 461
+stars: 463
 title: Diagrams
 type: plugin
 updated: '2021-10-21T15:59:35'

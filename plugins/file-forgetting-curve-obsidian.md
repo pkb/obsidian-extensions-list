@@ -2,10 +2,10 @@
 aliases:
 - File Forgetting Curve
 author:
-- '[[ptrsvltns|ptrsvltns]]'
+- '[[authors/ptrsvltns|ptrsvltns]]'
 categories: []
 description: File Forgetting Curve
-downloads: 3440
+downloads: 3443
 mobile: false
 number: 725
 stars: 19

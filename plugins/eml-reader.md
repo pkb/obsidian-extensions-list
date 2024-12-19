@@ -2,10 +2,10 @@
 aliases:
 - Email Reader
 author:
-- '[[pulsovi|Pulsovi]]'
+- '[[authors/pulsovi|Pulsovi]]'
 categories: []
 description: Provide a preview mode for embeded `*.eml` files.
-downloads: 4583
+downloads: 4610
 mobile: true
 number: 1153
 stars: 9

@@ -2,11 +2,11 @@
 aliases:
 - Link Headers Directly
 author:
-- '[[Signynt|Signynt]]'
+- '[[authors/Signynt|Signynt]]'
 categories: []
 description: When a header is linked, preview mode will show only the header, and
   not the note name.
-downloads: 7771
+downloads: 7789
 mobile: true
 number: 324
 stars: 21

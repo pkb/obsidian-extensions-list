@@ -2,14 +2,14 @@
 aliases:
 - Version History Diff
 author:
-- '[[kometenstaub|kometenstaub]]'
+- '[[authors/kometenstaub|kometenstaub]]'
 categories: []
 description: Diff the version history of the core Sync and File Recovery plugins and
   Git. Adds a command to open the core Sync version history as well.
-downloads: 30097
+downloads: 30282
 mobile: true
 number: 464
-stars: 116
+stars: 117
 title: Version History Diff
 type: plugin
 updated: '2024-05-19T02:07:05'

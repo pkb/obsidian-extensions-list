@@ -2,10 +2,10 @@
 aliases:
 - Canvas Presentation
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories: []
 description: A plugin to help you display cards based on sequence.
-downloads: 10795
+downloads: 10831
 mobile: true
 number: 723
 stars: 79

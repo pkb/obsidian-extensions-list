@@ -2,11 +2,11 @@
 aliases:
 - AI Zhipu
 author:
-- '[[TarsLab|Tarslab]]'
+- '[[authors/TarsLab|Tarslab]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate text using the ZhipuAI API.
-downloads: 1354
+downloads: 1381
 mobile: true
 number: 1544
 stars: 21

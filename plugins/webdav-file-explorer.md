@@ -2,13 +2,13 @@
 aliases:
 - Webdav File Explorer
 author:
-- '[[red0orange|red0orange]]'
+- '[[authors/red0orange|red0orange]]'
 categories: []
 description: A webdav file explorer for Obsidian.
-downloads: 4196
+downloads: 4215
 mobile: false
 number: 1117
-stars: 13
+stars: 14
 title: Webdav File Explorer
 type: plugin
 updated: '2024-10-23T20:53:17'

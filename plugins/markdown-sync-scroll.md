@@ -2,13 +2,13 @@
 aliases:
 - Markdown Sync Scroll
 author:
-- '[[XeroAlpha|ProjectXero]]'
+- '[[authors/XeroAlpha|ProjectXero]]'
 categories: []
 description: Allow two linked markdown views to scroll synchronously.
-downloads: 3566
+downloads: 3577
 mobile: false
 number: 1024
-stars: 3
+stars: 4
 title: Markdown Sync Scroll
 type: plugin
 updated: '2023-07-13T14:32:37'

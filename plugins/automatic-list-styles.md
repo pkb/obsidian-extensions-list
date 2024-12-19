@@ -2,12 +2,12 @@
 aliases:
 - Automatic List Styles
 author:
-- '[[WiseGuru|Max McGuire]]'
+- '[[authors/WiseGuru|Max McGuire]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Automatically formats the styles of ordered lists, incrementing the list
   style for each layer
-downloads: 5541
+downloads: 5575
 mobile: true
 number: 964
 stars: 15

@@ -2,11 +2,11 @@
 aliases:
 - Boost Link Suggestions
 author:
-- '[[jglev|Jacob Levernier]]'
+- '[[authors/jglev|Jacob Levernier]]'
 categories: []
 description: An Obsidian (https://obsidian.md) plugin offering an llternative inline
   link suggester that orders results by link count and manual boosts.
-downloads: 6868
+downloads: 6871
 mobile: true
 number: 740
 stars: 10

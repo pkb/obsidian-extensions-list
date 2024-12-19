@@ -2,10 +2,10 @@
 aliases:
 - MarginNote Companion
 author:
-- '[[aidenlx|AidenLx]]'
+- '[[authors/aidenlx|AidenLx]]'
 categories: []
 description: An Obsidian plugin to bridge MarginNote 3 and Obsidian
-downloads: 12977
+downloads: 13018
 mobile: true
 number: 297
 stars: 164

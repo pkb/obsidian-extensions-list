@@ -2,12 +2,12 @@
 aliases:
 - 'Interactivity: Calculations and Scripts'
 author:
-- '[[ichichikin|ichichikin]]'
+- '[[authors/ichichikin|ichichikin]]'
 categories: []
 description: Interactivity allows you to run shell commands and scripts directly within
   your notes, providing their output right alongside your written content, making
   your note-taking process more dynamic and interactive.
-downloads: 814
+downloads: 852
 mobile: true
 number: 1663
 stars: 21

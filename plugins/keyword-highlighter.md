@@ -2,11 +2,11 @@
 aliases:
 - Keyword Highlighter
 author:
-- '[[marcel-goldammer|Marcel Goldammer]]'
+- '[[authors/marcel-goldammer|Marcel Goldammer]]'
 categories: []
 description: Automatically highlight specified keywords within your Obsidian notes
   for enhanced visibility and quick reference.
-downloads: 5718
+downloads: 5766
 mobile: true
 number: 1253
 stars: 22

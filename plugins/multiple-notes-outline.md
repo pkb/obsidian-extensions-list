@@ -2,11 +2,11 @@
 aliases:
 - Multiple Notes Outline
 author:
-- '[[iiz00|iiz]]'
+- '[[authors/iiz00|iiz]]'
 categories: []
 description: Add custom views which show outlines of multiple notes with headings,
   links, tags and list items.
-downloads: 6157
+downloads: 6189
 mobile: true
 number: 1144
 stars: 36

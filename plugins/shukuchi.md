@@ -2,10 +2,10 @@
 aliases:
 - Shukuchi
 author:
-- '[[tadashi-aikawa|tadashi-aikawa]]'
+- '[[authors/tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: Teleport to links (URL or internal link) and jump to their destinations.
-downloads: 3868
+downloads: 3874
 mobile: true
 number: 965
 stars: 22

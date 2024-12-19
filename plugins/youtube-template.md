@@ -2,13 +2,13 @@
 aliases:
 - YouTube Template
 author:
-- '[[sundevista|sundevista]]'
+- '[[authors/sundevista|sundevista]]'
 categories: []
 description: A plugin that would help you to fetch YouTube videos data into your vault.
-downloads: 4672
+downloads: 4717
 mobile: true
 number: 1352
-stars: 29
+stars: 30
 title: YouTube Template
 type: plugin
 updated: '2024-08-15T18:43:14'

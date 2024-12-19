@@ -2,14 +2,14 @@
 aliases:
 - Codeblock Customizer
 author:
-- '[[mugiwara85|mugiwara]]'
+- '[[authors/mugiwara85|mugiwara]]'
 categories: []
 description: This Obsidian plugin lets you customize your codeblocks in editing, and
   reading mode as well.
-downloads: 24363
+downloads: 24611
 mobile: true
 number: 882
-stars: 185
+stars: 186
 title: Codeblock Customizer
 type: plugin
 updated: '2024-09-24T02:15:49'

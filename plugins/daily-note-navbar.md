@@ -2,10 +2,10 @@
 aliases:
 - Daily Note Navbar
 author:
-- '[[karstenpedersen|Karsten F. Pedersen]]'
+- '[[authors/karstenpedersen|Karsten F. Pedersen]]'
 categories: []
 description: Navigate between sequential daily notes with ease.
-downloads: 3872
+downloads: 3922
 mobile: true
 number: 1503
 stars: 45

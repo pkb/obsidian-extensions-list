@@ -2,12 +2,12 @@
 aliases:
 - Copy document as HTML
 author:
-- '[[mvdkwast|mvdkwast]]'
+- '[[authors/mvdkwast|mvdkwast]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Copy the current document to clipboard as HTML, including images, diagrams
   etc...
-downloads: 21995
+downloads: 22190
 mobile: false
 number: 669
 stars: 50

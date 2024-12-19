@@ -2,10 +2,10 @@
 aliases:
 - External File Card
 author:
-- '[[James-Yu|James-Yu]]'
+- '[[authors/James-Yu|James-Yu]]'
 categories: []
 description: Display file cards for external files.
-downloads: 267
+downloads: 273
 mobile: true
 number: 1859
 stars: 5

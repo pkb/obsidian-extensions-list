@@ -2,14 +2,14 @@
 aliases:
 - Track-a-Lot
 author:
-- '[[revolter|Iulian Onofrei]]'
+- '[[authors/revolter|Iulian Onofrei]]'
 categories: []
 description: Scrape different webpages, builds lists with the items as Markdown tables,
   and allows you to track their status.
-downloads: 1678
+downloads: 1703
 mobile: true
 number: 1469
-stars: 10
+stars: 11
 title: Track-a-Lot
 type: plugin
 updated: '2024-06-22T19:10:48'

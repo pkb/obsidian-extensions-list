@@ -2,10 +2,10 @@
 aliases:
 - Fantasy name generator
 author:
-- '[[lukewh|Lukewh]]'
+- '[[authors/lukewh|Lukewh]]'
 categories: []
 description: Insert a random fantasy name.
-downloads: 17586
+downloads: 17791
 mobile: true
 number: 1040
 stars: 1

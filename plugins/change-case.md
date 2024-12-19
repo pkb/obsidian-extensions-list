@@ -2,12 +2,12 @@
 aliases:
 - Change Case
 author:
-- '[[dbrockman|David Brockman]]'
+- '[[authors/dbrockman|David Brockman]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Plugin to let you change the case (UPPER CASE, camelCase, snake_case,
   etc) of the current selection.
-downloads: 16998
+downloads: 17135
 mobile: true
 number: 1146
 stars: 12

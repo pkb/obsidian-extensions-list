@@ -2,10 +2,10 @@
 aliases:
 - Disk Usage
 author:
-- '[[Promptier|Promptier]]'
+- '[[authors/Promptier|Promptier]]'
 categories: []
 description: Measures disk usage for tracking size of folders and file types.
-downloads: 2473
+downloads: 2485
 mobile: true
 number: 1302
 stars: 5

@@ -2,14 +2,14 @@
 aliases:
 - Quick Switcher++
 author:
-- '[[darlal|darlal]]'
+- '[[authors/darlal|darlal]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Enhanced Quick Switcher, search open panels, and symbols.
-downloads: 244286
+downloads: 245475
 mobile: true
 number: 18
-stars: 446
+stars: 452
 title: Quick Switcher++
 type: plugin
 updated: '2024-11-02T07:27:24'

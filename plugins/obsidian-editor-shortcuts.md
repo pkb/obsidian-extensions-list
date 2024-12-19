@@ -2,14 +2,14 @@
 aliases:
 - Code Editor Shortcuts
 author:
-- '[[timhor|Tim Hor]]'
+- '[[authors/timhor|Tim Hor]]'
 categories: []
 description: Add keyboard shortcuts (hotkeys) commonly found in code editors such
   as Visual Studio Code (vscode) or Sublime Text
-downloads: 36253
+downloads: 36427
 mobile: true
 number: 301
-stars: 358
+stars: 359
 title: Code Editor Shortcuts
 type: plugin
 updated: '2023-05-24T19:50:22'

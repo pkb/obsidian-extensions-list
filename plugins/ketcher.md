@@ -2,10 +2,10 @@
 aliases:
 - Ketcher
 author:
-- '[[yuleicul|Yulei Chen]]'
+- '[[authors/yuleicul|Yulei Chen]]'
 categories: []
 description: View or draw chemical structures and reactions using Ketcher.
-downloads: 6138
+downloads: 6160
 mobile: false
 number: 929
 stars: 33

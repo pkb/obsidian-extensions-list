@@ -2,12 +2,12 @@
 aliases:
 - Flashcard Learning
 author:
-- '[[gaetanmuck|Gaétan Muck]]'
+- '[[authors/gaetanmuck|Gaétan Muck]]'
 categories:
 - '[[categories/Learning|Learning]]'
 description: This is a pluggin that implements how flashcards can be used inside Obsidian
   in order to learn and remember things.
-downloads: 5125
+downloads: 5141
 mobile: true
 number: 868
 stars: 11

@@ -2,15 +2,15 @@
 aliases:
 - Canvas Mindmap
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 - '[[categories/Canvas|Canvas]]'
 description: A plugin to make your canvas work like a mindmap.
-downloads: 77298
+downloads: 78102
 mobile: true
 number: 774
-stars: 287
+stars: 292
 title: Canvas Mindmap
 type: plugin
 updated: '2024-09-04T08:47:03'

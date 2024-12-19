@@ -2,10 +2,10 @@
 aliases:
 - Svelte Syntax Highlighter
 author:
-- '[[typhoon-kim|Typhoon-Kim]]'
+- '[[authors/typhoon-kim|Typhoon-Kim]]'
 categories: []
 description: Syntax highlighting for Svelte code blocks.
-downloads: 350
+downloads: 360
 mobile: true
 number: 1710
 stars: 10

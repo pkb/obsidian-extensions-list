@@ -2,11 +2,11 @@
 aliases:
 - Obsidian Temple
 author:
-- '[[garyng|GaryNg]]'
+- '[[authors/garyng|GaryNg]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: A plugin for templating in Obsidian, powered by Nunjucks.
-downloads: 5222
+downloads: 5232
 mobile: true
 number: 63
 stars: 66

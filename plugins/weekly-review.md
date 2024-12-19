@@ -2,11 +2,11 @@
 aliases:
 - Weekly Review
 author:
-- '[[brandonkboswell|Brandon Boswell]]'
+- '[[authors/brandonkboswell|Brandon Boswell]]'
 categories: []
 description: This opens all of the files you have created in the last week to support
   easy Weekly Reviews.
-downloads: 6505
+downloads: 6531
 mobile: true
 number: 761
 stars: 31

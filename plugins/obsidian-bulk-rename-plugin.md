@@ -2,10 +2,10 @@
 aliases:
 - Bulk Rename
 author:
-- '[[OlegLustenko|Oleg Lustenko]]'
+- '[[authors/OlegLustenko|Oleg Lustenko]]'
 categories: []
 description: Purpose of this plugin rename files based on pattern
-downloads: 11482
+downloads: 11525
 mobile: true
 number: 592
 stars: 74

@@ -2,12 +2,12 @@
 aliases:
 - Pane Relief
 author:
-- '[[pjeby|PJ Eby]]'
+- '[[authors/pjeby|PJ Eby]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace,
   and more
-downloads: 118793
+downloads: 119457
 mobile: false
 number: 123
 stars: 238

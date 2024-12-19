@@ -2,12 +2,12 @@
 aliases:
 - PARA Workflower
 author:
-- '[[trucke|KevTheDevX]]'
+- '[[authors/trucke|KevTheDevX]]'
 categories:
 - '[[categories/Workflows]]'
 description: Helpful commands for starting and working in your vault with the PARA
   method.
-downloads: 1479
+downloads: 1500
 mobile: true
 number: 1538
 stars: 5

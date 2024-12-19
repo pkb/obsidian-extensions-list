@@ -2,10 +2,10 @@
 aliases:
 - Mathpad
 author:
-- '[[Canna71|Gabriele Cannata]]'
+- '[[authors/Canna71|Gabriele Cannata]]'
 categories: []
 description: Computer Algebra System and Calculator for Obsidian
-downloads: 11760
+downloads: 11835
 mobile: false
 number: 653
 stars: 95

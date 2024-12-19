@@ -2,10 +2,10 @@
 aliases:
 - Palta Note
 author:
-- '[[mrniket|Niket Shah]]'
+- '[[authors/mrniket|Niket Shah]]'
 categories: []
 description: Render Bhatkhande notation for Tabla.
-downloads: 2758
+downloads: 2764
 mobile: true
 number: 1165
 stars: 3

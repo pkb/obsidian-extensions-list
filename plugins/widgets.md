@@ -2,10 +2,10 @@
 aliases:
 - Widgets
 author:
-- '[[rafaelveiga|Rafael Veiga]]'
+- '[[authors/rafaelveiga|Rafael Veiga]]'
 categories: []
 description: Adds widgets to your notes like clock, countdown and quotes.
-downloads: 9780
+downloads: 10215
 mobile: true
 number: 1354
 stars: 75

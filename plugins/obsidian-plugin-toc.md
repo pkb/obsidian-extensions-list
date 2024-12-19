@@ -2,14 +2,14 @@
 aliases:
 - Table of Contents
 author:
-- '[[hipstersmoothie|Andrew Lisowski]]'
+- '[[authors/hipstersmoothie|Andrew Lisowski]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Create a table of contents for a note.
-downloads: 143092
+downloads: 144114
 mobile: true
 number: 108
-stars: 298
+stars: 299
 title: Table of Contents
 type: plugin
 updated: '2023-05-11T08:08:35'

@@ -2,10 +2,10 @@
 aliases:
 - Checklist Progress
 author:
-- '[[acidghost|acidghost]]'
+- '[[authors/acidghost|acidghost]]'
 categories: []
 description: Automatically fill progress (as fraction or percentage) of check-lists.
-downloads: 923
+downloads: 957
 mobile: true
 number: 1712
 stars: 8

@@ -2,14 +2,14 @@
 aliases:
 - Notes dater
 author:
-- '[[paultreanor|Paul Treanor]]'
+- '[[authors/paultreanor|Paul Treanor]]'
 categories: []
 description: Adds created on and last updated on dates of the active note to the status
   bar.
-downloads: 4686
+downloads: 4718
 mobile: false
 number: 1006
-stars: 9
+stars: 10
 title: Notes dater
 type: plugin
 updated: '2023-07-28T21:08:20'

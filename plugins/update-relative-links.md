@@ -2,10 +2,10 @@
 aliases:
 - Update Relative Links
 author:
-- '[[val3344|val]]'
+- '[[authors/val3344|val]]'
 categories: []
 description: Update relative links.
-downloads: 5765
+downloads: 5788
 mobile: true
 number: 631
 stars: 27

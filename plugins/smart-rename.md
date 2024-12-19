@@ -2,10 +2,10 @@
 aliases:
 - Smart Rename
 author:
-- '[[mnaoumov|mnaoumov]]'
+- '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Renames notes keeping previous title in existing links
-downloads: 5313
+downloads: 5352
 mobile: true
 number: 894
 stars: 26

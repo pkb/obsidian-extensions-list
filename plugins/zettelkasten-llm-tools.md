@@ -2,10 +2,10 @@
 aliases:
 - Zettelkasten LLM Tools
 author:
-- '[[glovguy|Karl Smith]]'
+- '[[authors/glovguy|Karl Smith]]'
 categories: []
 description: Zettelkasten note taking powered by LLMs
-downloads: 4661
+downloads: 4728
 mobile: true
 number: 1083
 stars: 33

@@ -2,13 +2,13 @@
 aliases:
 - Custom State for Task List
 author:
-- '[[OkamiWong|Okami Wong]]'
+- '[[authors/OkamiWong|Okami Wong]]'
 categories: []
 description: Add custom states to task list items.
-downloads: 4803
+downloads: 4829
 mobile: true
 number: 926
-stars: 28
+stars: 29
 title: Custom State for Task List
 type: plugin
 updated: '2024-11-25T12:40:03'

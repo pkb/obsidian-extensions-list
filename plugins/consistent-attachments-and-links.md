@@ -2,19 +2,19 @@
 aliases:
 - Consistent Attachments and Links
 author:
-- '[[dy-sh|Dmitry Savosh]]'
+- '[[authors/dy-sh|Dmitry Savosh]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: This plugin ensures the consistency of attachments and links
-downloads: 42423
+downloads: 43559
 mobile: true
 number: 127
-stars: 247
+stars: 250
 title: Consistent Attachments and Links
 type: plugin
-updated: '2024-12-11T05:21:50'
+updated: '2024-12-12T04:54:29'
 url: https://github.com/dy-sh/obsidian-consistent-attachments-and-links
-version: 3.21.14
+version: 3.21.15
 ---
 
 %% README_START %%

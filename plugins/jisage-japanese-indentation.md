@@ -2,11 +2,11 @@
 aliases:
 - Jisage -Japanese Indentation-
 author:
-- '[[Telehakke|Telehakke]]'
+- '[[authors/Telehakke|Telehakke]]'
 categories: []
 description: Display 'Jisage' (indenting with a full-width space at the beginning
   of a line) text correctly.
-downloads: 105
+downloads: 124
 mobile: true
 number: 1975
 stars: 2

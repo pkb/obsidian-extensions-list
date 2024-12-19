@@ -2,13 +2,13 @@
 aliases:
 - Pretty BibTeX
 author:
-- '[[sandrofigo|Sandro Figo]]'
+- '[[authors/sandrofigo|Sandro Figo]]'
 categories: []
 description: Shows raw BibTeX bibliography entries in a prettier way
-downloads: 7590
+downloads: 7625
 mobile: true
 number: 661
-stars: 27
+stars: 28
 title: Pretty BibTeX
 type: plugin
 updated: '2024-02-24T01:36:50'

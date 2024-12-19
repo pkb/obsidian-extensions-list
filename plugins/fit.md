@@ -2,15 +2,15 @@
 aliases:
 - Fit
 author:
-- '[[joshuakto|joshuakto]]'
+- '[[authors/joshuakto|joshuakto]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Minimalist File gIT (FIT) to sync your files across mobile and desktop
   devices using GitHub.
-downloads: 13015
+downloads: 13562
 mobile: true
 number: 1518
-stars: 66
+stars: 69
 title: Fit
 type: plugin
 updated: '2024-06-22T12:22:42'

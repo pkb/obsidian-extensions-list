@@ -2,10 +2,10 @@
 aliases:
 - Relativenumber (relative line numbers)
 author:
-- '[[thisdotrob|Rob Stevenson]]'
+- '[[authors/thisdotrob|Rob Stevenson]]'
 categories: []
 description: Displays relative line numbers in the editor's gutter.
-downloads: 4482
+downloads: 4493
 mobile: false
 number: 416
 stars: 10

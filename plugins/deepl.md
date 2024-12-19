@@ -2,14 +2,14 @@
 aliases:
 - DeepL
 author:
-- '[[friebetill|Till Friebe]]'
+- '[[authors/friebetill|Till Friebe]]'
 categories: []
 description: Allows translation of selected texts into more than 25 languages with
   DeepL.
-downloads: 12899
+downloads: 12985
 mobile: true
 number: 677
-stars: 48
+stars: 47
 title: DeepL
 type: plugin
 updated: '2024-02-15T12:51:39'

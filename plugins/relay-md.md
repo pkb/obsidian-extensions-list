@@ -2,11 +2,11 @@
 aliases:
 - Relay.md
 author:
-- '[[relay-md|xeroc]]'
+- '[[authors/relay-md|xeroc]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Markdown workflows for teams.
-downloads: 1663
+downloads: 1678
 mobile: true
 number: 1374
 stars: 16

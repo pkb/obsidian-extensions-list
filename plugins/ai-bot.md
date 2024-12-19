@@ -2,11 +2,11 @@
 aliases:
 - AI bot
 author:
-- '[[kuzzh|kuzzh]]'
+- '[[authors/kuzzh|kuzzh]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Polish, summarize, translate, analyze, and interpret code using AI.
-downloads: 147
+downloads: 183
 mobile: true
 number: 2023
 stars: 4

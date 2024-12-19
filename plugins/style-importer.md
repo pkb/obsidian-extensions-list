@@ -2,10 +2,10 @@
 aliases:
 - Style Importer
 author:
-- '[[joshrouwhorst|Josh Rouwhorst]]'
+- '[[authors/joshrouwhorst|Josh Rouwhorst]]'
 categories: []
 description: Import a stylesheet from a URL into your snippets folder.
-downloads: 3783
+downloads: 3798
 mobile: true
 number: 1001
 stars: 9

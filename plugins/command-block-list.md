@@ -2,10 +2,10 @@
 aliases:
 - Command Block List
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Hide unwanted commands from the command palette.
-downloads: 1169
+downloads: 1182
 mobile: true
 number: 1507
 stars: 9

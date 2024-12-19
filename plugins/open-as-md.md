@@ -2,10 +2,10 @@
 aliases:
 - open-as-md
 author:
-- '[[kursad-k|kursad-k]]'
+- '[[authors/kursad-k|kursad-k]]'
 categories: []
 description: Edit non-md file types as markdown files
-downloads: 2476
+downloads: 2493
 mobile: true
 number: 1342
 stars: 5

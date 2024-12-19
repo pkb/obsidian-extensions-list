@@ -2,11 +2,11 @@
 aliases:
 - Share to Cubox
 author:
-- '[[Redwinam|Redwinam]]'
+- '[[authors/Redwinam|Redwinam]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Share Obsidian notes to Cubox.
-downloads: 3466
+downloads: 3474
 mobile: true
 number: 941
 stars: 7

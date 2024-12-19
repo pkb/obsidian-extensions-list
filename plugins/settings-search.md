@@ -2,13 +2,13 @@
 aliases:
 - Settings Search
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Globally search settings in Obsidian.md
-downloads: 126789
+downloads: 127779
 mobile: true
 number: 426
-stars: 140
+stars: 141
 title: Settings Search
 type: plugin
 updated: '2023-10-05T18:36:24'

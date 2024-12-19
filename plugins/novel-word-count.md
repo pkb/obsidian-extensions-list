@@ -2,12 +2,12 @@
 aliases:
 - Novel word count
 author:
-- '[[isaaclyman|Isaac Lyman]]'
+- '[[authors/isaaclyman|Isaac Lyman]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Displays a word count (and more!) for each file, folder and vault in
   the File Explorer pane.
-downloads: 87868
+downloads: 89253
 mobile: true
 number: 458
 stars: 87

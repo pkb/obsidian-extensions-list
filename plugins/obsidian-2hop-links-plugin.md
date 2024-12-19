@@ -2,10 +2,10 @@
 aliases:
 - 2Hop Links Plugin
 author:
-- '[[tokuhirom|Tokuhiro Matsuno]]'
+- '[[authors/tokuhirom|Tokuhiro Matsuno]]'
 categories: []
 description: Add links to other pages at the bottom of the editor.
-downloads: 7756
+downloads: 7764
 mobile: true
 number: 171
 stars: 35

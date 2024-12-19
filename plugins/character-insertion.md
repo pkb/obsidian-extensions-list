@@ -2,10 +2,10 @@
 aliases:
 - Character Insertion
 author:
-- '[[TakamiChie|TakamiChie]]'
+- '[[authors/TakamiChie|TakamiChie]]'
 categories: []
 description: Plugin to insert a specified symbol under the cursor
-downloads: 3588
+downloads: 3591
 mobile: true
 number: 864
 stars: 3

@@ -2,10 +2,10 @@
 aliases:
 - Focus Tracker
 author:
-- '[[jeetsukumaran|Jeet Sukumaran]]'
+- '[[authors/jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Track and align your focus.
-downloads: 691
+downloads: 711
 mobile: true
 number: 1678
 stars: 3

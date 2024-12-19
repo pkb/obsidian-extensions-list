@@ -2,14 +2,14 @@
 aliases:
 - Meta Bind
 author:
-- '[[mProjectsCode|Moritz Jung]]'
+- '[[authors/mProjectsCode|Moritz Jung]]'
 categories: []
 description: Make your notes interactive with inline input fields, metadata displays,
   and buttons.
-downloads: 113974
+downloads: 115756
 mobile: true
 number: 612
-stars: 555
+stars: 565
 title: Meta Bind
 type: plugin
 updated: '2024-12-09T21:46:01'

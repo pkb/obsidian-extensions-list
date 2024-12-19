@@ -2,12 +2,12 @@
 aliases:
 - Update modified date
 author:
-- '[[alangrainger|Alan Grainger]]'
+- '[[authors/alangrainger|Alan Grainger]]'
 categories: []
 description: Automatically update a frontmatter modified date field when you modify
   your note. This will not use the filesystem time, but only when you modify the file
   through Obsidian. Optionally store a history of edit times.
-downloads: 18265
+downloads: 18522
 mobile: true
 number: 1081
 stars: 81

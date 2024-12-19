@@ -2,15 +2,15 @@
 aliases:
 - Automatic Table Of Contents
 author:
-- '[[johansatge|Johan Satgé]]'
+- '[[authors/johansatge|Johan Satgé]]'
 categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Create a table of contents in a note, that updates itself when the note
   changes
-downloads: 43425
+downloads: 44591
 mobile: true
 number: 1135
-stars: 150
+stars: 153
 title: Automatic Table Of Contents
 type: plugin
 updated: '2024-11-24T20:25:55'

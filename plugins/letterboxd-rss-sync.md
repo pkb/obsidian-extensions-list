@@ -2,10 +2,10 @@
 aliases:
 - Letterboxd Diary RSS Sync
 author:
-- '[[fleker|Nick Felker]]'
+- '[[authors/fleker|Nick Felker]]'
 categories: []
 description: Syncs your public Letterboxd diary.
-downloads: 614
+downloads: 623
 mobile: true
 number: 1602
 stars: 6

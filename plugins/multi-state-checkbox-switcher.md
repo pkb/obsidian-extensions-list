@@ -2,10 +2,10 @@
 aliases:
 - Multi State CheckBox Switcher
 author:
-- '[[KubaMiszcz|KubaMiszcz]]'
+- '[[authors/KubaMiszcz|KubaMiszcz]]'
 categories: []
 description: Handle with multistate checkboxes.
-downloads: 3056
+downloads: 3098
 mobile: true
 number: 1373
 stars: 10

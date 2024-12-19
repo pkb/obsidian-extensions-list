@@ -5,7 +5,7 @@ author:
 - '[[authors/Hoshino-Yumetsuki|Q78KG]]'
 categories: []
 description: Automatically generate permanent short links for your markdown files.
-downloads: 63
+downloads: 74
 mobile: true
 number: 2047
 stars: 0

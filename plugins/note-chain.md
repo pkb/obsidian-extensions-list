@@ -2,19 +2,19 @@
 aliases:
 - Note Chain
 author:
-- '[[zigholding|ZigHolding]]'
+- '[[authors/zigholding|ZigHolding]]'
 categories: []
 description: Thoughts as river, notes as chain. Add prev and next notes to a notes,
   and order files by the chain in File Explorer.
-downloads: 1237
+downloads: 1318
 mobile: true
 number: 1640
-stars: 12
+stars: 13
 title: Note Chain
 type: plugin
 updated: '2024-12-10T17:27:40'
 url: https://github.com/zigholding/obsidian-notechain-plugin
-version: 1.1.10
+version: 1.1.11
 ---
 
 %% README_START %%

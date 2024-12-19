@@ -2,11 +2,11 @@
 aliases:
 - TinyPNG Image
 author:
-- '[[ckt1031|ckt1031]]'
+- '[[authors/ckt1031|ckt1031]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Compress images using TinyPNG to save your storage.
-downloads: 3860
+downloads: 3864
 mobile: true
 number: 1017
 stars: 6

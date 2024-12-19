@@ -2,10 +2,10 @@
 aliases:
 - Kindle
 author:
-- '[[SimeonLukas|Simeon Stanek]]'
+- '[[authors/SimeonLukas|Simeon Stanek]]'
 categories: []
 description: Send .md as .epub to Ereader/Kindle/Pocketbook
-downloads: 8109
+downloads: 8146
 mobile: true
 number: 450
 stars: 55

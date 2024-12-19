@@ -2,13 +2,13 @@
 aliases:
 - Cards View
 author:
-- '[[jillro|Maud Royer]]'
+- '[[authors/jillro|Maud Royer]]'
 categories: []
 description: Displays a card view of your notes.
-downloads: 6579
+downloads: 6690
 mobile: true
 number: 1532
-stars: 56
+stars: 57
 title: Cards View
 type: plugin
 updated: '2024-11-12T00:23:14'

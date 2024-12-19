@@ -2,14 +2,14 @@
 aliases:
 - Confluence Integration
 author:
-- '[[markdown-confluence|andymac4182]]'
+- '[[authors/markdown-confluence|andymac4182]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: This plugin allows you to publish your notes to Confluence
-downloads: 10055
+downloads: 10158
 mobile: false
 number: 908
-stars: 122
+stars: 123
 title: Confluence Integration
 type: plugin
 updated: '2023-09-24T17:33:20'

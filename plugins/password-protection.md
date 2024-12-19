@@ -2,12 +2,12 @@
 aliases:
 - Password Protection
 author:
-- '[[qing3962|Qing Li]]'
+- '[[authors/qing3962|Qing Li]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Lock and protect your private notes and diary with a password, no encrypt,
   no decrypt.
-downloads: 18294
+downloads: 18620
 mobile: true
 number: 1013
 stars: 42

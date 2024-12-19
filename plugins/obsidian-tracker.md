@@ -2,11 +2,11 @@
 aliases:
 - Tracker
 author:
-- '[[pyrochlore|pyrochlore]]'
+- '[[authors/pyrochlore|pyrochlore]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: A plugin tracks occurrences and numbers in your notes
-downloads: 186316
+downloads: 187430
 mobile: true
 number: 140
 stars: 1400

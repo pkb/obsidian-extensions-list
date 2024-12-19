@@ -2,12 +2,12 @@
 aliases:
 - Readavocado Sync
 author:
-- '[[innneang|Cyrus Zhang]]'
+- '[[authors/innneang|Cyrus Zhang]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Integration|Integration]]'
 description: Sync your Readavocado highlights with Obsidian
-downloads: 3305
+downloads: 3306
 mobile: true
 number: 632
 stars: 10

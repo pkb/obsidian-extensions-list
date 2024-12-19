@@ -6,15 +6,15 @@ author:
 categories: []
 description: Send notes to Webhook endpoints, for seamless integration with n8n, Make.com,
   and Zapier.
-downloads: 136
+downloads: 215
 mobile: true
 number: 2040
-stars: 5
+stars: 8
 title: Post Webhook
 type: plugin
-updated: '2024-12-08T04:16:21'
+updated: '2024-12-18T02:08:09'
 url: https://github.com/Masterb1234/obsidian-post-webhook
-version: 1.1.0
+version: 1.1.1
 ---
 
 %% README_START %%

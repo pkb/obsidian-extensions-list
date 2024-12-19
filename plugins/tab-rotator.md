@@ -2,11 +2,11 @@
 aliases:
 - Tab Rotator
 author:
-- '[[autohub7|Steven Jin]]'
+- '[[authors/autohub7|Steven Jin]]'
 categories: []
 description: This plugin rotates opened files to the left or right with a specified
   interval
-downloads: 3325
+downloads: 3326
 mobile: true
 number: 872
 stars: 5

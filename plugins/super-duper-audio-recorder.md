@@ -2,14 +2,14 @@
 aliases:
 - Super Duper Audio Recorder
 author:
-- '[[madpin|Thiago MadPin]]'
+- '[[authors/madpin|Thiago MadPin]]'
 categories: []
 description: Records audio directly, with input device and folder configuration, similar
   to the core one, but better
-downloads: 1242
+downloads: 1300
 mobile: false
 number: 1830
-stars: 6
+stars: 7
 title: Super Duper Audio Recorder
 type: plugin
 updated: '2024-08-14T18:27:56'

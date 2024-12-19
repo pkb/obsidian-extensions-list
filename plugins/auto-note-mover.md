@@ -2,12 +2,12 @@
 aliases:
 - Auto Note Mover
 author:
-- '[[farux|faru]]'
+- '[[authors/farux|faru]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Auto Note Mover will automatically move the active notes to their respective
   folders according to the rules.
-downloads: 51030
+downloads: 51710
 mobile: true
 number: 424
 stars: 292

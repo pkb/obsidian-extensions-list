@@ -2,10 +2,10 @@
 aliases:
 - Folder Canvas
 author:
-- '[[nancyel|Nancy Lee]]'
+- '[[authors/nancyel|Nancy Lee]]'
 categories: []
 description: Generate a Canvas view of your folder structure.
-downloads: 209
+downloads: 256
 mobile: true
 number: 2027
 stars: 4

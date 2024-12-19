@@ -2,10 +2,10 @@
 aliases:
 - Tailwind Snippet
 author:
-- '[[nicholas-wilcox|Nicholas Wilcox]]'
+- '[[authors/nicholas-wilcox|Nicholas Wilcox]]'
 categories: []
 description: Use TailwindCSS utility classes in your markup.
-downloads: 247
+downloads: 254
 mobile: false
 number: 1878
 stars: 20

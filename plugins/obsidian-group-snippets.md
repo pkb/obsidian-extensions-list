@@ -2,13 +2,13 @@
 aliases:
 - Group Snippets
 author:
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Create folder of snippets to activate them in one click !
-downloads: 4877
+downloads: 4885
 mobile: true
 number: 584
-stars: 17
+stars: 18
 title: Group Snippets
 type: plugin
 updated: '2024-05-26T13:29:38'

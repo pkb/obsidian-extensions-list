@@ -2,14 +2,14 @@
 aliases:
 - ABC Music Notation
 author:
-- '[[abcjs-music|Til Blechschmidt]]'
+- '[[authors/abcjs-music|Til Blechschmidt]]'
 categories: []
 description: Obsidian plugin which renders ABC music notation from code blocks using
   the `abc` language specifier.
-downloads: 18117
+downloads: 18263
 mobile: true
 number: 40
-stars: 191
+stars: 194
 title: ABC Music Notation
 type: plugin
 updated: '2024-10-29T23:10:57'

@@ -2,10 +2,10 @@
 aliases:
 - Bulk open selected links
 author:
-- '[[autohub7|Steven Jin]]'
+- '[[authors/autohub7|Steven Jin]]'
 categories: []
 description: This plugin allows users to easily open all selected links in edit mode.
-downloads: 3585
+downloads: 3592
 mobile: true
 number: 873
 stars: 7

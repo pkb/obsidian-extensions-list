@@ -2,19 +2,19 @@
 aliases:
 - APIRequest
 author:
-- '[[Rooyca|rooyca]]'
+- '[[authors/Rooyca|rooyca]]'
 categories: []
 description: Fetch data from APIs or other sources. Responses in JSON, MD or HTML
   directly in your notes.
-downloads: 9043
+downloads: 9199
 mobile: true
 number: 956
-stars: 119
+stars: 121
 title: APIRequest
 type: plugin
-updated: '2024-10-20T21:27:06'
+updated: '2024-12-15T01:31:44'
 url: https://github.com/Rooyca/obsidian-api-request
-version: 1.4.3
+version: 1.4.4
 ---
 
 %% README_START %%

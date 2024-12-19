@@ -2,11 +2,11 @@
 aliases:
 - Quick Share Note to gist
 author:
-- '[[chaintng|Por Chainarong Tangsurakit]]'
+- '[[authors/chaintng|Por Chainarong Tangsurakit]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quick share notes to GitHub gist and its image by upload images to Imgur.
-downloads: 68
+downloads: 80
 mobile: true
 number: 2015
 stars: 5

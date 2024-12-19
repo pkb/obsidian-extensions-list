@@ -2,13 +2,13 @@
 aliases:
 - Code Block
 author:
-- '[[paddan|Patrik Lindefors]]'
+- '[[authors/paddan|Patrik Lindefors]]'
 categories: []
 description: This plugin converts text into code blocks with automatic language detection.
-downloads: 9321
+downloads: 9399
 mobile: true
 number: 542
-stars: 31
+stars: 32
 title: Code Block
 type: plugin
 updated: '2024-06-08T17:05:03'

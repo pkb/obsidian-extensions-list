@@ -2,14 +2,14 @@
 aliases:
 - React Components
 author:
-- '[[elias-sundqvist|Elias Sundqvist]]'
+- '[[authors/elias-sundqvist|Elias Sundqvist]]'
 categories: []
 description: This is a plugin for Obsidian. It allows you to write and use React components
   with Jsx inside your Obsidian notes.
-downloads: 16749
+downloads: 16857
 mobile: true
 number: 180
-stars: 250
+stars: 252
 title: React Components
 type: plugin
 updated: '2022-01-23T04:26:12'

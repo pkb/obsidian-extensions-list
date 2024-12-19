@@ -2,15 +2,15 @@
 aliases:
 - Wechat Public Platform
 author:
-- '[[ai-chen2050|Blake Chan]]'
+- '[[authors/ai-chen2050|Blake Chan]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Release the article from your vault to WeChat, Baidu Baijiahao, or another
   article release platform.
-downloads: 597
+downloads: 613
 mobile: false
 number: 1744
-stars: 59
+stars: 60
 title: Wechat Public Platform
 type: plugin
 updated: '2024-09-07T22:35:14'

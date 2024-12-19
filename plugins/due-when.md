@@ -2,11 +2,11 @@
 aliases:
 - Due When
 author:
-- '[[andrewbaxter439|Andy Baxter]]'
+- '[[authors/andrewbaxter439|Andy Baxter]]'
 categories: []
 description: This adds shortcuts to insert due dates for end of this week or end of
   next week.
-downloads: 3507
+downloads: 3509
 mobile: true
 number: 1004
 stars: 2

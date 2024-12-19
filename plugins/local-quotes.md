@@ -2,11 +2,11 @@
 aliases:
 - Local Quotes
 author:
-- '[[sundevista|decatetsu]]'
+- '[[authors/sundevista|decatetsu]]'
 categories: []
 description: Collect your quotes from all over the repository and embed them in different
   locations with refresh delays.
-downloads: 6328
+downloads: 6343
 mobile: true
 number: 525
 stars: 47

@@ -2,13 +2,13 @@
 aliases:
 - MemoryLane
 author:
-- '[[bangca85|Bradley Nguyen]]'
+- '[[authors/bangca85|Bradley Nguyen]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Relive and celebrate your life's milestones on a personal, interactive
   timeline. A nostalgic journey through your history with anniversary reminders and
   cherished memories.
-downloads: 3215
+downloads: 3272
 mobile: true
 number: 1434
 stars: 9

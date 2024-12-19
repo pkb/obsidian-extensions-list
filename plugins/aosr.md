@@ -2,14 +2,14 @@
 aliases:
 - Aosr
 author:
-- '[[linanwx|linanwx]]'
+- '[[authors/linanwx|linanwx]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Another obsidian spaced repetition
-downloads: 10713
+downloads: 10773
 mobile: true
 number: 611
-stars: 72
+stars: 73
 title: Aosr
 type: plugin
 updated: '2024-07-21T17:03:11'

@@ -2,14 +2,14 @@
 aliases:
 - Inline Scripts
 author:
-- '[[jon-heard|Jonathan Heard]]'
+- '[[authors/jon-heard|Jonathan Heard]]'
 categories: []
 description: Type text shortcuts which are then replaced with JavaScript generated
   text.
-downloads: 12984
+downloads: 13015
 mobile: true
 number: 563
-stars: 136
+stars: 137
 title: Inline Scripts
 type: plugin
 updated: '2022-12-13T11:17:25'

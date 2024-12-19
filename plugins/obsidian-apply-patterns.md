@@ -2,10 +2,10 @@
 aliases:
 - Apply Patterns
 author:
-- '[[jglev|Jacob Levernier]]'
+- '[[authors/jglev|Jacob Levernier]]'
 categories: []
 description: Apply custom patterns of find-and-replace in succession to text.
-downloads: 7760
+downloads: 7778
 mobile: true
 number: 242
 stars: 59

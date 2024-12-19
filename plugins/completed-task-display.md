@@ -2,11 +2,11 @@
 aliases:
 - Completed Task Display
 author:
-- '[[heliostatic|Ben Lee-Cohen]]'
+- '[[authors/heliostatic|Ben Lee-Cohen]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Provides a button in the ribbon to hide or display completed tasks
-downloads: 37774
+downloads: 38162
 mobile: true
 number: 68
 stars: 32

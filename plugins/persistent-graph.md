@@ -2,11 +2,11 @@
 aliases:
 - Persistent Graph
 author:
-- '[[Sanqui|Sanqui]]'
+- '[[authors/Sanqui|Sanqui]]'
 categories: []
 description: Adds commands to save and restore the positions of nodes on the global
   graph view
-downloads: 21393
+downloads: 21616
 mobile: true
 number: 423
 stars: 109

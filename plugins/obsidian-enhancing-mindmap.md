@@ -2,15 +2,15 @@
 aliases:
 - Enhancing Mindmap
 author:
-- '[[MarkMindCkm|Mark]]'
+- '[[authors/MarkMindCkm|Mark]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: This is a enhancing mindmap plugin for Obsidian. You can edit mindmap
   on markdown.
-downloads: 173035
+downloads: 173882
 mobile: true
 number: 223
-stars: 600
+stars: 602
 title: Enhancing Mindmap
 type: plugin
 updated: '2023-08-03T12:21:48'

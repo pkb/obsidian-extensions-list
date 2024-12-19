@@ -2,15 +2,15 @@
 aliases:
 - Commander
 author:
-- '[[phibr0|jsmorabito & phibr0]]'
+- '[[authors/phibr0|jsmorabito & phibr0]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize your workspace by adding commands everywhere, create Macros
   and supercharge your mobile toolbar.
-downloads: 265159
+downloads: 268050
 mobile: true
 number: 568
-stars: 745
+stars: 755
 title: Commander
 type: plugin
 updated: '2024-10-11T07:55:46'

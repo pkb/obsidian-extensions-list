@@ -2,13 +2,13 @@
 aliases:
 - Language Translator
 author:
-- '[[twentytwokhz|Florin Bobis]]'
+- '[[authors/twentytwokhz|Florin Bobis]]'
 categories: []
 description: Translates given text to desired language
-downloads: 36069
+downloads: 36391
 mobile: true
 number: 351
-stars: 43
+stars: 44
 title: Language Translator
 type: plugin
 updated: '2024-02-27T00:07:48'

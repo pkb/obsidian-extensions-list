@@ -2,13 +2,13 @@
 aliases:
 - Image auto upload
 author:
-- '[[renmu123|renmu]]'
+- '[[authors/renmu123|renmu]]'
 categories: []
 description: This plugin uploads images from your clipboard by PicGo
-downloads: 92700
+downloads: 93609
 mobile: false
 number: 172
-stars: 355
+stars: 356
 title: Image auto upload
 type: plugin
 updated: '2024-11-28T11:48:45'

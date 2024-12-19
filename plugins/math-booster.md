@@ -2,15 +2,15 @@
 aliases:
 - LaTeX-like Theorem & Equation Referencer
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: A powerful indexing & referencing system for theorems & equations in
   your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic
   equation numbering, and more.
-downloads: 17023
+downloads: 17247
 mobile: true
 number: 1122
-stars: 181
+stars: 183
 title: LaTeX-like Theorem & Equation Referencer
 type: plugin
 updated: '2023-12-09T23:30:14'

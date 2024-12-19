@@ -2,10 +2,10 @@
 aliases:
 - Session Notes
 author:
-- '[[tabibyte|tabibyte]]'
+- '[[authors/tabibyte|tabibyte]]'
 categories: []
 description: Create temporary session or one-off notes
-downloads: 86
+downloads: 96
 mobile: true
 number: 1972
 stars: 4

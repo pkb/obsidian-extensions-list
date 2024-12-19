@@ -2,19 +2,19 @@
 aliases:
 - Hugo Publish
 author:
-- '[[kirito41dd|kirito]]'
+- '[[authors/kirito41dd|kirito]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your blog to hugo site.
-downloads: 1159
+downloads: 1200
 mobile: false
 number: 1563
-stars: 38
+stars: 40
 title: Hugo Publish
 type: plugin
-updated: '2024-11-25T19:43:21'
+updated: '2024-12-16T19:09:18'
 url: https://github.com/kirito41dd/obsidian-hugo-publish
-version: 1.0.7
+version: 1.0.8
 ---
 
 %% README_START %%

@@ -2,10 +2,10 @@
 aliases:
 - CardNote
 author:
-- '[[cycsd|cycsd]]'
+- '[[authors/cycsd|cycsd]]'
 categories: []
 description: Help you quickly extract your thoughts in the Canvas and Excalidraw
-downloads: 5046
+downloads: 5131
 mobile: true
 number: 1442
 stars: 30

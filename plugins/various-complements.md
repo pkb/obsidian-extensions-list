@@ -2,15 +2,15 @@
 aliases:
 - Various Complements
 author:
-- '[[tadashi-aikawa|tadashi-aikawa]]'
+- '[[authors/tadashi-aikawa|tadashi-aikawa]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: This plugin enables you to complete words like the auto-completion of
   IDE
-downloads: 262103
+downloads: 263435
 mobile: true
 number: 97
-stars: 626
+stars: 629
 title: Various Complements
 type: plugin
 updated: '2024-08-25T19:52:17'

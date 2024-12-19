@@ -2,11 +2,11 @@
 aliases:
 - Outline to task list
 author:
-- '[[alexandrerbb|alexandrerbb]]'
+- '[[authors/alexandrerbb|alexandrerbb]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Convert a note's outline to a task list.
-downloads: 492
+downloads: 499
 mobile: true
 number: 1617
 stars: 1

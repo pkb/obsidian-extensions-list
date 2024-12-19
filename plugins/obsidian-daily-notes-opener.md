@@ -2,10 +2,10 @@
 aliases:
 - Daily notes opener
 author:
-- '[[reorx|Reorx]]'
+- '[[authors/reorx|Reorx]]'
 categories: []
 description: Easily open daily/periodic notes in new pane, and much more!
-downloads: 7106
+downloads: 7121
 mobile: true
 number: 442
 stars: 25

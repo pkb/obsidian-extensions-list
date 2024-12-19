@@ -2,10 +2,10 @@
 aliases:
 - Word Sprint
 author:
-- '[[kinabalu|Andrew Lombardi]]'
+- '[[authors/kinabalu|Andrew Lombardi]]'
 categories: []
 description: Word Sprint for Obsidian plugin for your writing projects like Nanowrimo
-downloads: 14425
+downloads: 14511
 mobile: true
 number: 346
 stars: 40

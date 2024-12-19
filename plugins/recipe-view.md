@@ -2,10 +2,10 @@
 aliases:
 - Recipe view
 author:
-- '[[lachholden|lachholden]]'
+- '[[authors/lachholden|lachholden]]'
 categories: []
 description: View your notes as interactive recipe cards while you cook.
-downloads: 17774
+downloads: 18159
 mobile: true
 number: 1197
 stars: 107

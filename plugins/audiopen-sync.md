@@ -2,11 +2,11 @@
 aliases:
 - AudioPen Sync
 author:
-- '[[jonashaefele|Jonas Haefele]]'
+- '[[authors/jonashaefele|Jonas Haefele]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync notes from AudioPen.
-downloads: 180
+downloads: 181
 mobile: true
 number: 1700
 stars: 1

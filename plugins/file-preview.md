@@ -2,13 +2,13 @@
 aliases:
 - File Preview
 author:
-- '[[xhuajin|Huajin]]'
+- '[[authors/xhuajin|Huajin]]'
 categories: []
 description: Add file preview contents under file in file explorer.
-downloads: 1694
+downloads: 1728
 mobile: true
 number: 1676
-stars: 16
+stars: 17
 title: File Preview
 type: plugin
 updated: '2024-10-22T23:45:25'

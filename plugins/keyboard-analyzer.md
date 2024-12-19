@@ -2,13 +2,13 @@
 aliases:
 - Keyboard Analyzer
 author:
-- '[[cogscides|cogscides]]'
+- '[[authors/cogscides|cogscides]]'
 categories: []
 description: See and analyse your keyboard hotkeys and shortcuts
-downloads: 13385
+downloads: 13471
 mobile: true
 number: 629
-stars: 87
+stars: 88
 title: Keyboard Analyzer
 type: plugin
 updated: '2022-10-14T18:51:49'

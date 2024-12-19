@@ -2,10 +2,10 @@
 aliases:
 - Reset Font Size
 author:
-- '[[luckman212|luckman212]]'
+- '[[authors/luckman212|luckman212]]'
 categories: []
 description: Adds button and command to reset the font size back to its default value.
-downloads: 6054
+downloads: 6070
 mobile: true
 number: 284
 stars: 12

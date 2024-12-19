@@ -2,11 +2,11 @@
 aliases:
 - random-retrieval
 author:
-- '[[JeanJean-rxl|Rachninomav]]'
+- '[[authors/JeanJean-rxl|Rachninomav]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Random Note Retrieval based on LLMs.
-downloads: 38
+downloads: 41
 mobile: false
 number: 1962
 stars: 1

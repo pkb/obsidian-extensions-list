@@ -2,12 +2,12 @@
 aliases:
 - Things Link
 author:
-- '[[gavinmn|@gavmn]]'
+- '[[authors/gavinmn|@gavmn]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Seamlessly create Things tasks and projects from Obsidian
-downloads: 6599
+downloads: 6609
 mobile: true
 number: 434
 stars: 83

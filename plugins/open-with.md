@@ -2,10 +2,10 @@
 aliases:
 - Open with
 author:
-- '[[phibr0|phibr0]]'
+- '[[authors/phibr0|phibr0]]'
 categories: []
 description: This Plugin allows you to add multiple other programs to open notes with.
-downloads: 8595
+downloads: 8616
 mobile: false
 number: 257
 stars: 37

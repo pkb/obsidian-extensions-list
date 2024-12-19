@@ -2,10 +2,10 @@
 aliases:
 - Calctex
 author:
-- '[[Developer-Mike|Developer-Mike]]'
+- '[[authors/Developer-Mike|Developer-Mike]]'
 categories: []
 description: Calculate LaTeX formulas inside Obsidian.
-downloads: 4817
+downloads: 4848
 mobile: true
 number: 1173
 stars: 7

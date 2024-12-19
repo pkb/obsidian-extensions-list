@@ -2,11 +2,11 @@
 aliases:
 - AnkiSync+
 author:
-- '[[RochaG07|RochaG0]]'
+- '[[authors/RochaG07|RochaG0]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration between Obsidian and Anki.
-downloads: 3711
+downloads: 3732
 mobile: false
 number: 1181
 stars: 10

@@ -2,10 +2,10 @@
 aliases:
 - PDF2Image
 author:
-- '[[rasmusachr|RasmusAChr]]'
+- '[[authors/rasmusachr|RasmusAChr]]'
 categories: []
 description: Turns a PDF into a series of images.
-downloads: 155
+downloads: 173
 mobile: false
 number: 1970
 stars: 2

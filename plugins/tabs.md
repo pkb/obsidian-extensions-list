@@ -2,10 +2,10 @@
 aliases:
 - Tabs
 author:
-- '[[xhuajin|Huajin]]'
+- '[[authors/xhuajin|Huajin]]'
 categories: []
 description: Create tabs in your notes.
-downloads: 9920
+downloads: 10130
 mobile: true
 number: 1696
 stars: 79

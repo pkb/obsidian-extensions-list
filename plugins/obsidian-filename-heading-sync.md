@@ -2,11 +2,11 @@
 aliases:
 - Filename Heading Sync
 author:
-- '[[dvcrn|dvcrn]]'
+- '[[authors/dvcrn|dvcrn]]'
 categories: []
 description: Obsidian plugin for keeping the filename with the first heading of a
   file in sync
-downloads: 45102
+downloads: 45238
 mobile: true
 number: 85
 stars: 173

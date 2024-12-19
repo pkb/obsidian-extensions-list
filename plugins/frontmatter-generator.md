@@ -2,10 +2,10 @@
 aliases:
 - Frontmatter generator
 author:
-- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
+- '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate frontmatter for your notes from json and javascript
-downloads: 3153
+downloads: 3167
 mobile: true
 number: 1220
 stars: 33

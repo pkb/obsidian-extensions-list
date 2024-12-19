@@ -2,10 +2,10 @@
 aliases:
 - GPT-3 Notes
 author:
-- '[[micahke|Micah Elias]]'
+- '[[authors/micahke|Micah Elias]]'
 categories: []
 description: Create a note using OpenAI's GPT-3 language model.
-downloads: 32225
+downloads: 32343
 mobile: true
 number: 736
 stars: 172

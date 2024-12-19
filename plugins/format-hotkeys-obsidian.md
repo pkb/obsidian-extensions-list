@@ -2,10 +2,10 @@
 aliases:
 - Format Hotkeys
 author:
-- '[[anstosa|Ansel Santosa]]'
+- '[[authors/anstosa|Ansel Santosa]]'
 categories: []
 description: Google Docs style formatting hotkeys for Obsidian
-downloads: 6730
+downloads: 6742
 mobile: true
 number: 120
 stars: 19

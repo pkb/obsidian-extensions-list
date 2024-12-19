@@ -2,10 +2,10 @@
 aliases:
 - File Index
 author:
-- '[[Steffo99|Steffo]]'
+- '[[authors/Steffo99|Steffo]]'
 categories: []
 description: Create a metadata file about the files present in the Vault
-downloads: 2669
+downloads: 2682
 mobile: true
 number: 1264
 stars: 6

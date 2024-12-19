@@ -2,12 +2,12 @@
 aliases:
 - Explain Selection With AI
 author:
-- '[[BWurster|Ben Wurster]]'
+- '[[authors/BWurster|Ben Wurster]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use an OpenAI Chat Completion API-compatible LLM endpoint to explain
   the selected text in greater detail.
-downloads: 1921
+downloads: 2012
 mobile: true
 number: 1713
 stars: 3

@@ -2,10 +2,10 @@
 aliases:
 - CodeBlock Tabs
 author:
-- '[[JeminMau|Jemin Mau]]'
+- '[[authors/JeminMau|Jemin Mau]]'
 categories: []
 description: Create tab group for contiguous CodeBlocks.
-downloads: 5163
+downloads: 5211
 mobile: true
 number: 1067
 stars: 24

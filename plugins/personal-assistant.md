@@ -2,19 +2,19 @@
 aliases:
 - Personal Assistant
 author:
-- '[[edonyzpc|edony]]'
+- '[[authors/edonyzpc|edony]]'
 categories: []
 description: Streamline workflows within Obsidian, managing memos and plugins with
   just one command.
-downloads: 11711
+downloads: 11942
 mobile: false
 number: 912
-stars: 87
+stars: 88
 title: Personal Assistant
 type: plugin
-updated: '2024-12-05T15:19:43'
+updated: '2024-12-12T14:37:01'
 url: https://github.com/edonyzpc/personal-assistant
-version: 1.4.4
+version: 1.4.5
 ---
 
 %% README_START %%

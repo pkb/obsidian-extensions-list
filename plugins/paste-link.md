@@ -2,10 +2,10 @@
 aliases:
 - Paste Link
 author:
-- '[[jose-elias-alvarez|Jose Elias Alvarez]]'
+- '[[authors/jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Intelligently paste Markdown links.
-downloads: 5871
+downloads: 6136
 mobile: true
 number: 1293
 stars: 10

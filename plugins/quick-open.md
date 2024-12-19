@@ -2,11 +2,11 @@
 aliases:
 - Quick Select
 author:
-- '[[itsonlyjames|James Alexandre]]'
+- '[[authors/itsonlyjames|James Alexandre]]'
 categories: []
 description: Quickly select items in any modal using keyboard shortcuts. Supercharge
   your workflow with fast, efficient item selection in Obsidian modals.
-downloads: 773
+downloads: 784
 mobile: true
 number: 1820
 stars: 17

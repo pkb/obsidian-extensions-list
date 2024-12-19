@@ -2,13 +2,13 @@
 aliases:
 - Advanced Codeblock
 author:
-- '[[lijyze|Lijyze]]'
+- '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Give additioinal features to  code blocks.
-downloads: 12419
+downloads: 12477
 mobile: true
 number: 533
-stars: 56
+stars: 57
 title: Advanced Codeblock
 type: plugin
 updated: '2023-07-28T17:23:58'

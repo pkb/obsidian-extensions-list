@@ -2,11 +2,11 @@
 aliases:
 - Pseudocode
 author:
-- '[[ytliu74|Yaotian Liu]]'
+- '[[authors/ytliu74|Yaotian Liu]]'
 categories: []
 description: This is an obsidian plugin that helps to render a LaTeX-style pseudocode
   inside a code block.
-downloads: 11500
+downloads: 11592
 mobile: true
 number: 857
 stars: 91

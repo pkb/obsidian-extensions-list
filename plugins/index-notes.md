@@ -2,10 +2,10 @@
 aliases:
 - Index Notes
 author:
-- '[[adanielnoel|Alejandro Daniel Noel]]'
+- '[[authors/adanielnoel|Alejandro Daniel Noel]]'
 categories: []
 description: Keep your notes indexed based on their (hierarchical) tags
-downloads: 807
+downloads: 839
 mobile: true
 number: 1777
 stars: 9

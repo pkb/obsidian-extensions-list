@@ -2,11 +2,11 @@
 aliases:
 - HK Code Block
 author:
-- '[[HeekangPark|Heekang Park]]'
+- '[[authors/HeekangPark|Heekang Park]]'
 categories: []
 description: Obsidian plugin developed by Heekang Park; Make code block looking good
   on reading view
-downloads: 6816
+downloads: 6850
 mobile: true
 number: 890
 stars: 63

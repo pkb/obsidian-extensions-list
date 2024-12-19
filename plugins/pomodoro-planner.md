@@ -2,11 +2,11 @@
 aliases:
 - Pomodoro Planner
 author:
-- '[[onesvat|Onur Nesvat]]'
+- '[[authors/onesvat|Onur Nesvat]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Generates a pomodoro schedule plan
-downloads: 1865
+downloads: 1886
 mobile: true
 number: 1488
 stars: 3

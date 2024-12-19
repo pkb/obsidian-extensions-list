@@ -2,10 +2,10 @@
 aliases:
 - Lean Syntax Highlight
 author:
-- '[[tomaz1502|tomaz1502]]'
+- '[[authors/tomaz1502|tomaz1502]]'
 categories: []
 description: Provides live syntax highlight for the Lean programming language
-downloads: 1470
+downloads: 1483
 mobile: true
 number: 1450
 stars: 5

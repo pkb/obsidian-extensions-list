@@ -2,14 +2,14 @@
 aliases:
 - Jump to link
 author:
-- '[[mrjackphil|MrJackphil]]'
+- '[[authors/mrjackphil|MrJackphil]]'
 categories: []
 description: This plugin allows open a link in current document or regex based navigation
   in editor mode using hotkey
-downloads: 24501
+downloads: 24548
 mobile: true
 number: 12
-stars: 138
+stars: 141
 title: Jump to link
 type: plugin
 updated: '2024-05-22T15:31:43'

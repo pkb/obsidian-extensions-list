@@ -2,11 +2,11 @@
 aliases:
 - Symlink Creator
 author:
-- '[[pteridin|Tobias Heidler]]'
+- '[[authors/pteridin|Tobias Heidler]]'
 categories:
 - '[[categories/File management|File management]]'
 description: Create symlinks to files and folders inside and outside of your vault.
-downloads: 278
+downloads: 295
 mobile: false
 number: 1909
 stars: 5

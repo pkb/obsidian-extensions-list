@@ -2,14 +2,14 @@
 aliases:
 - Daily Notes Editor
 author:
-- '[[Quorafind|Quorafind]]'
+- '[[authors/Quorafind|Quorafind]]'
 categories: []
 description: Edit a bunch of daily notes in one page(inline), which works similar
   to Roam Research's default daily note view.
-downloads: 17378
+downloads: 17545
 mobile: true
 number: 687
-stars: 196
+stars: 197
 title: Daily Notes Editor
 type: plugin
 updated: '2024-07-15T09:57:14'

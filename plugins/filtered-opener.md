@@ -2,10 +2,10 @@
 aliases:
 - Filtered Opener
 author:
-- '[[Balibaloo|Roman Kubiv]]'
+- '[[authors/Balibaloo|Roman Kubiv]]'
 categories: []
 description: Open notes and folders. Chose from sets defined by filters.
-downloads: 2529
+downloads: 2545
 mobile: true
 number: 1461
 stars: 9

@@ -2,12 +2,12 @@
 aliases:
 - Vault 2 Book
 author:
-- '[[Mitra98t|Mitra98t]]'
+- '[[authors/Mitra98t|Mitra98t]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Converts your notes to a book creating a single file containing all the
   notes linked
-downloads: 4016
+downloads: 4028
 mobile: true
 number: 1008
 stars: 25

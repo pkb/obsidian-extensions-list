@@ -2,11 +2,11 @@
 aliases:
 - Custom Icons
 author:
-- '[[RavenHogWarts|RavenHogWarts]]'
+- '[[authors/RavenHogWarts|RavenHogWarts]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Enhance your workspace with customizable icons for documents and folders.
-downloads: 3981
+downloads: 4058
 mobile: true
 number: 1583
 stars: 16

@@ -2,13 +2,13 @@
 aliases:
 - Icon Swapper
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Allows swapping out Obsidian's default icons.
-downloads: 8376
+downloads: 8399
 mobile: true
 number: 154
-stars: 38
+stars: 39
 title: Icon Swapper
 type: plugin
 updated: '2021-12-16T02:19:32'

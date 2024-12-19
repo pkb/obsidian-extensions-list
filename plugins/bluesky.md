@@ -2,11 +2,11 @@
 aliases:
 - Bluesky
 author:
-- '[[eharris128|eharris128]]'
+- '[[authors/eharris128|eharris128]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post to Bluesky.
-downloads: 180
+downloads: 193
 mobile: true
 number: 2022
 stars: 4

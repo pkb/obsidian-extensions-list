@@ -2,11 +2,11 @@
 aliases:
 - Youglish Plugin
 author:
-- '[[nhaouari|Noureddine Haouari]]'
+- '[[authors/nhaouari|Noureddine Haouari]]'
 categories: []
 description: Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased
   answers about how words is spoken by real people and in context.
-downloads: 10418
+downloads: 10458
 mobile: true
 number: 42
 stars: 66

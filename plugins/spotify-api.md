@@ -2,10 +2,10 @@
 aliases:
 - Spotify API
 author:
-- '[[Darren-project|Darren-project]]'
+- '[[authors/Darren-project|Darren-project]]'
 categories: []
 description: Exposes Spotify API
-downloads: 1973
+downloads: 2000
 mobile: true
 number: 1457
 stars: 14

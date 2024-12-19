@@ -2,11 +2,11 @@
 aliases:
 - Content Linker
 author:
-- '[[Medill-East|Medill-East]]'
+- '[[authors/Medill-East|Medill-East]]'
 categories: []
 description: A plugin for searching and adding bi-directional links to existing content
   in Obsidian Vault.
-downloads: 3433
+downloads: 3439
 mobile: false
 number: 1148
 stars: 12

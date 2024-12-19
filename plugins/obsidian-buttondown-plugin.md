@@ -2,10 +2,10 @@
 aliases:
 - Buttondown
 author:
-- '[[caro401|caro401]]'
+- '[[authors/caro401|caro401]]'
 categories: []
 description: Send your notes to your buttondown.email account as email drafts.
-downloads: 3815
+downloads: 3818
 mobile: true
 number: 466
 stars: 17

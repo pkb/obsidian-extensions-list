@@ -2,15 +2,15 @@
 aliases:
 - AI Editor
 author:
-- '[[buszk|Zekun Shen]]'
+- '[[authors/buszk|Zekun Shen]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Empower your note editor with LLM capabilities. Customizable to work
   for your use cases.
-downloads: 4802
+downloads: 4824
 mobile: true
 number: 1132
-stars: 25
+stars: 26
 title: AI Editor
 type: plugin
 updated: '2024-04-15T03:28:35'

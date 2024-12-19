@@ -2,14 +2,14 @@
 aliases:
 - Minimal Theme Settings
 author:
-- '[[kepano|@kepano]]'
+- '[[authors/kepano|@kepano]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Change the colors, fonts and features of Minimal Theme.
-downloads: 990974
+downloads: 997484
 mobile: true
 number: 22
-stars: 465
+stars: 470
 title: Minimal Theme Settings
 type: plugin
 updated: '2024-08-21T02:34:24'

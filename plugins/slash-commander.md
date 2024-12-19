@@ -2,14 +2,14 @@
 aliases:
 - Slash Commander
 author:
-- '[[alephpiece|alephpiece]]'
+- '[[authors/alephpiece|alephpiece]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize the slash command list, assign each command an icon.
-downloads: 13082
+downloads: 13380
 mobile: true
 number: 1318
-stars: 51
+stars: 52
 title: Slash Commander
 type: plugin
 updated: '2024-04-13T21:15:41'

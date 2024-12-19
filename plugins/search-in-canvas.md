@@ -2,10 +2,10 @@
 aliases:
 - Search In Canvas
 author:
-- '[[quorafind|Boninall]]'
+- '[[authors/quorafind|Boninall]]'
 categories: []
 description: Search text in canvas
-downloads: 1026
+downloads: 1065
 mobile: true
 number: 1721
 stars: 10

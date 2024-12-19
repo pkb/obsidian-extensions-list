@@ -2,10 +2,10 @@
 aliases:
 - Auto-\displaystyle Inline Math
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Automatically make all inline maths \displaystyle.
-downloads: 2327
+downloads: 2335
 mobile: true
 number: 1306
 stars: 7

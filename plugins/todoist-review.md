@@ -2,10 +2,10 @@
 aliases:
 - Todoist Review
 author:
-- '[[imcauley|Isaac McAuley]]'
+- '[[authors/imcauley|Isaac McAuley]]'
 categories: []
 description: A pane for reviewing overdue tasks from todoist
-downloads: 1131
+downloads: 1141
 mobile: true
 number: 1462
 stars: 1

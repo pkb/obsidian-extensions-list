@@ -2,11 +2,11 @@
 aliases:
 - Actions URI
 author:
-- '[[czottmann|Carlo Zottmann]]'
+- '[[authors/czottmann|Carlo Zottmann]]'
 categories: []
 description: Adds additional `x-callback-url` endpoints to the app for common actions
   — it's a clean, super-charged addition to Obsidian URI.
-downloads: 49829
+downloads: 50098
 mobile: true
 number: 634
 stars: 139

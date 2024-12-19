@@ -2,11 +2,11 @@
 aliases:
 - Media Sync
 author:
-- '[[fnya|fnya]]'
+- '[[authors/fnya|fnya]]'
 categories: []
 description: Downloads media files(eg. images, PDFs) from the URLs in documents and
   displays the content.
-downloads: 5325
+downloads: 5346
 mobile: false
 number: 1100
 stars: 18

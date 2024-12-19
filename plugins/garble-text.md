@@ -2,12 +2,12 @@
 aliases:
 - Garble Text
 author:
-- '[[kurakart|kurakart]]'
+- '[[authors/kurakart|kurakart]]'
 categories: []
 description: Garbling text in Obsidian turns all content in the entire app (notes,
   sidebar, etc) into lines so you can take screenshots without exposing sensitive
   data.
-downloads: 6092
+downloads: 6105
 mobile: true
 number: 227
 stars: 32

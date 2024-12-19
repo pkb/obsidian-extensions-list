@@ -2,15 +2,15 @@
 aliases:
 - AI Tagger
 author:
-- '[[lucagrippa|Luca Grippa]]'
+- '[[authors/lucagrippa|Luca Grippa]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Analyze and tag your document with one click for efficient note organization
   using AI.
-downloads: 4437
+downloads: 4632
 mobile: true
 number: 1451
-stars: 63
+stars: 66
 title: AI Tagger
 type: plugin
 updated: '2024-12-08T06:11:33'

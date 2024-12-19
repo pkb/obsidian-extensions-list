@@ -2,10 +2,10 @@
 aliases:
 - short tab name
 author:
-- '[[shumpei-tanaka|Shumpei-Tanaka]]'
+- '[[authors/shumpei-tanaka|Shumpei-Tanaka]]'
 categories: []
 description: set tab name to short for uid user
-downloads: 2076
+downloads: 2079
 mobile: true
 number: 1269
 stars: 0

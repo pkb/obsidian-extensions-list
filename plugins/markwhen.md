@@ -2,14 +2,14 @@
 aliases:
 - Markwhen
 author:
-- '[[mark-when|Markwhen]]'
+- '[[authors/mark-when|Markwhen]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Create timelines, gantt charts, calendars, and more using markwhen.
-downloads: 6782
+downloads: 7140
 mobile: false
 number: 1643
-stars: 240
+stars: 246
 title: Markwhen
 type: plugin
 updated: '2024-12-05T01:56:01'

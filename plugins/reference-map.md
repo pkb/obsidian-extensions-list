@@ -2,10 +2,10 @@
 aliases:
 - Reference Map
 author:
-- '[[anoopkcn|Anoop K. Chandran]]'
+- '[[authors/anoopkcn|Anoop K. Chandran]]'
 categories: []
 description: Reference and citation map for literature review and discovery
-downloads: 15017
+downloads: 15051
 mobile: false
 number: 770
 stars: 201

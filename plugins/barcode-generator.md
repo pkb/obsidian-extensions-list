@@ -2,10 +2,10 @@
 aliases:
 - Barcode Generator
 author:
-- '[[noxonad|noxonad]]'
+- '[[authors/noxonad|noxonad]]'
 categories: []
 description: Generates customizable barcodes into your notes.
-downloads: 2538
+downloads: 2545
 mobile: true
 number: 1263
 stars: 8

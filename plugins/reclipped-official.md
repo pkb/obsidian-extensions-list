@@ -2,11 +2,11 @@
 aliases:
 - ReClipped Official
 author:
-- '[[tech-reclipped|ReClipped]]'
+- '[[authors/tech-reclipped|ReClipped]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official ReClipped and Obsidian integration
-downloads: 2586
+downloads: 2592
 mobile: true
 number: 1202
 stars: 4

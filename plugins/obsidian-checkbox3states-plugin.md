@@ -2,10 +2,10 @@
 aliases:
 - Checkbox 3 states
 author:
-- '[[hrenaud|Renaud Héluin @ NovaGaïa]]'
+- '[[authors/hrenaud|Renaud Héluin @ NovaGaïa]]'
 categories: []
 description: This is a simple plugin for add a third state to checkbox list.
-downloads: 6077
+downloads: 6097
 mobile: true
 number: 648
 stars: 15

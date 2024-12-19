@@ -2,10 +2,10 @@
 aliases:
 - Bitcoin Block Stamp
 author:
-- '[[sfr0xyz|sefiro]]'
+- '[[authors/sfr0xyz|sefiro]]'
 categories: []
 description: Stamp your notes with the current Bitcoin block.
-downloads: 399
+downloads: 401
 mobile: true
 number: 1603
 stars: 2

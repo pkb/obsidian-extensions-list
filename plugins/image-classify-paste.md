@@ -2,11 +2,11 @@
 aliases:
 - Image Classify Paste
 author:
-- '[[ostoe|tianfx]]'
+- '[[authors/ostoe|tianfx]]'
 categories: []
 description: paste your image like typora, the image link name not `![[Paste xxx]]`
   but `![some name](relative-directory/xxx.png)`with a relative directory. 类比于typora的方式粘贴图片到本地，存放在以当前md文档命名的文件夹里。
-downloads: 2882
+downloads: 2895
 mobile: false
 number: 1282
 stars: 8

@@ -2,10 +2,10 @@
 aliases:
 - IMDb
 author:
-- '[[aaachen|Andrew Chen]]'
+- '[[authors/aaachen|Andrew Chen]]'
 categories: []
 description: Sync your IMDb list
-downloads: 606
+downloads: 611
 mobile: false
 number: 1581
 stars: 13

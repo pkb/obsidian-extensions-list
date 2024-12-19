@@ -2,10 +2,10 @@
 aliases:
 - Paste From History
 author:
-- '[[Karakaz|Daniel Karakka]]'
+- '[[authors/Karakaz|Daniel Karakka]]'
 categories: []
 description: Paste from the editor's recent clipboard history.
-downloads: 1747
+downloads: 1757
 mobile: true
 number: 1363
 stars: 7

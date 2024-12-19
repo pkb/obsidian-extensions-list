@@ -2,10 +2,10 @@
 aliases:
 - Definition List
 author:
-- '[[shammond42|shammond42]]'
+- '[[authors/shammond42|shammond42]]'
 categories: []
 description: Adds definition lists to the markdown parser.
-downloads: 738
+downloads: 759
 mobile: true
 number: 1719
 stars: 9

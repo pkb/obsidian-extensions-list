@@ -2,10 +2,10 @@
 aliases:
 - Note archiver
 author:
-- '[[thenomadlad|thenomadlad]]'
+- '[[authors/thenomadlad|thenomadlad]]'
 categories: []
 description: Tools to archive your notes in another folder
-downloads: 4608
+downloads: 4629
 mobile: true
 number: 962
 stars: 21

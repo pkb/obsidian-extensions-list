@@ -2,11 +2,11 @@
 aliases:
 - Alias Management
 author:
-- '[[WithMarcel|WithMarcel]]'
+- '[[authors/WithMarcel|WithMarcel]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Identify duplicate notes based on similar aliases and filenames.
-downloads: 1864
+downloads: 1897
 mobile: false
 number: 1483
 stars: 7

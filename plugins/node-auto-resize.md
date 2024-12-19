@@ -2,10 +2,10 @@
 aliases:
 - Node Auto Resize
 author:
-- '[[quorafind|Boninall]]'
+- '[[authors/quorafind|Boninall]]'
 categories: []
 description: Automatically resize the node when the content changes.
-downloads: 1053
+downloads: 1092
 mobile: true
 number: 1732
 stars: 18

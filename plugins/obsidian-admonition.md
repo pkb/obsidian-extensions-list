@@ -2,11 +2,11 @@
 aliases:
 - Admonition
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Enhanced callouts for Obsidian.md
-downloads: 741064
+downloads: 743365
 mobile: true
 number: 139
 stars: 1100

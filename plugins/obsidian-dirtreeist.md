@@ -2,10 +2,10 @@
 aliases:
 - Dirtreeist
 author:
-- '[[k4a-l|kasahala]]'
+- '[[authors/k4a-l|kasahala]]'
 categories: []
 description: Render a directory Structure Diagram from a markdown lists in codeblock.
-downloads: 5492
+downloads: 5505
 mobile: true
 number: 671
 stars: 30

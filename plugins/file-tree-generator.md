@@ -2,10 +2,10 @@
 aliases:
 - File Tree Generator
 author:
-- '[[Unarray|Unarray]]'
+- '[[authors/Unarray|Unarray]]'
 categories: []
 description: Generate a file tree using Obsidian callouts.
-downloads: 3075
+downloads: 3087
 mobile: true
 number: 1206
 stars: 5

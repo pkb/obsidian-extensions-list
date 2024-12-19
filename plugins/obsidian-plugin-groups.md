@@ -2,13 +2,13 @@
 aliases:
 - Plugin Groups
 author:
-- '[[Mocca101|Mocca101]]'
+- '[[authors/Mocca101|Mocca101]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: 'Manage your Plugins through groups: Enable and disable multiple plugins
   through a single command, or delay the startup of plugins to speed up your Obsidian
   start up time.'
-downloads: 25971
+downloads: 26094
 mobile: true
 number: 765
 stars: 132

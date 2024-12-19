@@ -2,12 +2,12 @@
 aliases:
 - Scrybble
 author:
-- '[[Azeirah|Streamsoft]]'
+- '[[authors/Azeirah|Streamsoft]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Integration|Integration]]'
 description: Synchronize highlights from your ReMarkable to Obsidian!
-downloads: 12667
+downloads: 12851
 mobile: true
 number: 692
 stars: 34

@@ -2,13 +2,13 @@
 aliases:
 - Ego Rock
 author:
-- '[[echo-bravo-yahoo|Ashton Eby]]'
+- '[[authors/echo-bravo-yahoo|Ashton Eby]]'
 categories: []
 description: A basic taskwarrior UI for listing and modifying tasks.
-downloads: 3465
+downloads: 3572
 mobile: false
 number: 1470
-stars: 8
+stars: 9
 title: Ego Rock
 type: plugin
 updated: '2024-03-22T23:01:06'

@@ -2,11 +2,11 @@
 aliases:
 - Slackify Note
 author:
-- '[[jeremyoverman|Jeremy Overman]]'
+- '[[authors/jeremyoverman|Jeremy Overman]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Converts a note to a Slack-compliant markdown using [slackify-markdown](https://www.npmjs.com/package/slackify-markdown)
-downloads: 2654
+downloads: 2664
 mobile: true
 number: 1251
 stars: 5

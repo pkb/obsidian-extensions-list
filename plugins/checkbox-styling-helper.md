@@ -2,10 +2,10 @@
 aliases:
 - Checkbox styling helper
 author:
-- '[[jaewonE|JaewonE]]'
+- '[[authors/jaewonE|JaewonE]]'
 categories: []
 description: Helps you styling checkboxes in preview mode.
-downloads: 1156
+downloads: 1176
 mobile: true
 number: 1759
 stars: 9

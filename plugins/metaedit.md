@@ -2,10 +2,10 @@
 aliases:
 - MetaEdit
 author:
-- '[[chhoumann|Christian B. B. Houmann]]'
+- '[[authors/chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: MetaEdit helps you manage your metadata.
-downloads: 93173
+downloads: 93554
 mobile: true
 number: 193
 stars: 417

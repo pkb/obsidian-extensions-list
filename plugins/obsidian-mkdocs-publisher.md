@@ -2,12 +2,12 @@
 aliases:
 - Enveloppe
 author:
-- '[[Enveloppe|Mara-Li]]'
+- '[[authors/Enveloppe|Mara-Li]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enveloppe helps you to publish your notes on a preconfigured GitHub repository,
   for free, and more!
-downloads: 38027
+downloads: 38150
 mobile: true
 number: 498
 stars: 669

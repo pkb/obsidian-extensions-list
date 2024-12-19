@@ -2,10 +2,10 @@
 aliases:
 - Link Converter
 author:
-- '[[ozntel|Ozan Tellioglu]]'
+- '[[authors/ozntel|Ozan Tellioglu]]'
 categories: []
 description: Scan all your links in the vault and convert them to your desired format.
-downloads: 21752
+downloads: 21854
 mobile: true
 number: 320
 stars: 180

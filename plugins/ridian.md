@@ -2,14 +2,14 @@
 aliases:
 - Ridian
 author:
-- '[[MichelNivard|Michel Nivard]]'
+- '[[authors/MichelNivard|Michel Nivard]]'
 categories: []
 description: Execute R code blocks and display outputs and plots & render documents
   with Quarto within Obsidian.
-downloads: 198
+downloads: 227
 mobile: false
 number: 2029
-stars: 70
+stars: 71
 title: Ridian
 type: plugin
 updated: '2024-12-04T14:27:52'

@@ -2,10 +2,10 @@
 aliases:
 - Run
 author:
-- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
+- '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate markdown from dataview query and javascript
-downloads: 2703
+downloads: 2710
 mobile: true
 number: 1270
 stars: 38

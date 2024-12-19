@@ -2,10 +2,10 @@
 aliases:
 - Style Text
 author:
-- '[[juanjoarranz|Juanjo Arranz]]'
+- '[[authors/juanjoarranz|Juanjo Arranz]]'
 categories: []
 description: Apply custom CSS styles to selected text in your Obsidian Notes.
-downloads: 7750
+downloads: 7826
 mobile: true
 number: 1005
 stars: 21

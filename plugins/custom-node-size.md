@@ -2,10 +2,10 @@
 aliases:
 - Custom Node Size
 author:
-- '[[jackvonhouse|jackvonhouse]]'
+- '[[authors/jackvonhouse|jackvonhouse]]'
 categories: []
 description: Customize nodes size for improved graph understanding.
-downloads: 782
+downloads: 846
 mobile: true
 number: 1922
 stars: 2

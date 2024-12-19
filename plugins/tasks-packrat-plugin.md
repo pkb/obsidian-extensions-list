@@ -2,14 +2,14 @@
 aliases:
 - Packrat
 author:
-- '[[therden|Thomas Herden]]'
+- '[[authors/therden|Thomas Herden]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Process completed recurring Tasks
-downloads: 5141
+downloads: 5156
 mobile: true
 number: 529
-stars: 17
+stars: 18
 title: Packrat
 type: plugin
 updated: '2024-01-03T03:20:48'

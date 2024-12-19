@@ -2,15 +2,15 @@
 aliases:
 - Solve
 author:
-- '[[LiamRiddell|Liam Riddell]]'
+- '[[authors/LiamRiddell|Liam Riddell]]'
 categories: []
 description: Supercharge your notes with real-time calculations without AI fuss. From
   dates ('Now + 20 days'), percentages ('10% of 120'), units of measurement ('100cm
   + 2m'), arithmetic ('10 + 5') and more!
-downloads: 14637
+downloads: 14821
 mobile: true
 number: 1095
-stars: 82
+stars: 86
 title: Solve
 type: plugin
 updated: '2024-10-09T03:26:19'

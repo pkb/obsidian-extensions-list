@@ -2,10 +2,10 @@
 aliases:
 - Edit MDX
 author:
-- '[[timppeters|Tim Peters]]'
+- '[[authors/timppeters|Tim Peters]]'
 categories: []
 description: Allows the user to edit and create .mdx files.
-downloads: 2590
+downloads: 2612
 mobile: true
 number: 1267
 stars: 2

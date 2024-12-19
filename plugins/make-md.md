@@ -2,19 +2,19 @@
 aliases:
 - MAKE.md
 author:
-- '[[Make-md|MAKE.md]]'
+- '[[authors/Make-md|MAKE.md]]'
 categories: []
 description: Make.md brings powerful and modern note-taking features to Obsidian.
   Capture, organize and connect information with more flexibility without any code.
-downloads: 439719
+downloads: 445598
 mobile: true
 number: 698
 stars: 1100
 title: MAKE.md
 type: plugin
-updated: '2024-11-07T05:30:51'
+updated: '2024-12-16T09:21:40'
 url: https://github.com/Make-md/makemd
-version: 0.9.1011
+version: 0.9.1013
 ---
 
 %% README_START %%

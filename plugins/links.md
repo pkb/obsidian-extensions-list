@@ -2,10 +2,10 @@
 aliases:
 - Links
 author:
-- '[[mii-key|MiiKey]]'
+- '[[authors/mii-key|MiiKey]]'
 categories: []
 description: Manipulate links
-downloads: 43000
+downloads: 43156
 mobile: true
 number: 907
 stars: 107

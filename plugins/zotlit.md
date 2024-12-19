@@ -2,15 +2,15 @@
 aliases:
 - ZotLit
 author:
-- '[[PKM-er|AidenLx]]'
+- '[[authors/PKM-er|AidenLx]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Plugin to integrate with Zotero, create literature notes and insert citations
   from a Zotero library.
-downloads: 27691
+downloads: 28101
 mobile: false
 number: 1161
-stars: 686
+stars: 690
 title: ZotLit
 type: plugin
 updated: '2024-11-20T14:21:43'

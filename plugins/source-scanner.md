@@ -2,11 +2,11 @@
 aliases:
 - Source Scanner
 author:
-- '[[gerrie-myburgh|Gerrie Myburgh]]'
+- '[[authors/gerrie-myburgh|Gerrie Myburgh]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Scan java source and test code for comments then place it in md files.
-downloads: 4083
+downloads: 4085
 mobile: true
 number: 1032
 stars: 3

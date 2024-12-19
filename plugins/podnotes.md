@@ -2,13 +2,13 @@
 aliases:
 - PodNotes
 author:
-- '[[chhoumann|Christian B. B. Houmann]]'
+- '[[authors/chhoumann|Christian B. B. Houmann]]'
 categories: []
 description: Helps you write notes on podcasts.
-downloads: 41828
+downloads: 42044
 mobile: true
 number: 576
-stars: 220
+stars: 221
 title: PodNotes
 type: plugin
 updated: '2024-11-03T17:36:26'

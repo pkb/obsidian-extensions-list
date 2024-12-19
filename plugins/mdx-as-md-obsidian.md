@@ -2,10 +2,10 @@
 aliases:
 - mdx as md
 author:
-- '[[mkozhukharenko|death_au]]'
+- '[[authors/mkozhukharenko|death_au]]'
 categories: []
 description: Edit mdx files as if they were markdown
-downloads: 5252
+downloads: 5277
 mobile: true
 number: 155
 stars: 24

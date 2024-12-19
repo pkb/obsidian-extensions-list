@@ -2,15 +2,15 @@
 aliases:
 - Import Attachments+
 author:
-- '[[alberti42|Andrea Alberti]]'
+- '[[authors/alberti42|Andrea Alberti]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 - '[[categories/Import|Import]]'
 description: Move and link the attachments into the vault.
-downloads: 2152
+downloads: 2202
 mobile: true
 number: 1760
-stars: 15
+stars: 16
 title: Import Attachments+
 type: plugin
 updated: '2024-11-18T03:31:31'

@@ -2,12 +2,12 @@
 aliases:
 - Review
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a link to the current note to a daily note on a future date (or a
   past date, you time traveller).
-downloads: 52873
+downloads: 53685
 mobile: true
 number: 20
 stars: 147

@@ -2,11 +2,11 @@
 aliases:
 - Release Timeline
 author:
-- '[[cakechaser|cakechaser]]'
+- '[[authors/cakechaser|cakechaser]]'
 categories: []
 description: Release timeline rendered based on notes metadata with a dataview-like
   syntax.
-downloads: 8780
+downloads: 8802
 mobile: true
 number: 516
 stars: 46

@@ -2,11 +2,11 @@
 aliases:
 - Simple Dice Roller
 author:
-- '[[yeeshue99|yeeshue]]'
+- '[[authors/yeeshue99|yeeshue]]'
 categories: []
 description: A plug and play solution that allows you to average and simulate dice
   formulas.
-downloads: 5056
+downloads: 5075
 mobile: true
 number: 535
 stars: 3

@@ -2,19 +2,19 @@
 aliases:
 - Emera
 author:
-- '[[OlegWock|OlegWock]]'
+- '[[authors/OlegWock|OlegWock]]'
 categories: []
 description: Enables you to use custom React components and inline JavaScript, kinda
   like MDX.
-downloads: 260
+downloads: 304
 mobile: true
 number: 1852
-stars: 15
+stars: 17
 title: Emera
 type: plugin
-updated: '2024-08-31T22:40:13'
+updated: '2024-12-12T17:06:50'
 url: https://github.com/OlegWock/obsidian-emera
-version: 1.4.1
+version: 1.4.2
 ---
 
 %% README_START %%

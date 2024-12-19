@@ -2,10 +2,10 @@
 aliases:
 - Suggest Notes
 author:
-- '[[Doggy-Footprint|Doggy-Footprint]]'
+- '[[authors/Doggy-Footprint|Doggy-Footprint]]'
 categories: []
 description: Quick suggests for linkable notes
-downloads: 128
+downloads: 132
 mobile: true
 number: 1862
 stars: 3

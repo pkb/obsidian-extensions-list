@@ -2,14 +2,14 @@
 aliases:
 - Meld Build
 author:
-- '[[meld-cp|meld-cp]]'
+- '[[authors/meld-cp|meld-cp]]'
 categories: []
 description: Write and execute (sandboxed) JavaScript to render templates, query DataView
   and create dynamic notes.
-downloads: 4159
+downloads: 4163
 mobile: true
 number: 850
-stars: 28
+stars: 29
 title: Meld Build
 type: plugin
 updated: '2023-03-26T03:43:20'

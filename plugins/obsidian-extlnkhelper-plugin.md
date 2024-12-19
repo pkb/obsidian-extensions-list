@@ -2,10 +2,10 @@
 aliases:
 - External Link Helper
 author:
-- '[[nakalsio|Jhonghee Park]]'
+- '[[authors/nakalsio|Jhonghee Park]]'
 categories: []
 description: This is a plugin for making entering external links easier.
-downloads: 3968
+downloads: 3973
 mobile: true
 number: 730
 stars: 16

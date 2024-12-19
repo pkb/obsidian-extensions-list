@@ -2,14 +2,14 @@
 aliases:
 - Banners
 author:
-- '[[noatpad|Noatpad]]'
+- '[[authors/noatpad|Noatpad]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add banner images to your notes!
-downloads: 217213
+downloads: 218777
 mobile: true
 number: 278
-stars: 649
+stars: 653
 title: Banners
 type: plugin
 updated: '2023-10-15T01:04:19'

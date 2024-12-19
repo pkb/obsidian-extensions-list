@@ -2,14 +2,14 @@
 aliases:
 - Chess Study
 author:
-- '[[chrislicodes|Christoph Lindstädt]]'
+- '[[authors/chrislicodes|Christoph Lindstädt]]'
 categories:
 - '[[categories/Games|Games]]'
 description: A chess study helper and PGN viewer/editor.
-downloads: 5382
+downloads: 5411
 mobile: false
 number: 943
-stars: 37
+stars: 38
 title: Chess Study
 type: plugin
 updated: '2024-02-11T20:31:03'

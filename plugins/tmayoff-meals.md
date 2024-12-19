@@ -2,11 +2,11 @@
 aliases:
 - Meal Plan
 author:
-- '[[tmayoff|Tyler Mayoff]]'
+- '[[authors/tmayoff|Tyler Mayoff]]'
 categories: []
 description: Store and manage recipes, create weekly meal plans and generate shopping
   lists.
-downloads: 2573
+downloads: 2604
 mobile: true
 number: 1340
 stars: 12

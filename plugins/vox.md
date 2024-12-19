@@ -2,10 +2,10 @@
 aliases:
 - Vox
 author:
-- '[[vincentbavitz|vincentbavitz]]'
+- '[[authors/vincentbavitz|vincentbavitz]]'
 categories: []
 description: Intelligently trancribe and categorize your voice notes
-downloads: 5275
+downloads: 5307
 mobile: false
 number: 1124
 stars: 53

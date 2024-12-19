@@ -2,10 +2,10 @@
 aliases:
 - Path Title
 author:
-- '[[jdeal|jdeal]]'
+- '[[authors/jdeal|jdeal]]'
 categories: []
 description: Adds path (or optional replacement) to the filename title of each pane
-downloads: 8382
+downloads: 8403
 mobile: true
 number: 475
 stars: 23

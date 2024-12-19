@@ -2,11 +2,11 @@
 aliases:
 - Postfix
 author:
-- '[[bhagyas|Bhagya Nirmaan Silva]]'
+- '[[authors/bhagyas|Bhagya Nirmaan Silva]]'
 categories: []
 description: This plugin provides postfix completions for Obsidian. The built-in completions
   are provided for markdown.
-downloads: 3029
+downloads: 3034
 mobile: true
 number: 1104
 stars: 3

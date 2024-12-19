@@ -2,10 +2,10 @@
 aliases:
 - Broken Links
 author:
-- '[[ipshing|ipshing]]'
+- '[[authors/ipshing|ipshing]]'
 categories: []
 description: Find broken links in your vault that don't connect to notes.
-downloads: 2316
+downloads: 2348
 mobile: true
 number: 1426
 stars: 20

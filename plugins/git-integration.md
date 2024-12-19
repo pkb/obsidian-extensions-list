@@ -2,10 +2,10 @@
 aliases:
 - Git Integration
 author:
-- '[[noradroid|noradroid]]'
+- '[[authors/noradroid|noradroid]]'
 categories: []
 description: Easily backup vault on a remote repository.
-downloads: 1894
+downloads: 1921
 mobile: false
 number: 1430
 stars: 4

@@ -2,10 +2,10 @@
 aliases:
 - Spoilers
 author:
-- '[[jacobtread|Jacobtread]]'
+- '[[authors/jacobtread|Jacobtread]]'
 categories: []
 description: Hide and reveal blocks of information
-downloads: 1044
+downloads: 1075
 mobile: true
 number: 1734
 stars: 5

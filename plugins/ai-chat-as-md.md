@@ -2,11 +2,11 @@
 aliases:
 - AI Chat as Markdown
 author:
-- '[[cpbotha|Charl P. Botha]]'
+- '[[authors/cpbotha|Charl P. Botha]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Multiple branching AI conversations as Markdown hierarchy
-downloads: 399
+downloads: 410
 mobile: true
 number: 1767
 stars: 10

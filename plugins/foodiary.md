@@ -2,10 +2,10 @@
 aliases:
 - Foodiary
 author:
-- '[[vkostyanetsky|vkostyanetsky]]'
+- '[[authors/vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Food tracker, macronutrient and calorie calculator.
-downloads: 1232
+downloads: 1244
 mobile: true
 number: 1557
 stars: 8

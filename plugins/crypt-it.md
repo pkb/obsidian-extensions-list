@@ -2,11 +2,11 @@
 aliases:
 - Crypt It
 author:
-- '[[remotely-save|fyears]]'
+- '[[authors/remotely-save|fyears]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Generate encrypted version of file(s) using rclone encryption format.
-downloads: 1026
+downloads: 1034
 mobile: true
 number: 1537
 stars: 1

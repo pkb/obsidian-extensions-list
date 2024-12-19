@@ -2,10 +2,10 @@
 aliases:
 - Kanban
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Create markdown-backed Kanban boards in Obsidian.
-downloads: 1452848
+downloads: 1463242
 mobile: true
 number: 159
 stars: 3300

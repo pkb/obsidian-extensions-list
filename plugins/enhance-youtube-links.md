@@ -2,10 +2,10 @@
 aliases:
 - Enhance YouTube Links
 author:
-- '[[Git-Sum|Git-Sum]]'
+- '[[authors/Git-Sum|Git-Sum]]'
 categories: []
 description: Get metadata from a YouTube video
-downloads: 4384
+downloads: 4411
 mobile: true
 number: 1245
 stars: 12

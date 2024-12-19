@@ -2,18 +2,18 @@
 aliases:
 - Tab Selector
 author:
-- '[[namikaze-40p|namikaze-40p]]'
+- '[[authors/namikaze-40p|namikaze-40p]]'
 categories: []
 description: Quickly switch tabs in various ways.
-downloads: 3663
+downloads: 3789
 mobile: true
 number: 1522
 stars: 15
 title: Tab Selector
 type: plugin
-updated: '2024-10-15T09:40:36'
+updated: '2024-12-15T06:54:02'
 url: https://github.com/namikaze-40p/obsidian-tab-selector
-version: 0.8.3
+version: 0.8.4
 ---
 
 %% README_START %%

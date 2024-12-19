@@ -2,10 +2,10 @@
 aliases:
 - my anime list text exporter
 author:
-- '[[Xmoncoco|XmoncocoX]]'
+- '[[authors/Xmoncoco|XmoncocoX]]'
 categories: []
 description: add anime data for your notes
-downloads: 1066
+downloads: 1079
 mobile: true
 number: 1605
 stars: 4

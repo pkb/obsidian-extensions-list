@@ -2,16 +2,16 @@
 aliases:
 - Enzyme
 author:
-- '[[jshph|Joshua Pham]]'
+- '[[authors/jshph|Joshua Pham]]'
 categories: []
 description: a REPL to digest your thoughts
-downloads: 2218
+downloads: 2231
 mobile: false
 number: 1393
-stars: 34
+stars: 35
 title: Enzyme
 type: plugin
-updated: '2024-10-28T15:20:53'
+updated: '2024-12-12T11:54:51'
 url: https://github.com/jshph/obsidian-reason
 version: 0.3.7
 ---

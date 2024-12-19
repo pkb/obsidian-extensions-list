@@ -2,10 +2,10 @@
 aliases:
 - Order List
 author:
-- '[[lizard-heart|Henry Gustafson]]'
+- '[[authors/lizard-heart|Henry Gustafson]]'
 categories: []
 description: Orders list by number at end of line
-downloads: 3765
+downloads: 3767
 mobile: true
 number: 758
 stars: 5

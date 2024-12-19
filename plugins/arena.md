@@ -2,10 +2,10 @@
 aliases:
 - Are.na unofficial
 author:
-- '[[0xroko|0xroko]]'
+- '[[authors/0xroko|0xroko]]'
 categories: []
 description: Allows you to save Are.na blocks as notes.
-downloads: 2154
+downloads: 2156
 mobile: true
 number: 1276
 stars: 16

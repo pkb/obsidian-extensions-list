@@ -2,11 +2,11 @@
 aliases:
 - Dataview
 author:
-- '[[blacksmithgu|Michael Brenan <blacksmithgu@gmail.com>]]'
+- '[[authors/blacksmithgu|Michael Brenan <blacksmithgu@gmail.com>]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Complex data views for the data-obsessed.
-downloads: 2318468
+downloads: 2336587
 mobile: true
 number: 92
 stars: 7200

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Bridge your note-taking and task management workflows by maintaining
   strong contextual connections with Todoist.
-downloads: 237
+downloads: 299
 mobile: true
 number: 2049
-stars: 8
+stars: 10
 title: Todoist Context Bridge
 type: plugin
 updated: '2024-12-07T00:30:18'
@@ -37,16 +37,24 @@ Unlike traditional Todoist sync plugins that try to sync everything, Context Bri
 - 🎯 **Focus** on what truly matters
 - 🔒 **Maintain** system reliability through one-way sync
 
-## Articles and Discussions
+## Videos and Articles
 
-To learn more about PTKM and how to use this plugin, check out the following articles and discussions:
+### Videos
+
+<a href="https://youtu.be/2cpQCrP_pqs" target="_blank">
+  <img src="https://raw.githubusercontent.com/wenlzhang/obsidian-todoist-context-bridge/HEAD/docs/attachment/thumbnail-demo.png" width="800" alt="Enhance Your Productivity: Integrating Obsidian and Todoist with the PTKM Method" />
+</a>
+
+### Articles
+
+To learn more about PTKM and how to use this plugin, check out the following articles:
 
 - [The Importance of Context in Task and Knowledge Management: Leveraging the Obsidian Todoist Context Bridge Plugin | by PTKM | Obsidian Observer | Nov, 2024 | Medium](https://medium.com/obsidian-observer/the-importance-of-context-in-task-and-knowledge-management-leveraging-the-obsidian-todoist-context-8b22e6a68fc1)
-- [Bridging Tasks and Knowledge in Obsidian: Introducing the Todoist Context Bridge Plugin | by PTKM | Obsidian Observer | Nov, 2024 | Medium](https://medium.com/obsidian-observer/bridging-tasks-and-knowledge-in-obsidian-introducing-the-todoist-context-bridge-plugin-d0340913309a) 
+- [Bridging Tasks and Knowledge in Obsidian: Introducing the Todoist Context Bridge Plugin | by PTKM | Obsidian Observer | Nov, 2024 | Medium](https://medium.com/obsidian-observer/bridging-tasks-and-knowledge-in-obsidian-introducing-the-todoist-context-bridge-plugin-d0340913309a)
 
 ## Why You Need Todoist Context Bridge
 
-[Obsidian Todoist Context Bridge](https://exp.ptkm.net/obsidian-todoist-context-bridge) was crafted with five [PTKM Core Principles](https://exp.ptkm.net/ptkm-core-principles) that shape its functionality:
+[Todoist Context Bridge](https://exp.ptkm.net/obsidian-todoist-context-bridge) was crafted with five [PTKM Core Principles](https://exp.ptkm.net/ptkm-core-principles) that shape its functionality:
 
 - **Task-Centered Workflow**: Prioritizing efficient task management and natural workflow integration
 - **Context Preservation**: Ensuring no valuable information is lost in the task management process
@@ -54,7 +62,7 @@ To learn more about PTKM and how to use this plugin, check out the following art
 - **Focus on Priority**: Helping users concentrate on what truly matters
 - **Reliable Redundancy**: Maintaining data integrity through smart synchronization
 
-This plugin was born from a real-world challenge: the need to effectively highlight and track important tasks while preserving their complete context. As both an Obsidian enthusiast and Todoist power user, I discovered that while not every note-taking task warranted a place in my task manager, the crucial ones deserved focused attention and reliable tracking.
+**Todoist Context Bridge** was born from a real-world challenge: the need to effectively highlight and track important tasks while preserving their complete context. As both an Obsidian enthusiast and Todoist power user, I discovered that while not every note-taking task warranted a place in my task manager, the crucial ones deserved focused attention and reliable tracking.
 
 ### The Challenge
 
@@ -62,7 +70,7 @@ Modern knowledge workers face a common dilemma: Obsidian excels at capturing tas
 
 ### The Bridge
 
-This plugin elegantly solves this challenge through four key mechanisms:
+**Todoist Context Bridge** elegantly solves this challenge through four key mechanisms:
 
 1. **Selective Sync**: Thoughtfully choose which tasks deserve promotion to your Todoist workflow
 2. **Contextual Links**: Maintain robust bidirectional connections to your original Obsidian notes

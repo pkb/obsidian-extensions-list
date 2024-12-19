@@ -2,13 +2,13 @@
 aliases:
 - Fountain Editor
 author:
-- '[[chuangcaleb|Chuang Caleb]]'
+- '[[authors/chuangcaleb|Chuang Caleb]]'
 categories: []
 description: Fountain (screenplay) syntax highlighting in the editor
-downloads: 5293
+downloads: 5367
 mobile: true
 number: 1235
-stars: 40
+stars: 41
 title: Fountain Editor
 type: plugin
 updated: '2024-01-25T10:04:07'

@@ -2,15 +2,15 @@
 aliases:
 - Time Ruler
 author:
-- '[[joshuatazrein|Joshua Tazman Reinier]]'
+- '[[authors/joshuatazrein|Joshua Tazman Reinier]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: A drag-and-drop time ruler combining the best of a task list and a calendar
   view (integrates with Tasks, Full Calendar, and Dataview).
-downloads: 36696
+downloads: 37029
 mobile: true
 number: 986
-stars: 238
+stars: 239
 title: Time Ruler
 type: plugin
 updated: '2024-10-14T16:07:21'

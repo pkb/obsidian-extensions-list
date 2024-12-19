@@ -2,12 +2,12 @@
 aliases:
 - Enhanced Image
 author:
-- '[[situ2001|situ2001]]'
+- '[[authors/situ2001|situ2001]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Enhance the experience of image seamlessly. For example, operations for
   image in context menu, command palette.
-downloads: 263
+downloads: 287
 mobile: true
 number: 1898
 stars: 8

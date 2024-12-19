@@ -2,11 +2,11 @@
 aliases:
 - ruby.wasm
 author:
-- '[[geeknees|geeknees]]'
+- '[[authors/geeknees|geeknees]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Run ruby code in your notes using WebAssembly
-downloads: 180
+downloads: 183
 mobile: true
 number: 1633
 stars: 7

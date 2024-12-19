@@ -2,10 +2,10 @@
 aliases:
 - Recent Tab Switcher
 author:
-- '[[samuelrawrs|Samuel Ang]]'
+- '[[authors/samuelrawrs|Samuel Ang]]'
 categories: []
 description: Switch to the most recently used tab.
-downloads: 191
+downloads: 198
 mobile: false
 number: 1823
 stars: 3

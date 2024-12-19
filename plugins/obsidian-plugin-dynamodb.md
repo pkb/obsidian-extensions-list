@@ -2,10 +2,10 @@
 aliases:
 - AWS DynamoDb For Obsidian
 author:
-- '[[leenattress|Lee Nattress]]'
+- '[[authors/leenattress|Lee Nattress]]'
 categories: []
 description: Query AWS DynamoDb and render tables inside documents.
-downloads: 3392
+downloads: 3394
 mobile: true
 number: 696
 stars: 6

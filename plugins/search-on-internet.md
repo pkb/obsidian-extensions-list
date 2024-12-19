@@ -2,10 +2,10 @@
 aliases:
 - Search on Internet
 author:
-- '[[HEmile|Emile]]'
+- '[[authors/HEmile|Emile]]'
 categories: []
 description: Add context menu items to search the internet within Obsidian.
-downloads: 26275
+downloads: 26320
 mobile: false
 number: 74
 stars: 109

@@ -2,11 +2,11 @@
 aliases:
 - Calendarium
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Craft mind-bending fantasy and sci-fi calendars.
-downloads: 38389
+downloads: 39427
 mobile: true
 number: 1500
 stars: 86

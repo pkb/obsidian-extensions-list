@@ -2,11 +2,11 @@
 aliases:
 - Dynamic Highlights
 author:
-- '[[nothingislost|NothingIsLost]]'
+- '[[authors/nothingislost|NothingIsLost]]'
 categories: []
 description: Dynamically highlight text based on cursor selection or search query
   with full regex, mobile, and live preview support
-downloads: 20218
+downloads: 20308
 mobile: true
 number: 400
 stars: 142

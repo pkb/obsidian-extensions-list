@@ -2,12 +2,12 @@
 aliases:
 - Import/Export TiddlyWiki
 author:
-- '[[lucasbordeau|Lucas Bordeau]]'
+- '[[authors/lucasbordeau|Lucas Bordeau]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Export|Export]]'
 description: Import and export TiddlyWiki from and to Obsidian.
-downloads: 3844
+downloads: 3852
 mobile: false
 number: 847
 stars: 18

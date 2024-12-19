@@ -2,14 +2,14 @@
 aliases:
 - Tag Wrangler
 author:
-- '[[pjeby|PJ Eby]]'
+- '[[authors/pjeby|PJ Eby]]'
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Rename, merge, toggle, and search tags from the tags view
-downloads: 581533
+downloads: 584754
 mobile: true
 number: 90
-stars: 651
+stars: 656
 title: Tag Wrangler
 type: plugin
 updated: '2023-10-04T10:15:21'

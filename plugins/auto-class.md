@@ -2,11 +2,11 @@
 aliases:
 - Auto Class
 author:
-- '[[nathonius|Nathonius]]'
+- '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Automatically apply CSS classes to the markdown view based on a note's
   path and tags.
-downloads: 3790
+downloads: 3797
 mobile: true
 number: 352
 stars: 54

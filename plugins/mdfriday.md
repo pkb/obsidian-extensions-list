@@ -6,10 +6,10 @@ author:
 categories: []
 description: Notes to Website. Friday helps you turn Markdown documents into websites
   in minutes.
-downloads: 138
+downloads: 169
 mobile: false
 number: 2037
-stars: 20
+stars: 23
 title: Friday
 type: plugin
 updated: '2024-12-09T17:42:05'

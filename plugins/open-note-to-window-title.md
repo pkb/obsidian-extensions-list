@@ -2,10 +2,10 @@
 aliases:
 - Custom window title
 author:
-- '[[jplattel|Joost Plattel]]'
+- '[[authors/jplattel|Joost Plattel]]'
 categories: []
 description: Allows template-based customization of the app window title
-downloads: 13909
+downloads: 13935
 mobile: true
 number: 102
 stars: 69

@@ -2,12 +2,12 @@
 aliases:
 - Apple Reminders
 author:
-- '[[urishiraval|urishiraval]]'
+- '[[authors/urishiraval|urishiraval]]'
 categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Plugin to integrate Apple Reminders into Obsidian
-downloads: 10653
+downloads: 10687
 mobile: false
 number: 59
 stars: 151

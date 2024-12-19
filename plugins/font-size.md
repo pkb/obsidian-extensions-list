@@ -2,10 +2,10 @@
 aliases:
 - Font Size Adjuster
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Adjust font size via commands.
-downloads: 4750
+downloads: 4840
 mobile: true
 number: 1368
 stars: 6

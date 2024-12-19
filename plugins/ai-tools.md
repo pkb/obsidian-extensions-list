@@ -2,12 +2,12 @@
 aliases:
 - AI Tools
 author:
-- '[[solderneer|solderneer]]'
+- '[[authors/solderneer|solderneer]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Adding powerful semantic search, generative answers, and other AI tools
   to Obsidian, using Supabase + OpenAI.
-downloads: 4345
+downloads: 4354
 mobile: false
 number: 1026
 stars: 235

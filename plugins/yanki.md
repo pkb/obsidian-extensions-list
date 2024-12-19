@@ -2,11 +2,11 @@
 aliases:
 - Yanki
 author:
-- '[[kitschpatrol|Kitschpatrol]]'
+- '[[authors/kitschpatrol|Kitschpatrol]]'
 categories: []
 description: Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax.
   No fuss.
-downloads: 1221
+downloads: 1266
 mobile: false
 number: 1771
 stars: 40

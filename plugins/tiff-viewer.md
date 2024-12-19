@@ -2,10 +2,10 @@
 aliases:
 - Tiff Viewer
 author:
-- '[[ullmannJan|Jan Ullmann]]'
+- '[[authors/ullmannJan|Jan Ullmann]]'
 categories: []
 description: View .tif(f) files by generating duplicates in form of .tif(f).png
-downloads: 1230
+downloads: 1234
 mobile: true
 number: 1465
 stars: 0

@@ -2,11 +2,11 @@
 aliases:
 - Badges
 author:
-- '[[gapmiss|@gapmiss]]'
+- '[[authors/gapmiss|@gapmiss]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add inline badges/callouts to notes.
-downloads: 7969
+downloads: 8033
 mobile: true
 number: 998
 stars: 65

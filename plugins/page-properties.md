@@ -2,10 +2,10 @@
 aliases:
 - Page Properties
 author:
-- '[[necauqua|Anton Bulakh]]'
+- '[[authors/necauqua|Anton Bulakh]]'
 categories: []
 description: Render page properties similar to Logseq
-downloads: 6747
+downloads: 6783
 mobile: true
 number: 851
 stars: 23

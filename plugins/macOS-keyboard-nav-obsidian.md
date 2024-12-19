@@ -2,11 +2,11 @@
 aliases:
 - macOS Keyboard Navigation
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: This plugin adds alt+up arrow and alt+down arrow keyboard navigation
   to Obsidian.
-downloads: 7125
+downloads: 7128
 mobile: true
 number: 34
 stars: 26

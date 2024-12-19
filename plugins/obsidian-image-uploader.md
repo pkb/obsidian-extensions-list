@@ -2,11 +2,11 @@
 aliases:
 - Image Uploader
 author:
-- '[[Creling|Creling]]'
+- '[[authors/Creling|Creling]]'
 categories: []
 description: This plugin uploads the image in your clipboard to any image hosting
   automatically when pasting.
-downloads: 6323
+downloads: 6348
 mobile: false
 number: 226
 stars: 38

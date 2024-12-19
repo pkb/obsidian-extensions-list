@@ -2,11 +2,11 @@
 aliases:
 - Auto Reading Mode
 author:
-- '[[kelvinc6|Kelvin Cao]]'
+- '[[authors/kelvinc6|Kelvin Cao]]'
 categories: []
 description: Automatically switches previously opened Markdown pages into reading
   mode.
-downloads: 2950
+downloads: 2962
 mobile: false
 number: 1221
 stars: 0

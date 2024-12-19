@@ -2,10 +2,10 @@
 aliases:
 - Backtick text selector
 author:
-- '[[cool-RR|ram@rachum.com]]'
+- '[[authors/cool-RR|ram@rachum.com]]'
 categories: []
 description: Select text between backticks with keyboard shortcuts.
-downloads: 152
+downloads: 155
 mobile: true
 number: 1874
 stars: 1

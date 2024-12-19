@@ -2,11 +2,11 @@
 aliases:
 - Quick Preview
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Quickly preview a suggestion before selecting it in link suggestions
   & quick switcher.
-downloads: 4188
+downloads: 4226
 mobile: true
 number: 1312
 stars: 27

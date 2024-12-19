@@ -2,11 +2,11 @@
 aliases:
 - File Explorer Note Count
 author:
-- '[[ozntel|Ozan Tellioglu]]'
+- '[[authors/ozntel|Ozan Tellioglu]]'
 categories: []
 description: The plugin helps you to see the number of notes under each folder within
   the file explorer.
-downloads: 121078
+downloads: 122936
 mobile: true
 number: 209
 stars: 109

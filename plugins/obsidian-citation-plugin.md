@@ -2,10 +2,10 @@
 aliases:
 - Citations
 author:
-- '[[hans|Jon Gauthier]]'
+- '[[authors/hans|Jon Gauthier]]'
 categories: []
 description: Automatically search and insert citations from a Zotero library
-downloads: 175092
+downloads: 175692
 mobile: false
 number: 53
 stars: 1100

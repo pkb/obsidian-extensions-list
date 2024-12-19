@@ -2,10 +2,10 @@
 aliases:
 - Convert url to preview (iframe)
 author:
-- '[[FHachez|Hachez Floran]]'
+- '[[authors/FHachez|Hachez Floran]]'
 categories: []
 description: Convert an url (ex, youtube) into an iframe (preview)
-downloads: 77149
+downloads: 77513
 mobile: true
 number: 25
 stars: 203

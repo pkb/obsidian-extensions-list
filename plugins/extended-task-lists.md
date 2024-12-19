@@ -2,14 +2,14 @@
 aliases:
 - Extended Task Lists
 author:
-- '[[joeriddles|joeriddles]]'
+- '[[authors/joeriddles|joeriddles]]'
 categories: []
 description: Extended reader view support for task lists, including in-progress and
   won't do task items.
-downloads: 2616
+downloads: 2634
 mobile: true
 number: 1359
-stars: 7
+stars: 8
 title: Extended Task Lists
 type: plugin
 updated: '2024-08-07T11:49:32'

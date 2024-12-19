@@ -2,10 +2,10 @@
 aliases:
 - Format with Prettier
 author:
-- '[[alexgavrusev|Alex Gavrusev]]'
+- '[[authors/alexgavrusev|Alex Gavrusev]]'
 categories: []
 description: Format files in your vault using Prettier.
-downloads: 1845
+downloads: 1884
 mobile: true
 number: 1439
 stars: 13

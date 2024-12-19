@@ -2,10 +2,10 @@
 aliases:
 - Dictionary translator
 author:
-- '[[grover572|Grover]]'
+- '[[authors/grover572|Grover]]'
 categories: []
 description: 它可以帮助你翻译单词或句子，听新单词或句子的录音，甚至录下自己的发音，以内部链接的形式保存到你的笔记中。
-downloads: 1411
+downloads: 1443
 mobile: false
 number: 1575
 stars: 18

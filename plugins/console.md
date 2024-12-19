@@ -2,10 +2,10 @@
 aliases:
 - Console Markdown
 author:
-- '[[dellermann|Daniel Ellermann]]'
+- '[[authors/dellermann|Daniel Ellermann]]'
 categories: []
 description: Renders console commands and their output.
-downloads: 4552
+downloads: 4563
 mobile: true
 number: 788
 stars: 16

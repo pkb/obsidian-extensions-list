@@ -2,13 +2,13 @@
 aliases:
 - Wypst
 author:
-- '[[0xpapercut|0xpapercut]]'
+- '[[authors/0xpapercut|0xpapercut]]'
 categories: []
 description: Typst math typesetting for Obsidian.
-downloads: 1980
+downloads: 2017
 mobile: true
 number: 1423
-stars: 37
+stars: 38
 title: Wypst
 type: plugin
 updated: '2024-05-13T14:32:00'

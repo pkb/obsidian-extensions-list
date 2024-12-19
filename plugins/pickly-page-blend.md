@@ -2,11 +2,11 @@
 aliases:
 - Pickly PageBlend
 author:
-- '[[dmitrichev|Dmitrii Mitrichev at Pickly]]'
+- '[[authors/dmitrichev|Dmitrii Mitrichev at Pickly]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your Obsidian notes in one click
-downloads: 2854
+downloads: 2857
 mobile: true
 number: 1131
 stars: 5

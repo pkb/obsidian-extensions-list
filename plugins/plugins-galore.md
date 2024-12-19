@@ -2,11 +2,11 @@
 aliases:
 - Plugins Galore
 author:
-- '[[plugins-galore|Dylan Pizzo]]'
+- '[[authors/plugins-galore|Dylan Pizzo]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: This is an Obsidian plugin to allow easily sideloading other plugins.
-downloads: 5313
+downloads: 5329
 mobile: true
 number: 505
 stars: 28

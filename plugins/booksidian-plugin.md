@@ -2,11 +2,11 @@
 aliases:
 - Booksidian
 author:
-- '[[MichaBrugger|Micha Brugger and Zachary Wright]]'
+- '[[authors/MichaBrugger|Micha Brugger and Zachary Wright]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Connect Obsidian to your Goodreads.
-downloads: 10571
+downloads: 10603
 mobile: false
 number: 534
 stars: 131

@@ -2,10 +2,10 @@
 aliases:
 - Canvas Links
 author:
-- '[[aqav|aqav]]'
+- '[[authors/aqav|aqav]]'
 categories: []
 description: Show the links between "Canvas" and "File".
-downloads: 8472
+downloads: 8533
 mobile: true
 number: 951
 stars: 46

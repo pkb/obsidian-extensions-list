@@ -2,11 +2,11 @@
 aliases:
 - Expiration-Date-Tracker
 author:
-- '[[Raboro|Marius Wörfel]]'
+- '[[authors/Raboro|Marius Wörfel]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all expiration dates, for example, for your groceries.
-downloads: 2948
+downloads: 2952
 mobile: true
 number: 1152
 stars: 5

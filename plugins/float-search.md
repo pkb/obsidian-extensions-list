@@ -2,11 +2,11 @@
 aliases:
 - Floating Search
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: You can use search view in modal/leaf/popout window now.
-downloads: 22964
+downloads: 23217
 mobile: true
 number: 848
 stars: 158

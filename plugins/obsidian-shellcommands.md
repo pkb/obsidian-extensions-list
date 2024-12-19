@@ -2,15 +2,15 @@
 aliases:
 - Shell commands
 author:
-- '[[Taitava|Jarkko Linnanvirta]]'
+- '[[authors/Taitava|Jarkko Linnanvirta]]'
 categories: []
 description: You can predefine system commands that you want to run frequently, and
   assign hotkeys for them. For example open external applications. Automatic execution
   is also supported, and execution via URI links.
-downloads: 47815
+downloads: 48195
 mobile: false
 number: 265
-stars: 371
+stars: 373
 title: Shell commands
 type: plugin
 updated: '2024-11-09T22:35:32'

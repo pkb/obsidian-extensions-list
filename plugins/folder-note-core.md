@@ -2,10 +2,10 @@
 aliases:
 - Folder Note Core
 author:
-- '[[aidenlx|AidenLx]]'
+- '[[authors/aidenlx|AidenLx]]'
 categories: []
 description: Provide core features and API for folder notes
-downloads: 39128
+downloads: 39229
 mobile: true
 number: 282
 stars: 62

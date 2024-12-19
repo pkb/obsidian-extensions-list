@@ -2,10 +2,10 @@
 aliases:
 - Editor Autofocus
 author:
-- '[[mgussekloo|Mgussekloo]]'
+- '[[authors/mgussekloo|Mgussekloo]]'
 categories: []
 description: Autofocus the editor when opening a new file.
-downloads: 2322
+downloads: 2325
 mobile: true
 number: 1258
 stars: 5

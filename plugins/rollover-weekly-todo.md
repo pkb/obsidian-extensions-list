@@ -2,11 +2,11 @@
 aliases:
 - Rollover Weekly Todo
 author:
-- '[[shsethi|Shubham Sethi]]'
+- '[[authors/shsethi|Shubham Sethi]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Rollover todo items from the previous weekly note.
-downloads: 592
+downloads: 614
 mobile: true
 number: 1812
 stars: 4

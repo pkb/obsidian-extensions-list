@@ -2,14 +2,14 @@
 aliases:
 - Paste image rename
 author:
-- '[[reorx|Reorx]]'
+- '[[authors/reorx|Reorx]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Rename pasted images and all the other attchments added to the vault
-downloads: 61767
+downloads: 62626
 mobile: true
 number: 490
-stars: 293
+stars: 294
 title: Paste image rename
 type: plugin
 updated: '2023-01-30T15:08:23'

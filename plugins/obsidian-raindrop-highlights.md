@@ -2,15 +2,15 @@
 aliases:
 - Raindrop Highlights
 author:
-- '[[kaiiiz|kaiiiz]]'
+- '[[authors/kaiiiz|kaiiiz]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Integration|Integration]]'
 description: Sync your Raindrop.io highlights.
-downloads: 21528
+downloads: 21624
 mobile: true
 number: 585
-stars: 228
+stars: 229
 title: Raindrop Highlights
 type: plugin
 updated: '2024-05-25T14:25:18'

@@ -2,13 +2,13 @@
 aliases:
 - Heading Shifter
 author:
-- '[[k4a-l|kasahala]]'
+- '[[authors/k4a-l|kasahala]]'
 categories: []
 description: Easily Shift and Change markdown headings.
-downloads: 16041
+downloads: 16174
 mobile: true
 number: 583
-stars: 76
+stars: 79
 title: Heading Shifter
 type: plugin
 updated: '2024-09-18T14:16:54'

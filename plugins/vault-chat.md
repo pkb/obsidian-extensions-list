@@ -2,15 +2,15 @@
 aliases:
 - Vault Chat
 author:
-- '[[exoascension|Exo Ascension]]'
+- '[[authors/exoascension|Exo Ascension]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A ChatGPT bot trained on your vault notes. Ask your AI questions about
   your own thoughts and ideas!
-downloads: 6439
+downloads: 6461
 mobile: false
 number: 970
-stars: 117
+stars: 118
 title: Vault Chat
 type: plugin
 updated: '2023-06-03T20:22:28'

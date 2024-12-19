@@ -2,11 +2,11 @@
 aliases:
 - Google Photos
 author:
-- '[[alangrainger|Alan Grainger]]'
+- '[[authors/alangrainger|Alan Grainger]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Google Photos integration for Obsidian
-downloads: 12534
+downloads: 12594
 mobile: true
 number: 732
 stars: 97

@@ -2,11 +2,11 @@
 aliases:
 - Random To-Do
 author:
-- '[[NatiAris|NatiAris]]'
+- '[[authors/NatiAris|NatiAris]]'
 categories: []
 description: Open a random file containing your custom to-do marker, or a random marker
   at its position
-downloads: 4560
+downloads: 4565
 mobile: true
 number: 233
 stars: 3

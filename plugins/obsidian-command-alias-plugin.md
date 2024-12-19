@@ -2,10 +2,10 @@
 aliases:
 - Command Alias
 author:
-- '[[yajamon|yajamon<yajamon.cmnct@gmail.com>]]'
+- '[[authors/yajamon|yajamon<yajamon.cmnct@gmail.com>]]'
 categories: []
 description: This plugin gives aliases to Obsidian commands.
-downloads: 6106
+downloads: 6113
 mobile: true
 number: 259
 stars: 15

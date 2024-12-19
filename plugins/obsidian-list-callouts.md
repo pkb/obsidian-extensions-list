@@ -2,13 +2,13 @@
 aliases:
 - List Callouts
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Create simple callouts in lists.
-downloads: 83155
+downloads: 84016
 mobile: true
 number: 562
-stars: 316
+stars: 319
 title: List Callouts
 type: plugin
 updated: '2024-09-08T21:43:57'

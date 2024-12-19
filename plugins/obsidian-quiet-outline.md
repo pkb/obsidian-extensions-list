@@ -2,14 +2,14 @@
 aliases:
 - Quiet Outline
 author:
-- '[[guopenghui|the_tree]]'
+- '[[authors/guopenghui|the_tree]]'
 categories: []
 description: Make outline quiet and more powerful, including no-auto-expand, rendering
   heading as markdown, and search support.
-downloads: 125774
+downloads: 126483
 mobile: true
 number: 471
-stars: 322
+stars: 323
 title: Quiet Outline
 type: plugin
 updated: '2024-10-20T14:50:37'

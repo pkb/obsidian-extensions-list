@@ -2,15 +2,15 @@
 aliases:
 - TaskWarrior Task Wiki
 author:
-- '[[SntTGR|SntTGR]]'
+- '[[authors/SntTGR|SntTGR]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Wrapper and integration around TaskWarrior. Allows you to view and edit
   tasks in your TaskWarrior database as tables.
-downloads: 482
+downloads: 510
 mobile: false
 number: 1667
-stars: 8
+stars: 9
 title: TaskWarrior Task Wiki
 type: plugin
 updated: '2024-12-02T02:29:02'

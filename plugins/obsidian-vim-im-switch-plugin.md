@@ -2,10 +2,10 @@
 aliases:
 - Vim Input Method Switch
 author:
-- '[[yuanotes|Yuan Chen]]'
+- '[[authors/yuanotes|Yuan Chen]]'
 categories: []
 description: Switch input method with fcitx-remote when Vim keymap is enabled.
-downloads: 6410
+downloads: 6422
 mobile: false
 number: 269
 stars: 65

@@ -2,12 +2,12 @@
 aliases:
 - Workona Import
 author:
-- '[[Holmes555|Holmes555]]'
+- '[[authors/Holmes555|Holmes555]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Workona resources, tabs, notes and tasks through generated JSON
   file.
-downloads: 3923
+downloads: 3926
 mobile: false
 number: 718
 stars: 11

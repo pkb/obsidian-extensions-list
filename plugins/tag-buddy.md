@@ -2,13 +2,13 @@
 aliases:
 - Tag Buddy
 author:
-- '[[moremeyou|David Fasullo]]'
+- '[[authors/moremeyou|David Fasullo]]'
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Unlock powerful tag editing features in Reading Mode. Add, remove, and
   edit tags across your vault, in the active note or a single instance. Use tag summaries
   to roundup and process tagged content like an inbox.
-downloads: 3345
+downloads: 3372
 mobile: true
 number: 1299
 stars: 30

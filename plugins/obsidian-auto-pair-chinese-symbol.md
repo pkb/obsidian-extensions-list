@@ -2,10 +2,10 @@
 aliases:
 - Auto pair chinese symbol
 author:
-- '[[renmu123|renmu123]]'
+- '[[authors/renmu123|renmu123]]'
 categories: []
 description: Auto pair chinese symbol
-downloads: 10769
+downloads: 10783
 mobile: false
 number: 183
 stars: 28

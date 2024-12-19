@@ -5,15 +5,15 @@ author:
 - '[[authors/paperbenni|@paperbenni]]'
 categories: []
 description: Hide UI most UI elements
-downloads: 89
+downloads: 194
 mobile: true
 number: 2055
 stars: 5
 title: Zen Mode
 type: plugin
-updated: '2024-06-15T16:53:08'
+updated: '2024-12-13T19:55:46'
 url: https://github.com/paperbenni/obsidian-zenmode
-version: 1.0.9
+version: 1.2.2
 ---
 
 %% README_START %%
@@ -49,5 +49,8 @@ when being toggled.
 
 ZenMode injects the `zenmode-active` class on the `body` element when zen mode is active.
 
+## Development
+
+npm run version minor/major/patch
 
 %% README_END %%

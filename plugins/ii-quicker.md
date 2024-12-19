@@ -2,11 +2,11 @@
 aliases:
 - ii
 author:
-- '[[wish5115|Wilson]]'
+- '[[authors/wish5115|Wilson]]'
 categories: []
 description: Quickly insert common Markdown code and HTML code, and customize your
   own insertion commands.
-downloads: 523
+downloads: 534
 mobile: true
 number: 1680
 stars: 11

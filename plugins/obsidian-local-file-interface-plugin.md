@@ -2,10 +2,10 @@
 aliases:
 - Local File Interface
 author:
-- '[[qawatake|qawatake]]'
+- '[[authors/qawatake|qawatake]]'
 categories: []
 description: Provides commands for moving files in and out of the vault
-downloads: 5039
+downloads: 5046
 mobile: true
 number: 394
 stars: 24

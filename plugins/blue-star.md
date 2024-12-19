@@ -2,10 +2,10 @@
 aliases:
 - Blue Star
 author:
-- '[[Lio5n|Wang Guoshi]]'
+- '[[authors/Lio5n|Wang Guoshi]]'
 categories: []
 description: Generate Anki flashcards in multiple ways.
-downloads: 252
+downloads: 283
 mobile: false
 number: 1985
 stars: 5

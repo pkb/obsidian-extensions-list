@@ -2,10 +2,10 @@
 aliases:
 - Neighbouring Files
 author:
-- '[[FabianUntermoser|Fabian Untermoser]]'
+- '[[authors/FabianUntermoser|Fabian Untermoser]]'
 categories: []
 description: Navigate to the next and previous file in the current directory
-downloads: 2954
+downloads: 2972
 mobile: true
 number: 1337
 stars: 10

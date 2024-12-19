@@ -2,14 +2,14 @@
 aliases:
 - Typewriter Mode
 author:
-- '[[davisriedel|Davis Riedel]]'
+- '[[authors/davisriedel|Davis Riedel]]'
 categories: []
 description: Typewriter scrolling, highlighting of the current line, dimming of unfocused
   paragraphs, writing focus and more.
-downloads: 31947
+downloads: 32499
 mobile: true
 number: 1140
-stars: 87
+stars: 90
 title: Typewriter Mode
 type: plugin
 updated: '2024-11-01T21:20:55'

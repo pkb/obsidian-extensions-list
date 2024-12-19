@@ -2,11 +2,11 @@
 aliases:
 - Remove Newlines
 author:
-- '[[HandcartCactus|Elias Jaffe]]'
+- '[[authors/HandcartCactus|Elias Jaffe]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Remove newlines or blank lines from selected or pasted text.
-downloads: 670
+downloads: 713
 mobile: true
 number: 1764
 stars: 4

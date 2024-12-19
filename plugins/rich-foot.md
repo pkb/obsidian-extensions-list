@@ -2,18 +2,18 @@
 aliases:
 - Rich Foot
 author:
-- '[[jparkerweb|Justin Parker (eQui\\ Labs)]]'
+- '[[authors/jparkerweb|Justin Parker (eQui\\ Labs)]]'
 categories: []
 description: Adds backlink tags and created/modified dates to the footer of your notes.
-downloads: 3253
+downloads: 3884
 mobile: true
 number: 1903
-stars: 25
+stars: 27
 title: Rich Foot
 type: plugin
-updated: '2024-12-11T02:56:11'
+updated: '2024-12-15T04:44:58'
 url: https://github.com/jparkerweb/rich-foot
-version: 1.10.2
+version: 1.10.3
 ---
 
 %% README_START %%

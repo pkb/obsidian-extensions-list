@@ -2,11 +2,11 @@
 aliases:
 - Read Later
 author:
-- '[[Canna71|Gabriele Cannata]]'
+- '[[authors/Canna71|Gabriele Cannata]]'
 categories: []
 description: Synch web pages to markdown and integrate with read-it-later apps (Pocket,
   Instapaper)
-downloads: 5950
+downloads: 5969
 mobile: false
 number: 719
 stars: 50

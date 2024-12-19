@@ -2,14 +2,14 @@
 aliases:
 - ReadItLater
 author:
-- '[[DominikPieper|Dominik Pieper]]'
+- '[[authors/DominikPieper|Dominik Pieper]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Saves the clipboard to a new note.
-downloads: 87798
+downloads: 89302
 mobile: true
 number: 295
-stars: 452
+stars: 456
 title: ReadItLater
 type: plugin
 updated: '2024-12-06T14:56:30'

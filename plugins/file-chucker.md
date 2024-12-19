@@ -2,10 +2,10 @@
 aliases:
 - File Chucker
 author:
-- '[[kenlim|Ken Lim]]'
+- '[[authors/kenlim|Ken Lim]]'
 categories: []
 description: Quickly move a file to a new or existing folder, then open the next file.
-downloads: 4225
+downloads: 4235
 mobile: true
 number: 744
 stars: 13

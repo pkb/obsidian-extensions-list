@@ -2,14 +2,14 @@
 aliases:
 - Smart Memos
 author:
-- '[[Mossy1022|Evan Moscoso]]'
+- '[[authors/Mossy1022|Evan Moscoso]]'
 categories: []
 description: Create personalized and intelligent analysis, summaries, and more for
   audio recordings that can be imported or spoken directly into a note
-downloads: 3739
+downloads: 3825
 mobile: true
 number: 1740
-stars: 54
+stars: 55
 title: Smart Memos
 type: plugin
 updated: '2024-09-30T03:38:43'

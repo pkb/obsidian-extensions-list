@@ -2,10 +2,10 @@
 aliases:
 - Desci
 author:
-- '[[Obsidian-Desci|Taylor Hulsmans]]'
+- '[[authors/Obsidian-Desci|Taylor Hulsmans]]'
 categories: []
 description: A collection of tools that integrate obsidian with web3.
-downloads: 2022
+downloads: 2025
 mobile: false
 number: 1275
 stars: 11

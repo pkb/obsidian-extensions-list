@@ -2,10 +2,10 @@
 aliases:
 - Alias Picker
 author:
-- '[[rostunic|rostunic]]'
+- '[[authors/rostunic|rostunic]]'
 categories: []
 description: Pick aliases or blocks of links.
-downloads: 570
+downloads: 583
 mobile: true
 number: 1588
 stars: 3

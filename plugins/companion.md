@@ -2,15 +2,15 @@
 aliases:
 - Companion
 author:
-- '[[rizerphe|rizerphe]]'
+- '[[authors/rizerphe|rizerphe]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Autocomplete with AI, including ChatGPT and ollama, through a copilot-like
   interface.
-downloads: 17881
+downloads: 18144
 mobile: true
 number: 861
-stars: 266
+stars: 267
 title: Companion
 type: plugin
 updated: '2024-05-29T00:04:42'

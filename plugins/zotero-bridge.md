@@ -2,11 +2,11 @@
 aliases:
 - Zotero Bridge
 author:
-- '[[vanakat|Shmavon Gazanchyan]]'
+- '[[authors/vanakat|Shmavon Gazanchyan]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Zotero integration
-downloads: 9828
+downloads: 9912
 mobile: false
 number: 546
 stars: 49

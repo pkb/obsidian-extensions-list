@@ -2,19 +2,19 @@
 aliases:
 - Markdown Tags
 author:
-- '[[binarynoir|John Smith III]]'
+- '[[authors/binarynoir|John Smith III]]'
 categories: []
 description: Enhance your documents with custom tags. Use predefined or custom labels,
   customizable colors, and arrow indicators to visually track tasks and statuses.
-downloads: 314
+downloads: 427
 mobile: true
 number: 2025
-stars: 3
+stars: 4
 title: Markdown Tags
 type: plugin
-updated: '2024-11-29T03:09:06'
+updated: '2024-12-13T23:37:12'
 url: https://github.com/binarynoir/obsidian-markdown-tags
-version: 1.2.1
+version: 1.2.3
 ---
 
 %% README_START %%

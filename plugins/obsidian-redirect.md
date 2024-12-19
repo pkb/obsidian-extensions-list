@@ -2,11 +2,11 @@
 aliases:
 - Redirect
 author:
-- '[[jglev|Jacob Levernier]]'
+- '[[authors/jglev|Jacob Levernier]]'
 categories: []
 description: An Obsidian (https://obsidian.md) plugin for redirecting links based
   on YAML frontmatter.
-downloads: 7405
+downloads: 7410
 mobile: true
 number: 545
 stars: 23

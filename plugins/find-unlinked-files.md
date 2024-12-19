@@ -2,15 +2,15 @@
 aliases:
 - Find orphaned files and broken links
 author:
-- '[[Vinzent03|Vinzent]]'
+- '[[authors/Vinzent03|Vinzent]]'
 categories:
 - '[[categories/File management|File management]]'
 description: 'Find files that are not linked anywhere and would otherwise be lost
   in your vault. In other words: files with no backlinks.'
-downloads: 170728
+downloads: 171390
 mobile: true
 number: 36
-stars: 304
+stars: 305
 title: Find orphaned files and broken links
 type: plugin
 updated: '2024-08-13T02:57:36'

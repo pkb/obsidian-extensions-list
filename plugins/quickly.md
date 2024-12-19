@@ -2,11 +2,11 @@
 aliases:
 - Quickly
 author:
-- '[[tmfelwu|Sparsh Yadav]]'
+- '[[authors/tmfelwu|Sparsh Yadav]]'
 categories: []
 description: Quickly empowers you to add your thoughts into obsidian with a shortcut
   key.
-downloads: 3511
+downloads: 3517
 mobile: true
 number: 889
 stars: 11

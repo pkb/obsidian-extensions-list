@@ -2,14 +2,14 @@
 aliases:
 - Attachment Manager
 author:
-- '[[chenfeicqq|chenfeicqq]]'
+- '[[authors/chenfeicqq|chenfeicqq]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: 'Attachment folder name binding note name, automatically rename, automatically
   delete, show/hide.
 
   附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。'
-downloads: 7738
+downloads: 7796
 mobile: false
 number: 1094
 stars: 41

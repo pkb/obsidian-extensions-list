@@ -2,10 +2,10 @@
 aliases:
 - Relative Line Numbers
 author:
-- '[[nadavspi|Nadav Spiegelman]]'
+- '[[authors/nadavspi|Nadav Spiegelman]]'
 categories: []
 description: Enables relative line numbers in editor mode
-downloads: 71021
+downloads: 71515
 mobile: true
 number: 64
 stars: 162

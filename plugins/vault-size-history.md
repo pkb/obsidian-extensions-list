@@ -2,11 +2,11 @@
 aliases:
 - Vault Size History
 author:
-- '[[technerium|Technerium]]'
+- '[[authors/technerium|Technerium]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Graph of the number of files in the Vault.
-downloads: 1614
+downloads: 1657
 mobile: false
 number: 1836
 stars: 5

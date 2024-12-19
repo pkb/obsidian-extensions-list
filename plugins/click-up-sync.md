@@ -2,10 +2,10 @@
 aliases:
 - ClickUp sync
 author:
-- '[[hokim-m|Khokim Mamarasulov]]'
+- '[[authors/hokim-m|Khokim Mamarasulov]]'
 categories: []
 description: Manage ClickUp space from notes
-downloads: 652
+downloads: 678
 mobile: false
 number: 1695
 stars: 21

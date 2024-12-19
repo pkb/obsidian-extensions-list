@@ -2,12 +2,12 @@
 aliases:
 - Auto Journal
 author:
-- '[[Ebonsignori|Evan Bonsignori]]'
+- '[[authors/Ebonsignori|Evan Bonsignori]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Opinionated journaling automation like daily notes but with backfills
   for the days when Obsidian wasn't opened
-downloads: 4466
+downloads: 4482
 mobile: true
 number: 1119
 stars: 22

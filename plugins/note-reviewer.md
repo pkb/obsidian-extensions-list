@@ -2,10 +2,10 @@
 aliases:
 - Note Reviewer
 author:
-- '[[TravisLinkey|Travis Linkey]]'
+- '[[authors/TravisLinkey|Travis Linkey]]'
 categories: []
 description: Help knowledge retention by reviewing and filtering notes.
-downloads: 191
+downloads: 197
 mobile: true
 number: 1856
 stars: 0

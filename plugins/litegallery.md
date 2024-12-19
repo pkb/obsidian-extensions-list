@@ -2,11 +2,11 @@
 aliases:
 - Lite Gallery
 author:
-- '[[jpoles1|Jordan Poles]]'
+- '[[authors/jpoles1|Jordan Poles]]'
 categories: []
 description: Easily create carousel galleries to better organize/view images in your
   notes.
-downloads: 1511
+downloads: 1581
 mobile: true
 number: 1797
 stars: 7

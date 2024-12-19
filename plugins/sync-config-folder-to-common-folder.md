@@ -2,19 +2,19 @@
 aliases:
 - Sync config folder to common folder
 author:
-- '[[codeonquer|codeonquer]]'
+- '[[authors/codeonquer|codeonquer]]'
 categories: []
 description: Sync contents from config folder to common folder for backup or other
   purposes
-downloads: 580
+downloads: 605
 mobile: false
 number: 1593
 stars: 4
 title: Sync config folder to common folder
 type: plugin
-updated: '2024-04-12T10:01:22'
+updated: '2024-12-16T15:54:28'
 url: https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%

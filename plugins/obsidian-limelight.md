@@ -2,10 +2,10 @@
 aliases:
 - Limelight
 author:
-- '[[smikula|Scott Mikula]]'
+- '[[authors/smikula|Scott Mikula]]'
 categories: []
 description: Put a spotlight on your active pane
-downloads: 5392
+downloads: 5402
 mobile: true
 number: 328
 stars: 31

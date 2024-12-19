@@ -2,11 +2,11 @@
 aliases:
 - Noor
 author:
-- '[[MKSherbini|MKSherbini]]'
+- '[[authors/MKSherbini|MKSherbini]]'
 categories: []
 description: Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and
   Sunnah
-downloads: 342
+downloads: 351
 mobile: true
 number: 1683
 stars: 5

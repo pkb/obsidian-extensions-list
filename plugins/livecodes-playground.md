@@ -2,10 +2,10 @@
 aliases:
 - Livecodes Playground
 author:
-- '[[gapmiss|@gapmiss]]'
+- '[[authors/gapmiss|@gapmiss]]'
 categories: []
 description: Client-side code editor playground - Powered by LiveCodes
-downloads: 979
+downloads: 990
 mobile: true
 number: 1560
 stars: 14

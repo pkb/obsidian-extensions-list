@@ -2,16 +2,16 @@
 aliases:
 - Custom File Explorer sorting
 author:
-- '[[SebastianMC|SebastianMC]]'
+- '[[authors/SebastianMC|SebastianMC]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Allows for manual and automatic, config-driven reordering and sorting
   of files and folders in File Explorer
-downloads: 84325
+downloads: 85166
 mobile: true
 number: 609
-stars: 304
+stars: 307
 title: Custom File Explorer sorting
 type: plugin
 updated: '2024-09-20T22:56:24'

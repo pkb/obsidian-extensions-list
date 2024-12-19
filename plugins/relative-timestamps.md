@@ -2,11 +2,11 @@
 aliases:
 - Relative Timestamps
 author:
-- '[[agctute|Charles Young]]'
+- '[[authors/agctute|Charles Young]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Track the time between log entries
-downloads: 417
+downloads: 422
 mobile: true
 number: 1702
 stars: 5

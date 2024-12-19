@@ -2,11 +2,11 @@
 aliases:
 - ObsidianTweaks
 author:
-- '[[JeppeKlitgaard|Jeppe Klitgaard]]'
+- '[[authors/JeppeKlitgaard|Jeppe Klitgaard]]'
 categories: []
 description: Adds some convenient tweaks including improved toggling and ergonomic
   commands
-downloads: 5400
+downloads: 5405
 mobile: true
 number: 396
 stars: 50

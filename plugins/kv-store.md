@@ -2,11 +2,11 @@
 aliases:
 - KV Store
 author:
-- '[[Darren-project|Darren-project]]'
+- '[[authors/Darren-project|Darren-project]]'
 categories: []
 description: Adds a key-value store. Use it to store and retrieve key-value pairs
   in your vault.
-downloads: 494
+downloads: 500
 mobile: true
 number: 1607
 stars: 5

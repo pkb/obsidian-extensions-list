@@ -2,11 +2,11 @@
 aliases:
 - Journals
 author:
-- '[[srg-kostyrko|Sergii Kostyrko]]'
+- '[[authors/srg-kostyrko|Sergii Kostyrko]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Manage your journals in Obsidian
-downloads: 16856
+downloads: 17498
 mobile: true
 number: 1400
 stars: 130

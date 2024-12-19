@@ -2,13 +2,13 @@
 aliases:
 - Graph Link Types
 author:
-- '[[natefrisch01|natefrisch01]]'
+- '[[authors/natefrisch01|natefrisch01]]'
 categories: []
 description: Link types for graph view.
-downloads: 4459
+downloads: 4540
 mobile: true
 number: 1444
-stars: 89
+stars: 92
 title: Graph Link Types
 type: plugin
 updated: '2024-05-05T23:28:38'

@@ -2,11 +2,11 @@
 aliases:
 - Optimize Canvas Connections
 author:
-- '[[felixchenier|Félix Chénier]]'
+- '[[authors/felixchenier|Félix Chénier]]'
 categories: []
 description: An Obsidian plugin that declutters a canvas by reconnecting notes using
   their nearest edges.
-downloads: 12939
+downloads: 13042
 mobile: true
 number: 820
 stars: 52

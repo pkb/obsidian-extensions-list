@@ -2,11 +2,11 @@
 aliases:
 - Text Wrapper
 author:
-- '[[smx0|smx0]]'
+- '[[authors/smx0|smx0]]'
 categories: []
 description: Quickly wrap selected text with HTML tags by using a shortcut or from
   the command palette
-downloads: 4380
+downloads: 4395
 mobile: true
 number: 782
 stars: 9

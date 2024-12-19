@@ -2,14 +2,14 @@
 aliases:
 - Reading comments
 author:
-- '[[BumbrT|BumbrT]]'
+- '[[authors/BumbrT|BumbrT]]'
 categories: []
 description: Plugin allows you to create comments while you read books or articles
   in Obsidian. Comments could be grouped hierarchically by tags.
-downloads: 7285
+downloads: 7405
 mobile: true
 number: 797
-stars: 46
+stars: 47
 title: Reading comments
 type: plugin
 updated: '2024-12-04T13:42:05'

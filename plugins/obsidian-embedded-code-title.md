@@ -2,10 +2,10 @@
 aliases:
 - Embedded Code Title
 author:
-- '[[tadashi-aikawa|tadashi-aikawa]]'
+- '[[authors/tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: This is an Obsidian plugin which can embeds title to code blocks.
-downloads: 13026
+downloads: 13053
 mobile: true
 number: 231
 stars: 39

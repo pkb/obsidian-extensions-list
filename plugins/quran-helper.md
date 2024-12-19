@@ -2,10 +2,10 @@
 aliases:
 - Quran Helper
 author:
-- '[[AmmarCodes|Ammar Alakkad]]'
+- '[[authors/AmmarCodes|Ammar Alakkad]]'
 categories: []
 description: Find and insert any Quran Ayah (verse) in your notes.
-downloads: 200
+downloads: 205
 mobile: true
 number: 1742
 stars: 4

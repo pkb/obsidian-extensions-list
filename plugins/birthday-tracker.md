@@ -2,11 +2,11 @@
 aliases:
 - Birthday-Tracker
 author:
-- '[[Raboro|Marius Wörfel]]'
+- '[[authors/Raboro|Marius Wörfel]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all birthdays of your family and friends.
-downloads: 5497
+downloads: 5534
 mobile: true
 number: 1063
 stars: 17

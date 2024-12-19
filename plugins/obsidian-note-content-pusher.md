@@ -2,11 +2,11 @@
 aliases:
 - Note Content Pusher
 author:
-- '[[lizard-heart|Henry Gustafson]]'
+- '[[authors/lizard-heart|Henry Gustafson]]'
 categories: []
 description: An Obsidian plugin to automatically create notes with some specified
   content when you link to a note that doesn't yet exist.
-downloads: 3791
+downloads: 3795
 mobile: true
 number: 637
 stars: 25

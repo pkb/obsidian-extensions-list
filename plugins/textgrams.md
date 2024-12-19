@@ -2,11 +2,11 @@
 aliases:
 - Textgrams
 author:
-- '[[akopdev|Akop Kesheshyan]]'
+- '[[authors/akopdev|Akop Kesheshyan]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Store and visualise ASCII graphics and charts
-downloads: 277
+downloads: 313
 mobile: true
 number: 1999
 stars: 74

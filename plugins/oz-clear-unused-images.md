@@ -2,12 +2,12 @@
 aliases:
 - Clear Unused Images
 author:
-- '[[ozntel|Ozan]]'
+- '[[authors/ozntel|Ozan]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Clear the images that you are not using anymore in your markdown notes
   to save space.
-downloads: 87829
+downloads: 88572
 mobile: true
 number: 169
 stars: 204

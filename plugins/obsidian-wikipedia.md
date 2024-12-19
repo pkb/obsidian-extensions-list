@@ -2,12 +2,12 @@
 aliases:
 - Wikipedia
 author:
-- '[[jmilldotdev|Jonathan Miller]]'
+- '[[authors/jmilldotdev|Jonathan Miller]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Grabs information from Wikipedia for a topic and brings it into Obsidian
   notes
-downloads: 20440
+downloads: 20539
 mobile: true
 number: 318
 stars: 103

@@ -2,11 +2,11 @@
 aliases:
 - Snippet Commands
 author:
-- '[[deathau|death_au]]'
+- '[[authors/deathau|death_au]]'
 categories: []
 description: Registers custom css snippets as commands (which you can bind hotkeys
   to)
-downloads: 6056
+downloads: 6072
 mobile: true
 number: 313
 stars: 29

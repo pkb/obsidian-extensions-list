@@ -2,13 +2,13 @@
 aliases:
 - Vimium
 author:
-- '[[karstenpedersen|Karsten Finderup Pedersen]]'
+- '[[authors/karstenpedersen|Karsten Finderup Pedersen]]'
 categories: []
 description: Interact with elements using keyboard shortcuts in the spirit of Vim
-downloads: 1402
+downloads: 1461
 mobile: false
 number: 1758
-stars: 16
+stars: 17
 title: Vimium
 type: plugin
 updated: '2024-06-21T23:51:45'

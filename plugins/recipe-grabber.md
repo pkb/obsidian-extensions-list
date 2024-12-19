@@ -2,11 +2,11 @@
 aliases:
 - Recipe Grabber
 author:
-- '[[seethroughdev|seethroughdev]]'
+- '[[authors/seethroughdev|seethroughdev]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Quickly grab the important contents of any online recipe.
-downloads: 4689
+downloads: 4753
 mobile: true
 number: 961
 stars: 60

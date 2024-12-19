@@ -2,12 +2,12 @@
 aliases:
 - Open with Natural Language Dates
 author:
-- '[[charliecm|Charlie Chao]]'
+- '[[authors/charliecm|Charlie Chao]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Open a daily note using natural language. Requires "Natural Language
   Dates" plugin to work.
-downloads: 102
+downloads: 122
 mobile: true
 number: 1976
 stars: 0

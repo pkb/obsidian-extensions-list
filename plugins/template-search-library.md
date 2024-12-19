@@ -2,11 +2,11 @@
 aliases:
 - Search Templates Library
 author:
-- '[[Pentchaff|Pentchaff]]'
+- '[[authors/Pentchaff|Pentchaff]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Allows you to save search templates for future re-use
-downloads: 3297
+downloads: 3305
 mobile: true
 number: 1136
 stars: 11

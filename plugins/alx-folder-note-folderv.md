@@ -2,11 +2,11 @@
 aliases:
 - AidenLx's Folder Note - folderv component
 author:
-- '[[aidenlx|AidenLx]]'
+- '[[authors/aidenlx|AidenLx]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Optional `folderv` Component for alx-folder-note
-downloads: 11799
+downloads: 11819
 mobile: true
 number: 428
 stars: 7

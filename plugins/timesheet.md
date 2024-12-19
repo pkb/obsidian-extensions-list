@@ -2,11 +2,11 @@
 aliases:
 - Timesheet
 author:
-- '[[vkostyanetsky|vkostyanetsky]]'
+- '[[authors/vkostyanetsky|vkostyanetsky]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Timesheet generator for tasks in daily notes.
-downloads: 458
+downloads: 469
 mobile: true
 number: 1654
 stars: 4

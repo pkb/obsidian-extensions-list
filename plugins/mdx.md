@@ -2,13 +2,13 @@
 aliases:
 - MDX
 author:
-- '[[yuleicul|Yulei Chen]]'
+- '[[authors/yuleicul|Yulei Chen]]'
 categories: []
 description: Preview MDX in Obsidian, with support for Code Hike
-downloads: 3636
+downloads: 3652
 mobile: false
 number: 1068
-stars: 27
+stars: 29
 title: MDX
 type: plugin
 updated: '2023-08-16T18:47:51'

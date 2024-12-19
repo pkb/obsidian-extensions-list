@@ -2,18 +2,18 @@
 aliases:
 - Better Markdown Links
 author:
-- '[[mnaoumov|mnaoumov]]'
+- '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Adds support for angle bracket links and manages relative links properly
-downloads: 1868
+downloads: 2020
 mobile: true
 number: 1784
-stars: 10
+stars: 11
 title: Better Markdown Links
 type: plugin
-updated: '2024-12-11T05:20:48'
+updated: '2024-12-12T04:52:37'
 url: https://github.com/mnaoumov/obsidian-better-markdown-links
-version: 2.9.14
+version: 2.10.0
 ---
 
 %% README_START %%
@@ -59,6 +59,15 @@ This plugin enhances the [`app.fileManager.generateMarkdownLink()`][generateMark
 If you want to use the updated functions from your plugin, you can copy [types.d.ts](./types.d.ts) into your code.
 
 **Note**: The plugin's setting `Ignore incompatible Obsidian settings` sets the default value of `isWikilink` to `false`.
+
+## Integration with other plugins
+
+This plugin is handling rename/delete events based on the plugin settings. Similar handlers are added to other plugins:
+
+- [`Consistent Attachments and Links`](https://obsidian.md/plugins?id=consistent-attachments-and-links)
+- [`Custom Attachment Location`](https://obsidian.md/plugins?id=obsidian-custom-attachment-location)
+
+But those handlers are designed to work fine with each other and the plugins can be installed together.
 
 ## Installation
 

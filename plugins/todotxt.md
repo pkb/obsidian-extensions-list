@@ -2,11 +2,11 @@
 aliases:
 - TodoTxt
 author:
-- '[[mvgrimes|Mark Grimes]]'
+- '[[authors/mvgrimes|Mark Grimes]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage Todo.txt files.
-downloads: 8501
+downloads: 8547
 mobile: true
 number: 953
 stars: 56

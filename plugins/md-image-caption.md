@@ -2,10 +2,10 @@
 aliases:
 - Markdown Image Caption
 author:
-- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
+- '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate image caption
-downloads: 2806
+downloads: 2815
 mobile: true
 number: 1234
 stars: 10

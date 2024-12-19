@@ -2,10 +2,10 @@
 aliases:
 - Daily Note Structure
 author:
-- '[[db-developer|Dirk Brenckmann]]'
+- '[[authors/db-developer|Dirk Brenckmann]]'
 categories: []
 description: One-Click create a structure for and including your daily notes.
-downloads: 209
+downloads: 213
 mobile: true
 number: 1738
 stars: 2

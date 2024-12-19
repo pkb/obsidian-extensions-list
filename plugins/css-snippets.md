@@ -2,10 +2,10 @@
 aliases:
 - css snippets
 author:
-- '[[jdbrice|dandandan]]'
+- '[[authors/jdbrice|dandandan]]'
 categories: []
 description: Load and manage css snippets
-downloads: 16298
+downloads: 16407
 mobile: false
 number: 32
 stars: 17

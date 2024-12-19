@@ -2,13 +2,13 @@
 aliases:
 - Prettier Format
 author:
-- '[[hipstersmoothie|Andrew Lisowski]]'
+- '[[authors/hipstersmoothie|Andrew Lisowski]]'
 categories: []
 description: Opinionated formatting for your notes.
-downloads: 15481
+downloads: 15559
 mobile: true
 number: 110
-stars: 88
+stars: 89
 title: Prettier Format
 type: plugin
 updated: '2023-05-11T07:56:44'

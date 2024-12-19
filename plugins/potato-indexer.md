@@ -2,11 +2,11 @@
 aliases:
 - Potato Indexer
 author:
-- '[[LoyalPotato|LoyalPotato]]'
+- '[[authors/LoyalPotato|LoyalPotato]]'
 categories: []
 description: Allow generation of a content index based on your selection or of the
   whole file.
-downloads: 3285
+downloads: 3296
 mobile: true
 number: 1139
 stars: 7

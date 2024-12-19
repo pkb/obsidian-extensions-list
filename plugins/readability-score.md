@@ -2,11 +2,11 @@
 aliases:
 - Readability Score
 author:
-- '[[zuchka|zuchka]]'
+- '[[authors/zuchka|zuchka]]'
 categories: []
 description: Score the readabilty of your writing using the Flesch Reading Ease (FRE)
   formula.
-downloads: 4310
+downloads: 4327
 mobile: false
 number: 999
 stars: 10

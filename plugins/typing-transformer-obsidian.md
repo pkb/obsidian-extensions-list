@@ -2,10 +2,10 @@
 aliases:
 - Typing Transformer
 author:
-- '[[aptend|aptend]]'
+- '[[authors/aptend|aptend]]'
 categories: []
 description: Improved, configurable auto formatting as typing
-downloads: 6782
+downloads: 6845
 mobile: true
 number: 561
 stars: 57

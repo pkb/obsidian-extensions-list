@@ -2,10 +2,10 @@
 aliases:
 - Notes 2 Tweets
 author:
-- '[[Tej-Sharma|Tejas Sharma]]'
+- '[[authors/Tej-Sharma|Tejas Sharma]]'
 categories: []
 description: Generate and schedule tweets automatically from your notes
-downloads: 155
+downloads: 160
 mobile: true
 number: 1668
 stars: 1

@@ -2,10 +2,10 @@
 aliases:
 - LaTeX-OCR
 author:
-- '[[JackBarker7|Jack Barker]]'
+- '[[authors/JackBarker7|Jack Barker]]'
 categories: []
 description: Run LaTeX-OCR if it is installed locally.
-downloads: 1822
+downloads: 1834
 mobile: false
 number: 1356
 stars: 3

@@ -2,10 +2,10 @@
 aliases:
 - Smart Title
 author:
-- '[[magooup|magooup]]'
+- '[[authors/magooup|magooup]]'
 categories: []
 description: Automatically extract tag and alias from the title.
-downloads: 4907
+downloads: 5020
 mobile: true
 number: 1322
 stars: 8

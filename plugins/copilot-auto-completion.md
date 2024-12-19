@@ -2,15 +2,15 @@
 aliases:
 - Copilot auto completion
 author:
-- '[[j0rd1smit|Jordi Smit]]'
+- '[[authors/j0rd1smit|Jordi Smit]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Adds a highly configurable copilot-like auto-completion to Obsidian using
   the ChatGPT API.
-downloads: 7970
+downloads: 8033
 mobile: false
 number: 1077
-stars: 131
+stars: 135
 title: Copilot auto completion
 type: plugin
 updated: '2024-03-10T16:15:15'

@@ -2,11 +2,11 @@
 aliases:
 - Prioritize
 author:
-- '[[EloiMusk|EloiMusk]]'
+- '[[authors/EloiMusk|EloiMusk]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Prioritize your tasks and notes in Obsidian.
-downloads: 4376
+downloads: 4392
 mobile: false
 number: 846
 stars: 7

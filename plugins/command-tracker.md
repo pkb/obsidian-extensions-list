@@ -2,18 +2,18 @@
 aliases:
 - Command Tracker
 author:
-- '[[namikaze-40p|namikaze-40p]]'
+- '[[authors/namikaze-40p|namikaze-40p]]'
 categories: []
 description: Track the number of times the command is used.
-downloads: 222
+downloads: 279
 mobile: false
 number: 1929
 stars: 2
 title: Command Tracker
 type: plugin
-updated: '2024-10-26T12:18:31'
+updated: '2024-12-14T14:00:35'
 url: https://github.com/namikaze-40p/obsidian-command-tracker
-version: 0.2.4
+version: 0.2.5
 ---
 
 %% README_START %%

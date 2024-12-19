@@ -2,18 +2,18 @@
 aliases:
 - Relay
 author:
-- '[[no-instructions|System 3]]'
+- '[[authors/no-instructions|System 3]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Collaborate in real time with live cursors. Create relays, add folders,
   and manage user access.
-downloads: 4832
+downloads: 5228
 mobile: false
 number: 1835
-stars: 100
+stars: 102
 title: Relay
 type: plugin
-updated: '2024-12-03T03:51:32'
+updated: '2024-12-18T01:50:14'
 url: https://github.com/no-instructions/relay
 version: 0.4.1
 ---

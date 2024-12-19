@@ -2,10 +2,10 @@
 aliases:
 - Data Entry
 author:
-- '[[waynevanson|Wayne Van Son]]'
+- '[[authors/waynevanson|Wayne Van Son]]'
 categories: []
 description: Create forms that save data simply; the data view of data entry
-downloads: 3948
+downloads: 3964
 mobile: true
 number: 1092
 stars: 26

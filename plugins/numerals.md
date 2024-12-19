@@ -2,15 +2,15 @@
 aliases:
 - Numerals
 author:
-- '[[gtg922r|RyanC]]'
+- '[[authors/gtg922r|RyanC]]'
 categories: []
 description: Numerals turns any code block into an advanced calculator. Evaluates
   math expressions on each line of a code block, including units, currency, and optional
   TeX rendering.
-downloads: 32131
+downloads: 32481
 mobile: true
 number: 695
-stars: 420
+stars: 423
 title: Numerals
 type: plugin
 updated: '2024-06-17T12:20:10'

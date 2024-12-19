@@ -2,10 +2,10 @@
 aliases:
 - OnlyWorlds Builder
 author:
-- '[[OnlyWorlds|Titus]]'
+- '[[authors/OnlyWorlds|Titus]]'
 categories: []
 description: World building structure with OnlyWorlds integration
-downloads: 168
+downloads: 179
 mobile: false
 number: 1928
 stars: 1

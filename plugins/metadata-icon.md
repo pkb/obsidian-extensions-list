@@ -2,10 +2,10 @@
 aliases:
 - Metadata Icon
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories: []
 description: Change metadata entry icon
-downloads: 2882
+downloads: 2913
 mobile: true
 number: 1455
 stars: 9

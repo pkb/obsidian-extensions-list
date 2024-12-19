@@ -2,11 +2,11 @@
 aliases:
 - Completr
 author:
-- '[[tth05|tth05]]'
+- '[[authors/tth05|tth05]]'
 categories: []
 description: This plugin provides advanced auto-completion functionality for LaTeX,
   Frontmatter and standard writing.
-downloads: 59060
+downloads: 59410
 mobile: false
 number: 392
 stars: 313

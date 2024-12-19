@@ -2,13 +2,13 @@
 aliases:
 - Sakana Widget
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories: []
 description: Add the Sakana! Widget to your own Obsidian!
-downloads: 4801
+downloads: 4812
 mobile: true
 number: 614
-stars: 28
+stars: 29
 title: Sakana Widget
 type: plugin
 updated: '2022-10-29T15:49:12'

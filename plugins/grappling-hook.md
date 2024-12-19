@@ -2,19 +2,19 @@
 aliases:
 - Grappling Hook
 author:
-- '[[chrisgrieser|pseudometa (Chris Grieser)]]'
+- '[[authors/chrisgrieser|pseudometa (Chris Grieser)]]'
 categories: []
 description: Obsidian Plugin for blazingly fast file switching. For those who find
   the Quick Switcher still too slow.
-downloads: 7886
+downloads: 8004
 mobile: true
 number: 785
 stars: 47
 title: Grappling Hook
 type: plugin
-updated: '2024-09-18T16:07:37'
+updated: '2024-12-12T22:33:55'
 url: https://github.com/chrisgrieser/grappling-hook
-version: 1.2.4
+version: 1.2.5
 ---
 
 %% README_START %%

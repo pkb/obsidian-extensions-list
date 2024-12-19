@@ -2,12 +2,12 @@
 aliases:
 - Smort
 author:
-- '[[SmortApp|Smort]]'
+- '[[authors/SmortApp|Smort]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate
   and share articles.
-downloads: 3694
+downloads: 3697
 mobile: true
 number: 477
 stars: 18

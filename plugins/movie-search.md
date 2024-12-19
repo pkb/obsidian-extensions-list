@@ -2,10 +2,10 @@
 aliases:
 - Movie Search
 author:
-- '[[Gubchik123|Gubchik123]]'
+- '[[authors/Gubchik123|Gubchik123]]'
 categories: []
 description: Helps you find movies and create notes.
-downloads: 1730
+downloads: 1746
 mobile: true
 number: 1497
 stars: 7

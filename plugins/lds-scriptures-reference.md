@@ -2,10 +2,10 @@
 aliases:
 - LDS Scriptures Reference
 author:
-- '[[pacokwon|pacokwon]]'
+- '[[authors/pacokwon|pacokwon]]'
 categories: []
 description: Easily insert references to LDS scriptures
-downloads: 3373
+downloads: 3380
 mobile: false
 number: 1014
 stars: 19

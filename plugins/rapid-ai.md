@@ -2,14 +2,14 @@
 aliases:
 - Rapid AI
 author:
-- '[[ahmed3developer|Instant AI]]'
+- '[[authors/ahmed3developer|Instant AI]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI Assistant for selected text and generating content with Markdown.
   Shortcuts and quick action buttons provide instant AI assistance. It provides a
   high availability API for unlimited Chat GPT request rates, so you can ensure smooth
   work for any workload.
-downloads: 424
+downloads: 437
 mobile: true
 number: 1694
 stars: 9

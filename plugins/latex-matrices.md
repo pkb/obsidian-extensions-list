@@ -2,10 +2,10 @@
 aliases:
 - Latex Matrices
 author:
-- '[[Deltekk|Daniele Susino]]'
+- '[[authors/Deltekk|Daniele Susino]]'
 categories: []
 description: Speedup latex matrices writing.
-downloads: 3975
+downloads: 3987
 mobile: true
 number: 893
 stars: 2

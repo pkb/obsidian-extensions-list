@@ -2,11 +2,11 @@
 aliases:
 - Binary File Manager
 author:
-- '[[qawatake|qawatake]]'
+- '[[authors/qawatake|qawatake]]'
 categories: []
 description: Detects new binary files in the vault and create markdown files with
   metadata.
-downloads: 7579
+downloads: 7604
 mobile: true
 number: 393
 stars: 64

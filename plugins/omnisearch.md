@@ -2,11 +2,11 @@
 aliases:
 - Omnisearch
 author:
-- '[[scambier|Simon Cambier]]'
+- '[[authors/scambier|Simon Cambier]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A search engine that just works
-downloads: 621752
+downloads: 628070
 mobile: true
 number: 504
 stars: 1300

@@ -2,13 +2,13 @@
 aliases:
 - Extract url content
 author:
-- '[[trashhalo|Stephen Solka]]'
+- '[[authors/trashhalo|Stephen Solka]]'
 categories: []
 description: Extract url converting content into markdown
-downloads: 27605
+downloads: 27713
 mobile: true
 number: 136
-stars: 281
+stars: 283
 title: Extract url content
 type: plugin
 updated: '2022-05-31T19:52:29'

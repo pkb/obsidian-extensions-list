@@ -2,11 +2,11 @@
 aliases:
 - Asciidoctor editor
 author:
-- '[[dzruyk|dzruyk]]'
+- '[[authors/dzruyk|dzruyk]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages
-downloads: 163
+downloads: 184
 mobile: false
 number: 1955
 stars: 16

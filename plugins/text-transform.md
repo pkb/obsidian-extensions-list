@@ -2,12 +2,12 @@
 aliases:
 - Text Transform
 author:
-- '[[ipshing|ipshing]]'
+- '[[authors/ipshing|ipshing]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Transform text to different casings using the command palette or keyboard
   shortcuts.
-downloads: 3232
+downloads: 3240
 mobile: true
 number: 1162
 stars: 0

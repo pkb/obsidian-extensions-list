@@ -2,11 +2,11 @@
 aliases:
 - Gamificate your PKM
 author:
-- '[[saertna|Andreas Trebing]]'
+- '[[authors/saertna|Andreas Trebing]]'
 categories: []
 description: Enhance your Personal Knowledge Management with gamification elements.
   Boost motivation and achieve growth as you engage with your PKM.
-downloads: 3000
+downloads: 3011
 mobile: true
 number: 1323
 stars: 37

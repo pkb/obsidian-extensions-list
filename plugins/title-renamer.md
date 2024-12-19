@@ -2,10 +2,10 @@
 aliases:
 - Title renamer
 author:
-- '[[stroiman|Peter Strøiman]]'
+- '[[authors/stroiman|Peter Strøiman]]'
 categories: []
 description: Synchronise title in markdown when file is renamed.
-downloads: 1315
+downloads: 1328
 mobile: false
 number: 1515
 stars: 8

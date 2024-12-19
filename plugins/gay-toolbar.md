@@ -5,15 +5,15 @@ author:
 - '[[authors/ChasKane|Chas Kane]]'
 categories: []
 description: Colorful, customizable toolbar, designed for mobile.
-downloads: 40
+downloads: 220
 mobile: true
 number: 2064
-stars: 0
+stars: 3
 title: Gay Toolbar
 type: plugin
-updated: '2024-12-07T04:32:15'
+updated: '2024-12-19T01:12:29'
 url: https://github.com/ChasKane/gay-toolbar
-version: 1.1.0
+version: 1.2.0
 ---
 
 %% README_START %%
@@ -25,6 +25,7 @@ A vibrant, fully customizable toolbar that floats above the keyboard, replacing 
 > 
 > *—Robert M. Pirsig, *Zen and the Art of Motorcycle Maintenance***
 
+*(note, the defaults have been updated to a more neutral palette with a limited set of commands, to make it easier to customize)*
 ![Image 1](https://github.com/user-attachments/assets/316d0c18-3a8d-45ad-b377-4b8de6df3305)
 ![Screenshot_2024-12-06-23-01-19-55_51606159b24eff83e24a54116878fe3e](https://github.com/user-attachments/assets/732e2a44-5fe5-4553-a1ef-a4c8897a81f1)
 
@@ -86,5 +87,6 @@ A vibrant, fully customizable toolbar that floats above the keyboard, replacing 
 > "What's wrong with technology is that it's not connected in any real way with matters of the spirit and of the heart, and so it does blind, ugly things quite by accident and it gets hated for that. People haven't paid much attention to this before because the big concern has been with food, clothing, and shelter for everyone, and technology has provided these. But now, where these are assured, the ugliness is being noticed more and more and people are asking if we must always suffer spiritually and aesthetically in order to satisfy material needs."
 >
 > —Robert M. Pirsig, *Zen and the Art of Motorcycle Maintenance*
+
 
 %% README_END %%

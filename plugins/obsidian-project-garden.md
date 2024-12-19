@@ -2,10 +2,10 @@
 aliases:
 - Project Garden
 author:
-- '[[bgoosman|Ben Goosman]]'
+- '[[authors/bgoosman|Ben Goosman]]'
 categories: []
 description: See all your projects in one place
-downloads: 5326
+downloads: 5335
 mobile: true
 number: 717
 stars: 20

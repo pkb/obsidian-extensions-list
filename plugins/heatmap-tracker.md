@@ -6,15 +6,15 @@ author:
 categories: []
 description: Visualize your activity and track goals, progress, habits, tasks, exercise,
   finances, and more—all in a single, interactive heatmap!
-downloads: 630
+downloads: 1065
 mobile: true
 number: 2051
-stars: 15
+stars: 22
 title: Heatmap Tracker
 type: plugin
-updated: '2024-12-10T17:31:49'
+updated: '2024-12-18T04:02:20'
 url: https://github.com/mokkiebear/heatmap-tracker
-version: 1.7.3
+version: 1.9.6
 ---
 
 %% README_START %%
@@ -70,12 +70,13 @@ renderHeatmapTracker(this.container, trackerData);
 
 ---
 
-### `colors`
+### `colorScheme`
 - **Type:** `object`
 - **Default:**
 ```
 {
-  "default": ["#c6e48b", "#7bc96f", "#49af5d", "#2e8840", "#196127"]
+  "paletteName": "default",
+  "customColors": []
 }
 ```
 - **Description:** Defines the color scale used for representing different intensity levels in the heatmap. Each color corresponds to a specific range of data intensity.
@@ -130,16 +131,6 @@ renderHeatmapTracker(this.container, trackerData);
 - **Type:** `number`
 - **Default:** `5`
 - **Description:** The maximum value for the intensity scale. Represents the highest possible intensity that can be mapped to the color scale.
-
----
-
-### `weekStartDay`
-- **Type:** `number`
-- **Default:** `1`
-- **Description:** Specifies the first day of the week. Values correspond to:
-  - `0`: Sunday
-  - `1`: Monday
-  - `2`: Tuesday, and so on.
 
 ---
 

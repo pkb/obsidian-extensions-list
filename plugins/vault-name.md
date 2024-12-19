@@ -2,12 +2,12 @@
 aliases:
 - Vault Name
 author:
-- '[[gapmiss|@gapmiss]]'
+- '[[authors/gapmiss|@gapmiss]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Display and customize the vault name (title) in the side navigation file
   explorer.
-downloads: 424
+downloads: 443
 mobile: false
 number: 1697
 stars: 4

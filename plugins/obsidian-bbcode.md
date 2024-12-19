@@ -2,10 +2,10 @@
 aliases:
 - BBCode Convertor
 author:
-- '[[salockhart|Alex Lockhart]]'
+- '[[authors/salockhart|Alex Lockhart]]'
 categories: []
 description: Convert Markdown files to BBCode
-downloads: 3804
+downloads: 3812
 mobile: true
 number: 518
 stars: 0

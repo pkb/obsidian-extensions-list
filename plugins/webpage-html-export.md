@@ -2,16 +2,16 @@
 aliases:
 - Webpage HTML Export
 author:
-- '[[KosmosisDire|Nathan George]]'
+- '[[authors/KosmosisDire|Nathan George]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export html from single files, canvas pages, or whole vaults. Direct
   access to the exported HTML files allows you to publish your digital garden anywhere.
   Focuses on flexibility, features, and style parity.
-downloads: 64384
+downloads: 65208
 mobile: false
 number: 741
-stars: 902
+stars: 906
 title: Webpage HTML Export
 type: plugin
 updated: '2024-11-26T13:01:47'

@@ -2,10 +2,10 @@
 aliases:
 - Mini Toolbar
 author:
-- '[[quorafind|AidenLx & Boninall]]'
+- '[[authors/quorafind|AidenLx & Boninall]]'
 categories: []
 description: mini context toolbar in editor
-downloads: 4853
+downloads: 4865
 mobile: false
 number: 1044
 stars: 12

@@ -2,12 +2,12 @@
 aliases:
 - Testing Vault
 author:
-- '[[pedersen|Michael J. Pedersen <m.pedersen@icelus.org>]]'
+- '[[authors/pedersen|Michael J. Pedersen <m.pedersen@icelus.org>]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: This allows a developer to make a random vault of arbitrary size for
   testing their plugins.
-downloads: 3699
+downloads: 3702
 mobile: true
 number: 852
 stars: 15

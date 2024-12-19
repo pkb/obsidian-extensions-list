@@ -2,10 +2,10 @@
 aliases:
 - Structured
 author:
-- '[[dobrovolsky|dobrovolsky]]'
+- '[[authors/dobrovolsky|dobrovolsky]]'
 categories: []
 description: 'Structured plugin. Create hierarchy in notes using . '
-downloads: 5775
+downloads: 5785
 mobile: true
 number: 359
 stars: 65

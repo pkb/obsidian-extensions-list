@@ -2,11 +2,11 @@
 aliases:
 - Emoji Toolbar
 author:
-- '[[oliveryh|oliveryh]]'
+- '[[authors/oliveryh|oliveryh]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Quickly search for and insert emojis into your notes.
-downloads: 328899
+downloads: 330295
 mobile: true
 number: 47
 stars: 203

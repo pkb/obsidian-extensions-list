@@ -2,19 +2,19 @@
 aliases:
 - Cloud Storage
 author:
-- '[[yingjialong|majiajun]]'
+- '[[authors/yingjialong|majiajun]]'
 categories: []
 description: Allows users to upload local files to the cloud, reducing the burden
   on local vaults and enabling seamless synchronization across multiple devices.
-downloads: 360
+downloads: 417
 mobile: true
 number: 1948
-stars: 7
+stars: 8
 title: Cloud Storage
 type: plugin
-updated: '2024-11-18T16:13:23'
+updated: '2024-12-14T14:06:16'
 url: https://github.com/yingjialong/obsidian-CloudStorage
-version: 1.4.27
+version: 1.4.28
 ---
 
 %% README_START %%
@@ -169,6 +169,10 @@ Stay tuned for these exciting updates!
 We value your input! If you have suggestions for improvements or new features, please let us know. For those interested in contributing to the development of Cloud Storage, check out our [contribution guidelines](#) (Coming soon).
 
 Thank you for choosing Cloud Storage to enhance your note-taking experience!
+
+## Special Thanks
+
+We would like to express our sincere gratitude to the [Remotely Save](https://github.com/remotely-save/remotely-save) project for their inspiration and assistance. Their work has been invaluable in shaping certain aspects of Cloud Storage. We appreciate their contributions to the Obsidian plugin ecosystem and the open-source community at large.
 
 
 %% README_END %%

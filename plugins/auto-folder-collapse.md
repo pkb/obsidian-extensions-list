@@ -2,10 +2,10 @@
 aliases:
 - Auto Folder Collapse
 author:
-- '[[DarioCasciato|Dario Casciato]]'
+- '[[authors/DarioCasciato|Dario Casciato]]'
 categories: []
 description: Automatically collapses subfolders when a parent folder is collapsed
-downloads: 1354
+downloads: 1401
 mobile: true
 number: 1818
 stars: 5

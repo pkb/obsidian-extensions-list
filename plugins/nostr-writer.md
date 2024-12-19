@@ -2,11 +2,11 @@
 aliases:
 - Nostr Writer
 author:
-- '[[jamesmagoo|jamesmagoo]]'
+- '[[authors/jamesmagoo|jamesmagoo]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your writing directly to Nostr.
-downloads: 3755
+downloads: 3761
 mobile: false
 number: 1090
 stars: 62

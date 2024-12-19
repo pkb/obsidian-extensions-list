@@ -2,11 +2,11 @@
 aliases:
 - asciimath
 author:
-- '[[widcardw|widcardw]]'
+- '[[authors/widcardw|widcardw]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Add asciimath support for Obsidian.
-downloads: 7183
+downloads: 7202
 mobile: true
 number: 690
 stars: 31

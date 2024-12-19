@@ -2,11 +2,11 @@
 aliases:
 - LLM Summary
 author:
-- '[[larksq|QSun]]'
+- '[[authors/larksq|QSun]]'
 categories: []
 description: Quick note taking with the help of LLMs. LLMs help you to summarize /
   organize PDFs or existing notes.
-downloads: 797
+downloads: 907
 mobile: false
 number: 1930
 stars: 9

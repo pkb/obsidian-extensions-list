@@ -2,10 +2,10 @@
 aliases:
 - Stille
 author:
-- '[[michaellee|Michael Lee]]'
+- '[[authors/michaellee|Michael Lee]]'
 categories: []
 description: Focus on your writing, a section at a time.
-downloads: 25442
+downloads: 25559
 mobile: true
 number: 286
 stars: 88

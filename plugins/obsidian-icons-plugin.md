@@ -2,11 +2,11 @@
 aliases:
 - Icons
 author:
-- '[[visini|Camillo Visini]]'
+- '[[authors/visini|Camillo Visini]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add icons to your Obsidian notes.
-downloads: 84605
+downloads: 84986
 mobile: false
 number: 77
 stars: 203

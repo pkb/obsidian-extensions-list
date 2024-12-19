@@ -2,13 +2,13 @@
 aliases:
 - Whisper
 author:
-- '[[nikdanilov|Nik Danilov]]'
+- '[[authors/nikdanilov|Nik Danilov]]'
 categories: []
 description: Speech-to-text in Obsidian using OpenAI Whisper
-downloads: 21975
+downloads: 22206
 mobile: true
 number: 865
-stars: 230
+stars: 232
 title: Whisper
 type: plugin
 updated: '2024-01-29T21:58:33'

@@ -2,11 +2,11 @@
 aliases:
 - Update Time
 author:
-- '[[dsebastien|Sébastien Dubois]]'
+- '[[authors/dsebastien|Sébastien Dubois]]'
 categories: []
 description: Automatically update front matter to include creation and last update
   times.
-downloads: 1028
+downloads: 1061
 mobile: true
 number: 1661
 stars: 8

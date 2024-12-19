@@ -2,10 +2,10 @@
 aliases:
 - Shiki Highlighter
 author:
-- '[[mProjectsCode|Moritz Jung]]'
+- '[[authors/mProjectsCode|Moritz Jung]]'
 categories: []
 description: Highlight code blocks with Shiki.
-downloads: 4511
+downloads: 4684
 mobile: true
 number: 1556
 stars: 60

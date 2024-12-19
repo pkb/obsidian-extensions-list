@@ -2,10 +2,10 @@
 aliases:
 - Obsidian CircuitJS
 author:
-- '[[StevenGann|Steven Gann]]'
+- '[[authors/StevenGann|Steven Gann]]'
 categories: []
 description: Integrating CircuitJS and Obsidian
-downloads: 4271
+downloads: 4279
 mobile: false
 number: 445
 stars: 28

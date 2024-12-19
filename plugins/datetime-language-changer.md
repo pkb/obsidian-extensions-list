@@ -2,12 +2,12 @@
 aliases:
 - Datetime Language Changer
 author:
-- '[[ZetabS|Zetab_S]]'
+- '[[authors/ZetabS|Zetab_S]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Customize the language used for datetime formatting by changing moment.js's
   locale.
-downloads: 2275
+downloads: 2285
 mobile: true
 number: 1277
 stars: 3

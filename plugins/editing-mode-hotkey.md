@@ -2,11 +2,11 @@
 aliases:
 - Editing Mode Hotkey
 author:
-- '[[Signynt|Signynt]]'
+- '[[authors/Signynt|Signynt]]'
 categories: []
 description: Adds a command and hotkey to toggle the default editing mode (between
   Live Preview and Source)
-downloads: 152
+downloads: 158
 mobile: true
 number: 1919
 stars: 1

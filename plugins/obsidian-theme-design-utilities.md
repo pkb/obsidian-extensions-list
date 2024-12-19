@@ -2,14 +2,14 @@
 aliases:
 - Theme Design Utilities
 author:
-- '[[chrisgrieser|pseudometa]]'
+- '[[authors/chrisgrieser|pseudometa]]'
 categories: []
 description: Some Utilities and Quality-of-Life Features for Designers of Obsidian
   Themes.
-downloads: 14809
+downloads: 14858
 mobile: false
 number: 367
-stars: 106
+stars: 107
 title: Theme Design Utilities
 type: plugin
 updated: '2024-02-27T17:51:11'

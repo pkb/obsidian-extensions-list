@@ -2,14 +2,14 @@
 aliases:
 - Text Finder
 author:
-- '[[nyable|hafuhafu]]'
+- '[[authors/nyable|hafuhafu]]'
 categories: []
 description: Provides a find/replace window in edit mode similar to VSCode (supports
   regular expressions and case sensitivity).
-downloads: 457
+downloads: 527
 mobile: true
 number: 1989
-stars: 13
+stars: 14
 title: Text Finder
 type: plugin
 updated: '2024-11-15T09:02:44'

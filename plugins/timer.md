@@ -2,11 +2,11 @@
 aliases:
 - Timer
 author:
-- '[[Raboro|Marius Wörfel]]'
+- '[[authors/Raboro|Marius Wörfel]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Allows you to measure time.
-downloads: 7160
+downloads: 7210
 mobile: true
 number: 1185
 stars: 9

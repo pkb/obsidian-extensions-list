@@ -2,13 +2,13 @@
 aliases:
 - Kobo Highlights Importer
 author:
-- '[[OGKevin|Kevin Hellemun]]'
+- '[[authors/OGKevin|Kevin Hellemun]]'
 categories: []
 description: Import highlights from your Kobo device
-downloads: 7824
+downloads: 7853
 mobile: false
 number: 447
-stars: 83
+stars: 84
 title: Kobo Highlights Importer
 type: plugin
 updated: '2024-03-11T16:16:08'

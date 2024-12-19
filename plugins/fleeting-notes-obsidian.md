@@ -2,10 +2,10 @@
 aliases:
 - Fleeting Notes Sync
 author:
-- '[[fleetingnotes|Matthew Wong]]'
+- '[[authors/fleetingnotes|Matthew Wong]]'
 categories: []
 description: This is a plugin to sync Fleeting Notes with Obsidian
-downloads: 30942
+downloads: 31022
 mobile: true
 number: 480
 stars: 82

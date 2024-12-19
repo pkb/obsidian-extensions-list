@@ -2,11 +2,11 @@
 aliases:
 - TinyChart
 author:
-- '[[alincoop|Alin Coop]]'
+- '[[authors/alincoop|Alin Coop]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: Dead simple ASCII charts
-downloads: 936
+downloads: 957
 mobile: true
 number: 1634
 stars: 36

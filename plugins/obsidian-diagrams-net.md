@@ -2,15 +2,15 @@
 aliases:
 - Diagrams.net
 author:
-- '[[jensmtg|Jens M Gleditsch]]'
+- '[[authors/jensmtg|Jens M Gleditsch]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net
   embedded editor.
-downloads: 30995
+downloads: 31278
 mobile: false
 number: 556
-stars: 98
+stars: 99
 title: Diagrams.net
 type: plugin
 updated: '2022-06-23T11:13:19'

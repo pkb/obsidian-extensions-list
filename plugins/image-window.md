@@ -2,10 +2,10 @@
 aliases:
 - Second Window
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Allow images & notes to be viewed in new Obsidian windows.
-downloads: 24300
+downloads: 24450
 mobile: false
 number: 371
 stars: 37

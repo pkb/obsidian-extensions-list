@@ -2,11 +2,11 @@
 aliases:
 - XMind Viewer
 author:
-- '[[Ssentiago|Sentiago]]'
+- '[[authors/Ssentiago|Sentiago]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Integrate viewing of your XMind files
-downloads: 1203
+downloads: 1324
 mobile: true
 number: 1915
 stars: 12

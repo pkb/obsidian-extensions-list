@@ -2,10 +2,10 @@
 aliases:
 - Furigana
 author:
-- '[[uonr|Koppa]]'
+- '[[authors/uonr|Koppa]]'
 categories: []
 description: Helper plugin for furigana and <ruby>
-downloads: 4791
+downloads: 4798
 mobile: true
 number: 111
 stars: 26

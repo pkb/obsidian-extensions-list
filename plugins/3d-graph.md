@@ -2,11 +2,11 @@
 aliases:
 - 3D Graph
 author:
-- '[[AlexW00|Alexander Weichart]]'
+- '[[authors/AlexW00|Alexander Weichart]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian
-downloads: 31851
+downloads: 32162
 mobile: true
 number: 673
 stars: 296

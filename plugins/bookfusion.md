@@ -2,12 +2,12 @@
 aliases:
 - BookFusion
 author:
-- '[[BookFusion|BookFusion]]'
+- '[[authors/BookFusion|BookFusion]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import your BookFusion highlights & annotations into your vault.
-downloads: 1863
+downloads: 1885
 mobile: true
 number: 1489
 stars: 17

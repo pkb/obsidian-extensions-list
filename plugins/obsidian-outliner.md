@@ -2,11 +2,11 @@
 aliases:
 - Outliner
 author:
-- '[[vslinko|Viacheslav Slinko]]'
+- '[[authors/vslinko|Viacheslav Slinko]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Work with your lists like in Workflowy or RoamResearch.
-downloads: 832883
+downloads: 836310
 mobile: true
 number: 135
 stars: -1

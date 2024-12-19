@@ -2,11 +2,11 @@
 aliases:
 - WordPress
 author:
-- '[[devbean|devbean]]'
+- '[[authors/devbean|devbean]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: A plugin for publishing Obsidian documents to WordPress.
-downloads: 16362
+downloads: 16411
 mobile: true
 number: 377
 stars: 161

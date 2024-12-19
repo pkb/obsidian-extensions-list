@@ -2,10 +2,10 @@
 aliases:
 - Giphy
 author:
-- '[[LuCrypto|LuCrypto]]'
+- '[[authors/LuCrypto|LuCrypto]]'
 categories: []
 description: Search and insert gifs in a note.
-downloads: 574
+downloads: 590
 mobile: true
 number: 1794
 stars: 3

@@ -2,10 +2,10 @@
 aliases:
 - Highlight active folder section
 author:
-- '[[justanotherjurastudent|Lukas Collier]]'
+- '[[authors/justanotherjurastudent|Lukas Collier]]'
 categories: []
 description: Highlight the active folder section and the title in the file explorer.
-downloads: 815
+downloads: 842
 mobile: true
 number: 1882
 stars: 2

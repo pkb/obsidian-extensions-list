@@ -2,10 +2,10 @@
 aliases:
 - Légifrance Intégration
 author:
-- '[[carnetdethese|hurj]]'
+- '[[authors/carnetdethese|hurj]]'
 categories: []
 description: Intégration de l'API Légifrance.
-downloads: 246
+downloads: 248
 mobile: true
 number: 1658
 stars: 2

@@ -2,11 +2,11 @@
 aliases:
 - Contextual note templating
 author:
-- '[[Balibaloo|Roman Kubiv]]'
+- '[[authors/Balibaloo|Roman Kubiv]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Prompts for values and templates to create notes.
-downloads: 3056
+downloads: 3159
 mobile: true
 number: 1495
 stars: 12

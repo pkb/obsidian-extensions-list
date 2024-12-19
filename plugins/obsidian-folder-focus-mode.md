@@ -2,11 +2,11 @@
 aliases:
 - Folder Focus Mode
 author:
-- '[[grochowski|Grochowski]]'
+- '[[authors/grochowski|Grochowski]]'
 categories: []
 description: Focus file explorer on chosen folder and its files and subdirectories,
   while hiding all the other elements.
-downloads: 12655
+downloads: 12708
 mobile: true
 number: 517
 stars: 47

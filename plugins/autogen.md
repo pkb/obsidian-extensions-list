@@ -2,11 +2,11 @@
 aliases:
 - Autogen
 author:
-- '[[AidanTilgner|Aidan Tilgner]]'
+- '[[authors/AidanTilgner|Aidan Tilgner]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: In place autogeneration of content based on prompts.
-downloads: 1230
+downloads: 1240
 mobile: false
 number: 1425
 stars: 9

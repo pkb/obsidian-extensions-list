@@ -2,12 +2,12 @@
 aliases:
 - Yesterday
 author:
-- '[[dominikmayer|Dominik Mayer]]'
+- '[[authors/dominikmayer|Dominik Mayer]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Transform your notes into a visually stunning diary, integrating dialogs,
   chat logs, and media content blocks for a seamless journaling experience.
-downloads: 3269
+downloads: 3305
 mobile: true
 number: 1478
 stars: 15

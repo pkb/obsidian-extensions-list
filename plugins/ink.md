@@ -2,17 +2,17 @@
 aliases:
 - Ink
 author:
-- '[[daledesilva|Dale de Silva]]'
+- '[[authors/daledesilva|Dale de Silva]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Hand write or draw directly between paragraphs in your notes using a
   digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles,
   or even math equations and scientific notation. Runs on the tldraw framework and
   drawing provides an infinite canvas.
-downloads: 39873
+downloads: 41644
 mobile: true
 number: 1592
-stars: 513
+stars: 561
 title: Ink
 type: plugin
 updated: '2024-12-04T18:41:59'

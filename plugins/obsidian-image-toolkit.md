@@ -2,14 +2,14 @@
 aliases:
 - Image Toolkit
 author:
-- '[[sissilab|Xiangru]]'
+- '[[authors/sissilab|Xiangru]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: This plugin provides some image viewing toolkit.
-downloads: 218438
+downloads: 220958
 mobile: false
 number: 264
-stars: 316
+stars: 317
 title: Image Toolkit
 type: plugin
 updated: '2024-10-07T11:05:51'

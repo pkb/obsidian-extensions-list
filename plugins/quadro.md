@@ -2,19 +2,19 @@
 aliases:
 - Quadro
 author:
-- '[[chrisgrieser|Chris Grieser (aka pseudometa)]]'
+- '[[authors/chrisgrieser|Chris Grieser (aka pseudometa)]]'
 categories: []
 description: Qualitative Data Analysis (QDA) for social scientists. An open alternative
   to `MAXQDA` and `atlas.ti`, using Markdown to store data and research codes.
-downloads: 3458
+downloads: 3520
 mobile: true
 number: 1475
-stars: 66
+stars: 67
 title: Quadro
 type: plugin
-updated: '2024-11-28T03:18:06'
+updated: '2024-12-12T22:34:20'
 url: https://github.com/chrisgrieser/obsidian-quadro
-version: 1.27.4
+version: 1.27.5
 ---
 
 %% README_START %%

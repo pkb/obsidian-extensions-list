@@ -2,10 +2,10 @@
 aliases:
 - Hotkeys for specific files
 author:
-- '[[Vinzent03|Vinzent]]'
+- '[[authors/Vinzent03|Vinzent]]'
 categories: []
 description: Set hotkeys for specific files and open them just with your keyboard.
-downloads: 25472
+downloads: 25561
 mobile: true
 number: 106
 stars: 58

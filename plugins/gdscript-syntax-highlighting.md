@@ -2,10 +2,10 @@
 aliases:
 - GDScript Syntax Highlighting
 author:
-- '[[RobTheFiveNine|RobTheFiveNine]]'
+- '[[authors/RobTheFiveNine|RobTheFiveNine]]'
 categories: []
 description: Add live GDScript syntax highlighting to code blocks.
-downloads: 1362
+downloads: 1403
 mobile: true
 number: 1648
 stars: 20

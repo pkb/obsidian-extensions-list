@@ -2,10 +2,10 @@
 aliases:
 - Substitutions
 author:
-- '[[BambusControl|BambusControl]]'
+- '[[authors/BambusControl|BambusControl]]'
 categories: []
 description: Automatically replace text fragments with symbols or different text
-downloads: 1000
+downloads: 1031
 mobile: true
 number: 1698
 stars: 13

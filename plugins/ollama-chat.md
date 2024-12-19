@@ -2,14 +2,14 @@
 aliases:
 - Ollama Chat
 author:
-- '[[brumik|brumik]]'
+- '[[authors/brumik|brumik]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Chat with your notes with the help of Ollama.
-downloads: 6186
+downloads: 6257
 mobile: true
 number: 1345
-stars: 117
+stars: 118
 title: Ollama Chat
 type: plugin
 updated: '2024-10-12T12:50:01'

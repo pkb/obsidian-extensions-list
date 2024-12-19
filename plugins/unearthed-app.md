@@ -2,10 +2,10 @@
 aliases:
 - Unearthed (Kindle Sync)
 author:
-- '[[Unearthed-App|CheersCal]]'
+- '[[authors/Unearthed-App|CheersCal]]'
 categories: []
 description: Auto Sync Kindle Highlights and Daily Reflection via Unearthed
-downloads: 100
+downloads: 116
 mobile: true
 number: 1988
 stars: 1

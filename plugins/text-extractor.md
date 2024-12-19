@@ -2,15 +2,15 @@
 aliases:
 - Text Extractor
 author:
-- '[[scambier|Simon Cambier]]'
+- '[[authors/scambier|Simon Cambier]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: A (companion) plugin to facilitate the extraction of text from images
   (OCR) and PDFs.
-downloads: 138293
+downloads: 139315
 mobile: true
 number: 734
-stars: 353
+stars: 358
 title: Text Extractor
 type: plugin
 updated: '2024-05-27T01:34:08'

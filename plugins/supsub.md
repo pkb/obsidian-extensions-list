@@ -2,13 +2,13 @@
 aliases:
 - SupSub
 author:
-- '[[wjgoarxiv|wjgoarxiv]]'
+- '[[authors/wjgoarxiv|wjgoarxiv]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: '`Supsub` is a plugin designed for Obsidian.md that adds functionality
   to wrap selected text with <sup></sup> (superscript) or <sub></sub> (subscript)
   tags.'
-downloads: 7326
+downloads: 7436
 mobile: true
 number: 980
 stars: 9

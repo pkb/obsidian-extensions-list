@@ -2,10 +2,10 @@
 aliases:
 - Merge Notes
 author:
-- '[[fnya|fnya]]'
+- '[[authors/fnya|fnya]]'
 categories: []
 description: Merge the selected notes.
-downloads: 6160
+downloads: 6224
 mobile: false
 number: 1177
 stars: 13

@@ -2,10 +2,10 @@
 aliases:
 - Rss Copyist
 author:
-- '[[aoout|aoout]]'
+- '[[authors/aoout|aoout]]'
 categories: []
 description: Get the rss articles as mdfiles.
-downloads: 1670
+downloads: 1686
 mobile: true
 number: 1378
 stars: 28

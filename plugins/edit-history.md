@@ -2,12 +2,12 @@
 aliases:
 - Edit History
 author:
-- '[[antoniotejada|Antonio Tejada]]'
+- '[[authors/antoniotejada|Antonio Tejada]]'
 categories: []
 description: Automatically saves the history of edits of a file when Obsidian saves
   the file, and allows viewing the differences between edits, copying text from a
   previous edit, or fully rolling back to a previous edit.
-downloads: 7426
+downloads: 7488
 mobile: true
 number: 1015
 stars: 59

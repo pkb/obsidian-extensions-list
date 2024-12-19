@@ -2,11 +2,11 @@
 aliases:
 - Writeas Blog Publisher
 author:
-- '[[encima|encima]]'
+- '[[authors/encima|encima]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to write.as
-downloads: 2971
+downloads: 2975
 mobile: true
 number: 1110
 stars: 3

@@ -2,19 +2,19 @@
 aliases:
 - Custom Font Loader
 author:
-- '[[pourmand1376|Amir Pourmand]]'
+- '[[authors/pourmand1376|Amir Pourmand]]'
 categories: []
 description: Customize your Obsidian vault with any font you want (+ Support for Android
   and IOS)
-downloads: 20749
+downloads: 21455
 mobile: true
 number: 1130
-stars: 66
+stars: 67
 title: Custom Font Loader
 type: plugin
-updated: '2024-08-21T02:41:22'
+updated: '2024-12-13T14:50:23'
 url: https://github.com/pourmand1376/obsidian-custom-font
-version: 1.5.5
+version: 1.6.0
 ---
 
 %% README_START %%

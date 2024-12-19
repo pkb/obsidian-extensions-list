@@ -2,10 +2,10 @@
 aliases:
 - Bible linker Pro
 author:
-- '[[Floydv149|Floydv149]]'
+- '[[authors/Floydv149|Floydv149]]'
 categories: []
 description: Convert Bible texts to JW Library links.
-downloads: 1624
+downloads: 1642
 mobile: true
 number: 1411
 stars: 10

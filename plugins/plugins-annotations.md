@@ -2,14 +2,14 @@
 aliases:
 - Plugins Annotations
 author:
-- '[[alberti42|Andrea Alberti]]'
+- '[[authors/alberti42|Andrea Alberti]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Allows adding personal comments to each installed plugin.
-downloads: 2061
+downloads: 2100
 mobile: true
 number: 1715
-stars: 13
+stars: 14
 title: Plugins Annotations
 type: plugin
 updated: '2024-10-20T20:16:29'

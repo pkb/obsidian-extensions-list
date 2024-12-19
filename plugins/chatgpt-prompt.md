@@ -2,11 +2,11 @@
 aliases:
 - Prompt ChatGPT
 author:
-- '[[Coduhuey|Coduhuey]]'
+- '[[authors/Coduhuey|Coduhuey]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Send templates to chatgpt when you open a file
-downloads: 7031
+downloads: 7219
 mobile: false
 number: 1472
 stars: 5

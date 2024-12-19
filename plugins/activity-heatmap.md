@@ -2,18 +2,18 @@
 aliases:
 - Activity Heatmap
 author:
-- '[[zakhij|Zak Hijaouy]]'
+- '[[authors/zakhij|Zak Hijaouy]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: Tracks and visualizes app activity, similar to GitHub's contribution
   chart.
-downloads: 400
+downloads: 507
 mobile: true
 number: 2000
 stars: 3
 title: Activity Heatmap
 type: plugin
-updated: '2024-11-19T04:41:32'
+updated: '2024-12-11T09:22:36'
 url: https://github.com/zakhij/obsidian-activity-heatmap
 version: 1.0.5
 ---

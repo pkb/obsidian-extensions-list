@@ -2,10 +2,10 @@
 aliases:
 - Quote of the Day
 author:
-- '[[twentytwokhz|Florin Bobis]]'
+- '[[authors/twentytwokhz|Florin Bobis]]'
 categories: []
 description: Inserts random quotes in the editor
-downloads: 11296
+downloads: 11403
 mobile: true
 number: 327
 stars: 42

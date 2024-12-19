@@ -2,10 +2,10 @@
 aliases:
 - Min3ditorHotkeys
 author:
-- '[[d-sauer|d-sauer]]'
+- '[[authors/d-sauer|d-sauer]]'
 categories: []
 description: Additional editor hotkeys inspired by coding editors
-downloads: 4497
+downloads: 4499
 mobile: true
 number: 81
 stars: 6

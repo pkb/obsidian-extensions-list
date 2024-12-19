@@ -2,11 +2,11 @@
 aliases:
 - Better Math in Callouts & Blockquotes
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Add better Live Preview support for math rendering inside callouts &
   blockquotes.
-downloads: 4064
+downloads: 4109
 mobile: true
 number: 1327
 stars: 30

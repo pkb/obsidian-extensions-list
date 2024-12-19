@@ -2,13 +2,13 @@
 aliases:
 - MathLive
 author:
-- '[[danzilberdan|Dan Zilberman]]'
+- '[[authors/danzilberdan|Dan Zilberman]]'
 categories: []
 description: Faster and more intuitive MathJax editing using MathLive.
-downloads: 13703
+downloads: 13894
 mobile: false
 number: 931
-stars: 89
+stars: 92
 title: MathLive
 type: plugin
 updated: '2024-09-30T11:02:59'

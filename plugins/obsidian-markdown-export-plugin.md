@@ -2,11 +2,11 @@
 aliases:
 - markdown export
 author:
-- '[[bingryan|bingryan]]'
+- '[[authors/bingryan|bingryan]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a markdown export plugin for Obsidian.
-downloads: 20744
+downloads: 20939
 mobile: false
 number: 699
 stars: 73

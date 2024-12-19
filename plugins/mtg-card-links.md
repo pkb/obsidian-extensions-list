@@ -2,11 +2,11 @@
 aliases:
 - MTG Card Links
 author:
-- '[[aedans|Aedan Smith]]'
+- '[[authors/aedans|Aedan Smith]]'
 categories: []
 description: 'Link to Magic: the Gathering cards by enclosing the card name in square
   brackets.'
-downloads: 3324
+downloads: 3331
 mobile: true
 number: 1108
 stars: 7

@@ -2,11 +2,11 @@
 aliases:
 - Wikidata Importer
 author:
-- '[[samwho|Sam Rose]]'
+- '[[authors/samwho|Sam Rose]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import data from Wikidata into your vault.
-downloads: 4578
+downloads: 4597
 mobile: true
 number: 1076
 stars: 27

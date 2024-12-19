@@ -2,13 +2,13 @@
 aliases:
 - No more flickering inline math
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Remove flickering inline math.
-downloads: 4823
+downloads: 4860
 mobile: true
 number: 1151
-stars: 22
+stars: 23
 title: No more flickering inline math
 type: plugin
 updated: '2024-10-29T17:00:22'

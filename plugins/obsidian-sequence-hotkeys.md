@@ -2,11 +2,11 @@
 aliases:
 - Sequence Hotkeys
 author:
-- '[[moolmanruan|Ruan Moolman]]'
+- '[[authors/moolmanruan|Ruan Moolman]]'
 categories: []
 description: This plugin allows you to set hotkeys with key sequences instead of a
   single chord.
-downloads: 6120
+downloads: 6135
 mobile: true
 number: 528
 stars: 39

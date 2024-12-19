@@ -2,10 +2,10 @@
 aliases:
 - Fuzzy Note Creator
 author:
-- '[[HaloGamer33|HaloGamer33]]'
+- '[[authors/HaloGamer33|HaloGamer33]]'
 categories: []
 description: Create notes in folders with the help of a fuzzy finder.
-downloads: 377
+downloads: 384
 mobile: false
 number: 1649
 stars: 3

@@ -2,10 +2,10 @@
 aliases:
 - 复制图文 (Copy Image Text)
 author:
-- '[[msgk239|msgk]]'
+- '[[authors/msgk239|msgk]]'
 categories: []
 description: Copy note content (including text and images) to clipboard. 复制笔记内容（包括文本和图片）到剪贴板。
-downloads: 206
+downloads: 225
 mobile: true
 number: 1965
 stars: 6

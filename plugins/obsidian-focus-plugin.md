@@ -2,14 +2,14 @@
 aliases:
 - Focus and Highlight
 author:
-- '[[nagi1999a|BO YI TSAI]]'
+- '[[authors/nagi1999a|BO YI TSAI]]'
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that will highlight and focus
   on the currently selected heading
-downloads: 6920
+downloads: 6937
 mobile: true
 number: 572
-stars: 32
+stars: 33
 title: Focus and Highlight
 type: plugin
 updated: '2022-11-01T14:34:27'

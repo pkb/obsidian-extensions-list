@@ -2,10 +2,10 @@
 aliases:
 - Literate Haskell
 author:
-- '[[jajaperson|James Jensen]]'
+- '[[authors/jajaperson|James Jensen]]'
 categories: []
 description: An obsidian plugin for integrating `.lhs` files into your PKM.
-downloads: 3375
+downloads: 3378
 mobile: true
 number: 590
 stars: 3

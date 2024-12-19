@@ -2,14 +2,14 @@
 aliases:
 - Magic Mic
 author:
-- '[[drewmcdonald|Drew McDonald]]'
+- '[[authors/drewmcdonald|Drew McDonald]]'
 categories: []
 description: Record, transcribe, and summarize audio directly into your vault with
   custom assistants.
-downloads: 886
+downloads: 942
 mobile: true
 number: 1918
-stars: 5
+stars: 6
 title: Magic Mic
 type: plugin
 updated: '2024-10-14T05:09:10'

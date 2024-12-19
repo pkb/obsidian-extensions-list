@@ -2,10 +2,10 @@
 aliases:
 - Vocabulary Highlighter
 author:
-- '[[eatgrass|eatgrass]]'
+- '[[authors/eatgrass|eatgrass]]'
 categories: []
 description: Hightlight vocabulary based on the word frequency
-downloads: 3728
+downloads: 3750
 mobile: true
 number: 1255
 stars: 47

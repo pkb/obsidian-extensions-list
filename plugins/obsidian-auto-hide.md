@@ -2,10 +2,10 @@
 aliases:
 - Auto Hide
 author:
-- '[[skelato1|skelato1]]'
+- '[[authors/skelato1|skelato1]]'
 categories: []
 description: Collapse sidebars when clicking on the editor/viewer panel
-downloads: 11699
+downloads: 11780
 mobile: false
 number: 597
 stars: 28

@@ -2,11 +2,11 @@
 aliases:
 - "Lumberjack \U0001FA93 \U0001FAB5"
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency
   and get right to writing.
-downloads: 8116
+downloads: 8140
 mobile: true
 number: 319
 stars: 122

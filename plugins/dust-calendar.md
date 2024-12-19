@@ -2,14 +2,14 @@
 aliases:
 - Dust Calendar
 author:
-- '[[a-nano-dust|纳米级尘埃]]'
+- '[[authors/a-nano-dust|纳米级尘埃]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。
-downloads: 5579
+downloads: 5667
 mobile: false
 number: 1595
-stars: 62
+stars: 63
 title: Dust Calendar
 type: plugin
 updated: '2024-06-17T23:02:50'

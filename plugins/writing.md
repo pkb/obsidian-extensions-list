@@ -2,10 +2,10 @@
 aliases:
 - Writing
 author:
-- '[[johackim|johackim]]'
+- '[[authors/johackim|johackim]]'
 categories: []
 description: Write and format your next book directly from Obsidian
-downloads: 7326
+downloads: 7363
 mobile: false
 number: 701
 stars: 77

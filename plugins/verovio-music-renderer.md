@@ -2,10 +2,10 @@
 aliases:
 - Verovio Music Renderer
 author:
-- '[[kpaede|Kornelius Paede]]'
+- '[[authors/kpaede|Kornelius Paede]]'
 categories: []
 description: Rendering of music notation files.
-downloads: 163
+downloads: 181
 mobile: true
 number: 1895
 stars: 7

@@ -2,13 +2,13 @@
 aliases:
 - Hard Breaks
 author:
-- '[[bkis|Börge Kiss]]'
+- '[[authors/bkis|Börge Kiss]]'
 categories: []
 description: Turn soft line breaks in Markdown into hard line breaks
-downloads: 5521
+downloads: 5545
 mobile: true
 number: 574
-stars: 25
+stars: 26
 title: Hard Breaks
 type: plugin
 updated: '2022-08-08T20:36:08'

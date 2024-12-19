@@ -2,10 +2,10 @@
 aliases:
 - YouVersion Linker
 author:
-- '[[jaanonim|jaanonim]]'
+- '[[authors/jaanonim|jaanonim]]'
 categories: []
 description: Automatically link bible verses in your notes to YouVersion bible.
-downloads: 6527
+downloads: 6632
 mobile: true
 number: 1097
 stars: 23

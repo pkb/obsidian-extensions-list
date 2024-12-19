@@ -2,11 +2,11 @@
 aliases:
 - Html Server
 author:
-- '[[Pr0dt0s|Pr0dt0s]]'
+- '[[authors/Pr0dt0s|Pr0dt0s]]'
 categories: []
 description: This plugin lets you spin up a local http server to access your vault
   via a web browser from any device in your network.
-downloads: 7054
+downloads: 7093
 mobile: false
 number: 973
 stars: 86

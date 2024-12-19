@@ -2,10 +2,10 @@
 aliases:
 - Next Link
 author:
-- '[[jdluque|Juan Luque]]'
+- '[[authors/jdluque|Juan Luque]]'
 categories: []
 description: Jump quickly between note links.
-downloads: 2800
+downloads: 2802
 mobile: false
 number: 1168
 stars: 3

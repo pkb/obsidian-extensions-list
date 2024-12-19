@@ -2,10 +2,10 @@
 aliases:
 - Lava VTT Uploader
 author:
-- '[[lavaforge|Lavaforge]]'
+- '[[authors/lavaforge|Lavaforge]]'
 categories: []
 description: Display images from your vault in Lava VTT.
-downloads: 283
+downloads: 285
 mobile: false
 number: 1616
 stars: 0

@@ -2,11 +2,11 @@
 aliases:
 - Rapid Notes
 author:
-- '[[valteriomon|valteriomon]]'
+- '[[authors/valteriomon|valteriomon]]'
 categories: []
 description: Create and place notes quickly in specific folders based on predefined
   prefixes.
-downloads: 5545
+downloads: 5562
 mobile: true
 number: 675
 stars: 51

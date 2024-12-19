@@ -2,12 +2,12 @@
 aliases:
 - PDF Highlights
 author:
-- '[[akaalias|Alexis Rondeau]]'
+- '[[authors/akaalias|Alexis Rondeau]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Extract highlights, underlines and annotations from your PDFs into Obsidian
-downloads: 91272
+downloads: 91541
 mobile: true
 number: 69
 stars: 225

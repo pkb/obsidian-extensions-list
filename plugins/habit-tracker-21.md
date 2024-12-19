@@ -2,13 +2,13 @@
 aliases:
 - Habit Tracker 21
 author:
-- '[[zoreet|Zoreet]]'
+- '[[authors/zoreet|Zoreet]]'
 categories: []
 description: Your 21-day journey to habit formation, simplified
-downloads: 7860
+downloads: 7972
 mobile: true
 number: 1326
-stars: 49
+stars: 50
 title: Habit Tracker 21
 type: plugin
 updated: '2024-08-16T17:18:12'

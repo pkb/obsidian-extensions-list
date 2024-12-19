@@ -2,11 +2,11 @@
 aliases:
 - Plugin Reloader
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Manually reload plugins.
-downloads: 1833
+downloads: 1860
 mobile: true
 number: 1468
 stars: 4

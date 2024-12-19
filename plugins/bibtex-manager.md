@@ -2,18 +2,18 @@
 aliases:
 - BibTeX Manager
 author:
-- '[[akopdev|Akop Kesheshyan]]'
+- '[[authors/akopdev|Akop Kesheshyan]]'
 categories: []
 description: Create a literature notes from a BibTeX entries.
-downloads: 1081
+downloads: 1143
 mobile: true
 number: 1650
-stars: 59
+stars: 60
 title: BibTeX Manager
 type: plugin
-updated: '2024-05-16T04:38:54'
+updated: '2024-12-17T19:33:35'
 url: https://github.com/akopdev/obsidian-bibtex-manager
-version: 0.8.12
+version: 0.9.0
 ---
 
 %% README_START %%
@@ -42,6 +42,7 @@ You can add BibTeX entries from Zotero, Mendeley, or any other popular reference
 - Generate literature notes from BibTeX entries using customizable templates.
 - Automatically format your BibTeX entries as a reference list, creating a well-organized bibliography within your notes.
 - Insert citations directly into your notes.
+- Fetch BibTeX entries from remote sources.
 
 ## Installation
 

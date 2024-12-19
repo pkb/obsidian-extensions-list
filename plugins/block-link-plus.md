@@ -2,15 +2,15 @@
 aliases:
 - Block Link Plus
 author:
-- '[[Jasper-1024|Jasper]]'
+- '[[authors/Jasper-1024|Jasper]]'
 categories: []
 description: Enhances right-click menu and global command with direct links to blocks
   and titles, adds support for multi-line blockquotes, and offers extensive customization
   options for block IDs.
-downloads: 585
+downloads: 604
 mobile: true
 number: 1842
-stars: 6
+stars: 7
 title: Block Link Plus
 type: plugin
 updated: '2024-10-19T17:24:09'

@@ -2,10 +2,10 @@
 aliases:
 - Hyphenation
 author:
-- '[[7596ff|Cassandra McCarthy]]'
+- '[[authors/7596ff|Cassandra McCarthy]]'
 categories: []
 description: Enables justified text and hyphenation
-downloads: 6665
+downloads: 6696
 mobile: true
 number: 756
 stars: 15

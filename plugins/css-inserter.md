@@ -3,18 +3,18 @@ aliases:
 - CSS Inserter
 author:
 - '[[authors/Erika Gozar|Erika Gozar]]'
-- '[[Erallie|Juanjo Arranz]]'
+- '[[authors/Erallie|Juanjo Arranz]]'
 categories: []
 description: Inserts user-defined css snippets into the selected text.
-downloads: 360
+downloads: 416
 mobile: true
 number: 1869
 stars: 2
 title: CSS Inserter
 type: plugin
-updated: '2024-09-08T00:41:36'
+updated: '2024-12-11T22:52:15'
 url: https://github.com/Erallie/css-inserter
-version: 1.0.14
+version: 1.0.15
 ---
 
 %% README_START %%

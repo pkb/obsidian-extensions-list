@@ -2,11 +2,11 @@
 aliases:
 - Medium Importer
 author:
-- '[[arumie|David Zachariae]]'
+- '[[authors/arumie|David Zachariae]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import Medium posts into your vault
-downloads: 2165
+downloads: 2176
 mobile: true
 number: 1706
 stars: 5

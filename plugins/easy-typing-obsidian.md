@@ -2,14 +2,14 @@
 aliases:
 - Easy Typing
 author:
-- '[[Yaozhuwa|yaozhuwa]]'
+- '[[authors/Yaozhuwa|yaozhuwa]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This plugin aims to enhance and optimize the editing experience in Obsidian
-downloads: 181178
+downloads: 183028
 mobile: true
 number: 195
-stars: 524
+stars: 525
 title: Easy Typing
 type: plugin
 updated: '2024-12-01T17:51:09'

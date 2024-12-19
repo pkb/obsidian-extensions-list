@@ -2,11 +2,11 @@
 aliases:
 - FFmpeg Converter
 author:
-- '[[MrAnyx|MrAnyx]]'
+- '[[authors/MrAnyx|MrAnyx]]'
 categories: []
 description: Convert most used file formats into another format using FFmpeg and FFprobe
   to optimize your vault space
-downloads: 129
+downloads: 133
 mobile: false
 number: 1936
 stars: 3

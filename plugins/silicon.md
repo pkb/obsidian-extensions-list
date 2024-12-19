@@ -2,11 +2,11 @@
 aliases:
 - Silicon AI
 author:
-- '[[deepfates|deepfates]]'
+- '[[authors/deepfates|deepfates]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Add some intelligence to your notes with Silicon AI
-downloads: 4203
+downloads: 4214
 mobile: true
 number: 946
 stars: 130

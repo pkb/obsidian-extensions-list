@@ -2,12 +2,12 @@
 aliases:
 - Obsimian Exporter
 author:
-- '[[motif-software|Oliver Lade]]'
+- '[[authors/motif-software|Oliver Lade]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Exports data from Obsidian APIs, feeding the Obsimian simulation framework
   for testing plugins.
-downloads: 3676
+downloads: 3682
 mobile: true
 number: 229
 stars: 20

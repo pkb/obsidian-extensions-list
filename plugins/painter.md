@@ -2,14 +2,14 @@
 aliases:
 - Painter
 author:
-- '[[KraXen72|KraXen72 and Chetachi Ezikeuzor]]'
+- '[[authors/KraXen72|KraXen72 and Chetachi Ezikeuzor]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Paint text different colors
-downloads: 6441
+downloads: 6557
 mobile: true
 number: 1611
-stars: 35
+stars: 34
 title: Painter
 type: plugin
 updated: '2024-04-17T03:11:28'

@@ -2,10 +2,10 @@
 aliases:
 - Differential ZIP Backup
 author:
-- '[[vrtmrz|vorotamoroz]]'
+- '[[authors/vrtmrz|vorotamoroz]]'
 categories: []
 description: Back our vault up with lesser storage.
-downloads: 1893
+downloads: 1923
 mobile: true
 number: 1492
 stars: 14

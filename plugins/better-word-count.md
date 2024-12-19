@@ -2,11 +2,11 @@
 aliases:
 - Better Word Count
 author:
-- '[[lukeleppan|Luke Leppan]]'
+- '[[authors/lukeleppan|Luke Leppan]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Counts the words of selected text in the editor.
-downloads: 410523
+downloads: 412875
 mobile: true
 number: 27
 stars: 263

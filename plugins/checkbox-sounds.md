@@ -2,10 +2,10 @@
 aliases:
 - Checkbox Sounds
 author:
-- '[[yasd251|yasd251]]'
+- '[[authors/yasd251|yasd251]]'
 categories: []
 description: Adds a nice completion sound when a checkbox is ticked-off
-downloads: 1459
+downloads: 1483
 mobile: false
 number: 1635
 stars: 7

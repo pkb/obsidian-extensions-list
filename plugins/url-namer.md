@@ -2,13 +2,13 @@
 aliases:
 - URL Namer
 author:
-- '[[zfei|zfei]]'
+- '[[authors/zfei|zfei]]'
 categories: []
 description: This plugin retrieves the HTML titles to name the raw URL links.
-downloads: 5758
+downloads: 5777
 mobile: true
 number: 626
-stars: 15
+stars: 17
 title: URL Namer
 type: plugin
 updated: '2022-09-20T13:39:11'

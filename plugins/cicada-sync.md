@@ -3,11 +3,11 @@ aliases:
 - Cicada Synchronizer
 author:
 - '[[authors/Adapole|Adapole]]'
-- '[[adapole|Mahyar Mirrashed]]'
+- '[[authors/adapole|Mahyar Mirrashed]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: uses Git to synchronize vaults for team collaboration.
-downloads: 913
+downloads: 920
 mobile: false
 number: 1528
 stars: 4

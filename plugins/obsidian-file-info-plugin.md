@@ -2,7 +2,7 @@
 aliases:
 - File Info Panel
 author:
-- '[[CattailNu|T. L. Ford]]'
+- '[[authors/CattailNu|T. L. Ford]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Plugin for Obsidian that creates a File Information view that displays
@@ -10,7 +10,7 @@ description: Plugin for Obsidian that creates a File Information view that displ
   file in its native application and to open the file's folder.  It also has writing
   statistics (character, word, sentence, and paragraph counts) and a word frequency
   analysis.
-downloads: 15731
+downloads: 15828
 mobile: true
 number: 407
 stars: 64

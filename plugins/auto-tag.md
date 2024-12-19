@@ -2,12 +2,12 @@
 aliases:
 - Auto Tag
 author:
-- '[[CtrlAltFocus|Control Alt]]'
+- '[[authors/CtrlAltFocus|Control Alt]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Easily generate relevant tags for your Obsidian notes or selected text.
-downloads: 6128
+downloads: 6178
 mobile: true
 number: 1184
 stars: 51

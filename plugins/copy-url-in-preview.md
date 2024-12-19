@@ -2,16 +2,16 @@
 aliases:
 - Image Context Menus
 author:
-- '[[NomarCub|NomarCub]]'
+- '[[authors/NomarCub|NomarCub]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Copy to clipboard, Open in default app, Show in system explorer, Reveal
   file in navigation, Open in new tab context menus for images. Also has an pen PDF
   externally context menu.
-downloads: 41751
+downloads: 41974
 mobile: true
 number: 220
-stars: 68
+stars: 69
 title: Image Context Menus
 type: plugin
 updated: '2024-09-07T19:34:03'

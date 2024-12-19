@@ -2,11 +2,11 @@
 aliases:
 - Discord Rich Presence
 author:
-- '[[lukeleppan|Luke Leppan]]'
+- '[[authors/lukeleppan|Luke Leppan]]'
 categories: []
 description: Update your Discord Status to show your friends what you are working
   on in Obsidian. With Discord Rich Presence.
-downloads: 22149
+downloads: 22308
 mobile: false
 number: 23
 stars: 67

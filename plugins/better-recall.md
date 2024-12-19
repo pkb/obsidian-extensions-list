@@ -2,11 +2,11 @@
 aliases:
 - Better Recall
 author:
-- '[[FlorianWoelki|Florian Woelki]]'
+- '[[authors/FlorianWoelki|Florian Woelki]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Add anki-like spaced repetition and recall to your vault.
-downloads: 784
+downloads: 811
 mobile: true
 number: 1809
 stars: 16

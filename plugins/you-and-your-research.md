@@ -2,11 +2,11 @@
 aliases:
 - You and Your Research
 author:
-- '[[neozhang|Neo Zhang]]'
+- '[[authors/neozhang|Neo Zhang]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Research with the help of A.I.
-downloads: 423
+downloads: 433
 mobile: false
 number: 1726
 stars: 17

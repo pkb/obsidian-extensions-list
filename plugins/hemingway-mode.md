@@ -2,10 +2,10 @@
 aliases:
 - Hemingway Mode
 author:
-- '[[jobedom|Joaquín Bernal]]'
+- '[[authors/jobedom|Joaquín Bernal]]'
 categories: []
 description: Prevents any editing, only letting you write ahead.
-downloads: 1155
+downloads: 1164
 mobile: true
 number: 1552
 stars: 6

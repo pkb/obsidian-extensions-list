@@ -2,11 +2,11 @@
 aliases:
 - Underline
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories: []
 description: Add underline(`<u>xxx</u>`) with shortcut, and `<center>xxx</center>`,
   `[[#xxx]]`, `[[#^xxx]]`
-downloads: 41445
+downloads: 41690
 mobile: true
 number: 168
 stars: 56

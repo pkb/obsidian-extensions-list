@@ -2,10 +2,10 @@
 aliases:
 - Mapbox Location Image
 author:
-- '[[aaronczichon|Aaron Czichon]]'
+- '[[authors/aaronczichon|Aaron Czichon]]'
 categories: []
 description: Show a map inside your notes with a specific format.
-downloads: 749
+downloads: 759
 mobile: true
 number: 1625
 stars: 5

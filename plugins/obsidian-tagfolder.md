@@ -2,14 +2,14 @@
 aliases:
 - TagFolder
 author:
-- '[[vrtmrz|vorotamoroz]]'
+- '[[authors/vrtmrz|vorotamoroz]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Show tags as folder
-downloads: 141290
+downloads: 142362
 mobile: true
 number: 379
-stars: 222
+stars: 223
 title: TagFolder
 type: plugin
 updated: '2024-11-05T17:54:56'

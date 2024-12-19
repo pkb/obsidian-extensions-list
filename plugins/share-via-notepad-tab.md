@@ -2,11 +2,11 @@
 aliases:
 - Share via Notepad Tab
 author:
-- '[[revolter|Iulian Onofrei]]'
+- '[[authors/revolter|Iulian Onofrei]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Share notes via Notepad Tab (https://notepadtab.com).
-downloads: 111
+downloads: 116
 mobile: true
 number: 1822
 stars: 1

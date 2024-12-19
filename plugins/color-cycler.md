@@ -2,10 +2,10 @@
 aliases:
 - Color cycler
 author:
-- '[[tjbrennan|Taylor Brennan]]'
+- '[[authors/tjbrennan|Taylor Brennan]]'
 categories: []
 description: Dynamically change the accent color of the theme.
-downloads: 2061
+downloads: 2083
 mobile: true
 number: 1509
 stars: 4

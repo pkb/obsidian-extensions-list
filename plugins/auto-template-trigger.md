@@ -2,12 +2,12 @@
 aliases:
 - Auto Template Trigger
 author:
-- '[[numeroflip|Numeroflip]]'
+- '[[authors/numeroflip|Numeroflip]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Automatically apply or prompt for a template when creating a note. Supports
   assigning templates to folders.
-downloads: 15177
+downloads: 15379
 mobile: true
 number: 928
 stars: 35

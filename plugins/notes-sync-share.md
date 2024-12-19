@@ -2,11 +2,11 @@
 aliases:
 - Notes Sync Share
 author:
-- '[[Alt-er|Alt-er]]'
+- '[[authors/Alt-er|Alt-er]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync and share (publish) your notes in your own private service.
-downloads: 4774
+downloads: 4807
 mobile: true
 number: 1011
 stars: 94

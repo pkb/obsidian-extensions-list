@@ -2,10 +2,10 @@
 aliases:
 - Footlinks
 author:
-- '[[DahaWong|Daha]]'
+- '[[authors/DahaWong|Daha]]'
 categories: []
 description: Extracts links from the main text to footer.
-downloads: 11178
+downloads: 11193
 mobile: true
 number: 49
 stars: 59

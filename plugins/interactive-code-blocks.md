@@ -2,10 +2,10 @@
 aliases:
 - Interactive Code Blocks
 author:
-- '[[Windesheim-HBO-ICT|Team Deeltaken]]'
+- '[[authors/Windesheim-HBO-ICT|Team Deeltaken]]'
 categories: []
 description: Preview interactive code blocks!
-downloads: 156
+downloads: 162
 mobile: false
 number: 1725
 stars: 6

@@ -2,10 +2,10 @@
 aliases:
 - Markdoc
 author:
-- '[[kamoshi|Maciej Jur]]'
+- '[[authors/kamoshi|Maciej Jur]]'
 categories: []
 description: Basic support for Markdoc files
-downloads: 3317
+downloads: 3320
 mobile: true
 number: 919
 stars: 5

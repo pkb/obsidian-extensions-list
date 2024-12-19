@@ -2,12 +2,12 @@
 aliases:
 - Dynamic Timetable
 author:
-- '[[L7Cy|L7Cy]]'
+- '[[authors/L7Cy|L7Cy]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Calculate the estimated time of completion from the estimated time of
   the task and dynamically create a timetable.
-downloads: 8729
+downloads: 8760
 mobile: true
 number: 887
 stars: 43

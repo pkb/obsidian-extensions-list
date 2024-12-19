@@ -2,11 +2,11 @@
 aliases:
 - Amazing Marvin Integration
 author:
-- '[[cloud-atlas-ai|Cloud Atlas]]'
+- '[[authors/cloud-atlas-ai|Cloud Atlas]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration with Amazing Marvin
-downloads: 669
+downloads: 672
 mobile: true
 number: 1579
 stars: 16

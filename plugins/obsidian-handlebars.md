@@ -2,12 +2,12 @@
 aliases:
 - Handlebars Template Plugin
 author:
-- '[[sbquinlan|Sean Quinlan]]'
+- '[[authors/sbquinlan|Sean Quinlan]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: This is a plugin for Obsidian that adds support for handlebars template
   blocks in notes.
-downloads: 3993
+downloads: 3997
 mobile: true
 number: 672
 stars: 25

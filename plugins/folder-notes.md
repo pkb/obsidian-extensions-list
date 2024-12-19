@@ -2,14 +2,14 @@
 aliases:
 - Folder notes
 author:
-- '[[LostPaul|Lost Paul]]'
+- '[[authors/LostPaul|Lost Paul]]'
 categories: []
 description: Create notes within folders that can be accessed without collapsing the
   folder, similar to the functionality offered in Notion.
-downloads: 98838
+downloads: 100205
 mobile: true
 number: 895
-stars: 366
+stars: 367
 title: Folder notes
 type: plugin
 updated: '2024-10-03T18:34:05'

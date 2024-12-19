@@ -2,11 +2,11 @@
 aliases:
 - Text Conversions
 author:
-- '[[ironsigma|Juan D Frias]]'
+- '[[authors/ironsigma|Juan D Frias]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Perform various text conversions on the selected text
-downloads: 3072
+downloads: 3075
 mobile: true
 number: 1164
 stars: 2

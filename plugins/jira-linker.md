@@ -2,10 +2,10 @@
 aliases:
 - Jira Linker
 author:
-- '[[srz2|Steven Zilberberg]]'
+- '[[authors/srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Jira issue tag as a link to you Jira instance.
-downloads: 3239
+downloads: 3256
 mobile: true
 number: 1229
 stars: 4

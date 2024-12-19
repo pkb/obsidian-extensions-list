@@ -2,11 +2,11 @@
 aliases:
 - Adamantine Pick
 author:
-- '[[notlibrary|Urist McMiner]]'
+- '[[authors/notlibrary|Urist McMiner]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Embeddable Pikchr(https://pikchr.org) diagrams renderer for Obsidian(https://obsidian.md).
-downloads: 4382
+downloads: 4385
 mobile: true
 number: 777
 stars: 25

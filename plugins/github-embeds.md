@@ -2,10 +2,10 @@
 aliases:
 - GitHub Embeds
 author:
-- '[[MrGVSV|Gino Valente]]'
+- '[[authors/MrGVSV|Gino Valente]]'
 categories: []
 description: Embed GitHub issues, PRs, and code snippets directly in Obsidian.
-downloads: 5475
+downloads: 5499
 mobile: true
 number: 1125
 stars: 52

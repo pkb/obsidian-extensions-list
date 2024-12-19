@@ -2,11 +2,11 @@
 aliases:
 - Blockier
 author:
-- '[[blorbb|blorbb]]'
+- '[[authors/blorbb|blorbb]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extra block editing utilities.
-downloads: 3294
+downloads: 3303
 mobile: true
 number: 1271
 stars: 18

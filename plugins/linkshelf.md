@@ -2,10 +2,10 @@
 aliases:
 - LinkStowr
 author:
-- '[[joelseq|Joel Sequeira]]'
+- '[[authors/joelseq|Joel Sequeira]]'
 categories: []
 description: Save links from your browser directly into Obsidian.
-downloads: 3977
+downloads: 3986
 mobile: true
 number: 1065
 stars: 44

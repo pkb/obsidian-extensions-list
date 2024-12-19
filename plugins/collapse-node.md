@@ -2,10 +2,10 @@
 aliases:
 - Collapse Node
 author:
-- '[[quorafind|Boninall]]'
+- '[[authors/quorafind|Boninall]]'
 categories: []
 description: Collapse node in canvas.
-downloads: 6700
+downloads: 6779
 mobile: true
 number: 1194
 stars: 51

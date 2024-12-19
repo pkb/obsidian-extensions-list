@@ -2,10 +2,10 @@
 aliases:
 - DocBase (Unofficial)
 author:
-- '[[kuvanov-2|yurikuvanov]]'
+- '[[authors/kuvanov-2|yurikuvanov]]'
 categories: []
 description: Pull and push notes to DocBase
-downloads: 67
+downloads: 69
 mobile: true
 number: 1774
 stars: 0

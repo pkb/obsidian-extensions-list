@@ -2,11 +2,11 @@
 aliases:
 - Nested Daily Todos
 author:
-- '[[thomasbrezinski|Thomas Brezinski]]'
+- '[[authors/thomasbrezinski|Thomas Brezinski]]'
 categories: []
 description: Carry over incomplete todos from Daily Notes grouped by headers, with
   support for nesting and flexible todo states.
-downloads: 2690
+downloads: 2719
 mobile: true
 number: 1385
 stars: 5

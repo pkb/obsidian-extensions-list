@@ -2,11 +2,11 @@
 aliases:
 - screen.garden
 author:
-- '[[screendotgarden|screen.garden]]'
+- '[[authors/screendotgarden|screen.garden]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Collaborate, publish, and work across PKM systems with screen.garden.
-downloads: 2847
+downloads: 2854
 mobile: true
 number: 1190
 stars: 13

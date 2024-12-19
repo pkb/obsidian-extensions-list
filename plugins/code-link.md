@@ -2,13 +2,13 @@
 aliases:
 - Code Link
 author:
-- '[[observerw|observerw]]'
+- '[[authors/observerw|observerw]]'
 categories: []
 description: Link to code files in your notes
-downloads: 341
+downloads: 354
 mobile: false
 number: 1776
-stars: 11
+stars: 13
 title: Code Link
 type: plugin
 updated: '2024-10-27T14:52:54'

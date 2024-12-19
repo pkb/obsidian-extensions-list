@@ -2,10 +2,10 @@
 aliases:
 - TimeStamper
 author:
-- '[[Gru80|Martin Eder]]'
+- '[[authors/Gru80|Martin Eder]]'
 categories: []
 description: Insert customized time/date stamp.
-downloads: 28578
+downloads: 28767
 mobile: true
 number: 390
 stars: 63

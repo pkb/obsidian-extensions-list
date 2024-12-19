@@ -2,11 +2,11 @@
 aliases:
 - Everyday Classical Music
 author:
-- '[[Eloliuyx|the flying markhor]]'
+- '[[authors/Eloliuyx|the flying markhor]]'
 categories: []
 description: Display a different piece of classical music each day with a YouTube
   link in your daily note.
-downloads: 272
+downloads: 281
 mobile: true
 number: 1788
 stars: 2

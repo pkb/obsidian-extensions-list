@@ -2,10 +2,10 @@
 aliases:
 - Link with alias
 author:
-- '[[pvojtechovsky|Pavel Vojtěchovský]]'
+- '[[authors/pvojtechovsky|Pavel Vojtěchovský]]'
 categories: []
 description: Creates links and aliases in front matter of target document
-downloads: 6604
+downloads: 6638
 mobile: true
 number: 957
 stars: 37

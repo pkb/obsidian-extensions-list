@@ -2,10 +2,10 @@
 aliases:
 - Better File Link
 author:
-- '[[marcjulianschwarz|Marc Julian Schwarz]]'
+- '[[authors/marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: A plugin to add better external file links to notes.
-downloads: 23143
+downloads: 23270
 mobile: false
 number: 276
 stars: 120

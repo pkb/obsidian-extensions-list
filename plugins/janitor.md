@@ -2,10 +2,10 @@
 aliases:
 - Janitor
 author:
-- '[[Canna71|Gabriele Cannata]]'
+- '[[authors/Canna71|Gabriele Cannata]]'
 categories: []
 description: Performs cleanup tasks on the Obsidian vault
-downloads: 31917
+downloads: 32095
 mobile: true
 number: 598
 stars: 97

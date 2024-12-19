@@ -2,11 +2,11 @@
 aliases:
 - AI Chat
 author:
-- '[[arenasys|arenasys]]'
+- '[[authors/arenasys|arenasys]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Chat with AI about your notes.
-downloads: 679
+downloads: 693
 mobile: false
 number: 1630
 stars: 7

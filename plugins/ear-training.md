@@ -2,10 +2,10 @@
 aliases:
 - Ear Training
 author:
-- '[[shiwer|Poe Zoel]]'
+- '[[authors/shiwer|Poe Zoel]]'
 categories: []
 description: Get ear training exercises inside your vault.
-downloads: 1168
+downloads: 1177
 mobile: false
 number: 1511
 stars: 5

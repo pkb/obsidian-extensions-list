@@ -2,13 +2,13 @@
 aliases:
 - Dangerzone Writing
 author:
-- '[[akaalias|Alexis Rondeau]]'
+- '[[authors/akaalias|Alexis Rondeau]]'
 categories: []
 description: “Elegant”, “Dangerous”, “Relaxing”, “Perverted”, “Your best friend”,
   “Your worst nightmare”. When you start a Dangerzone session, you have to write without
   stopping for X seconds. If you stop, think and look around, after Y seconds the
   plugin will DELETE what you've written in this note.
-downloads: 10801
+downloads: 10825
 mobile: true
 number: 44
 stars: 70

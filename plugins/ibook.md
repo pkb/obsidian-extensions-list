@@ -2,10 +2,10 @@
 aliases:
 - ibook
 author:
-- '[[bingryan|bingryan]]'
+- '[[authors/bingryan|bingryan]]'
 categories: []
 description: plugin for apple ibook.
-downloads: 11944
+downloads: 11972
 mobile: false
 number: 826
 stars: 72

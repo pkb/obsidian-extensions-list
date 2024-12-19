@@ -2,10 +2,10 @@
 aliases:
 - Share my plugin list
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories: []
 description: Share the enabled plugins in list/table format.
-downloads: 3426
+downloads: 3458
 mobile: true
 number: 1416
 stars: 25

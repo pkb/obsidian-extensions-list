@@ -2,10 +2,10 @@
 aliases:
 - Instant Above Divider
 author:
-- '[[sedationh|SedationH]]'
+- '[[authors/sedationh|SedationH]]'
 categories: []
 description: Quickly insert a divider line at the beginning of your note.
-downloads: 49
+downloads: 57
 mobile: false
 number: 2026
 stars: 0

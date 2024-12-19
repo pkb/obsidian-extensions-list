@@ -2,10 +2,10 @@
 aliases:
 - Latex Render
 author:
-- '[[jvsteiner|jvsteiner]]'
+- '[[authors/jvsteiner|jvsteiner]]'
 categories: []
 description: Render snippets of latex code as SVG files.
-downloads: 605
+downloads: 628
 mobile: false
 number: 1775
 stars: 8

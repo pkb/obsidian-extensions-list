@@ -2,10 +2,10 @@
 aliases:
 - Markdown Timeline
 author:
-- '[[recklyss|Jiaheng Zhang]]'
+- '[[authors/recklyss|Jiaheng Zhang]]'
 categories: []
 description: Convert markdown into timeline visualization
-downloads: 673
+downloads: 805
 mobile: true
 number: 2002
 stars: 13

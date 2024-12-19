@@ -3,14 +3,14 @@ aliases:
 - Cloudinary
 author:
 - '[[authors/Uday Samsani|Uday Samsani]]'
-- '[[uday-samsani|Jordan Handy]]'
+- '[[authors/uday-samsani|Jordan Handy]]'
 categories: []
 description: Make you notes lighter by uploading all content(images, videos, audio)
   to Cloudinary and insert(copy or drag both) them into your notes.
-downloads: 3604
+downloads: 3608
 mobile: false
 number: 975
-stars: 4
+stars: 5
 title: Cloudinary
 type: plugin
 updated: '2023-07-07T15:37:40'

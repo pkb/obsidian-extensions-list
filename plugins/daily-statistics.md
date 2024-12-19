@@ -2,10 +2,10 @@
 aliases:
 - Daily Statistics
 author:
-- '[[yefengr|yefengr]]'
+- '[[authors/yefengr|yefengr]]'
 categories: []
 description: Count the number of words written each day and display it on a calendar.
-downloads: 871
+downloads: 907
 mobile: false
 number: 1841
 stars: 6

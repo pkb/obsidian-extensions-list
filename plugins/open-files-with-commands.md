@@ -2,11 +2,11 @@
 aliases:
 - Open files with commands
 author:
-- '[[LostPaul|Lost Paul]]'
+- '[[authors/LostPaul|Lost Paul]]'
 categories: []
 description: Create commands that only open one file at the time and that can be used
   with the commander plugin.
-downloads: 5139
+downloads: 5152
 mobile: true
 number: 805
 stars: 18

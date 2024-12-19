@@ -2,13 +2,13 @@
 aliases:
 - Recursive Copy
 author:
-- '[[StructByLightning|datawitch]]'
+- '[[authors/StructByLightning|datawitch]]'
 categories: []
 description: Recursively copies all markdown files in a folder, concatenates them,
   and copies them into the clipboard. Useful for quickly loading context into AI.
   Can be triggered by right clicking a folder and selecting the context menu item,
   or by binding a key (will copy everything in the active file's folder).
-downloads: 186
+downloads: 196
 mobile: true
 number: 1850
 stars: 2

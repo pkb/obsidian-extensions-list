@@ -2,13 +2,13 @@
 aliases:
 - Extract PDF Annotations
 author:
-- '[[munach|Franz Achermann]]'
+- '[[authors/munach|Franz Achermann]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Extract PDF Annotations (text, highlight, underline, squiggle, free text,
   etc.) from files inside and outside the vault and sort them by topics
-downloads: 14595
+downloads: 14685
 mobile: true
 number: 455
 stars: 32

@@ -2,10 +2,10 @@
 aliases:
 - Title Generator
 author:
-- '[[jaschaephraim|Jascha Ephraim]]'
+- '[[authors/jaschaephraim|Jascha Ephraim]]'
 categories: []
 description: Quickly and easily title your notes using OpenAI's GPT-3.5
-downloads: 3096
+downloads: 3110
 mobile: true
 number: 1236
 stars: 6

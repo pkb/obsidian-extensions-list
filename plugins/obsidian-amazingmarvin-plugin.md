@@ -2,11 +2,11 @@
 aliases:
 - Amazing Marvin
 author:
-- '[[ikuyarihS|Shirayuki Nekomata]]'
+- '[[authors/ikuyarihS|Shirayuki Nekomata]]'
 categories: []
 description: This is a plugin for Obsidian (https://obsidian.md) for Amazing Marvin
   (https://app.amazingmarvin.com/)
-downloads: 4368
+downloads: 4371
 mobile: true
 number: 215
 stars: 31

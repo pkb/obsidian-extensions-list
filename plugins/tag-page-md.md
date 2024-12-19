@@ -2,11 +2,11 @@
 aliases:
 - Tag Page
 author:
-- '[[mjsumpter|Matthew Sumpter]]'
+- '[[authors/mjsumpter|Matthew Sumpter]]'
 categories: []
 description: Dynamically generate and update tag-specific pages, offering a consolidated
   view of each tag's references across your vault.
-downloads: 6678
+downloads: 6739
 mobile: true
 number: 1159
 stars: 18

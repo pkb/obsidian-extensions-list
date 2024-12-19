@@ -2,10 +2,10 @@
 aliases:
 - Achievements
 author:
-- '[[Zachatoo|Zachatoo]]'
+- '[[authors/Zachatoo|Zachatoo]]'
 categories: []
 description: Add achievements to Obsidian.
-downloads: 5714
+downloads: 5729
 mobile: true
 number: 683
 stars: 23

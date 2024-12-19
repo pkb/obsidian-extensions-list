@@ -2,14 +2,14 @@
 aliases:
 - Hotkeys++
 author:
-- '[[argenos|Argentina Ortega Sainz]]'
+- '[[authors/argenos|Argentina Ortega Sainz]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Additional hotkeys to do common things in Obsidian
-downloads: 82402
+downloads: 82591
 mobile: true
 number: 2
-stars: 117
+stars: 119
 title: Hotkeys++
 type: plugin
 updated: '2021-12-09T04:03:01'

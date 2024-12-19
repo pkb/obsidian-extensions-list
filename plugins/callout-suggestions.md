@@ -2,10 +2,10 @@
 aliases:
 - Callout Suggestions
 author:
-- '[[cwfryer|cwfryer]]'
+- '[[authors/cwfryer|cwfryer]]'
 categories: []
 description: Adds a fuzzy searched suggestion modal for callouts.
-downloads: 6381
+downloads: 6496
 mobile: true
 number: 1547
 stars: 15

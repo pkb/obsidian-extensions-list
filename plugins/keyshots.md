@@ -2,14 +2,14 @@
 aliases:
 - Keyshots
 author:
-- '[[KrazyManJ|KrazyManJ]]'
+- '[[authors/KrazyManJ|KrazyManJ]]'
 categories: []
 description: Adds classic hotkey/shortcuts commands from popular IDEs like Visual
   Studio Code or JetBrains Family.
-downloads: 9333
+downloads: 9394
 mobile: true
 number: 728
-stars: 89
+stars: 91
 title: Keyshots
 type: plugin
 updated: '2024-10-22T13:57:44'

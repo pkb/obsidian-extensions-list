@@ -2,12 +2,12 @@
 aliases:
 - Dataview Publisher
 author:
-- '[[udus122|UD]]'
+- '[[authors/udus122|UD]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Output markdown from your Dataview queries and keep them up to date.
   You can also publish them.
-downloads: 1010
+downloads: 1060
 mobile: true
 number: 1754
 stars: 31

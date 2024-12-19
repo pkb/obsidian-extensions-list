@@ -2,11 +2,11 @@
 aliases:
 - PubScale
 author:
-- '[[piriwata|piriwata]]'
+- '[[authors/piriwata|piriwata]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Seamlessly sync markdown notes into PlanetScale tables.
-downloads: 3162
+downloads: 3163
 mobile: true
 number: 933
 stars: 6

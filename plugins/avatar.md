@@ -2,10 +2,10 @@
 aliases:
 - Avatar
 author:
-- '[[froehlichA|froehlichA]]'
+- '[[authors/froehlichA|froehlichA]]'
 categories: []
 description: Display an avatar image in your notes.
-downloads: 7332
+downloads: 7367
 mobile: true
 number: 849
 stars: 28

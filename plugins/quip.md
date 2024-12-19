@@ -2,11 +2,11 @@
 aliases:
 - Quip
 author:
-- '[[sblakey|Sean Blakey]]'
+- '[[authors/sblakey|Sean Blakey]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: This plugin provides commands to publish Markdown documents to Quip.com
-downloads: 5477
+downloads: 5503
 mobile: false
 number: 789
 stars: 25

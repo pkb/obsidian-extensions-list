@@ -2,15 +2,15 @@
 aliases:
 - Univer
 author:
-- '[[dream-num|DreamNum]]'
+- '[[authors/dream-num|DreamNum]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create, edit, and view spreadsheets and documents in various formats
   like Excel and Word directly within your knowledge base.
-downloads: 8952
+downloads: 9104
 mobile: false
 number: 1553
-stars: 80
+stars: 85
 title: Univer
 type: plugin
 updated: '2024-09-13T18:20:18'

@@ -2,10 +2,10 @@
 aliases:
 - Command Palette--
 author:
-- '[[qawatake|qawatake]]'
+- '[[authors/qawatake|qawatake]]'
 categories: []
 description: Command palette without unwanted commands
-downloads: 4576
+downloads: 4582
 mobile: true
 number: 432
 stars: 18

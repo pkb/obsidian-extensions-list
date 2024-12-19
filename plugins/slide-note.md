@@ -2,10 +2,10 @@
 aliases:
 - Slide Note
 author:
-- '[[Phantom1003|Jinyan Xu]]'
+- '[[authors/Phantom1003|Jinyan Xu]]'
 categories: []
 description: Conveniently take notes on PDF course slides :P
-downloads: 8874
+downloads: 8906
 mobile: true
 number: 921
 stars: 43

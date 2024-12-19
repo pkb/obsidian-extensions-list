@@ -2,10 +2,10 @@
 aliases:
 - Oura Ring
 author:
-- '[[kinabalu|Andrew Lombardi]]'
+- '[[authors/kinabalu|Andrew Lombardi]]'
 categories: []
 description: A plugin for importing Oura Ring data from the Cloud-based API
-downloads: 3929
+downloads: 3948
 mobile: true
 number: 337
 stars: 33

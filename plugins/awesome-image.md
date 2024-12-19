@@ -2,11 +2,11 @@
 aliases:
 - Awesome Image
 author:
-- '[[AwesomeDog|AwesomeDog]]'
+- '[[authors/AwesomeDog|AwesomeDog]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: One-stop solution for image management.
-downloads: 9071
+downloads: 9124
 mobile: false
 number: 817
 stars: 58

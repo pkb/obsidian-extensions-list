@@ -2,10 +2,10 @@
 aliases:
 - Workspaces Plus
 author:
-- '[[nothingislost|NothingIsLost and Johnny ✨]]'
+- '[[authors/nothingislost|NothingIsLost and Johnny ✨]]'
 categories: []
 description: Quickly switch and manage workspaces
-downloads: 59487
+downloads: 59716
 mobile: false
 number: 294
 stars: 199

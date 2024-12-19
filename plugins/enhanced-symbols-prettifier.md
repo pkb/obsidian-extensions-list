@@ -2,12 +2,12 @@
 aliases:
 - Enhanced Symbols Prettifier
 author:
-- '[[noam-sc|Noam Schmitt and Florian Woelki]]'
+- '[[authors/noam-sc|Noam Schmitt and Florian Woelki]]'
 categories: []
 description: Replace/substitute the symbols with actual symbols you commonly type.
   It also works for emojis shortcuts, abbreviations, greek letters, math symbols or
   other snippets/aliases you define
-downloads: 2887
+downloads: 2993
 mobile: true
 number: 1827
 stars: 12

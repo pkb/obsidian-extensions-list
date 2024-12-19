@@ -2,13 +2,13 @@
 aliases:
 - Multiplatform Highlights Importer
 author:
-- '[[wwwkieran|wwwkieran]]'
+- '[[authors/wwwkieran|wwwkieran]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import and consolidate highlights from different reading sources. Supports
   reconciling books across reading sources.
-downloads: 145
+downloads: 150
 mobile: false
 number: 1750
 stars: 1

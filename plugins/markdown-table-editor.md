@@ -2,12 +2,12 @@
 aliases:
 - Markdown Table Editor
 author:
-- '[[ganesshkumar|Ganessh Kumar R P <rpganesshkumar@gmail.com>]]'
+- '[[authors/ganesshkumar|Ganessh Kumar R P <rpganesshkumar@gmail.com>]]'
 categories: []
 description: An Obsidian plugin to provide an editor for Markdown tables. It can open
   CSV, Microsoft Excel/Google Sheets data as Markdown tables from Obsidian Markdown
   editor.
-downloads: 73507
+downloads: 73930
 mobile: true
 number: 453
 stars: 216

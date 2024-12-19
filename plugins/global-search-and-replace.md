@@ -2,14 +2,14 @@
 aliases:
 - Global Search and Replace
 author:
-- '[[MahmoudFawzyKhalil|Mahmoud Fawzy Khalil]]'
+- '[[authors/MahmoudFawzyKhalil|Mahmoud Fawzy Khalil]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and replace in all vault files
-downloads: 28732
+downloads: 29056
 mobile: true
 number: 835
-stars: 86
+stars: 88
 title: Global Search and Replace
 type: plugin
 updated: '2024-06-04T00:23:16'

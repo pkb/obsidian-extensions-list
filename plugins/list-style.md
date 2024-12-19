@@ -2,11 +2,11 @@
 aliases:
 - Ordered List Style
 author:
-- '[[erykwalder|Eric Rykwalder]]'
+- '[[authors/erykwalder|Eric Rykwalder]]'
 categories: []
 description: Set ordered list style inline in Obsidian.md. Alphabetic lists, roman
   numeral lists, etc.
-downloads: 7072
+downloads: 7105
 mobile: true
 number: 654
 stars: 21

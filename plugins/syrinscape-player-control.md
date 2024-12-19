@@ -2,10 +2,10 @@
 aliases:
 - Syrinscape Online Player
 author:
-- '[[scooper4711|Stephen Cooper]]'
+- '[[authors/scooper4711|Stephen Cooper]]'
 categories: []
 description: Control Syrinscape Online Player from inside of notes.
-downloads: 284
+downloads: 293
 mobile: true
 number: 1741
 stars: 4

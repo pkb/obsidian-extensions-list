@@ -2,10 +2,10 @@
 aliases:
 - Alt-Click to Copy
 author:
-- '[[veersheth|Veer Sheth]]'
+- '[[authors/veersheth|Veer Sheth]]'
 categories: []
 description: Alt-click to copy code!
-downloads: 1529
+downloads: 1540
 mobile: true
 number: 1391
 stars: 2

@@ -2,11 +2,11 @@
 aliases:
 - Ribbon Divider
 author:
-- '[[andrewmcgivery|Andrew McGivery]]'
+- '[[authors/andrewmcgivery|Andrew McGivery]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Allows you to add dividers to the ribbon to space out your icons.
-downloads: 4245
+downloads: 4300
 mobile: true
 number: 1343
 stars: 14

@@ -2,10 +2,10 @@
 aliases:
 - Obsidiosaurus
 author:
-- '[[CIMSTA|CIMSTA]]'
+- '[[authors/CIMSTA|CIMSTA]]'
 categories: []
 description: Connect your vault to Docusaurus
-downloads: 3558
+downloads: 3568
 mobile: false
 number: 1053
 stars: 144

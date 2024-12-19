@@ -2,10 +2,10 @@
 aliases:
 - Hexo Toolkit
 author:
-- '[[sissilab|Xiangru]]'
+- '[[authors/sissilab|Xiangru]]'
 categories: []
 description: Maintain Hexo posts.
-downloads: 46
+downloads: 50
 mobile: false
 number: 1987
 stars: 1

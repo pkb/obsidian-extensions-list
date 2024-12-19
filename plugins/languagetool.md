@@ -3,13 +3,13 @@ aliases:
 - LanguageTool
 author:
 - '[[authors/Lars Wrenger|Lars Wrenger]]'
-- '[[wrenger|Clemens Ertle]]'
+- '[[authors/wrenger|Clemens Ertle]]'
 categories: []
 description: Unofficial integration of the LanguageTool spell and grammar checker.
-downloads: 5934
+downloads: 6245
 mobile: true
 number: 1785
-stars: 17
+stars: 18
 title: LanguageTool
 type: plugin
 updated: '2024-11-24T03:53:14'

@@ -2,10 +2,10 @@
 aliases:
 - Unicode Search
 author:
-- '[[BambusControl|BambusControl]]'
+- '[[authors/BambusControl|BambusControl]]'
 categories: []
 description: Search and insert Unicode characters into your editor
-downloads: 12018
+downloads: 12100
 mobile: true
 number: 801
 stars: 39

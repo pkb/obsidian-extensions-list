@@ -2,13 +2,13 @@
 aliases:
 - Better Comment Toggle
 author:
-- '[[MrGVSV|Gino Valente]]'
+- '[[authors/MrGVSV|Gino Valente]]'
 categories: []
 description: Improved comment toggling.
-downloads: 4217
+downloads: 4241
 mobile: true
 number: 1043
-stars: 8
+stars: 9
 title: Better Comment Toggle
 type: plugin
 updated: '2023-12-25T02:14:58'

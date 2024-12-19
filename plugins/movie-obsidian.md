@@ -2,10 +2,10 @@
 aliases:
 - Movie
 author:
-- '[[onuraycicek|Onur Ayçiçek]]'
+- '[[authors/onuraycicek|Onur Ayçiçek]]'
 categories: []
 description: Search for movies and trailers.
-downloads: 7064
+downloads: 7113
 mobile: true
 number: 977
 stars: 11

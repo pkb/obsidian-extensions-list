@@ -2,12 +2,12 @@
 aliases:
 - ChatCBT
 author:
-- '[[clairefro|Claire Froelich]]'
+- '[[authors/clairefro|Claire Froelich]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Guides you in reframing negative thoughts and keeping record of your
   discoveries
-downloads: 3774
+downloads: 3793
 mobile: false
 number: 1305
 stars: 190

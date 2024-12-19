@@ -2,10 +2,10 @@
 aliases:
 - Update time on edit
 author:
-- '[[beaussan|@beaussan]]'
+- '[[authors/beaussan|@beaussan]]'
 categories: []
 description: Keep front matter in sync with the last edit time
-downloads: 44815
+downloads: 45115
 mobile: true
 number: 307
 stars: 171

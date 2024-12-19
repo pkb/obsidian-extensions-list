@@ -2,13 +2,13 @@
 aliases:
 - Longform
 author:
-- '[[kevboh|Kevin Barrett]]'
+- '[[authors/kevboh|Kevin Barrett]]'
 categories: []
 description: Write novels, screenplays, and other long projects in Obsidian.
-downloads: 79976
+downloads: 80671
 mobile: true
 number: 243
-stars: 681
+stars: 683
 title: Longform
 type: plugin
 updated: '2024-01-25T19:52:17'

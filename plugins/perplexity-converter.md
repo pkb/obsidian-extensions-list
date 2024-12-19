@@ -2,13 +2,13 @@
 aliases:
 - Perplexity Converter
 author:
-- '[[heseber|Henrik Seidel]]'
+- '[[authors/heseber|Henrik Seidel]]'
 categories: []
 description: Fix references in text pasted from Perplexity.
-downloads: 248
+downloads: 298
 mobile: true
 number: 2004
-stars: 2
+stars: 3
 title: Perplexity Converter
 type: plugin
 updated: '2024-11-08T02:30:59'

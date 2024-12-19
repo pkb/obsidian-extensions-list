@@ -2,10 +2,10 @@
 aliases:
 - Pending notes
 author:
-- '[[ulisesantana|Ulises Santana]]'
+- '[[authors/ulisesantana|Ulises Santana]]'
 categories: []
 description: Obsidian plugin for searching links without notes in your vault.
-downloads: 7152
+downloads: 7159
 mobile: true
 number: 762
 stars: 32

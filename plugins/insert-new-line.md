@@ -5,15 +5,15 @@ author:
 - '[[authors/freddyouellette|Freddy Ouellette]]'
 categories: []
 description: Insert a new line above or below the current line.
-downloads: 13
+downloads: 57
 mobile: true
 number: 2066
 stars: 1
 title: Insert New Line
 type: plugin
-updated: '2024-11-30T13:34:45'
+updated: '2024-12-14T20:16:56'
 url: https://github.com/freddyouellette/obsidian-insert-new-line-plugin
-version: 1.1.1
+version: 1.2.0
 ---
 
 %% README_START %%

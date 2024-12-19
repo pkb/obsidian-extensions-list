@@ -2,13 +2,13 @@
 aliases:
 - Journalyst
 author:
-- '[[Justin-Arnold|Justin Arnold]]'
+- '[[authors/Justin-Arnold|Justin Arnold]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Journalyst enables easy creation of topic-specific journals. Organize
   your life into categories like sleep, routines, or work, with daily or recurring
   entries for effortless tracking and reflection.
-downloads: 2668
+downloads: 2694
 mobile: true
 number: 1422
 stars: 11

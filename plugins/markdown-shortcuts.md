@@ -2,10 +2,10 @@
 aliases:
 - Markdown shortcuts
 author:
-- '[[JulesGuesnon|Jules Guesnon]]'
+- '[[authors/JulesGuesnon|Jules Guesnon]]'
 categories: []
 description: 'Allows to write markdown from shortcuts (example: >h1 -> #).'
-downloads: 7370
+downloads: 7383
 mobile: true
 number: 435
 stars: 26

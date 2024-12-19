@@ -2,11 +2,11 @@
 aliases:
 - AnySocket Sync
 author:
-- '[[lynxaegon|Andrei Vaduva]]'
+- '[[authors/lynxaegon|Andrei Vaduva]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Self-Hosted synchronization for you Vault using AnySocket
-downloads: 379
+downloads: 392
 mobile: true
 number: 1870
 stars: 9

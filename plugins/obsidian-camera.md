@@ -2,10 +2,10 @@
 aliases:
 - Camera
 author:
-- '[[aldrinjenson|Aldrin Jenson]]'
+- '[[authors/aldrinjenson|Aldrin Jenson]]'
 categories: []
 description: Camera plugin for Obsidian
-downloads: 10344
+downloads: 10417
 mobile: true
 number: 536
 stars: 26

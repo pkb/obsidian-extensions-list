@@ -2,10 +2,10 @@
 aliases:
 - Prompt
 author:
-- '[[hungsu|Hung-Su]]'
+- '[[authors/hungsu|Hung-Su]]'
 categories: []
 description: Shows a random text prompt when triggered
-downloads: 5086
+downloads: 5092
 mobile: true
 number: 329
 stars: 23

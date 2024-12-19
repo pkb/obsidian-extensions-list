@@ -2,10 +2,10 @@
 aliases:
 - Open Plugin Settings
 author:
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Create a command to open a specified plugin settings.
-downloads: 4344
+downloads: 4353
 mobile: true
 number: 930
 stars: 13

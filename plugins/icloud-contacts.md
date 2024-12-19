@@ -2,11 +2,11 @@
 aliases:
 - iCloud Contacts
 author:
-- '[[Trulsaa|Truls Aagaard]]'
+- '[[authors/Trulsaa|Truls Aagaard]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Imports contacts from iCloud and manages a note for each contact.
-downloads: 2343
+downloads: 2365
 mobile: true
 number: 1394
 stars: 17

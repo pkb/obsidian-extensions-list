@@ -2,11 +2,11 @@
 aliases:
 - Simple Mention
 author:
-- '[[der-tobi|der-tobi]]'
+- '[[authors/der-tobi|der-tobi]]'
 categories: []
 description: Get highlighted mentions and mention suggestions. Find all occurrences
   of a mention
-downloads: 5266
+downloads: 5278
 mobile: false
 number: 596
 stars: 36

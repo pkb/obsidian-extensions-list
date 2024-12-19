@@ -2,10 +2,10 @@
 aliases:
 - NSFW filter
 author:
-- '[[catvatar|catvatar]]'
+- '[[authors/catvatar|catvatar]]'
 categories: []
 description: Adds customizable and easly togglable NSFW filter
-downloads: 214
+downloads: 218
 mobile: true
 number: 1755
 stars: 2

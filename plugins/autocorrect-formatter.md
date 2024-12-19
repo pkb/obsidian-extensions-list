@@ -2,11 +2,11 @@
 aliases:
 - Autocorrect Formatter
 author:
-- '[[b-yp|b-yp]]'
+- '[[authors/b-yp|b-yp]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format MarkDown content using Autocorrect.
-downloads: 3721
+downloads: 3753
 mobile: true
 number: 1315
 stars: 8

@@ -2,10 +2,10 @@
 aliases:
 - External Link Opener
 author:
-- '[[zorazrr|Zora Zhang]]'
+- '[[authors/zorazrr|Zora Zhang]]'
 categories: []
 description: Open external links within Obsidian using a modal or a tab.
-downloads: 4509
+downloads: 4518
 mobile: false
 number: 704
 stars: 23

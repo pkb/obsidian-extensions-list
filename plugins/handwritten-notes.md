@@ -2,16 +2,16 @@
 aliases:
 - Handwritten Notes
 author:
-- '[[FBarrca|FBarrCa]]'
+- '[[authors/FBarrca|FBarrCa]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Annotate PDFs and create handwritten notes inside your vault using a
   stylus.
-downloads: 23007
+downloads: 23336
 mobile: true
 number: 1113
-stars: 195
+stars: 198
 title: Handwritten Notes
 type: plugin
 updated: '2024-09-20T05:06:04'

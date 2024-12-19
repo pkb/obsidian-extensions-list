@@ -2,11 +2,11 @@
 aliases:
 - Tag Breakdown Generator
 author:
-- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
+- '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Breakdown nested tags into multiple parent tags
-downloads: 2532
+downloads: 2536
 mobile: false
 number: 1201
 stars: 8

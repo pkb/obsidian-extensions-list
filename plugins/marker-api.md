@@ -2,11 +2,11 @@
 aliases:
 - Marker PDF to MD
 author:
-- '[[l3-n0x|L3N0X]]'
+- '[[authors/l3-n0x|L3N0X]]'
 categories: []
 description: Convert PDFs to rich Markdown, including images and ocr using the Marker
   API
-downloads: 2968
+downloads: 3149
 mobile: true
 number: 1824
 stars: 28

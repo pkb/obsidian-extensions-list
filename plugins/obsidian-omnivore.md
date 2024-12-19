@@ -2,13 +2,13 @@
 aliases:
 - Omnivore
 author:
-- '[[omnivore-app|Omnivore]]'
+- '[[authors/omnivore-app|Omnivore]]'
 categories: []
 description: This is an Omnivore plugin for Obsidian.
-downloads: 121878
+downloads: 122147
 mobile: true
 number: 794
-stars: 845
+stars: 846
 title: Omnivore
 type: plugin
 updated: '2024-07-16T10:15:20'

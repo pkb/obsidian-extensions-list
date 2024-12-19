@@ -2,11 +2,11 @@
 aliases:
 - Netwik
 author:
-- '[[fivol|Boris Bondarenko]]'
+- '[[authors/fivol|Boris Bondarenko]]'
 categories: []
 description: This plugin provides access to global network of notes. Anyone can create,
   view or edit notes. All changes will be synchronized between all participants
-downloads: 4045
+downloads: 4050
 mobile: false
 number: 298
 stars: 27

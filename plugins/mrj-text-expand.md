@@ -2,10 +2,10 @@
 aliases:
 - Text expand
 author:
-- '[[mrjackphil|MrJackphil]]'
+- '[[authors/mrjackphil|MrJackphil]]'
 categories: []
 description: Search and paste/transclude links to located files.
-downloads: 30784
+downloads: 30844
 mobile: true
 number: 11
 stars: 188

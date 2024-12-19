@@ -2,11 +2,11 @@
 aliases:
 - Repeat
 author:
-- '[[prncc|Andre Perunicic]]'
+- '[[authors/prncc|Andre Perunicic]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Review notes using periodic or spaced repetition.
-downloads: 9792
+downloads: 9834
 mobile: true
 number: 633
 stars: 43

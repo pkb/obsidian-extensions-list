@@ -2,11 +2,11 @@
 aliases:
 - Canvas Mindmap Helper
 author:
-- '[[tim-smart|Tim Smart]]'
+- '[[authors/tim-smart|Tim Smart]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Make the Canvas work like a mindmap
-downloads: 3920
+downloads: 3986
 mobile: true
 number: 1473
 stars: 19

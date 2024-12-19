@@ -5,15 +5,15 @@ author:
 - '[[authors/willasm|willasm]]'
 categories: []
 description: Visual Crossing Weather API for Your Notes
-downloads: 174
+downloads: 249
 mobile: true
 number: 2052
 stars: 18
 title: Visual Crossing Weather
 type: plugin
-updated: '2024-11-14T02:39:22'
+updated: '2024-12-16T04:36:14'
 url: https://github.com/willasm/vc-weather
-version: 0.3.2
+version: 1.0.0
 ---
 
 %% README_START %%

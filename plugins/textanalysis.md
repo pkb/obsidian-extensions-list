@@ -2,16 +2,16 @@
 aliases:
 - Text Analysis
 author:
-- '[[mihakralj|Miha Kralj]]'
+- '[[authors/mihakralj|Miha Kralj]]'
 categories: []
 description: 'Real-time text analysis on readability, structure, and complexity, incorporating
   over 30 tests like Average Syllables per Word, percent of difficult words, Lexical
   Diversity, Flesch Reading Ease Score, Gunning Fog Index, SMOG indes, Rix, Lix, Reading
   level and Reading/Speaking time. Built on top of textstat library. '
-downloads: 3062
+downloads: 3102
 mobile: true
 number: 1307
-stars: 31
+stars: 30
 title: Text Analysis
 type: plugin
 updated: '2024-11-22T23:02:08'

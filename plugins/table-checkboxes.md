@@ -2,11 +2,11 @@
 aliases:
 - Markdown table checkboxes
 author:
-- '[[DylanGiesberts|Dylan Giesberts]]'
+- '[[authors/DylanGiesberts|Dylan Giesberts]]'
 categories: []
 description: Converts markdown checkboxes in tables to HTML, and reflects the state
   upon (un)checking them.
-downloads: 9061
+downloads: 9173
 mobile: true
 number: 1199
 stars: 29

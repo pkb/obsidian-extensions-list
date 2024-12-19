@@ -2,11 +2,11 @@
 aliases:
 - Studier
 author:
-- '[[alvaro-cas|Álvaro]]'
+- '[[authors/alvaro-cas|Álvaro]]'
 categories:
 - '[[categories/Learning|Learning]]'
 description: Create quizzes for your Obsidian.md notes and learn better.
-downloads: 2928
+downloads: 2940
 mobile: true
 number: 1222
 stars: 5

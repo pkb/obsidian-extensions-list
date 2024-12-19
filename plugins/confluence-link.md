@@ -2,18 +2,18 @@
 aliases:
 - Confluence Link
 author:
-- '[[BungaRazvan|Razvan Bunga]]'
+- '[[authors/BungaRazvan|Razvan Bunga]]'
 categories: []
 description: Upload files to confluence pages
-downloads: 548
+downloads: 591
 mobile: false
 number: 1834
-stars: 6
+stars: 7
 title: Confluence Link
 type: plugin
-updated: '2024-11-11T04:06:57'
+updated: '2024-12-18T01:40:16'
 url: https://github.com/BungaRazvan/confluence-link
-version: 1.3.7
+version: 1.4.0
 ---
 
 %% README_START %%

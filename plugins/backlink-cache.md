@@ -2,18 +2,18 @@
 aliases:
 - Backlink Cache
 author:
-- '[[mnaoumov|mnaoumov]]'
+- '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`
-downloads: 5541
+downloads: 5830
 mobile: true
 number: 1244
-stars: 21
+stars: 22
 title: Backlink Cache
 type: plugin
-updated: '2024-12-11T00:32:00'
+updated: '2024-12-18T02:35:15'
 url: https://github.com/mnaoumov/obsidian-backlink-cache
-version: 2.2.2
+version: 2.2.3
 ---
 
 %% README_START %%

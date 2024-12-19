@@ -2,11 +2,11 @@
 aliases:
 - Current File
 author:
-- '[[2shortplanks|Mark Fowler]]'
+- '[[authors/2shortplanks|Mark Fowler]]'
 categories: []
 description: Allows external applications to know what file the desktop app is currently
   viewing.
-downloads: 119
+downloads: 121
 mobile: false
 number: 1847
 stars: 2

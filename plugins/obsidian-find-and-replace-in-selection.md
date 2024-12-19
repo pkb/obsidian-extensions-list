@@ -2,10 +2,10 @@
 aliases:
 - Find & Replace in Selection
 author:
-- '[[TClark1011|Thomas Clark]]'
+- '[[authors/TClark1011|Thomas Clark]]'
 categories: []
 description: Replace text within your current selection.
-downloads: 6496
+downloads: 6509
 mobile: true
 number: 230
 stars: 6

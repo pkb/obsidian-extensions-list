@@ -2,11 +2,11 @@
 aliases:
 - Peekaboo
 author:
-- '[[Lio5n|Wang Guoshi]]'
+- '[[authors/Lio5n|Wang Guoshi]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Protect your privacy by setting a password to hide files.
-downloads: 170
+downloads: 189
 mobile: true
 number: 1984
 stars: 2

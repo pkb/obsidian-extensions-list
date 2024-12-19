@@ -2,13 +2,13 @@
 aliases:
 - Folders to Graph
 author:
-- '[[Ratibus11|ratibus11]]'
+- '[[authors/Ratibus11|ratibus11]]'
 categories: []
 description: Display your vault folder structure into your graphs.
-downloads: 4595
+downloads: 4761
 mobile: true
 number: 1449
-stars: 18
+stars: 19
 title: Folders to Graph
 type: plugin
 updated: '2024-11-15T04:31:35'

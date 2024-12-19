@@ -2,10 +2,10 @@
 aliases:
 - SVG Style Editor
 author:
-- '[[arg1998|ARGOSTA]]'
+- '[[authors/arg1998|ARGOSTA]]'
 categories: []
 description: Change the color and other style properies of an embded SVG file
-downloads: 87
+downloads: 104
 mobile: false
 number: 1990
 stars: 3

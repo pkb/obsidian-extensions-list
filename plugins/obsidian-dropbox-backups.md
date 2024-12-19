@@ -2,10 +2,10 @@
 aliases:
 - Aut-O-Backups
 author:
-- '[[ryanpcmcquen|ryanpcmcquen]]'
+- '[[authors/ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Automated backups to Dropbox for your enjoyment.
-downloads: 9977
+downloads: 10015
 mobile: true
 number: 192
 stars: 73

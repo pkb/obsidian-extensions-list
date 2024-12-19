@@ -2,13 +2,13 @@
 aliases:
 - Homework Manager
 author:
-- '[[KadisonM|Kadison McLellan]]'
+- '[[authors/KadisonM|Kadison McLellan]]'
 categories: []
 description: Keeps track of homework through a to-do list.
-downloads: 4464
+downloads: 4494
 mobile: true
 number: 1210
-stars: 8
+stars: 9
 title: Homework Manager
 type: plugin
 updated: '2023-12-07T16:10:26'

@@ -2,11 +2,11 @@
 aliases:
 - Imgur
 author:
-- '[[gavvvr|Kirill Gavrilov]]'
+- '[[authors/gavvvr|Kirill Gavrilov]]'
 categories: []
 description: This plugin uploads images from your clipboard to imgur.com and embeds
   uploaded image to your note
-downloads: 48253
+downloads: 48602
 mobile: true
 number: 72
 stars: 221

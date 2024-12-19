@@ -2,14 +2,14 @@
 aliases:
 - Babashka
 author:
-- '[[filipesilva|Filipe Silva]]'
+- '[[authors/filipesilva|Filipe Silva]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Evaluate Clojure(Script) codeblocks in Babashka.
-downloads: 3326
+downloads: 3328
 mobile: false
 number: 791
-stars: 53
+stars: 55
 title: Babashka
 type: plugin
 updated: '2023-02-05T15:54:16'

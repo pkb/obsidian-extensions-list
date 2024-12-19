@@ -2,11 +2,11 @@
 aliases:
 - Link to Verse
 author:
-- '[[aygjiay|aygjiay]]'
+- '[[authors/aygjiay|aygjiay]]'
 categories: []
 description: From a Bible reference selected, creates a markdown link to a configured
   Bible site.
-downloads: 264
+downloads: 274
 mobile: true
 number: 1687
 stars: 3

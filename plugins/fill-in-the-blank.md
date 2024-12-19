@@ -2,10 +2,10 @@
 aliases:
 - Fill in the Blank (FITB)
 author:
-- '[[mister-mcgee|Shawn McGee]]'
+- '[[authors/mister-mcgee|Shawn McGee]]'
 categories: []
 description: Use --magic-- to render inline text as blank line(s) instead.
-downloads: 3480
+downloads: 3489
 mobile: true
 number: 1047
 stars: 2

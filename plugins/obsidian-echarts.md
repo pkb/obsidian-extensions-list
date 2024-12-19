@@ -2,11 +2,11 @@
 aliases:
 - obsidian echarts
 author:
-- '[[cumany|windily-cloud && Cuman]]'
+- '[[authors/cumany|windily-cloud && Cuman]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: obsidian echarts
-downloads: 6505
+downloads: 6520
 mobile: true
 number: 555
 stars: 37

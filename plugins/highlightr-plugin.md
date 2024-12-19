@@ -2,15 +2,15 @@
 aliases:
 - Highlightr
 author:
-- '[[chetachiezikeuzor|chetachi]]'
+- '[[authors/chetachiezikeuzor|chetachi]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: "A minimal and aesthetically pleasing highlighting menu that makes color-coded
   highlighting much easier with a configurable assortment of highlight colors \U0001F3A8."
-downloads: 355118
+downloads: 358418
 mobile: true
 number: 361
-stars: 648
+stars: 650
 title: Highlightr
 type: plugin
 updated: '2022-09-01T00:52:50'

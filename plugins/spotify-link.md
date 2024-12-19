@@ -2,10 +2,10 @@
 aliases:
 - Spotify Link
 author:
-- '[[studiowebux|Studio Webux]]'
+- '[[authors/studiowebux|Studio Webux]]'
 categories: []
 description: Include the song you're currently listening to in your note.
-downloads: 4060
+downloads: 4092
 mobile: true
 number: 1262
 stars: 11

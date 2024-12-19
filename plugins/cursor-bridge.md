@@ -2,15 +2,15 @@
 aliases:
 - Cursor Bridge
 author:
-- '[[lengff123|Adam Cloud]]'
+- '[[authors/lengff123|Adam Cloud]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Seamlessly bridge your notes with Cursor, the AI-powered code editor.
   Open notes directly in Cursor to enhance your workflow.
-downloads: 162
+downloads: 188
 mobile: false
 number: 1980
-stars: 10
+stars: 11
 title: Cursor Bridge
 type: plugin
 updated: '2024-11-28T22:28:44'

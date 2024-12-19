@@ -2,10 +2,10 @@
 aliases:
 - Obsius Publish
 author:
-- '[[jonstodle|Jon Grythe Stødle]]'
+- '[[authors/jonstodle|Jon Grythe Stødle]]'
 categories: []
 description: Make single notes instantly available on the web.
-downloads: 13349
+downloads: 13416
 mobile: true
 number: 492
 stars: 151

@@ -2,11 +2,11 @@
 aliases:
 - Fight Note
 author:
-- '[[Loac|Dmitry Loac]]'
+- '[[authors/Loac|Dmitry Loac]]'
 categories: []
 description: 'Render Tekken notation into an easy-to-read format (partially useful
   for other fighting games: Guilty Gear, Street Fighter and etc).'
-downloads: 931
+downloads: 934
 mobile: true
 number: 1531
 stars: 3

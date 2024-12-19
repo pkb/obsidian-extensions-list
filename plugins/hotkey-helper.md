@@ -2,15 +2,15 @@
 aliases:
 - Hotkey Helper
 author:
-- '[[pjeby|PJ Eby]]'
+- '[[authors/pjeby|PJ Eby]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Easily see and access any plugin's settings or hotkey assignments (and
   conflicts) from the Community Plugins tab
-downloads: 55128
+downloads: 55484
 mobile: true
 number: 125
-stars: 113
+stars: 114
 title: Hotkey Helper
 type: plugin
 updated: '2024-10-26T11:06:50'

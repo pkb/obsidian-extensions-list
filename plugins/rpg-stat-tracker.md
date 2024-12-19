@@ -2,14 +2,14 @@
 aliases:
 - RPG Stat Tracker
 author:
-- '[[name|Cunjur]]'
+- '[[authors/name|Cunjur]]'
 categories:
 - '[[categories/Games|Games]]'
 description: RPG-like stat tracker.
-downloads: 513
+downloads: 537
 mobile: false
 number: 1739
-stars: 13
+stars: 12
 title: RPG Stat Tracker
 type: plugin
 updated: '2024-06-23T23:34:24'

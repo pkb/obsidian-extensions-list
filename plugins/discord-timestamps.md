@@ -5,15 +5,15 @@ author:
 - '[[authors/Erallie|Erika Gozar]]'
 categories: []
 description: Displays discord timestamps in read mode as they would appear in Discord.
-downloads: 102
+downloads: 125
 mobile: true
 number: 2050
 stars: 1
 title: Discord Timestamps
 type: plugin
-updated: '2024-12-07T00:07:16'
+updated: '2024-12-14T03:51:02'
 url: https://github.com/Erallie/discord-timestamps
-version: 1.0.18
+version: 1.0.19
 ---
 
 %% README_START %%

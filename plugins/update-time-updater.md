@@ -2,10 +2,10 @@
 aliases:
 - Update Time Updater
 author:
-- '[[muratagawa|MURATAGAWA Kei]]'
+- '[[authors/muratagawa|MURATAGAWA Kei]]'
 categories: []
 description: Update the 'update time' element when saving or manually.
-downloads: 564
+downloads: 570
 mobile: true
 number: 1584
 stars: 4

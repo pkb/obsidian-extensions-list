@@ -2,10 +2,10 @@
 aliases:
 - Short links
 author:
-- '[[scottwillmoore|Scott Moore]]'
+- '[[authors/scottwillmoore|Scott Moore]]'
 categories: []
 description: An Obsidian plugin to display short internal links.
-downloads: 10531
+downloads: 10566
 mobile: true
 number: 755
 stars: 51

@@ -2,10 +2,10 @@
 aliases:
 - Lock Screen
 author:
-- '[[ericbiewener|Eric Biewener]]'
+- '[[authors/ericbiewener|Eric Biewener]]'
 categories: []
 description: Protect your vault with a lock screen.
-downloads: 8441
+downloads: 8471
 mobile: true
 number: 404
 stars: 21

@@ -2,11 +2,11 @@
 aliases:
 - Copy as source
 author:
-- '[[gapmiss|@gapmiss]]'
+- '[[authors/gapmiss|@gapmiss]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Select and copy source HTML in reading view.
-downloads: 1156
+downloads: 1163
 mobile: false
 number: 1435
 stars: 2

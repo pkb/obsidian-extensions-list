@@ -2,11 +2,11 @@
 aliases:
 - Audio Player
 author:
-- '[[noonesimg|noones img]]'
+- '[[authors/noonesimg|noones img]]'
 categories: []
 description: Audio player with background playback, bookmarks and wave visualiser
   instead of the default html5 audio
-downloads: 10552
+downloads: 10631
 mobile: true
 number: 759
 stars: 100

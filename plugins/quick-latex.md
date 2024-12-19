@@ -2,11 +2,11 @@
 aliases:
 - Quick Latex
 author:
-- '[[joeyuping|joeyuping]]'
+- '[[authors/joeyuping|joeyuping]]'
 categories: []
 description: Speedup latex math typing with auto fraction, custom shorthand, align
   block shortcut, matrix shortcut...etc
-downloads: 171150
+downloads: 171664
 mobile: true
 number: 304
 stars: 327

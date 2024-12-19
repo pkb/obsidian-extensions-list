@@ -2,10 +2,10 @@
 aliases:
 - Goban SGF
 author:
-- '[[StinsonZhao|Stinson]]'
+- '[[authors/StinsonZhao|Stinson]]'
 categories: []
 description: Obsidian plugin for recording Go games (SGF format goban).
-downloads: 1087
+downloads: 1089
 mobile: false
 number: 1453
 stars: 8

@@ -2,10 +2,10 @@
 aliases:
 - Translator
 author:
-- '[[luhaifeng666|Haifeng Lu]]'
+- '[[authors/luhaifeng666|Haifeng Lu]]'
 categories: []
 description: This is a plugin for Obsidian to translate selected text.
-downloads: 10247
+downloads: 10299
 mobile: false
 number: 554
 stars: 25

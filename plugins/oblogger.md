@@ -2,10 +2,10 @@
 aliases:
 - oblogger
 author:
-- '[[lofttech|loftTech]]'
+- '[[authors/lofttech|loftTech]]'
 categories: []
 description: tagger explorer and frontmatter logger
-downloads: 4792
+downloads: 4804
 mobile: true
 number: 1027
 stars: 34

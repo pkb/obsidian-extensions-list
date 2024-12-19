@@ -2,14 +2,14 @@
 aliases:
 - Supercharged Links
 author:
-- '[[mdelobelle|mdelobelle & Emile]]'
+- '[[authors/mdelobelle|mdelobelle & Emile]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add properties and menu options to links and style them!
-downloads: 125953
+downloads: 126468
 mobile: true
 number: 176
-stars: 536
+stars: 537
 title: Supercharged Links
 type: plugin
 updated: '2024-03-18T21:58:41'

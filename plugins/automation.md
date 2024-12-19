@@ -2,14 +2,14 @@
 aliases:
 - Automation
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Execute commands on specific events.
-downloads: 1299
+downloads: 1326
 mobile: true
 number: 1572
-stars: 16
+stars: 17
 title: Automation
 type: plugin
 updated: '2024-05-31T17:37:35'

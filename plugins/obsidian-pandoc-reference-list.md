@@ -2,11 +2,11 @@
 aliases:
 - Pandoc Reference List
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Displays a formatted reference in the sidebar for each pandoc citekey
   present in the current document.
-downloads: 43582
+downloads: 44057
 mobile: false
 number: 513
 stars: 191

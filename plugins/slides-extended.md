@@ -3,13 +3,13 @@ aliases:
 - Slides Extended
 author:
 - '[[authors/Matthäus Szturc|Matthäus Szturc]]'
-- '[[ebullient|continued by Erin Schnabel]]'
+- '[[authors/ebullient|continued by Erin Schnabel]]'
 categories: []
 description: Create markdown-based presentations using reveal.js
-downloads: 4814
+downloads: 4978
 mobile: false
 number: 1604
-stars: 98
+stars: 99
 title: Slides Extended
 type: plugin
 updated: '2024-10-07T19:32:37'

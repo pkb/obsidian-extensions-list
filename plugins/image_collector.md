@@ -2,11 +2,11 @@
 aliases:
 - Image Collector
 author:
-- '[[tdaykin|tdaykin]]'
+- '[[authors/tdaykin|tdaykin]]'
 categories: []
 description: Collects all images from your note and saves them to a new folder called
   "file_name images".
-downloads: 1864
+downloads: 1878
 mobile: true
 number: 1427
 stars: 8

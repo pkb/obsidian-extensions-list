@@ -2,10 +2,10 @@
 aliases:
 - Post Medium Draft
 author:
-- '[[eebmagic|E. Bolton]]'
+- '[[authors/eebmagic|E. Bolton]]'
 categories: []
 description: Posts a note to your medium account as a draft.
-downloads: 235
+downloads: 239
 mobile: true
 number: 1816
 stars: 6

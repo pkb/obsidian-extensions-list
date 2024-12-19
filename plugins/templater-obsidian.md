@@ -2,11 +2,11 @@
 aliases:
 - Templater
 author:
-- '[[SilentVoid13|SilentVoid]]'
+- '[[authors/SilentVoid13|SilentVoid]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Create and use templates
-downloads: 1919818
+downloads: 1935806
 mobile: true
 number: 24
 stars: 3400

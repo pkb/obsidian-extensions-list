@@ -2,10 +2,10 @@
 aliases:
 - Strava Sync
 author:
-- '[[watsonbox|Howard Wilson]]'
+- '[[authors/watsonbox|Howard Wilson]]'
 categories: []
 description: Sync activities from Strava.
-downloads: 65
+downloads: 74
 mobile: true
 number: 1958
 stars: 2

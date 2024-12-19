@@ -2,13 +2,13 @@
 aliases:
 - Image Captions
 author:
-- '[[alangrainger|Alan Grainger]]'
+- '[[authors/alangrainger|Alan Grainger]]'
 categories: []
 description: Adds captions to images when there is alt-text specified
-downloads: 26019
+downloads: 26439
 mobile: true
 number: 768
-stars: 102
+stars: 104
 title: Image Captions
 type: plugin
 updated: '2024-11-13T17:04:57'

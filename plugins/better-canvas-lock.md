@@ -2,11 +2,11 @@
 aliases:
 - Better Canvas Lock
 author:
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Enhance the read-only mode in canvas with fully lock the scroll, zoom,
   drag-and-drop in read-only!
-downloads: 3315
+downloads: 3335
 mobile: true
 number: 1279
 stars: 14

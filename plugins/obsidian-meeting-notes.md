@@ -2,11 +2,11 @@
 aliases:
 - Meeting notes
 author:
-- '[[TimHi|Tim Hiller]]'
+- '[[authors/TimHi|Tim Hiller]]'
 categories: []
 description: Plugin to automatically create a note if a new file is created in a meeting
   folder.
-downloads: 6716
+downloads: 6750
 mobile: true
 number: 577
 stars: 25

@@ -2,10 +2,10 @@
 aliases:
 - Better Order List
 author:
-- '[[quorafind|Boninall]]'
+- '[[authors/quorafind|Boninall]]'
 categories: []
 description: Support new line order list like 1、 or (1)., etc.
-downloads: 1595
+downloads: 1604
 mobile: true
 number: 1405
 stars: 6

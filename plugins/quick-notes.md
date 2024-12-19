@@ -2,11 +2,11 @@
 aliases:
 - Quick Notes
 author:
-- '[[SeanMcOwen|Sean McOwen]]'
+- '[[authors/SeanMcOwen|Sean McOwen]]'
 categories: []
 description: Speeds up some note taking abilities and allows for creating notes/links
   in the background
-downloads: 139
+downloads: 150
 mobile: false
 number: 1939
 stars: 4

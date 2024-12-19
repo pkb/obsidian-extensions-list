@@ -2,11 +2,11 @@
 aliases:
 - Semantic Search
 author:
-- '[[bbawj|bbawj]]'
+- '[[authors/bbawj|bbawj]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Semantic search for files using OpenAI's text embeddings
-downloads: 5069
+downloads: 5083
 mobile: false
 number: 874
 stars: 93

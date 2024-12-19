@@ -2,19 +2,19 @@
 aliases:
 - Edit mode switch
 author:
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Add a button in file header in edit mode, to switch between source &
   live-preview
-downloads: 408
+downloads: 445
 mobile: true
 number: 1891
 stars: 4
 title: Edit mode switch
 type: plugin
-updated: '2024-11-06T20:27:36'
+updated: '2024-12-18T19:58:52'
 url: https://github.com/Mara-Li/obsidian-edit-shortcut
-version: 0.0.4
+version: 0.0.5
 ---
 
 %% README_START %%
@@ -24,6 +24,11 @@ version: 0.0.4
 Add a button in file header in edit mode, to switch between source & live-preview.
 
 Doesn't work if LP or file header is disabled
+
+I setting, it is possible to create a "three mode toggle", with order. The button will, then, allow to switch between read/source/LP. It will disable the default Obsidian button, obviously.
+
+> [!note]
+> It is possible that LP will "blink" when switched with this mode.
 
 ## 📥 Installation
 

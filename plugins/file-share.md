@@ -2,12 +2,12 @@
 aliases:
 - File Share
 author:
-- '[[muckmuck96|muckmuck]]'
+- '[[authors/muckmuck96|muckmuck]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enables end-to-end encrypted file sharing directly between vaults via
   a socket server.
-downloads: 242
+downloads: 256
 mobile: false
 number: 1863
 stars: 9

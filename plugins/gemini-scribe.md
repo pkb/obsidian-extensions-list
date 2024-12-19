@@ -2,18 +2,18 @@
 aliases:
 - Gemini Scribe
 author:
-- '[[allenhutchison|Allen Hutchison]]'
+- '[[authors/allenhutchison|Allen Hutchison]]'
 categories: []
 description: Interact with Gemini and use your notes as context.
-downloads: 295
+downloads: 421
 mobile: true
 number: 2007
-stars: 7
+stars: 8
 title: Gemini Scribe
 type: plugin
-updated: '2024-12-10T00:56:40'
+updated: '2024-12-14T06:44:59'
 url: https://github.com/allenhutchison/obsidian-gemini
-version: 1.3.7
+version: 1.4.0
 ---
 
 %% README_START %%

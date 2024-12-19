@@ -2,17 +2,17 @@
 aliases:
 - Autoscroll
 author:
-- '[[petr-nazarov|Petr Nazarov]]'
+- '[[authors/petr-nazarov|Chas Kane]]'
 categories: []
 description: This plugin allows you to automatically scroll down the content with
   the provided speed
-downloads: 3979
+downloads: 3996
 mobile: true
 number: 708
 stars: 6
 title: Autoscroll
 type: plugin
-updated: '2022-11-24T04:17:38'
+updated: '2024-12-15T03:17:47'
 url: https://github.com/petr-nazarov/obsidian-autoscroll
 version: 0.1.3
 ---

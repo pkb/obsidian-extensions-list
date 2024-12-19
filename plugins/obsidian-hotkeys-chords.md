@@ -2,10 +2,10 @@
 aliases:
 - Hotkeys Chords
 author:
-- '[[trenta3|Dario Balboni]]'
+- '[[authors/trenta3|Dario Balboni]]'
 categories: []
 description: Set hotkeys chords to activate commands
-downloads: 4009
+downloads: 4014
 mobile: false
 number: 438
 stars: 11

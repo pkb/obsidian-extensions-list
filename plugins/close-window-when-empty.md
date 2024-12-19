@@ -2,10 +2,10 @@
 aliases:
 - Close Window When Empty
 author:
-- '[[TaylorJadin|Taylor Jadin]]'
+- '[[authors/TaylorJadin|Taylor Jadin]]'
 categories: []
 description: Close the window when the last note is closed, kind of how browsers work.
-downloads: 108
+downloads: 115
 mobile: false
 number: 1716
 stars: 0

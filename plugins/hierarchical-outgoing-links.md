@@ -2,10 +2,10 @@
 aliases:
 - Hierarchical Outgoing Links
 author:
-- '[[jasonmotylinski|Jason Motylinski]]'
+- '[[authors/jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays outgoing links in a hierarchy
-downloads: 1350
+downloads: 1368
 mobile: true
 number: 1586
 stars: 11

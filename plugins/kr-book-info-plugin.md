@@ -2,10 +2,10 @@
 aliases:
 - KoreanBook Info Plugin
 author:
-- '[[kmsk99|kmsk99]]'
+- '[[authors/kmsk99|kmsk99]]'
 categories: []
 description: A plugin that crawls Yes24 to get book information.
-downloads: 11350
+downloads: 11459
 mobile: true
 number: 495
 stars: 23

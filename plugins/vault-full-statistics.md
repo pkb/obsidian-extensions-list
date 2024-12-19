@@ -2,12 +2,12 @@
 aliases:
 - Vault Full Statistics
 author:
-- '[[jtprogru|Mikhail Savin]]'
+- '[[authors/jtprogru|Mikhail Savin]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Status bar item with vault full statistics such as number of notes, files,
   attachments, links, tags and quality of vault.
-downloads: 247
+downloads: 281
 mobile: true
 number: 1967
 stars: 7

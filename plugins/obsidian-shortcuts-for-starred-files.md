@@ -2,11 +2,11 @@
 aliases:
 - Hotkeys for Bookmarks
 author:
-- '[[Vinzent03|Vinzent]]'
+- '[[authors/Vinzent03|Vinzent]]'
 categories: []
 description: Set an individual hotkey for the first 9 bookmarks and open them just
   with your keyboard.
-downloads: 8901
+downloads: 8923
 mobile: true
 number: 84
 stars: 24

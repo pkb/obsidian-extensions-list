@@ -2,10 +2,10 @@
 aliases:
 - AI LaTeX Generator
 author:
-- '[[aaaaayushh|Aayush Shah]]'
+- '[[authors/aaaaayushh|Aayush Shah]]'
 categories: []
 description: Convert natural language to LaTeX equations using a local LLM.
-downloads: 353
+downloads: 368
 mobile: false
 number: 1853
 stars: 5

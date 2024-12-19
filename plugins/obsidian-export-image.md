@@ -2,19 +2,19 @@
 aliases:
 - Export Image plugin
 author:
-- '[[zhouhua|Zhou Hua]]'
+- '[[authors/zhouhua|Zhou Hua]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Easily convert your article to image.
-downloads: 23916
+downloads: 25164
 mobile: true
 number: 665
-stars: 109
+stars: 110
 title: Export Image plugin
 type: plugin
-updated: '2024-12-06T17:16:58'
+updated: '2024-12-17T11:14:33'
 url: https://github.com/zhouhua/obsidian-export-image
-version: 2.3.16
+version: 2.3.18
 ---
 
 %% README_START %%
@@ -65,6 +65,56 @@ Also, you can access this function from the editor menu:
 ### Obsidian
 
 Search `Export Image` in community plugins.
+
+## Custom Styles
+
+To help experienced users write their own CSS styles, here is the combined DOM structure of the exported image.
+
+
+```html
+<!-- Export Image Root -->
+<div class="export-image-root markdown-reading-view">
+  <!-- Watermark Container -->
+  <div class="markdown-preview-view markdown-rendered export-image-preview-container">
+    <!-- Inline Title -->
+    <div class="inline-title"></div>
+    <!-- Metadata -->
+    <div class="metadata-container">
+      <div class="metadata-content">
+        <!-- Metadata Items -->
+        <div class="metadata-property">
+          <!-- Metadata Key -->
+          <div class="metadata-property-key">
+            <!-- Metadata Icon -->
+            <span class="metadata-property-icon"></span>
+            <!-- Metadata Name -->
+            <span class="metadata-property-name"></span>
+          </div>
+          <!-- Metadata Value -->
+          <div class="metadata-property-value"></div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Note Content -->
+    <div>...</div>
+  </div>
+  
+  <!-- Author Info -->
+  <div class="user-info-container">
+    <!-- Author Avatar -->
+    <div class="user-info-avatar"></div>
+    <div>
+      <!-- Author Name -->
+      <div class="user-info-name"></div>
+      <!-- Extra Info -->
+      <div class="user-info-remark"></div>
+    </div>
+  </div>
+</div>
+```
+
+
 
 ## Special Thanks
 

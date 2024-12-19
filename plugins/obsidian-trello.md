@@ -2,19 +2,19 @@
 aliases:
 - Trello
 author:
-- '[[nathonius|Nathonius]]'
+- '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Connect an existing or new Trello card to an Obsidian note. Once connected,
   see basic info, add and view comments, and check off checklist items.
-downloads: 12399
+downloads: 12514
 mobile: true
 number: 272
-stars: 110
+stars: 111
 title: Trello
 type: plugin
-updated: '2024-10-31T20:24:30'
+updated: '2024-12-13T19:01:51'
 url: https://github.com/nathonius/obsidian-trello
-version: 2.3.1
+version: 2.3.2
 ---
 
 %% README_START %%

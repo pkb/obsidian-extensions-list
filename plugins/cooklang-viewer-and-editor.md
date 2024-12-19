@@ -2,10 +2,10 @@
 aliases:
 - Cooklang
 author:
-- '[[rveciana|Roger Veciana i Rovira]]'
+- '[[authors/rveciana|Roger Veciana i Rovira]]'
 categories: []
 description: Display and edit recipes written in the Cooklang format.
-downloads: 1763
+downloads: 1773
 mobile: true
 number: 1494
 stars: 8

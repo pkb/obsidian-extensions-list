@@ -2,11 +2,11 @@
 aliases:
 - Canvas Picture in Picture
 author:
-- '[[h-sphere|hypersphere]]'
+- '[[authors/h-sphere|hypersphere]]'
 categories: []
 description: Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture
   mode)
-downloads: 484
+downloads: 501
 mobile: true
 number: 1829
 stars: 5

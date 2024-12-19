@@ -2,12 +2,12 @@
 aliases:
 - AI for Templater
 author:
-- '[[TfTHacker|TfTHacker]]'
+- '[[authors/TfTHacker|TfTHacker]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Templates|Templates]]'
 description: AI Extension for the Templater plugin with the OpenAI Client Library.
-downloads: 2318
+downloads: 2378
 mobile: true
 number: 1594
 stars: 36

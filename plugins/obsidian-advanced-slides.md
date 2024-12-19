@@ -2,10 +2,10 @@
 aliases:
 - Advanced Slides
 author:
-- '[[MSzturc|Matthäus Szturc]]'
+- '[[authors/MSzturc|Matthäus Szturc]]'
 categories: null
 description: Create markdown-based presentations in Obsidian
-downloads: 751520
+downloads: 752648
 mobile: false
 number: 380
 stars: -1

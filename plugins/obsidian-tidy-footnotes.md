@@ -2,10 +2,10 @@
 aliases:
 - Tidy Footnotes
 author:
-- '[[charliecm|Charlie Chao]]'
+- '[[authors/charliecm|Charlie Chao]]'
 categories: []
 description: Tidy your footnotes seamlessly.
-downloads: 16263
+downloads: 16385
 mobile: true
 number: 164
 stars: 47

@@ -2,11 +2,11 @@
 aliases:
 - Multi-Column Markdown
 author:
-- '[[ckRobinson|Cameron Robinson]]'
+- '[[authors/ckRobinson|Cameron Robinson]]'
 categories: []
 description: This plugin adds functionality to create markdown documents with multiple
   columns of content viewable within Obsidian's preview mode
-downloads: 135863
+downloads: 136700
 mobile: true
 number: 409
 stars: 311

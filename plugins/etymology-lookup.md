@@ -2,10 +2,10 @@
 aliases:
 - Etymology Lookup
 author:
-- '[[clairefro|Claire Froelich]]'
+- '[[authors/clairefro|Claire Froelich]]'
 categories: []
 description: Get the etymology of words in your notes
-downloads: 2507
+downloads: 2547
 mobile: true
 number: 1530
 stars: 14

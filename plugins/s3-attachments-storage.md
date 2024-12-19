@@ -2,12 +2,12 @@
 aliases:
 - S3 attachments storage
 author:
-- '[[TechTheAwesome|TechTheAwesome]]'
+- '[[authors/TechTheAwesome|TechTheAwesome]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: An Obsidian plugin for storage and retrieval of media attachments on
   S3 compatible services.
-downloads: 3666
+downloads: 3672
 mobile: true
 number: 757
 stars: 31

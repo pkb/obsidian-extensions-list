@@ -2,15 +2,15 @@
 aliases:
 - Just Share Please
 author:
-- '[[Ellpeck|Ellpeck]]'
+- '[[authors/Ellpeck|Ellpeck]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly and easily share individual notes online using an anonymized
   link. Also easy to self-host!
-downloads: 3611
+downloads: 3623
 mobile: true
 number: 1138
-stars: 16
+stars: 17
 title: Just Share Please
 type: plugin
 updated: '2023-10-26T15:57:25'

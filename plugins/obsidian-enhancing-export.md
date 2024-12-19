@@ -2,15 +2,15 @@
 aliases:
 - Enhancing Export
 author:
-- '[[mokeyish|YISH]]'
+- '[[authors/mokeyish|YISH]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a enhancing export plugin for Obsidian. It allows to export to
   formats like Html, DOCX, ePub and PDF or Markdown(Hugo) etc.
-downloads: 225965
+downloads: 228263
 mobile: false
 number: 514
-stars: 354
+stars: 357
 title: Enhancing Export
 type: plugin
 updated: '2024-11-16T15:30:41'

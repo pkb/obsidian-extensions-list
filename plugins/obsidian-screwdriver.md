@@ -2,11 +2,11 @@
 aliases:
 - Screwdriver
 author:
-- '[[vrtmrz|vorotamoroz]]'
+- '[[authors/vrtmrz|vorotamoroz]]'
 categories:
 - '[[categories/File management|File management]]'
 description: Utility to put any files in and out under your vault.
-downloads: 4446
+downloads: 4447
 mobile: true
 number: 463
 stars: 18

@@ -2,10 +2,10 @@
 aliases:
 - Sticky Headings
 author:
-- '[[imshenshen|Shen Shen]]'
+- '[[authors/imshenshen|Shen Shen]]'
 categories: []
 description: Sticky Headings and Shows the heading level
-downloads: 2515
+downloads: 2563
 mobile: true
 number: 1543
 stars: 36

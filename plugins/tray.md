@@ -2,14 +2,14 @@
 aliases:
 - Tray
 author:
-- '[[dragonwocky|dragonwocky]]'
+- '[[authors/dragonwocky|dragonwocky]]'
 categories: []
 description: Run Obsidian from the system tray for customisable window management
   & global quick notes
-downloads: 15877
+downloads: 16034
 mobile: false
 number: 886
-stars: 224
+stars: 228
 title: Tray
 type: plugin
 updated: '2023-09-04T17:27:53'

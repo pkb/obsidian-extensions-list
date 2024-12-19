@@ -2,10 +2,10 @@
 aliases:
 - ProgressBar
 author:
-- '[[zwpaper|Wei Zhang]]'
+- '[[authors/zwpaper|Wei Zhang]]'
 categories: []
 description: Render CodeBlock into a ProgressBar based on Time or Manually.
-downloads: 9667
+downloads: 9739
 mobile: true
 number: 798
 stars: 43

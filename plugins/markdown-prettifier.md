@@ -2,11 +2,11 @@
 aliases:
 - Markdown prettifier
 author:
-- '[[cristianvasquez|Cristian]]'
+- '[[authors/cristianvasquez|Cristian]]'
 categories: []
 description: Tries to fix and reformat ugly Markdown and adds things like 'modified
   date' etc.
-downloads: 70316
+downloads: 70430
 mobile: true
 number: 31
 stars: 131

@@ -2,10 +2,10 @@
 aliases:
 - LinkMagic
 author:
-- '[[AndyReifman|Andrew Reifman]]'
+- '[[authors/AndyReifman|Andrew Reifman]]'
 categories: []
 description: Automatically adds links to defined regex.
-downloads: 561
+downloads: 569
 mobile: false
 number: 1624
 stars: 7

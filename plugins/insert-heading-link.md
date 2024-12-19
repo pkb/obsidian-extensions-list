@@ -2,10 +2,10 @@
 aliases:
 - Insert Heading Link
 author:
-- '[[Signynt|Signynt]]'
+- '[[authors/Signynt|Signynt]]'
 categories: []
 description: Add a Link to a Heading
-downloads: 4584
+downloads: 4591
 mobile: true
 number: 425
 stars: 8

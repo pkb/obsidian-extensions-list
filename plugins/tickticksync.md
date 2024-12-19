@@ -2,15 +2,15 @@
 aliases:
 - TickTickSync
 author:
-- '[[thesamim|thesamim]]'
+- '[[authors/thesamim|thesamim]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
-downloads: 11788
+downloads: 12019
 mobile: true
 number: 1317
-stars: 167
+stars: 169
 title: TickTickSync
 type: plugin
 updated: '2024-12-03T23:14:50'

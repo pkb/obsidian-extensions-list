@@ -2,10 +2,10 @@
 aliases:
 - BackItUp
 author:
-- '[[hammadxp|Hammad Javed]]'
+- '[[authors/hammadxp|Hammad Javed]]'
 categories: []
 description: Quickly make a copy or snapshot of a note.
-downloads: 814
+downloads: 821
 mobile: true
 number: 1546
 stars: 4

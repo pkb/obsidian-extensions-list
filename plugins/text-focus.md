@@ -2,10 +2,10 @@
 aliases:
 - Text Focus
 author:
-- '[[usysrc|usysrc]]'
+- '[[authors/usysrc|usysrc]]'
 categories: []
 description: Focus the text area when creating new notes.
-downloads: 1158
+downloads: 1170
 mobile: true
 number: 1481
 stars: 4

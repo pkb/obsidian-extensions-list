@@ -2,13 +2,13 @@
 aliases:
 - Mesh AI
 author:
-- '[[chasebank87|Chasebank87]]'
+- '[[authors/chasebank87|Chasebank87]]'
 categories: []
 description: Mesh AI prompt manager and gererator
-downloads: 3489
+downloads: 3591
 mobile: true
 number: 1888
-stars: 77
+stars: 79
 title: Mesh AI
 type: plugin
 updated: '2024-10-31T01:55:09'

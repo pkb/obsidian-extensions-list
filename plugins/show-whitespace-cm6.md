@@ -2,14 +2,14 @@
 aliases:
 - Show Whitespace
 author:
-- '[[ebullient|ebullient]]'
+- '[[authors/ebullient|ebullient]]'
 categories: []
 description: CSS styles and CM6 extensions to highlight whitespace in Source and Live
   Preview modes.
-downloads: 5940
+downloads: 6128
 mobile: true
 number: 1310
-stars: 17
+stars: 18
 title: Show Whitespace
 type: plugin
 updated: '2024-12-10T08:10:25'

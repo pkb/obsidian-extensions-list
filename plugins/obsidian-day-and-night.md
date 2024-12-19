@@ -2,11 +2,11 @@
 aliases:
 - Day and Night
 author:
-- '[[CyberT17|Kevin Patel]]'
+- '[[authors/CyberT17|Kevin Patel]]'
 categories: []
 description: An Obsidian plugin to automatically toggle themes between day theme and
   night theme on a set time schedule.
-downloads: 7322
+downloads: 7342
 mobile: false
 number: 601
 stars: 14

@@ -2,10 +2,10 @@
 aliases:
 - Vault Transfer
 author:
-- '[[ImaginaryProgramming|ImaginaryProgramming]]'
+- '[[authors/ImaginaryProgramming|ImaginaryProgramming]]'
 categories: []
 description: Copies a note, and pastes it into another vault.
-downloads: 1892
+downloads: 1916
 mobile: false
 number: 1496
 stars: 29

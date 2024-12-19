@@ -2,11 +2,11 @@
 aliases:
 - Remotely Save
 author:
-- '[[remotely-save|fyears]]'
+- '[[authors/remotely-save|fyears]]'
 categories: '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Yet another unofficial plugin allowing users to synchronize notes between
   local device and the cloud service.
-downloads: 934234
+downloads: 946518
 mobile: true
 number: 362
 stars: 4500

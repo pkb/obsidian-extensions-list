@@ -2,12 +2,12 @@
 aliases:
 - Advanced Random Note
 author:
-- '[[karstenpedersen|Karsten Finderup Pedersen]]'
+- '[[authors/karstenpedersen|Karsten Finderup Pedersen]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Open random notes with custom queries in languages like Dataview and
   Regex.
-downloads: 5727
+downloads: 5772
 mobile: true
 number: 995
 stars: 15

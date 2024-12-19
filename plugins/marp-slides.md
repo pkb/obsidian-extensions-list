@@ -2,13 +2,13 @@
 aliases:
 - Marp Slides
 author:
-- '[[samuele-cozzi|Samuele Cozzi]]'
+- '[[authors/samuele-cozzi|Samuele Cozzi]]'
 categories: []
 description: Create markdown-based Marp presentations in Obsidian
-downloads: 18272
+downloads: 18473
 mobile: true
 number: 879
-stars: 89
+stars: 90
 title: Marp Slides
 type: plugin
 updated: '2024-05-09T03:25:42'

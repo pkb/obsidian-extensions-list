@@ -2,10 +2,10 @@
 aliases:
 - Daily Summary
 author:
-- '[[CSLukkun|Luke]]'
+- '[[authors/CSLukkun|Luke]]'
 categories: []
 description: Auto generate daily summary
-downloads: 205
+downloads: 237
 mobile: true
 number: 2008
 stars: 7

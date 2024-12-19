@@ -2,10 +2,10 @@
 aliases:
 - Local LLM Helper
 author:
-- '[[manimohans|Mani Mohan]]'
+- '[[authors/manimohans|Mani Mohan]]'
 categories: []
 description: Use your own secure local LLM server to work with your text!
-downloads: 1727
+downloads: 1760
 mobile: true
 number: 1631
 stars: 18

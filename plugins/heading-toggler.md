@@ -2,10 +2,10 @@
 aliases:
 - Heading Toggler
 author:
-- '[[Lord-Turmoil|Lord Turmoil]]'
+- '[[authors/Lord-Turmoil|Lord Turmoil]]'
 categories: []
 description: Easily toggle heading levels in Markdown documents with shortcuts.
-downloads: 223
+downloads: 228
 mobile: true
 number: 1811
 stars: 1

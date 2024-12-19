@@ -2,11 +2,11 @@
 aliases:
 - Micro templates
 author:
-- '[[epszaw|Konstantin Epishev]]'
+- '[[authors/epszaw|Konstantin Epishev]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Flexible embedded micro templates powered by javascript functions
-downloads: 3535
+downloads: 3538
 mobile: true
 number: 1034
 stars: 7

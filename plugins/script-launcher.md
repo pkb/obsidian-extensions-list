@@ -2,11 +2,11 @@
 aliases:
 - Script Launcher
 author:
-- '[[AlessandroRuggiero|Alessandro Ruggiero]]'
+- '[[authors/AlessandroRuggiero|Alessandro Ruggiero]]'
 categories: []
 description: This pulgin allows you to launch scripts from the Obsidian app. You can
   add scripts shortcuts on your bottom bar and launch them with just one click!
-downloads: 7974
+downloads: 7984
 mobile: false
 number: 599
 stars: 24

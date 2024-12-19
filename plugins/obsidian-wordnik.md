@@ -2,11 +2,11 @@
 aliases:
 - Wordnik Definitions
 author:
-- '[[lizard-heart|Henry Gustafson]]'
+- '[[authors/lizard-heart|Henry Gustafson]]'
 categories: []
 description: Grabs information from Wordnik for a topic and brings it into Obsidian
   notes
-downloads: 3816
+downloads: 3819
 mobile: true
 number: 485
 stars: 10

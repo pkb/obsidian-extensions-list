@@ -2,11 +2,11 @@
 aliases:
 - Obsidian Graphviz
 author:
-- '[[QAMichaelPeng|Feng Peng]]'
+- '[[authors/QAMichaelPeng|Feng Peng]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Graphviz Diagrams
-downloads: 11285
+downloads: 11360
 mobile: false
 number: 381
 stars: 80

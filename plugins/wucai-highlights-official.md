@@ -2,10 +2,10 @@
 aliases:
 - WuCai highlights Official
 author:
-- '[[makediff|希果壳五彩]]'
+- '[[authors/makediff|希果壳五彩]]'
 categories: []
 description: Official WuCai highlights <-> Obsidian integration
-downloads: 14060
+downloads: 14134
 mobile: true
 number: 870
 stars: 12

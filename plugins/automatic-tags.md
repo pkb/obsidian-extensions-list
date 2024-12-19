@@ -2,15 +2,15 @@
 aliases:
 - Automatic Tags
 author:
-- '[[Jamalam360|Jamalam]]'
+- '[[authors/Jamalam360|Jamalam]]'
 categories:
 - '[[categories/Automation|Automation]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Add tags to new notes automatically based on their path.
-downloads: 4025
+downloads: 4051
 mobile: true
 number: 1260
-stars: 18
+stars: 20
 title: Automatic Tags
 type: plugin
 updated: '2024-04-14T17:35:50'

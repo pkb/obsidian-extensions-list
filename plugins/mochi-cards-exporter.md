@@ -2,11 +2,11 @@
 aliases:
 - Mochi Cards Exporter
 author:
-- '[[kalbetredev|Kalkidan Betre]]'
+- '[[authors/kalbetredev|Kalkidan Betre]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export Markdown notes to Mochi cards from within obsidian
-downloads: 4885
+downloads: 4890
 mobile: false
 number: 109
 stars: 31

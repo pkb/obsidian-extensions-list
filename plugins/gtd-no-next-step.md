@@ -2,11 +2,11 @@
 aliases:
 - GTD No Next Step
 author:
-- '[[saibotsivad|saibotsivad]]'
+- '[[authors/saibotsivad|saibotsivad]]'
 categories: []
 description: Adds a badge to Getting Things Done (GTD) "project" files with no defined
   next step.
-downloads: 3935
+downloads: 3943
 mobile: true
 number: 1055
 stars: 12

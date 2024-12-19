@@ -2,10 +2,10 @@
 aliases:
 - CSS Editor
 author:
-- '[[Zachatoo|Zachatoo]]'
+- '[[authors/Zachatoo|Zachatoo]]'
 categories: []
 description: Edit CSS files within Obsidian.
-downloads: 14946
+downloads: 15180
 mobile: true
 number: 1019
 stars: 61

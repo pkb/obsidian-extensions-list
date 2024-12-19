@@ -2,15 +2,15 @@
 aliases:
 - Journaling
 author:
-- '[[Ordeeper|Ordeeper]]'
+- '[[authors/Ordeeper|Ordeeper]]'
 categories: []
 description: View daily notes in a journal-like format, similar to Logseq. It enhances
   note organization and facilitates better reflection by consolidating daily notes
   into a continuous journaling view.
-downloads: 1309
+downloads: 1401
 mobile: true
 number: 1890
-stars: 34
+stars: 35
 title: Journaling
 type: plugin
 updated: '2024-08-26T18:31:30'

@@ -2,11 +2,11 @@
 aliases:
 - Chord Lyrics
 author:
-- '[[nevernotmove|nevernotmove]]'
+- '[[authors/nevernotmove|nevernotmove]]'
 categories: []
 description: Display chord names over lyrics. Supports line wrapping, section headers,
   auto-detection of lines and custom colors.
-downloads: 4836
+downloads: 4852
 mobile: true
 number: 711
 stars: 48

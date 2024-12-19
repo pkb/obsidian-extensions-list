@@ -2,11 +2,11 @@
 aliases:
 - MBlog Publish
 author:
-- '[[kingwrcy|Jerry]]'
+- '[[authors/kingwrcy|Jerry]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: 发布文章到MBlog平台,目前支持单篇文章发布
-downloads: 868
+downloads: 873
 mobile: true
 number: 1480
 stars: 4

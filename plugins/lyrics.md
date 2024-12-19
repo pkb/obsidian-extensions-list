@@ -2,10 +2,10 @@
 aliases:
 - Lyrics
 author:
-- '[[eatgrass|eatgrass]]'
+- '[[authors/eatgrass|eatgrass]]'
 categories: []
 description: Enhance the audio player with interacive lyrics
-downloads: 2658
+downloads: 2681
 mobile: true
 number: 1309
 stars: 23

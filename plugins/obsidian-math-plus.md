@@ -2,10 +2,10 @@
 aliases:
 - Math+
 author:
-- '[[ocapraro|Oscar Capraro]]'
+- '[[authors/ocapraro|Oscar Capraro]]'
 categories: []
 description: This is an Obsidian plugin for taking math notes using Excalidraw.
-downloads: 33561
+downloads: 33757
 mobile: true
 number: 500
 stars: 91

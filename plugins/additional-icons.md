@@ -2,11 +2,11 @@
 aliases:
 - Additional Icons
 author:
-- '[[matthewturk|Matthew Turk]]'
+- '[[authors/matthewturk|Matthew Turk]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Adds additional iconsets to Obsidian
-downloads: 2788
+downloads: 2818
 mobile: true
 number: 1358
 stars: 5

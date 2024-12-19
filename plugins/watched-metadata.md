@@ -2,11 +2,11 @@
 aliases:
 - Watched-Metadata
 author:
-- '[[NailAhmed|Nail Ahmed]]'
+- '[[authors/NailAhmed|Nail Ahmed]]'
 categories: []
 description: Watches for changes in metadata and performs user-specified actions based
   on these changes.
-downloads: 191
+downloads: 194
 mobile: true
 number: 1723
 stars: 6

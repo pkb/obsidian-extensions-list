@@ -2,14 +2,14 @@
 aliases:
 - Kindle Highlights
 author:
-- '[[hadynz|Hady Osman]]'
+- '[[authors/hadynz|Hady Osman]]'
 categories: []
 description: Sync your Kindle book highlights using your Amazon login or uploading
   your My Clippings file
-downloads: 103089
+downloads: 103525
 mobile: false
 number: 161
-stars: 972
+stars: 976
 title: Kindle Highlights
 type: plugin
 updated: '2023-04-03T05:21:08'

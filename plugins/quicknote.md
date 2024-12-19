@@ -2,11 +2,11 @@
 aliases:
 - Quick note
 author:
-- '[[jamesgreenblue|James Greenhalgh CITP MBCS]]'
+- '[[authors/jamesgreenblue|James Greenhalgh CITP MBCS]]'
 categories: []
 description: Create a quick note in a floating window (on command or by right-clicking
   the Obsidian app icon)
-downloads: 3905
+downloads: 3918
 mobile: false
 number: 1080
 stars: 7

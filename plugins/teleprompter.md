@@ -2,10 +2,10 @@
 aliases:
 - Teleprompter
 author:
-- '[[lumetrium|Lumetrium]]'
+- '[[authors/lumetrium|Lumetrium]]'
 categories: []
 description: Teleprompter window for live presentations and video production.
-downloads: 4763
+downloads: 4792
 mobile: true
 number: 1243
 stars: 54

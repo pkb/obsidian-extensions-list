@@ -2,13 +2,13 @@
 aliases:
 - Auto Filename
 author:
-- '[[rcsaquino|rcsaquino]]'
+- '[[authors/rcsaquino|rcsaquino]]'
 categories:
 - '[[categories/Automation|Automation]]'
 - '[[categories/File management|File management]]'
 description: Automatically rename files on the go based on the first x characters
   of files.
-downloads: 4039
+downloads: 4072
 mobile: true
 number: 1217
 stars: 14

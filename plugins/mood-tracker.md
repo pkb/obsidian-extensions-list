@@ -2,14 +2,14 @@
 aliases:
 - Mood Tracker
 author:
-- '[[dartungar|dartungar]]'
+- '[[authors/dartungar|dartungar]]'
 categories: []
 description: Track your moods & emotions easily. Visualize tracked history and browse
   the past entries.
-downloads: 13043
+downloads: 13166
 mobile: true
 number: 935
-stars: 89
+stars: 90
 title: Mood Tracker
 type: plugin
 updated: '2024-07-21T20:23:53'

@@ -2,11 +2,11 @@
 aliases:
 - Blur Mode
 author:
-- '[[dangehub|dangehub]]'
+- '[[authors/dangehub|dangehub]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Blur anything you want to keep your privacy.
-downloads: 103
+downloads: 122
 mobile: true
 number: 2030
 stars: 4

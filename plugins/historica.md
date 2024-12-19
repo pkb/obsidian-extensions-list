@@ -2,13 +2,13 @@
 aliases:
 - historica
 author:
-- '[[nhannht|Nhan Nguyen]]'
+- '[[authors/nhannht|Nhan Nguyen]]'
 categories: []
 description: Intelligently generates timeline from your content ... like a bro!
-downloads: 3443
+downloads: 3468
 mobile: false
 number: 1484
-stars: 35
+stars: 36
 title: historica
 type: plugin
 updated: '2024-11-21T10:21:51'

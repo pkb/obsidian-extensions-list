@@ -2,10 +2,10 @@
 aliases:
 - Jelly Snippets
 author:
-- '[[rabirabirara|Spencer Gouw]]'
+- '[[authors/rabirabirara|Spencer Gouw]]'
 categories: []
 description: A simple plugin for text snippets, with auto replacement
-downloads: 5263
+downloads: 5272
 mobile: true
 number: 845
 stars: 24

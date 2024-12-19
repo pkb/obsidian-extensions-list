@@ -2,10 +2,10 @@
 aliases:
 - Wielder
 author:
-- '[[victorb|Victor Bjelkholm]]'
+- '[[authors/victorb|Victor Bjelkholm]]'
 categories: []
 description: Clojure inside Obsidian
-downloads: 3620
+downloads: 3623
 mobile: true
 number: 547
 stars: 95

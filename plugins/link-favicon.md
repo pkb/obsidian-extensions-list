@@ -2,10 +2,10 @@
 aliases:
 - Link Favicons
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: 'See the favicon for a linked website. '
-downloads: 40908
+downloads: 41222
 mobile: true
 number: 373
 stars: 93

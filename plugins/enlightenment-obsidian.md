@@ -2,12 +2,12 @@
 aliases:
 - Enlightenment ✨
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Pay attention to what you're paying attention to. Enlightenment adds
   a 'zen mode' for Preview, hiding the contents of your notes except for what's underneath
   your pointer.
-downloads: 5150
+downloads: 5165
 mobile: true
 number: 515
 stars: 24

@@ -2,10 +2,10 @@
 aliases:
 - Dynbedded
 author:
-- '[[MMoMM-org|Marcus Breiden <marcus@mmomm.org>]]'
+- '[[authors/MMoMM-org|Marcus Breiden <marcus@mmomm.org>]]'
 categories: []
 description: Dynamic Embeds for Obsidian.md
-downloads: 4373
+downloads: 4382
 mobile: true
 number: 668
 stars: 27

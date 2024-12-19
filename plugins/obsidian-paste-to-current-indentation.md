@@ -2,10 +2,10 @@
 aliases:
 - Paste Mode
 author:
-- '[[jglev|Jacob Levernier]]'
+- '[[authors/jglev|Jacob Levernier]]'
 categories: []
 description: Paste content and mark block quotes at any level of indentation.
-downloads: 14852
+downloads: 14892
 mobile: true
 number: 228
 stars: 49

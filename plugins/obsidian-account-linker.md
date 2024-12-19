@@ -2,13 +2,13 @@
 aliases:
 - Account Linker
 author:
-- '[[qwegat|qwegat]]'
+- '[[authors/qwegat|qwegat]]'
 categories: []
 description: Plugin for describing external service accounts in the front matter
-downloads: 4160
+downloads: 4167
 mobile: true
 number: 642
-stars: 25
+stars: 24
 title: Account Linker
 type: plugin
 updated: '2022-08-11T17:51:39'

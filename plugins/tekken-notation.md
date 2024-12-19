@@ -2,13 +2,13 @@
 aliases:
 - Tekken Notation
 author:
-- '[[OpTi9|OpTi9]]'
+- '[[authors/OpTi9|OpTi9]]'
 categories: []
 description: Renders Tekken Notation.
-downloads: 1136
+downloads: 1142
 mobile: true
 number: 1486
-stars: 14
+stars: 15
 title: Tekken Notation
 type: plugin
 updated: '2024-02-29T17:22:43'

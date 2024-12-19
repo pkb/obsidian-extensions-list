@@ -2,17 +2,17 @@
 aliases:
 - Bible Reference
 author:
-- '[[tim-hub|tim-hub]]'
+- '[[authors/tim-hub|tim-hub]]'
 categories: []
 description: 'Taking Bible Study note in Obsidian.md application easily. Automatically
   suggesting Bible Verses as references. '
-downloads: 35239
+downloads: 35611
 mobile: true
 number: 349
 stars: 241
 title: Bible Reference
 type: plugin
-updated: '2024-12-09T03:02:18'
+updated: '2024-12-14T06:03:48'
 url: https://github.com/tim-hub/obsidian-bible-reference
 version: 2024.12.09
 ---

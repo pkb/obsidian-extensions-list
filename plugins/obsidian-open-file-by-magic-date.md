@@ -2,12 +2,12 @@
 aliases:
 - Open File by Magic Date
 author:
-- '[[SimplGy|simplgy]]'
+- '[[authors/SimplGy|simplgy]]'
 categories: []
 description: 'Define a Moment.js date pattern that specifies the file that is most
   important to you (eg: your daily/weekly/monthly note). Will create the file if it
   doesn''t exist.'
-downloads: 3971
+downloads: 3976
 mobile: true
 number: 582
 stars: 10

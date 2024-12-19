@@ -2,10 +2,10 @@
 aliases:
 - Toggle RTL mode
 author:
-- '[[YoniA|Yoni Asulin]]'
+- '[[authors/YoniA|Yoni Asulin]]'
 categories: []
 description: Toggle RTL mode using command or ribbon action
-downloads: 254
+downloads: 260
 mobile: true
 number: 1660
 stars: 0

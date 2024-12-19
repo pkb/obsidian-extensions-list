@@ -2,10 +2,10 @@
 aliases:
 - Paste transform
 author:
-- '[[rekby|Timofey Koolin]]'
+- '[[authors/rekby|Timofey Koolin]]'
 categories: []
 description: Handle pasted text and and transform it by regexp rules.
-downloads: 1253
+downloads: 1263
 mobile: true
 number: 1433
 stars: 5

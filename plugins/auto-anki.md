@@ -2,15 +2,15 @@
 aliases:
 - Auto Anki
 author:
-- '[[ad2969|ad2969]]'
+- '[[authors/ad2969|ad2969]]'
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 - '[[categories/AI assistance|AI assistance]]'
 description: Using GPT to automate card creation for Spaced Repetiton in Anki
-downloads: 4745
+downloads: 4761
 mobile: false
 number: 955
-stars: 41
+stars: 43
 title: Auto Anki
 type: plugin
 updated: '2024-01-14T15:41:24'

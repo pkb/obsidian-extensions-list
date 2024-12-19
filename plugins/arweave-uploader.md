@@ -2,11 +2,11 @@
 aliases:
 - Arweave Uploader
 author:
-- '[[konfuzz|makesimple]]'
+- '[[authors/konfuzz|makesimple]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Convert your notes to HTML and upload to Arweave
-downloads: 41
+downloads: 44
 mobile: true
 number: 1982
 stars: 0

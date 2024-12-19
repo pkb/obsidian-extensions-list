@@ -2,12 +2,12 @@
 aliases:
 - Text Format
 author:
-- '[[Benature|Benature]]'
+- '[[authors/Benature|Benature]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format text such as lowercase/uppercase/capitalize/titlecase, converting
   order/bullet list, removing redundant spaces/newline characters.
-downloads: 152506
+downloads: 153358
 mobile: true
 number: 202
 stars: 194

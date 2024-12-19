@@ -2,11 +2,11 @@
 aliases:
 - Telegraph Publish
 author:
-- '[[reorx|Reorx]]'
+- '[[authors/reorx|Reorx]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: ''
-downloads: 4610
+downloads: 4623
 mobile: true
 number: 474
 stars: 43

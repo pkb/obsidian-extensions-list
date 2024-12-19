@@ -2,10 +2,10 @@
 aliases:
 - Note Linker with Previewer
 author:
-- '[[nickrallison|Nick Allison]]'
+- '[[authors/nickrallison|Nick Allison]]'
 categories: []
 description: Link your notes together
-downloads: 567
+downloads: 576
 mobile: true
 number: 1807
 stars: 4

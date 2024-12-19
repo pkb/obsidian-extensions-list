@@ -2,7 +2,7 @@
 aliases:
 - Window Collapse
 author:
-- '[[gquental|Guilherme Quental]]'
+- '[[authors/gquental|Guilherme Quental]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: This plugins provides an easy way to collapse the sidebars without going

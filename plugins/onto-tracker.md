@@ -2,10 +2,10 @@
 aliases:
 - Onto Tracker
 author:
-- '[[jdchart|Jacob Hart]]'
+- '[[authors/jdchart|Jacob Hart]]'
 categories: []
 description: Manage projects according to an ontology.
-downloads: 80
+downloads: 86
 mobile: false
 number: 1889
 stars: 1

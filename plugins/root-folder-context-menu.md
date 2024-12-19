@@ -2,10 +2,10 @@
 aliases:
 - Root Folder Context Menu
 author:
-- '[[mnaoumov|mnaoumov]]'
+- '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Enables context menu for vault root folder
-downloads: 1939
+downloads: 1964
 mobile: true
 number: 1386
 stars: 2

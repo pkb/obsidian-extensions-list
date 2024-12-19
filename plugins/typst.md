@@ -2,13 +2,13 @@
 aliases:
 - Typst Renderer
 author:
-- '[[fenjalien|fenjalien]]'
+- '[[authors/fenjalien|fenjalien]]'
 categories: []
 description: Renders `typst` code blocks and math blocks with Typst.
-downloads: 7227
+downloads: 7285
 mobile: true
 number: 981
-stars: 359
+stars: 362
 title: Typst Renderer
 type: plugin
 updated: '2024-03-19T07:31:23'

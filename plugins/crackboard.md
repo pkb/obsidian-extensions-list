@@ -2,10 +2,10 @@
 aliases:
 - Crackboard
 author:
-- '[[bruce-pain|Franklin]]'
+- '[[authors/bruce-pain|Franklin]]'
 categories: []
 description: tpot leaderboard productivity tracker
-downloads: 51
+downloads: 55
 mobile: true
 number: 1937
 stars: 2

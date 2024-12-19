@@ -2,10 +2,10 @@
 aliases:
 - Game Search
 author:
-- '[[CMorooney|Calvin forked from anpigon]]'
+- '[[authors/CMorooney|Calvin forked from anpigon]]'
 categories: []
 description: Helps you find games and create notes. Optional Steam Library Sync
-downloads: 6497
+downloads: 6533
 mobile: true
 number: 915
 stars: 36

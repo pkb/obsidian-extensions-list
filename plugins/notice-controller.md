@@ -2,10 +2,10 @@
 aliases:
 - Notification Controller
 author:
-- '[[juan-miii|Juan Miguel]]'
+- '[[authors/juan-miii|Juan Miguel]]'
 categories: []
 description: Manages notifications at startup.
-downloads: 1238
+downloads: 1244
 mobile: true
 number: 1499
 stars: 1

@@ -2,13 +2,13 @@
 aliases:
 - Podcast Note
 author:
-- '[[marcjulianschwarz|Marc Julian Schwarz]]'
+- '[[authors/marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: Podcast Note lets you automatically add podcast information to your notes.
-downloads: 8202
+downloads: 8208
 mobile: true
 number: 285
-stars: 71
+stars: 72
 title: Podcast Note
 type: plugin
 updated: '2022-06-29T19:21:41'

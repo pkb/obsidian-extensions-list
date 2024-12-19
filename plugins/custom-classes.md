@@ -2,11 +2,11 @@
 aliases:
 - Custom Classes
 author:
-- '[[LilaRest|Lila Rest <mail@lila.rest>]]'
+- '[[authors/LilaRest|Lila Rest <mail@lila.rest>]]'
 categories: []
 description: Custom Classes is a minimalist plugin that allows you to add custom HTML
   classes to markdown blocks
-downloads: 6279
+downloads: 6306
 mobile: true
 number: 790
 stars: 80

@@ -2,13 +2,13 @@
 aliases:
 - Tab Navigator
 author:
-- '[[o02c|o02c]]'
+- '[[authors/o02c|o02c]]'
 categories: []
 description: Simple Tab Switcher, search open tabs.
-downloads: 3084
+downloads: 3129
 mobile: false
 number: 1626
-stars: 5
+stars: 6
 title: Tab Navigator
 type: plugin
 updated: '2024-09-15T14:13:41'

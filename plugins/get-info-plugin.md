@@ -2,11 +2,11 @@
 aliases:
 - Get Info
 author:
-- '[[chetachiezikeuzor|Chetachi]]'
+- '[[authors/chetachiezikeuzor|Chetachi]]'
 categories: []
 description: "Get Info is a plugin that tucks a menu inside your status bar and shows
   helpful information for your chosen file \U0001F4C4."
-downloads: 6175
+downloads: 6180
 mobile: false
 number: 374
 stars: 34

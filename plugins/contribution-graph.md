@@ -2,13 +2,13 @@
 aliases:
 - Contribution Graph
 author:
-- '[[vran-dev|vran]]'
+- '[[authors/vran-dev|vran]]'
 categories: []
 description: Generate a interactive heatmap graph to visualize and track your productivity
-downloads: 18291
+downloads: 18708
 mobile: true
 number: 1399
-stars: 259
+stars: 262
 title: Contribution Graph
 type: plugin
 updated: '2024-09-12T20:49:24'

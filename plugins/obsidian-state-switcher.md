@@ -2,10 +2,10 @@
 aliases:
 - Yaml Manager
 author:
-- '[[lijyze|Lijyze]]'
+- '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Keep you away from directly operating of yaml front matter
-downloads: 9389
+downloads: 9420
 mobile: true
 number: 526
 stars: 43

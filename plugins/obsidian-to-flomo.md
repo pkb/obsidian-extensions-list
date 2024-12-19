@@ -2,11 +2,11 @@
 aliases:
 - Share to Flomo
 author:
-- '[[metal-young|Xiaoyu Li]]'
+- '[[authors/metal-young|Xiaoyu Li]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quickly share content to Flomo.
-downloads: 4742
+downloads: 4754
 mobile: true
 number: 651
 stars: 12

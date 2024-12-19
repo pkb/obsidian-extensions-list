@@ -2,10 +2,10 @@
 aliases:
 - Lookalike
 author:
-- '[[jlweston|Jamie Weston]]'
+- '[[authors/jlweston|Jamie Weston]]'
 categories: []
 description: Find similar notes based on the frequency of terms within the vault.
-downloads: 454
+downloads: 463
 mobile: false
 number: 1729
 stars: 15

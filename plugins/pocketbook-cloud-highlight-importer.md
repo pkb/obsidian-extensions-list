@@ -2,12 +2,12 @@
 aliases:
 - Pocketbook Cloud Highlight Importer
 author:
-- '[[lenalebt|Lena Brüder]]'
+- '[[authors/lenalebt|Lena Brüder]]'
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Import|Import]]'
 description: Imports notes and highlights from your Pocketbook Cloud account.
-downloads: 3917
+downloads: 3925
 mobile: true
 number: 896
 stars: 11

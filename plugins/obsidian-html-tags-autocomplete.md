@@ -2,10 +2,10 @@
 aliases:
 - HTML Tags Autocomplete
 author:
-- '[[bicarlsen|Brian Carlsen]]'
+- '[[authors/bicarlsen|Brian Carlsen]]'
 categories: []
 description: Autocomplete HTML tags.
-downloads: 13726
+downloads: 13779
 mobile: true
 number: 331
 stars: 27

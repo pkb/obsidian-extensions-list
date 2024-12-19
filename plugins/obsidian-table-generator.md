@@ -2,14 +2,14 @@
 aliases:
 - Table Generator
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories: []
 description: A plugin for generate markdown table quickly like Typora /card table
   in canvas .
-downloads: 43695
+downloads: 43872
 mobile: true
 number: 610
-stars: 112
+stars: 113
 title: Table Generator
 type: plugin
 updated: '2023-08-25T20:00:33'

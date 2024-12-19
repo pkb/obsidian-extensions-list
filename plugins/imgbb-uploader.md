@@ -2,10 +2,10 @@
 aliases:
 - ImgBB Uploader
 author:
-- '[[jordanhandy|Jordan Handy]]'
+- '[[authors/jordanhandy|Jordan Handy]]'
 categories: []
 description: Upload images from your clipboard to ImgBB.
-downloads: 107
+downloads: 112
 mobile: false
 number: 1872
 stars: 2

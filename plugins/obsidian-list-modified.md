@@ -2,11 +2,11 @@
 aliases:
 - List Modified
 author:
-- '[[franciskafieh|Francis Kafieh]]'
+- '[[authors/franciskafieh|Francis Kafieh]]'
 categories: []
 description: The advanced and adaptive changelog. Links all modified files meeting
   certain criteria to a timed (daily, weekly, monthly) note.
-downloads: 10974
+downloads: 11116
 mobile: true
 number: 483
 stars: 114

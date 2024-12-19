@@ -2,10 +2,10 @@
 aliases:
 - Page Gallery
 author:
-- '[[tokenshift|Nathan Clark]]'
+- '[[authors/tokenshift|Nathan Clark]]'
 categories: []
 description: Creates an embeddable gallery based on selected page contents.
-downloads: 11743
+downloads: 11807
 mobile: true
 number: 666
 stars: 70

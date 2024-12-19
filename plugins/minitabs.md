@@ -2,13 +2,13 @@
 aliases:
 - Minitabs
 author:
-- '[[ssjy1919|ssjy1919]]'
+- '[[authors/ssjy1919|ssjy1919]]'
 categories: []
 description: Customize a set of nested tabs through code blocks.
-downloads: 2515
+downloads: 2525
 mobile: true
 number: 1308
-stars: 20
+stars: 21
 title: Minitabs
 type: plugin
 updated: '2023-12-06T18:23:33'

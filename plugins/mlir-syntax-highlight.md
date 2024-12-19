@@ -2,10 +2,10 @@
 aliases:
 - MLIR Syntax Highlight
 author:
-- '[[Lewuathe|Lewuathe]]'
+- '[[authors/Lewuathe|Lewuathe]]'
 categories: []
 description: Show syntax highlighing for MLIR in code blocks the editor
-downloads: 6062
+downloads: 6131
 mobile: true
 number: 1112
 stars: 3

@@ -2,11 +2,11 @@
 aliases:
 - Codeblock Template
 author:
-- '[[sylcool|Super10]]'
+- '[[authors/sylcool|Super10]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Re-use content within codeblocks using variables.
-downloads: 3085
+downloads: 3087
 mobile: true
 number: 1128
 stars: 11

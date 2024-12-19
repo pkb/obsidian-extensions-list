@@ -2,10 +2,10 @@
 aliases:
 - Hidden Folder
 author:
-- '[[ptrsvltns|ptrsvltns]]'
+- '[[authors/ptrsvltns|ptrsvltns]]'
 categories: []
 description: Hidden Folder
-downloads: 6348
+downloads: 6377
 mobile: false
 number: 697
 stars: 17

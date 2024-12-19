@@ -3,15 +3,15 @@ aliases:
 - Smart Second Brain
 author:
 - '[[authors/Leo310|Leo310]]'
-- '[[your-papa|nicobrauchtgit]]'
+- '[[authors/your-papa|nicobrauchtgit]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Interact with your privacy focused assistant, leveraging Ollama or OpenAI,
   making your second brain even smarter.
-downloads: 26750
+downloads: 27392
 mobile: false
 number: 1418
-stars: 666
+stars: 681
 title: Smart Second Brain
 type: plugin
 updated: '2024-05-18T17:45:48'

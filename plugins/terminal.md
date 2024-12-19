@@ -2,13 +2,13 @@
 aliases:
 - Terminal
 author:
-- '[[polyipseity|polyipseity]]'
+- '[[authors/polyipseity|polyipseity]]'
 categories: []
 description: Integrate consoles, shells, and terminals inside Obsidian.
-downloads: 28583
+downloads: 28838
 mobile: true
 number: 749
-stars: 174
+stars: 176
 title: Terminal
 type: plugin
 updated: '2024-06-23T18:11:04'

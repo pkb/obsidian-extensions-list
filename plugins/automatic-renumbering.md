@@ -2,11 +2,11 @@
 aliases:
 - Automatic Renumbering
 author:
-- '[[OmriLeviGit|Omri Levi]]'
+- '[[authors/OmriLeviGit|Omri Levi]]'
 categories: []
 description: Updates numbered lists automatically to keep them in sequential order.
   Offers both live updating and manual control options, and supports nested lists.
-downloads: 413
+downloads: 481
 mobile: false
 number: 2008
 stars: 7

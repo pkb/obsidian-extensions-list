@@ -2,11 +2,11 @@
 aliases:
 - Apple Books Highlights
 author:
-- '[[atfzl|Atif Afzal]]'
+- '[[authors/atfzl|Atif Afzal]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync your Apple Books highlights automatically
-downloads: 5320
+downloads: 5331
 mobile: false
 number: 810
 stars: 44

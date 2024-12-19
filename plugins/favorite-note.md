@@ -2,10 +2,10 @@
 aliases:
 - Favorite Note
 author:
-- '[[mahmudz|mahmudz]]'
+- '[[authors/mahmudz|mahmudz]]'
 categories: []
 description: Mark your note as favorite.
-downloads: 4664
+downloads: 4708
 mobile: true
 number: 1241
 stars: 8

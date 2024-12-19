@@ -2,11 +2,11 @@
 aliases:
 - Daily Stats
 author:
-- '[[dhruvik7|Dhruvik Parikh]]'
+- '[[authors/dhruvik7|Dhruvik Parikh]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track your daily word count across all notes in your vault.
-downloads: 17807
+downloads: 17898
 mobile: true
 number: 101
 stars: 98

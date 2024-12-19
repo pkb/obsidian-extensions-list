@@ -2,13 +2,13 @@
 aliases:
 - Typewriter Scroll
 author:
-- '[[deathau|death_au]]'
+- '[[authors/deathau|death_au]]'
 categories: []
 description: Typewriter-style scrolling which keeps the view centered in the editor.
-downloads: 74778
+downloads: 75147
 mobile: true
 number: 41
-stars: 172
+stars: 174
 title: Typewriter Scroll
 type: plugin
 updated: '2022-04-14T09:50:47'

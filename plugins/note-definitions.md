@@ -2,13 +2,13 @@
 aliases:
 - Note Definitions
 author:
-- '[[dominiclet|Dominic Let]]'
+- '[[authors/dominiclet|Dominic Let]]'
 categories: []
 description: Personal dictionary for your notes
-downloads: 8215
+downloads: 8362
 mobile: true
 number: 1669
-stars: 114
+stars: 116
 title: Note Definitions
 type: plugin
 updated: '2024-11-23T18:30:12'

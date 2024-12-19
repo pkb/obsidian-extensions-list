@@ -2,11 +2,11 @@
 aliases:
 - Initiative Tracker
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories:
 - '[[categories/Games|Games]]'
 description: TTRPG Initiative Tracker for Obsidian.md
-downloads: 91707
+downloads: 92277
 mobile: true
 number: 221
 stars: 149

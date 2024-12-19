@@ -2,11 +2,11 @@
 aliases:
 - vConsole
 author:
-- '[[zhouhua|Zhou Hua]]'
+- '[[authors/zhouhua|Zhou Hua]]'
 categories: []
 description: Integrate vConsole for developers to facilitate the debugging of mobile
   plugins.
-downloads: 1192
+downloads: 1249
 mobile: true
 number: 1576
 stars: 18

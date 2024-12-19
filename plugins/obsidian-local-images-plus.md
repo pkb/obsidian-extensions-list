@@ -4,16 +4,16 @@ aliases:
 author:
 - '[[authors/catalysm|catalysm]]'
 - '[[authors/aleksey-rezvov|aleksey-rezvov]]'
-- '[[Sergei-Korneev|Sergei Korneev]]'
+- '[[authors/Sergei-Korneev|Sergei Korneev]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Local Images Plus plugin searches for all external media links in your
   notes, downloads and saves them locally and adjusts the links in your notes to point
   to the saved files.
-downloads: 52862
+downloads: 53431
 mobile: false
 number: 731
-stars: 270
+stars: 274
 title: Local Images Plus
 type: plugin
 updated: '2023-10-27T17:35:46'

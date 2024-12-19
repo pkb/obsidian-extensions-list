@@ -2,11 +2,11 @@
 aliases:
 - Global Proxy
 author:
-- '[[windingblack|windingblack]]'
+- '[[authors/windingblack|windingblack]]'
 categories: []
 description: Use network proxy throughout Obsidian according to the rules configured
   in this plugin.
-downloads: 6191
+downloads: 6286
 mobile: false
 number: 1331
 stars: 76

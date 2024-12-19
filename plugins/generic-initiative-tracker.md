@@ -2,11 +2,11 @@
 aliases:
 - Generic Initiative Tracker
 author:
-- '[[beaushinkle|Beau Shinkle]]'
+- '[[authors/beaushinkle|Beau Shinkle]]'
 categories:
 - '[[categories/Games|Games]]'
 description: TTRPG Generic Initiative Tracker for Obsidian.md
-downloads: 6427
+downloads: 6448
 mobile: true
 number: 368
 stars: 13

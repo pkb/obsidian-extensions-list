@@ -2,10 +2,10 @@
 aliases:
 - Remove Unused Block IDs
 author:
-- '[[isdmg|Daniel Geneta]]'
+- '[[authors/isdmg|Daniel Geneta]]'
 categories: []
 description: Remove unused block ids in your vault.
-downloads: 192
+downloads: 196
 mobile: true
 number: 1910
 stars: 2

@@ -2,12 +2,12 @@
 aliases:
 - Simple Image Inserter
 author:
-- '[[jdholtz|jdholtz]]'
+- '[[authors/jdholtz|jdholtz]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Add images from the file system into Obsidian notes through a built-in
   file explorer.
-downloads: 1698
+downloads: 1716
 mobile: false
 number: 1443
 stars: 4

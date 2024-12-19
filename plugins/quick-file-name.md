@@ -2,10 +2,10 @@
 aliases:
 - Quick File Name
 author:
-- '[[Wapply|Wapply]]'
+- '[[authors/Wapply|Wapply]]'
 categories: []
 description: Generates a note with a random string as its name.
-downloads: 826
+downloads: 841
 mobile: true
 number: 1542
 stars: 6

@@ -2,10 +2,10 @@
 aliases:
 - Prominent Bookmarked Files
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Prominently display bookmarked notes in the file explorer
-downloads: 9270
+downloads: 9300
 mobile: true
 number: 299
 stars: 26

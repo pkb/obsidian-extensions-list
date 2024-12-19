@@ -2,13 +2,13 @@
 aliases:
 - URL Display
 author:
-- '[[lin-stephanie|Stephanie Lin]]'
+- '[[authors/lin-stephanie|Stephanie Lin]]'
 categories: []
 description: Extract and display external URLs of the note in Obsidian.
-downloads: 4178
+downloads: 4192
 mobile: true
 number: 1145
-stars: 11
+stars: 12
 title: URL Display
 type: plugin
 updated: '2023-12-04T14:31:41'

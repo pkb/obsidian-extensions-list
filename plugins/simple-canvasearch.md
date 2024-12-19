@@ -2,16 +2,16 @@
 aliases:
 - Simple CanvaSearch
 author:
-- '[[ddalexb|ddalexb]]'
+- '[[authors/ddalexb|ddalexb]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 - '[[categories/Canvas|Canvas]]'
 description: Quickly fuzzy-search and shift focus to notes or cards within the currently
   opened canvas.
-downloads: 77752
+downloads: 81029
 mobile: false
 number: 1028
-stars: 22
+stars: 23
 title: Simple CanvaSearch
 type: plugin
 updated: '2024-06-25T22:05:39'

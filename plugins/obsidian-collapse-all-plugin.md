@@ -2,10 +2,10 @@
 aliases:
 - Collapse All
 author:
-- '[[nathonius|Nathonius]]'
+- '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Extends collapse/expand all with commands that can be bound to hotkeys.
-downloads: 54675
+downloads: 54794
 mobile: true
 number: 187
 stars: 92

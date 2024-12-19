@@ -2,10 +2,10 @@
 aliases:
 - Tokei
 author:
-- '[[ms3056|HiroMike]]'
+- '[[authors/ms3056|HiroMike]]'
 categories: []
 description: A simple clock.
-downloads: 4007
+downloads: 4023
 mobile: true
 number: 1127
 stars: 13

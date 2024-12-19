@@ -2,11 +2,11 @@
 aliases:
 - Journal Folder
 author:
-- '[[chfourie|Charl Fourie]]'
+- '[[authors/chfourie|Charl Fourie]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Utilities for folder-based journaling
-downloads: 1268
+downloads: 1288
 mobile: true
 number: 1796
 stars: 18

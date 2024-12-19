@@ -2,11 +2,11 @@
 aliases:
 - New Tab +
 author:
-- '[[Raphlette|Raphaël Le Carval]]'
+- '[[authors/Raphlette|Raphaël Le Carval]]'
 categories: []
 description: Allow to open markdown files, graph and canvas in new tab as the default
   behavior.
-downloads: 3265
+downloads: 3352
 mobile: false
 number: 1545
 stars: 21

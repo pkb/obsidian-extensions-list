@@ -2,11 +2,11 @@
 aliases:
 - Natural Language Syntax Highlighting
 author:
-- '[[artisticat1|artisticat]]'
+- '[[authors/artisticat1|artisticat]]'
 categories: []
 description: Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the
   editor
-downloads: 11703
+downloads: 11991
 mobile: true
 number: 839
 stars: 104

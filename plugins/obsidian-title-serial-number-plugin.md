@@ -2,10 +2,10 @@
 aliases:
 - Title Serial Number Plugin
 author:
-- '[[yalvhe2009|Domenic]]'
+- '[[authors/yalvhe2009|Domenic]]'
 categories: []
 description: This plugin adds serial numbers to your markdown title.
-downloads: 6282
+downloads: 6290
 mobile: true
 number: 366
 stars: 17

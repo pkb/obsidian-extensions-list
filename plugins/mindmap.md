@@ -2,14 +2,14 @@
 aliases:
 - Mindmap
 author:
-- '[[OneCalmCloud|YunXiaoYi]]'
+- '[[authors/OneCalmCloud|YunXiaoYi]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Create notes with Mindmaps.
-downloads: 4976
+downloads: 5115
 mobile: true
 number: 1598
-stars: 8
+stars: 9
 title: Mindmap
 type: plugin
 updated: '2024-04-15T19:43:14'

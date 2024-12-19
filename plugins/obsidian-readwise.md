@@ -2,12 +2,12 @@
 aliases:
 - Readwise Community
 author:
-- '[[renehernandez|Rene Hernandez]]'
+- '[[authors/renehernandez|Rene Hernandez]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Sync Readwise highlights into your notes
-downloads: 8806
+downloads: 8814
 mobile: true
 number: 153
 stars: 110

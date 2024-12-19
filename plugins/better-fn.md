@@ -2,10 +2,10 @@
 aliases:
 - Better footnote
 author:
-- '[[aidenlx|]]'
+- '[[authors/aidenlx|]]'
 categories: []
 description: Footnote popover for Obsidian
-downloads: 31532
+downloads: 31689
 mobile: false
 number: 191
 stars: 104

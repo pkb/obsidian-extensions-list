@@ -2,14 +2,14 @@
 aliases:
 - ObsiDOOM
 author:
-- '[[twibiral|twibiral]]'
+- '[[authors/twibiral|twibiral]]'
 categories: []
 description: Play DOOM and many other retro games in your Obsidian app. You can also
   play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed.
-downloads: 5352
+downloads: 5378
 mobile: false
 number: 812
-stars: 51
+stars: 52
 title: ObsiDOOM
 type: plugin
 updated: '2024-09-04T02:03:30'

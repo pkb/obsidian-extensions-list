@@ -2,14 +2,14 @@
 aliases:
 - Dynamic Line Height for CJK
 author:
-- '[[RyotaUshio|Ryota Ushio]]'
+- '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Dynamically adjust line height for lines & paragraphs containing CJK
   characters.
-downloads: 2098
+downloads: 2106
 mobile: true
 number: 1328
-stars: 3
+stars: 2
 title: Dynamic Line Height for CJK
 type: plugin
 updated: '2023-12-12T14:49:50'

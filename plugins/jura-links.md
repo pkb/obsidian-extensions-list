@@ -2,11 +2,11 @@
 aliases:
 - Jura Links
 author:
-- '[[justanotherjurastudent|Lukas Collier & Emi Le]]'
+- '[[authors/justanotherjurastudent|Lukas Collier & Emi Le]]'
 categories: []
 description: Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen
   mit Gesetzesanbietern.
-downloads: 56
+downloads: 63
 mobile: true
 number: 1951
 stars: 1

@@ -2,10 +2,10 @@
 aliases:
 - Scroll Offset
 author:
-- '[[lijyze|Lijyze]]'
+- '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Preserve minmium distances before and after cursor.
-downloads: 6957
+downloads: 7014
 mobile: false
 number: 491
 stars: 28

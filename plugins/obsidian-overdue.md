@@ -2,11 +2,11 @@
 aliases:
 - Overdue
 author:
-- '[[parente|Peter Parente]]'
+- '[[authors/parente|Peter Parente]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Marks items as [[Overdue]] if they are not checked off by their due date
-downloads: 4513
+downloads: 4516
 mobile: true
 number: 364
 stars: 10

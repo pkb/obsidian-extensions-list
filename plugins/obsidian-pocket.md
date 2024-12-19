@@ -2,13 +2,13 @@
 aliases:
 - Pocket
 author:
-- '[[nybbles|Nimalan Mahendran]]'
+- '[[authors/nybbles|Nimalan Mahendran]]'
 categories: []
 description: Access your Pocket reading list entries and create notes for them easily
-downloads: 18526
+downloads: 18563
 mobile: true
 number: 239
-stars: 239
+stars: 240
 title: Pocket
 type: plugin
 updated: '2022-09-10T05:29:24'

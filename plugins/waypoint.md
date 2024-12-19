@@ -2,15 +2,15 @@
 aliases:
 - Waypoint
 author:
-- '[[IdreesInc|Idrees Hassan]]'
+- '[[authors/IdreesInc|Idrees Hassan]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Easily generate dynamic content maps in your folder notes using waypoints.
   Enables folders to show up in the graph view and removes the need for messy tags!
-downloads: 60523
+downloads: 61067
 mobile: true
 number: 461
-stars: 558
+stars: 559
 title: Waypoint
 type: plugin
 updated: '2024-03-30T23:12:46'

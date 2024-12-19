@@ -2,15 +2,15 @@
 aliases:
 - Excel to Markdown Table
 author:
-- '[[ganesshkumar|Ganessh Kumar R P <rpganesshkumar@gmail.com>]]'
+- '[[authors/ganesshkumar|Ganessh Kumar R P <rpganesshkumar@gmail.com>]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: An Obsidian plugin to paste data from Microsoft Excel, Google Sheets,
   Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.
-downloads: 116084
+downloads: 116876
 mobile: true
 number: 420
-stars: 202
+stars: 203
 title: Excel to Markdown Table
 type: plugin
 updated: '2022-06-17T15:36:53'

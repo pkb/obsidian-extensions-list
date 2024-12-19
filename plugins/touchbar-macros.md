@@ -2,10 +2,10 @@
 aliases:
 - Touch Bar Macros
 author:
-- '[[frostplexx|Frostplexx]]'
+- '[[authors/frostplexx|Frostplexx]]'
 categories: []
 description: Run custom macros from your Mac's Touch Bar.
-downloads: 3429
+downloads: 3432
 mobile: false
 number: 1052
 stars: 13

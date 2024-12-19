@@ -2,13 +2,13 @@
 aliases:
 - File Diff
 author:
-- '[[friebetill|Till Friebe]]'
+- '[[authors/friebetill|Till Friebe]]'
 categories: []
 description: Shows the differences between two files..
-downloads: 8962
+downloads: 9032
 mobile: true
 number: 898
-stars: 97
+stars: 96
 title: File Diff
 type: plugin
 updated: '2024-02-15T12:39:43'

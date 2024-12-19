@@ -2,12 +2,12 @@
 aliases:
 - Blockquote Levels
 author:
-- '[[czottmann|Carlo Zottmann]]'
+- '[[authors/czottmann|Carlo Zottmann]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Adds commands for increasing/decreasing the blockquote level of the current
   line or selection.
-downloads: 4531
+downloads: 4541
 mobile: true
 number: 608
 stars: 37

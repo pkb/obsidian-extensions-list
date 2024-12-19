@@ -5,10 +5,10 @@ author:
 - '[[authors/lynchjames|lynchjames]]'
 categories: []
 description: Set dynamic writing goals for notes and folders in Obsidian.
-downloads: 13906
+downloads: 14104
 mobile: true
 number: 1169
-stars: 75
+stars: 77
 title: Writing Goals
 type: plugin
 updated: '2024-08-15T05:56:09'

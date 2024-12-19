@@ -2,10 +2,10 @@
 aliases:
 - Canvas Card Background Remover
 author:
-- '[[luxmargos|luxmargos]]'
+- '[[authors/luxmargos|luxmargos]]'
 categories: []
 description: You can make the background of cards transparent in the Canvas
-downloads: 3425
+downloads: 3458
 mobile: true
 number: 1346
 stars: 6

@@ -2,10 +2,10 @@
 aliases:
 - Extract Highlights
 author:
-- '[[akaalias|Alexis Rondeau]]'
+- '[[authors/akaalias|Alexis Rondeau]]'
 categories: []
 description: Create, extract and leverage your markdown highlights
-downloads: 19484
+downloads: 19531
 mobile: true
 number: 35
 stars: 88

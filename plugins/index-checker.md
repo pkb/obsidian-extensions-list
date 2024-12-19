@@ -2,11 +2,11 @@
 aliases:
 - Index Checker
 author:
-- '[[pavloDeshko|Pavlo Deshko]]'
+- '[[authors/pavloDeshko|Pavlo Deshko]]'
 categories: []
 description: Make sure your index "MOC" files (notes or Canvas) contain all links
   they should contain.
-downloads: 4335
+downloads: 4351
 mobile: true
 number: 1049
 stars: 12

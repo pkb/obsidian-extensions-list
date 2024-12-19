@@ -2,11 +2,11 @@
 aliases:
 - Insta TOC
 author:
-- '[[iLiftALot|Nick C.]]'
+- '[[authors/iLiftALot|Nick C.]]'
 categories: []
 description: Simultaneously generate, update, and maintain a table of contents for
   your notes.
-downloads: 774
+downloads: 966
 mobile: true
 number: 2032
 stars: 18

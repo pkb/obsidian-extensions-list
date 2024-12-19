@@ -2,11 +2,11 @@
 aliases:
 - sync-to-xlog
 author:
-- '[[Otto-J|Otto-J@github]]'
+- '[[authors/Otto-J|Otto-J@github]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your obsidian file to xlog.app
-downloads: 2376
+downloads: 2384
 mobile: false
 number: 1246
 stars: 83

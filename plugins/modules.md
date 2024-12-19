@@ -2,14 +2,14 @@
 aliases:
 - Modules
 author:
-- '[[polyipseity|polyipseity]]'
+- '[[authors/polyipseity|polyipseity]]'
 categories: []
 description: Load JavaScript and related languages like TypeScript modules from the
   vault and the Internet.
-downloads: 4884
+downloads: 4906
 mobile: true
 number: 1066
-stars: 70
+stars: 71
 title: Modules
 type: plugin
 updated: '2024-06-07T06:11:51'

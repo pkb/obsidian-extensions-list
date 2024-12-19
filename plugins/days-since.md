@@ -2,11 +2,11 @@
 aliases:
 - Days Since
 author:
-- '[[gndclouds|gndclouds]]'
+- '[[authors/gndclouds|gndclouds]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: A plugin to show the number of days since a given date.
-downloads: 1930
+downloads: 1948
 mobile: true
 number: 1409
 stars: 4

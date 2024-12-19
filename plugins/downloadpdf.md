@@ -2,10 +2,10 @@
 aliases:
 - downloadPDF
 author:
-- '[[Frieder21|Frieda]]'
+- '[[authors/Frieder21|Frieda]]'
 categories: []
 description: Allows you to download all included PDF files
-downloads: 130
+downloads: 147
 mobile: true
 number: 1968
 stars: 1

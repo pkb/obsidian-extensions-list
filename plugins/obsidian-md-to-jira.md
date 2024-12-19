@@ -2,11 +2,11 @@
 aliases:
 - Markdown to Jira Converter
 author:
-- '[[muckmuck96|muckmuck]]'
+- '[[authors/muckmuck96|muckmuck]]'
 categories: []
 description: This is a markdown to jira markup and backwards converter plugin for
   Obsidian (https://obsidian.md)
-downloads: 6982
+downloads: 7019
 mobile: true
 number: 682
 stars: 27

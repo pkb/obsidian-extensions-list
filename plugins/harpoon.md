@@ -2,11 +2,11 @@
 aliases:
 - Harpoon
 author:
-- '[[rodrez|mask(developermask)]]'
+- '[[authors/rodrez|mask(developermask)]]'
 categories: []
 description: Use shortcuts to manage and navigate your top four frequently-used files
   in Obsidian.
-downloads: 3447
+downloads: 3455
 mobile: true
 number: 1089
 stars: 10

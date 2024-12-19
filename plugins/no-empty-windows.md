@@ -2,10 +2,10 @@
 aliases:
 - No Empty Windows
 author:
-- '[[popscallion|L Fahn-Lai]]'
+- '[[authors/popscallion|L Fahn-Lai]]'
 categories: []
 description: Closes Obsidian window with cmd+W on Mac when the last tab is closed.
-downloads: 3616
+downloads: 3622
 mobile: false
 number: 806
 stars: 1

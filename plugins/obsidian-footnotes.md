@@ -4,14 +4,14 @@ aliases:
 author:
 - '[[authors/Alexis Rondeau|Alexis Rondeau]]'
 - '[[authors/Micha Brugger|Micha Brugger]]'
-- '[[MichaBrugger|Jason Qin]]'
+- '[[authors/MichaBrugger|Jason Qin]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Insert and write footnotes faster
-downloads: 110893
+downloads: 111549
 mobile: true
 number: 116
-stars: 130
+stars: 131
 title: Footnote Shortcut
 type: plugin
 updated: '2023-08-25T10:20:09'

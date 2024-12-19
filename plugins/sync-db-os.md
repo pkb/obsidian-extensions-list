@@ -2,11 +2,11 @@
 aliases:
 - sync-db-os
 author:
-- '[[ketd|ketd]]'
+- '[[authors/ketd|ketd]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: For synchronization between multiple platforms
-downloads: 96
+downloads: 99
 mobile: true
 number: 1839
 stars: 2

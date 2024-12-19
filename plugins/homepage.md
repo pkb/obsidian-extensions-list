@@ -2,14 +2,14 @@
 aliases:
 - Homepage
 author:
-- '[[mirnovov|novov]]'
+- '[[authors/mirnovov|novov]]'
 categories: []
 description: Open a specified note, canvas, or workspace on startup, or set it for
   quick access later.
-downloads: 575174
+downloads: 580334
 mobile: true
 number: 232
-stars: 409
+stars: 410
 title: Homepage
 type: plugin
 updated: '2024-10-21T15:48:09'

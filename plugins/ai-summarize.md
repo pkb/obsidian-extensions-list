@@ -2,11 +2,11 @@
 aliases:
 - AI Summarize
 author:
-- '[[RavenWits|Alp Sariyer]]'
+- '[[authors/RavenWits|Alp Sariyer]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize your notes using AI
-downloads: 1276
+downloads: 1302
 mobile: true
 number: 1559
 stars: 10

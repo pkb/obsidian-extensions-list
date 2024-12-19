@@ -2,11 +2,11 @@
 aliases:
 - Tweet to Markdown
 author:
-- '[[kbravh|kbravh]]'
+- '[[authors/kbravh|kbravh]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Save tweets as Markdown files, along with their images, polls, etc.
-downloads: 12313
+downloads: 12325
 mobile: true
 number: 335
 stars: 198

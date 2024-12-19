@@ -2,10 +2,10 @@
 aliases:
 - ToggleList
 author:
-- '[[thingnotok|Lite C]]'
+- '[[authors/thingnotok|Lite C]]'
 categories: []
 description: Toggle the list/checklist with custom states/prefixes and suffixes
-downloads: 14626
+downloads: 14702
 mobile: true
 number: 618
 stars: 45

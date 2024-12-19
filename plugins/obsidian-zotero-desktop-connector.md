@@ -2,13 +2,13 @@
 aliases:
 - Zotero Integration
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Knowledge management|Knowledge management]]'
 description: Insert and import citations, bibliographies, notes, and PDF annotations
   from Zotero.
-downloads: 312353
+downloads: 314654
 mobile: false
 number: 473
 stars: 1100

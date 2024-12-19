@@ -2,14 +2,14 @@
 aliases:
 - Timeline
 author:
-- '[[George-debug|George Butco]]'
+- '[[authors/George-debug|George Butco]]'
 categories:
 - '[[categories/Time management|Time management]]'
 description: Used to build great timelines
-downloads: 42061
+downloads: 42512
 mobile: true
 number: 218
-stars: 312
+stars: 313
 title: Timeline
 type: plugin
 updated: '2022-07-22T23:54:32'

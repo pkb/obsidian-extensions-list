@@ -2,13 +2,13 @@
 aliases:
 - Entity Linker
 author:
-- '[[Ankush-Chander|Ankush-Chander]]'
+- '[[authors/Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Link research terms to standard entities
-downloads: 274
+downloads: 280
 mobile: true
 number: 1765
-stars: 6
+stars: 7
 title: Entity Linker
 type: plugin
 updated: '2024-07-17T12:19:25'

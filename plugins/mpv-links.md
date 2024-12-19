@@ -2,10 +2,10 @@
 aliases:
 - mpv links
 author:
-- '[[patsh90|patsh90]]'
+- '[[authors/patsh90|patsh90]]'
 categories: []
 description: Add mpv links with timestamps
-downloads: 109
+downloads: 115
 mobile: false
 number: 1780
 stars: 3

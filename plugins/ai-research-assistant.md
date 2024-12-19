@@ -2,16 +2,16 @@
 aliases:
 - AI Research Assistant
 author:
-- '[[InterwebAlchemy|Interweb Alchemy]]'
+- '[[authors/InterwebAlchemy|Interweb Alchemy]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A Prompt Engineering research utility for generative AI models like OpenAI's
   ChatGPT that facilitates archiving and searching conversations and live editing
   a conversation's context/memory.
-downloads: 6670
+downloads: 6722
 mobile: false
 number: 1085
-stars: 110
+stars: 111
 title: AI Research Assistant
 type: plugin
 updated: '2023-10-30T19:37:36'

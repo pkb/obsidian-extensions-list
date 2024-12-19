@@ -2,12 +2,12 @@
 aliases:
 - Quick Explorer
 author:
-- '[[pjeby|PJ Eby]]'
+- '[[authors/pjeby|PJ Eby]]'
 categories:
 - '[[categories/File management|File management]]'
 description: Perform file explorer operations (and see your current file path) from
   the title bar, using the mouse or keyboard
-downloads: 101609
+downloads: 102493
 mobile: false
 number: 277
 stars: 271

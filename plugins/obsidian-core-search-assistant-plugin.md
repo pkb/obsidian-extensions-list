@@ -2,10 +2,10 @@
 aliases:
 - Core Search Assistant
 author:
-- '[[qawatake|qawatake]]'
+- '[[authors/qawatake|qawatake]]'
 categories: []
 description: 'Enhance built-in search: keyboard interface, card preview, bigger preview'
-downloads: 26308
+downloads: 26374
 mobile: false
 number: 417
 stars: 109

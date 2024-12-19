@@ -2,13 +2,13 @@
 aliases:
 - CSV Editor
 author:
-- '[[deathau|death_au]]'
+- '[[authors/deathau|death_au]]'
 categories: []
 description: Edit CSV files in Obsidian
-downloads: 18727
+downloads: 18802
 mobile: true
 number: 107
-stars: 115
+stars: 116
 title: CSV Editor
 type: plugin
 updated: '2021-02-20T10:11:34'

@@ -2,13 +2,13 @@
 aliases:
 - CardBoard
 author:
-- '[[roovo|roovo]]'
+- '[[authors/roovo|roovo]]'
 categories: []
 description: Display markdown tasks on kanban style boards.
-downloads: 105382
+downloads: 106159
 mobile: true
 number: 348
-stars: 517
+stars: 520
 title: CardBoard
 type: plugin
 updated: '2024-02-25T17:26:33'

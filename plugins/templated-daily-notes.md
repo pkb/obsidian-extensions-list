@@ -2,11 +2,11 @@
 aliases:
 - Templated daily notes
 author:
-- '[[digitorum|digitorum]]'
+- '[[authors/digitorum|digitorum]]'
 categories: []
 description: Adds the ability to create daily notes with a specified template according
   to the described settings
-downloads: 1602
+downloads: 1612
 mobile: true
 number: 1406
 stars: 1

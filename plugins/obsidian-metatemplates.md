@@ -2,11 +2,11 @@
 aliases:
 - metatemplates
 author:
-- '[[avirut|avirut]]'
+- '[[authors/avirut|avirut]]'
 categories:
 - '[[categories/Templates|Templates]]'
 description: Generate notes from templates using YAML front-matter
-downloads: 6234
+downloads: 6239
 mobile: true
 number: 71
 stars: 114

@@ -2,10 +2,10 @@
 aliases:
 - Metronome
 author:
-- '[[curtgrimes|Curt Grimes]]'
+- '[[authors/curtgrimes|Curt Grimes]]'
 categories: []
 description: Add interactive metronomes to your notes.
-downloads: 4263
+downloads: 4272
 mobile: true
 number: 385
 stars: 28

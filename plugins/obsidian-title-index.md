@@ -2,10 +2,10 @@
 aliases:
 - obsidian-title-index
 author:
-- '[[renmu123|renmu123]]'
+- '[[authors/renmu123|renmu123]]'
 categories: []
 description: obsidian-title-index
-downloads: 7121
+downloads: 7132
 mobile: true
 number: 210
 stars: 15

@@ -2,12 +2,12 @@
 aliases:
 - Influx
 author:
-- '[[jensmtg|Jens M Gleditsch]]'
+- '[[authors/jensmtg|Jens M Gleditsch]]'
 categories: []
 description: An alternative backlinks plugin, which displays relevant and formatted
   excerpts from notes with linked mentions, based on the position of mentions in the
   notes' hierarchical structure (bullet level indentation).
-downloads: 21661
+downloads: 21736
 mobile: true
 number: 621
 stars: 323

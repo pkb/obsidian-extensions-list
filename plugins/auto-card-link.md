@@ -2,14 +2,14 @@
 aliases:
 - Auto Card Link
 author:
-- '[[nekoshita|Nekoshita Yuki]]'
+- '[[authors/nekoshita|Nekoshita Yuki]]'
 categories: []
 description: Automatically fetches metadata from a url and makes it as a card-styled
   link
-downloads: 38027
+downloads: 38526
 mobile: true
 number: 506
-stars: 202
+stars: 204
 title: Auto Card Link
 type: plugin
 updated: '2024-02-24T12:47:20'

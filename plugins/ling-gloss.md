@@ -2,13 +2,13 @@
 aliases:
 - Interlinear Glossing
 author:
-- '[[Mijyuoon|Mijyuoon]]'
+- '[[authors/Mijyuoon|Mijyuoon]]'
 categories: []
 description: Format interlinear glosses used in linguistics texts.
-downloads: 4110
+downloads: 4126
 mobile: true
 number: 938
-stars: 29
+stars: 30
 title: Interlinear Glossing
 type: plugin
 updated: '2024-03-03T01:00:07'

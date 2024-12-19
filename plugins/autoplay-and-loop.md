@@ -2,13 +2,13 @@
 aliases:
 - Autoplay & Loop
 author:
-- '[[Wapply|Zerkshop & Wapply]]'
+- '[[authors/Wapply|Zerkshop & Wapply]]'
 categories: []
 description: Auto reproduces videos/audio inside notes.
-downloads: 1044
+downloads: 1057
 mobile: true
 number: 1564
-stars: 6
+stars: 7
 title: Autoplay & Loop
 type: plugin
 updated: '2024-05-29T04:50:35'

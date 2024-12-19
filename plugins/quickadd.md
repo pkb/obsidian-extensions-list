@@ -2,12 +2,12 @@
 aliases:
 - QuickAdd
 author:
-- '[[chhoumann|Christian B. B. Houmann]]'
+- '[[authors/chhoumann|Christian B. B. Houmann]]'
 categories:
 - '[[categories/Content capture|Content capture]]'
 - '[[categories/Templates|Templates]]'
 description: Quickly add new pages or content to your vault.
-downloads: 877665
+downloads: 884405
 mobile: true
 number: 211
 stars: 1600

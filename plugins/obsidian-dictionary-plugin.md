@@ -2,13 +2,13 @@
 aliases:
 - Dictionary
 author:
-- '[[phibr0|phibr0]]'
+- '[[authors/phibr0|phibr0]]'
 categories: []
 description: This is a simple dictionary for the Obsidian Note-Taking Tool.
-downloads: 171137
+downloads: 171742
 mobile: true
 number: 189
-stars: 374
+stars: 375
 title: Dictionary
 type: plugin
 updated: '2022-11-16T01:32:54'

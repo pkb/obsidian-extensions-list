@@ -2,11 +2,11 @@
 aliases:
 - Smart Gantt
 author:
-- '[[nhannht|Nhan Nguyen]]'
+- '[[authors/nhannht|Nhan Nguyen]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Intelligently generate Gantt chart from your tasks
-downloads: 4300
+downloads: 4407
 mobile: true
 number: 1666
 stars: 27

@@ -2,12 +2,12 @@
 aliases:
 - Air Quotes
 author:
-- '[[alangrainger|Alan Grainger]]'
+- '[[authors/alangrainger|Alan Grainger]]'
 categories: []
 description: Search and insert quotes from a source text as you type. This is great
   for reading a physical book or eReader while taking notes on a separate laptop or
   phone. The plugin can also convert ePub files to Markdown notes.
-downloads: 4764
+downloads: 4779
 mobile: true
 number: 1007
 stars: 48

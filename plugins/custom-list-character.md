@@ -2,11 +2,11 @@
 aliases:
 - Custom list character
 author:
-- '[[lilian-pouliquen|Lilian POULIQUEN]]'
+- '[[authors/lilian-pouliquen|Lilian POULIQUEN]]'
 categories: []
 description: Adds the ability to choose the character to use when creating a bullet
   list between '-', '*' and '+'
-downloads: 4194
+downloads: 4205
 mobile: true
 number: 1038
 stars: 2

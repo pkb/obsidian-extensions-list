@@ -2,10 +2,10 @@
 aliases:
 - Edit Gemini
 author:
-- '[[Basil-Mori|Basil_Mori]]'
+- '[[authors/Basil-Mori|Basil_Mori]]'
 categories: []
 description: Allows the user to edit and create .gmi files.
-downloads: 3438
+downloads: 3441
 mobile: true
 number: 660
 stars: 5

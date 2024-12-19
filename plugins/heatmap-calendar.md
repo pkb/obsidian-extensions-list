@@ -2,15 +2,15 @@
 aliases:
 - Heatmap Calendar
 author:
-- '[[Richardsl|Richard Slettevoll]]'
+- '[[authors/Richardsl|Richard Slettevoll]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Activity Year Overview for DataviewJS, Github style – Track Goals, Progress,
   Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc.
-downloads: 95274
+downloads: 96224
 mobile: true
 number: 441
-stars: 674
+stars: 676
 title: Heatmap Calendar
 type: plugin
 updated: '2024-06-28T13:41:47'

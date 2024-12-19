@@ -2,10 +2,10 @@
 aliases:
 - Commando
 author:
-- '[[qaptoR|qaptoR]]'
+- '[[authors/qaptoR|qaptoR]]'
 categories: []
 description: Enables the user to provide the number of times to repeat a command.
-downloads: 3354
+downloads: 3355
 mobile: true
 number: 833
 stars: 5

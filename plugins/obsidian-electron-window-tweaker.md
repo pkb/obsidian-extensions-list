@@ -2,10 +2,10 @@
 aliases:
 - Electron Window Tweaker
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Tweak various Electron window settings.
-downloads: 10452
+downloads: 10488
 mobile: false
 number: 199
 stars: 40

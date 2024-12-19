@@ -2,10 +2,10 @@
 aliases:
 - Latex Environments
 author:
-- '[[raineszm|Zach Raines]]'
+- '[[authors/raineszm|Zach Raines]]'
 categories: []
 description: Allows to quickly insert and change latex environments within math environments.
-downloads: 23960
+downloads: 24034
 mobile: true
 number: 29
 stars: 60

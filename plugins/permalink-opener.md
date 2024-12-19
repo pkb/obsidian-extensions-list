@@ -2,10 +2,10 @@
 aliases:
 - Permalink Opener
 author:
-- '[[kepano|@kepano]]'
+- '[[authors/kepano|@kepano]]'
 categories: []
 description: Opens URLs based on a permalink or slug in the file properties
-downloads: 2894
+downloads: 2907
 mobile: true
 number: 1195
 stars: 65

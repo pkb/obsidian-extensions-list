@@ -2,12 +2,12 @@
 aliases:
 - Kindle Highlights Importer
 author:
-- '[[l2xu|MovingMillennial]]'
+- '[[authors/l2xu|MovingMillennial]]'
 categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: A simple way to import your Kindle highlights html file.
-downloads: 2765
+downloads: 2808
 mobile: true
 number: 1420
 stars: 3

@@ -2,10 +2,10 @@
 aliases:
 - Color Palette
 author:
-- '[[ALegendsTale|ALegendsTale]]'
+- '[[authors/ALegendsTale|ALegendsTale]]'
 categories: []
 description: Create and insert color palettes into your notes.
-downloads: 15258
+downloads: 15369
 mobile: true
 number: 1036
 stars: 47

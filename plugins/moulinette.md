@@ -2,12 +2,12 @@
 aliases:
 - Moulinette Search for TTRPG
 author:
-- '[[SvenWerlen|Sven Werlen (Moulinette)]]'
+- '[[authors/SvenWerlen|Sven Werlen (Moulinette)]]'
 categories:
 - '[[categories/Games|Games]]'
 description: Search, browse and download TTRPG (tabletop role-playing game) content
   from Moulinette Cloud.
-downloads: 1530
+downloads: 1548
 mobile: false
 number: 1535
 stars: 3

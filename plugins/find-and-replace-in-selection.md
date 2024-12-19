@@ -2,11 +2,11 @@
 aliases:
 - Find and replace in selection
 author:
-- '[[dy-sh|Dmitry Savosh]]'
+- '[[authors/dy-sh|Dmitry Savosh]]'
 categories: []
 description: Finds what you are looking for in the selected text and replaces it with
   the specified text
-downloads: 15468
+downloads: 15529
 mobile: true
 number: 137
 stars: 33

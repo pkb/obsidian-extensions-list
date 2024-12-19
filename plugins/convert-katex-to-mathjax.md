@@ -5,7 +5,7 @@ author:
 - '[[authors/pejakovic|Obsidian]]'
 categories: []
 description: Converts KaTeX format to MathJax format.
-downloads: 14
+downloads: 50
 mobile: true
 number: 2065
 stars: 0

@@ -2,12 +2,12 @@
 aliases:
 - Simple Prompt
 author:
-- '[[arumie|arumie]]'
+- '[[authors/arumie|arumie]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Simple interface to generate or rewrite content using LLMs based on user
   input.
-downloads: 443
+downloads: 458
 mobile: true
 number: 1703
 stars: 9

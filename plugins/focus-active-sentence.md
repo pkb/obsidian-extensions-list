@@ -2,10 +2,10 @@
 aliases:
 - Focus Active Sentence
 author:
-- '[[artisticat1|artisticat]]'
+- '[[authors/artisticat1|artisticat]]'
 categories: []
 description: Highlight the sentence the cursor is currently resting on.
-downloads: 5715
+downloads: 5744
 mobile: true
 number: 840
 stars: 40

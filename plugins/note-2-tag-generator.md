@@ -2,10 +2,10 @@
 aliases:
 - Note 2 Tag Generator
 author:
-- '[[augustin7698|Augustin]]'
+- '[[authors/augustin7698|Augustin]]'
 categories: []
 description: Generate tags from notes without openai key in multiple languages
-downloads: 499
+downloads: 511
 mobile: true
 number: 1815
 stars: 1

@@ -2,10 +2,10 @@
 aliases:
 - Immersive Translate
 author:
-- '[[imfenghuang|imfenghuang]]'
+- '[[authors/imfenghuang|imfenghuang]]'
 categories: []
 description: A free-to-use translatation service for foreign language markdown file.
-downloads: 739
+downloads: 776
 mobile: false
 number: 1925
 stars: 17

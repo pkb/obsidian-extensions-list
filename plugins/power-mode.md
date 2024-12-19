@@ -2,11 +2,11 @@
 aliases:
 - POWER MODE
 author:
-- '[[zhouhua|Zhou Hua]]'
+- '[[authors/zhouhua|Zhou Hua]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Active POWER MODE!!!!
-downloads: 1371
+downloads: 1388
 mobile: true
 number: 1693
 stars: 27

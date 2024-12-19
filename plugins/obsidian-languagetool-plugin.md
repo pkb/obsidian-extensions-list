@@ -2,13 +2,13 @@
 aliases:
 - LanguageTool Integration
 author:
-- '[[Clemens-E|Clemens Ertle]]'
+- '[[authors/Clemens-E|Clemens Ertle]]'
 categories: []
 description: Inofficial LanguageTool plugin
-downloads: 210328
+downloads: 211377
 mobile: true
 number: 133
-stars: 474
+stars: 477
 title: LanguageTool Integration
 type: plugin
 updated: '2024-02-18T21:59:38'

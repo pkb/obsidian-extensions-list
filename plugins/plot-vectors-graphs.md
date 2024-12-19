@@ -2,10 +2,10 @@
 aliases:
 - Plot Vectors and Graphs
 author:
-- '[[nicoletanyt|Nicole Tan YiTong]]'
+- '[[authors/nicoletanyt|Nicole Tan YiTong]]'
 categories: []
 description: Generates graphs and vectors.
-downloads: 416
+downloads: 425
 mobile: false
 number: 1778
 stars: 6

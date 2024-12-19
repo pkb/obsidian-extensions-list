@@ -2,11 +2,11 @@
 aliases:
 - Cursor Jump
 author:
-- '[[LifeFi|Sangwon Jung]]'
+- '[[authors/LifeFi|Sangwon Jung]]'
 categories: []
 description: Quickly jump between list items and headings throughout same or upper/lower
   level
-downloads: 602
+downloads: 612
 mobile: true
 number: 1653
 stars: 5

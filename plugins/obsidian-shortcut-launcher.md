@@ -2,14 +2,14 @@
 aliases:
 - Shortcut Launcher
 author:
-- '[[macstories|MacStories]]'
+- '[[authors/macstories|MacStories]]'
 categories: []
 description: Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom
   commands.
-downloads: 12996
+downloads: 13086
 mobile: true
 number: 406
-stars: 198
+stars: 199
 title: Shortcut Launcher
 type: plugin
 updated: '2024-04-04T16:37:50'

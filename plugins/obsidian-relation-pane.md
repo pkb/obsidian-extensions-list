@@ -2,10 +2,10 @@
 aliases:
 - Relation Pane
 author:
-- '[[mottox2|mottox2]]'
+- '[[authors/mottox2|mottox2]]'
 categories: []
 description: This plugin displays a panel that summarize relations between notes.
-downloads: 5336
+downloads: 5352
 mobile: true
 number: 674
 stars: 22

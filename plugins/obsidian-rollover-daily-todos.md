@@ -2,16 +2,16 @@
 aliases:
 - Rollover Daily Todos
 author:
-- '[[lumoe|Lukas Mölschl]]'
+- '[[authors/lumoe|Lukas Mölschl]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: This Obsidian.md plugin rolls over incomplete TODOs from the previous
   daily note to today's daily note. (https://obsidian.md). (Originally created by
   Matthew Sessions)
-downloads: 102200
+downloads: 102592
 mobile: true
 number: 55
-stars: 274
+stars: 275
 title: Rollover Daily Todos
 type: plugin
 updated: '2024-01-22T11:35:29'

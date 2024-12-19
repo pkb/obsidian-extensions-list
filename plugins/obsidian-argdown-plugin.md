@@ -2,10 +2,10 @@
 aliases:
 - Argument Map with Argdown
 author:
-- '[[amdecker|amdecker]]'
+- '[[authors/amdecker|amdecker]]'
 categories: []
 description: Allows you to write argdown codeblocks and view the maps in Preview
-downloads: 6994
+downloads: 7003
 mobile: false
 number: 206
 stars: 69

@@ -2,12 +2,12 @@
 aliases:
 - Voice
 author:
-- '[[chrisurf|Chris Oguntolu]]'
+- '[[authors/chrisurf|Chris Oguntolu]]'
 categories: []
 description: Let your notes talk and speak to you and enhance your Obsidian experience
   to effortlessly listen to your notes being read aloud and enjoy the power of sound,
   audio, and speech.
-downloads: 11756
+downloads: 11907
 mobile: true
 number: 1074
 stars: 31

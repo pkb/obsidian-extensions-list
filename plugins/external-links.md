@@ -2,10 +2,10 @@
 aliases:
 - External Links
 author:
-- '[[jivimberg|Juan Vimberg]]'
+- '[[authors/jivimberg|Juan Vimberg]]'
 categories: []
 description: List external links and discover which notes reference them.
-downloads: 1768
+downloads: 1811
 mobile: true
 number: 1577
 stars: 9

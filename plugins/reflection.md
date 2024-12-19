@@ -2,11 +2,11 @@
 aliases:
 - Reflection
 author:
-- '[[brandonkboswell|Brandon Boswell]]'
+- '[[authors/brandonkboswell|Brandon Boswell]]'
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Shows daily and weekly notes from this day in years past.
-downloads: 3890
+downloads: 3903
 mobile: false
 number: 1084
 stars: 16

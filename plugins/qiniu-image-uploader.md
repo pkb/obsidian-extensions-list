@@ -2,12 +2,12 @@
 aliases:
 - Qiniu Image Uploader
 author:
-- '[[jianzs|Jade Zheng]]'
+- '[[authors/jianzs|Jade Zheng]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Uploads images from your clipboard to qiniu.com and embeds uploaded image
   to your note.
-downloads: 3056
+downloads: 3060
 mobile: true
 number: 1178
 stars: 4

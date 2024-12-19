@@ -2,12 +2,12 @@
 aliases:
 - Occura
 author:
-- '[[Krusty84|Alexey Sedoykin]]'
+- '[[authors/Krusty84|Alexey Sedoykin]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Find and highlight all occurrences of selected text in notes, similar
   to Notepad++ or IDEs.
-downloads: 705
+downloads: 735
 mobile: true
 number: 1963
 stars: 7

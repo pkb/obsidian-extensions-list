@@ -2,11 +2,11 @@
 aliases:
 - Reverse Prompter
 author:
-- '[[ryanhalliday|Ryan Halliday]]'
+- '[[authors/ryanhalliday|Ryan Halliday]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate prompts to keep you writing with AI.
-downloads: 858
+downloads: 864
 mobile: true
 number: 1571
 stars: 13

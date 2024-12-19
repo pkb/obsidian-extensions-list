@@ -2,10 +2,10 @@
 aliases:
 - Paste as Embed
 author:
-- '[[mlprt|Matt Laporte]]'
+- '[[authors/mlprt|Matt Laporte]]'
 categories: []
 description: Paste text into a separate note, and embed the note.
-downloads: 143
+downloads: 148
 mobile: false
 number: 1808
 stars: 3

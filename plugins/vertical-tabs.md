@@ -2,20 +2,20 @@
 aliases:
 - Vertical Tabs
 author:
-- '[[oxdc|oxdc]]'
+- '[[authors/oxdc|oxdc]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Offer an alternative view that displays open tabs vertically, allowing
   users to group and organize tabs for a better navigation experience.
-downloads: 11103
+downloads: 12684
 mobile: true
 number: 1831
-stars: 111
+stars: 126
 title: Vertical Tabs
 type: plugin
-updated: '2024-12-05T16:39:55'
+updated: '2024-12-17T09:42:54'
 url: https://github.com/oxdc/obsidian-vertical-tabs
-version: 0.11.3
+version: 0.12.3
 ---
 
 %% README_START %%

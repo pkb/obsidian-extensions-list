@@ -2,10 +2,10 @@
 aliases:
 - Image Caption
 author:
-- '[[bicarlsen|Brian Carlsen]]'
+- '[[authors/bicarlsen|Brian Carlsen]]'
 categories: []
 description: Add captions to images.
-downloads: 25455
+downloads: 25604
 mobile: true
 number: 339
 stars: 92

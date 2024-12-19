@@ -2,16 +2,16 @@
 aliases:
 - Remotely Sync
 author:
-- '[[sboesen|sboesen]]'
+- '[[authors/sboesen|sboesen]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Security and feature updates for the remotely-save unofficial plugin
   allowing users to synchronize notes between local device and the cloud service.
   Not backwards compatible.
-downloads: 32712
+downloads: 33071
 mobile: true
 number: 1237
-stars: 212
+stars: 215
 title: Remotely Sync
 type: plugin
 updated: '2024-05-05T03:10:20'

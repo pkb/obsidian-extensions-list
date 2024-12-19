@@ -2,13 +2,13 @@
 aliases:
 - Zoom
 author:
-- '[[vslinko|Viacheslav Slinko]]'
+- '[[authors/vslinko|Viacheslav Slinko]]'
 categories: []
 description: Zoom into heading and lists.
-downloads: 92685
+downloads: 92915
 mobile: true
 number: 186
-stars: 225
+stars: 226
 title: Zoom
 type: plugin
 updated: '2023-05-04T14:25:16'

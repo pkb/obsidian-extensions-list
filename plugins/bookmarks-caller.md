@@ -2,18 +2,18 @@
 aliases:
 - Bookmarks Caller
 author:
-- '[[namikaze-40p|namikaze-40p]]'
+- '[[authors/namikaze-40p|namikaze-40p]]'
 categories: []
 description: Easily open bookmarks.
-downloads: 1344
+downloads: 1422
 mobile: true
 number: 1622
 stars: 3
 title: Bookmarks Caller
 type: plugin
-updated: '2024-10-14T09:43:37'
+updated: '2024-12-15T07:03:54'
 url: https://github.com/namikaze-40p/obsidian-bookmarks-caller
-version: 0.5.4
+version: 0.5.5
 ---
 
 %% README_START %%

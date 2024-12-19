@@ -2,10 +2,10 @@
 aliases:
 - Meld Calc
 author:
-- '[[meld-cp|meld-cp]]'
+- '[[authors/meld-cp|meld-cp]]'
 categories: []
 description: Do math
-downloads: 11718
+downloads: 11743
 mobile: true
 number: 325
 stars: 55

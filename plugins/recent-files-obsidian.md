@@ -2,13 +2,13 @@
 aliases:
 - Recent Files
 author:
-- '[[tgrosinger|Tony Grosinger]]'
+- '[[authors/tgrosinger|Tony Grosinger]]'
 categories: []
 description: List files by most recently opened
-downloads: 631693
+downloads: 640908
 mobile: true
 number: 7
-stars: 366
+stars: 368
 title: Recent Files
 type: plugin
 updated: '2024-12-03T22:54:01'

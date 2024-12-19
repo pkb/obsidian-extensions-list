@@ -2,11 +2,11 @@
 aliases:
 - Calendar
 author:
-- '[[liamcain|Liam Cain]]'
+- '[[authors/liamcain|Liam Cain]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Calendar view of your daily notes
-downloads: 1477060
+downloads: 1489979
 mobile: true
 number: 10
 stars: 1700

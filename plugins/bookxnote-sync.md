@@ -2,10 +2,10 @@
 aliases:
 - BookXNote Sync
 author:
-- '[[CodeListening|CodeListening]]'
+- '[[authors/CodeListening|CodeListening]]'
 categories: []
 description: 从bookxnote中同步笔记
-downloads: 131
+downloads: 141
 mobile: false
 number: 1931
 stars: 4

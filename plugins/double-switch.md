@@ -2,10 +2,10 @@
 aliases:
 - Auto switch themes between dark/light mode
 author:
-- '[[carlrobert|Robert Storlind]]'
+- '[[authors/carlrobert|Robert Storlind]]'
 categories: []
 description: Toggling dark/light mode switches themes automatically
-downloads: 95
+downloads: 117
 mobile: true
 number: 2021
 stars: 0

@@ -2,11 +2,11 @@
 aliases:
 - Auto Hyperlink
 author:
-- '[[take6|take6]]'
+- '[[authors/take6|take6]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Insert hyperlink according to user-defined rule
-downloads: 4029
+downloads: 4038
 mobile: true
 number: 1022
 stars: 11

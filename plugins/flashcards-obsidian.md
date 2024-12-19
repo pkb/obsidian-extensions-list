@@ -2,13 +2,13 @@
 aliases:
 - Flashcards
 author:
-- '[[reuseman|Alex Colucci]]'
+- '[[authors/reuseman|Alex Colucci]]'
 categories: []
 description: Anki integration
-downloads: 50995
+downloads: 51199
 mobile: false
 number: 51
-stars: 923
+stars: 926
 title: Flashcards
 type: plugin
 updated: '2022-10-21T18:40:36'

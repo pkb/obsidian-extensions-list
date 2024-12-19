@@ -2,10 +2,10 @@
 aliases:
 - Living Graph
 author:
-- '[[geoffreysflaminglasersword|Garrett]]'
+- '[[authors/geoffreysflaminglasersword|Garrett]]'
 categories: []
 description: A for-fun graph plugin
-downloads: 10084
+downloads: 10150
 mobile: true
 number: 437
 stars: 36

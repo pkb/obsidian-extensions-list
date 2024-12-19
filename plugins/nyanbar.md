@@ -2,10 +2,10 @@
 aliases:
 - NyanBar
 author:
-- '[[xhyabunny|xhyabunny]]'
+- '[[authors/xhyabunny|xhyabunny]]'
 categories: []
 description: Nyan Cat Progress Bar generator!
-downloads: 263
+downloads: 266
 mobile: true
 number: 1779
 stars: 4

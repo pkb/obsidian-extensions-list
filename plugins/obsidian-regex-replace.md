@@ -2,10 +2,10 @@
 aliases:
 - Regex Find/Replace
 author:
-- '[[Gru80|Martin Eder]]'
+- '[[authors/Gru80|Martin Eder]]'
 categories: []
 description: Find and replace text using regular expressions.
-downloads: 33880
+downloads: 34173
 mobile: true
 number: 376
 stars: 69

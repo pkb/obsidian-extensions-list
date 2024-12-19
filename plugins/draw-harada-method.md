@@ -2,11 +2,11 @@
 aliases:
 - Draw Harada Method
 author:
-- '[[yildbs|yildbs]]'
+- '[[authors/yildbs|yildbs]]'
 categories: []
 description: This plugin is used to draw the harada method. Create your own 1 goal,
   8 plans, and 64 actions
-downloads: 4915
+downloads: 4930
 mobile: true
 number: 878
 stars: 34

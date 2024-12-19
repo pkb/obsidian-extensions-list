@@ -2,10 +2,10 @@
 aliases:
 - The One Ring 2E Statblocks
 author:
-- '[[modality|Michael Hansen]]'
+- '[[authors/modality|Michael Hansen]]'
 categories: []
 description: Render TOR 2e statblocks in Obsidian.
-downloads: 3477
+downloads: 3483
 mobile: true
 number: 769
 stars: 9

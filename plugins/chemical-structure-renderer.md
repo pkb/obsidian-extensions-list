@@ -2,11 +2,11 @@
 aliases:
 - Chemical Structure Renderer
 author:
-- '[[xaya1001|xaya1001]]'
+- '[[authors/xaya1001|xaya1001]]'
 categories: []
 description: Render chemical structures from SMILES strings into PNG or SVG format
   using Ketcher and Indigo Service.
-downloads: 4223
+downloads: 4238
 mobile: true
 number: 985
 stars: 11

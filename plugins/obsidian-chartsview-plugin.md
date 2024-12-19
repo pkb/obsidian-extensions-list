@@ -2,14 +2,14 @@
 aliases:
 - Charts View
 author:
-- '[[caronchen|caronchen]]'
+- '[[authors/caronchen|caronchen]]'
 categories:
 - '[[categories/Charting|Charting]]'
 description: Data visualization solution in Obsidian based on Ant Design Charts.
-downloads: 55914
+downloads: 56178
 mobile: true
 number: 188
-stars: 222
+stars: 223
 title: Charts View
 type: plugin
 updated: '2024-02-05T15:47:33'

@@ -2,11 +2,11 @@
 aliases:
 - List Outline Helper
 author:
-- '[[triangular-sneaky|triangular-sneaky]]'
+- '[[authors/triangular-sneaky|triangular-sneaky]]'
 categories: []
 description: Utilities to work with list outlines. Currently supports selecting the
   outline (current line and children)
-downloads: 2302
+downloads: 2405
 mobile: true
 number: 1655
 stars: 1

@@ -2,10 +2,10 @@
 aliases:
 - Alias from heading
 author:
-- '[[basham|Chris Basham]]'
+- '[[authors/basham|Chris Basham]]'
 categories: []
 description: Implicitly add an alias matching the first heading in a document.
-downloads: 5041
+downloads: 5055
 mobile: true
 number: 639
 stars: 16

@@ -2,10 +2,10 @@
 aliases:
 - Code Block Labels
 author:
-- '[[stbowers|Sean Bowers]]'
+- '[[authors/stbowers|Sean Bowers]]'
 categories: []
 description: Adds labels to fenced code blocks
-downloads: 4526
+downloads: 4531
 mobile: true
 number: 414
 stars: 10

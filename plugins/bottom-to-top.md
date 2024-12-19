@@ -2,10 +2,10 @@
 aliases:
 - Bottom to Top
 author:
-- '[[lizard-heart|Henry Gustafson]]'
+- '[[authors/lizard-heart|Henry Gustafson]]'
 categories: []
 description: Reverses direction of text.
-downloads: 42
+downloads: 49
 mobile: true
 number: 2004
 stars: 0

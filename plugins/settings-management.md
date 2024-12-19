@@ -2,12 +2,12 @@
 aliases:
 - Settings Management
 author:
-- '[[xhuajin|Huajin]]'
+- '[[authors/xhuajin|Huajin]]'
 categories: []
 description: Manage settings options, including show enabled/disabled plugins and
   css, grid layout, save current plugins/css enable config for quick enable/disable,
   etc.
-downloads: 1175
+downloads: 1209
 mobile: false
 number: 1672
 stars: 19

@@ -2,10 +2,10 @@
 aliases:
 - Review Notes Plugin
 author:
-- '[[tjandy98|tjandy98]]'
+- '[[authors/tjandy98|tjandy98]]'
 categories: []
 description: This plugin shows recently modified and newly created files
-downloads: 5322
+downloads: 5338
 mobile: true
 number: 735
 stars: 9

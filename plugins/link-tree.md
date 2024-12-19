@@ -2,12 +2,12 @@
 aliases:
 - Link Tree
 author:
-- '[[joshuatazrein|Joshua Tazman Reinier]]'
+- '[[authors/joshuatazrein|Joshua Tazman Reinier]]'
 categories: []
 description: View file links and backlinks as a recursively expandable, filterable
   list with editable text, combining the structure of outliners like Dynalist & WorkFlowy
   with the flexibility of Obsidian.
-downloads: 7991
+downloads: 8066
 mobile: true
 number: 1037
 stars: 24

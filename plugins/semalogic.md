@@ -2,10 +2,10 @@
 aliases:
 - UseSemaLogic
 author:
-- '[[MM-GO|SemaLogic UG]]'
+- '[[authors/MM-GO|SemaLogic UG]]'
 categories: []
 description: Real-time use of the SemaLogic formal language
-downloads: 1263
+downloads: 1271
 mobile: true
 number: 1384
 stars: 3

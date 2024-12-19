@@ -2,10 +2,10 @@
 aliases:
 - Daily note creator
 author:
-- '[[mario-holubar|Mario Holubar]]'
+- '[[authors/mario-holubar|Mario Holubar]]'
 categories: []
 description: Automatically creates missing daily notes
-downloads: 1550
+downloads: 1562
 mobile: true
 number: 1387
 stars: 7

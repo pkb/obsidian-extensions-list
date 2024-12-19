@@ -3,13 +3,13 @@ aliases:
 - Day Planner (OG)
 author:
 - '[[authors/James Lynch|James Lynch]]'
-- '[[ebullient|continued by Erin Schnabel]]'
+- '[[authors/ebullient|continued by Erin Schnabel]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: A plugin to help you plan your day and setup pomodoro timers; fork of
   the original plugin by James Lynch (which stopped at 0.5.8) which preserves the
   look/feel and behavior of the original.
-downloads: 15448
+downloads: 15630
 mobile: true
 number: 1134
 stars: 115

@@ -2,15 +2,15 @@
 aliases:
 - PlantUML
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Render PlantUML Diagrams
-downloads: 88457
+downloads: 89118
 mobile: true
 number: 128
-stars: 415
+stars: 417
 title: PlantUML
 type: plugin
 updated: '2024-04-26T16:45:22'

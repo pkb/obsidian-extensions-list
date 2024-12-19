@@ -2,10 +2,10 @@
 aliases:
 - Link indexer
 author:
-- '[[aviskase|Yuliya Bagriy]]'
+- '[[authors/aviskase|Yuliya Bagriy]]'
 categories: []
 description: Generate index notes with links based on various conditions
-downloads: 6837
+downloads: 6842
 mobile: true
 number: 33
 stars: 28

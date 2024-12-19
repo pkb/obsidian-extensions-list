@@ -2,10 +2,10 @@
 aliases:
 - Page Scroll
 author:
-- '[[chenshutian9610|triski]]'
+- '[[authors/chenshutian9610|triski]]'
 categories: []
 description: Page Up|Down|Top|Bottom
-downloads: 587
+downloads: 606
 mobile: true
 number: 1743
 stars: 6

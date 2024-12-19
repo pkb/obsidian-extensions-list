@@ -2,10 +2,10 @@
 aliases:
 - Typing
 author:
-- '[[konodyuk|Nikita Konodyuk]]'
+- '[[authors/konodyuk|Nikita Konodyuk]]'
 categories: []
 description: Programmatic customizations for groups of notes
-downloads: 3233
+downloads: 3234
 mobile: true
 number: 1211
 stars: 134

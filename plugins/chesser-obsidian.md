@@ -2,11 +2,11 @@
 aliases:
 - Chesser
 author:
-- '[[SilentVoid13|SilentVoid]]'
+- '[[authors/SilentVoid13|SilentVoid]]'
 categories:
 - '[[categories/Games|Games]]'
 description: A chess game viewer/editor
-downloads: 9748
+downloads: 9784
 mobile: true
 number: 113
 stars: 114

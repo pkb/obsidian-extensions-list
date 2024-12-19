@@ -2,10 +2,10 @@
 aliases:
 - Image to notes by Photes.IO
 author:
-- '[[Kanaries|Kanaries Data Inc.]]'
+- '[[authors/Kanaries|Kanaries Data Inc.]]'
 categories: []
 description: Turn your images into text notes with AI
-downloads: 264
+downloads: 272
 mobile: true
 number: 1814
 stars: 2
@@ -18,9 +18,9 @@ version: 0.3.1
 
 %% README_START %%
 
-# Photes IO Obsidian Plugin
+# Pixno(photes.io) Obsidian Plugin
 
-Welcome to the Photes IO Obsidian Plugin! This plugin helps you generate notes from photos, leveraging advanced AI capabilities.
+Welcome to the Pixno(photes.io) Obsidian Plugin! This plugin helps you generate notes from photos, leveraging advanced AI capabilities.
 
 ## Table of Contents
 - [Photes IO Obsidian Plugin](#photes-io-obsidian-plugin)
@@ -84,5 +84,6 @@ Please see the [LICENSE](LICENSE) file.
 ## Thanks
 
 Thank you to them makers of [Image Context Menus](https://github.com/NomarCub/obsidian-copy-url-in-preview), as it was a greate reference for reading image in the markdown.
+
 
 %% README_END %%

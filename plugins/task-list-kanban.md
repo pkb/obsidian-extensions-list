@@ -2,13 +2,13 @@
 aliases:
 - Task List Kanban
 author:
-- '[[chrskerr|Chris Kerr]]'
+- '[[authors/chrskerr|Chris Kerr]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Organizes all of the tasks within your files into a kanban view. Reduce
   duplication of effort when managing and prioritising tasks by simply using the task
   format in your files to automatically appear in your Task List Kanban.
-downloads: 6067
+downloads: 6249
 mobile: true
 number: 1724
 stars: 26

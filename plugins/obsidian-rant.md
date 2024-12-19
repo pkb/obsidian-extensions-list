@@ -2,10 +2,10 @@
 aliases:
 - Rant-Lang
 author:
-- '[[lanice|Leander Neiß]]'
+- '[[authors/lanice|Leander Neiß]]'
 categories: []
 description: Thin wrapper around the Rant language Rust crate
-downloads: 4135
+downloads: 4137
 mobile: true
 number: 388
 stars: 13

@@ -2,11 +2,11 @@
 aliases:
 - Import GitHub Readme
 author:
-- '[[chasebank87|Chasebank87]]'
+- '[[authors/chasebank87|Chasebank87]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Fetches and integrates GitHub README files into personal notesmai
-downloads: 246
+downloads: 262
 mobile: true
 number: 1873
 stars: 7

@@ -2,14 +2,14 @@
 aliases:
 - Flashcard Generator
 author:
-- '[[chloedia|ChloeDia (improved by lulmer)]]'
+- '[[authors/chloedia|ChloeDia (improved by lulmer)]]'
 categories:
 - '[[categories/Learning|Learning]]'
 - '[[categories/AI assistance|AI assistance]]'
 description: 'Craft insightful quizzes: Generate key questions/answers pairs from
   your notes effortlessly using Open ai''s GPT-3/4 or local models. Elevate and optimize
   your learning journey.'
-downloads: 4066
+downloads: 4068
 mobile: true
 number: 1114
 stars: 18

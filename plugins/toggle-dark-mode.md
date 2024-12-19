@@ -2,10 +2,10 @@
 aliases:
 - Toggle Dark Mode
 author:
-- '[[juliavdkris|Julia van der Kris]]'
+- '[[authors/juliavdkris|Julia van der Kris]]'
 categories: []
 description: Adds a command to toggle dark mode on and off
-downloads: 837
+downloads: 874
 mobile: true
 number: 1714
 stars: 3

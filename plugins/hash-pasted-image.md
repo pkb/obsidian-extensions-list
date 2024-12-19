@@ -2,11 +2,11 @@
 aliases:
 - Hash Pasted Image
 author:
-- '[[hardingadonis|Minh Vương]]'
+- '[[authors/hardingadonis|Minh Vương]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Auto rename pasted images added to the vault via hash algorithm SHA-512
-downloads: 385
+downloads: 396
 mobile: false
 number: 1770
 stars: 3

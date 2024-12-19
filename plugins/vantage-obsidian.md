@@ -2,11 +2,11 @@
 aliases:
 - Vantage - Advanced search builder
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Build advanced search queries in Obsidian.
-downloads: 27368
+downloads: 27424
 mobile: true
 number: 79
 stars: 104

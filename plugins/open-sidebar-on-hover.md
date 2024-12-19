@@ -2,14 +2,14 @@
 aliases:
 - Open Sidebar on Hover
 author:
-- '[[AnAngryRaven|AnAngryRaven]]'
+- '[[authors/AnAngryRaven|AnAngryRaven]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Opens the sidebar by hovering over it.
-downloads: 814
+downloads: 866
 mobile: false
 number: 1927
-stars: 7
+stars: 9
 title: Open Sidebar on Hover
 type: plugin
 updated: '2024-10-05T16:20:05'

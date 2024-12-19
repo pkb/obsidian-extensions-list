@@ -2,10 +2,10 @@
 aliases:
 - Red Pen
 author:
-- '[[lucasmelin|Lucas Melin]]'
+- '[[authors/lucasmelin|Lucas Melin]]'
 categories: []
 description: Red Pen acts as a proofreader for your writing.
-downloads: 4258
+downloads: 4282
 mobile: true
 number: 1087
 stars: 8

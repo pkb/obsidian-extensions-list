@@ -2,11 +2,11 @@
 aliases:
 - Mixa
 author:
-- '[[mixasite|Mixa]]'
+- '[[authors/mixasite|Mixa]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes and blog posts with Mixa directly from Obsidian
-downloads: 3892
+downloads: 3901
 mobile: false
 number: 814
 stars: 18

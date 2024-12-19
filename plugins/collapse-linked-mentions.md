@@ -2,10 +2,10 @@
 aliases:
 - Collapse Linked Mentions
 author:
-- '[[n810K|n810]]'
+- '[[authors/n810K|n810]]'
 categories: []
 description: Automatically collapse embedded backlink mentions
-downloads: 192
+downloads: 205
 mobile: false
 number: 1911
 stars: 1

@@ -2,10 +2,10 @@
 aliases:
 - Markdown Attributes
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Add markdown attributes to elements in Obsidian.md
-downloads: 15276
+downloads: 15363
 mobile: true
 number: 236
 stars: 94

@@ -2,10 +2,10 @@
 aliases:
 - Note aliases
 author:
-- '[[pulsovi|Pulsovi]]'
+- '[[authors/pulsovi|Pulsovi]]'
 categories: []
 description: This plugin manage aliases of notes in Obsidian.
-downloads: 4397
+downloads: 4404
 mobile: true
 number: 781
 stars: 20

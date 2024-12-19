@@ -2,13 +2,13 @@
 aliases:
 - Timeline Schedule
 author:
-- '[[Ebonsignori|Evan Bonsignori]]'
+- '[[authors/Ebonsignori|Evan Bonsignori]]'
 categories:
 - '[[categories/Time management|Time management]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Inline timelines generated from human-readable time strings, e.g. 'Walk
   dog (30min)' in a ```schedule codeblock.
-downloads: 2060
+downloads: 2074
 mobile: true
 number: 1370
 stars: 15

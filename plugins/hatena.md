@@ -2,11 +2,11 @@
 aliases:
 - Hatena Blog Publisher
 author:
-- '[[takmatsukawa|Takuro Matsukawa]]'
+- '[[authors/takmatsukawa|Takuro Matsukawa]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post directly to your Hatena Blog.
-downloads: 1166
+downloads: 1170
 mobile: true
 number: 1392
 stars: 5

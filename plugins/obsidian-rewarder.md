@@ -2,11 +2,11 @@
 aliases:
 - Rewarder
 author:
-- '[[Gnopps|Obsidian]]'
+- '[[authors/Gnopps|Obsidian]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Gives you rewards for completing tasks/todos, highly configurable.
-downloads: 24104
+downloads: 24309
 mobile: true
 number: 502
 stars: 44

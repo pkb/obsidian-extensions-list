@@ -2,13 +2,13 @@
 aliases:
 - Strange New Worlds
 author:
-- '[[TfTHacker|TfTHacker]]'
+- '[[authors/TfTHacker|TfTHacker]]'
 categories: []
 description: Help see how your vault is interconnected with visual indicators.
-downloads: 77782
+downloads: 78795
 mobile: true
 number: 667
-stars: 462
+stars: 463
 title: Strange New Worlds
 type: plugin
 updated: '2024-12-05T12:00:22'

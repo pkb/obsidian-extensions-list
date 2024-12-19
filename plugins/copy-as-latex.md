@@ -2,14 +2,14 @@
 aliases:
 - Copy as Latex
 author:
-- '[[mo-seph|Dave Murray-Rust]]'
+- '[[authors/mo-seph|Dave Murray-Rust]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Plugin to quickly copy markdown as Latex, with citations
-downloads: 9319
+downloads: 9350
 mobile: false
 number: 344
-stars: 36
+stars: 37
 title: Copy as Latex
 type: plugin
 updated: '2022-02-10T23:23:37'

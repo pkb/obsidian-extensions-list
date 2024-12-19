@@ -2,11 +2,11 @@
 aliases:
 - Smart Links
 author:
-- '[[kemayo|David Lynch]]'
+- '[[authors/kemayo|David Lynch]]'
 categories: []
 description: This is a plugin for Obsidian that allows users to define custom link
   formats
-downloads: 4996
+downloads: 5023
 mobile: true
 number: 686
 stars: 28

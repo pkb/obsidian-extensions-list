@@ -2,10 +2,10 @@
 aliases:
 - Laser beam
 author:
-- '[[drbap|Bernardo Pires]]'
+- '[[authors/drbap|Bernardo Pires]]'
 categories: []
 description: Improve your reading experience with customizable laser lines.
-downloads: 570
+downloads: 580
 mobile: true
 number: 1673
 stars: 10

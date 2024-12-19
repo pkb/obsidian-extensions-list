@@ -2,11 +2,11 @@
 aliases:
 - Send to Ghost
 author:
-- '[[southpaw1496|Southpaw1496]]'
+- '[[authors/southpaw1496|Southpaw1496]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Send and publish notes to your Ghost blog with a single click
-downloads: 3358
+downloads: 3374
 mobile: false
 number: 1147
 stars: 30

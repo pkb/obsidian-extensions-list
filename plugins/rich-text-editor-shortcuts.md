@@ -2,11 +2,11 @@
 aliases:
 - Rich Text Editor Shortcuts
 author:
-- '[[joshuawootonn|Joshua Wootonn]]'
+- '[[authors/joshuawootonn|Joshua Wootonn]]'
 categories: []
 description: Create and toggle checkboxes, paste links wrapping your current selection,
   and toggle underline without leaving the keyboard.
-downloads: 434
+downloads: 449
 mobile: true
 number: 1821
 stars: 3

@@ -2,11 +2,11 @@
 aliases:
 - Notes Refresher
 author:
-- '[[connorpark24|Connor Park]]'
+- '[[authors/connorpark24|Connor Park]]'
 categories: []
 description: Provides AI-generated summaries (GPT) of three notes from your Vault
   every day.
-downloads: 282
+downloads: 292
 mobile: false
 number: 1773
 stars: 1

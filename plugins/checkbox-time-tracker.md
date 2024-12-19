@@ -2,11 +2,11 @@
 aliases:
 - Checkbox Time Tracker
 author:
-- '[[udus122|UD]]'
+- '[[authors/udus122|UD]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Insert timestamp when you check off the checkbox
-downloads: 858
+downloads: 878
 mobile: true
 number: 1682
 stars: 4

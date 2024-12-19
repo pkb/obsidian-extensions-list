@@ -2,18 +2,18 @@
 aliases:
 - WordWise
 author:
-- '[[ckt1031|ckt1031]]'
+- '[[authors/ckt1031|ckt1031]]'
 categories: []
 description: Writing companion for AI content generation.
-downloads: 2774
+downloads: 2851
 mobile: true
 number: 1429
 stars: 27
 title: WordWise
 type: plugin
-updated: '2024-11-17T21:16:12'
+updated: '2024-12-16T20:02:00'
 url: https://github.com/ckt1031/obsidian-wordwise-plugin
-version: 1.0.1
+version: 1.0.2
 ---
 
 %% README_START %%

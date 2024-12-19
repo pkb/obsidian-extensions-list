@@ -2,10 +2,10 @@
 aliases:
 - Etherpad
 author:
-- '[[egradman|egradman]]'
+- '[[authors/egradman|egradman]]'
 categories: []
 description: Etherpad Integration
-downloads: 4223
+downloads: 4229
 mobile: true
 number: 470
 stars: 60

@@ -2,11 +2,11 @@
 aliases:
 - Advanced Merger
 author:
-- '[[antoKeinanen|Anto Keinänen]]'
+- '[[authors/antoKeinanen|Anto Keinänen]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Merge a folder of notes for easier export.
-downloads: 8199
+downloads: 8314
 mobile: true
 number: 858
 stars: 15

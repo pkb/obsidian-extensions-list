@@ -2,11 +2,11 @@
 aliases:
 - Tokenz
 author:
-- '[[ferenk|Ferenc Moricz]]'
+- '[[authors/ferenk|Ferenc Moricz]]'
 categories: []
 description: 'Insert shortcodes into your document, e.g smileys :) or emojis :wink:
   . User-defined short code maps are also supported.'
-downloads: 200
+downloads: 218
 mobile: true
 number: 1884
 stars: 3

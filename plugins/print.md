@@ -2,13 +2,13 @@
 aliases:
 - Print
 author:
-- '[[marijnbent|Marijn Bent]]'
+- '[[authors/marijnbent|Marijn Bent]]'
 categories: []
 description: Print notes and documents directly from your workspace.
-downloads: 2788
+downloads: 3001
 mobile: false
 number: 1892
-stars: 27
+stars: 29
 title: Print
 type: plugin
 updated: '2024-09-27T16:49:36'

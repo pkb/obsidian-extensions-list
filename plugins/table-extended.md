@@ -2,10 +2,10 @@
 aliases:
 - Table Extended
 author:
-- '[[aidenlx|AidenLx]]'
+- '[[authors/aidenlx|AidenLx]]'
 categories: []
 description: Enable extended table support with MultiMarkdown 6 syntax
-downloads: 48369
+downloads: 48596
 mobile: true
 number: 146
 stars: 183

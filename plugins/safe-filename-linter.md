@@ -2,10 +2,10 @@
 aliases:
 - Safe Filename Linter
 author:
-- '[[sneaky-foxes|sneaky-foxes]]'
+- '[[authors/sneaky-foxes|sneaky-foxes]]'
 categories: []
 description: Lints filenames for invalid or troublesome characters
-downloads: 4026
+downloads: 4042
 mobile: true
 number: 1056
 stars: 12

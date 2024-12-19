@@ -2,10 +2,10 @@
 aliases:
 - Workbench
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories: []
 description: Keep a workbench of knowledge materials.
-downloads: 25801
+downloads: 25837
 mobile: true
 number: 28
 stars: 111

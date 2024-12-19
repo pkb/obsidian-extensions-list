@@ -2,12 +2,12 @@
 aliases:
 - Quiz Generator
 author:
-- '[[ECuiDev|Edward Cui]]'
+- '[[authors/ECuiDev|Edward Cui]]'
 categories: []
 description: Generate interactive flashcards from your notes using models from OpenAI
   (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your
   own to use with the quiz UI.
-downloads: 6675
+downloads: 6881
 mobile: true
 number: 1452
 stars: 100

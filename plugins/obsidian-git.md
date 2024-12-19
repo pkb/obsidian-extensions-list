@@ -2,15 +2,15 @@
 aliases:
 - Git
 author:
-- '[[Vinzent03|Vinzent]]'
+- '[[authors/Vinzent03|Vinzent]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Integrate Git version control with automatic backup and other advanced
   features.
-downloads: 1246832
+downloads: 1258812
 mobile: true
 number: 3
-stars: -1
+stars: 7100
 title: Git
 type: plugin
 updated: '2024-11-28T23:00:26'

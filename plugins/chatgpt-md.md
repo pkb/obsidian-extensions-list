@@ -2,14 +2,14 @@
 aliases:
 - ChatGPT MD
 author:
-- '[[bramses|Bram Adams]]'
+- '[[authors/bramses|Bram Adams]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A (nearly) seamless integration of ChatGPT into Obsidian.
-downloads: 38465
+downloads: 38727
 mobile: true
 number: 822
-stars: 864
+stars: 866
 title: ChatGPT MD
 type: plugin
 updated: '2023-04-04T03:06:20'

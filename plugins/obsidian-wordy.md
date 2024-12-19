@@ -2,11 +2,11 @@
 aliases:
 - Wordy
 author:
-- '[[nqthqn|Nate]]'
+- '[[authors/nqthqn|Nate]]'
 categories: []
 description: Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse
   API
-downloads: 10167
+downloads: 10223
 mobile: true
 number: 729
 stars: 46

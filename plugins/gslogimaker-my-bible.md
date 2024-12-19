@@ -2,18 +2,18 @@
 aliases:
 - My Bible
 author:
-- '[[GsLogiMaker|GsLogimaker]]'
+- '[[authors/GsLogiMaker|GsLogimaker]]'
 categories: []
 description: Your own customizable markdown bible for your personal vault!
-downloads: 4194
+downloads: 4319
 mobile: true
 number: 1410
-stars: 27
+stars: 29
 title: My Bible
 type: plugin
-updated: '2024-11-21T23:25:17'
+updated: '2024-12-18T03:35:37'
 url: https://github.com/GsLogiMaker/my-bible-obsidian-plugin
-version: 1.3.3
+version: 1.3.4
 ---
 
 %% README_START %%

@@ -2,12 +2,12 @@
 aliases:
 - Unique attachments
 author:
-- '[[dy-sh|Dmitry Savosh]]'
+- '[[authors/dy-sh|Dmitry Savosh]]'
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Rename attachments, making their names unique (based on hashing of file
   content)
-downloads: 10527
+downloads: 10555
 mobile: true
 number: 131
 stars: 46

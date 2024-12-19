@@ -2,10 +2,10 @@
 aliases:
 - File indicators
 author:
-- '[[JakobMick|Jakob]]'
+- '[[authors/JakobMick|Jakob]]'
 categories: []
 description: Add custom indicators to the file explorer.
-downloads: 3059
+downloads: 3077
 mobile: true
 number: 1280
 stars: 7

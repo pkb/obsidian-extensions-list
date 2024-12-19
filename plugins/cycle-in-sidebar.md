@@ -2,11 +2,11 @@
 aliases:
 - Cycle In Sidebar
 author:
-- '[[houcheng|Houcheng]]'
+- '[[authors/houcheng|Houcheng]]'
 categories: []
 description: This a plugin provides hotkeys to cycle through tabs in the left or right
   sidebars.
-downloads: 4577
+downloads: 4632
 mobile: true
 number: 776
 stars: 12

@@ -2,10 +2,10 @@
 aliases:
 - Show Current File Path
 author:
-- '[[ravimashru|Ravi Mashru]]'
+- '[[authors/ravimashru|Ravi Mashru]]'
 categories: []
 description: Show the full path of the currently open file in the status bar
-downloads: 30668
+downloads: 30743
 mobile: true
 number: 94
 stars: 51

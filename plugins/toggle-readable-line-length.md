@@ -2,10 +2,10 @@
 aliases:
 - Toggle Readable line length
 author:
-- '[[drichardson|Doug Richardson]]'
+- '[[authors/drichardson|Doug Richardson]]'
 categories: []
 description: Add command to toggle Readable line length editor setting.
-downloads: 642
+downloads: 666
 mobile: true
 number: 1718
 stars: 0

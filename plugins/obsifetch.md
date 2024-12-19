@@ -5,7 +5,7 @@ author:
 - '[[authors/tabibyte|tabibyte]]'
 categories: []
 description: A neofetch-style vault information display
-downloads: 285
+downloads: 322
 mobile: false
 number: 2046
 stars: 60

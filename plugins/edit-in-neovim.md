@@ -2,10 +2,10 @@
 aliases:
 - Edit in Neovim
 author:
-- '[[TheseusGrey|Theseus]]'
+- '[[authors/TheseusGrey|Theseus]]'
 categories: []
 description: Open a Neovim buffer for the currently open file
-downloads: 1335
+downloads: 1395
 mobile: false
 number: 1756
 stars: 12

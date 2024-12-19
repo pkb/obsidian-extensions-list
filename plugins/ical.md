@@ -2,13 +2,13 @@
 aliases:
 - iCal
 author:
-- '[[andrewbrereton|Andrew Brereton]]'
+- '[[authors/andrewbrereton|Andrew Brereton]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Scans your vault for tasks. Creates an iCal file and stores it on Gist.
   You can then show this calendar in any iCal compatible client such as Outlook, Google
   Calendar, Apple Calendar, etc.
-downloads: 6275
+downloads: 6330
 mobile: true
 number: 1274
 stars: 62

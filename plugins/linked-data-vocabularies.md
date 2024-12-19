@@ -2,10 +2,10 @@
 aliases:
 - Linked Data Vocabularies
 author:
-- '[[kometenstaub|kometenstaub]]'
+- '[[authors/kometenstaub|kometenstaub]]'
 categories: []
 description: Add linked data (LCSH) as metadata to your notes.
-downloads: 5094
+downloads: 5098
 mobile: true
 number: 916
 stars: 88

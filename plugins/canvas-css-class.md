@@ -2,11 +2,11 @@
 aliases:
 - Canvas CSS class
 author:
-- '[[Mara-Li|Mara-Li]]'
+- '[[authors/Mara-Li|Mara-Li]]'
 categories:
 - '[[categories/Canvas]]'
 description: Add a CSS class to the canvas, but also other attributes.
-downloads: 18807
+downloads: 18925
 mobile: true
 number: 753
 stars: 38

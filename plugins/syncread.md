@@ -2,10 +2,10 @@
 aliases:
 - syncread-assistant
 author:
-- '[[flyer1b|flyer1b]]'
+- '[[authors/flyer1b|flyer1b]]'
 categories: []
 description: sync articles from syncread app
-downloads: 1918
+downloads: 1922
 mobile: false
 number: 1335
 stars: 1

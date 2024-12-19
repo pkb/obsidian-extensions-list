@@ -2,11 +2,11 @@
 aliases:
 - Paper Importer
 author:
-- '[[chenzhekl|Zhe Chen]]'
+- '[[authors/chenzhekl|Zhe Chen]]'
 categories:
 - '[[categories/Import|Import]]'
 description: Import papers from arXiv with one click.
-downloads: 79
+downloads: 93
 mobile: true
 number: 2028
 stars: 1

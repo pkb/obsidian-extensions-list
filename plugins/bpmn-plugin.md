@@ -2,15 +2,15 @@
 aliases:
 - BPMN
 author:
-- '[[joleaf|JoLeaf]]'
+- '[[authors/joleaf|JoLeaf]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: This plugin enables viewing/editing/simulating BPMNs using bpmn-js.
-downloads: 7372
+downloads: 7450
 mobile: true
 number: 688
-stars: 26
+stars: 28
 title: BPMN
 type: plugin
 updated: '2024-11-16T21:09:03'

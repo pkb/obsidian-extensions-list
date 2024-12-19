@@ -2,11 +2,11 @@
 aliases:
 - Live Variables
 author:
-- '[[HamzaBenyazid|Hamza Ben Yazid]]'
+- '[[authors/HamzaBenyazid|Hamza Ben Yazid]]'
 categories: []
 description: Define variables in your note's properties and reuse them throughout
   your content.
-downloads: 1163
+downloads: 1216
 mobile: true
 number: 1871
 stars: 20

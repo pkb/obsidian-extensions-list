@@ -2,14 +2,14 @@
 aliases:
 - Hider
 author:
-- '[[kepano|@kepano]]'
+- '[[authors/kepano|@kepano]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Hide UI elements such as tooltips, status, titlebar and more
-downloads: 257037
+downloads: 258896
 mobile: true
 number: 21
-stars: 394
+stars: 397
 title: Hider
 type: plugin
 updated: '2024-08-26T03:34:12'

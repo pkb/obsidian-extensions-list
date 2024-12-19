@@ -2,10 +2,10 @@
 aliases:
 - Copy Inline Code
 author:
-- '[[Alddar|Ondrej Zavodny]]'
+- '[[authors/Alddar|Ondrej Zavodny]]'
 categories: []
 description: Easily copy the contents of an inline code element with a single click.
-downloads: 6720
+downloads: 6797
 mobile: true
 number: 1057
 stars: 28

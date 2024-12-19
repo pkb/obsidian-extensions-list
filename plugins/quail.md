@@ -2,11 +2,11 @@
 aliases:
 - Quail
 author:
-- '[[lyricat|Lyric]]'
+- '[[authors/lyricat|Lyric]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Save, publish, delivery notes via Quail.ink as newsletters and blogs.
-downloads: 3759
+downloads: 3763
 mobile: true
 number: 1054
 stars: 5

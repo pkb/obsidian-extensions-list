@@ -2,11 +2,11 @@
 aliases:
 - Plugin Manager
 author:
-- '[[ohm-en|ohm-en]]'
+- '[[authors/ohm-en|ohm-en]]'
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Extends plugin management of Obsidian.MD
-downloads: 8626
+downloads: 8754
 mobile: true
 number: 936
 stars: 88

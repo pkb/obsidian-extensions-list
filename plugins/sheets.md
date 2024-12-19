@@ -2,14 +2,14 @@
 aliases:
 - Sheets Extended
 author:
-- '[[NicoNekoru|NicoNekoru]]'
+- '[[authors/NicoNekoru|NicoNekoru]]'
 categories: []
 description: Vertical headers, merged cells, and custom css tables with advanced table
   compatibility
-downloads: 22544
+downloads: 22894
 mobile: true
 number: 1118
-stars: 103
+stars: 104
 title: Sheets Extended
 type: plugin
 updated: '2024-03-19T13:31:50'

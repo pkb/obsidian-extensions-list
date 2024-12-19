@@ -2,14 +2,14 @@
 aliases:
 - Save as Gist
 author:
-- '[[ghedamat|ghedamat]]'
+- '[[authors/ghedamat|ghedamat]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Saving your current note as Gist on github
-downloads: 4084
+downloads: 4087
 mobile: true
 number: 418
-stars: 24
+stars: 25
 title: Save as Gist
 type: plugin
 updated: '2022-01-25T09:36:12'

@@ -2,13 +2,13 @@
 aliases:
 - Heading Level Indent
 author:
-- '[[svonjoi|svonjoi]]'
+- '[[authors/svonjoi|svonjoi]]'
 categories: []
 description: Indenting content under headers based on their level
-downloads: 12126
+downloads: 12359
 mobile: true
 number: 804
-stars: 55
+stars: 57
 title: Heading Level Indent
 type: plugin
 updated: '2024-05-30T05:25:41'

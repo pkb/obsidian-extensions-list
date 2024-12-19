@@ -2,11 +2,11 @@
 aliases:
 - Subdivider
 author:
-- '[[MediosZ|Tricster]]'
+- '[[authors/MediosZ|Tricster]]'
 categories: []
 description: Converts your notes into nested folders, automatically creating separate
   files for each subheading.
-downloads: 3215
+downloads: 3240
 mobile: true
 number: 1332
 stars: 13

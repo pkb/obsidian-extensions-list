@@ -2,10 +2,10 @@
 aliases:
 - Obsidian Columns
 author:
-- '[[tnichols217|Trevor Nichols]]'
+- '[[authors/tnichols217|Trevor Nichols]]'
 categories: []
 description: Allows you to create columns in Obsidian Markdown
-downloads: 51054
+downloads: 51847
 mobile: true
 number: 497
 stars: 214

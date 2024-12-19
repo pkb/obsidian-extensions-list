@@ -2,10 +2,10 @@
 aliases:
 - Tag Links
 author:
-- '[[zedseven|Zacchary Dempsey-Plante]]'
+- '[[authors/zedseven|Zacchary Dempsey-Plante]]'
 categories: []
 description: Allows tags to be opened as links using a hotkey.
-downloads: 793
+downloads: 797
 mobile: true
 number: 1549
 stars: 4

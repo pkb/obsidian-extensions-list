@@ -2,10 +2,10 @@
 aliases:
 - Random Number Generator
 author:
-- '[[iRewiewer|iRewiewer]]'
+- '[[authors/iRewiewer|iRewiewer]]'
 categories: []
 description: Insert a random number.
-downloads: 2388
+downloads: 2395
 mobile: true
 number: 1268
 stars: 1

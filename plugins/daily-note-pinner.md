@@ -2,11 +2,11 @@
 aliases:
 - Daily Note Pinner
 author:
-- '[[lukemt|LukeMT]]'
+- '[[authors/lukemt|LukeMT]]'
 categories: []
 description: Pins the Daily Note of the present day. Unpinns all Daily Notes of past
   and future days.
-downloads: 3349
+downloads: 3369
 mobile: true
 number: 1224
 stars: 14

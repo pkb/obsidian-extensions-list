@@ -2,11 +2,11 @@
 aliases:
 - Local GraphQL
 author:
-- '[[TwIStOy|Hawtian Wang]]'
+- '[[authors/TwIStOy|Hawtian Wang]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export Obsidian data as a local GraphQL server.
-downloads: 2236
+downloads: 2245
 mobile: false
 number: 1286
 stars: 9

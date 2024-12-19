@@ -2,12 +2,12 @@
 aliases:
 - WakaTime
 author:
-- '[[wakatime|WakaTime]]'
+- '[[authors/wakatime|WakaTime]]'
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Automatic time tracking and metrics generated from your Obsidian usage
   activity.
-downloads: 9325
+downloads: 9378
 mobile: false
 number: 733
 stars: 63

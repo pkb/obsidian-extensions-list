@@ -2,10 +2,10 @@
 aliases:
 - GitHub Link
 author:
-- '[[nathonius|Nathonius]]'
+- '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Enrich your notes with issue and pull request content from GitHub
-downloads: 2357
+downloads: 2381
 mobile: true
 number: 1431
 stars: 31

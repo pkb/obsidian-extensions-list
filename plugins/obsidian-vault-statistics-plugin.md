@@ -2,12 +2,12 @@
 aliases:
 - Vault Statistics
 author:
-- '[[bkyle|Bryan Kyle]]'
+- '[[authors/bkyle|Bryan Kyle]]'
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Status bar item with vault statistics such as number of notes, files,
   attachments, and links.
-downloads: 36173
+downloads: 36317
 mobile: true
 number: 104
 stars: 80

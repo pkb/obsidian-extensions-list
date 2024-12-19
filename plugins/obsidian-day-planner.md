@@ -3,14 +3,14 @@ aliases:
 - Day Planner
 author:
 - '[[authors/James Lynch|James Lynch]]'
-- '[[ivan-lednev|continued by Ivan Lednev]]'
+- '[[authors/ivan-lednev|continued by Ivan Lednev]]'
 categories:
 - '[[categories/Planning|Planning]]'
 description: A day planner with clean UI and readable syntax
-downloads: 556214
+downloads: 560698
 mobile: true
 number: 19
-stars: 2100
+stars: 2200
 title: Day Planner
 type: plugin
 updated: '2024-11-21T01:01:39'

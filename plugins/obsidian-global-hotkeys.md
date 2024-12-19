@@ -2,13 +2,13 @@
 aliases:
 - Global Hotkeys
 author:
-- '[[mjessome|Marc Jessome]]'
+- '[[authors/mjessome|Marc Jessome]]'
 categories: []
 description: Add support for global hotkeys
-downloads: 10168
+downloads: 10209
 mobile: false
 number: 389
-stars: 83
+stars: 86
 title: Global Hotkeys
 type: plugin
 updated: '2022-03-15T20:21:16'

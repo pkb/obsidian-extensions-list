@@ -2,11 +2,11 @@
 aliases:
 - Personal OS
 author:
-- '[[GengAd|A.Buot]]'
+- '[[authors/GengAd|A.Buot]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Streamlining task management and productivity with a touch of gamification
-downloads: 762
+downloads: 773
 mobile: true
 number: 1608
 stars: 8

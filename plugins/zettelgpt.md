@@ -2,11 +2,11 @@
 aliases:
 - ZettelGPT
 author:
-- '[[OverRaddit|Overraddit]]'
+- '[[authors/OverRaddit|Overraddit]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: 'ZettelGPT: Turbocharge Your Note-taking with AI Assistance'
-downloads: 4406
+downloads: 4419
 mobile: true
 number: 1029
 stars: 20

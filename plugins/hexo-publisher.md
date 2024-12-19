@@ -2,14 +2,14 @@
 aliases:
 - Hexo Publisher
 author:
-- '[[zhenlohuang|zhenlohuang]]'
+- '[[authors/zhenlohuang|zhenlohuang]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to Hexo
-downloads: 120
+downloads: 123
 mobile: false
 number: 1825
-stars: 4
+stars: 5
 title: Hexo Publisher
 type: plugin
 updated: '2024-06-30T18:24:49'

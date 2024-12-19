@@ -2,11 +2,11 @@
 aliases:
 - ai-writer
 author:
-- '[[Donovan-Ye|Donovan Ye]]'
+- '[[authors/Donovan-Ye|Donovan Ye]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use AI to generate high-quality articles with knowledge fragments.
-downloads: 690
+downloads: 707
 mobile: true
 number: 1623
 stars: 10

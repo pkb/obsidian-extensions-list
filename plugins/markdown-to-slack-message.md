@@ -2,11 +2,11 @@
 aliases:
 - Markdown to Slack Message
 author:
-- '[[idreamer|Woongshik Choi]]'
+- '[[authors/idreamer|Woongshik Choi]]'
 categories: []
 description: Converts a markdown note to the Slack message blocks that enable you
   to send to your Slack
-downloads: 3793
+downloads: 3805
 mobile: true
 number: 1033
 stars: 5

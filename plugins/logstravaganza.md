@@ -2,11 +2,11 @@
 aliases:
 - Logstravaganza
 author:
-- '[[czottmann|Carlo Zottmann]]'
+- '[[authors/czottmann|Carlo Zottmann]]'
 categories: []
 description: A simple proxy for `console.*()` calls which copies log messages and
   uncaught exceptions to a file.
-downloads: 5183
+downloads: 5208
 mobile: true
 number: 987
 stars: 32

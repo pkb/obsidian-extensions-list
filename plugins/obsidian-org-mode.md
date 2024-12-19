@@ -2,10 +2,10 @@
 aliases:
 - Org Mode
 author:
-- '[[ryanpcmcquen|ryanpcmcquen]]'
+- '[[authors/ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Add Org Mode support to Obsidian.
-downloads: 11310
+downloads: 11405
 mobile: true
 number: 173
 stars: 200

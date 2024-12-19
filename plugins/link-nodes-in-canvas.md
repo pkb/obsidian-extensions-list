@@ -2,11 +2,11 @@
 aliases:
 - Link Nodes In Canvas
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories: []
 description: A plugin for you to add edges between notes in Canvas based on their
   links.
-downloads: 9980
+downloads: 10035
 mobile: true
 number: 752
 stars: 60

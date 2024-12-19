@@ -2,10 +2,10 @@
 aliases:
 - Related Notes Finder
 author:
-- '[[lifegems|Joshua Michalik]]'
+- '[[authors/lifegems|Joshua Michalik]]'
 categories: []
 description: An Obsidian plugin that adds extra features for finding related notes.
-downloads: 6739
+downloads: 6755
 mobile: true
 number: 178
 stars: 31

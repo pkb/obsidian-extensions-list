@@ -2,14 +2,14 @@
 aliases:
 - 3D Graph New
 author:
-- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
+- '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian
-downloads: 9464
+downloads: 9583
 mobile: false
 number: 1284
-stars: 129
+stars: 130
 title: 3D Graph New
 type: plugin
 updated: '2023-12-24T05:05:45'

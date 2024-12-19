@@ -2,10 +2,10 @@
 aliases:
 - JavaScript Init
 author:
-- '[[ryanpcmcquen|ryanpcmcquen]]'
+- '[[authors/ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Run JavaScript when Obsidian loads, or any other time.
-downloads: 5426
+downloads: 5434
 mobile: true
 number: 314
 stars: 23

@@ -2,11 +2,11 @@
 aliases:
 - Multilingual
 author:
-- '[[leolazou|leolazou]]'
+- '[[authors/leolazou|leolazou]]'
 categories: []
 description: Simplify linking notes across multiple languages by automatically adding
   translations of note names into aliases. Designed for multilingual users.
-downloads: 1231
+downloads: 1247
 mobile: true
 number: 1541
 stars: 11

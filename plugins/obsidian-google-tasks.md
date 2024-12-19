@@ -2,15 +2,15 @@
 aliases:
 - Google Tasks
 author:
-- '[[YukiGasai|YukiGasai]]'
+- '[[authors/YukiGasai|YukiGasai]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Interact with your Google Tasks from Inside Obsidian
-downloads: 13830
+downloads: 13916
 mobile: true
 number: 487
-stars: 136
+stars: 138
 title: Google Tasks
 type: plugin
 updated: '2023-03-26T06:50:57'

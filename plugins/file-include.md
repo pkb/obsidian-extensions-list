@@ -2,12 +2,12 @@
 aliases:
 - File Include
 author:
-- '[[tillahoffmann|Till Hoffmann]]'
+- '[[authors/tillahoffmann|Till Hoffmann]]'
 categories:
 - '[[categories/Code and development|Code and development]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Include or embed files in Obsidian markdown.
-downloads: 4004
+downloads: 4011
 mobile: true
 number: 969
 stars: 28

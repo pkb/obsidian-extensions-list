@@ -2,10 +2,10 @@
 aliases:
 - Checkbox Reorder
 author:
-- '[[Erl-koenig|Ivan Knöfler]]'
+- '[[authors/Erl-koenig|Ivan Knöfler]]'
 categories: []
 description: Reorder completed checkboxes to the end of the according list.
-downloads: 5264
+downloads: 5285
 mobile: true
 number: 1098
 stars: 8

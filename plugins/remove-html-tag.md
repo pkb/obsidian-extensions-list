@@ -2,11 +2,11 @@
 aliases:
 - Remove HTML Tag
 author:
-- '[[gitcpy|ChenPengyuan]]'
+- '[[authors/gitcpy|ChenPengyuan]]'
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Remove HTML tag in Markdown file
-downloads: 177
+downloads: 188
 mobile: true
 number: 1912
 stars: 0

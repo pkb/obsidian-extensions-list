@@ -2,11 +2,11 @@
 aliases:
 - Line Arrange
 author:
-- '[[chitwan27|Chitwan Singh]]'
+- '[[authors/chitwan27|Chitwan Singh]]'
 categories: []
 description: Shuffle, reverse, or sort lines, using either visual width or lexical
   order.
-downloads: 1803
+downloads: 1929
 mobile: true
 number: 1720
 stars: 3

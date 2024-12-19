@@ -2,13 +2,13 @@
 aliases:
 - Easy Bake
 author:
-- '[[mgmeyers|mgmeyers]]'
+- '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Easily compile many Obsidian notes down to a single file.
-downloads: 5941
+downloads: 6007
 mobile: true
 number: 1060
-stars: 72
+stars: 74
 title: Easy Bake
 type: plugin
 updated: '2024-02-21T00:47:59'

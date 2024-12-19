@@ -2,10 +2,10 @@
 aliases:
 - Stenography
 author:
-- '[[bramses|bramses]]'
+- '[[authors/bramses|bramses]]'
 categories: []
 description: Auto Describe your code with machine learning using the Stenography API
-downloads: 4462
+downloads: 4467
 mobile: true
 number: 333
 stars: 26

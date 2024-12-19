@@ -2,11 +2,11 @@
 aliases:
 - Archive/trash to single note
 author:
-- '[[mwoz123|mwoz123]]'
+- '[[authors/mwoz123|mwoz123]]'
 categories: []
 description: Allows to create single file archive/trash and merge(archive) old notes
   with it.
-downloads: 2487
+downloads: 2491
 mobile: true
 number: 1231
 stars: 2

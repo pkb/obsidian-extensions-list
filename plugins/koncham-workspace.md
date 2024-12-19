@@ -2,10 +2,10 @@
 aliases:
 - koncham workspace
 author:
-- '[[manogna4|mano]]'
+- '[[authors/manogna4|mano]]'
 categories: []
 description: 'obsidian workspace enhancements: vertical tabs, and more...'
-downloads: 4653
+downloads: 4656
 mobile: false
 number: 179
 stars: 22

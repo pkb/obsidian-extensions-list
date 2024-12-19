@@ -2,10 +2,10 @@
 aliases:
 - Auto Split
 author:
-- '[[jsartelle|James Sartelle]]'
+- '[[authors/jsartelle|James Sartelle]]'
 categories: []
 description: Open notes with side-by-side editor & preview
-downloads: 8822
+downloads: 8858
 mobile: true
 number: 345
 stars: 32

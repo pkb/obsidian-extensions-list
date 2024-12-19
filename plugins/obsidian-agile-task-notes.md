@@ -2,12 +2,12 @@
 aliases:
 - Agile Task Notes
 author:
-- '[[BoxThatBeat|BoxThatBeat]]'
+- '[[authors/BoxThatBeat|BoxThatBeat]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Import your tasks from your TFS (Azure or Jira) to take notes on them
   and make todo-lists!
-downloads: 8639
+downloads: 8673
 mobile: true
 number: 593
 stars: 42

@@ -2,14 +2,14 @@
 aliases:
 - Jump-to-Date
 author:
-- '[[TfTHacker|TfT Hacker]]'
+- '[[authors/TfTHacker|TfT Hacker]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Popup calendar for quickly navigating dates
-downloads: 15896
+downloads: 16003
 mobile: true
 number: 279
-stars: 40
+stars: 41
 title: Jump-to-Date
 type: plugin
 updated: '2024-11-05T21:44:44'

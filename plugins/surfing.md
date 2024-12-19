@@ -2,13 +2,13 @@
 aliases:
 - Surfing
 author:
-- '[[PKM-er|Boninall & Windily-cloud]]'
+- '[[authors/PKM-er|Boninall & Windily-cloud]]'
 categories: []
 description: Surf the Net in Obsidian.
-downloads: 77757
+downloads: 78642
 mobile: false
 number: 720
-stars: 475
+stars: 476
 title: Surfing
 type: plugin
 updated: '2024-11-09T21:40:58'

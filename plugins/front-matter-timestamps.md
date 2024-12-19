@@ -2,19 +2,19 @@
 aliases:
 - Front Matter Timestamps
 author:
-- '[[lighthousedino|LighthouseDino]]'
+- '[[authors/lighthousedino|LighthouseDino]]'
 categories: []
 description: Automatically manages and updates 'created' and 'modified' timestamps
   in the frontmatter of your notes
-downloads: 2163
+downloads: 2336
 mobile: true
 number: 1751
 stars: 8
 title: Front Matter Timestamps
 type: plugin
-updated: '2024-10-13T17:46:53'
+updated: '2024-12-15T21:15:08'
 url: https://github.com/lighthousedino/obsidian-front-matter-timestamps
-version: 1.5.0
+version: 1.5.1
 ---
 
 %% README_START %%

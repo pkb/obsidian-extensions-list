@@ -2,10 +2,10 @@
 aliases:
 - Power Search
 author:
-- '[[aviral-batra|Aviral Batra]]'
+- '[[authors/aviral-batra|Aviral Batra]]'
 categories: []
 description: Searches Obsidian and Anki Notes based on current line
-downloads: 5238
+downloads: 5248
 mobile: false
 number: 421
 stars: 22

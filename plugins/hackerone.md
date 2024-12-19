@@ -2,19 +2,19 @@
 aliases:
 - HackerOne
 author:
-- '[[Neolex-Security|Neolex]]'
+- '[[authors/Neolex-Security|Neolex]]'
 categories: []
 description: Unofficial plugin to fetch your bug reports from HackerOne. (needs dataview
   plugin)
-downloads: 3431
+downloads: 3445
 mobile: true
 number: 958
 stars: 12
 title: HackerOne
 type: plugin
-updated: '2024-01-21T21:35:04'
+updated: '2024-12-17T17:30:27'
 url: https://github.com/Neolex-Security/obsidian-hackerone
-version: 1.0.8
+version: 1.0.9
 ---
 
 %% README_START %%

@@ -2,11 +2,11 @@
 aliases:
 - Geulo
 author:
-- '[[zzunebye|Junyoung Bang]]'
+- '[[authors/zzunebye|Junyoung Bang]]'
 categories: []
 description: Effortlessly fetch and manage all the YouTube videos you've liked, search
   and sort them, and add them to your daily note.
-downloads: 428
+downloads: 440
 mobile: false
 number: 1838
 stars: 8

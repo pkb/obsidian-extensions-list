@@ -2,10 +2,10 @@
 aliases:
 - Expand Bullet
 author:
-- '[[Quorafind|Obsidian]]'
+- '[[authors/Quorafind|Obsidian]]'
 categories: []
 description: A plugin for transforming bullet content into note.
-downloads: 4713
+downloads: 4720
 mobile: true
 number: 531
 stars: 15

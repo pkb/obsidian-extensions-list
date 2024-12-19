@@ -2,11 +2,11 @@
 aliases:
 - Nifty Links
 author:
-- '[[x-Ai|x-Ai]]'
+- '[[authors/x-Ai|x-Ai]]'
 categories: []
 description: Generate elegant, Notion-style rich link cards to enhance your note-taking
   experience
-downloads: 6602
+downloads: 6651
 mobile: true
 number: 1120
 stars: 23

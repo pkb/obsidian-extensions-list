@@ -2,11 +2,11 @@
 aliases:
 - Colored Text
 author:
-- '[[erincayaz|Erinc Ayaz]]'
+- '[[authors/erincayaz|Erinc Ayaz]]'
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Color the selected texts.
-downloads: 107663
+downloads: 109454
 mobile: true
 number: 920
 stars: 83

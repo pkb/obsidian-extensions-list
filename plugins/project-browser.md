@@ -2,14 +2,14 @@
 aliases:
 - Project Browser
 author:
-- '[[daledesilva|Dale de Silva]]'
+- '[[authors/daledesilva|Dale de Silva]]'
 categories: []
 description: Replaces your new tab window with a browseable list of the files and
   folders in your vault.
-downloads: 6033
+downloads: 6121
 mobile: true
 number: 1527
-stars: 51
+stars: 53
 title: Project Browser
 type: plugin
 updated: '2024-10-15T19:00:02'

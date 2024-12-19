@@ -2,10 +2,10 @@
 aliases:
 - MathLive in Editor Mode
 author:
-- '[[MizarZh|MizarZh]]'
+- '[[authors/MizarZh|MizarZh]]'
 categories: []
 description: MathLive input in editor mode
-downloads: 1037
+downloads: 1058
 mobile: true
 number: 1670
 stars: 7

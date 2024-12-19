@@ -2,10 +2,10 @@
 aliases:
 - Check and Delete
 author:
-- '[[Danitiate|Danitiate]]'
+- '[[authors/Danitiate|Danitiate]]'
 categories: []
 description: Quickly clean up temporary list-items with the press of a button
-downloads: 79
+downloads: 89
 mobile: true
 number: 2003
 stars: 0

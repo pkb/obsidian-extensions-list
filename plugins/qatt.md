@@ -2,14 +2,14 @@
 aliases:
 - Query all the things
 author:
-- '[[sytone|Sytone]]'
+- '[[authors/sytone|Sytone]]'
 categories: []
 description: Execute SQL base queries against your data in Obsidian and render it
   how you want using templates.
-downloads: 7065
+downloads: 7104
 mobile: true
 number: 983
-stars: 133
+stars: 136
 title: Query all the things
 type: plugin
 updated: '2024-10-19T05:46:48'

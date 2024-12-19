@@ -2,17 +2,17 @@
 aliases:
 - Markmind
 author:
-- '[[MarkMindCkm|Mark]]'
+- '[[authors/MarkMindCkm|Mark]]'
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: This is a mindmap，outline tool for obsidian.
-downloads: 317638
+downloads: 321090
 mobile: true
 number: 287
-stars: 804
+stars: 806
 title: Markmind
 type: plugin
-updated: '2024-11-29T17:29:45'
+updated: '2024-12-11T09:44:21'
 url: https://github.com/MarkMindCkm/obsidian-markmind
 version: 3.0.9
 ---

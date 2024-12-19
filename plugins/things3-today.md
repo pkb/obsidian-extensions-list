@@ -2,12 +2,12 @@
 aliases:
 - Things3 Today
 author:
-- '[[wudanyang6|wudanyang6]]'
+- '[[authors/wudanyang6|wudanyang6]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Manage today's tasks with Things3
-downloads: 1629
+downloads: 1649
 mobile: false
 number: 1506
 stars: 13

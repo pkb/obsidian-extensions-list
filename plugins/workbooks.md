@@ -2,12 +2,12 @@
 aliases:
 - Workbooks
 author:
-- '[[Canna71|Gabriele Cannata]]'
+- '[[authors/Canna71|Gabriele Cannata]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Work with Spreadsheets inside your notes
-downloads: 6366
+downloads: 6390
 mobile: false
 number: 1133
 stars: 25

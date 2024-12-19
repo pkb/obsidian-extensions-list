@@ -2,11 +2,11 @@
 aliases:
 - File Creation and Last Modified Timestamps in Status Bar
 author:
-- '[[Yustynn|Yustynn]]'
+- '[[authors/Yustynn|Yustynn]]'
 categories: []
 description: Dynamic display of file modification and creation timestamps in the status
   bar.
-downloads: 6507
+downloads: 6559
 mobile: false
 number: 923
 stars: 16

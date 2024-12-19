@@ -2,11 +2,11 @@
 aliases:
 - Crumbs
 author:
-- '[[tgrosinger|Tony Grosinger]]'
+- '[[authors/tgrosinger|Tony Grosinger]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Breadcrumb navigation in Obsidian
-downloads: 5087
+downloads: 5100
 mobile: false
 number: 712
 stars: 26

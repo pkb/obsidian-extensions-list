@@ -2,10 +2,10 @@
 aliases:
 - Target Word Count
 author:
-- '[[twofive-labs|TwoFive Labs]]'
+- '[[authors/twofive-labs|TwoFive Labs]]'
 categories: []
 description: Disable editing until you've added a target number of words.
-downloads: 647
+downloads: 654
 mobile: true
 number: 1578
 stars: 3

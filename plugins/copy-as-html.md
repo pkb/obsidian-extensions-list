@@ -2,12 +2,12 @@
 aliases:
 - Copy as HTML
 author:
-- '[[jenningsb2|Bailey Jennings]]'
+- '[[authors/jenningsb2|Bailey Jennings]]'
 categories:
 - '[[categories/Export|Export]]'
 description: This is a simple plugin that converts the selected markdown to HTML and
   copies it to the clipboard.
-downloads: 33131
+downloads: 33337
 mobile: true
 number: 410
 stars: 40

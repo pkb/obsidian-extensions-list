@@ -2,11 +2,11 @@
 aliases:
 - Publish url
 author:
-- '[[HananoshikaYomaru|Hananoshika Yomaru]]'
+- '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Obsidian Publish url to the clipboard
-downloads: 2227
+downloads: 2231
 mobile: true
 number: 1283
 stars: 3

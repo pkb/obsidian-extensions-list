@@ -2,12 +2,12 @@
 aliases:
 - Datepicker
 author:
-- '[[joycode-hub|Mostafa Mohamed]]'
+- '[[authors/joycode-hub|Mostafa Mohamed]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Use a date picker to modify and insert date/time anywhere in your markdown
   notes.
-downloads: 3539
+downloads: 3602
 mobile: true
 number: 1766
 stars: 10

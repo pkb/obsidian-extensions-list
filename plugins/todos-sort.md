@@ -2,11 +2,11 @@
 aliases:
 - Todos sort
 author:
-- '[[jsifalda|Jiri Sifalda (originally by Ryan Gomba)]]'
+- '[[authors/jsifalda|Jiri Sifalda (originally by Ryan Gomba)]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Sorting your TODOs (checkboxes) in current note by completion status.
-downloads: 154
+downloads: 175
 mobile: true
 number: 1994
 stars: 3

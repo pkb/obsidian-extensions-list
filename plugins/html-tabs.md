@@ -2,10 +2,10 @@
 aliases:
 - HTML Tabs
 author:
-- '[[ptournet|Patrick Tournet]]'
+- '[[authors/ptournet|Patrick Tournet]]'
 categories: []
 description: Create and render Tabs and tab panels in your notes.
-downloads: 5500
+downloads: 5529
 mobile: true
 number: 1179
 stars: 50

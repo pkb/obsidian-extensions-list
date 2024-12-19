@@ -2,14 +2,14 @@
 aliases:
 - Image Metadata
 author:
-- '[[alexeiskachykhin|alexeiskachykhin]]'
+- '[[authors/alexeiskachykhin|alexeiskachykhin]]'
 categories: []
 description: Annotate photos with Exif and other metadata right from the image viewer
   screen.
-downloads: 624
+downloads: 645
 mobile: false
 number: 1795
-stars: 3
+stars: 4
 title: Image Metadata
 type: plugin
 updated: '2024-11-10T09:26:15'

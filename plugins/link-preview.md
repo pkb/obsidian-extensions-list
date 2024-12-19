@@ -2,10 +2,10 @@
 aliases:
 - Link Preview
 author:
-- '[[felipetappata|Felipe Tappata]]'
+- '[[authors/felipetappata|Felipe Tappata]]'
 categories: []
 description: Show a preview of external links on hover
-downloads: 502
+downloads: 595
 mobile: true
 number: 2031
 stars: 9

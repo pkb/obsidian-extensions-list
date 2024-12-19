@@ -2,10 +2,10 @@
 aliases:
 - Exercises
 author:
-- '[[AlexCCavaco|AlexCCavaco]]'
+- '[[authors/AlexCCavaco|AlexCCavaco]]'
 categories: []
 description: Create Interactive Exercises along side your Obsidian Notes
-downloads: 3784
+downloads: 3793
 mobile: true
 number: 1121
 stars: 15

@@ -2,10 +2,10 @@
 aliases:
 - Fastimer
 author:
-- '[[vkostyanetsky|vkostyanetsky]]'
+- '[[authors/vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Intermittent fasting tracker.
-downloads: 1477
+downloads: 1483
 mobile: true
 number: 1388
 stars: 4

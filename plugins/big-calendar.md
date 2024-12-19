@@ -2,11 +2,11 @@
 aliases:
 - Obsidian Big Calendar
 author:
-- '[[Quorafind|Bonianll]]'
+- '[[authors/Quorafind|Bonianll]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: A Big Calendar for Obsidian
-downloads: 36241
+downloads: 36400
 mobile: true
 number: 431
 stars: 117

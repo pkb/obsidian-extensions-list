@@ -2,10 +2,10 @@
 aliases:
 - Sort & Permute lines
 author:
-- '[[Vinzent03|Vinzent]]'
+- '[[authors/Vinzent03|Vinzent]]'
 categories: []
 description: ''
-downloads: 38128
+downloads: 38292
 mobile: true
 number: 80
 stars: 91

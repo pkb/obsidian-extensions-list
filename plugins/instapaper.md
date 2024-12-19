@@ -2,11 +2,11 @@
 aliases:
 - Instapaper
 author:
-- '[[Instapaper|Instapaper]]'
+- '[[authors/Instapaper|Instapaper]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Instapaper integration.
-downloads: 4286
+downloads: 4351
 mobile: true
 number: 1364
 stars: 36

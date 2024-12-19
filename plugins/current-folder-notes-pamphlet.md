@@ -2,19 +2,19 @@
 aliases:
 - Current Folder Notes
 author:
-- '[[Caffa|Pamela Wang]]'
+- '[[authors/Caffa|Pamela Wang]]'
 categories: []
 description: Shows a list of notes in the current folder, and allows you to filter
   the titles to include or exclude notes.
-downloads: 936
+downloads: 983
 mobile: true
 number: 1570
 stars: 4
 title: Current Folder Notes
 type: plugin
-updated: '2024-08-25T17:03:18'
+updated: '2024-12-11T12:26:28'
 url: https://github.com/Caffa/Obsidian-Current-Folder-Note-Display-Plugin
-version: 1.7.2
+version: 1.7.3
 ---
 
 %% README_START %%

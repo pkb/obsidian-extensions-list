@@ -2,11 +2,11 @@
 aliases:
 - Word Splitting for Japanese in Edit Mode
 author:
-- '[[sonarAIT|sonarAIT]]'
+- '[[authors/sonarAIT|sonarAIT]]'
 categories: []
 description: A patch for Obsidian's built-in CodeMirror Editor to support Japanese
   word splitting
-downloads: 5114
+downloads: 5134
 mobile: false
 number: 427
 stars: 23

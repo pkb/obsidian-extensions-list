@@ -2,20 +2,20 @@
 aliases:
 - Tldraw
 author:
-- '[[holxsam|Sam Alhaqab]]'
+- '[[authors/holxsam|Sam Alhaqab]]'
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Integrates Tldraw into Obsidian, allowing users to draw and edit content
   on a virtual whiteboard.
-downloads: 18745
+downloads: 19360
 mobile: true
 number: 1314
-stars: 215
+stars: 224
 title: Tldraw
 type: plugin
-updated: '2024-11-20T08:20:44'
+updated: '2024-12-17T11:03:25'
 url: https://github.com/holxsam/tldraw-in-obsidian
-version: 1.15.0
+version: 1.17.0
 ---
 
 %% README_START %%
@@ -49,13 +49,13 @@ Tldraw in Obsidian is now available on the official community plugins list!
 
 - Download `Obsidian42 - BRAT` from the community plugins.
 - Go into the settings for `Obsidian42 - Brat` and select `Add Beta Plugin`
-- Copy and paste this repo: `https://github.com/holxsam/tldraw-in-obsidian`
+- Copy and paste this repo: `https://github.com/szamsolo/tldraw-in-obsidian`
 - Go back `Community plugins` and make sure to enable `Tldraw`
 - This is also the only way to get Tldraw in Obsidian on the mobile app as far as I know.
 
 ### Manual
 
--   Head over to [releases](https://github.com/holxsam/tldraw-in-obsidian/releases) and download a release (latest is recommended).
+-   Head over to [releases](https://github.com/szamsolo/tldraw-in-obsidian/releases) and download a release (latest is recommended).
 -   Navigate to your plugin folder in your prefered vault: `VaultFolder/.obsidian/plugins/`
 -   Create a new folder called `tldraw-in-obsidian`
 -   Copy and paste over `main.js`, `styles.css`, `manifest.json` into the newly created `/tldraw-in-obsidian` folder.
@@ -63,8 +63,8 @@ Tldraw in Obsidian is now available on the official community plugins list!
 
 ## Guides
 
-- [Custom icons and fonts](https://github.com/holxsam/tldraw-in-obsidian/issues/58#issue-2571070259)
-- [Customizing embeds](https://github.com/holxsam/tldraw-in-obsidian/issues/59)
+- [Custom icons and fonts](https://github.com/szamsolo/tldraw-in-obsidian/issues/58#issue-2571070259)
+- [Customizing embeds](https://github.com/szamsolo/tldraw-in-obsidian/issues/59)
 
 ## Development
 

@@ -2,11 +2,11 @@
 aliases:
 - Chronology
 author:
-- '[[Canna71|Gabriele Cannata]]'
+- '[[authors/Canna71|Gabriele Cannata]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Provides a calendar and a timeline of the notes creation and modification
-downloads: 38580
+downloads: 38820
 mobile: true
 number: 617
 stars: 102

@@ -2,10 +2,10 @@
 aliases:
 - Vk group notifier
 author:
-- '[[filichev-evgeny|Filichev.Evgeny]]'
+- '[[authors/filichev-evgeny|Filichev.Evgeny]]'
 categories: []
 description: Track news posts from the vk.com groups.
-downloads: 1116
+downloads: 1119
 mobile: true
 number: 1380
 stars: 3

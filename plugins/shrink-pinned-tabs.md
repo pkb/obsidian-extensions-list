@@ -2,11 +2,11 @@
 aliases:
 - Shrink pinned tabs
 author:
-- '[[nicosomb|Nicolas Lœuillet]]'
+- '[[authors/nicosomb|Nicolas Lœuillet]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Shrinks pinned tabs to save screen space.
-downloads: 991
+downloads: 1047
 mobile: true
 number: 1763
 stars: 14

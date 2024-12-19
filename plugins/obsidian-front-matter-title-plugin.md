@@ -2,14 +2,14 @@
 aliases:
 - Front Matter Title
 author:
-- '[[snezhig|Snezhig]]'
+- '[[authors/snezhig|Snezhig]]'
 categories: []
 description: Lets you define a title in frontmatter to be displayed as the filename
   for explorer, graph, search and etc.
-downloads: 33587
+downloads: 34052
 mobile: true
 number: 521
-stars: 252
+stars: 253
 title: Front Matter Title
 type: plugin
 updated: '2024-12-07T13:05:37'

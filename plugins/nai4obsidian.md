@@ -2,10 +2,10 @@
 aliases:
 - NovelAI
 author:
-- '[[SalokinGreen|SGreen]]'
+- '[[authors/SalokinGreen|SGreen]]'
 categories: []
 description: Generate text with NovelAI's models.
-downloads: 4236
+downloads: 4256
 mobile: true
 number: 1012
 stars: 15
@@ -13,7 +13,7 @@ title: NovelAI
 type: plugin
 updated: '2024-11-06T01:50:52'
 url: https://github.com/SalokinGreen/NAI4Obsidian
-version: 1.2.4
+version: 1.3.0
 ---
 
 %% README_START %%

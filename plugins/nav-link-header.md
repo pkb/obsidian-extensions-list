@@ -2,10 +2,10 @@
 aliases:
 - Nav Link Header
 author:
-- '[[ahts4962|ahts4962]]'
+- '[[authors/ahts4962|ahts4962]]'
 categories: []
 description: Display navigation links at the top of the notes.
-downloads: 419
+downloads: 430
 mobile: true
 number: 1953
 stars: 5

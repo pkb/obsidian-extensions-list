@@ -2,18 +2,18 @@
 aliases:
 - Tab Panels
 author:
-- '[[GnoxNahte|GnoxNahte]]'
+- '[[authors/GnoxNahte|GnoxNahte]]'
 categories: []
 description: Create tab panels to organize content into sections
-downloads: 1230
+downloads: 1521
 mobile: true
 number: 1950
-stars: 12
+stars: 14
 title: Tab Panels
 type: plugin
-updated: '2024-12-07T12:31:32'
+updated: '2024-12-15T07:56:29'
 url: https://github.com/GnoxNahte/obsidian-tab-panels
-version: 1.1.1
+version: 1.1.2
 ---
 
 %% README_START %%
@@ -72,8 +72,8 @@ What this enables (similar to Obsidian's standard behaviour, but **now works in 
 > **Enabling caching for the first time**
 > 
 > To update the cache on the file, do one of these
-> - Edit the file. It can be anything, adding a space, deleting a character, etc.
-> - Running "Rebuild cache" from the settings. This goes through your whole vault and finds all the data inside the tab panel code blocks and adds it to Obsidian's cache.
+> - Edit the file. It can be anything, adding a space, deleting a character, etc. Note that this only updates the cache for the edited file only.
+> - Running "Rebuild cache" from the settings. This goes through your whole vault, finds all the data inside the tab panel code blocks and adds it to Obsidian's cache.
 
 > [!WARNING]
 > This feature is marked as experimental due to its complexity and recent release. While testing has shown it works as intended, there may still be edge cases or unexpected issues.
@@ -113,6 +113,12 @@ print("Goodbye world!")
 
 ### Editing tab content
 The plugin will only display a read-only version of the notes. Any interactivity will be lost. For example, checking a checkbox will not work.
+
+### Caching - Footnotes
+To use footnotes inside tabs, ensure that both the *footnote reference* (`[^1]`) and the *footnote definition* (`[^1]: definition`) are placed within the same tabs codeblocks. If either the footnote reference or its definition is located outside the tabs codeblock, Obsidian won't register it and will just display it as text instead of a footnote.
+
+> [!NOTE]
+> This doens't apply for [inline footnotes](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#:~:text=You%20can%20also%20inline,not%20in%20Live%20Preview.) (`^[Inline footnote]`) as they combine the footnote reference and definition together.
 
 ## Roadmap
 - [ ] Add more settings to control styling

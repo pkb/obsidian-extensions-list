@@ -2,12 +2,12 @@
 aliases:
 - qmd as md
 author:
-- '[[danieltomasz|Daniel Borek]]'
+- '[[authors/danieltomasz|Daniel Borek]]'
 categories: []
 description: This plugin provides an initial support for viewing files with .qmd extension.
   QMD files contain a combination of markdown and executable code cells and are a
   format supported by Quarto open source publishing system.
-downloads: 4572
+downloads: 4590
 mobile: true
 number: 650
 stars: 71

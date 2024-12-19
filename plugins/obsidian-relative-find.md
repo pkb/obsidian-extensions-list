@@ -2,10 +2,10 @@
 aliases:
 - Relative Find
 author:
-- '[[phibr0|phibr0]]'
+- '[[authors/phibr0|phibr0]]'
 categories: []
 description: This Plugin lets you search relative to your Cursor Position.
-downloads: 4371
+downloads: 4374
 mobile: true
 number: 263
 stars: 10

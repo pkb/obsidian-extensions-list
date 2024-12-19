@@ -2,14 +2,14 @@
 aliases:
 - Task Director
 author:
-- '[[cybertramp|cybertramp]]'
+- '[[authors/cybertramp|cybertramp]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage and change tasks targeting a specific page
-downloads: 41
+downloads: 53
 mobile: true
 number: 2010
-stars: 1
+stars: 2
 title: Task Director
 type: plugin
 updated: '2024-11-15T08:25:11'

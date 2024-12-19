@@ -2,14 +2,14 @@
 aliases:
 - Iconic
 author:
-- '[[gfxholo|Holo]]'
+- '[[authors/gfxholo|Holo]]'
 categories: []
 description: Customize your icons and their colors directly from the UI, including
   tabs, files, bookmarks, properties, and ribbon commands.
-downloads: 12837
+downloads: 13463
 mobile: true
 number: 1772
-stars: 81
+stars: 83
 title: Iconic
 type: plugin
 updated: '2024-10-06T13:00:22'

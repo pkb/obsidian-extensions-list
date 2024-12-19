@@ -2,12 +2,12 @@
 aliases:
 - Static Site MD Exporter
 author:
-- '[[yy4382|Yunfi]]'
+- '[[authors/yy4382|Yunfi]]'
 categories:
 - '[[categories/Export|Export]]'
 description: Export specific notes to general md for static site generator like Hugo,
   Hexo, Astro and more.
-downloads: 1012
+downloads: 1045
 mobile: true
 number: 1590
 stars: 17

@@ -2,10 +2,10 @@
 aliases:
 - Vim IM Select
 author:
-- '[[ALONELUR|Alonelur]]'
+- '[[authors/ALONELUR|Alonelur]]'
 categories: []
 description: Support auto select the apposite input method in different vim mode
-downloads: 8407
+downloads: 8479
 mobile: false
 number: 382
 stars: 85

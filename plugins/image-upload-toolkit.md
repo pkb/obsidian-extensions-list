@@ -2,14 +2,14 @@
 aliases:
 - Image Upload Toolkit
 author:
-- '[[addozhang|Addo Zhang]]'
+- '[[authors/addozhang|Addo Zhang]]'
 categories:
 - '[[categories/Image handling|Image handling]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: An obsidian plugin for uploading local images embedded in markdown to
   remote store and export markdown for publishing to static site. Currently, it supports
   Imgur and Aliyun OSS.
-downloads: 6204
+downloads: 6254
 mobile: false
 number: 836
 stars: 35

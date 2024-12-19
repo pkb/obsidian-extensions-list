@@ -2,11 +2,11 @@
 aliases:
 - TimeDiff
 author:
-- '[[dominiczaq|Grzegorz Dominiczak (https://github.com/dominiczaq)]]'
+- '[[authors/dominiczaq|Grzegorz Dominiczak (https://github.com/dominiczaq)]]'
 categories: []
 description: Plugin which calculates and displays diff in hours and minutes between
   two dates in `timediff` markdown block
-downloads: 5019
+downloads: 5024
 mobile: true
 number: 565
 stars: 8

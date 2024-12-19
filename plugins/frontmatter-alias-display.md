@@ -2,11 +2,11 @@
 aliases:
 - Frontmatter Alias Display
 author:
-- '[[muhammadv-i|muhammadv-i]]'
+- '[[authors/muhammadv-i|muhammadv-i]]'
 categories: []
 description: A plugin for Obsidian to show front-matter aliases as display names in
   the File Explorer.
-downloads: 4480
+downloads: 4493
 mobile: true
 number: 863
 stars: 29

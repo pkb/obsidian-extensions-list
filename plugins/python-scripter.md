@@ -2,10 +2,10 @@
 aliases:
 - Python Scripter
 author:
-- '[[nickrallison|Nick Allison]]'
+- '[[authors/nickrallison|Nick Allison]]'
 categories: []
 description: Run Python scripts directly as Obsidian commands.
-downloads: 8315
+downloads: 8436
 mobile: false
 number: 1079
 stars: 61

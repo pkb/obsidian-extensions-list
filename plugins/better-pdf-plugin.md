@@ -2,11 +2,11 @@
 aliases:
 - Better PDF Plugin
 author:
-- '[[MSzturc|MSzturc]]'
+- '[[authors/MSzturc|MSzturc]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Goal of this Plugin in to implement a native PDF handling workflow
-downloads: 55107
+downloads: 55264
 mobile: true
 number: 91
 stars: 209

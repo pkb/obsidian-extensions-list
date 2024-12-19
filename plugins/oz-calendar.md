@@ -2,11 +2,11 @@
 aliases:
 - OZ Calendar
 author:
-- '[[ozntel|Ozan Tellioglu]]'
+- '[[authors/ozntel|Ozan Tellioglu]]'
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: View your notes in Calendar using any YAML key with date
-downloads: 14209
+downloads: 14302
 mobile: true
 number: 854
 stars: 38

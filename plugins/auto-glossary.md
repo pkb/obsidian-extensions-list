@@ -2,12 +2,12 @@
 aliases:
 - Auto Glossary
 author:
-- '[[ennioitaliano|Ennio Italiano]]'
+- '[[authors/ennioitaliano|Ennio Italiano]]'
 categories:
 - '[[categories/Automation|Automation]]'
 description: Obsidian plugin to automatically create a file with an index (MOC), a
   glossary or both.
-downloads: 7009
+downloads: 7029
 mobile: false
 number: 693
 stars: 75

@@ -2,13 +2,13 @@
 aliases:
 - Webhook Plugin
 author:
-- '[[trashhalo|Stephen Solka]]'
+- '[[authors/trashhalo|Stephen Solka]]'
 categories: []
 description: Plugin that connects your notes to the internet of things through webhooks!
-downloads: 7256
+downloads: 7285
 mobile: true
 number: 334
-stars: 185
+stars: 186
 title: Webhook Plugin
 type: plugin
 updated: '2022-07-13T18:37:02'

@@ -2,12 +2,12 @@
 aliases:
 - AI Commander
 author:
-- '[[yzh503|Simon Yang]]'
+- '[[authors/yzh503|Simon Yang]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate audio transcripts, images, and text in context of PDF attachments
   or web search results using OpenAI (ChatGPT) and Bing API.
-downloads: 14258
+downloads: 14377
 mobile: true
 number: 856
 stars: 85

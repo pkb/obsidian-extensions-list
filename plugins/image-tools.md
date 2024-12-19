@@ -2,13 +2,13 @@
 aliases:
 - Image Tools
 author:
-- '[[Hosstell|Andrey Serov]]'
+- '[[authors/Hosstell|Andrey Serov]]'
 categories: []
 description: Formatter for image on page
-downloads: 601
+downloads: 725
 mobile: true
 number: 2006
-stars: 11
+stars: 12
 title: Image Tools
 type: plugin
 updated: '2024-11-26T23:13:36'

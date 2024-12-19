@@ -2,11 +2,11 @@
 aliases:
 - AI Notes Summary
 author:
-- '[[irbull|R. Ian Bull]]'
+- '[[authors/irbull|R. Ian Bull]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize referenced notes using OpenAI.
-downloads: 4085
+downloads: 4107
 mobile: false
 number: 982
 stars: 31

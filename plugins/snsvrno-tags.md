@@ -2,10 +2,10 @@
 aliases:
 - Tag Formatter
 author:
-- '[[snsvrno|snsvrno]]'
+- '[[authors/snsvrno|snsvrno]]'
 categories: []
 description: Gives more options on how to display tags in preview mode.
-downloads: 1474
+downloads: 1484
 mobile: true
 number: 1421
 stars: 8

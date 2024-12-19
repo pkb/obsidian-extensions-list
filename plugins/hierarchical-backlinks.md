@@ -2,10 +2,10 @@
 aliases:
 - Hierarchical Backlinks
 author:
-- '[[jasonmotylinski|Jason Motylinski]]'
+- '[[authors/jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays backlinks in a hierarchy
-downloads: 319
+downloads: 344
 mobile: true
 number: 1977
 stars: 6

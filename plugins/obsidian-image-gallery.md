@@ -2,13 +2,13 @@
 aliases:
 - Image Gallery
 author:
-- '[[lucaorio|Luca Orio]]'
+- '[[authors/lucaorio|Luca Orio]]'
 categories: []
 description: A zero setup masonry image gallery for Obsidian
-downloads: 18350
+downloads: 18589
 mobile: true
 number: 549
-stars: 205
+stars: 206
 title: Image Gallery
 type: plugin
 updated: '2022-12-23T11:42:19'

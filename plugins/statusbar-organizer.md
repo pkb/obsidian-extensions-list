@@ -2,10 +2,10 @@
 aliases:
 - Status Bar Organizer
 author:
-- '[[Opisek|Kacper Darowski]]'
+- '[[authors/Opisek|Kacper Darowski]]'
 categories: []
 description: Lets you rearrange and hide specific status bar elements.
-downloads: 3998
+downloads: 4039
 mobile: false
 number: 1413
 stars: 21

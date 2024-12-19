@@ -2,11 +2,11 @@
 aliases:
 - Search Everywhere
 author:
-- '[[Mom0aut|Mom0]]'
+- '[[authors/Mom0aut|Mom0]]'
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search Everywhere with pressing Double Shift like in IntelliJ
-downloads: 6494
+downloads: 6507
 mobile: false
 number: 451
 stars: 21

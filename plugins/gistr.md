@@ -2,13 +2,13 @@
 aliases:
 - Gistr
 author:
-- '[[Aetherinox|Aetherinox]]'
+- '[[authors/Aetherinox|Aetherinox]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Integrate Opengist and Github gists into your notes, allowing you to
   create, update, and share between your notes and gist services
-downloads: 1433
+downloads: 1438
 mobile: true
 number: 1505
 stars: 18

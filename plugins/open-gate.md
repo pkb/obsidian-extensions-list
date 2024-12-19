@@ -2,12 +2,12 @@
 aliases:
 - Open Gate
 author:
-- '[[nguyenvanduocit|duocnv]]'
+- '[[authors/nguyenvanduocit|duocnv]]'
 categories: []
 description: Embed any website to Obsidian, you have anything you need in one place.
   You can browse website and take notes at the same time. e.g. Ask ChatGPT and copy
   the answer directly to your note.
-downloads: 28321
+downloads: 28739
 mobile: true
 number: 722
 stars: 178

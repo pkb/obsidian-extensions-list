@@ -2,10 +2,10 @@
 aliases:
 - digital paper
 author:
-- '[[danferns|Daniel Fernandes]]'
+- '[[authors/danferns|Daniel Fernandes]]'
 categories: []
 description: turn off backspace and undo, just like writing with a pen on real paper.
-downloads: 3331
+downloads: 3344
 mobile: true
 number: 1176
 stars: 9

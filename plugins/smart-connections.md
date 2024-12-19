@@ -2,19 +2,19 @@
 aliases:
 - Smart Connections
 author:
-- '[[brianpetro|Brian Petro]]'
+- '[[authors/brianpetro|Brian Petro]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Find links to similar notes using artificial intelligence from OpenAI.
-downloads: 327731
+downloads: 335383
 mobile: true
 number: 754
 stars: 2900
 title: Smart Connections
 type: plugin
-updated: '2024-12-06T22:59:24'
+updated: '2024-12-14T12:33:05'
 url: https://github.com/brianpetro/obsidian-smart-connections
-version: 2.3.42
+version: 2.3.46
 ---
 
 %% README_START %%

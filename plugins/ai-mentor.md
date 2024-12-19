@@ -2,12 +2,12 @@
 aliases:
 - AI Mentor
 author:
-- '[[clementpoiret|Clément POIRET]]'
+- '[[authors/clementpoiret|Clément POIRET]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Meet your open source AI mentor in Obsidian. Ask questions, get answers,
   and learn new things.
-downloads: 5858
+downloads: 5868
 mobile: true
 number: 914
 stars: 38

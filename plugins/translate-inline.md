@@ -2,11 +2,11 @@
 aliases:
 - Translate Inline
 author:
-- '[[kon-foo|Lucas Langholf]]'
+- '[[authors/kon-foo|Lucas Langholf]]'
 categories: []
 description: Translations at your fingertips. Get inline Translations when writing
   Notes.
-downloads: 110
+downloads: 128
 mobile: false
 number: 1960
 stars: 1

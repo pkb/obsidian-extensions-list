@@ -2,10 +2,10 @@
 aliases:
 - Editor Commands Remap
 author:
-- '[[c4ctus5|cactus5]]'
+- '[[authors/c4ctus5|cactus5]]'
 categories: []
 description: Map hotkeys to editor commands.
-downloads: 4137
+downloads: 4140
 mobile: true
 number: 258
 stars: 10

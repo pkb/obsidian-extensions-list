@@ -2,11 +2,11 @@
 aliases:
 - Tab Shifter
 author:
-- '[[jsrozner|Joshua Rozner]]'
+- '[[authors/jsrozner|Joshua Rozner]]'
 categories: []
 description: Enables shifting tabs between different tab splits and some other basic
   IDE tab functionalities
-downloads: 1208
+downloads: 1221
 mobile: false
 number: 1482
 stars: 8

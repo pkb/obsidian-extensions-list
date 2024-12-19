@@ -2,13 +2,13 @@
 aliases:
 - Bible Linker
 author:
-- '[[kuchejak|Jakub Kuchejda]]'
+- '[[authors/kuchejak|Jakub Kuchejda]]'
 categories: []
 description: Link multiple bible verses easily
-downloads: 12468
+downloads: 12517
 mobile: true
 number: 444
-stars: 81
+stars: 82
 title: Bible Linker
 type: plugin
 updated: '2024-10-26T21:49:07'

@@ -2,14 +2,14 @@
 aliases:
 - Wrap with shortcuts
 author:
-- '[[manic|Manic Chuang]]'
+- '[[authors/manic|Manic Chuang]]'
 categories: []
 description: 'Wrap selected text in custom tags with shortcuts. E.g.: underline, sub,
   ruby(フリガナ)'
-downloads: 8822
+downloads: 8870
 mobile: true
 number: 386
-stars: 62
+stars: 63
 title: Wrap with shortcuts
 type: plugin
 updated: '2023-03-21T18:45:26'

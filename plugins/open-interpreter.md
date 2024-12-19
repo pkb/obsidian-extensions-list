@@ -2,11 +2,11 @@
 aliases:
 - Open Interpreter
 author:
-- '[[MikeBirdTech|Mike Bird]]'
+- '[[authors/MikeBirdTech|Mike Bird]]'
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use Open Interpreter to run automatic operations on your vault
-downloads: 246
+downloads: 279
 mobile: false
 number: 1942
 stars: 25

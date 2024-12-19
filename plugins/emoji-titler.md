@@ -2,11 +2,11 @@
 aliases:
 - Emoji Titler
 author:
-- '[[HyeonseoNam|Hyeonseo Nam]]'
+- '[[authors/HyeonseoNam|Hyeonseo Nam]]'
 categories: []
 description: This plugin is emoji titler to easily insert an emoji in the title using
   a keyboard shortcut.
-downloads: 5352
+downloads: 5378
 mobile: true
 number: 824
 stars: 11

@@ -2,10 +2,10 @@
 aliases:
 - Custom File Extensions Plugin
 author:
-- '[[MeepTech|Meep.Tech]]'
+- '[[authors/MeepTech|Meep.Tech]]'
 categories: []
 description: Associate views with custom file extensions via settings.
-downloads: 7382
+downloads: 7433
 mobile: true
 number: 772
 stars: 42

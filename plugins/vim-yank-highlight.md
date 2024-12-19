@@ -2,11 +2,11 @@
 aliases:
 - Vim Yank Highlight
 author:
-- '[[aleksey-rowan|Aleksey Rowan]]'
+- '[[authors/aleksey-rowan|Aleksey Rowan]]'
 categories: []
 description: Highlight yanked text in Vim mode. Enjoy that subtle animation you've
   missed so much.
-downloads: 3700
+downloads: 3726
 mobile: false
 number: 1316
 stars: 10

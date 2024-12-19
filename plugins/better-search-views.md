@@ -2,15 +2,15 @@
 aliases:
 - Better Search Views
 author:
-- '[[ivan-lednev|ivan-lednev]]'
+- '[[authors/ivan-lednev|ivan-lednev]]'
 categories:
 - '[[categories/UI customization|UI customization]]'
 - '[[categories/Search and navigation|Search and navigation]]'
 description: 'Outliner-like breadcrumb trees for search, backlinks and embedded queries '
-downloads: 20145
+downloads: 20934
 mobile: true
 number: 1042
-stars: 253
+stars: 257
 title: Better Search Views
 type: plugin
 updated: '2024-12-01T20:32:06'

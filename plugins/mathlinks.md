@@ -2,10 +2,10 @@
 aliases:
 - MathLinks
 author:
-- '[[zhaoshenzhai|zhaoshenzhai]]'
+- '[[authors/zhaoshenzhai|zhaoshenzhai]]'
 categories: []
 description: Render MathJax in your links
-downloads: 15870
+downloads: 15991
 mobile: true
 number: 624
 stars: 63

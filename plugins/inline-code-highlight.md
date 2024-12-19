@@ -2,11 +2,11 @@
 aliases:
 - InlineCodeHighlight
 author:
-- '[[Dimava|Dimava]]'
+- '[[authors/Dimava|Dimava]]'
 categories: []
 description: Highlight inline `'md **code**` blocks as well as you do the ```md **big**```
   ones
-downloads: 4154
+downloads: 4164
 mobile: true
 number: 1048
 stars: 3

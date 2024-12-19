@@ -2,10 +2,10 @@
 aliases:
 - File Cooker
 author:
-- '[[ivaneye|iuian]]'
+- '[[authors/ivaneye|iuian]]'
 categories: []
 description: Deal multi notes from Search results、current file、Dataview query string...
-downloads: 9637
+downloads: 9676
 mobile: true
 number: 573
 stars: 47

@@ -2,10 +2,10 @@
 aliases:
 - Virus Total Enrichment
 author:
-- '[[ytisf|ytisf]]'
+- '[[authors/ytisf|ytisf]]'
 categories: []
 description: Enrich your notes with information from VirusTotal.
-downloads: 280
+downloads: 304
 mobile: false
 number: 1867
 stars: 4

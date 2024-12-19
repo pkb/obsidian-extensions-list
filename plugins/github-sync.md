@@ -2,14 +2,14 @@
 aliases:
 - GitHub Sync
 author:
-- '[[kevinmkchin|Kevin Chin]]'
+- '[[authors/kevinmkchin|Kevin Chin]]'
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync vault to personal GitHub.
-downloads: 9101
+downloads: 9395
 mobile: false
 number: 1419
-stars: 113
+stars: 117
 title: GitHub Sync
 type: plugin
 updated: '2024-09-05T06:24:17'

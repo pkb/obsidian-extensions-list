@@ -2,13 +2,13 @@
 aliases:
 - Note Linker
 author:
-- '[[AlexW00|Alexander Weichart]]'
+- '[[authors/AlexW00|Alexander Weichart]]'
 categories: []
 description: Automatically find and link notes in Obsidian
-downloads: 25691
+downloads: 26284
 mobile: false
 number: 586
-stars: 201
+stars: 203
 title: Note Linker
 type: plugin
 updated: '2024-12-06T23:17:59'

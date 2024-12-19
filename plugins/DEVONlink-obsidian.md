@@ -2,11 +2,11 @@
 aliases:
 - DEVONlink
 author:
-- '[[ryanjamurphy|ryanjamurphy]]'
+- '[[authors/ryanjamurphy|ryanjamurphy]]'
 categories:
 - '[[categories/Integration|Integration]]'
 description: Open or reveal the current note in DEVONthink.
-downloads: 8550
+downloads: 8560
 mobile: false
 number: 124
 stars: 92

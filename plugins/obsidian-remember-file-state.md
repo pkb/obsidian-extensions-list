@@ -2,10 +2,10 @@
 aliases:
 - Remember File State
 author:
-- '[[ludovicchabant|Ludovic Chabant]]'
+- '[[authors/ludovicchabant|Ludovic Chabant]]'
 categories: []
 description: Remembers cursor position, selection, scrolling, and more for each file
-downloads: 10903
+downloads: 10955
 mobile: true
 number: 433
 stars: 47

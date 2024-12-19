@@ -2,10 +2,10 @@
 aliases:
 - Mahjong Renderer
 author:
-- '[[h-sphere|hypersphere]]'
+- '[[authors/h-sphere|hypersphere]]'
 categories: []
 description: Render mahjong tiles (riichi mahjong) using MPSZ algebraic notation
-downloads: 76
+downloads: 78
 mobile: true
 number: 1858
 stars: 2

@@ -2,10 +2,10 @@
 aliases:
 - No dupe leaves
 author:
-- '[[scambier|Simon Cambier]]'
+- '[[authors/scambier|Simon Cambier]]'
 categories: []
 description: Don't reopen notes that are already open
-downloads: 10620
+downloads: 10674
 mobile: false
 number: 581
 stars: 61

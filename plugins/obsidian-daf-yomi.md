@@ -2,10 +2,10 @@
 aliases:
 - Daf Yomi
 author:
-- '[[lyonsquark|Adam Lyon]]'
+- '[[authors/lyonsquark|Adam Lyon]]'
 categories: []
 description: Fill in Daf Yomi pages
-downloads: 4774
+downloads: 4778
 mobile: true
 number: 235
 stars: 8

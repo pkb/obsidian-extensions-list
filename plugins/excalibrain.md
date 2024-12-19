@@ -2,14 +2,14 @@
 aliases:
 - ExcaliBrain
 author:
-- '[[zsviczian|Zsolt Viczian]]'
+- '[[authors/zsviczian|Zsolt Viczian]]'
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A clean, intuitive and editable graph view for Obsidian
-downloads: 201490
+downloads: 202577
 mobile: true
 number: 530
-stars: 709
+stars: 711
 title: ExcaliBrain
 type: plugin
 updated: '2024-03-21T10:53:47'

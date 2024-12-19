@@ -2,11 +2,11 @@
 aliases:
 - Obsidian MtG
 author:
-- '[[omardelarosa|Omar Delarosa]]'
+- '[[authors/omardelarosa|Omar Delarosa]]'
 categories: []
 description: 'A plugin for managing Magic: The Gathering decks and card lists as Obsidian
   notes'
-downloads: 4522
+downloads: 4531
 mobile: true
 number: 644
 stars: 30

@@ -2,14 +2,14 @@
 aliases:
 - Douban
 author:
-- '[[Wanxp|Wanxp]]'
+- '[[authors/Wanxp|Wanxp]]'
 categories: []
 description: This is a plugin that can import movies/books/musics/notes/games info
   data from Douban for Obsidian .
-downloads: 18958
+downloads: 19176
 mobile: true
 number: 627
-stars: 186
+stars: 188
 title: Douban
 type: plugin
 updated: '2024-07-15T21:08:42'

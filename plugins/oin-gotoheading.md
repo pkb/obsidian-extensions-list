@@ -2,10 +2,10 @@
 aliases:
 - Go To Heading
 author:
-- '[[oin|join]]'
+- '[[authors/oin|join]]'
 categories: []
 description: Quickly navigate between headings
-downloads: 3580
+downloads: 3591
 mobile: false
 number: 1186
 stars: 13

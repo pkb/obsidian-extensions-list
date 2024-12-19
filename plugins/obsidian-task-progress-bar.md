@@ -2,11 +2,11 @@
 aliases:
 - Task Progress Bar
 author:
-- '[[Quorafind|Boninall]]'
+- '[[authors/Quorafind|Boninall]]'
 categories:
 - '[[categories/Task management|Task management]]'
 description: A task progress bar plugin for tasks in Obsidian.
-downloads: 26698
+downloads: 26865
 mobile: true
 number: 552
 stars: 110

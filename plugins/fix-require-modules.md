@@ -2,19 +2,19 @@
 aliases:
 - Fix Require Modules
 author:
-- '[[mnaoumov|mnaoumov]]'
+- '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Fixes require() calls, supporting JavaScript and TypeScript modules,
   enabling easy invocation, and adding code buttons for enhanced scripting capabilities
-downloads: 1548
+downloads: 1585
 mobile: false
 number: 1445
-stars: 15
+stars: 16
 title: Fix Require Modules
 type: plugin
-updated: '2024-11-21T13:40:20'
+updated: '2024-12-16T07:50:27'
 url: https://github.com/mnaoumov/obsidian-fix-require-modules
-version: 6.1.0
+version: 6.2.0
 ---
 
 %% README_START %%

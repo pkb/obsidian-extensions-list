@@ -2,10 +2,10 @@
 aliases:
 - Vault Changelog
 author:
-- '[[badrbouslikhin|Badr Bouslikhin]]'
+- '[[authors/badrbouslikhin|Badr Bouslikhin]]'
 categories: []
 description: Obsidian plugin to maintain a notes changelog in a vault
-downloads: 12020
+downloads: 12062
 mobile: true
 number: 112
 stars: 75

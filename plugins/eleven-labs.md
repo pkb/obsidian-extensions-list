@@ -2,11 +2,11 @@
 aliases:
 - Eleven Labs
 author:
-- '[[veritas1|Mark Charles]]'
+- '[[authors/veritas1|Mark Charles]]'
 categories: []
 description: Turn your Obsidian notes into text-to-speech audio files with Eleven
   Labs.
-downloads: 4042
+downloads: 4072
 mobile: true
 number: 1175
 stars: 12

@@ -2,11 +2,11 @@
 aliases:
 - Scholar
 author:
-- '[[lolipopshock|Shannon Shen]]'
+- '[[authors/lolipopshock|Shannon Shen]]'
 categories:
 - '[[categories/Workflows]]'
 description: Streamline Research Workflow in Obsidian
-downloads: 5142
+downloads: 5191
 mobile: true
 number: 1239
 stars: 32

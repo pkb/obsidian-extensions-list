@@ -2,18 +2,18 @@
 aliases:
 - Key Promoter
 author:
-- '[[joethei|Johannes Theiner]]'
+- '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Learn keyboard shortcuts by showing them when using the mouse
-downloads: 12608
+downloads: 12738
 mobile: true
 number: 315
 stars: 37
 title: Key Promoter
 type: plugin
-updated: '2023-07-15T02:47:13'
+updated: '2024-12-16T19:28:30'
 url: https://github.com/joethei/obsidian-key-promoter
-version: 1.3.0
+version: 1.3.1
 ---
 
 %% README_START %%

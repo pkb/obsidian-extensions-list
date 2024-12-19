@@ -2,15 +2,15 @@
 aliases:
 - DataLoom
 author:
-- '[[decaf-dev|DecafDev]]'
+- '[[authors/decaf-dev|DecafDev]]'
 categories:
 - '[[categories/Data management|Data management]]'
 description: Weave together data from diverse sources into different views. Inspired
   by Excel Spreadsheets and Notion.so.
-downloads: 262583
+downloads: 263135
 mobile: true
 number: 507
-stars: 922
+stars: 923
 title: DataLoom
 type: plugin
 updated: '2024-06-28T12:25:12'

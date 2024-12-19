@@ -5,10 +5,10 @@ author:
 - '[[authors/crayhuang|Cray Huang]]'
 categories: []
 description: Sync the selected notes to Hugo blog
-downloads: 16
+downloads: 27
 mobile: false
 number: 2054
-stars: 0
+stars: 2
 title: Sync to Hugo
 type: plugin
 updated: '2024-09-14T15:57:36'

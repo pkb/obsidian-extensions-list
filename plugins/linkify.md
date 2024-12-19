@@ -2,13 +2,13 @@
 aliases:
 - Linkify
 author:
-- '[[matthewhchan|matthewhchan]]'
+- '[[authors/matthewhchan|matthewhchan]]'
 categories: []
 description: Converts matching text into links.
-downloads: 6644
+downloads: 6660
 mobile: true
 number: 539
-stars: 38
+stars: 39
 title: Linkify
 type: plugin
 updated: '2024-02-21T02:45:15'

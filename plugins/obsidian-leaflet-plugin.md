@@ -2,13 +2,13 @@
 aliases:
 - Leaflet
 author:
-- '[[javalent|Jeremy Valentine]]'
+- '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Interactive maps inside your notes
-downloads: 188037
+downloads: 189252
 mobile: true
 number: 121
-stars: 523
+stars: 526
 title: Leaflet
 type: plugin
 updated: '2024-04-01T05:43:06'

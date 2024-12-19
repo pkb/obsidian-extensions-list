@@ -2,15 +2,15 @@
 aliases:
 - Habitica Sync
 author:
-- '[[SuperChamp234|Leoh and Ran]]'
+- '[[authors/SuperChamp234|Leoh and Ran]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: This plugin helps integrate Habitica user tasks and stats into Obsidian
-downloads: 7275
+downloads: 7302
 mobile: true
 number: 336
-stars: 90
+stars: 91
 title: Habitica Sync
 type: plugin
 updated: '2022-01-15T12:59:42'

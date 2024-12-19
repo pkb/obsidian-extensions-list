@@ -2,12 +2,12 @@
 aliases:
 - Todoist Text
 author:
-- '[[wesmoncrief|wesmoncrief]]'
+- '[[authors/wesmoncrief|wesmoncrief]]'
 categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: This obsidian plugin integrates your Todoist tasks with markdown checkboxes.
-downloads: 12917
+downloads: 12967
 mobile: true
 number: 430
 stars: 57

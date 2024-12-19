@@ -2,10 +2,10 @@
 aliases:
 - Display Relative Path Img
 author:
-- '[[dyc2424748461|dyc]]'
+- '[[authors/dyc2424748461|dyc]]'
 categories: []
 description: Display the image of the <img> tag
-downloads: 1516
+downloads: 1532
 mobile: false
 number: 1454
 stars: 7

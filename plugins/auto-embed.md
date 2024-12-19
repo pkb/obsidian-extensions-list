@@ -2,18 +2,18 @@
 aliases:
 - Auto Embed
 author:
-- '[[GnoxNahte|GnoxNahte]]'
+- '[[authors/GnoxNahte|GnoxNahte]]'
 categories: []
 description: Helps to embed links using markdown instead of iframe
-downloads: 4534
+downloads: 4624
 mobile: true
 number: 1561
-stars: 20
+stars: 22
 title: Auto Embed
 type: plugin
-updated: '2024-10-28T19:01:16'
+updated: '2024-12-18T20:24:56'
 url: https://github.com/GnoxNahte/obsidian-auto-embed
-version: 1.2.4
+version: 1.2.5
 ---
 
 %% README_START %%

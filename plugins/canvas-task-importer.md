@@ -2,10 +2,10 @@
 aliases:
 - Canvas LMS Task Importer
 author:
-- '[[jordaeday|Jordan Day]]'
+- '[[authors/jordaeday|Jordan Day]]'
 categories: []
 description: Import tasks from Canvas LMS into vault.
-downloads: 49
+downloads: 51
 mobile: false
 number: 1883
 stars: 2

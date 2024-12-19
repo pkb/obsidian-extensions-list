@@ -2,13 +2,13 @@
 aliases:
 - Copy Image
 author:
-- '[[felipe-ds-lima|Felipe D.S. Lima]]'
+- '[[authors/felipe-ds-lima|Felipe D.S. Lima]]'
 categories: []
 description: Easily copy image from Obsidian to clipboard by right clicking image.
-downloads: 5064
+downloads: 5177
 mobile: true
 number: 1353
-stars: 5
+stars: 6
 title: Copy Image
 type: plugin
 updated: '2024-09-30T02:04:27'

@@ -2,14 +2,14 @@
 aliases:
 - Local REST API
 author:
-- '[[coddingtonbear|Adam Coddington]]'
+- '[[authors/coddingtonbear|Adam Coddington]]'
 categories: []
 description: Get, change or otherwise interact with your notes in Obsidian via a REST
   API.
-downloads: 90491
+downloads: 91290
 mobile: false
 number: 413
-stars: 678
+stars: 685
 title: Local REST API
 type: plugin
 updated: '2024-11-19T22:39:53'

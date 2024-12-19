@@ -2,13 +2,13 @@
 aliases:
 - Wallabag
 author:
-- '[[huseyz|Hüseyin Zengin]]'
+- '[[authors/huseyz|Hüseyin Zengin]]'
 categories: []
 description: Sync your Wallabag articles.
-downloads: 4162
+downloads: 4184
 mobile: true
 number: 1086
-stars: 71
+stars: 72
 title: Wallabag
 type: plugin
 updated: '2024-07-27T16:03:29'

@@ -2,11 +2,11 @@
 aliases:
 - Arcane Obfuscate
 author:
-- '[[Shusako|Shusako]]'
+- '[[authors/Shusako|Shusako]]'
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Obfuscate text with an arcane runic effect.
-downloads: 246
+downloads: 256
 mobile: true
 number: 1848
 stars: 1

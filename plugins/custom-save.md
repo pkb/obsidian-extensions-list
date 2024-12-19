@@ -2,10 +2,10 @@
 aliases:
 - Custom save
 author:
-- '[[HananoshikaYomaru|HananoshikaYomaru]]'
+- '[[authors/HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Run any commands when you save a file in the editor
-downloads: 2189
+downloads: 2200
 mobile: true
 number: 1319
 stars: 13

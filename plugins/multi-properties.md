@@ -2,14 +2,14 @@
 aliases:
 - Multi Properties
 author:
-- '[[fez-github|technohiker]]'
+- '[[authors/fez-github|technohiker]]'
 categories: []
 description: Adds Properties to multiple notes at once.  Either right-click a folder,
   or select multiple notes and right-click the selection.
-downloads: 20947
+downloads: 22443
 mobile: true
 number: 1249
-stars: 117
+stars: 120
 title: Multi Properties
 type: plugin
 updated: '2024-12-10T06:52:50'

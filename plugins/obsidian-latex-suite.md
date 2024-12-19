@@ -2,15 +2,15 @@
 aliases:
 - Latex Suite
 author:
-- '[[artisticat1|artisticat]]'
+- '[[authors/artisticat1|artisticat]]'
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Make typesetting LaTeX math as fast as handwriting through snippets,
   text expansion, and editor enhancements
-downloads: 213718
+downloads: 216486
 mobile: true
 number: 484
-stars: 1400
+stars: 1500
 title: Latex Suite
 type: plugin
 updated: '2024-10-13T22:11:12'
