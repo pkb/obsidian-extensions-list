@@ -2,9 +2,8 @@ const { Link } = await dc.require('basement/datacore/Link.jsx');
 const { Highlight } = await dc.require('basement/datacore/highlight.jsx');
 const { useLocalStorage } = await dc.require('basement/datacore/hooks.jsx');
 
-const IndexTable = ({ id, columnsConfig, search_fields, rows, paging }) => {
-    const [sortConfig, setSortConfig] = useLocalStorage(`${id}_sortConfig`, 
-    { key: columnsConfig[0].field, direction: 'asc' });
+const IndexTable = ({ id, columnsConfig, search_fields, rows, groupBy, paging }) => {
+    const [sortConfig, setSortConfig] = useLocalStorage(`${id}_sortConfig`, { key: null, direction: 'asc' });
     const [filter, setFilter] = useLocalStorage(`${id}_filter`, "");
     
     const Header = ({ field, children }) => {
@@ -35,9 +34,20 @@ const IndexTable = ({ id, columnsConfig, search_fields, rows, paging }) => {
         return '';
     };
 
+    const page_value = (f) => {
+        return (page) => page.value(f);
+    }
+
+    let value_funcs = {};
     const COLUMNS = columnsConfig.map((c) => {
         let render = undefined;
-        if(search_fields.includes(c["field"])) {
+        let value = c["value"];
+        const f = c["field"];
+        if(!value) {
+            value = (page) => page.value(f);
+        }
+        value_funcs[f] = value;
+        if(search_fields.includes(f)) {
             if(c["render"])
                 render = (name, page) => {
                     const content = c.render(name, page);
@@ -45,16 +55,13 @@ const IndexTable = ({ id, columnsConfig, search_fields, rows, paging }) => {
                 }
             else
                 render = (name, page) => {
-                    const content = c.value(page);
+                    const content = value(page);
                     return <Highlight content={content} filter={filter}/>
                 };
         } else 
             render = c["render"];
-        let value = c["value"];
-        if(!value)
-            value = (page) => page.value(c["field"]);
         return {
-           id: c["field"],
+           id: f,
            title: c["sortable"] ? <Header field={c["field"]}>{c["title"]}</Header> : c["title"],
            value: value,
            render: render,
@@ -68,15 +75,17 @@ const IndexTable = ({ id, columnsConfig, search_fields, rows, paging }) => {
         if (filter) {
             filtered = rows.filter((page) => {
                 return search_fields.some((f) => {
-                    return page.value(f).toLowerCase().includes(filter.toLowerCase());
+                    const vf = value_funcs[f] || page_value(f);
+                    return vf(page).toLowerCase().includes(filter.toLowerCase());
                 });
             });
         }
 
         if (sortConfig.key) {
+            const vf = value_funcs[sortConfig.key] || page_value(sortConfig.key);
             filtered = [...filtered].sort((a, b) => {
-                const aValue = a.value(sortConfig.key);
-                const bValue = b.value(sortConfig.key);
+                const aValue = vf(a);
+                const bValue = vf(b);
 
                 let ret = 0;
                 if(aValue < bValue)
@@ -84,6 +93,11 @@ const IndexTable = ({ id, columnsConfig, search_fields, rows, paging }) => {
                 else if (aValue > bValue)
                     ret = 1;
                 return sortConfig.direction === 'asc' ? ret : -ret;            
+            });
+        }
+        if(groupBy) {
+            filtered = dc.useArray(filtered, array => {
+                return array.groupBy(p => groupBy(p));
             });
         }
         return filtered;
