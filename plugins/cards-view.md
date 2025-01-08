@@ -5,15 +5,15 @@ author:
 - '[[authors/jillro|Maud Royer]]'
 categories: []
 description: Displays a card view of your notes.
-downloads: 6690
+downloads: 7849
 mobile: true
 number: 1532
-stars: 57
+stars: 63
 title: Cards View
 type: plugin
-updated: '2024-11-12T00:23:14'
+updated: '2024-12-28T18:08:00'
 url: https://github.com/jillro/obsidian-cards-view-plugin
-version: 1.7.0
+version: 1.9.0
 ---
 
 %% README_START %%
@@ -28,6 +28,11 @@ This is a plugin for Obsidian.md that displays a card view of your notes.
 
 - Display notes in a card view
 - Sorts by last modified or created date
+- Pin notes to top
+- Supports same [search syntax](https://help.obsidian.md/Plugins/Search#Search+terms) as Obsidian official 
+  search plugin (except `block:`, `section:` and `task*:` operators)
+- Quick access to filtering by tags
+- Settings to exclude some notes from the view
 
 ## Installation
 
@@ -38,9 +43,16 @@ This is a plugin for Obsidian.md that displays a card view of your notes.
 5. Click install
 6. Toggle the plugin on in the "Installed plugins" tab
 
+## Beta version
+
+This plugin offers beta versions that can be installed with [BRAT](https://github.com/TfTHacker/obsidian42-brat?tab=readme-ov-file).
+
+Please be aware that this versions may be unstable and have bugs, but you will have access to new features earlier.
+
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. Please read [CONTRIBUTING.md](https://github.com/jillro/obsidian-cards-view-plugin/blob/main/CONTRIBUTING.md) for details.
 
 ## License
 

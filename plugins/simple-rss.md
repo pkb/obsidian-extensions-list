@@ -5,10 +5,10 @@ author:
 - '[[authors/monnierant|Monnierant]]'
 categories: []
 description: Collect RSS articles into notes.
-downloads: 14156
+downloads: 14674
 mobile: true
 number: 989
-stars: 28
+stars: 29
 title: Simple RSS
 type: plugin
 updated: '2024-01-21T03:02:06'

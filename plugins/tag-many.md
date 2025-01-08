@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add the same tag(s) to multiple notes in a folder (optionally including
   subfolders) at once.
-downloads: 4895
+downloads: 4944
 mobile: false
 number: 1041
 stars: 10

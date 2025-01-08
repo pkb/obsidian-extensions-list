@@ -6,10 +6,10 @@ author:
 categories: []
 description: Convert PDFs to rich Markdown, including images and ocr using the Marker
   API
-downloads: 3149
+downloads: 3544
 mobile: true
 number: 1824
-stars: 28
+stars: 30
 title: Marker PDF to MD
 type: plugin
 updated: '2024-12-04T17:29:43'

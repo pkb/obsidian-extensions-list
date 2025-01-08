@@ -8,7 +8,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import and consolidate highlights from different reading sources. Supports
   reconciling books across reading sources.
-downloads: 150
+downloads: 162
 mobile: false
 number: 1750
 stars: 1

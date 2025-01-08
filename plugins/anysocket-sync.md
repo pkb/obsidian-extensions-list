@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Self-Hosted synchronization for you Vault using AnySocket
-downloads: 392
+downloads: 410
 mobile: true
 number: 1870
 stars: 9

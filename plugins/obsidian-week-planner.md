@@ -7,7 +7,7 @@ categories:
 - '[[categories/Planning|Planning]]'
 description: Week Planner plugin for Obsidian. This plugin defines commands for creating
   planning documents and moving tasks between them.
-downloads: 8802
+downloads: 8913
 mobile: true
 number: 622
 stars: 40

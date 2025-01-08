@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI Copilot in Obsidian.
-downloads: 296345
+downloads: 323763
 mobile: true
 number: 909
-stars: 3200
+stars: 3400
 title: Copilot
 type: plugin
-updated: '2024-12-11T11:49:20'
+updated: '2025-01-08T04:49:33'
 url: https://github.com/logancyang/obsidian-copilot
-version: 2.7.9
+version: 2.7.15
 ---
 
 %% README_START %%
@@ -41,9 +41,15 @@ If you enjoy Copilot for Obsidian, please consider [sponsoring this project](htt
 <a href="https://www.buymeacoffee.com/logancyang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
 
 SPECIAL THANKS TO OUR TOP SPONSORS:
-@mikelaaron, @pedramamini, @Arlorean, @dashinja, @azagore, @MTGMAD, @gpythomas, @emaynard, @scmarinelli, @borthwick, @adamhill, @gluecode, @rusi, @timgrote, @JiaruiYu-Consilium, @ddocta, @AMOz1, @chchwy, @pborenstein, @GitTom, @kazukgw, @mjluser1, @joesfer, @rwaal, @turnoutnow-harpreet, @dreznicek, @xrise-informatik, @jeremygentles, @ZhengRui, @bfoujols, @jsmith0475, @pagiaddlemon, @sebbyyyywebbyyy
+@mikelaaron, @pedramamini, @Arlorean, @dashinja, @azagore, @MTGMAD, @gpythomas, @emaynard, @scmarinelli, @borthwick, @adamhill, @gluecode, @rusi, @timgrote, @JiaruiYu-Consilium, @ddocta, @AMOz1, @chchwy, @pborenstein, @GitTom, @kazukgw, @mjluser1, @joesfer, @rwaal, @turnoutnow-harpreet, @dreznicek, @xrise-informatik, @jeremygentles, @ZhengRui, @bfoujols, @jsmith0475, @pagiaddlemon, @sebbyyyywebbyyy, @royschwartz2, @vikram11, @amiable-dev, @khalidhalim, @DrJsPBs, @chishaku, @Andrea18500, @shayonpal, @rhm2k
 
 [Changelog](https://github.com/logancyang/obsidian-copilot/releases)
+
+## 🤖 v2.7.13 Relevant Notes in Copilot Chat! 🚀
+
+Introducing **Relevant Notes in Copilot Chat**! You can now see the collapsible **Relevant Notes** section at the top of the chat UI. It uses the same Copilot index you create for Vault QA. "Relevance" is determined by Copilot's own special algorithm based on hybrid search and Obsidian's note graph similarity, it is not just vector similarity. You can clearly see ranking factors such as the level of similarity and whether it has a direct link or backlink to the current note. You can also add any relevant note to chat with one click. The entire feature is developed by our great @zeroliu, one of our top contributors 💪. Enjoy!
+
+<img src="https://raw.githubusercontent.com/logancyang/obsidian-copilot/HEAD/images/relevant-notes-in-copilot-chat.png" alt="Relevant Notes in Copilot Chat" width="700">
 
 ## 🤖 v2.7.0 Copilot Plus (alpha) demo video - AI Agent for Obsidian! 🚀
 

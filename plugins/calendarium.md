@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Craft mind-bending fantasy and sci-fi calendars.
-downloads: 39427
+downloads: 41922
 mobile: true
 number: 1500
-stars: 86
+stars: 90
 title: Calendarium
 type: plugin
 updated: '2024-11-25T07:32:12'

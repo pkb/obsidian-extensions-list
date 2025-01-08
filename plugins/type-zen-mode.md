@@ -6,7 +6,7 @@ author:
 categories: []
 description: Type and get in zen mode instantly, no more distraction between you and
   your thoughts
-downloads: 330
+downloads: 401
 mobile: false
 number: 2006
 stars: 3

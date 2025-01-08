@@ -6,15 +6,15 @@ author:
 categories: []
 description: Visualize your activity and track goals, progress, habits, tasks, exercise,
   finances, and more—all in a single, interactive heatmap!
-downloads: 1065
+downloads: 2235
 mobile: true
 number: 2051
-stars: 22
+stars: 41
 title: Heatmap Tracker
 type: plugin
-updated: '2024-12-18T04:02:20'
+updated: '2025-01-06T19:15:28'
 url: https://github.com/mokkiebear/heatmap-tracker
-version: 1.9.6
+version: 1.12.2
 ---
 
 %% README_START %%

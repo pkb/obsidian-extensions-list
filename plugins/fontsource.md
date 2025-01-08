@@ -5,7 +5,7 @@ author:
 - '[[authors/fontsource|Ayuhito]]'
 categories: []
 description: Load custom fonts from Fontsource into your notes.
-downloads: 2783
+downloads: 3007
 mobile: true
 number: 1589
 stars: 10

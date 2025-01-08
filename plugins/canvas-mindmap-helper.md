@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Make the Canvas work like a mindmap
-downloads: 3986
+downloads: 4156
 mobile: true
 number: 1473
-stars: 19
+stars: 20
 title: Canvas Mindmap Helper
 type: plugin
 updated: '2024-08-09T15:38:32'

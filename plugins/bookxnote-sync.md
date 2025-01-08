@@ -5,7 +5,7 @@ author:
 - '[[authors/CodeListening|CodeListening]]'
 categories: []
 description: 从bookxnote中同步笔记
-downloads: 141
+downloads: 159
 mobile: false
 number: 1931
 stars: 4

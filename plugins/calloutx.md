@@ -5,10 +5,10 @@ author:
 - '[[authors/br4in|br4in]]'
 categories: []
 description: An easy way to explore, visualise, and modify callout icons.
-downloads: 69
+downloads: 119
 mobile: false
 number: 2068
-stars: 2
+stars: 3
 title: CalloutX
 type: plugin
 updated: '2024-11-23T22:08:57'

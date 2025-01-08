@@ -6,10 +6,10 @@ author:
 categories: []
 description: Use LLMs for smart document management and optimization, including relocating
   files, enhancing text, and generating metadata.
-downloads: 40
+downloads: 110
 mobile: true
 number: 2070
-stars: 3
+stars: 6
 title: ExMemo Tools
 type: plugin
 updated: '2024-12-11T12:33:32'

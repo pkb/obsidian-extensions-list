@@ -5,10 +5,10 @@ author:
 - '[[authors/kerry|Prateek Grover]]'
 categories: []
 description: Sync Obsidian notes with Confluence
-downloads: 1549
+downloads: 1574
 mobile: true
 number: 1501
-stars: 9
+stars: 10
 title: Confluence Sync
 type: plugin
 updated: '2024-03-01T09:03:54'

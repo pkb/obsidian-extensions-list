@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI Assistant plugin for Obsidian
-downloads: 18509
+downloads: 19463
 mobile: true
 number: 884
-stars: 257
+stars: 268
 title: AI Assistant
 type: plugin
-updated: '2024-11-03T15:32:17'
+updated: '2024-12-31T15:05:03'
 url: https://github.com/qgrail/obsidian-ai-assistant
-version: 1.5.3
+version: 1.6.1
 ---
 
 %% README_START %%
@@ -31,6 +31,7 @@ The current available features of this plugin are:
 
 ## Latest Updates
 
+- Chat interface has been updated; you can now delete messages and edit your past messages.
 - Claude Sonnet 3.5 latest, Opus latest and GPT-4o mini, o1-preview and o1-mini are now available.
 
 ## How to use
@@ -76,7 +77,7 @@ The transcript will be immediately added to your note at your cursor location.
 
 ### Text Assistant
 
--   **Model choice**: choice of the text model. Currently `gpt-3.5-turbo`, `gpt-4-turbo` and `gpt-4` are supported.
+-   **Model choice**: choice of the text model. Latest OpenAI and Anthropic models are available.
 -   **Maximum number of tokens** in the generated answer
 -   **Replace or Add below**: In prompt mode, after having selected text from your note and enter your prompt,
     you can decide to replace your text by the assistant answer or to paste it bellow.
@@ -109,6 +110,8 @@ You can install the [AI Assistant](https://obsidian.md/plugins?id=ai-assistant) 
 
 -   To use this plugin, with OpenAI models, you need an official API key from [here](https://platform.openai.com/account/api-keys),
 -   To use this plugin, with Anthropic Claude models, you need an official API key from [here](https://console.anthropic.com/settings/keys).
+
+<a href="https://www.buymeacoffee.com/qgrail" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 %% README_END %%

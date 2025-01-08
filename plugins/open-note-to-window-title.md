@@ -5,7 +5,7 @@ author:
 - '[[authors/jplattel|Joost Plattel]]'
 categories: []
 description: Allows template-based customization of the app window title
-downloads: 13935
+downloads: 13992
 mobile: true
 number: 102
 stars: 69

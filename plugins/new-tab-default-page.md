@@ -5,15 +5,15 @@ author:
 - '[[authors/chrisgrieser|pseudometa]]'
 categories: []
 description: Open a note of your choice when creating a new tab, like in the browser.
-downloads: 21801
+downloads: 22229
 mobile: true
 number: 594
-stars: 47
+stars: 48
 title: Default New Tab Page
 type: plugin
 updated: '2023-10-25T21:56:23'
 url: https://github.com/chrisgrieser/new-tab-default-page
-version: 0.11.4
+version: 0.11.7
 ---
 
 %% README_START %%

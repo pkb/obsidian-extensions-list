@@ -5,10 +5,10 @@ author:
 - '[[authors/delashum|delashum]]'
 categories: []
 description: Combines checklists across pages into users sidebar
-downloads: 343512
+downloads: 346577
 mobile: true
 number: 73
-stars: 402
+stars: 404
 title: Checklist
 type: plugin
 updated: '2023-09-29T09:35:14'

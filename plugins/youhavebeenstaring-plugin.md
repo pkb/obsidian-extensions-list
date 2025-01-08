@@ -7,7 +7,7 @@ categories:
 - '[[categories/Statistics|Statistics]]'
 description: This plugin tells you in the status bar for how long you've been staring
   at your obsidian vault. Well - at least how long your vault is open.
-downloads: 5154
+downloads: 5177
 mobile: true
 number: 70
 stars: 5

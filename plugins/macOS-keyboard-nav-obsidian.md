@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin adds alt+up arrow and alt+down arrow keyboard navigation
   to Obsidian.
-downloads: 7128
+downloads: 7150
 mobile: true
 number: 34
 stars: 26

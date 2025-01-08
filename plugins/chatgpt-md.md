@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A (nearly) seamless integration of ChatGPT into Obsidian.
-downloads: 38727
+downloads: 39278
 mobile: true
 number: 822
-stars: 866
+stars: 870
 title: ChatGPT MD
 type: plugin
 updated: '2023-04-04T03:06:20'

@@ -5,15 +5,15 @@ author:
 - '[[authors/kinabalu|Andrew Lombardi]]'
 categories: []
 description: Word Sprint for Obsidian plugin for your writing projects like Nanowrimo
-downloads: 14511
+downloads: 15003
 mobile: true
 number: 346
 stars: 40
 title: Word Sprint
 type: plugin
-updated: '2024-09-03T09:26:47'
+updated: '2024-12-23T01:05:52'
 url: https://github.com/kinabalu/obsidian-word-sprint
-version: 0.2.9
+version: 0.3.1
 ---
 
 %% README_START %%
@@ -38,9 +38,14 @@ Reference: https://www.wikiwrimo.org/wiki/Word_war
 ### Coming Soon
 - Online sprints to challenge and do sprints with friends
 
+
 ### Installation
-Plugin is pending review to be included in the community plugins. You can like or heart the 
-pull request if you'd like to get more attention on the plugin: https://github.com/obsidianmd/obsidian-releases/pull/601
+The Word Sprint Plugin is available in the Obsidian Community Plugins area.
+
+1. Turn off restricted mode if it's on
+2. Click 'Browse' under Community pllugins and search for "Word Sprint"
+3. Install and enable the plugin
+4. Have fun!
 
 ### Manual Installation
 Two methods and the first one is easier:

@@ -5,7 +5,7 @@ author:
 - '[[authors/lofttech|loftTech]]'
 categories: []
 description: tagger explorer and frontmatter logger
-downloads: 4804
+downloads: 4845
 mobile: true
 number: 1027
 stars: 34

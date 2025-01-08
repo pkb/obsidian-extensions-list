@@ -7,7 +7,7 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: Adds a pomodoro timer to your status bar. This pomodoro has additional
   options such as early log and extend.
-downloads: 12473
+downloads: 12542
 mobile: false
 number: 356
 stars: 58

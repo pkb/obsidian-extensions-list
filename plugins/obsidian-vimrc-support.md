@@ -5,7 +5,7 @@ author:
 - '[[authors/esm7|esm]]'
 categories: []
 description: Auto-load a startup file with Obsidian Vim commands.
-downloads: 100218
+downloads: 102316
 mobile: true
 number: 15
 stars: 1100

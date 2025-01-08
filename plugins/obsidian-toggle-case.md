@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This is an Obsidian plugin to toggle between `lowercase` `UPPERCASE`
   and `Title Case`
-downloads: 5607
+downloads: 5641
 mobile: true
 number: 721
 stars: 10

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Make the notes clustering simpler on mobile devices and work well on
   PCs ether, Notes Clustering is the process of creating hierarchical notes structures.
-downloads: 1073
+downloads: 1112
 mobile: true
 number: 1580
 stars: 10

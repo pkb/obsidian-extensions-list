@@ -5,10 +5,10 @@ author:
 - '[[authors/Cyfine|Cyfine]]'
 categories: []
 description: Add the emojis contained in the tags to the beginning of the note title.
-downloads: 3777
+downloads: 3799
 mobile: true
 number: 994
-stars: 3
+stars: 4
 title: EmoTagsTitler
 type: plugin
 updated: '2023-07-17T20:42:11'

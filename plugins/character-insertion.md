@@ -5,7 +5,7 @@ author:
 - '[[authors/TakamiChie|TakamiChie]]'
 categories: []
 description: Plugin to insert a specified symbol under the cursor
-downloads: 3591
+downloads: 3605
 mobile: true
 number: 864
 stars: 3

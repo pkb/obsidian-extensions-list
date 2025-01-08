@@ -6,7 +6,7 @@ author:
 categories: []
 description: You can visualize your classes and their inheritance, composition, aggregation
   relation.
-downloads: 43
+downloads: 63
 mobile: true
 number: 2061
 stars: 2

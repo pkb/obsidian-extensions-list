@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Shrinks pinned tabs to save screen space.
-downloads: 1047
+downloads: 1158
 mobile: true
 number: 1763
 stars: 14

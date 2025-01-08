@@ -8,10 +8,10 @@ categories:
 - '[[categories/Canvas|Canvas]]'
 description: Quickly fuzzy-search and shift focus to notes or cards within the currently
   opened canvas.
-downloads: 81029
+downloads: 89212
 mobile: false
 number: 1028
-stars: 23
+stars: 24
 title: Simple CanvaSearch
 type: plugin
 updated: '2024-06-25T22:05:39'

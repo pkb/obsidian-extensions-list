@@ -5,15 +5,15 @@ author:
 - '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Enables context menu for vault root folder
-downloads: 1964
+downloads: 2137
 mobile: true
 number: 1386
 stars: 2
 title: Root Folder Context Menu
 type: plugin
-updated: '2024-11-21T11:04:54'
+updated: '2025-01-07T01:38:12'
 url: https://github.com/mnaoumov/obsidian-root-folder-context-menu
-version: 1.3.2
+version: 1.4.0
 ---
 
 %% README_START %%
@@ -31,7 +31,7 @@ Full context menu as for any other folder is added:
 ## Installation
 
 - `Root Folder Context Menu` is available on [the official Community Plugins repository](https://obsidian.md/plugins?id=root-folder-context-menu).
-- Beta releases can be installed through [BRAT](https://github.com/TfTHacker/obsidian42-brat)
+- Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
 
 ## Support
 

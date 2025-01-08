@@ -5,15 +5,15 @@ author:
 - '[[authors/ruszabarov|Ruslan Zabarov]]'
 categories: []
 description: Converts units right in your Markdown files.
-downloads: 69
+downloads: 183
 mobile: true
 number: 2080
 stars: 2
 title: Unit Converter
 type: plugin
-updated: '2024-12-14T20:37:55'
+updated: '2025-01-04T13:46:40'
 url: https://github.com/ruszabarov/obsidian-unit-converter
-version: 1.0.2
+version: 1.1.0
 ---
 
 %% README_START %%

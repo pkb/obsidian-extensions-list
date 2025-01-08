@@ -5,7 +5,7 @@ author:
 - '[[authors/elias-sundqvist|Obsidian]]'
 categories: []
 description: Host obsidian subfolders as static file servers.
-downloads: 4488
+downloads: 4499
 mobile: false
 number: 194
 stars: 43

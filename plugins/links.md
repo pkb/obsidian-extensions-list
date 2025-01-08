@@ -5,15 +5,15 @@ author:
 - '[[authors/mii-key|MiiKey]]'
 categories: []
 description: Manipulate links
-downloads: 43156
+downloads: 44430
 mobile: true
 number: 907
-stars: 107
+stars: 108
 title: Links
 type: plugin
-updated: '2024-11-13T18:48:24'
+updated: '2025-01-04T10:56:48'
 url: https://github.com/mii-key/obsidian-links
-version: 1.17.25
+version: 1.17.27
 ---
 
 %% README_START %%

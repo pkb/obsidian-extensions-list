@@ -6,15 +6,15 @@ author:
 categories: []
 description: Replaces your new tab window with a browseable list of the files and
   folders in your vault.
-downloads: 6121
+downloads: 6638
 mobile: true
 number: 1527
-stars: 53
+stars: 56
 title: Project Browser
 type: plugin
-updated: '2024-10-15T19:00:02'
+updated: '2025-01-01T17:06:13'
 url: https://github.com/daledesilva/obsidian_project-browser
-version: 0.1.5
+version: 0.2.0
 ---
 
 %% README_START %%

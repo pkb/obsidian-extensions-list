@@ -7,10 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: This is a enhancing export plugin for Obsidian. It allows to export to
   formats like Html, DOCX, ePub and PDF or Markdown(Hugo) etc.
-downloads: 228263
+downloads: 232696
 mobile: false
 number: 514
-stars: 357
+stars: 362
 title: Enhancing Export
 type: plugin
 updated: '2024-11-16T15:30:41'

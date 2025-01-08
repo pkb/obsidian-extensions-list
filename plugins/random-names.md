@@ -5,7 +5,7 @@ author:
 - '[[authors/palfrey|Tom Parker-Shemilt]]'
 categories: []
 description: Generates random names
-downloads: 590
+downloads: 608
 mobile: true
 number: 1612
 stars: 0

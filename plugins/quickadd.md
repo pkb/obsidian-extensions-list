@@ -7,7 +7,7 @@ categories:
 - '[[categories/Content capture|Content capture]]'
 - '[[categories/Templates|Templates]]'
 description: Quickly add new pages or content to your vault.
-downloads: 884405
+downloads: 900681
 mobile: true
 number: 211
 stars: 1600

@@ -7,15 +7,15 @@ categories: []
 description: You can upload and save images from your notes to your remote server,
   home NAS, or sync them to your cloud storage (Alibaba Cloud OSS, Amazon S3, Cloudflare
   R2).
-downloads: 9
+downloads: 225
 mobile: true
 number: 2087
-stars: 2
+stars: 13
 title: Custom Image Auto Uploader
 type: plugin
-updated: '2024-12-19T06:19:38'
+updated: '2024-12-30T20:26:59'
 url: https://github.com/haierkeys/obsidian-custom-image-auto-uploader
-version: 2.0.9
+version: 2.6.1
 ---
 
 %% README_START %%
@@ -26,7 +26,7 @@ version: 2.0.9
 
 # Custom Image Auto Uploader Plugin for Obsidian
 
-You can upload and save images in your notes to your remote server, home NAS, or sync them to your cloud storage (Aliyun OSS, Amazon S3, Cloudflare R2). Additionally, you can stretch, crop, and resize the images.
+You can batch download images from your notes on 💻 desktop, 📱 iOS, and 🤖 Android platforms, and batch upload and save them to a remote server, home NAS, or cloud storage (such as Alibaba Cloud OSS, Amazon S3, Cloudflare R2). Additionally, you can stretch, crop, and resize the images.
 
 ![](https://github.com/user-attachments/assets/0878061b-d77c-48c5-aa61-cc5154612a7b)
 

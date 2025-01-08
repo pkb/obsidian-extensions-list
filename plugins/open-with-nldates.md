@@ -7,10 +7,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Open a daily note using natural language. Requires "Natural Language
   Dates" plugin to work.
-downloads: 122
+downloads: 167
 mobile: true
 number: 1976
-stars: 0
+stars: 1
 title: Open with Natural Language Dates
 type: plugin
 updated: '2024-10-17T11:39:40'

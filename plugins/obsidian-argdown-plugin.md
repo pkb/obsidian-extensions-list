@@ -5,7 +5,7 @@ author:
 - '[[authors/amdecker|amdecker]]'
 categories: []
 description: Allows you to write argdown codeblocks and view the maps in Preview
-downloads: 7003
+downloads: 7035
 mobile: false
 number: 206
 stars: 69

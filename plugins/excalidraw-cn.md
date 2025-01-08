@@ -7,10 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: 支持中文手写效果的 Excalidraw。Excalidraw supporting Chinese hand write font by
   default.
-downloads: 13024
+downloads: 13293
 mobile: true
 number: 1106
-stars: 92
+stars: 94
 title: Excalidraw CN
 type: plugin
 updated: '2023-07-08T21:15:53'

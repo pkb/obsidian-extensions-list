@@ -6,7 +6,7 @@ author:
 categories: []
 description: A file explorer similar to Dendron for navigating hierarchical notes
   separated by '.'
-downloads: 1214
+downloads: 1273
 mobile: true
 number: 1846
 stars: 13

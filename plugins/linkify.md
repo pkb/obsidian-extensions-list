@@ -5,7 +5,7 @@ author:
 - '[[authors/matthewhchan|matthewhchan]]'
 categories: []
 description: Converts matching text into links.
-downloads: 6660
+downloads: 6710
 mobile: true
 number: 539
 stars: 39

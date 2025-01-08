@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Manage a separate folder of attachments for each note.
-downloads: 1204
+downloads: 1224
 mobile: true
 number: 1521
 stars: 6

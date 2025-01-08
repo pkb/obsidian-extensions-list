@@ -6,10 +6,10 @@ author:
 categories: []
 description: Displays a formatted reference in the sidebar for each pandoc citekey
   present in the current document.
-downloads: 44057
+downloads: 45149
 mobile: false
 number: 513
-stars: 191
+stars: 194
 title: Pandoc Reference List
 type: plugin
 updated: '2024-01-04T23:56:29'

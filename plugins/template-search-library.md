@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Allows you to save search templates for future re-use
-downloads: 3305
+downloads: 3330
 mobile: true
 number: 1136
 stars: 11

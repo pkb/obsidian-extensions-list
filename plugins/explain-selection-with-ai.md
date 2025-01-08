@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use an OpenAI Chat Completion API-compatible LLM endpoint to explain
   the selected text in greater detail.
-downloads: 2012
+downloads: 2220
 mobile: true
 number: 1713
 stars: 3

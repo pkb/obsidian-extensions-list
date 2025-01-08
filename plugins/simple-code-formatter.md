@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format the code block where the cursor is.
-downloads: 383
+downloads: 518
 mobile: true
 number: 1974
 stars: 9

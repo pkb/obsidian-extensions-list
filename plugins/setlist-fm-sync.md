@@ -5,7 +5,7 @@ author:
 - '[[authors/fleker|Nick Felker]]'
 categories: []
 description: Syncs your setlist.fm attended concerts.
-downloads: 39
+downloads: 48
 mobile: true
 number: 2044
 stars: 0

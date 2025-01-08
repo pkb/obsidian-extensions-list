@@ -6,13 +6,13 @@ author:
 categories: []
 description: Shows a list of notes in the current folder, and allows you to filter
   the titles to include or exclude notes.
-downloads: 983
+downloads: 1050
 mobile: true
 number: 1570
-stars: 4
+stars: 5
 title: Current Folder Notes
 type: plugin
-updated: '2024-12-11T12:26:28'
+updated: '2024-12-29T20:22:03'
 url: https://github.com/Caffa/Obsidian-Current-Folder-Note-Display-Plugin
 version: 1.7.3
 ---

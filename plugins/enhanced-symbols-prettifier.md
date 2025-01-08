@@ -7,15 +7,15 @@ categories: []
 description: Replace/substitute the symbols with actual symbols you commonly type.
   It also works for emojis shortcuts, abbreviations, greek letters, math symbols or
   other snippets/aliases you define
-downloads: 2993
+downloads: 3409
 mobile: true
 number: 1827
 stars: 12
 title: Enhanced Symbols Prettifier
 type: plugin
-updated: '2024-09-22T17:11:07'
+updated: '2024-12-31T22:13:12'
 url: https://github.com/noam-sc/obsidian-enhanced-symbols-prettifier
-version: 1.4.1
+version: 1.4.2
 ---
 
 %% README_START %%

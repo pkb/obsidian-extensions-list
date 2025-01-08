@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync your Hypothesis highlights
-downloads: 14036
+downloads: 14073
 mobile: true
 number: 322
-stars: 238
+stars: 243
 title: Hypothes.is
 type: plugin
 updated: '2022-06-01T18:03:22'

@@ -5,10 +5,10 @@ author:
 - '[[authors/Nomekuma|Nomekuma]]'
 categories: []
 description: Automatically adds strikethrough to completed tasks.
-downloads: 184
+downloads: 220
 mobile: true
 number: 1916
-stars: 1
+stars: 2
 title: Auto Strikethrough Tasks
 type: plugin
 updated: '2024-10-08T21:20:45'

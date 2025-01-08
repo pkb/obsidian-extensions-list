@@ -5,7 +5,7 @@ author:
 - '[[authors/JakobMick|Jakob]]'
 categories: []
 description: Add custom indicators to the file explorer.
-downloads: 3077
+downloads: 3128
 mobile: true
 number: 1280
 stars: 7

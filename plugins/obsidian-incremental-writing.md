@@ -5,10 +5,10 @@ author:
 - '[[authors/bjsi|Experimental Learning]]'
 categories: []
 description: Incrementally review notes and blocks over time.
-downloads: 11200
+downloads: 11251
 mobile: false
 number: 160
-stars: 182
+stars: 184
 title: Incremental Writing
 type: plugin
 updated: '2021-10-02T16:06:23'

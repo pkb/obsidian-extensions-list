@@ -5,7 +5,7 @@ author:
 - '[[authors/jdeal|jdeal]]'
 categories: []
 description: Adds path (or optional replacement) to the filename title of each pane
-downloads: 8403
+downloads: 8447
 mobile: true
 number: 475
 stars: 23

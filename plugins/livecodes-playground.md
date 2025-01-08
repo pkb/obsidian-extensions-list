@@ -5,10 +5,10 @@ author:
 - '[[authors/gapmiss|@gapmiss]]'
 categories: []
 description: Client-side code editor playground - Powered by LiveCodes
-downloads: 990
+downloads: 1013
 mobile: true
 number: 1560
-stars: 14
+stars: 15
 title: Livecodes Playground
 type: plugin
 updated: '2024-05-12T03:56:24'

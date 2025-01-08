@@ -5,7 +5,7 @@ author:
 - '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Upgrade Obsidian's built-in link suggestions with block markdown rendering.
-downloads: 2599
+downloads: 2638
 mobile: true
 number: 1311
 stars: 15

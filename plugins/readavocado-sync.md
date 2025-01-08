@@ -7,7 +7,7 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 - '[[categories/Integration|Integration]]'
 description: Sync your Readavocado highlights with Obsidian
-downloads: 3306
+downloads: 3312
 mobile: true
 number: 632
 stars: 10

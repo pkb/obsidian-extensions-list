@@ -6,7 +6,7 @@ author:
 categories: []
 description: Level up your headers, customize your notes. Header Enhancer makes your
   notes header better and more useful.
-downloads: 5426
+downloads: 5583
 mobile: true
 number: 1111
 stars: 15

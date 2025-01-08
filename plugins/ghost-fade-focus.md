@@ -5,7 +5,7 @@ author:
 - '[[authors/skipadu|Sami Korpela]]'
 categories: []
 description: Focused on the current line, others faded like a ghost!
-downloads: 9510
+downloads: 9558
 mobile: false
 number: 281
 stars: 46

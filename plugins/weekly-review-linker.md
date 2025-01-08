@@ -6,7 +6,7 @@ author:
 categories: []
 description: This links all of the files you have created in the last week into a
   Weekly Review note.
-downloads: 418
+downloads: 444
 mobile: true
 number: 1645
 stars: 0

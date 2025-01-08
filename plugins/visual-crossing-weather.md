@@ -5,15 +5,15 @@ author:
 - '[[authors/willasm|willasm]]'
 categories: []
 description: Visual Crossing Weather API for Your Notes
-downloads: 249
+downloads: 452
 mobile: true
 number: 2052
-stars: 18
+stars: 19
 title: Visual Crossing Weather
 type: plugin
-updated: '2024-12-16T04:36:14'
+updated: '2024-12-30T01:57:44'
 url: https://github.com/willasm/vc-weather
-version: 1.0.0
+version: 1.1.2
 ---
 
 %% README_START %%
@@ -24,6 +24,7 @@ version: 1.0.0
 - [Introduction](#introduction)
 - [Features](#features)
 - [Template Macros](#template-macros)
+- [Daily Notes Template Macros](#daily-notes-template-macros)
 - [The Current Weather Display Modal](#the-current-weather-display-modal)
 - [The Statusbar Weather Display & Templates](#the-statusbar-weather-display--templates)
   - [The current weather](#the-current-weather)
@@ -37,6 +38,7 @@ version: 1.0.0
     - [Primary location](#primary-location)
     - [Additional locations 1 to 4](#additional-locations-1-to-4)
     - [Units of measurement](#units-of-measurement)
+    - [Language](#language)
     - [Exclude template folder](#exclude-template-folder)
     - [Update frequency](#update-frequency)
     - [Show weather in the statusbar](#show-weather-in-the-statusbar)
@@ -73,8 +75,8 @@ You can get your [free API key here](https://www.visualcrossing.com/sign-up). It
 - [Template support](#obsidian--templater-templates-support) for automatic weather insertion into your new documents
 - [DIV support](#dynamic-weather-using-divs) for dynamic weather
 - 14 Day forecast data available from the API
-- Several thousand (3767 currently) macro text replacements with more to come
-  - Once I start adding the hourly data this number will increase substantialy
+- Several thousand (currently around 4000) macro text replacements with more to come
+- Daily notes special macros can get the weather data for any of 14 future/past days
 - Includes all core elements of my OpenWeather plugin, auto replace templates, etc.
 - Templates are now named. The first line is used as the name in the menus and is not included in the output of the template
 - Many overall improvements to much of the code
@@ -85,6 +87,12 @@ You can get your [free API key here](https://www.visualcrossing.com/sign-up). It
 
 ## Template Macros
 The text macros are used to represent a weather data object and will be expanded to display that particular weather data item at runtime. All macros are contained within 2 percent signs. For an example, `%temp%` represents the current temperature and will be replaced by eg. `24`. `%humidity%` represents the current humidity and will be replaced with eg. `80%`. For a detailed complete list of available macros in table form see [Macros.md](./Documentation/Macros.md)
+
+[Table of Contents](#table-of-contents)
+
+
+## Daily Notes Template Macros
+These special macros are specifically used in your daily notes template. They allow for the expansion of the macros weather data in any one of 14 future/past days. In order for this to work your daily notes file name must be in the format `YYYY-MM-DD` (This is the default in Obsidian). For a detailed complete list of available macros in table form see [Macros.md](./Documentation/Macros.md#daily-note-macros)
 
 [Table of Contents](#table-of-contents)
 
@@ -190,7 +198,7 @@ Insertion of the weather templates can be automated by using Obsidian or Templat
 - `%weather7%` - Inserts weather template Seven
 - `%weather8%` - Inserts weather template Eight
 
-The strings above will autmatically be replaced with the templates data when a new file is created with the template or you insert the template into an existing document. Note that the Templater plugin is not required to expand the weather string templates, that is handled by this plugin itself. Remember to exclude your templates folder in the plugins settings. If you do not exclude the folder the weather templates will be expanded in your template file which you do not want to happen.
+The strings above will autmatically be replaced with the templates data when a new file is created with the template or when you insert the macros into an existing document. Note that the Templater plugin is not required to expand the weather string templates, that is handled by this plugin itself. Remember to exclude your templates folder in the plugins settings. If you do not exclude the folder the weather templates will be expanded in your template file which you do not want to happen.
 
 [Table of Contents](#table-of-contents)
 
@@ -222,10 +230,19 @@ If you wish to get weather information for any additional locations you may defi
 
 #### **Units of measurement**
 Select from the dropdown United States, Metric, United Kingdom, or Base
+
 Note: Base returns temperatures in degrees Kelvin, not very useful in this application
 
+#### **Language**
+Select from the dropdown list your prefered language
+
+Available languages - Arabic, Bulgarian, Chinese, Czech, Danish, Dutch, English, Farsi, Finnish, French, German, Greek Modern, Hebrew, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Serbian, Slovakian, Spanish, Swedish, Turkish, Ukrainian, Vietnamese
+
+
+Note: This only changes the text returned by the API. You will need to change the default templates text to your desired language.
+
 #### **Exclude template folder**
-You must add your templates folder here. Not doing so would result in all defined weather templates being replaced with weather data. There is an optional second exclude folder which could be useful for your scripts folder. This second one is optional.
+You must add your templates folder here. Not doing so would result in all defined weather templates in that folder being replaced with weather data. There is an optional second exclude folder which could be useful for your scripts folder or a secondary templates folder location.
 
 #### **Update frequency**
 Time interval for updating the current weather information that is displayed in the statusbar and [DIV's](#dynamic-weather-using-divs) (10, 15, 20, 30 or 60 minutes). How often the weather data is actually updated is dependent on the weather stations near your location. I Recommend setting this to 10 to 30 minutes. The weather stations near you are not likely to update in a shorter time than that.
@@ -235,6 +252,9 @@ Toggles the weather display in the statusbar on or off
 
 #### **Cycle statusbar display**
 Toggles cycling the statusbar weather display between the 2 statusbar templates on or off. The templates are alternated every 30 seconds
+
+#### **Show weather alerts in the statusbar**
+Toggles the weather alerts display in the statusbar on or off
 
 #### **Primary statusbar template**
 This template will always be displayed in the statusbar when enabled

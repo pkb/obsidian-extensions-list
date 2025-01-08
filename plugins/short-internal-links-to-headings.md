@@ -5,10 +5,10 @@ author:
 - '[[authors/scottwillmoore|Scott Moore]]'
 categories: []
 description: An Obsidian plugin to display short internal links.
-downloads: 10566
+downloads: 10660
 mobile: true
 number: 755
-stars: 51
+stars: 50
 title: Short links
 type: plugin
 updated: '2023-10-15T16:07:04'

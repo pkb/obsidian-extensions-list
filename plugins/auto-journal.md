@@ -7,7 +7,7 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Opinionated journaling automation like daily notes but with backfills
   for the days when Obsidian wasn't opened
-downloads: 4482
+downloads: 4534
 mobile: true
 number: 1119
 stars: 22

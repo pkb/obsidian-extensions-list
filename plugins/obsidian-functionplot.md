@@ -5,10 +5,10 @@ author:
 - '[[authors/leonhma|leonhma]]'
 categories: []
 description: A plugin for displaying mathematical graphs in obsidian.md.
-downloads: 14578
+downloads: 14751
 mobile: true
 number: 523
-stars: 226
+stars: 227
 title: Obsidian Functionplot
 type: plugin
 updated: '2022-08-23T23:22:19'

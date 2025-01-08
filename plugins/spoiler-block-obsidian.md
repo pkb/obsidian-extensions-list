@@ -5,7 +5,7 @@ author:
 - '[[authors/AllJavi|AllJavi]]'
 categories: []
 description: Create Spoiler Blocks to hide information until you want to see it
-downloads: 7812
+downloads: 7927
 mobile: true
 number: 748
 stars: 27

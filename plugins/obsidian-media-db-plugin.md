@@ -6,10 +6,10 @@ author:
 categories: []
 description: A plugin that can query multiple APIs for movies, series, anime, games,
   music and wiki articles, and import them into your vault.
-downloads: 26093
+downloads: 26535
 mobile: true
 number: 527
-stars: 258
+stars: 260
 title: Media DB
 type: plugin
 updated: '2024-07-05T18:27:46'

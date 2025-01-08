@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Integration with Amazing Marvin
-downloads: 672
+downloads: 688
 mobile: true
 number: 1579
 stars: 16

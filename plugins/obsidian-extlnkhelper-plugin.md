@@ -5,7 +5,7 @@ author:
 - '[[authors/nakalsio|Jhonghee Park]]'
 categories: []
 description: This is a plugin for making entering external links easier.
-downloads: 3973
+downloads: 3985
 mobile: true
 number: 730
 stars: 16

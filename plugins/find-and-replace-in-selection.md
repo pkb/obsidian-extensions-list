@@ -6,7 +6,7 @@ author:
 categories: []
 description: Finds what you are looking for in the selected text and replaces it with
   the specified text
-downloads: 15529
+downloads: 15655
 mobile: true
 number: 137
 stars: 33

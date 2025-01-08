@@ -6,15 +6,15 @@ author:
 - '[[authors/wrenger|Clemens Ertle]]'
 categories: []
 description: Unofficial integration of the LanguageTool spell and grammar checker.
-downloads: 6245
+downloads: 6943
 mobile: true
 number: 1785
-stars: 18
+stars: 20
 title: LanguageTool
 type: plugin
-updated: '2024-11-24T03:53:14'
+updated: '2025-01-07T19:17:30'
 url: https://github.com/wrenger/obsidian-languagetool
-version: 1.0.12
+version: 1.0.13
 ---
 
 %% README_START %%

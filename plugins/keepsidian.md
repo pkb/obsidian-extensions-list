@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import Google Keep notes.
-downloads: 381
+downloads: 428
 mobile: false
 number: 1861
-stars: 9
+stars: 10
 title: KeepSidian
 type: plugin
 updated: '2024-12-02T13:52:15'

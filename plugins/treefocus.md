@@ -6,7 +6,7 @@ author:
 categories: []
 description: Dim, highlight & style your files & folders in the vault file explorer
   (foldable item navigator) based on predefined / custom rules.
-downloads: 4880
+downloads: 4965
 mobile: true
 number: 1207
 stars: 17

@@ -5,10 +5,10 @@ author:
 - '[[authors/timppeters|Tim Peters]]'
 categories: []
 description: Allows the user to edit and create .mdx files.
-downloads: 2612
+downloads: 2653
 mobile: true
 number: 1267
-stars: 2
+stars: 3
 title: Edit MDX
 type: plugin
 updated: '2023-11-22T18:24:17'

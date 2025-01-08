@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Help you to clean empty files and unused attachments in the vault.
-downloads: 17418
+downloads: 18469
 mobile: true
 number: 1266
 stars: 34

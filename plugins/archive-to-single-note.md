@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allows to create single file archive/trash and merge(archive) old notes
   with it.
-downloads: 2491
+downloads: 2508
 mobile: true
 number: 1231
 stars: 2

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage your tasks inside codeblocks according to the Todo.txt specification.
-downloads: 3734
+downloads: 3804
 mobile: true
 number: 1189
 stars: 16

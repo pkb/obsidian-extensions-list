@@ -10,20 +10,33 @@ categories:
 description: Local Images Plus plugin searches for all external media links in your
   notes, downloads and saves them locally and adjusts the links in your notes to point
   to the saved files.
-downloads: 53431
+downloads: 56632
 mobile: false
 number: 731
-stars: 274
+stars: 288
 title: Local Images Plus
 type: plugin
-updated: '2023-10-27T17:35:46'
+updated: '2025-01-03T00:49:53'
 url: https://github.com/Sergei-Korneev/obsidian-local-images-plus
-version: 0.15.9
+version: 0.16.0
 ---
 
 %% README_START %%
 
 # Obsidian Local Images Plus
+
+
+***
+
+**Notes for 0.16.0**
+
+**First off, I'd like to say a huge thank you to everyone who donated a few bucks. Thank you!**
+
+**And secondly, as far as I know Obsidian version 1.8 supports some features of this plugin out of the box. So the future need for this plugin is questionable.**
+ 
+**All the best to you in the new year.**
+
+**Sergei Korneev**
 
 ***
 
@@ -32,6 +45,9 @@ version: 0.15.9
 **The author of this software is not obligated to provide any form of support and assumes no liability.**
 
 ***
+
+
+
 
 
 Obsidian Local Images Plus is a plugin for [Obsidian](https://obsidian.md/) 
@@ -80,7 +96,7 @@ This plugin has known compatibility issues with the following plugins:
 
 Just copy any web content, Word/Open Office content and paste it into your regular note or a note in canvas.
 
-Starting from version 0.15.0 the plugin also handles all attachments (screenshots/drag-and-drop for files/audio records).
+This plugin also handles all attachments (screenshots/drag-and-drop for files/audio records).
 
 
 
@@ -88,7 +104,6 @@ Starting from version 0.15.0 the plugin also handles all attachments (screenshot
 ![img](https://raw.githubusercontent.com/Sergei-Korneev/obsidian-local-images-plus/HEAD/docs/exampleimage.gif)
 
 Use it in the command/menu mode or in automatic mode (toggle "Automatic processing" option in the settings):
-
 
 
 ![img](https://raw.githubusercontent.com/Sergei-Korneev/obsidian-local-images-plus/HEAD/docs/commands.png)
@@ -124,7 +139,7 @@ Files will be copied or downloaded to your attachments folder.
 
 **NOTE: I would not recommend to use this plugin for copying really big files, since buffered reading from disk not implemented yet.**
 
-Starting from version 0.15.6 the plugin also allows you to remove unused attachments by running commands:
+This plugin also allows you to remove unused attachments by running commands:
 
 ```Remove all orphaned attachments (Plugin folder)```
 
@@ -135,7 +150,7 @@ and
 The first one searches orphans in the folder next to the active note, while the second one searches all unused attachments for all your notes. (this requires you to set some root subfolder in Obsidian settings)
 
 
-Starting from version 0.14.5 attachment names are generated according to MD5, therefore they are pretty unique within the vault.        
+All attachment names are generated according to MD5, therefore they are pretty unique within the vault.        
 
 This means you can place an attachment file anywhere within your vault, replace the absolute path in a tag with the file name and Obsidian will still show it in your note.
  

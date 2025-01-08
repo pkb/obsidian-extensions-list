@@ -5,10 +5,10 @@ author:
 - '[[authors/fleetingnotes|Matthew Wong]]'
 categories: []
 description: This is a plugin to sync Fleeting Notes with Obsidian
-downloads: 31022
+downloads: 31243
 mobile: true
 number: 480
-stars: 82
+stars: 85
 title: Fleeting Notes Sync
 type: plugin
 updated: '2023-11-07T07:05:58'

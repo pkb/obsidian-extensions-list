@@ -5,10 +5,10 @@ author:
 - '[[authors/TheseusGrey|Theseus]]'
 categories: []
 description: Open a Neovim buffer for the currently open file
-downloads: 1395
+downloads: 1535
 mobile: false
 number: 1756
-stars: 12
+stars: 13
 title: Edit in Neovim
 type: plugin
 updated: '2024-08-23T02:01:00'

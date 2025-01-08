@@ -7,10 +7,10 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This Plugin provides a simple Editor for Markdown, HTML and Colors and
   in addition a command interface. The command interface facilitate a faster workflow.
-downloads: 83594
+downloads: 85119
 mobile: true
 number: 88
-stars: 254
+stars: 255
 title: Markdown Formatting Assistant
 type: plugin
 updated: '2022-11-15T17:16:02'

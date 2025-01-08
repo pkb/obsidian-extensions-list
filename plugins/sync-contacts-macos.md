@@ -5,7 +5,7 @@ author:
 - '[[authors/motschel123|Marcel Schöckel]]'
 categories: []
 description: Sync your contacts from macOS to your Obsidian Vault.
-downloads: 3171
+downloads: 3193
 mobile: false
 number: 1158
 stars: 12

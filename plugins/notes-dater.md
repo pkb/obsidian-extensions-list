@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds created on and last updated on dates of the active note to the status
   bar.
-downloads: 4718
+downloads: 4792
 mobile: false
 number: 1006
 stars: 10

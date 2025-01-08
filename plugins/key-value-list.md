@@ -5,7 +5,7 @@ author:
 - '[[authors/christianwannerstedt|Christian Wannerstedt]]'
 categories: []
 description: Makes it easy to turn lists into formatted key-value lists.
-downloads: 4707
+downloads: 4763
 mobile: true
 number: 1301
 stars: 34

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Interact with your Google Tasks from Inside Obsidian
-downloads: 13916
+downloads: 14109
 mobile: true
 number: 487
-stars: 138
+stars: 142
 title: Google Tasks
 type: plugin
 updated: '2023-03-26T06:50:57'

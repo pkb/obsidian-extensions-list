@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Insert timestamp when you check off the checkbox
-downloads: 878
+downloads: 944
 mobile: true
 number: 1682
-stars: 4
+stars: 5
 title: Checkbox Time Tracker
 type: plugin
 updated: '2024-09-08T06:34:26'

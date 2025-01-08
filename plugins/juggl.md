@@ -6,10 +6,10 @@ author:
 categories: []
 description: Adds a completely interactive, stylable and expandable graph view to
   Obsidian.
-downloads: 78030
+downloads: 79018
 mobile: true
 number: 151
-stars: 654
+stars: 655
 title: Juggl
 type: plugin
 updated: '2023-11-10T18:57:09'

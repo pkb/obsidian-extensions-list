@@ -6,15 +6,15 @@ author:
 categories: []
 description: Create more relevant text sections your tips, top notes, warnings and
   more.
-downloads: 23
+downloads: 263
 mobile: true
 number: 2088
-stars: 0
+stars: 6
 title: WonderBox
 type: plugin
-updated: '2024-12-12T14:12:55'
+updated: '2024-12-23T21:19:09'
 url: https://github.com/Chrstn67/WonderBox
-version: 1.0.5
+version: 1.1.2
 ---
 
 %% README_START %%
@@ -28,12 +28,13 @@ version: 1.0.5
 ### Fonctionnalités
 
 - Transforme automatiquement des blocs Markdown comme `:::note[Title]...:::` en boîtes visuellement attrayantes.
-- Supporte cinq types de boîtes :
+- Supporte plusieurs types de boîtes :
   - **note** : Pour des informations générales.
   - **tip** : Pour des astuces et conseils.
   - **info** : Pour des détails informatifs.
   - **warning** : Pour des avertissements.
   - **danger** : Pour des messages critiques.
+  - et plus...
 - Facile à utiliser grâce à une syntaxe simple et intuitive.
 
 ### Installation
@@ -88,12 +89,13 @@ Vous pouvez utiliser ce plugin pour organiser vos notes efficacement !
 ### Features
 
 - Automatically transforms Markdown blocks like `:::note[Title]...:::` into visually appealing boxes.
-- Supports five box types:
+- Supports several box types:
   - **note**: For general information.
-  - tip\*\*: For tips and advice.
-  - info\*\*: For informative details.
-  - warning\*\*: For warnings.
+  - **tip**: For tips and advice.
+  - **info**: For informative details.
+  - **warning**: For warnings.
   - **danger**: For critical messages.
+  - and more...
 - Easy to use thanks to simple, intuitive syntax.
 
 ### Installation

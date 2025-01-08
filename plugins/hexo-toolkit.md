@@ -5,7 +5,7 @@ author:
 - '[[authors/sissilab|Xiangru]]'
 categories: []
 description: Maintain Hexo posts.
-downloads: 50
+downloads: 60
 mobile: false
 number: 1987
 stars: 1

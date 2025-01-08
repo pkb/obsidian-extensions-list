@@ -5,7 +5,7 @@ author:
 - '[[authors/manogna4|mano]]'
 categories: []
 description: 'obsidian workspace enhancements: vertical tabs, and more...'
-downloads: 4656
+downloads: 4670
 mobile: false
 number: 179
 stars: 22

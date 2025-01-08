@@ -6,7 +6,7 @@ author:
 categories: []
 description: Plugin allows you to create comments while you read books or articles
   in Obsidian. Comments could be grouped hierarchically by tags.
-downloads: 7405
+downloads: 7620
 mobile: true
 number: 797
 stars: 47

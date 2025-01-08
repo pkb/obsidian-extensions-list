@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Create Todoist tasks and projects from Obsidian with bidirectional links.
-downloads: 10282
+downloads: 10351
 mobile: true
 number: 501
 stars: 30

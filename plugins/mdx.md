@@ -5,10 +5,10 @@ author:
 - '[[authors/yuleicul|Yulei Chen]]'
 categories: []
 description: Preview MDX in Obsidian, with support for Code Hike
-downloads: 3652
+downloads: 3690
 mobile: false
 number: 1068
-stars: 29
+stars: 31
 title: MDX
 type: plugin
 updated: '2023-08-16T18:47:51'

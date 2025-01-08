@@ -5,7 +5,7 @@ author:
 - '[[authors/Steffo99|Steffo]]'
 categories: []
 description: Create a metadata file about the files present in the Vault
-downloads: 2682
+downloads: 2710
 mobile: true
 number: 1264
 stars: 6

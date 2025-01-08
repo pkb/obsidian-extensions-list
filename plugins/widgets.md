@@ -5,10 +5,10 @@ author:
 - '[[authors/rafaelveiga|Rafael Veiga]]'
 categories: []
 description: Adds widgets to your notes like clock, countdown and quotes.
-downloads: 10215
+downloads: 11016
 mobile: true
 number: 1354
-stars: 75
+stars: 78
 title: Widgets
 type: plugin
 updated: '2024-12-08T10:22:50'

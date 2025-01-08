@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create new notes from Templates - for each Template, provides a Command
   to trigger it, and a form to fill in any variables in the template
-downloads: 12066
+downloads: 12188
 mobile: true
 number: 363
 stars: 108

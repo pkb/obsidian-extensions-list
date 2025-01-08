@@ -5,7 +5,7 @@ author:
 - '[[authors/roovo|roovo]]'
 categories: []
 description: Display markdown tasks on kanban style boards.
-downloads: 106159
+downloads: 108327
 mobile: true
 number: 348
 stars: 520

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: This plugin allows you to query notes and represent data within Obsidian
-downloads: 13759
+downloads: 13825
 mobile: true
 number: 87
-stars: 178
+stars: 179
 title: Obsidian Query Language
 type: plugin
 updated: '2022-09-19T17:09:40'

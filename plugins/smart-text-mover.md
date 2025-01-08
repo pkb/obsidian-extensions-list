@@ -5,7 +5,7 @@ author:
 - '[[authors/Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Intelligent way to move text in file.
-downloads: 318
+downloads: 332
 mobile: true
 number: 1728
 stars: 8

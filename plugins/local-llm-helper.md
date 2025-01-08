@@ -5,7 +5,7 @@ author:
 - '[[authors/manimohans|Mani Mohan]]'
 categories: []
 description: Use your own secure local LLM server to work with your text!
-downloads: 1760
+downloads: 1862
 mobile: true
 number: 1631
 stars: 18

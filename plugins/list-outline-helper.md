@@ -6,10 +6,10 @@ author:
 categories: []
 description: Utilities to work with list outlines. Currently supports selecting the
   outline (current line and children)
-downloads: 2405
+downloads: 2659
 mobile: true
 number: 1655
-stars: 1
+stars: 2
 title: List Outline Helper
 type: plugin
 updated: '2024-05-14T12:59:56'

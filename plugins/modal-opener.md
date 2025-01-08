@@ -6,15 +6,15 @@ author:
 categories: []
 description: Open files and links in modal windows, or create and edit compatible
   files in modal windows.
-downloads: 1094
+downloads: 1502
 mobile: true
 number: 1934
-stars: 10
+stars: 11
 title: Modal Opener
 type: plugin
-updated: '2024-12-16T21:46:46'
+updated: '2025-01-05T17:25:33'
 url: https://github.com/likemuuxi/obsidian-modal-opener
-version: 0.7.10
+version: 0.7.16
 ---
 
 %% README_START %%

@@ -5,7 +5,7 @@ author:
 - '[[authors/zhaohongxuan|hankzhao]]'
 categories: []
 description: This is obsidian plugin for Tencent weread.
-downloads: 79409
+downloads: 80700
 mobile: true
 number: 557
 stars: 1300

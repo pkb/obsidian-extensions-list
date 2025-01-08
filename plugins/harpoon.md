@@ -6,7 +6,7 @@ author:
 categories: []
 description: Use shortcuts to manage and navigate your top four frequently-used files
   in Obsidian.
-downloads: 3455
+downloads: 3471
 mobile: true
 number: 1089
 stars: 10

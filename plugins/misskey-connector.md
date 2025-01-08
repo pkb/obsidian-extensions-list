@@ -5,7 +5,7 @@ author:
 - '[[authors/minimarimo3|minimarimo3]]'
 categories: []
 description: Enables posting and embedding Misskey notes.
-downloads: 693
+downloads: 698
 mobile: true
 number: 1555
 stars: 6

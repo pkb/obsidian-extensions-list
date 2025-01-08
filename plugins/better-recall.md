@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Add anki-like spaced repetition and recall to your vault.
-downloads: 811
+downloads: 878
 mobile: true
 number: 1809
-stars: 16
+stars: 18
 title: Better Recall
 type: plugin
 updated: '2024-07-23T12:50:57'

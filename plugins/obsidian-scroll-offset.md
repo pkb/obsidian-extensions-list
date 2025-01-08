@@ -5,7 +5,7 @@ author:
 - '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Preserve minmium distances before and after cursor.
-downloads: 7014
+downloads: 7143
 mobile: false
 number: 491
 stars: 28

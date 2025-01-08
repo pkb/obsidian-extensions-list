@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Protect your privacy by setting a password to hide files.
-downloads: 189
+downloads: 228
 mobile: true
 number: 1984
 stars: 2

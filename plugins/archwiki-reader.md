@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Read any ArchWiki page directly in Obsidian
-downloads: 3258
+downloads: 3269
 mobile: false
 number: 1059
 stars: 9

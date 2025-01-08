@@ -5,13 +5,13 @@ author:
 - '[[authors/pvojtechovsky|Pavel Vojtěchovský]]'
 categories: []
 description: Creates links and aliases in front matter of target document
-downloads: 6638
+downloads: 6735
 mobile: true
 number: 957
-stars: 37
+stars: 39
 title: Link with alias
 type: plugin
-updated: '2023-12-16T18:28:42'
+updated: '2025-01-08T04:08:11'
 url: https://github.com/pvojtechovsky/obsidian-link-with-alias
 version: 1.0.8
 ---

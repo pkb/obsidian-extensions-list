@@ -6,10 +6,10 @@ author:
 categories: []
 description: Set an individual hotkey for the first 9 bookmarks and open them just
   with your keyboard.
-downloads: 8923
+downloads: 8967
 mobile: true
 number: 84
-stars: 24
+stars: 23
 title: Hotkeys for Bookmarks
 type: plugin
 updated: '2024-04-03T20:58:21'

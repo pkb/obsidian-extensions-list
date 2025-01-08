@@ -5,7 +5,7 @@ author:
 - '[[authors/db-developer|Dirk Brenckmann]]'
 categories: []
 description: One-Click create a structure for and including your daily notes.
-downloads: 213
+downloads: 225
 mobile: true
 number: 1738
 stars: 2

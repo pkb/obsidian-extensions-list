@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Manually reload plugins.
-downloads: 1860
+downloads: 1930
 mobile: true
 number: 1468
 stars: 4

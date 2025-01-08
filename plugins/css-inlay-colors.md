@@ -5,10 +5,10 @@ author:
 - '[[authors/GRA0007|Benji Grant]]'
 categories: []
 description: Show inline color hints for CSS colors
-downloads: 749
+downloads: 862
 mobile: true
 number: 1844
-stars: 8
+stars: 9
 title: CSS Inlay Colors
 type: plugin
 updated: '2024-12-12T08:40:02'

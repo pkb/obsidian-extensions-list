@@ -6,10 +6,10 @@ author:
 categories: []
 description: A masonry gallery view for your notes. Allows to have a birds eye view
   over the notes in your vault.
-downloads: 11242
+downloads: 11882
 mobile: true
 number: 1321
-stars: 198
+stars: 210
 title: Note Gallery
 type: plugin
 updated: '2024-11-24T18:52:56'

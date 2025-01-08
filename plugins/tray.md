@@ -6,10 +6,10 @@ author:
 categories: []
 description: Run Obsidian from the system tray for customisable window management
   & global quick notes
-downloads: 16034
+downloads: 16450
 mobile: false
 number: 886
-stars: 228
+stars: 230
 title: Tray
 type: plugin
 updated: '2023-09-04T17:27:53'

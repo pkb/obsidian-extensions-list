@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Make Flomo Memos to Obsidian Notes
-downloads: 9221
+downloads: 9409
 mobile: false
 number: 880
-stars: 100
+stars: 102
 title: Flomo Importer
 type: plugin
 updated: '2024-08-18T07:48:03'

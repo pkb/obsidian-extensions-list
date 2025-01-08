@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import data from Wikidata into your vault.
-downloads: 4597
+downloads: 4643
 mobile: true
 number: 1076
-stars: 27
+stars: 29
 title: Wikidata Importer
 type: plugin
 updated: '2024-07-02T03:20:32'

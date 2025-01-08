@@ -7,10 +7,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Activity Year Overview for DataviewJS, Github style – Track Goals, Progress,
   Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc.
-downloads: 96224
+downloads: 99493
 mobile: true
 number: 441
-stars: 676
+stars: 695
 title: Heatmap Calendar
 type: plugin
 updated: '2024-06-28T13:41:47'

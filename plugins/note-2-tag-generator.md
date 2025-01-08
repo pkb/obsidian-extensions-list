@@ -5,7 +5,7 @@ author:
 - '[[authors/augustin7698|Augustin]]'
 categories: []
 description: Generate tags from notes without openai key in multiple languages
-downloads: 511
+downloads: 543
 mobile: true
 number: 1815
 stars: 1

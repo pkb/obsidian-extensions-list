@@ -7,10 +7,10 @@ categories:
 - '[[categories/Content capture|Content capture]]'
 description: Save data directly to Obsidian with a specified template. Capture from
   Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
-downloads: 8341
+downloads: 8450
 mobile: true
 number: 745
-stars: 61
+stars: 62
 title: Hints Flow
 type: plugin
 updated: '2024-01-05T16:49:15'

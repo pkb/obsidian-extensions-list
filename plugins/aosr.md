@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Another obsidian spaced repetition
-downloads: 10773
+downloads: 10909
 mobile: true
 number: 611
-stars: 73
+stars: 75
 title: Aosr
 type: plugin
 updated: '2024-07-21T17:03:11'

@@ -5,7 +5,7 @@ author:
 - '[[authors/zoreet|Zoreet]]'
 categories: []
 description: Your 21-day journey to habit formation, simplified
-downloads: 7972
+downloads: 8356
 mobile: true
 number: 1326
 stars: 50

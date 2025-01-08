@@ -5,7 +5,7 @@ author:
 - '[[authors/mrjackphil|MrJackphil]]'
 categories: []
 description: Search and paste/transclude links to located files.
-downloads: 30844
+downloads: 31021
 mobile: true
 number: 11
 stars: 188

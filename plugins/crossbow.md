@@ -5,7 +5,7 @@ author:
 - '[[authors/shoedler|shoedler]]'
 categories: []
 description: Find possible backlinks in your notes.
-downloads: 6811
+downloads: 6866
 mobile: true
 number: 902
 stars: 50

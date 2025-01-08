@@ -6,7 +6,7 @@ author:
 categories: []
 description: Type text shortcuts which are then replaced with JavaScript generated
   text.
-downloads: 13015
+downloads: 13109
 mobile: true
 number: 563
 stars: 137

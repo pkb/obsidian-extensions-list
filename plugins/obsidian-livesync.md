@@ -8,15 +8,15 @@ categories:
 description: Community implementation of self-hosted livesync. Reflect your vault
   changes to some other devices immediately. Please make sure to disable other synchronize
   solutions to avoid content corruption or duplication.
-downloads: 243789
+downloads: 251718
 mobile: true
 number: 316
-stars: 5400
+stars: 5500
 title: Self-hosted LiveSync
 type: plugin
-updated: '2024-12-13T23:41:44'
+updated: '2025-01-07T17:37:27'
 url: https://github.com/vrtmrz/obsidian-livesync
-version: 0.24.6
+version: 0.24.7
 ---
 
 %% README_START %%
@@ -102,6 +102,15 @@ To prevent file and database corruption, please wait to stop Obsidian until all 
 
 ## Tips and Troubleshooting
 If you are having problems getting the plugin working see: [Tips and Troubleshooting](docs/troubleshooting.md)
+
+## Acknowledgements
+
+The project has been in continual progress and harmony because of 
+- Many [Contributors](https://github.com/vrtmrz/obsidian-livesync/graphs/contributors)
+- Many [GitHub Sponsors](https://github.com/sponsors/vrtmrz#sponsors)
+- JetBrains Community Programs / Support for Open-Source Projects <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains logo." height="24">
+
+May those who have contributed be honoured and remembered for their kindness and generosity.
 
 ## License
 

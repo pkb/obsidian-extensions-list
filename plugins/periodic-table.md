@@ -5,15 +5,15 @@ author:
 - '[[authors/Jake-Cramer|jake-cramer]]'
 categories: []
 description: View a periodic table in the sidebar
-downloads: 3181
+downloads: 3269
 mobile: false
 number: 1291
 stars: 3
 title: Periodic Table
 type: plugin
-updated: '2024-09-30T21:20:58'
+updated: '2025-01-05T02:26:03'
 url: https://github.com/Jake-Cramer/Periodic-Table-Obsidian
-version: 1.0.2
+version: 2.0.0
 ---
 
 %% README_START %%

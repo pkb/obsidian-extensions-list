@@ -6,10 +6,10 @@ author:
 categories: []
 description: Enables smooth navigation using mouse gestures for scrolling and switching
   pages.
-downloads: 406
+downloads: 482
 mobile: false
 number: 1935
-stars: 4
+stars: 6
 title: Mouse Navigation
 type: plugin
 updated: '2024-12-11T14:33:56'

@@ -6,10 +6,10 @@ author:
 categories: []
 description: A client for the ExMemo service, used to search, sync, and organize data
   from the server.
-downloads: 38
+downloads: 53
 mobile: true
 number: 1978
-stars: 3
+stars: 7
 title: ExMemo Client
 type: plugin
 updated: '2024-11-06T16:03:32'

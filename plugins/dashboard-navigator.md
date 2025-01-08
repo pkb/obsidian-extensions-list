@@ -6,10 +6,10 @@ author:
 categories: []
 description: Vault dashboard and navigator. Show recent files by type, files per day,
   week, month, search files by name, date, tags and more.
-downloads: 15906
+downloads: 17672
 mobile: true
 number: 1819
-stars: 109
+stars: 120
 title: Dashboard navigator
 type: plugin
 updated: '2024-11-27T06:19:40'

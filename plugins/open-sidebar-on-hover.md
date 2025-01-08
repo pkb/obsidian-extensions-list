@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Opens the sidebar by hovering over it.
-downloads: 866
+downloads: 970
 mobile: false
 number: 1927
-stars: 9
+stars: 10
 title: Open Sidebar on Hover
 type: plugin
 updated: '2024-10-05T16:20:05'

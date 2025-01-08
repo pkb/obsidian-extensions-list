@@ -7,10 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net
   embedded editor.
-downloads: 31278
+downloads: 31883
 mobile: false
 number: 556
-stars: 99
+stars: 100
 title: Diagrams.net
 type: plugin
 updated: '2022-06-23T11:13:19'

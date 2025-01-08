@@ -5,7 +5,7 @@ author:
 - '[[authors/SashaKryzh|Alexander]]'
 categories: []
 description: Randomly review your vault and track progress.
-downloads: 89
+downloads: 112
 mobile: true
 number: 1973
 stars: 3

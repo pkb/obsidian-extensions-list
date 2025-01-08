@@ -5,10 +5,10 @@ author:
 - '[[authors/thingnotok|Lite C]]'
 categories: []
 description: Toggle the list/checklist with custom states/prefixes and suffixes
-downloads: 14702
+downloads: 14887
 mobile: true
 number: 618
-stars: 45
+stars: 46
 title: ToggleList
 type: plugin
 updated: '2024-09-08T17:09:22'

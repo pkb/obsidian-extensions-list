@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Quickly search for and insert emojis into your notes.
-downloads: 330295
+downloads: 334152
 mobile: true
 number: 47
 stars: 203

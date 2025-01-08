@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: A plugin for templating in Obsidian, powered by Nunjucks.
-downloads: 5232
+downloads: 5257
 mobile: true
 number: 63
-stars: 66
+stars: 68
 title: Obsidian Temple
 type: plugin
 updated: '2021-01-03T20:27:30'

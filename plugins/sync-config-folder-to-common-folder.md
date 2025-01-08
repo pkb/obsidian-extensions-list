@@ -6,7 +6,7 @@ author:
 categories: []
 description: Sync contents from config folder to common folder for backup or other
   purposes
-downloads: 605
+downloads: 640
 mobile: false
 number: 1593
 stars: 4

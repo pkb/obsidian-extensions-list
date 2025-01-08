@@ -6,10 +6,10 @@ author:
 categories: []
 description: Annotate photos with Exif and other metadata right from the image viewer
   screen.
-downloads: 645
+downloads: 695
 mobile: false
 number: 1795
-stars: 4
+stars: 5
 title: Image Metadata
 type: plugin
 updated: '2024-11-10T09:26:15'

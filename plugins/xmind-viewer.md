@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Integrate viewing of your XMind files
-downloads: 1324
+downloads: 1591
 mobile: true
 number: 1915
-stars: 12
+stars: 14
 title: XMind Viewer
 type: plugin
 updated: '2024-09-09T19:05:12'

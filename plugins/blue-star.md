@@ -5,7 +5,7 @@ author:
 - '[[authors/Lio5n|Wang Guoshi]]'
 categories: []
 description: Generate Anki flashcards in multiple ways.
-downloads: 283
+downloads: 336
 mobile: false
 number: 1985
 stars: 5

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Tools for efficiently folding markdown sections in Obsidian
-downloads: 25219
+downloads: 25542
 mobile: true
 number: 446
-stars: 235
+stars: 237
 title: Creases
 type: plugin
 updated: '2023-07-17T20:23:34'

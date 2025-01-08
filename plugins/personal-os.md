@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Streamlining task management and productivity with a touch of gamification
-downloads: 773
+downloads: 807
 mobile: true
 number: 1608
-stars: 8
+stars: 9
 title: Personal OS
 type: plugin
 updated: '2024-11-06T18:52:55'

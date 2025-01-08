@@ -5,7 +5,7 @@ author:
 - '[[authors/erichalldev|Eric Hall]]'
 categories: []
 description: A smart random note plugin
-downloads: 45753
+downloads: 47272
 mobile: true
 number: 38
 stars: 107

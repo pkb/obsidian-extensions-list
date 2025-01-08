@@ -5,10 +5,10 @@ author:
 - '[[authors/jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays backlinks in a hierarchy
-downloads: 344
+downloads: 400
 mobile: true
 number: 1977
-stars: 6
+stars: 8
 title: Hierarchical Backlinks
 type: plugin
 updated: '2024-11-28T06:37:57'

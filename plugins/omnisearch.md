@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A search engine that just works
-downloads: 628070
+downloads: 652302
 mobile: true
 number: 504
 stars: 1300
 title: Omnisearch
 type: plugin
-updated: '2024-11-09T22:50:04'
+updated: '2025-01-03T23:26:32'
 url: https://github.com/scambier/obsidian-omnisearch
-version: 1.25.1
+version: 1.25.2
 ---
 
 %% README_START %%

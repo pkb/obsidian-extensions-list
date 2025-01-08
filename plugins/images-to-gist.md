@@ -6,7 +6,7 @@ author:
 categories: []
 description: Upload images to your GitHub secret Gists. Also, resize uploaded images
   on the fly.
-downloads: 274
+downloads: 284
 mobile: true
 number: 1810
 stars: 6

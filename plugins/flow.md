@@ -6,10 +6,10 @@ author:
 categories: []
 description: Implements key processes in David Allen's Getting Things Done (GTD) methodology
   (Closed source)
-downloads: 829
+downloads: 893
 mobile: true
 number: 1945
-stars: 6
+stars: 7
 title: Flow
 type: plugin
 updated: '2024-11-26T13:08:44'

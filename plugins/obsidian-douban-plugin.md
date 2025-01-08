@@ -6,15 +6,15 @@ author:
 categories: []
 description: This is a plugin that can import movies/books/musics/notes/games info
   data from Douban for Obsidian .
-downloads: 19176
+downloads: 20018
 mobile: true
 number: 627
-stars: 188
+stars: 192
 title: Douban
 type: plugin
-updated: '2024-07-15T21:08:42'
+updated: '2024-12-26T10:58:25'
 url: https://github.com/Wanxp/obsidian-douban
-version: 2.0.8
+version: 2.1.0
 ---
 
 %% README_START %%
@@ -59,9 +59,10 @@ version: 2.0.8
 - ☑️ 导入电影、电视剧、书籍、音乐、游戏、日记
 - ☑️ 同步个人听过/看过的电影、电视剧、书籍、音乐
 - ☑️ 导入个人的评论,评论时间,阅读状态,个人评分
-- ☑️ 支持保存封面至本地
-- ☑️ 支持保存封面至图床
+- ☑️ 支持保存封面至本地/图床
+  - ⬜ 支持图床自定义
 - ☑️ 支持自定义参数
+- ☑️ 支持移动端导入
 
 ## 效果
 1. 结合Timeline插件 __构建个人观影时间线__，请参照[结合timeline插件实现时间线效果](./doc/Obsidian-Douban-TimeLine.md)

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and replace in all vault files
-downloads: 29056
+downloads: 29877
 mobile: true
 number: 835
-stars: 88
+stars: 89
 title: Global Search and Replace
 type: plugin
 updated: '2024-06-04T00:23:16'

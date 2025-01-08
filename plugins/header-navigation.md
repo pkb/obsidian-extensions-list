@@ -5,10 +5,10 @@ author:
 - '[[authors/talwrii|readwithai]]'
 categories: []
 description: Various functions to navigate between headers.
-downloads: 41
+downloads: 112
 mobile: true
 number: 2072
-stars: 4
+stars: 6
 title: Header navigation
 type: plugin
 updated: '2024-12-09T00:40:25'

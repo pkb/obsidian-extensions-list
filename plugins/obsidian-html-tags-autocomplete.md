@@ -5,7 +5,7 @@ author:
 - '[[authors/bicarlsen|Brian Carlsen]]'
 categories: []
 description: Autocomplete HTML tags.
-downloads: 13779
+downloads: 13917
 mobile: true
 number: 331
 stars: 27

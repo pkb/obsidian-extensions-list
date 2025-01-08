@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Open or reveal the current note in DEVONthink.
-downloads: 8560
+downloads: 8595
 mobile: false
 number: 124
 stars: 92

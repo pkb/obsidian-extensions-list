@@ -5,7 +5,7 @@ author:
 - '[[authors/Obsidian-Desci|Taylor Hulsmans]]'
 categories: []
 description: A collection of tools that integrate obsidian with web3.
-downloads: 2025
+downloads: 2033
 mobile: false
 number: 1275
 stars: 11

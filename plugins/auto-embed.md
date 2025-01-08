@@ -5,15 +5,15 @@ author:
 - '[[authors/GnoxNahte|GnoxNahte]]'
 categories: []
 description: Helps to embed links using markdown instead of iframe
-downloads: 4624
+downloads: 5165
 mobile: true
 number: 1561
 stars: 22
 title: Auto Embed
 type: plugin
-updated: '2024-12-18T20:24:56'
+updated: '2024-12-24T11:02:16'
 url: https://github.com/GnoxNahte/obsidian-auto-embed
-version: 1.2.5
+version: 1.2.6
 ---
 
 %% README_START %%

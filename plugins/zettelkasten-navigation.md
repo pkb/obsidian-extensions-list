@@ -5,10 +5,10 @@ author:
 - '[[authors/terrychenzw|terrychenzw]]'
 categories: []
 description: Visualize a Luhmann-style zettelkasten.
-downloads: 2905
+downloads: 3062
 mobile: true
 number: 1636
-stars: 46
+stars: 48
 title: zettelkasten navigation
 type: plugin
 updated: '2024-12-07T08:43:47'

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: TTRPG Initiative Tracker for Obsidian.md
-downloads: 92277
+downloads: 93851
 mobile: true
 number: 221
-stars: 149
+stars: 152
 title: Initiative Tracker
 type: plugin
 updated: '2024-10-04T10:06:45'

@@ -5,10 +5,10 @@ author:
 - '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Get links to blocks and headings from Obsidian's right click menu
-downloads: 49272
+downloads: 49868
 mobile: true
 number: 267
-stars: 184
+stars: 185
 title: Copy Block Link
 type: plugin
 updated: '2022-03-31T02:49:44'

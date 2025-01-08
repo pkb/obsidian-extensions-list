@@ -5,10 +5,10 @@ author:
 - '[[authors/trenta3|Dario Balboni]]'
 categories: []
 description: Set hotkeys chords to activate commands
-downloads: 4014
+downloads: 4026
 mobile: false
 number: 438
-stars: 11
+stars: 12
 title: Hotkeys Chords
 type: plugin
 updated: '2022-02-23T04:44:55'

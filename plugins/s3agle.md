@@ -7,7 +7,7 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Use S3 providers and/or Eagle to manage vault attachments locally and
   remotely.
-downloads: 407
+downloads: 431
 mobile: false
 number: 1642
 stars: 13

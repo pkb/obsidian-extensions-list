@@ -6,7 +6,7 @@ author:
 categories: []
 description: The plugin helps you to see the number of notes under each folder within
   the file explorer.
-downloads: 122936
+downloads: 127182
 mobile: true
 number: 209
 stars: 109

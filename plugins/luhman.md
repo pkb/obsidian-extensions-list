@@ -5,7 +5,7 @@ author:
 - '[[authors/Dyldog|Dylan Elliott]]'
 categories: []
 description: Commands for handling a zettelkasten with Luhmann-style IDs as filenames
-downloads: 14657
+downloads: 14822
 mobile: true
 number: 270
 stars: 61

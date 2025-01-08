@@ -5,10 +5,10 @@ author:
 - '[[authors/evasquare|Eva]]'
 categories: []
 description: Simple, fast, and easy-to-use Markdown formatter.
-downloads: 4992
+downloads: 5074
 mobile: true
 number: 1304
-stars: 20
+stars: 22
 title: Formatto
 type: plugin
 updated: '2024-11-24T21:03:29'

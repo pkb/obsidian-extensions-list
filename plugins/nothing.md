@@ -5,15 +5,15 @@ author:
 - '[[authors/chrisgrieser|pseudometa]]'
 categories: []
 description: Adds a no-op command to disable hotkeys.
-downloads: 2443
+downloads: 2456
 mobile: true
 number: 1250
 stars: 17
 title: Nothing
 type: plugin
-updated: '2024-03-10T02:20:25'
+updated: '2025-01-08T00:21:12'
 url: https://github.com/chrisgrieser/obsidian-nothing
-version: 1.0.6
+version: 1.0.8
 ---
 
 %% README_START %%

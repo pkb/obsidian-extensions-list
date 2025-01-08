@@ -5,7 +5,7 @@ author:
 - '[[authors/Floydv149|Floydv149]]'
 categories: []
 description: Convert Bible texts to JW Library links.
-downloads: 1642
+downloads: 1666
 mobile: true
 number: 1411
 stars: 10

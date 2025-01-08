@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Simple interface to generate or rewrite content using LLMs based on user
   input.
-downloads: 458
+downloads: 484
 mobile: true
 number: 1703
 stars: 9

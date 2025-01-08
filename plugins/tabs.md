@@ -5,10 +5,10 @@ author:
 - '[[authors/xhuajin|Huajin]]'
 categories: []
 description: Create tabs in your notes.
-downloads: 10130
+downloads: 10596
 mobile: true
 number: 1696
-stars: 79
+stars: 86
 title: Tabs
 type: plugin
 updated: '2024-07-31T21:15:25'

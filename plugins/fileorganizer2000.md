@@ -6,24 +6,18 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: An AI assistant to organize and chat with your vault
-downloads: 15559
+downloads: 16724
 mobile: false
 number: 1456
-stars: 412
+stars: 439
 title: AI File Organizer 2000
 type: plugin
-updated: '2024-12-12T18:25:23'
+updated: '2025-01-01T21:15:44'
 url: https://github.com/different-ai/file-organizer-2000
-version: 1.131.1
+version: 1.145.0
 ---
 
 %% README_START %%
-
-
-
-
-
-
 
 # File Organizer 2000
 
@@ -125,25 +119,47 @@ Choose between the setups below:
    For Linux/macOS:
 
    ```sh
-   cd web && npm run build:self-host &&  npm run start
+   cd packages/web && pnpm build:self-host && pnpm start
    ```
 
-   And make sure you have your  `OPENAI_API_KEY` variable set up in your `.env.local` file inside the app root folder.
+   And make sure you have your `OPENAI_API_KEY` variable set up in your `.env.local` file inside the `packages/web` directory. If you want to use Amazon Bedrock models, you'll also need to configure AWS credentials (`AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_REGION`).
 
    For Windows (PowerShell):
 
    ```sh
-   cd web; npm run build:self-host; npm run start
-    ```
+   cd packages/web; pnpm build:self-host; pnpm start
+   ```
 
-   And make sure you have your  `OPENAI_API_KEY` variable set up in your `.env.local` file inside the app root folder.
+   And make sure you have your `OPENAI_API_KEY` variable set up in your `.env.local` file inside the `packages/web` directory.
 
+2. Enable self-hosted mode in plugin settings:
 
-2. Go inside the Settings of the plugin and enable "Self-hosted"
+   <img width="707" alt="Screenshot 2024-04-13 at 07 16 21" src="https://github.com/different-ai/file-organizer-2000/assets/11430621/ca2222c9-cb8d-4d15-8459-2da4c9662f24">
 
-<img width="707" alt="Screenshot 2024-04-13 at 07 16 21" src="https://github.com/different-ai/file-organizer-2000/assets/11430621/ca2222c9-cb8d-4d15-8459-2da4c9662f24">
+### C. Development Setup
 
-## Testing Different models
+This is a monorepo using pnpm workspaces and Turborepo. To get started:
+
+1. Install dependencies:
+   ```sh
+   pnpm install
+   ```
+
+2. Build all packages:
+   ```sh
+   pnpm build
+   ```
+
+3. Development commands:
+   - Start web development server: `cd packages/web && pnpm dev`
+   - Build plugin: `cd packages/plugin && pnpm build`
+   - Build audio server: `cd packages/audio-server && pnpm build`
+
+The project consists of the following packages:
+- `packages/plugin`: The Obsidian plugin
+- `packages/web`: The web application
+- `packages/audio-server`: Audio transcription server
+- `packages/shared`: Shared utilities and types
 
 For the tech-savvies who would like to play around with different models, there is a promptfoo.yaml file in the project including examples with local LLMs.
 See link for more info: https://promptfoo.dev/docs/configuration/guide/

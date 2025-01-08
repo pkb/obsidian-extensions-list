@@ -5,7 +5,7 @@ author:
 - '[[authors/Alintor|Alintor]]'
 categories: []
 description: Helps you find movies and tv shows via Kinopoisk and create notes.
-downloads: 1131
+downloads: 1155
 mobile: true
 number: 1540
 stars: 6

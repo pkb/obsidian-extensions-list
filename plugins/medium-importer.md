@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import Medium posts into your vault
-downloads: 2176
+downloads: 2219
 mobile: true
 number: 1706
 stars: 5

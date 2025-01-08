@@ -7,10 +7,10 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Transform your notes into a visually stunning diary, integrating dialogs,
   chat logs, and media content blocks for a seamless journaling experience.
-downloads: 3305
+downloads: 3423
 mobile: true
 number: 1478
-stars: 15
+stars: 16
 title: Yesterday
 type: plugin
 updated: '2024-07-25T18:59:26'

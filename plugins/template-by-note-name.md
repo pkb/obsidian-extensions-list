@@ -5,15 +5,15 @@ author:
 - '[[authors/jacoblearned|Jacob Learned]]'
 categories: []
 description: Automatically template notes based on their title.
-downloads: 99
+downloads: 274
 mobile: true
 number: 2078
-stars: 2
+stars: 4
 title: Template by Note Name
 type: plugin
-updated: '2024-12-15T23:24:54'
+updated: '2024-12-21T12:00:59'
 url: https://github.com/jacoblearned/obsidian-template-by-note-name
-version: 1.1.1
+version: 1.1.3
 ---
 
 %% README_START %%

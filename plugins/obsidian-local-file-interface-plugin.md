@@ -5,10 +5,10 @@ author:
 - '[[authors/qawatake|qawatake]]'
 categories: []
 description: Provides commands for moving files in and out of the vault
-downloads: 5046
+downloads: 5066
 mobile: true
 number: 394
-stars: 24
+stars: 25
 title: Local File Interface
 type: plugin
 updated: '2022-01-07T18:03:03'

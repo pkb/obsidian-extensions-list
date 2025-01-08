@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Adds a pomodoro timer to your status bar.
-downloads: 42121
+downloads: 42619
 mobile: false
 number: 216
 stars: 79

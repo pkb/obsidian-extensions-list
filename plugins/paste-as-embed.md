@@ -5,7 +5,7 @@ author:
 - '[[authors/mlprt|Matt Laporte]]'
 categories: []
 description: Paste text into a separate note, and embed the note.
-downloads: 148
+downloads: 159
 mobile: false
 number: 1808
 stars: 3

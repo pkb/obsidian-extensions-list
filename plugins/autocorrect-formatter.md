@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format MarkDown content using Autocorrect.
-downloads: 3753
+downloads: 3854
 mobile: true
 number: 1315
 stars: 8

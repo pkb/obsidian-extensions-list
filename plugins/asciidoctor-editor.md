@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages
-downloads: 184
+downloads: 278
 mobile: false
 number: 1955
-stars: 16
+stars: 17
 title: Asciidoctor editor
 type: plugin
-updated: '2024-11-25T02:07:04'
+updated: '2024-12-22T03:50:59'
 url: https://github.com/dzruyk/obsidian-asciidoc
-version: 0.1.3
+version: 0.1.4
 ---
 
 %% README_START %%

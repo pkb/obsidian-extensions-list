@@ -5,15 +5,15 @@ author:
 - '[[authors/khoj-ai|Khoj Inc.]]'
 categories: []
 description: Your Second Brain
-downloads: 31254
+downloads: 32354
 mobile: true
 number: 771
-stars: 17300
+stars: 21100
 title: Khoj
 type: plugin
-updated: '2024-12-18T06:04:16'
+updated: '2025-01-08T05:32:58'
 url: https://github.com/khoj-ai/khoj
-version: 1.32.2
+version: 1.33.2
 ---
 
 %% README_START %%
@@ -86,6 +86,10 @@ You can see the full feature list [here](https://docs.khoj.dev/category/features
 ## Self-Host
 
 To get started with self-hosting Khoj, [read the docs](https://docs.khoj.dev/get-started/setup).
+
+## Enterprise
+
+Khoj is available as a cloud service, on-premises, or as a hybrid solution. To learn more about Khoj Enterprise, [visit our website](https://khoj.dev/teams).
 
 ## Contributors
 Cheers to our awesome contributors! 🎉

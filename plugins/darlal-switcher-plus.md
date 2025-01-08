@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Enhanced Quick Switcher, search open panels, and symbols.
-downloads: 245475
+downloads: 252478
 mobile: true
 number: 18
-stars: 452
+stars: 461
 title: Quick Switcher++
 type: plugin
-updated: '2024-11-02T07:27:24'
+updated: '2024-12-24T09:19:16'
 url: https://github.com/darlal/obsidian-switcher-plus
-version: 4.6.2
+version: 4.6.3
 ---
 
 %% README_START %%

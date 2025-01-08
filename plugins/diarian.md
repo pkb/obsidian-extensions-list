@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: All-in-one journaling toolkit.
-downloads: 2049
+downloads: 2539
 mobile: true
 number: 1885
-stars: 42
+stars: 51
 title: Diarian
 type: plugin
-updated: '2024-12-11T22:16:32'
+updated: '2024-12-27T21:38:05'
 url: https://github.com/Erallie/diarian
-version: 1.2.21
+version: 1.2.22
 ---
 
 %% README_START %%

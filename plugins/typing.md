@@ -5,10 +5,10 @@ author:
 - '[[authors/konodyuk|Nikita Konodyuk]]'
 categories: []
 description: Programmatic customizations for groups of notes
-downloads: 3234
+downloads: 3239
 mobile: true
 number: 1211
-stars: 134
+stars: 135
 title: Typing
 type: plugin
 updated: '2023-12-03T19:06:59'

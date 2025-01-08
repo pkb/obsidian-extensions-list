@@ -8,10 +8,10 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Annotate PDFs and create handwritten notes inside your vault using a
   stylus.
-downloads: 23336
+downloads: 24282
 mobile: true
 number: 1113
-stars: 198
+stars: 202
 title: Handwritten Notes
 type: plugin
 updated: '2024-09-20T05:06:04'

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Create tasks faster from anywhere.
-downloads: 2699
+downloads: 2750
 mobile: true
 number: 1369
-stars: 12
+stars: 11
 title: Create Task
 type: plugin
 updated: '2024-06-08T13:47:22'

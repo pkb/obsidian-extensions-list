@@ -5,10 +5,10 @@ author:
 - '[[authors/egradman|egradman]]'
 categories: []
 description: Etherpad Integration
-downloads: 4229
+downloads: 4244
 mobile: true
 number: 470
-stars: 60
+stars: 62
 title: Etherpad
 type: plugin
 updated: '2022-03-22T03:34:12'

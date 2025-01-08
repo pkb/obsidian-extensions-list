@@ -5,10 +5,10 @@ author:
 - '[[authors/ptournet|Patrick Tournet]]'
 categories: []
 description: Create and render Tabs and tab panels in your notes.
-downloads: 5529
+downloads: 5597
 mobile: true
 number: 1179
-stars: 50
+stars: 51
 title: HTML Tabs
 type: plugin
 updated: '2023-12-03T23:36:30'

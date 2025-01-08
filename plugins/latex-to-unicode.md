@@ -5,7 +5,7 @@ author:
 - '[[authors/fjdu|fjdu]]'
 categories: []
 description: Convert LaTeX commands into unicode sqeuences
-downloads: 4003
+downloads: 4031
 mobile: true
 number: 838
 stars: 3

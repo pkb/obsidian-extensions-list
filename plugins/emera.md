@@ -6,10 +6,10 @@ author:
 categories: []
 description: Enables you to use custom React components and inline JavaScript, kinda
   like MDX.
-downloads: 304
+downloads: 377
 mobile: true
 number: 1852
-stars: 17
+stars: 20
 title: Emera
 type: plugin
 updated: '2024-12-12T17:06:50'

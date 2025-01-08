@@ -5,7 +5,7 @@ author:
 - '[[authors/fzdwx|fzdwx]]'
 categories: []
 description: Hugo preview in obsidian
-downloads: 4318
+downloads: 4346
 mobile: false
 number: 743
 stars: 36

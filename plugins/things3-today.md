@@ -7,10 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Manage today's tasks with Things3
-downloads: 1649
+downloads: 1703
 mobile: false
 number: 1506
-stars: 13
+stars: 14
 title: Things3 Today
 type: plugin
 updated: '2024-01-25T19:56:10'

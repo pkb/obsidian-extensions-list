@@ -6,10 +6,10 @@ author:
 categories: []
 description: An Obsidian plugin that declutters a canvas by reconnecting notes using
   their nearest edges.
-downloads: 13042
+downloads: 13257
 mobile: true
 number: 820
-stars: 52
+stars: 51
 title: Optimize Canvas Connections
 type: plugin
 updated: '2023-03-15T22:32:26'

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Create obfuscated blocks of text.
-downloads: 4605
+downloads: 4675
 mobile: true
 number: 950
 stars: 34

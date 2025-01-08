@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin is emoji titler to easily insert an emoji in the title using
   a keyboard shortcut.
-downloads: 5378
+downloads: 5430
 mobile: true
 number: 824
 stars: 11

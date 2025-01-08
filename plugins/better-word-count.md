@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Counts the words of selected text in the editor.
-downloads: 412875
+downloads: 419664
 mobile: true
 number: 27
-stars: 263
+stars: 267
 title: Better Word Count
 type: plugin
 updated: '2024-01-23T20:34:19'

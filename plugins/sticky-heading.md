@@ -5,10 +5,10 @@ author:
 - '[[authors/imshenshen|Shen Shen]]'
 categories: []
 description: Sticky Headings and Shows the heading level
-downloads: 2563
+downloads: 2632
 mobile: true
 number: 1543
-stars: 36
+stars: 37
 title: Sticky Headings
 type: plugin
 updated: '2024-04-23T17:01:03'

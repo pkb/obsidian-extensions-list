@@ -5,15 +5,15 @@ author:
 - '[[authors/ckt1031|ckt1031]]'
 categories: []
 description: Writing companion for AI content generation.
-downloads: 2851
+downloads: 3109
 mobile: true
 number: 1429
-stars: 27
+stars: 30
 title: WordWise
 type: plugin
-updated: '2024-12-16T20:02:00'
+updated: '2024-12-30T20:31:31'
 url: https://github.com/ckt1031/obsidian-wordwise-plugin
-version: 1.0.2
+version: 1.0.4
 ---
 
 %% README_START %%

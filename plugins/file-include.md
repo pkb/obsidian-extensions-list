@@ -7,7 +7,7 @@ categories:
 - '[[categories/Code and development|Code and development]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Include or embed files in Obsidian markdown.
-downloads: 4011
+downloads: 4038
 mobile: true
 number: 969
 stars: 28

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Enhanced callouts for Obsidian.md
-downloads: 743365
+downloads: 749566
 mobile: true
 number: 139
 stars: 1100

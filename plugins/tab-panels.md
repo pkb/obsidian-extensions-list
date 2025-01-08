@@ -5,15 +5,15 @@ author:
 - '[[authors/GnoxNahte|GnoxNahte]]'
 categories: []
 description: Create tab panels to organize content into sections
-downloads: 1521
+downloads: 2198
 mobile: true
 number: 1950
-stars: 14
+stars: 18
 title: Tab Panels
 type: plugin
-updated: '2024-12-15T07:56:29'
+updated: '2024-12-27T11:02:25'
 url: https://github.com/GnoxNahte/obsidian-tab-panels
-version: 1.1.2
+version: 1.1.4
 ---
 
 %% README_START %%
@@ -118,7 +118,7 @@ The plugin will only display a read-only version of the notes. Any interactivity
 To use footnotes inside tabs, ensure that both the *footnote reference* (`[^1]`) and the *footnote definition* (`[^1]: definition`) are placed within the same tabs codeblocks. If either the footnote reference or its definition is located outside the tabs codeblock, Obsidian won't register it and will just display it as text instead of a footnote.
 
 > [!NOTE]
-> This doens't apply for [inline footnotes](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#:~:text=You%20can%20also%20inline,not%20in%20Live%20Preview.) (`^[Inline footnote]`) as they combine the footnote reference and definition together.
+> This doesn't apply for [inline footnotes](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#:~:text=You%20can%20also%20inline,not%20in%20Live%20Preview.) (`^[Inline footnote]`) as they combine the footnote reference and definition together.
 
 ## Roadmap
 - [ ] Add more settings to control styling

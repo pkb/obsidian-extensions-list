@@ -5,15 +5,15 @@ author:
 - '[[authors/o02c|o02c]]'
 categories: []
 description: Simple Tab Switcher, search open tabs.
-downloads: 3129
+downloads: 3523
 mobile: false
 number: 1626
 stars: 6
 title: Tab Navigator
 type: plugin
-updated: '2024-09-15T14:13:41'
+updated: '2024-12-21T15:28:00'
 url: https://github.com/o02c/obsidian-tab-navigator
-version: 0.6.0
+version: 0.7.1
 ---
 
 %% README_START %%
@@ -53,6 +53,16 @@ TabNavigator does not transmit any user data externally. All data is kept locall
 ## Performance and Compatibility
 
 TabNavigator is designed to be lightweight and does not negatively impact Obsidian's performance. It is regularly updated to ensure compatibility with new versions of Obsidian.
+
+### Limitations
+
+- **Tab Loading Behavior**: 
+  - By default, inactive tabs are not loaded until they are clicked to preserve performance
+  - For searching through all tabs including unloaded ones, you can:
+    1. Manually click each tab to load it
+    2. command palette: `tab-navigator:load-all-tabs` (not recommended for vaults with many tabs)
+    3. Enable the "Load all tabs on startup" option in settings
+  - Note: Options 2 and 3 interact directly with the DOM to load tabs, which may cause unexpected behavior in some cases.
 
 ## Pricing
 

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Upload images in a note, and remove the images from the vault if they're
   exclusively used within that note.
-downloads: 72
+downloads: 95
 mobile: true
 number: 2053
 stars: 0

@@ -6,15 +6,15 @@ author:
 categories: []
 description: Edit Markdown in a keyboard-centric Miller columns interface. Inspired
   by Gingko Writer.
-downloads: 4227
+downloads: 4924
 mobile: true
 number: 1671
-stars: 110
+stars: 115
 title: Lineage
 type: plugin
-updated: '2024-12-15T03:19:26'
+updated: '2024-12-24T21:02:15'
 url: https://github.com/ycnmhd/obsidian-lineage
-version: 0.7.0-beta
+version: 0.7.1-beta
 ---
 
 %% README_START %%

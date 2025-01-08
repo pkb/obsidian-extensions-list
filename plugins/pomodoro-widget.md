@@ -7,10 +7,10 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: Provides a widget based on a pomodoro kitchen timer. It's designed to
   be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.
-downloads: 3300
+downloads: 3447
 mobile: true
 number: 1477
-stars: 10
+stars: 11
 title: Pomodoro Widget
 type: plugin
 updated: '2024-03-01T21:11:02'

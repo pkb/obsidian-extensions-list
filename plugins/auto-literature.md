@@ -5,10 +5,10 @@ author:
 - '[[authors/hucorz|hucorz]]'
 categories: []
 description: Assist you in taking notes for your literature.
-downloads: 3367
+downloads: 3385
 mobile: false
 number: 1101
-stars: 8
+stars: 9
 title: autoLiterature
 type: plugin
 updated: '2024-12-06T20:15:31'

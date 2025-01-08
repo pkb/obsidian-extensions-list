@@ -6,15 +6,15 @@ author:
 categories: []
 description: Allows users to upload local files to the cloud, reducing the burden
   on local vaults and enabling seamless synchronization across multiple devices.
-downloads: 417
+downloads: 575
 mobile: true
 number: 1948
 stars: 8
 title: Cloud Storage
 type: plugin
-updated: '2024-12-14T14:06:16'
+updated: '2025-01-05T16:36:18'
 url: https://github.com/yingjialong/obsidian-CloudStorage
-version: 1.4.28
+version: 1.5.32
 ---
 
 %% README_START %%
@@ -27,6 +27,7 @@ Cloud Storage is a powerful and user-friendly plugin designed to seamlessly inte
 ## Features
 
 - **Automatic Cloud Upload**: Seamlessly upload attachments from specified folders to the cloud.
+- **Resumable Uploads**: Supports resumable uploads, ensuring efficient file transfer.(Only for plugin-provided storage)
 - **Smart Link Updating**: Automatically updates links in your notes to point to the cloud-stored files, ensuring your notes remain fully functional.
 - **Flexible Storage Options**: Choose between plugin-provided cloud storage or your own S3-compatible storage solution.
 - **Granular File Control**: 
@@ -58,29 +59,29 @@ Here are some quick video demonstrations to help you get started with Cloud Stor
 ## Quick Start Guide
 
 1. **Account Setup**: 
-   - Open the Cloud Storage settings.
-   - Click on "Sign up" to create a new account or "Log in" if you already have one.
-   - Check your email and verify your account to receive additional free storage space.
+   - Open Cloud Storage settings.
+   - Click the "Click Me" button under "Initialization".
+   - Select "I am a new user".
+   - Update your email address and verify it to receive additional free storage space.
 
-2. **Configure Monitored Folders**:
-   - In the plugin settings, under "Local", click "Add Folder".
-   - Select or type the path of the folder you want to monitor for attachments.
-   - Repeat this process for all folders you wish to include.
-
-3. **Initiate Your First Upload**:
-   - Open the command palette (Ctrl/Cmd + P).
-   - Search for and select "Cloud Storage: Upload attachments".
-   - The plugin will start uploading files from your monitored folders and updating links in your notes.
-
-4. **Verify Uploads**:
-   - Check the status bar at the bottom of the Obsidian window for upload progress.
-   - Once complete, you can click on "Manage Storage" in the plugin settings to view your uploaded files.
+2. **Configure Auto-Upload**:
+   - Keep the "Auto Upload Attachment" option enabled.
+   - Use Obsidian as you normally would - the plugin will automatically manage and upload attachments as they're added.
 
 ## Detailed Usage Guide
 
+### Uploading Attachments Using Commands
+
+- Open the command palette (Ctrl/Cmd + P).
+- Search for and select either "Cloud Storage: Upload attachments from the monitored folder" or "Upload attachments in current file".
+
 ### Managing Monitored Folders
 
-- **Add a Folder**: Click "Add Folder" in the General Settings section and select the desired folder.
+- **Configure Monitored Folders**:
+  (Only required when using the Upload attachments command)
+  - Under "Local" in plugin settings, click "Add Folder".
+  - Select or enter the path to the folder you want to monitor for attachments.
+  - Repeat this process for all folders you wish to include.
 - **Remove a Folder**: Click the "Remove" button next to any folder you wish to stop monitoring.
 - **Folder Suggestions**: As you type, the plugin will suggest existing folders in your vault for easy selection.
 

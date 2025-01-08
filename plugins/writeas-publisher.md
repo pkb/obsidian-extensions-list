@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to write.as
-downloads: 2975
+downloads: 2981
 mobile: true
 number: 1110
 stars: 3

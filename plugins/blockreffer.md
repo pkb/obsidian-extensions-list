@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and embed blocks with ^block-references (aka ^block-ids)
-downloads: 462
+downloads: 506
 mobile: true
 number: 1851
-stars: 11
+stars: 12
 title: Blockreffer
 type: plugin
 updated: '2024-11-18T00:47:38'

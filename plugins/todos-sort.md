@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Sorting your TODOs (checkboxes) in current note by completion status.
-downloads: 175
+downloads: 222
 mobile: true
 number: 1994
 stars: 3

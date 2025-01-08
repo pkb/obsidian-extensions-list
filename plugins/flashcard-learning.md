@@ -7,7 +7,7 @@ categories:
 - '[[categories/Learning|Learning]]'
 description: This is a pluggin that implements how flashcards can be used inside Obsidian
   in order to learn and remember things.
-downloads: 5141
+downloads: 5185
 mobile: true
 number: 868
 stars: 11

@@ -5,10 +5,10 @@ author:
 - '[[authors/jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Track and align your focus.
-downloads: 711
+downloads: 751
 mobile: true
 number: 1678
-stars: 3
+stars: 4
 title: Focus Tracker
 type: plugin
 updated: '2024-11-27T19:43:34'

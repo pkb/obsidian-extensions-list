@@ -6,7 +6,7 @@ author:
 categories: []
 description: Diff the version history of the core Sync and File Recovery plugins and
   Git. Adds a command to open the core Sync version history as well.
-downloads: 30282
+downloads: 30698
 mobile: true
 number: 464
 stars: 117

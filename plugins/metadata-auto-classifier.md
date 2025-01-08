@@ -5,10 +5,10 @@ author:
 - '[[authors/GoBeromsu|Beomsu Koh]]'
 categories: []
 description: Automatically classifies and applies metadata to your notes.
-downloads: 401
+downloads: 457
 mobile: true
 number: 1957
-stars: 16
+stars: 17
 title: Metadata Auto Classifier
 type: plugin
 updated: '2024-11-08T22:39:16'

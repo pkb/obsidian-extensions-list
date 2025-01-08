@@ -7,7 +7,7 @@ categories:
 - '[[categories/Games|Games]]'
 description: Search, browse and download TTRPG (tabletop role-playing game) content
   from Moulinette Cloud.
-downloads: 1548
+downloads: 1592
 mobile: false
 number: 1535
 stars: 3

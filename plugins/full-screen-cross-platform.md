@@ -6,7 +6,7 @@ author:
 categories: []
 description: Fullscreen focus across all platforms. It helps you get more display
   space when you focus on reading notes, especially on mobile devices.
-downloads: 2406
+downloads: 2498
 mobile: true
 number: 1365
 stars: 5

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Send and publish notes to your Ghost blog with a single click
-downloads: 3374
+downloads: 3416
 mobile: false
 number: 1147
-stars: 30
+stars: 31
 title: Send to Ghost
 type: plugin
 updated: '2024-01-20T03:59:19'

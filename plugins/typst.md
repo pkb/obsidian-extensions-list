@@ -5,10 +5,10 @@ author:
 - '[[authors/fenjalien|fenjalien]]'
 categories: []
 description: Renders `typst` code blocks and math blocks with Typst.
-downloads: 7285
+downloads: 7399
 mobile: true
 number: 981
-stars: 362
+stars: 369
 title: Typst Renderer
 type: plugin
 updated: '2024-03-19T07:31:23'

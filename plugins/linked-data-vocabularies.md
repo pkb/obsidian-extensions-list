@@ -5,10 +5,10 @@ author:
 - '[[authors/kometenstaub|kometenstaub]]'
 categories: []
 description: Add linked data (LCSH) as metadata to your notes.
-downloads: 5098
+downloads: 5114
 mobile: true
 number: 916
-stars: 88
+stars: 90
 title: Linked Data Vocabularies
 type: plugin
 updated: '2024-01-03T19:09:19'

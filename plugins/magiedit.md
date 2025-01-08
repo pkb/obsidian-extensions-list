@@ -5,7 +5,7 @@ author:
 - '[[authors/magitools|Matteo Gassend]]'
 categories: []
 description: Official integration for Magiedit's API
-downloads: 17
+downloads: 26
 mobile: true
 number: 2056
 stars: 0

@@ -5,10 +5,10 @@ author:
 - '[[authors/holubj|Jakub Holub]]'
 categories: []
 description: Create dialogues in Markdown.
-downloads: 14884
+downloads: 15143
 mobile: true
 number: 365
-stars: 144
+stars: 145
 title: Dialogue
 type: plugin
 updated: '2022-05-21T16:34:49'

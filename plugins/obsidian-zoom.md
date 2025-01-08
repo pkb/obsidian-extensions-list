@@ -5,10 +5,10 @@ author:
 - '[[authors/vslinko|Viacheslav Slinko]]'
 categories: []
 description: Zoom into heading and lists.
-downloads: 92915
+downloads: 93547
 mobile: true
 number: 186
-stars: 226
+stars: 227
 title: Zoom
 type: plugin
 updated: '2023-05-04T14:25:16'

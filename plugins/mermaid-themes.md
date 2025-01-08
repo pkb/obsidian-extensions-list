@@ -6,10 +6,10 @@ author:
 categories: []
 description: Makes it easy to apply custom mermaid.js themes and apply other tweaks.
   This plugin is supported by advertisements.
-downloads: 7801
+downloads: 7963
 mobile: true
 number: 971
-stars: 2
+stars: 3
 title: Mermaid Themes
 type: plugin
 updated: '2023-06-02T00:39:48'

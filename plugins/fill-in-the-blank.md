@@ -5,7 +5,7 @@ author:
 - '[[authors/mister-mcgee|Shawn McGee]]'
 categories: []
 description: Use --magic-- to render inline text as blank line(s) instead.
-downloads: 3489
+downloads: 3503
 mobile: true
 number: 1047
 stars: 2

@@ -6,13 +6,13 @@ author:
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Capturing ideas and save them into daily notes. (Closed source)
-downloads: 189821
+downloads: 193156
 mobile: true
 number: 397
 stars: 1100
 title: Thino
 type: plugin
-updated: '2024-11-23T16:59:03'
+updated: '2025-01-04T21:36:43'
 url: https://github.com/Quorafind/Obsidian-Thino
 version: 2.4.59
 ---

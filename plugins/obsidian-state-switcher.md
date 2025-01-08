@@ -5,7 +5,7 @@ author:
 - '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Keep you away from directly operating of yaml front matter
-downloads: 9420
+downloads: 9496
 mobile: true
 number: 526
 stars: 43

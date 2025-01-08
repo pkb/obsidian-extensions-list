@@ -6,10 +6,10 @@ author:
 categories: []
 description: Convert a complete Canvas to a long form document, integrating all cards,
   notes, images and other media content into a single markdown file.
-downloads: 4648
+downloads: 4910
 mobile: false
 number: 1601
-stars: 32
+stars: 31
 title: Canvas2Document
 type: plugin
 updated: '2024-11-13T03:54:26'

@@ -5,10 +5,10 @@ author:
 - '[[authors/tejas-hosamani|Tejas H]]'
 categories: []
 description: Covert text to natural voice audio, locally - Listen Up!
-downloads: 571
+downloads: 622
 mobile: false
 number: 1854
-stars: 9
+stars: 11
 title: Listen Up!
 type: plugin
 updated: '2024-08-30T18:05:48'

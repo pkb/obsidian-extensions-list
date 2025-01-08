@@ -5,15 +5,15 @@ author:
 - '[[authors/Talal-A|Talal Abou Haiba]]'
 categories: []
 description: Link your Immich images within your vault.
-downloads: 100
+downloads: 143
 mobile: true
 number: 1894
 stars: 7
 title: Immich
 type: plugin
-updated: '2024-09-13T04:10:41'
+updated: '2025-01-05T03:14:42'
 url: https://github.com/Talal-A/obsidian-immich
-version: 0.0.7
+version: 0.1.2
 ---
 
 %% README_START %%

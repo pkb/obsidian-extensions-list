@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Markdown workflows for teams.
-downloads: 1678
+downloads: 1710
 mobile: true
 number: 1374
 stars: 16

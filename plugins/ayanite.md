@@ -8,7 +8,7 @@ categories:
 description: Advanced AI chat interface and knowledge copilot for professionals. Turn
   Obsidian into an Integrated Knowledge Environment. Supports Ollama and cloud GPT
   providers. (Closed source)
-downloads: 310
+downloads: 336
 mobile: false
 number: 1689
 stars: 6

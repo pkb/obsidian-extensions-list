@@ -5,15 +5,15 @@ author:
 - '[[authors/ai-chen2050|Blake Chan]]'
 categories: []
 description: Download video from YouTube
-downloads: 739
+downloads: 887
 mobile: false
 number: 1813
 stars: 4
 title: YouTube downloader
 type: plugin
-updated: '2024-08-11T14:19:27'
+updated: '2024-12-21T12:39:50'
 url: https://github.com/ai-chen2050/obsidian-youtube-downloader
-version: 1.2.0
+version: 1.5.0
 ---
 
 %% README_START %%

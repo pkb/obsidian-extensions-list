@@ -5,7 +5,7 @@ author:
 - '[[authors/deathau|death_au]]'
 categories: []
 description: Simply fills the workspace with the active pane
-downloads: 14544
+downloads: 14587
 mobile: true
 number: 45
 stars: 36

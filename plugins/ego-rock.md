@@ -5,7 +5,7 @@ author:
 - '[[authors/echo-bravo-yahoo|Ashton Eby]]'
 categories: []
 description: A basic taskwarrior UI for listing and modifying tasks.
-downloads: 3572
+downloads: 3831
 mobile: false
 number: 1470
 stars: 9

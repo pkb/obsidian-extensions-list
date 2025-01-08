@@ -5,7 +5,7 @@ author:
 - '[[authors/razeghi71|Mohammad Razeghi]]'
 categories: []
 description: Search and insert images using Google API
-downloads: 885
+downloads: 929
 mobile: true
 number: 1615
 stars: 3

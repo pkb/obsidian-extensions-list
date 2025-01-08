@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Use multiple cursors even more powerfully.
-downloads: 15035
+downloads: 15140
 mobile: false
 number: 332
-stars: 102
+stars: 105
 title: Advanced Cursors
 type: plugin
 updated: '2022-01-09T00:47:09'

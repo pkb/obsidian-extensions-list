@@ -7,15 +7,15 @@ categories: []
 description: Parse multiple ICS files to include in your notes. Designed for Daily
   Notes and the Day Planner format. Through templates you can customize it for other
   use cases.
-downloads: 10876
+downloads: 11715
 mobile: true
 number: 1039
 stars: 146
 title: ICS
 type: plugin
-updated: '2024-11-30T04:08:50'
+updated: '2024-12-26T02:29:29'
 url: https://github.com/cloud-atlas-ai/obsidian-ics
-version: 1.6.7
+version: 1.8.2
 ---
 
 %% README_START %%

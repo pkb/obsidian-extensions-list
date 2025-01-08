@@ -5,7 +5,7 @@ author:
 - '[[authors/typhoon-kim|Typhoon-Kim]]'
 categories: []
 description: Syntax highlighting for Svelte code blocks.
-downloads: 360
+downloads: 389
 mobile: true
 number: 1710
 stars: 10

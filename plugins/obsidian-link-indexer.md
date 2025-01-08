@@ -5,7 +5,7 @@ author:
 - '[[authors/aviskase|Yuliya Bagriy]]'
 categories: []
 description: Generate index notes with links based on various conditions
-downloads: 6842
+downloads: 6863
 mobile: true
 number: 33
 stars: 28

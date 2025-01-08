@@ -6,10 +6,10 @@ author:
 categories: []
 description: Connect an existing or new Trello card to an Obsidian note. Once connected,
   see basic info, add and view comments, and check off checklist items.
-downloads: 12514
+downloads: 12811
 mobile: true
 number: 272
-stars: 111
+stars: 112
 title: Trello
 type: plugin
 updated: '2024-12-13T19:01:51'

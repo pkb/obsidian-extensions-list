@@ -5,10 +5,10 @@ author:
 - '[[authors/Vinzent03|Vinzent]]'
 categories: []
 description: ''
-downloads: 38292
+downloads: 38704
 mobile: true
 number: 80
-stars: 91
+stars: 92
 title: Sort & Permute lines
 type: plugin
 updated: '2023-02-08T01:59:18'

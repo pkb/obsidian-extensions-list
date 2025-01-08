@@ -5,10 +5,10 @@ author:
 - '[[authors/akaalias|Alexis Rondeau]]'
 categories: []
 description: Discover the stories between your notes.
-downloads: 19424
+downloads: 19510
 mobile: true
 number: 89
-stars: 147
+stars: 150
 title: Journey
 type: plugin
 updated: '2021-02-17T19:18:01'

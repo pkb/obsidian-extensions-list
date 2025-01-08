@@ -5,20 +5,22 @@ author:
 - '[[authors/k-quels|quels <@k-quels>]]'
 categories: []
 description: Treat ruby(Furigana) ​​marks commonly used in Japanese novels.
-downloads: 157
+downloads: 275
 mobile: true
 number: 1954
-stars: 0
+stars: 2
 title: Japanese Novel Ruby
 type: plugin
-updated: '2024-10-21T21:45:56'
+updated: '2024-12-29T06:31:43'
 url: https://github.com/k-quels/japanese-novel-ruby
-version: 1.0.1
+version: 1.1.1
 ---
 
 %% README_START %%
 
 # Japanese Novel Ruby Plugin for Obsidian
+
+English | [日本語](README_ja.md)
 
 Obsidian plugin for display & insert ruby(Furigana) ​​marks commonly used in Japanese novels.
 

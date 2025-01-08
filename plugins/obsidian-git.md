@@ -7,15 +7,15 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Integrate Git version control with automatic backup and other advanced
   features.
-downloads: 1258812
+downloads: 1293645
 mobile: true
 number: 3
-stars: 7100
+stars: 7200
 title: Git
 type: plugin
-updated: '2024-11-28T23:00:26'
+updated: '2025-01-05T05:47:20'
 url: https://github.com/Vinzent03/obsidian-git
-version: 2.30.1
+version: 2.31.1
 ---
 
 %% README_START %%

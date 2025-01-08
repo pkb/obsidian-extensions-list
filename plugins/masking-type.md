@@ -5,7 +5,7 @@ author:
 - '[[authors/Telehakke|Telehakke]]'
 categories: []
 description: Mask bold, italic, and highlight
-downloads: 147
+downloads: 187
 mobile: true
 number: 1995
 stars: 2

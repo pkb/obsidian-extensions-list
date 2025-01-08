@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Quickly search hierarchical line trees
-downloads: 700
+downloads: 824
 mobile: true
 number: 1986
-stars: 12
+stars: 14
 title: Tree Search
 type: plugin
 updated: '2024-12-18T02:27:58'

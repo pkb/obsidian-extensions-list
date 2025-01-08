@@ -5,7 +5,7 @@ author:
 - '[[authors/MrGVSV|Gino Valente]]'
 categories: []
 description: Embed GitHub issues, PRs, and code snippets directly in Obsidian.
-downloads: 5499
+downloads: 5567
 mobile: true
 number: 1125
 stars: 52

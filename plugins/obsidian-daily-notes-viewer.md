@@ -5,7 +5,7 @@ author:
 - '[[authors/Johnson0907|Johnson0907]]'
 categories: []
 description: Help you to view some recent daily notes on one page.
-downloads: 14129
+downloads: 14283
 mobile: true
 number: 472
 stars: 66

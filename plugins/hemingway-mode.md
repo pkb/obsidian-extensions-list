@@ -5,7 +5,7 @@ author:
 - '[[authors/jobedom|Joaquín Bernal]]'
 categories: []
 description: Prevents any editing, only letting you write ahead.
-downloads: 1164
+downloads: 1198
 mobile: true
 number: 1552
 stars: 6

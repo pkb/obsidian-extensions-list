@@ -7,10 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Import your BookFusion highlights & annotations into your vault.
-downloads: 1885
+downloads: 1969
 mobile: true
 number: 1489
-stars: 17
+stars: 19
 title: BookFusion
 type: plugin
 updated: '2024-03-18T18:28:59'

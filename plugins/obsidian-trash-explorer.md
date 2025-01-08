@@ -5,7 +5,7 @@ author:
 - '[[authors/proog|Per Mortensen]]'
 categories: []
 description: Restore and delete files from the Obsidian .trash folder
-downloads: 25997
+downloads: 27231
 mobile: true
 number: 655
 stars: 41

@@ -8,7 +8,7 @@ categories:
 - '[[categories/File management|File management]]'
 description: Automatically rename files on the go based on the first x characters
   of files.
-downloads: 4072
+downloads: 4137
 mobile: true
 number: 1217
 stars: 14

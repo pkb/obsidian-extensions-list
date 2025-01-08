@@ -5,10 +5,10 @@ author:
 - '[[authors/tnichols217|Trevor Nichols]]'
 categories: []
 description: Allows you to create columns in Obsidian Markdown
-downloads: 51847
+downloads: 53563
 mobile: true
 number: 497
-stars: 214
+stars: 218
 title: Obsidian Columns
 type: plugin
 updated: '2024-12-01T03:23:20'

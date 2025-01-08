@@ -8,10 +8,10 @@ categories:
 description: This tool lets you see events, add and organize notes from daily to yearly
   on the Persian calendar, use templates with placeholders, and works with all Obsidian
   daily plugins.
-downloads: 3449
+downloads: 3585
 mobile: true
 number: 1502
-stars: 60
+stars: 64
 title: Persian Calendar
 type: plugin
 updated: '2024-08-20T15:27:12'

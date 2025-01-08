@@ -5,7 +5,7 @@ author:
 - '[[authors/artisticat1|artisticat]]'
 categories: []
 description: Highlight the sentence the cursor is currently resting on.
-downloads: 5744
+downloads: 5792
 mobile: true
 number: 840
 stars: 40

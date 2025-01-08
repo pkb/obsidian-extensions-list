@@ -5,10 +5,10 @@ author:
 - '[[authors/ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Automated backups to Dropbox for your enjoyment.
-downloads: 10015
+downloads: 10064
 mobile: true
 number: 192
-stars: 73
+stars: 74
 title: Aut-O-Backups
 type: plugin
 updated: '2021-12-27T11:20:30'

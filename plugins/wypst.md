@@ -5,7 +5,7 @@ author:
 - '[[authors/0xpapercut|0xpapercut]]'
 categories: []
 description: Typst math typesetting for Obsidian.
-downloads: 2017
+downloads: 2087
 mobile: true
 number: 1423
 stars: 38

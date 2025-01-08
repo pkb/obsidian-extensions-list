@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Identify duplicate notes based on similar aliases and filenames.
-downloads: 1897
+downloads: 1959
 mobile: false
 number: 1483
-stars: 7
+stars: 8
 title: Alias Management
 type: plugin
 updated: '2024-03-01T01:51:45'

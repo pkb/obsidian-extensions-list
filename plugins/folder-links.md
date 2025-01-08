@@ -5,10 +5,10 @@ author:
 - '[[authors/SteveOverSea|Stefan Rausch]]'
 categories: []
 description: Clicking a link to a folder makes it revealed in the navigation.
-downloads: 159
+downloads: 254
 mobile: true
 number: 2042
-stars: 1
+stars: 2
 title: Folder Links
 type: plugin
 updated: '2024-11-18T02:20:15'

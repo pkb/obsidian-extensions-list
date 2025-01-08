@@ -5,7 +5,7 @@ author:
 - '[[authors/ImaginaryProgramming|ImaginaryProgramming]]'
 categories: []
 description: Copies a note, and pastes it into another vault.
-downloads: 1916
+downloads: 1989
 mobile: false
 number: 1496
 stars: 29

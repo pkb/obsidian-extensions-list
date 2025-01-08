@@ -5,7 +5,7 @@ author:
 - '[[authors/sameersismail|Sameer Ismail]]'
 categories: []
 description: Write continuously—or lose all progress.
-downloads: 4336
+downloads: 4357
 mobile: false
 number: 825
 stars: 26

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Update your Discord Status to show your friends what you are working
   on in Obsidian. With Discord Rich Presence.
-downloads: 22308
+downloads: 22677
 mobile: false
 number: 23
 stars: 67

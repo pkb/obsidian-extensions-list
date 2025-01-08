@@ -5,7 +5,7 @@ author:
 - '[[authors/0skater0|0skater0]]'
 categories: []
 description: Let's you adjust the line width on a note-by-note basis.
-downloads: 6468
+downloads: 6679
 mobile: false
 number: 1296
 stars: 17

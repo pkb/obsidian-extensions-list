@@ -5,10 +5,10 @@ author:
 - '[[authors/nadavspi|Nadav Spiegelman]]'
 categories: []
 description: Enables relative line numbers in editor mode
-downloads: 71515
+downloads: 72748
 mobile: true
 number: 64
-stars: 162
+stars: 163
 title: Relative Line Numbers
 type: plugin
 updated: '2023-12-27T10:27:56'

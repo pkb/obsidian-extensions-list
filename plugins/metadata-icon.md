@@ -5,7 +5,7 @@ author:
 - '[[authors/Benature|Benature]]'
 categories: []
 description: Change metadata entry icon
-downloads: 2913
+downloads: 2986
 mobile: true
 number: 1455
 stars: 9

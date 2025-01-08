@@ -5,7 +5,7 @@ author:
 - '[[authors/nhannht|Nhan Nguyen]]'
 categories: []
 description: Intelligently generates timeline from your content ... like a bro!
-downloads: 3468
+downloads: 3526
 mobile: false
 number: 1484
 stars: 36

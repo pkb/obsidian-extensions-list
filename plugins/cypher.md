@@ -6,10 +6,10 @@ author:
 categories: []
 description: Hides text in a simple diagramatic cypher to make reading unrecognizable
   for viewers.
-downloads: 42
+downloads: 80
 mobile: true
 number: 2067
-stars: 1
+stars: 2
 title: Cypher
 type: plugin
 updated: '2024-11-04T13:48:46'

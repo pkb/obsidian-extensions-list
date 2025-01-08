@@ -5,7 +5,7 @@ author:
 - '[[authors/levi-ivel|Levi Kingma]]'
 categories: []
 description: Creates a top 100 of the most used words in your notes
-downloads: 584
+downloads: 621
 mobile: true
 number: 1651
 stars: 6

@@ -5,10 +5,10 @@ author:
 - '[[authors/jackvonhouse|jackvonhouse]]'
 categories: []
 description: Customize nodes size for improved graph understanding.
-downloads: 846
+downloads: 1031
 mobile: true
 number: 1922
-stars: 2
+stars: 3
 title: Custom Node Size
 type: plugin
 updated: '2024-09-24T23:45:41'

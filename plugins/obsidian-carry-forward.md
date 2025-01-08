@@ -6,7 +6,7 @@ author:
 categories: []
 description: An Obsidian Notes plugin for generating and copying block IDs and for
   copying lines with links to the copied line.
-downloads: 13254
+downloads: 13311
 mobile: true
 number: 288
 stars: 50

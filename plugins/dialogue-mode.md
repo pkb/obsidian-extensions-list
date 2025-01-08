@@ -5,7 +5,7 @@ author:
 - '[[authors/patrickchiang|patrickchiang]]'
 categories: []
 description: Dialogue mode for editing speech in writing.
-downloads: 606
+downloads: 662
 mobile: true
 number: 1727
 stars: 5

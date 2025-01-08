@@ -6,10 +6,10 @@ author:
 categories: []
 description: Track and visualize data from your notes. Compatible with original Tracker
   plugin.
-downloads: 4339
+downloads: 4426
 mobile: true
 number: 1215
-stars: 36
+stars: 38
 title: Tracker+
 type: plugin
 updated: '2023-10-08T23:18:19'

@@ -5,7 +5,7 @@ author:
 - '[[authors/janisringli|Janis Ringli]]'
 categories: []
 description: Lets you add the verse of the day from YouVersion to your daily notes
-downloads: 928
+downloads: 946
 mobile: false
 number: 1529
 stars: 5

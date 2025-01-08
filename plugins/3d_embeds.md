@@ -5,10 +5,10 @@ author:
 - '[[authors/ElmoNeedsArson|Jesse Strijker]]'
 categories: []
 description: Embed 3DModels in markdown notes.
-downloads: 109
+downloads: 228
 mobile: true
 number: 2059
-stars: 1
+stars: 3
 title: Embed 3D
 type: plugin
 updated: '2024-12-19T04:29:04'

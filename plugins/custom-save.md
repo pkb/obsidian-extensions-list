@@ -5,10 +5,10 @@ author:
 - '[[authors/HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Run any commands when you save a file in the editor
-downloads: 2200
+downloads: 2230
 mobile: true
 number: 1319
-stars: 13
+stars: 15
 title: Custom save
 type: plugin
 updated: '2023-12-21T11:43:24'

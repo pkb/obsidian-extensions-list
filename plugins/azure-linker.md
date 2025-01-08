@@ -5,15 +5,15 @@ author:
 - '[[authors/srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Azure issue tag as a link to you Azure instance.
-downloads: 283
+downloads: 317
 mobile: true
 number: 1629
 stars: 1
 title: Azure DevOps Linker
 type: plugin
-updated: '2024-04-26T19:28:22'
+updated: '2025-01-05T10:14:22'
 url: https://github.com/srz2/obsidian-azure-devops-linker
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%

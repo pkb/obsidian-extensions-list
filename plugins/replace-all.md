@@ -5,7 +5,7 @@ author:
 - '[[authors/patrickchiang|patrickchiang]]'
 categories: []
 description: Replace all in vault.
-downloads: 378
+downloads: 469
 mobile: true
 number: 1956
 stars: 4

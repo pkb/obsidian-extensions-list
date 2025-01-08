@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds sidebar action icons to quickly open the Gnome Terminal or to have
   the Gnome Terminal run a Python module
-downloads: 3783
+downloads: 3827
 mobile: false
 number: 1099
 stars: 4

@@ -5,7 +5,7 @@ author:
 - '[[authors/Tatz884|Tatsuya Hayashi]]'
 categories: []
 description: View your RescueTime data in Obsidian.
-downloads: 2655
+downloads: 2663
 mobile: false
 number: 1213
 stars: 8

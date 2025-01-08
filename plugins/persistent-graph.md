@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds commands to save and restore the positions of nodes on the global
   graph view
-downloads: 21616
+downloads: 22170
 mobile: true
 number: 423
 stars: 109

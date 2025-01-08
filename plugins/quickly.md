@@ -6,7 +6,7 @@ author:
 categories: []
 description: Quickly empowers you to add your thoughts into obsidian with a shortcut
   key.
-downloads: 3517
+downloads: 3525
 mobile: true
 number: 889
 stars: 11

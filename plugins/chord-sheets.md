@@ -6,15 +6,15 @@ author:
 categories: []
 description: 'Work with chord sheets (chords over lyrics) in your Vault: Chord diagrams,
   transpose, autoscroll and more. Works in live preview and reading mode.'
-downloads: 5397
+downloads: 6283
 mobile: true
 number: 1447
-stars: 56
+stars: 59
 title: Chord Sheets
 type: plugin
-updated: '2024-12-18T22:14:45'
+updated: '2025-01-03T00:08:45'
 url: https://github.com/olvidalo/obsidian-chord-sheets
-version: 1.5.0
+version: 1.5.2
 ---
 
 %% README_START %%
@@ -161,16 +161,6 @@ This plugin uses:
 	- Fingering needs to be specified explicitly as part of the chord symbol
 - [Obsidian jTab](https://github.com/davfive/obsidian-jtab)
 	- Renders tabs and chord diagrams in [*jTab*](https://jtab.tardate.com/) format in fenced code blocks 
-
-## Support My Work
-
-If you like this plugin and want to say thanks, here are ways to support its development:  
-  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/olvidalo)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/olvidalo?style=social)](https://github.com/sponsors/olvidalo)
-[![Paypal](https://img.shields.io/badge/paypal-mschaeben-yellow?style=social&logo=paypal)](https://paypal.me/mschaeben)
-
-Your support helps maintain and improve this project. Thank you!
 
 
 %% README_END %%

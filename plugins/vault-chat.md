@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A ChatGPT bot trained on your vault notes. Ask your AI questions about
   your own thoughts and ideas!
-downloads: 6461
+downloads: 6548
 mobile: false
 number: 970
-stars: 118
+stars: 119
 title: Vault Chat
 type: plugin
 updated: '2023-06-03T20:22:28'

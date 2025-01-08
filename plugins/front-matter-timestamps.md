@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically manages and updates 'created' and 'modified' timestamps
   in the frontmatter of your notes
-downloads: 2336
+downloads: 2654
 mobile: true
 number: 1751
 stars: 8

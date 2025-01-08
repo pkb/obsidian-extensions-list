@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically converts text to definition links within the current folder
   when you type them.
-downloads: 1422
+downloads: 1445
 mobile: true
 number: 1446
 stars: 6

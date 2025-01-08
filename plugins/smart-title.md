@@ -5,7 +5,7 @@ author:
 - '[[authors/magooup|magooup]]'
 categories: []
 description: Automatically extract tag and alias from the title.
-downloads: 5020
+downloads: 5306
 mobile: true
 number: 1322
 stars: 8

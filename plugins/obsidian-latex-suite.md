@@ -7,7 +7,7 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: Make typesetting LaTeX math as fast as handwriting through snippets,
   text expansion, and editor enhancements
-downloads: 216486
+downloads: 222495
 mobile: true
 number: 484
 stars: 1500

@@ -5,7 +5,7 @@ author:
 - '[[authors/ixth|Mikhail Menshikov <ainop@ya.ru>]]'
 categories: []
 description: Obsidian plugin that allows to add classes and styles on markdown blocks
-downloads: 4840
+downloads: 4865
 mobile: true
 number: 709
 stars: 40

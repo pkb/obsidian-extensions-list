@@ -5,7 +5,7 @@ author:
 - '[[authors/Zachatoo|Zachatoo]]'
 categories: []
 description: Add achievements to Obsidian.
-downloads: 5729
+downloads: 5771
 mobile: true
 number: 683
 stars: 23

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Select something and let the AI complete it for you.
-downloads: 1261
+downloads: 1270
 mobile: true
 number: 1467
-stars: 3
+stars: 2
 title: Select & Complete
 type: plugin
 updated: '2024-11-19T23:28:29'

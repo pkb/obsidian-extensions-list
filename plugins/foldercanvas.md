@@ -5,10 +5,10 @@ author:
 - '[[authors/nancyel|Nancy Lee]]'
 categories: []
 description: Generate a Canvas view of your folder structure.
-downloads: 256
+downloads: 389
 mobile: true
 number: 2027
-stars: 4
+stars: 6
 title: Folder Canvas
 type: plugin
 updated: '2024-11-20T15:22:46'

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Easily generate dynamic content maps in your folder notes using waypoints.
   Enables folders to show up in the graph view and removes the need for messy tags!
-downloads: 61067
+downloads: 62527
 mobile: true
 number: 461
-stars: 559
+stars: 573
 title: Waypoint
 type: plugin
 updated: '2024-03-30T23:12:46'

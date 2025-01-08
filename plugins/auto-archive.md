@@ -5,7 +5,7 @@ author:
 - '[[authors/shanedonburke|Shane Burke]]'
 categories: []
 description: Automatically archive notes once they reach a certain age
-downloads: 3148
+downloads: 3177
 mobile: true
 number: 1170
 stars: 7

@@ -6,10 +6,10 @@ author:
 categories: []
 description: This plugin uploads images from your clipboard to imgur.com and embeds
   uploaded image to your note
-downloads: 48602
+downloads: 49407
 mobile: true
 number: 72
-stars: 221
+stars: 222
 title: Imgur
 type: plugin
 updated: '2024-11-03T05:47:42'

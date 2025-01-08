@@ -6,15 +6,15 @@ author:
 - '[[authors/ebullient|continued by Erin Schnabel]]'
 categories: []
 description: Create markdown-based presentations using reveal.js
-downloads: 4978
+downloads: 6148
 mobile: false
 number: 1604
-stars: 99
+stars: 107
 title: Slides Extended
 type: plugin
-updated: '2024-10-07T19:32:37'
+updated: '2025-01-04T07:19:08'
 url: https://github.com/ebullient/obsidian-slides-extended
-version: 2.1.3
+version: 2.1.8
 ---
 
 %% README_START %%

@@ -8,10 +8,10 @@ categories:
 description: Now you can easily manage your plugins and themes. Simply select the
   version you want or install unlisted versions from GitHub. You can also install
   beta version and switch back if necessary.
-downloads: 1154
+downloads: 1182
 mobile: false
 number: 1562
-stars: 7
+stars: 8
 title: VARE
 type: plugin
 updated: '2024-06-26T16:23:54'

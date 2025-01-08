@@ -6,10 +6,10 @@ author:
 categories: []
 description: Add better Live Preview support for math rendering inside callouts &
   blockquotes.
-downloads: 4109
+downloads: 4211
 mobile: true
 number: 1327
-stars: 30
+stars: 31
 title: Better Math in Callouts & Blockquotes
 type: plugin
 updated: '2023-12-21T23:43:37'

@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all birthdays of your family and friends.
-downloads: 5534
+downloads: 5725
 mobile: true
 number: 1063
 stars: 17
 title: Birthday-Tracker
 type: plugin
-updated: '2024-10-27T02:56:20'
+updated: '2024-12-23T18:32:52'
 url: https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin
-version: 1.1.8
+version: 1.1.9
 ---
 
 %% README_START %%

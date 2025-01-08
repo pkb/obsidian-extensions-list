@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Gives you rewards for completing tasks/todos, highly configurable.
-downloads: 24309
+downloads: 24843
 mobile: true
 number: 502
-stars: 44
+stars: 45
 title: Rewarder
 type: plugin
 updated: '2023-12-26T02:32:20'

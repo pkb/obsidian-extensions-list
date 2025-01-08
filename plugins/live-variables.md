@@ -6,10 +6,10 @@ author:
 categories: []
 description: Define variables in your note's properties and reuse them throughout
   your content.
-downloads: 1216
+downloads: 1348
 mobile: true
 number: 1871
-stars: 20
+stars: 22
 title: Live Variables
 type: plugin
 updated: '2024-11-12T19:21:33'

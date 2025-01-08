@@ -6,7 +6,7 @@ author:
 categories: []
 description: When a header is linked, preview mode will show only the header, and
   not the note name.
-downloads: 7789
+downloads: 7847
 mobile: true
 number: 324
 stars: 21

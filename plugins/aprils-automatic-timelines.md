@@ -5,10 +5,10 @@ author:
 - '[[authors/April-Gras|April Gras]]'
 categories: []
 description: Simple timeline generator for story tellers
-downloads: 31020
+downloads: 32225
 mobile: true
 number: 913
-stars: 137
+stars: 148
 title: April's Automatic Timelines
 type: plugin
 updated: '2024-12-02T20:36:19'

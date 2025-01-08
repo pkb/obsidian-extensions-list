@@ -5,10 +5,10 @@ author:
 - '[[authors/vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Food tracker, macronutrient and calorie calculator.
-downloads: 1244
+downloads: 1287
 mobile: true
 number: 1557
-stars: 8
+stars: 9
 title: Foodiary
 type: plugin
 updated: '2024-04-15T23:21:32'

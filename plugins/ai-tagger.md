@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Analyze and tag your document with one click for efficient note organization
   using AI.
-downloads: 4632
+downloads: 5176
 mobile: true
 number: 1451
-stars: 66
+stars: 70
 title: AI Tagger
 type: plugin
-updated: '2024-12-08T06:11:33'
+updated: '2024-12-28T02:07:41'
 url: https://github.com/lucagrippa/obsidian-ai-tagger
-version: 1.2.5
+version: 1.2.6
 ---
 
 %% README_START %%

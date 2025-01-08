@@ -7,10 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Combine periodic notes with tags and tasks to automatically manage your
   daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins.
-downloads: 231
+downloads: 373
 mobile: true
 number: 2009
-stars: 2
+stars: 3
 title: Auto Tasks
 type: plugin
 updated: '2024-11-15T22:28:36'

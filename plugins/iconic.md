@@ -6,10 +6,10 @@ author:
 categories: []
 description: Customize your icons and their colors directly from the UI, including
   tabs, files, bookmarks, properties, and ribbon commands.
-downloads: 13463
+downloads: 14992
 mobile: true
 number: 1772
-stars: 83
+stars: 90
 title: Iconic
 type: plugin
 updated: '2024-10-06T13:00:22'

@@ -5,7 +5,7 @@ author:
 - '[[authors/BambusControl|BambusControl]]'
 categories: []
 description: Automatically replace text fragments with symbols or different text
-downloads: 1031
+downloads: 1130
 mobile: true
 number: 1698
 stars: 13

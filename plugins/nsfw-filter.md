@@ -5,7 +5,7 @@ author:
 - '[[authors/catvatar|catvatar]]'
 categories: []
 description: Adds customizable and easly togglable NSFW filter
-downloads: 218
+downloads: 234
 mobile: true
 number: 1755
 stars: 2

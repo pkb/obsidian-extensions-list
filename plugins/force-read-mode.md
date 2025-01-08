@@ -5,15 +5,15 @@ author:
 - '[[authors/al3xw|al3xw]]'
 categories: []
 description: Forces Markdown files in specified folders to open in read-only mode.
-downloads: 29
+downloads: 180
 mobile: true
 number: 2081
-stars: 3
+stars: 7
 title: Force Read Mode
 type: plugin
-updated: '2024-10-29T23:09:05'
+updated: '2024-12-28T21:13:19'
 url: https://github.com/al3xw/force-read-mode
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%
@@ -27,6 +27,9 @@ version: 1.0.2
 - Automatically switches markdown files to read mode (preview) when opened from specified folders.
 - Supports multiple folder paths.
 - Simple settings interface to configure folder paths.
+- Quickly disable the plugin using the Command Palette:
+   - Use "Force Read Mode: Disable" to deactivate.
+   - Use "Force Read Mode: Enable" to activate.
 
 ## How to Use
 
@@ -34,6 +37,7 @@ version: 1.0.2
 2. Enable the plugin from **Settings → Community Plugins**.
 3. Open **Settings → Force Read Mode** to configure:
    - Add folder paths where you want markdown files to open in read mode (one path per line).
+4. Use the Command Palette (Ctrl+P or Cmd+P) to toggle the plugin on or off with "Force Read Mode: Enable" or "Force Read Mode: Disable".
 
 ## Development
 

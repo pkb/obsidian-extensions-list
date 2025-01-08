@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Work with your lists like in Workflowy or RoamResearch.
-downloads: 836310
+downloads: 845505
 mobile: true
 number: 135
 stars: -1

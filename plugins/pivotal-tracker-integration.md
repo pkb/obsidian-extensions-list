@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 description: This is an unofficial pivotal tracker integration plugin for Obsidian.
   This plugin allows the user to pull stories, chores, bugs from their pivotal counterpart.
-downloads: 3233
+downloads: 3238
 mobile: true
 number: 897
 stars: 5

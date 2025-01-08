@@ -5,7 +5,7 @@ author:
 - '[[authors/srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Jira issue tag as a link to you Jira instance.
-downloads: 3256
+downloads: 3283
 mobile: true
 number: 1229
 stars: 4

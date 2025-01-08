@@ -5,10 +5,10 @@ author:
 - '[[authors/AmpliFlow|Patrik Björklund]]'
 categories: []
 description: Publish notes easily to AmpliFlow (https://www.ampliflow.se)
-downloads: 3
+downloads: 24
 mobile: true
 number: 2084
-stars: 0
+stars: 1
 title: AmpliFlow Page Publisher
 type: plugin
 updated: '2024-11-08T18:37:41'

@@ -5,7 +5,7 @@ author:
 - '[[authors/bkis|Börge Kiss]]'
 categories: []
 description: Turn soft line breaks in Markdown into hard line breaks
-downloads: 5545
+downloads: 5606
 mobile: true
 number: 574
 stars: 26

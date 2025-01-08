@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Insert link to Zotero items from Obsidian interface using Zotero Bridge
-downloads: 10066
+downloads: 10283
 mobile: false
 number: 558
-stars: 41
+stars: 42
 title: Zotero Link
 type: plugin
 updated: '2024-10-26T20:59:38'

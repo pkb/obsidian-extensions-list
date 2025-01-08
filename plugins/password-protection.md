@@ -7,15 +7,15 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Lock and protect your private notes and diary with a password, no encrypt,
   no decrypt.
-downloads: 18620
+downloads: 19904
 mobile: true
 number: 1013
-stars: 42
+stars: 43
 title: Password Protection
 type: plugin
-updated: '2024-05-09T17:52:24'
+updated: '2025-01-01T20:37:54'
 url: https://github.com/qing3962/password-protection
-version: 1.1.26
+version: 1.1.27
 ---
 
 %% README_START %%
@@ -49,6 +49,12 @@ If you want to lock password protection again, you may invoke the command panel,
 In Obsidian for desktop, a Password Protection Button is on the sidebar. Click on it to lock or unlock.  
 
 ## Changelog
+
+- version 1.1.27 (1/1/2025)
+
+1. Support adding more protected path.
+
+2. Support protecting files as folders are protected.
 
 - version 1.1.12 (8/16/2023)
 

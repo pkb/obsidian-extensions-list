@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Used to build great timelines
-downloads: 42512
+downloads: 43753
 mobile: true
 number: 218
-stars: 313
+stars: 320
 title: Timeline
 type: plugin
 updated: '2022-07-22T23:54:32'

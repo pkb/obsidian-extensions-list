@@ -7,15 +7,15 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: 'You can flexibility to create a ''Block'' by some means. It also provides
   some useful features, like `list to table`. '
-downloads: 16800
+downloads: 17800
 mobile: true
 number: 869
-stars: 207
+stars: 224
 title: AnyBlock
 type: plugin
-updated: '2024-11-09T22:19:51'
+updated: '2025-01-04T14:22:02'
 url: https://github.com/LincZero/obsidian-any-block
-version: 3.1.8
+version: 3.1.9
 ---
 
 %% README_START %%

@@ -5,10 +5,10 @@ author:
 - '[[authors/TfTHacker|TfTHacker]]'
 categories: []
 description: Integrating help systems into the Obsidian UI.
-downloads: 6735
+downloads: 6981
 mobile: true
 number: 1292
-stars: 36
+stars: 37
 title: HelpMate
 type: plugin
 updated: '2024-11-05T20:50:27'

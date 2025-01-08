@@ -6,10 +6,10 @@ author:
 categories: []
 description: A toolkit tries to solve all the trivial problems most people usually
   encountered in obsidian.
-downloads: 7452
+downloads: 8078
 mobile: true
 number: 831
-stars: 89
+stars: 92
 title: Awesome Brain Manager
 type: plugin
 updated: '2024-12-17T20:41:22'

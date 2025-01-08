@@ -6,24 +6,24 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync notes from AudioPen.
-downloads: 181
+downloads: 211
 mobile: true
 number: 1700
-stars: 1
+stars: 4
 title: AudioPen Sync
 type: plugin
-updated: '2024-09-20T19:54:42'
+updated: '2024-12-24T04:13:30'
 url: https://github.com/jonashaefele/audiopen-obsidian
-version: 0.1.13
+version: 0.2.0
 ---
 
 %% README_START %%
 
 # AudioPen - Obsidian Sync
 
-[Obsidian](https://obsidian.md/) plugin and service that connects your editor to [AudioPen](https://audiopen.ai/?aff=x0g97).
+[Obsidian](https://obsidian.md/) plugin and service that connects your editor to [AudioPen](https://audiopen.ai/?aff=x0g97) or [VoiceNotes](https://voicenotes.com/?via=jonas) to transcribe audio files and add them to your notes.
 
-This is based on the amazing work [trashhalo](https://github.com/trashhalo) did with [obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks), but updated and extended to work with AudioPen.
+This is based on the amazing work [trashhalo](https://github.com/trashhalo) did with [obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks), but updated and extended to work with AudioPen and VoiceNotes.
 
 ## Setting up the plugin
 
@@ -36,6 +36,8 @@ This is based on the amazing work [trashhalo](https://github.com/trashhalo) did 
 For detailed instructions, read on:
 
 ### 5. How to add the webhook to AudioPen
+
+You can follow the same instuctions to add the webhook to [VoiceNotes](https://voicenotes.com/?via=jonas)
 
 After you did 1-4 above, you'll have a webhook url and a token.
 
@@ -77,6 +79,7 @@ You can use the following variables in your template:
 - `{date_formatted}` - date created formatted to link to your daily notes, uses settings in periodic notes plugin, or daily notes plugin if periodic notes isn't installed.
 - `{tagsAsLinks}` - AudioPen tags formatted as list of `[[Links]]` for Obsidian properties
 - `{tagsAsTags}` - AudioPen tags formatted as a list of tags for Obsidian properties
+- `{platform}` - platform used to transcribe the note (audiopen or voicenotes)
 
 > **Note:**
 > Both `{tagsAsLinks}` and `{tagsAsTags}` are rendered as a simple list like:
@@ -98,7 +101,7 @@ You can use the following variables in your template:
 
 ## Suport this plugin
 
-If you sign up to [AudioPen](https://audiopen.ai/?aff=x0g97) with a link from this readme, I'll get a little kickback at no cost to you. You can also:
+If you sign up to [AudioPen](https://audiopen.ai/?aff=x0g97) or [VoiceNotes](https://voicenotes.com/?via=jonas) with a link from this readme, I'll get a little kickback at no cost to you. You can also:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7K2D7N) or become a [Github Sponsor](https://github.com/sponsors/jonashaefele)
 

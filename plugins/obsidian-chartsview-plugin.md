@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: Data visualization solution in Obsidian based on Ant Design Charts.
-downloads: 56178
+downloads: 56955
 mobile: true
 number: 188
-stars: 223
+stars: 226
 title: Charts View
 type: plugin
 updated: '2024-02-05T15:47:33'

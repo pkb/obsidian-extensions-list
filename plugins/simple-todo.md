@@ -6,10 +6,10 @@ author:
 categories: []
 description: A minimalist text-based todo manager (Text-Based GTD) for efficient task
   management.
-downloads: 171
+downloads: 284
 mobile: true
 number: 2035
-stars: 2
+stars: 4
 title: Simple Todo
 type: plugin
 updated: '2024-11-21T19:35:11'

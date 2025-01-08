@@ -7,7 +7,7 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Find and highlight all occurrences of selected text in notes, similar
   to Notepad++ or IDEs.
-downloads: 735
+downloads: 782
 mobile: true
 number: 1963
 stars: 7

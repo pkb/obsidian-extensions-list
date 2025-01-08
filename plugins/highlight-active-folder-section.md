@@ -5,7 +5,7 @@ author:
 - '[[authors/justanotherjurastudent|Lukas Collier]]'
 categories: []
 description: Highlight the active folder section and the title in the file explorer.
-downloads: 842
+downloads: 903
 mobile: true
 number: 1882
 stars: 2

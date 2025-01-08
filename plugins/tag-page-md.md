@@ -6,10 +6,10 @@ author:
 categories: []
 description: Dynamically generate and update tag-specific pages, offering a consolidated
   view of each tag's references across your vault.
-downloads: 6739
+downloads: 6886
 mobile: true
 number: 1159
-stars: 18
+stars: 19
 title: Tag Page
 type: plugin
 updated: '2024-08-04T22:03:16'

@@ -6,15 +6,15 @@ author:
 categories: []
 description: 'Interactive 3D graph view: text analysis, topic modeling, gap detection,
   and AI.'
-downloads: 1689
+downloads: 2382
 mobile: true
 number: 1941
-stars: 34
+stars: 35
 title: InfraNodus AI Graph View
 type: plugin
-updated: '2024-10-07T18:49:54'
+updated: '2025-01-04T22:45:26'
 url: https://github.com/noduslabs/infranodus-obsidian-plugin
-version: 0.7.2
+version: 0.8.4
 ---
 
 %% README_START %%

@@ -5,7 +5,7 @@ author:
 - '[[authors/Epiphany-Notes|Epiphany]]'
 categories: []
 description: Synchronize voice notes from the Epiphany app directly into your vault
-downloads: 125
+downloads: 136
 mobile: true
 number: 1901
 stars: 1

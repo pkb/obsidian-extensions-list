@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Text generation using AI
-downloads: 349472
+downloads: 359196
 mobile: true
 number: 452
-stars: 1500
+stars: 1600
 title: Text Generator
 type: plugin
-updated: '2024-12-15T08:48:39'
+updated: '2025-01-04T17:29:50'
 url: https://github.com/nhaouari/obsidian-textgenerator-plugin
-version: 0.7.43
+version: 0.7.46
 ---
 
 %% README_START %%

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Audit password strength, check breaches, and generate secure passwords.
   Not a password manager.
-downloads: 63
+downloads: 91
 mobile: true
 number: 2033
 stars: 5

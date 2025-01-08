@@ -6,7 +6,7 @@ author:
 categories: []
 description: Make planning your trip or event easier by rendering a calendar from
   event information found in your notes.
-downloads: 8956
+downloads: 9030
 mobile: true
 number: 305
 stars: 84

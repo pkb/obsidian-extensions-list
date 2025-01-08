@@ -5,10 +5,10 @@ author:
 - '[[authors/nickrallison|Nick Allison]]'
 categories: []
 description: Run Python scripts directly as Obsidian commands.
-downloads: 8436
+downloads: 8710
 mobile: false
 number: 1079
-stars: 61
+stars: 65
 title: Python Scripter
 type: plugin
 updated: '2024-11-20T22:56:37'

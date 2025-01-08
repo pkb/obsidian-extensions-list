@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 一个支持农历的日历
-downloads: 3231
+downloads: 3265
 mobile: false
 number: 1204
 stars: 3

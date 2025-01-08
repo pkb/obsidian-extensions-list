@@ -5,10 +5,10 @@ author:
 - '[[authors/jcollingj|Jake Colling]]'
 categories: []
 description: Accelerate your work with LLMs in canvas and your notes
-downloads: 2997
+downloads: 3127
 mobile: false
 number: 1792
-stars: 122
+stars: 125
 title: Caret
 type: plugin
 updated: '2024-11-19T02:03:39'

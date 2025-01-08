@@ -7,22 +7,22 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize attachment location with variables($filename, $data, etc) like
   typora.
-downloads: 38239
+downloads: 40850
 mobile: true
 number: 341
-stars: 248
+stars: 251
 title: Custom Attachment Location
 type: plugin
-updated: '2024-12-12T04:56:24'
+updated: '2025-01-07T07:40:37'
 url: https://github.com/RainCat1998/obsidian-custom-attachment-location
-version: 4.30.3
+version: 5.0.1
 ---
 
 %% README_START %%
 
 # Obsidian Custom Attachment location
 
-Customize attachment location with variables($filename, $data, etc) like typora.
+Customize attachment location with tokens (${fileName}, ${date:format}, etc) like typora.
 
 ## Features
 
@@ -34,22 +34,15 @@ Customize attachment location with variables($filename, $data, etc) like typora.
 ### Location for New Attachments
 
 - Same to "Files & Links -> Default location for new attachments".
-- `${filename}` representing for current note filename.
-- `${foldername}` representing for current note's folder name.
-- `${folderPath}` representing for full path to current note's folder.
-- `${date:format}` representing for the current date/time using [Moment.js formatting][Moment.js formatting].
 - **Put "./" at the beginning of the path if you want to use relative path.**
+- See available [tokens](#tokens).
 - example: `assets/${filename}`, `./assets/${filename}`, `./assets/${filename}/${date:YYYY}`
 
 ### Pasted File Name
 
-- `${filename}` representing for current note filename.
-- `${foldername}` representing for current note's folder name.
-- `${date:format}` representing for the current date/time using [Moment.js formatting][Moment.js formatting].
-- `${originalCopiedFilename}` representing for original copied to clipboard filename.
-- `${prompt}` representing the value asked from the user prompt.
+- See available [tokens](#tokens).
 - example: `${originalCopiedFilename}-${date:YYYYMMDDHHmmssSSS}`, `${filename}-img-${date:YYYYMMDD}`
-- Obsidian default: `Pasted image YYYYMMDDHHmmss`.
+- Obsidian default: `Pasted image ${date:YYYYMMDDHHmmss}`.
 - **Note**: This setting only changes image filename from clipboard. If your attachment is copied from the explorer, obsidian will just copy the original file to the attachment folder without renaming.
 
 ### Automatically rename attachment folder
@@ -116,6 +109,58 @@ If enabled, empty attachment folders will be preserved, useful for source contro
 ### Delete orphan attachments
 
 If enabled, when the note is deleted, its orphan attachments are deleted as well.
+
+## Tokens
+
+The following tokens can be used in the [Location for New Attachments](#location-for-new-attachments) and [Pasted File Name](#pasted-file-name) settings.
+
+The tokens are case-insensitive. The formats are case-sensitive.
+
+- `${date:format}`: Current date/time using [Moment.js formatting][Moment.js formatting].
+- `${fileCreationDate:format}`: File creation date/time using [Moment.js formatting][Moment.js formatting].
+- `${fileModificationDate:format}`: File modification date/time using [Moment.js formatting][Moment.js formatting].
+- `${fileName}`: Current note filename.
+- `${filePath}`: Full path to current note.
+- `${folderName}`: Current note's folder name.
+- `${folderPath}`: Full path to current note's folder.
+- `${frontmatter:key}`: Frontmatter value of the current note. Nested keys are supported, e.g., `key1.key2.3.key4`.
+- `${originalCopiedFileExtension}`: Extension of the original copied to clipboard or dragged file.
+- `${originalCopiedFileName}`: File name of the original copied to clipboard or dragged file.
+- `${prompt}`: The value asked from the user prompt.
+- `${randomDigit}`: A random digit.
+- `${randomDigitOrLetter}`: A random digit or letter.
+- `${randomLetter}`: A random letter.
+- `${uuid}`: A random UUID.
+
+## Custom tokens
+
+You can define custom tokens in the `Custom tokens` setting.
+
+The custom tokens are defined as a functions, both sync and async are supported.
+
+Example:
+
+```javascript
+exports.myCustomToken1 = (substitutions, app, format) => {
+  return substitutions.fileName + app.appId + format;
+}
+
+exports.myCustomToken2 = async (substitutions, app, format) => {
+  return await Promise.resolve(substitutions.fileName + app.appId + format);
+}
+```
+
+Then you can use the defined `${myCustomToken1}`, `${myCustomToken2:format}` tokens in the [Location for New Attachments](#location-for-new-attachments) and [Pasted File Name](#pasted-file-name) settings.
+
+- `substitutions`: is an object with the following properties:
+  - `fileName`: The filename of the current note.
+  - `filePath`: The full path to the current note.
+  - `folderName`: The name of the folder containing the current note.
+  - `folderPath`: The full path to the folder containing the current note.
+  - `originalCopiedFileExtension`: Extension of the original copied to clipboard or dragged file.
+  - `originalCopiedFileName`: File name of the original copied to clipboard or dragged file.
+- `app`: Obsidian app object.
+- `format`: optional format string.
 
 ## Changelog
 

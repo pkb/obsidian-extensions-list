@@ -5,7 +5,7 @@ author:
 - '[[authors/lanice|Leander Neiß]]'
 categories: []
 description: Thin wrapper around the Rant language Rust crate
-downloads: 4137
+downloads: 4147
 mobile: true
 number: 388
 stars: 13

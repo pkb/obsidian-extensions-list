@@ -7,10 +7,10 @@ categories:
 - '[[categories/Visualization|Visualization]]'
 description: Tracks and visualizes app activity, similar to GitHub's contribution
   chart.
-downloads: 507
+downloads: 667
 mobile: true
 number: 2000
-stars: 3
+stars: 4
 title: Activity Heatmap
 type: plugin
 updated: '2024-12-11T09:22:36'

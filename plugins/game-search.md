@@ -5,15 +5,15 @@ author:
 - '[[authors/CMorooney|Calvin forked from anpigon]]'
 categories: []
 description: Helps you find games and create notes. Optional Steam Library Sync
-downloads: 6533
+downloads: 6730
 mobile: true
 number: 915
 stars: 36
 title: Game Search
 type: plugin
-updated: '2024-11-09T23:47:50'
+updated: '2025-01-02T01:16:55'
 url: https://github.com/CMorooney/obsidian-game-search-plugin
-version: 0.2.13
+version: 0.2.14
 ---
 
 %% README_START %%
@@ -39,7 +39,8 @@ Use to query game using a game title (uses RAWG Game API to get the game informa
 ## How to Install
 
 Click the link to install the Game Search plugin: [Install Link](https://github.com/CMorooney/obsidian-game-search-plugin)
-Or, search 'Game Search' in the Obsidian Community plugin directory and install it from there.
+Or, search 'Game Search' in the Obsidian Community plugin directory
+and install it from there.
 
 ## Basic Usage
 
@@ -57,14 +58,20 @@ Or, search 'Game Search' in the Obsidian Community plugin directory and install 
 Optionally, you can auto-sync your Steam Library and Wishlist.
 
 1. Acquire an API key from [Steam](https://steamcommunity.com/dev)
-2. Make note of your user SteamId (navigate to your profile on the web and check the URL)
+2. Make note of your user SteamId
+   (navigate to your profile on the web and check the URL)
 3. Enter your Steam API key and Id into the Game Search plugin settings
-4. Ensure your Steam Privacy Settings have your wishlist set to `Public` if you wish to sync wishlist items
-5. (Optional) provide metadata to be injected into wishlisted and/or owned games
-   - For example, I add `status: backlog` to wishlist games and `owned_platform: steam` to owned games
+4. Ensure your Steam Privacy Settings have your wishlist set to `Public`
+   if you wish to sync wishlist items
+5. (Optional) provide metadata to be injected into
+    wishlisted and/or owned games
+   - For example, I add `status: backlog` to wishlist games and
+     `owned_platform: steam` to owned games
 6. Use command `Sync Steam` to begin a sync.
-   - This is not speedy, especially with larger libraries. There is a progress bar to provide some feedback but just...heads up
-7. **NOTE**: Synced Steam games will automatically have a `steamId` metadata property added. Don't remove this.
+   - This is not speedy, especially with larger libraries.
+     There is a progress bar to provide some feedback but just...heads up
+7. **NOTE**: Synced Steam games will automatically have a `steamId`
+   metadata property added. Don't remove this.
 
 ## Templating
 
@@ -73,25 +80,29 @@ so that you can auto-generate content for your game notes.
 
 ### Example Template
 
-The following is an example template. A complete list of template variables provided by the plugin
- can be found under [Template Variable Definitions](#template-variables-definitions). 
- **Note**: Array properties will output as a comma separated string.
+The following is an example template.
 
-```
+Note that including data from lists or
+complex objects may require templater to extract what you want
+(e.g `genres`, `platforms`, `stores`, `publishers`, `developers` in example template)
+
+A complete list of template variables provided by the plugin
+can be found under [Template Variable Definitions](#template-variables-definitions).
+
+```YAML
 ---
-tag: Game 🎮
-genres: {{genres}}
-platforms: {{platforms}}
+tag: Game 🎮 
+id: {{id}}
+genres: <%= {{genres}}.map(g => `${g.name}`) %>
+platforms: <%= {{platforms}}.map(p => `${p.platform.name}`) %>
 release_date: {{released}}
 background_image: {{background_image}}
+metacritic_score: {{metacritic}}
+stores: <%= {{stores}}.map(n => `${n.store.name}`) %>
+publishers: <%= {{publishers}}.map(p => `${p.name}`) %>
+developers: <%= {{developers}}.map(d => `${d.name}`) %>
 ---
-
 ![{{name}}](https://raw.githubusercontent.com/CMorooney/obsidian-game-search-plugin/HEAD/{{background_image}})
-
-Genres: {{genres}}
-Release Date: {{released}}
-Publishers: {{publishers}}
-Developers: {{developers}}
 ```
 
 ## Regenerating File Metadata
@@ -109,14 +120,15 @@ is likely that the body of a game note is used for keepsake/TODO lists/personal 
 while the main portion of the templating will happen in the metadata. I'm open to
 revisiting this if it proves to be a bad idea.
 
-**Note**: `steamId`, `steamPlaytimeForever`, `steamPlaytime2Weeks`, and any user-provided metadata to be injected into
-Steam games (added via settings) will be preserved.
+**Note**: `steamId`, `steamPlaytimeForever`, `steamPlaytime2Weeks`, and any user-provided
+metadata to be injected into Steam games (added via settings) will be preserved.
 
 ## Other Settings
 
 ### New file location
 
-Set the folder location where the new file is created. Otherwise, a new file is created in the Obsidian root folder.
+Set the folder location where the new file is created.
+Otherwise, a new file is created in the Obsidian root folder.
 
 ### New file name
 
@@ -130,9 +142,9 @@ with a game in your Steam library to so that steam metadata gets immediately inj
 
 ### Template variables definitions
 
-The following table lists and describes each variable that can be used in your template. To use a 
-variable in your template, simply write the variable name surrounded by curly braces (e.g., 
-`{{name}}`).
+The following table lists and describes each variable that can be used in your template.
+To use a simple string variable in your template, simply write the variable name
+surrounded by curly braces (e.g, `{{name}}`).
 
 | Name                 | Description                                                   |
 | -------------------- | ------------------------------------------------------------- |

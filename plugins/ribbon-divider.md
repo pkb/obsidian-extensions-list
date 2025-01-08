@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Allows you to add dividers to the ribbon to space out your icons.
-downloads: 4300
+downloads: 4397
 mobile: true
 number: 1343
 stars: 14

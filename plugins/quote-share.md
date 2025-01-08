@@ -6,7 +6,7 @@ author:
 categories: []
 description: With this plugin, you can easily generate beautiful gradient images from
   text and share them on social media.
-downloads: 4382
+downloads: 4397
 mobile: false
 number: 746
 stars: 22

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Randomly exposes you to notes from your vault. Supports habits, to-dos,
   spaced repetition flashcards, iterative reading and more.
-downloads: 984
+downloads: 993
 mobile: true
 number: 1691
 stars: 30

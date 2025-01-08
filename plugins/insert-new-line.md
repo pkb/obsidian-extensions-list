@@ -5,7 +5,7 @@ author:
 - '[[authors/freddyouellette|Freddy Ouellette]]'
 categories: []
 description: Insert a new line above or below the current line.
-downloads: 57
+downloads: 88
 mobile: true
 number: 2066
 stars: 1

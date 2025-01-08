@@ -6,10 +6,10 @@ author:
 categories: []
 description: This plugin returns the current weather from OpenWeather in a configurable
   string format.
-downloads: 11094
+downloads: 11222
 mobile: true
 number: 823
-stars: 49
+stars: 50
 title: OpenWeather
 type: plugin
 updated: '2024-09-10T08:20:10'

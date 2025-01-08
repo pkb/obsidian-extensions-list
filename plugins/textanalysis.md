@@ -8,7 +8,7 @@ description: 'Real-time text analysis on readability, structure, and complexity,
   over 30 tests like Average Syllables per Word, percent of difficult words, Lexical
   Diversity, Flesch Reading Ease Score, Gunning Fog Index, SMOG indes, Rix, Lix, Reading
   level and Reading/Speaking time. Built on top of textstat library. '
-downloads: 3102
+downloads: 3204
 mobile: true
 number: 1307
 stars: 30

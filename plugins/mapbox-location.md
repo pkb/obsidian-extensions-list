@@ -5,10 +5,10 @@ author:
 - '[[authors/aaronczichon|Aaron Czichon]]'
 categories: []
 description: Show a map inside your notes with a specific format.
-downloads: 759
+downloads: 787
 mobile: true
 number: 1625
-stars: 5
+stars: 6
 title: Mapbox Location Image
 type: plugin
 updated: '2024-08-06T20:10:21'

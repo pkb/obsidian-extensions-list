@@ -6,10 +6,10 @@ author:
 categories: []
 description: Qualitative Data Analysis (QDA) for social scientists. An open alternative
   to `MAXQDA` and `atlas.ti`, using Markdown to store data and research codes.
-downloads: 3520
+downloads: 3592
 mobile: true
 number: 1475
-stars: 67
+stars: 68
 title: Quadro
 type: plugin
 updated: '2024-12-12T22:34:20'

@@ -8,7 +8,7 @@ categories:
 description: Unlock powerful tag editing features in Reading Mode. Add, remove, and
   edit tags across your vault, in the active note or a single instance. Use tag summaries
   to roundup and process tagged content like an inbox.
-downloads: 3372
+downloads: 3436
 mobile: true
 number: 1299
 stars: 30

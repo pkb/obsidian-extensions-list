@@ -7,10 +7,10 @@ categories: []
 description: You can predefine system commands that you want to run frequently, and
   assign hotkeys for them. For example open external applications. Automatic execution
   is also supported, and execution via URI links.
-downloads: 48195
+downloads: 48971
 mobile: false
 number: 265
-stars: 373
+stars: 376
 title: Shell commands
 type: plugin
 updated: '2024-11-09T22:35:32'

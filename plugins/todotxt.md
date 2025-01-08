@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage Todo.txt files.
-downloads: 8547
+downloads: 8659
 mobile: true
 number: 953
-stars: 56
+stars: 57
 title: TodoTxt
 type: plugin
 updated: '2024-07-23T21:08:13'

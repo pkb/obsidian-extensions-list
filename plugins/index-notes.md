@@ -5,7 +5,7 @@ author:
 - '[[authors/adanielnoel|Alejandro Daniel Noel]]'
 categories: []
 description: Keep your notes indexed based on their (hierarchical) tags
-downloads: 839
+downloads: 893
 mobile: true
 number: 1777
 stars: 9

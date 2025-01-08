@@ -5,15 +5,15 @@ author:
 - '[[authors/mProjectsCode|Moritz Jung]]'
 categories: []
 description: Run JavaScript from within your notes.
-downloads: 15131
+downloads: 16214
 mobile: true
 number: 1141
-stars: 89
+stars: 95
 title: JS Engine
 type: plugin
-updated: '2024-11-04T21:16:21'
+updated: '2025-01-02T21:24:43'
 url: https://github.com/mProjectsCode/obsidian-js-engine-plugin
-version: 0.1.20
+version: 0.2.1
 ---
 
 %% README_START %%

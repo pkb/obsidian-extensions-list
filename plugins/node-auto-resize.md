@@ -5,10 +5,10 @@ author:
 - '[[authors/quorafind|Boninall]]'
 categories: []
 description: Automatically resize the node when the content changes.
-downloads: 1092
+downloads: 1178
 mobile: true
 number: 1732
-stars: 18
+stars: 20
 title: Node Auto Resize
 type: plugin
 updated: '2024-10-05T06:47:24'

@@ -5,7 +5,7 @@ author:
 - '[[authors/studiowebux|Studio Webux]]'
 categories: []
 description: Include the song you're currently listening to in your note.
-downloads: 4092
+downloads: 4177
 mobile: true
 number: 1262
 stars: 11

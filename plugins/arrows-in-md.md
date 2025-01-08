@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Draw arrows across different parts of your notes, similar to on paper
-downloads: 4083
+downloads: 4210
 mobile: true
 number: 1403
-stars: 59
+stars: 60
 title: Arrows
 type: plugin
 updated: '2023-12-21T22:14:07'

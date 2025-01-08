@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish selected text to omg.lol service.
-downloads: 2018
+downloads: 2024
 mobile: true
 number: 1285
 stars: 10

@@ -5,7 +5,7 @@ author:
 - '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Hide unwanted commands from the command palette.
-downloads: 1182
+downloads: 1201
 mobile: true
 number: 1507
 stars: 9

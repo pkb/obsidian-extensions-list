@@ -5,10 +5,10 @@ author:
 - '[[authors/liamcain|Liam Cain]]'
 categories: []
 description: Sync your Things.app Logbook with daily notes
-downloads: 9344
+downloads: 9397
 mobile: false
 number: 83
-stars: 122
+stars: 121
 title: Things Logbook
 type: plugin
 updated: '2023-10-25T20:20:21'

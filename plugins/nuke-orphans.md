@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Plugin that trashes orphaned files and attachments
-downloads: 9942
+downloads: 10043
 mobile: true
 number: 520
 stars: 45

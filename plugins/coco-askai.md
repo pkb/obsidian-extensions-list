@@ -5,7 +5,7 @@ author:
 - '[[authors/yamfeel|Yukee]]'
 categories: []
 description: Let your questions flow swiftly with CoCo AskAI. (Closed source)
-downloads: 676
+downloads: 703
 mobile: false
 number: 1606
 stars: 8

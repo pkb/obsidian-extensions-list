@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: RPG-like stat tracker.
-downloads: 537
+downloads: 578
 mobile: false
 number: 1739
 stars: 12

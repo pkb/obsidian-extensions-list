@@ -5,10 +5,10 @@ author:
 - '[[authors/Alddar|Ondrej Zavodny]]'
 categories: []
 description: Easily copy the contents of an inline code element with a single click.
-downloads: 6797
+downloads: 6980
 mobile: true
 number: 1057
-stars: 28
+stars: 29
 title: Copy Inline Code
 type: plugin
 updated: '2023-12-02T23:58:45'

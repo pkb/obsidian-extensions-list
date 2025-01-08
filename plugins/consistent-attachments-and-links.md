@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: This plugin ensures the consistency of attachments and links
-downloads: 43559
+downloads: 45763
 mobile: true
 number: 127
-stars: 250
+stars: 252
 title: Consistent Attachments and Links
 type: plugin
-updated: '2024-12-12T04:54:29'
+updated: '2024-12-28T06:39:07'
 url: https://github.com/dy-sh/obsidian-consistent-attachments-and-links
-version: 3.21.15
+version: 3.22.1
 ---
 
 %% README_START %%

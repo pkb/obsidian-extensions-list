@@ -7,10 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Sync Readwise highlights into your notes
-downloads: 8814
+downloads: 8851
 mobile: true
 number: 153
-stars: 110
+stars: 111
 title: Readwise Community
 type: plugin
 updated: '2021-08-27T21:16:19'

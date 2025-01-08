@@ -6,10 +6,10 @@ author:
 categories: []
 description: This is a set of tools to help Obsidian manage extras (such as storing
   links like products and software) that it doesn't currently do.
-downloads: 4404
+downloads: 4438
 mobile: true
 number: 842
-stars: 25
+stars: 26
 title: Brainframe
 type: plugin
 updated: '2023-03-28T20:33:37'

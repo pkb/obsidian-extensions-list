@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Quick share notes to GitHub gist and its image by upload images to Imgur.
-downloads: 80
+downloads: 100
 mobile: true
 number: 2015
 stars: 5

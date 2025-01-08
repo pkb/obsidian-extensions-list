@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import conversations from ChatGPT export files.
-downloads: 568
+downloads: 687
 mobile: false
 number: 1886
-stars: 55
+stars: 57
 title: Nexus AI Chat Importer
 type: plugin
 updated: '2024-12-07T04:29:46'

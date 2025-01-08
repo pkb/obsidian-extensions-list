@@ -5,7 +5,7 @@ author:
 - '[[authors/yo-goto|PADAone]]'
 categories: []
 description: Enable to view your notes as cards.
-downloads: 15929
+downloads: 16076
 mobile: true
 number: 290
 stars: 56

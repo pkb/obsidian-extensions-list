@@ -6,7 +6,7 @@ author:
 categories: []
 description: Keyboard navigation up/down for headings - Quick switcher extensions
   - Copy code block via keyboard shortcut - Configurable code block and callout snippets
-downloads: 5963
+downloads: 6004
 mobile: true
 number: 604
 stars: 27

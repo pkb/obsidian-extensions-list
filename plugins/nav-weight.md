@@ -5,7 +5,7 @@ author:
 - '[[authors/shu307|shu307]]'
 categories: []
 description: Sort your navigation items by Markdown frontmatter.
-downloads: 105
+downloads: 126
 mobile: false
 number: 1981
 stars: 2

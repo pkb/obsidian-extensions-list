@@ -5,7 +5,7 @@ author:
 - '[[authors/Xallt|xallt]]'
 categories: []
 description: This is a plugin for syncing various graph settings to Local Graphs
-downloads: 9618
+downloads: 9793
 mobile: true
 number: 700
 stars: 28

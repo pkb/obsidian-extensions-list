@@ -5,10 +5,10 @@ author:
 - '[[authors/Opisek|Kacper Darowski]]'
 categories: []
 description: Lets you rearrange and hide specific status bar elements.
-downloads: 4039
+downloads: 4156
 mobile: false
 number: 1413
-stars: 21
+stars: 22
 title: Status Bar Organizer
 type: plugin
 updated: '2024-08-20T03:36:10'

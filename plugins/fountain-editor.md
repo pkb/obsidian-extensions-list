@@ -5,7 +5,7 @@ author:
 - '[[authors/chuangcaleb|Chuang Caleb]]'
 categories: []
 description: Fountain (screenplay) syntax highlighting in the editor
-downloads: 5367
+downloads: 5549
 mobile: true
 number: 1235
 stars: 41

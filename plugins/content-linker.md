@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plugin for searching and adding bi-directional links to existing content
   in Obsidian Vault.
-downloads: 3439
+downloads: 3460
 mobile: false
 number: 1148
 stars: 12

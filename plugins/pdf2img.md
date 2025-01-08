@@ -5,7 +5,7 @@ author:
 - '[[authors/rasmusachr|RasmusAChr]]'
 categories: []
 description: Turns a PDF into a series of images.
-downloads: 173
+downloads: 212
 mobile: false
 number: 1970
 stars: 2

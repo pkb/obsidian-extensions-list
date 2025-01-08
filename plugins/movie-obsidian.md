@@ -5,7 +5,7 @@ author:
 - '[[authors/onuraycicek|Onur Ayçiçek]]'
 categories: []
 description: Search for movies and trailers.
-downloads: 7113
+downloads: 7245
 mobile: true
 number: 977
 stars: 11

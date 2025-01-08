@@ -5,10 +5,10 @@ author:
 - '[[authors/Meikul|Michael Harris]]'
 categories: []
 description: Insert video thumbnails into your notes
-downloads: 13927
+downloads: 14219
 mobile: true
 number: 550
-stars: 51
+stars: 52
 title: Thumbnails
 type: plugin
 updated: '2023-07-19T23:29:38'

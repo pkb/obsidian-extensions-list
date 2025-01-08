@@ -6,7 +6,7 @@ author:
 categories: []
 description: Display double colon (i.e. Dataview inline fields) as a single colon
   for more natural reading experience.
-downloads: 5486
+downloads: 5523
 mobile: true
 number: 784
 stars: 17

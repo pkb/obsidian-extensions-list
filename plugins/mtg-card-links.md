@@ -6,7 +6,7 @@ author:
 categories: []
 description: 'Link to Magic: the Gathering cards by enclosing the card name in square
   brackets.'
-downloads: 3331
+downloads: 3357
 mobile: true
 number: 1108
 stars: 7

@@ -5,15 +5,15 @@ author:
 - '[[authors/kdnk|Kodai Nakamura]]'
 categories: []
 description: Display the hierarchy instead of just the file name.
-downloads: 239
+downloads: 346
 mobile: true
 number: 1920
 stars: 1
 title: Hierarchy
 type: plugin
-updated: '2024-09-27T14:45:37'
+updated: '2024-12-25T18:50:24'
 url: https://github.com/kdnk/obsidian-hierarchy
-version: 0.2.24
+version: 0.4.1
 ---
 
 %% README_START %%
@@ -70,9 +70,19 @@ This setup will clean up both aliases and the `pages/` prefix, leaving a simple 
 ref. https://platers.github.io/obsidian-linter/settings/custom-rules/#custom-regex-replacements
 <img width="500px" src="https://github.com/user-attachments/assets/7ee3f1e8-6f78-44b9-bf80-59c134778555" />
 
+## Dev
+
+To bump the version, run `npm version patch` or `npm version minor` or `npm version major`. This will bump the version in `package.json`, create a new git tag, and push the changes to the repository.
+
 ## Contributing
 
 Contributions are welcome! If you have ideas, feature requests, or bug reports, feel free to open an issue or submit a pull request.
+
+## Thanks
+
+Some code around the backlinks are inspired by the [Owner avatar
+better-search-views
+](https://github.com/ivan-lednev/better-search-views).
 
 ## License
 

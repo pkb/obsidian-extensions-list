@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Seamlessly sync markdown notes into PlanetScale tables.
-downloads: 3163
+downloads: 3169
 mobile: true
 number: 933
 stars: 6

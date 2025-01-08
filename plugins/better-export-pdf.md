@@ -7,10 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: Export your notes to PDF, support export preview, add bookmarks outline
   and header/footer.
-downloads: 75996
+downloads: 81070
 mobile: false
 number: 1408
-stars: 380
+stars: 390
 title: Better Export PDF
 type: plugin
 updated: '2024-12-05T08:49:36'

@@ -5,7 +5,7 @@ author:
 - '[[authors/yuanotes|Yuan Chen]]'
 categories: []
 description: Switch input method with fcitx-remote when Vim keymap is enabled.
-downloads: 6422
+downloads: 6451
 mobile: false
 number: 269
 stars: 65

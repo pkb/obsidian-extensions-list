@@ -7,15 +7,15 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Change task status and collect tasks within a document using hotkeys
   and context menus.
-downloads: 28118
+downloads: 28917
 mobile: true
 number: 302
 stars: 213
 title: Task Collector (TC)
 type: plugin
-updated: '2024-10-30T03:10:11'
+updated: '2024-12-19T19:59:25'
 url: https://github.com/ebullient/obsidian-task-collector
-version: 1.1.5
+version: 1.1.6
 ---
 
 %% README_START %%

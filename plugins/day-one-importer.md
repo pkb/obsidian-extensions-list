@@ -7,7 +7,7 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 - '[[categories/Import|Import]]'
 description: Import Day One journals
-downloads: 842
+downloads: 885
 mobile: false
 number: 1627
 stars: 6

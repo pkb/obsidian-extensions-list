@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a command to reset the state of any checklists in a document in
   Obsidian.
-downloads: 5539
+downloads: 5543
 mobile: true
 number: 738
 stars: 14

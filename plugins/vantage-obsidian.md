@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Build advanced search queries in Obsidian.
-downloads: 27424
+downloads: 27522
 mobile: true
 number: 79
-stars: 104
+stars: 105
 title: Vantage - Advanced search builder
 type: plugin
 updated: '2022-10-12T21:55:02'

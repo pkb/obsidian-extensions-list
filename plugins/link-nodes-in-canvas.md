@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plugin for you to add edges between notes in Canvas based on their
   links.
-downloads: 10035
+downloads: 10161
 mobile: true
 number: 752
 stars: 60

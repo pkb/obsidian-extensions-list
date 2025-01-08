@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import your Kindle notes in .csv format to Obsidian.
-downloads: 4269
+downloads: 4299
 mobile: false
 number: 799
 stars: 6

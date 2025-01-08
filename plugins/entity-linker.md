@@ -5,10 +5,10 @@ author:
 - '[[authors/Ankush-Chander|Ankush-Chander]]'
 categories: []
 description: Link research terms to standard entities
-downloads: 280
+downloads: 295
 mobile: true
 number: 1765
-stars: 7
+stars: 6
 title: Entity Linker
 type: plugin
 updated: '2024-07-17T12:19:25'

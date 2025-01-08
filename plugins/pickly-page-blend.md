@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your Obsidian notes in one click
-downloads: 2857
+downloads: 2863
 mobile: true
 number: 1131
 stars: 5

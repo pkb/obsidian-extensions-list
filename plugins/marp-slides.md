@@ -5,10 +5,10 @@ author:
 - '[[authors/samuele-cozzi|Samuele Cozzi]]'
 categories: []
 description: Create markdown-based Marp presentations in Obsidian
-downloads: 18473
+downloads: 18835
 mobile: true
 number: 879
-stars: 90
+stars: 93
 title: Marp Slides
 type: plugin
 updated: '2024-05-09T03:25:42'

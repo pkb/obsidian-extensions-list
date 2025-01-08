@@ -7,10 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: Converts your notes to a book creating a single file containing all the
   notes linked
-downloads: 4028
+downloads: 4061
 mobile: true
 number: 1008
-stars: 25
+stars: 26
 title: Vault 2 Book
 type: plugin
 updated: '2023-06-16T02:45:02'

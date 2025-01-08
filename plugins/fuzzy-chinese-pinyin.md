@@ -5,10 +5,10 @@ author:
 - '[[authors/lazyloong|lazyloong]]'
 categories: []
 description: Provide the function of fuzzy search using Chinese Pinyin.
-downloads: 15953
+downloads: 16447
 mobile: true
 number: 927
-stars: 55
+stars: 57
 title: Fuzzy Chinese Pinyin
 type: plugin
 updated: '2024-12-16T18:26:13'

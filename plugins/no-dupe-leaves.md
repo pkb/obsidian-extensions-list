@@ -5,10 +5,10 @@ author:
 - '[[authors/scambier|Simon Cambier]]'
 categories: []
 description: Don't reopen notes that are already open
-downloads: 10674
+downloads: 10797
 mobile: false
 number: 581
-stars: 61
+stars: 63
 title: No dupe leaves
 type: plugin
 updated: '2024-07-13T16:55:26'

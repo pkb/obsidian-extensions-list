@@ -6,7 +6,7 @@ author:
 categories: []
 description: Provides AI-generated summaries (GPT) of three notes from your Vault
   every day.
-downloads: 292
+downloads: 312
 mobile: false
 number: 1773
 stars: 1

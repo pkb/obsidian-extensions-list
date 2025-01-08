@@ -5,10 +5,10 @@ author:
 - '[[authors/Nigecat|Nigecat]]'
 categories: []
 description: Embed Desmos graphs into your notes
-downloads: 15760
+downloads: 15999
 mobile: true
 number: 468
-stars: 126
+stars: 128
 title: Desmos
 type: plugin
 updated: '2024-06-24T08:34:40'

@@ -5,7 +5,7 @@ author:
 - '[[authors/JinMuGo|JinMu Go]]'
 categories: []
 description: Go to the pages that says 'up' property
-downloads: 1154
+downloads: 1167
 mobile: false
 number: 1438
 stars: 4

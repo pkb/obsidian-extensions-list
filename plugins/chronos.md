@@ -5,15 +5,15 @@ author:
 - '[[authors/clairefro|Claire Froelich]]'
 categories: []
 description: Render interactive timelines in your notes from Markdown
-downloads: 1549
+downloads: 2832
 mobile: true
 number: 2038
-stars: 81
+stars: 91
 title: Chronos Timeline
 type: plugin
-updated: '2024-12-15T02:11:17'
+updated: '2024-12-28T23:08:00'
 url: https://github.com/clairefro/obsidian-plugin-chronos
-version: 1.0.8
+version: 1.1.2
 ---
 
 %% README_START %%
@@ -25,6 +25,15 @@ Render interactive timelines in your Obsidian notes from simple Markdown. Make t
 Powered by the [vis-timeline](https://www.npmjs.com/package/vis-timeline) library.
 
 ![demo](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-main-demo.gif)
+
+## Features
+
+- Portable plain text data
+- Text-to-timeline with AI
+- Note linking
+- Grouping
+- Colors
+- (coming soon!) Render timelines anywhere outside Obsidian
 
 ## Quickstart
 
@@ -75,6 +84,7 @@ After installing the Chronos Timeline plugin, paste the contents of [this cheats
 ## Contents
 
 - [Chronos Timeline: interactive timelines for Obsidian](#chronos-timeline-interactive-timelines-for-obsidian)
+  - [Features](#features)
   - [Quickstart](#quickstart)
     - [Insert blank](#insert-blank)
     - [Insert basic template](#insert-basic-template)
@@ -96,12 +106,20 @@ After installing the Chronos Timeline plugin, paste the contents of [this cheats
   - [Markers `=`](#markers-)
   - [Comments `#`](#comments-)
   - [Flags `>`](#flags-)
-    - [_OrderBy_ flag](#orderby-flag)
+    - [ORDERBY flag](#orderby-flag)
+    - [DEFAULTVIEW flag](#defaultview-flag)
       - [Example](#example)
   - [Modifiers](#modifiers)
     - [Colors `#color`](#colors-color)
     - [Groups `{}`](#groups-)
   - [Advanced example](#advanced-example)
+- [Note linking (beta)](#note-linking-beta)
+- [Dynamic Timelines](#dynamic-timelines)
+  - [Prerequisites](#prerequisites)
+  - [Basic Example](#basic-example)
+  - [Advanced Usage](#advanced-usage)
+  - [Combining Dynamic and Static Events](#combining-dynamic-and-static-events)
+  - [Tips](#tips)
 - [Actions](#actions)
   - [Edit](#edit)
   - [Refit](#refit)
@@ -327,11 +345,11 @@ Chronos will ignore any line that starts with `#`. You can use this to write com
 
 ## Flags `>`
 
-### _OrderBy_ flag
+### ORDERBY flag
 
 By default, Chronos ordering is set by the stacking of the elements in the timeline.
 
-The _OrderBy_ flag can be used to specify an ordering
+The `ORDERBY` flag can be used to specify an ordering
 
 > [!WARNING]  
 > Ordering can make the timeline laggy when there are many items. Use with precaution
@@ -345,44 +363,49 @@ The _OrderBy_ flag can be used to specify an ordering
 - You can stack them by joining them with a pipe `|` to add another sorting level.
 - You can prepend a dash `-` to any of the fields to order in descending order on this field.
 
+### DEFAULTVIEW flag
+
+Use the `> DEFAULTVIEW start|end` flag to specify default start and end dates for your timeline's initial load. You can use YYYY-MM-DD timestamps for the start and end date, with the minimum requirement being YYYY.
+
+```chronos
+> DEFAULTVIEW  -3000|3000
+
+- [2024] AGI
+```
+
+![default view example](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-default-view.png)
+
 #### Example
 
-**Order by colo descending, then start date**
-
-![ex order by style date](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-order-by-style-date.png)
+**Order by start date**
 
 ````markdown
 ```chronos
-> ORDERBY -color | start
+> ORDERBY start
 
-# Middle Ages
-
-- [1066-10-14] #pink { } Battle of Hastings | William the Conqueror becomes king of England
-- [1215-06-15] #blue { } Magna Carta signed | Establishing principles of modern law
-- [1347~1351] #orange { } Black Death | Devastating plague in Europe
-- [1492-10-12] #pink { } Christopher Columbus discovers the Americas | Marking the beginning of European exploration
-
-- [1453-05-29] #blue { } Fall of Constantinople | End of the Byzantine Empire
-- [1095-07-01] #pink { } First Crusade launched | Aimed to recapture Jerusalem
-
-# Early Modern Period
-
-- [1517-10-31] #blue { } Martin Luther's 95 Theses | Beginning of the Protestant Reformation
-- [1607-05-14] #pink { } Jamestown established | First permanent English settlement in the Americas
-- [1642~1649] #orange { } English Civil War | Conflict between Royalists and Parliamentarians
-- [1776-07-04] #blue { } Declaration of Independence | Founding of the United States
-- [1789-07-14] #pink { } Storming of the Bastille | Beginning of the French Revolution
-
-- [1800-01-01] #blue { } Start of 19th Century | Marking modern developments
-
-# Industrial Revolution and 19th Century
-
-- [1760~1840] #orange { } Industrial Revolution | Transforming industry and economy
-- [1804-12-02] #pink { } Napoleon crowns himself Emperor | Marking the height of his power
-- [1861-04-12~1865-05-09] #orange { } American Civil War | Conflict between the Union and Confederacy
-- [1889-03-31] #blue { } Eiffel Tower inaugurated | Symbol of modern engineering
+- [2026~2028] Event D
+- [2024~2028] Event B
+- [2025~2030] #red Event C
+- [2020~2030] #red  Event A
 ```
 ````
+
+![order by start date](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-order-by-start.png)
+
+**Order by color and start**
+
+````markdown
+```chronos
+> ORDERBY color|start
+
+- [2026~2028] Event D
+- [2024~2028] Event B
+- [2025~2030] #red Event C
+- [2020~2030] #red  Event A
+```
+````
+
+![order by color and start date](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-order-by-color-start.png)
 
 ## Modifiers
 
@@ -485,6 +508,135 @@ This example combines **Events**, **Periods**, **Markers**, **Comments**, **Desc
 ````
 
 ![advanced example](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-advanced.png)
+
+# Note linking (beta)
+
+Link to other notes in your vault by adding a wiki link to either the item name or description. Type `[[` then a few characters in your note title for Obsidan to auto-suggest a path to insert. Chronos will link to the **first link** provided in an item.
+
+Works for Event and Point type items. You can add a link to the item name (link path visible), or the description (link path hidden). Items with a link will appear underlined.
+
+**Left-click**: open link in **current** tab
+**Middle-click or Shift + click**: open link in **new** tab
+
+![example: note linking](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-note-linking.gif)
+
+Examples:
+
+````markdown
+```chronos
+- [2021~2022] No link
+- [2023~2024] With link [[path/to/note]]
+- [2022~2024] Link in description | [[path/to/note]]
+* [2022] Link in description | [[path/to/note]]
+```
+````
+
+![example: note linking 2](https://raw.githubusercontent.com/clairefro/obsidian-plugin-chronos/HEAD/docs/ex-note-linking-2.png)
+
+You can link directly to a section heading in a note by adding `#section name` to the path
+
+````markdown
+```chronos
+- [2021~2022] My long note | [[path/to/note#section]]
+```
+````
+
+> Note: Moving or renaming a note SOMETIMES updates links in your Chronos timeline blocks, if the path is used for the link (not an alias, ex: just `note` instead of `path/to/note`). I'm working on updating alias links safely
+
+# Dynamic Timelines
+
+Turn your Obsidian notes into living, breathing timelines that **update automatically** as you work. By combining Chronos with [Dataview](https://blacksmithgu.github.io/obsidian-dataview/), you can create timelines that dynamically reflect your notes, tasks, or any other data in your vault.
+
+## Prerequisites
+
+- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin installed
+- JavaScript queries enabled in Dataview settings
+
+## Basic Example
+
+Create a timeline of birthdays from notes in the directory `Contacts` and also link the notes:
+
+```dataviewjs
+const pages = dv.pages('"Contacts"').where(p => p.birthday); // skip all without birthday
+
+let events = pages.map(p => {
+    const date = new Date(p["birthday"]).toISOString().split('.')[0];
+    const title = p.file.name;
+    return `- [${date}] ${title} | [[${title}]]`;
+}).join("\n");
+
+const chronosBlock = `\`\`\`chronos\n${events}\n\`\`\``;
+dv.paragraph(chronosBlock);
+```
+
+## Advanced Usage
+
+Create a timeline of all contacts' birthdays, with family members highlighted in blue:
+
+```dataviewjs
+// Query all contacts with birthdays
+const contacts = dv.pages('"Contacts"').where(p => p.birthday);
+
+// Generate events with family members in blue
+let events = contacts.map(p => {
+    const date = new Date(p.birthday).toISOString().split('T')[0];
+    const isFamily = p.tags?.includes("family");
+    const color = isFamily ? "#blue" : "";
+    return `- [${date}] ${color} ${p.file.name} | [[${p.file.path}]]`;
+}).join("\n");
+
+// Add some styling
+const chronosBlock = `\`\`\`chronos
+> ORDERBY start
+
+# Birthday Timeline
+${events}
+\`\`\``;
+
+dv.paragraph(chronosBlock);
+```
+
+## Combining Dynamic and Static Events
+
+You can mix dynamically generated events with static timeline entries.
+Here's an example that combines dynamic birthdays with fixed holidays and periods:
+
+```dataviewjs
+// Query all contacts with birthdays
+const contacts = dv.pages('"Contacts"').where(p => p.birthday);
+
+// Generate birthday events
+let birthdayEvents = contacts.map(p => {
+    const date = new Date(p.birthday).toISOString().split('T')[0];
+    const isFamily = p.tags?.includes("family");
+    const color = isFamily ? "#blue" : "";
+    return `- [${date}] ${color} ${p.file.name} | [[${p.file.path}]]`;
+}).join("\n");
+
+// Combine with static events
+const chronosBlock = `\`\`\`chronos
+> ORDERBY start
+
+# Important Dates
+@ [2024-12-20~2025-01-05] #pink Holiday Season
+= [2024-12-25] Christmas Day
+= [2025-01-01] New Year's Day
+
+# Birthdays
+${birthdayEvents}
+\`\`\``;
+
+dv.paragraph(chronosBlock);
+```
+
+## Tips
+
+- Use frontmatter dates for consistent formatting (also for ranges)
+- Style events with dynamic colors and groups using any Dataview query logic
+- Mix with static events and periods
+- Leverage Dataview's full query capabilities to generate timeline events
+
+The **timeline updates automatically** whenever your source notes change!
 
 # Actions
 

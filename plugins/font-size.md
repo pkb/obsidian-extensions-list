@@ -5,7 +5,7 @@ author:
 - '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Adjust font size via commands.
-downloads: 4840
+downloads: 5046
 mobile: true
 number: 1368
 stars: 6

@@ -5,7 +5,7 @@ author:
 - '[[authors/ericaxu|Obsidian]]'
 categories: []
 description: 2023 April Fool's plugin brought to you by Obsidian
-downloads: 5371
+downloads: 5397
 mobile: true
 number: 843
 stars: 55

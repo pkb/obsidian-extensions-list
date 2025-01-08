@@ -8,7 +8,7 @@ categories: []
 description: Local Images plugin finds all links to external images in your notes,
   then downloads and saves images locally, and finally adjusts the image links in
   your notes to point to the saved image files.
-downloads: 34809
+downloads: 35112
 mobile: false
 number: 310
 stars: 337

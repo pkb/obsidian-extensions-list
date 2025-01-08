@@ -6,10 +6,10 @@ author:
 categories: []
 description: Navigate between incoming links (inlinks), outgoing links (outlinks)
   N levels deep. Links from Canvas are also supported.
-downloads: 413
+downloads: 456
 mobile: true
 number: 1933
-stars: 4
+stars: 5
 title: Link Navigation
 type: plugin
 updated: '2024-10-20T02:15:13'

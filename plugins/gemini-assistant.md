@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Your Gemini AI assistant
-downloads: 6518
+downloads: 6766
 mobile: true
 number: 1397
 stars: 48

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Use a GPT-3 based model on your notes and get personalized answers from
   your knowledge base.
-downloads: 5780
+downloads: 5812
 mobile: true
 number: 860
 stars: 43

@@ -5,10 +5,10 @@ author:
 - '[[authors/curtgrimes|Curt Grimes]]'
 categories: []
 description: Add interactive metronomes to your notes.
-downloads: 4272
+downloads: 4286
 mobile: true
 number: 385
-stars: 28
+stars: 29
 title: Metronome
 type: plugin
 updated: '2022-01-22T23:13:10'

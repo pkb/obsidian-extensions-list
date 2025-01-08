@@ -7,10 +7,10 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a link to the current note to a daily note on a future date (or a
   past date, you time traveller).
-downloads: 53685
+downloads: 54677
 mobile: true
 number: 20
-stars: 147
+stars: 148
 title: Review
 type: plugin
 updated: '2024-12-11T00:39:25'

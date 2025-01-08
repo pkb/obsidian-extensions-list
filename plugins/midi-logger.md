@@ -5,7 +5,7 @@ author:
 - '[[authors/maybe-hello-world|@maybehelloworld]]'
 categories: []
 description: Insert parsed musical notes from MIDI input devices.
-downloads: 222
+downloads: 244
 mobile: true
 number: 1711
 stars: 5

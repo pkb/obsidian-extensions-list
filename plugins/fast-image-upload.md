@@ -5,7 +5,7 @@ author:
 - '[[authors/eust-w|Longtao Wu]]'
 categories: []
 description: Uploads clipboard images using goPic
-downloads: 202
+downloads: 214
 mobile: false
 number: 1817
 stars: 26

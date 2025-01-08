@@ -7,13 +7,13 @@ categories:
 - '[[categories/Integration|Integration]]'
 description: View Supernote notes, generate markdown from note and capture screen
   mirror.
-downloads: 2961
+downloads: 3425
 mobile: true
 number: 1567
-stars: 147
+stars: 159
 title: Unofficial Supernote by Ratta Integration
 type: plugin
-updated: '2024-12-19T00:29:16'
+updated: '2024-12-19T07:25:30'
 url: https://github.com/philips/supernote-obsidian-plugin
 version: 2.2.9
 ---

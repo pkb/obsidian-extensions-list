@@ -8,10 +8,10 @@ categories:
 description: Security and feature updates for the remotely-save unofficial plugin
   allowing users to synchronize notes between local device and the cloud service.
   Not backwards compatible.
-downloads: 33071
+downloads: 34048
 mobile: true
 number: 1237
-stars: 215
+stars: 219
 title: Remotely Sync
 type: plugin
 updated: '2024-05-05T03:10:20'

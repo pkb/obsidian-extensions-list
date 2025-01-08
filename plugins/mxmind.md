@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Convert Markdown files to a mind map,mind map editor
-downloads: 6492
+downloads: 7042
 mobile: true
 number: 1490
 stars: 7
 title: Mxmind Mindmap
 type: plugin
-updated: '2024-06-12T09:41:31'
+updated: '2025-01-02T10:40:09'
 url: https://github.com/webceoboy/mxmind-obsidian
-version: 1.0.13
+version: 1.0.14
 ---
 
 %% README_START %%
@@ -26,18 +26,21 @@ Mxmind (https://mxmind.com) a mind map tool.
 
 
 ## Note
-⚠️This Plugin use Mxmind.com remote service.
-⚠️Some features need your create mxmind.com account,eg:save and sync mind map file.
+  - ⚠️This Plugin use Mxmind.com remote service.
+  - ⚠️Some features need your create mxmind.com account,eg:save and sync mind map file.
 
 ## Markdown to mind map
 
 choose markdown file in obsidian,Right click on a markdown file, then choose `Mind map`.
 
-[![J11wdOv.md.png](https://iili.io/J11wdOv.md.png)](https://freeimage.host/i/J11wdOv)
+![screenshot](https://github.com/webceoboy/mxmind-obsidian/blob/main/static/screenshot1.png?raw=true)
 
-[![J11jRKF.md.png](https://iili.io/J11jRKF.md.png)](https://freeimage.host/i/J11jRKF)
+## Mind map Editor
 
-##  Mind map editor
+![screenshot](https://github.com/webceoboy/mxmind-obsidian/blob/main/static/screenshot2.png?raw=true)
+
+##  Useage
+
 choose `Mxmind` in left sidebar.
 
 ## Privacy

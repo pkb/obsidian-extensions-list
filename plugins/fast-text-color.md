@@ -6,10 +6,10 @@ author:
 categories: []
 description: Quickly apply fully integrated text coloring and formatting with a custom
   syntax and a keyboard-centric interface.
-downloads: 9326
+downloads: 10404
 mobile: true
 number: 1748
-stars: 32
+stars: 33
 title: Fast Text Color
 type: plugin
 updated: '2024-10-23T18:47:08'

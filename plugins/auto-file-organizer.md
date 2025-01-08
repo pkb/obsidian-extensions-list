@@ -5,7 +5,7 @@ author:
 - '[[authors/mofukuru|mofukuru]]'
 categories: []
 description: Automatically organizes files into folders based on their extensions.
-downloads: 174
+downloads: 260
 mobile: true
 number: 2043
 stars: 0

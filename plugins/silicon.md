@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Add some intelligence to your notes with Silicon AI
-downloads: 4214
+downloads: 4238
 mobile: true
 number: 946
 stars: 130

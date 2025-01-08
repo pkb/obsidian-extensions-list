@@ -5,10 +5,10 @@ author:
 - '[[authors/lstrzepek|Łukasz Strzępek]]'
 categories: []
 description: This is simple plugin to fetch transcription for Youtube.
-downloads: 18579
+downloads: 19065
 mobile: true
 number: 786
-stars: 108
+stars: 112
 title: YTranscript
 type: plugin
 updated: '2024-09-12T00:41:12'

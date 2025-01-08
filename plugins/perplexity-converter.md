@@ -5,7 +5,7 @@ author:
 - '[[authors/heseber|Henrik Seidel]]'
 categories: []
 description: Fix references in text pasted from Perplexity.
-downloads: 298
+downloads: 426
 mobile: true
 number: 2004
 stars: 3

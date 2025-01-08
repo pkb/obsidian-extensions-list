@@ -7,7 +7,7 @@ categories: []
 description: Garbling text in Obsidian turns all content in the entire app (notes,
   sidebar, etc) into lines so you can take screenshots without exposing sensitive
   data.
-downloads: 6105
+downloads: 6137
 mobile: true
 number: 227
 stars: 32

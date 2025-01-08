@@ -9,7 +9,7 @@ description: 'Attachment folder name binding note name, automatically rename, au
   delete, show/hide.
 
   附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。'
-downloads: 7796
+downloads: 7922
 mobile: false
 number: 1094
 stars: 41

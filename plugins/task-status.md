@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Quickly select and apply custom task status markers
-downloads: 4593
+downloads: 4734
 mobile: true
 number: 1349
 stars: 23

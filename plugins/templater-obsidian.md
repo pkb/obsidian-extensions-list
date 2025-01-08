@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Create and use templates
-downloads: 1935806
+downloads: 1978997
 mobile: true
 number: 24
 stars: 3400

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: The official D2 plugin for Obsidian. D2 is a modern diagram scripting
   language that turns text to diagrams.
-downloads: 11971
+downloads: 12137
 mobile: false
 number: 713
-stars: 232
+stars: 236
 title: D2
 type: plugin
 updated: '2023-12-02T04:52:55'

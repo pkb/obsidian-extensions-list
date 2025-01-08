@@ -5,7 +5,7 @@ author:
 - '[[authors/inhumantsar|inhumantsar]]'
 categories: []
 description: Slurps webpages and saves them as clean, uncluttered Markdown.
-downloads: 9696
+downloads: 10444
 mobile: true
 number: 1569
 stars: 183

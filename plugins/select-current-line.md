@@ -6,7 +6,7 @@ author:
 categories: []
 description: Selects the current line where the cursor is placed. Press 'ESC' button
   to select.
-downloads: 3710
+downloads: 3736
 mobile: true
 number: 875
 stars: 5

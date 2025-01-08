@@ -5,10 +5,10 @@ author:
 - '[[authors/llimllib|Bill Mill]]'
 categories: []
 description: Add a globally unique ID to every markdown document's front matter
-downloads: 4414
+downloads: 4459
 mobile: true
 number: 1003
-stars: 21
+stars: 22
 title: Add an ID to the front matter
 type: plugin
 updated: '2023-06-21T07:06:13'

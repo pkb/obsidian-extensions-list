@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: View your notes in Calendar using any YAML key with date
-downloads: 14302
+downloads: 14571
 mobile: true
 number: 854
 stars: 38

@@ -5,7 +5,7 @@ author:
 - '[[authors/anstosa|Ansel Santosa]]'
 categories: []
 description: Google Docs style formatting hotkeys for Obsidian
-downloads: 6742
+downloads: 6767
 mobile: true
 number: 120
 stars: 19

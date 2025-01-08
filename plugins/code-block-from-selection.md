@@ -5,10 +5,10 @@ author:
 - '[[authors/dy-sh|Dmitry Savosh]]'
 categories: []
 description: Adds code block for the selected text
-downloads: 10443
+downloads: 10491
 mobile: true
 number: 119
-stars: 33
+stars: 34
 title: Code block from selection
 type: plugin
 updated: '2021-08-30T21:41:46'

@@ -5,10 +5,10 @@ author:
 - '[[authors/kamoshi|Maciej Jur]]'
 categories: []
 description: Basic support for Markdoc files
-downloads: 3320
+downloads: 3327
 mobile: true
 number: 919
-stars: 5
+stars: 6
 title: Markdoc
 type: plugin
 updated: '2023-04-28T03:27:48'

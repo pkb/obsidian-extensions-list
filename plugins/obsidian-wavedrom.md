@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: This is very rough and quick integration of WaveDrom into obsidian
-downloads: 4497
+downloads: 4512
 mobile: false
 number: 237
 stars: 10

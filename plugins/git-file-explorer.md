@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add relevant git information to detected git repostitories in the file
   explorer.
-downloads: 2068
+downloads: 2093
 mobile: false
 number: 1351
 stars: 22

@@ -5,7 +5,7 @@ author:
 - '[[authors/zigahertz|zigahertz]]'
 categories: []
 description: Generates a cryptographically strong pseudorandom hash.
-downloads: 397
+downloads: 415
 mobile: true
 number: 1619
 stars: 0

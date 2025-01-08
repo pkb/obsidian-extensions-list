@@ -6,13 +6,13 @@ author:
 - '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Add custom CSS classes to text based on regular expressions.
-downloads: 1252
+downloads: 1440
 mobile: true
 number: 1677
-stars: 19
+stars: 20
 title: Regex Mark
 type: plugin
-updated: '2024-11-16T14:08:43'
+updated: '2024-12-28T00:41:05'
 url: https://github.com/Mara-Li/obsidian-regex-mark
 version: 1.9.3
 ---

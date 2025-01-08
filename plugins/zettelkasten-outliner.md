@@ -5,7 +5,7 @@ author:
 - '[[authors/tylersuzukinelson|Tyler Suzuki Nelson]]'
 categories: []
 description: Provides a list representation for your Zettelkasten.
-downloads: 3053
+downloads: 3097
 mobile: true
 number: 1256
 stars: 3

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Other formats|Other formats]]'
 description: Import EPUB files as Markdown.
-downloads: 14149
+downloads: 14812
 mobile: false
 number: 1261
-stars: 136
+stars: 142
 title: Epub Importer
 type: plugin
 updated: '2024-11-24T13:06:52'

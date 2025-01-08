@@ -7,7 +7,7 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Rename attachments, making their names unique (based on hashing of file
   content)
-downloads: 10555
+downloads: 10653
 mobile: true
 number: 131
 stars: 46

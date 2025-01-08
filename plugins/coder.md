@@ -5,15 +5,15 @@ author:
 - '[[authors/rudimuc|Rudi Häusler]]'
 categories: []
 description: Converts text into other formats (base64, ROT13)
-downloads: 2140
+downloads: 2204
 mobile: true
 number: 1325
 stars: 1
 title: Encoder/Decoder
 type: plugin
-updated: '2024-02-13T14:28:13'
+updated: '2024-12-29T05:35:20'
 url: https://github.com/rudimuc/obsidian-coder
-version: 1.1.0
+version: 1.2.0
 ---
 
 %% README_START %%
@@ -22,10 +22,9 @@ version: 1.1.0
 
 This is a plugin for [Obsidian](https://obsidian.md) to encode / decode texts.
 
-The first version supports only a text to base64 encoding.
-
-The library used for the encoding is [base64-js](https://github.com/beatgammit/base64-js).
-
+Currently supported algorithms are: 
+- Base64
+- ROT13
 
 ## Installation
 ### From within Obsidian
@@ -48,6 +47,7 @@ Following conversions are available
 | Source    | Destination   | Markdown keyword       |
 |-----------|---------------|------------------------|
 | text      | base64        | transform-text-base64  |
+| base64    | text          | transform-base64-text  |
 | text      | ROT13         | transform-text-rot13   |
 | ROT13     | text          | transform-rot13-text   |
 
@@ -68,6 +68,12 @@ dGhpcyBpcyBhIHRleHQgdG8gZW5jb2Rl
 
 ## Version History
 
+### 1.2.0
+- Added Base64 Decoder
+- Updated dependency versions (vulnarabilities)
+- Base64 lib no longer used and removed
+- Refactoring of project structure
+
 ### 1.1.0
 - Added ROT13 conversion
 
@@ -79,14 +85,12 @@ dGhpcyBpcyBhIHRleHQgdG8gZW5jb2Rl
 
 Upcoming changes for this plugin:
 
-- Base64 to text
 - Text to Vigenere
 - Vigenere to text
 - ROT13 to text
 - Text to hex
 - Hex to text
 - Text to ascii art (based on https://www.npmjs.com/package/figlet)
-- 
 
 
 %% README_END %%

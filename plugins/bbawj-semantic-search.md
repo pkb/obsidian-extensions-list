@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Semantic search for files using OpenAI's text embeddings
-downloads: 5083
+downloads: 5120
 mobile: false
 number: 874
 stars: 93

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Save tweets as Markdown files, along with their images, polls, etc.
-downloads: 12325
+downloads: 12370
 mobile: true
 number: 335
-stars: 198
+stars: 201
 title: Tweet to Markdown
 type: plugin
 updated: '2022-12-06T02:31:41'

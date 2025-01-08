@@ -5,10 +5,10 @@ author:
 - '[[authors/linqing24|linqing]]'
 categories: []
 description: Allows you to focus on a specific file or folder
-downloads: 126
+downloads: 172
 mobile: true
 number: 2018
-stars: 0
+stars: 1
 title: Simple Focus
 type: plugin
 updated: '2024-11-19T05:27:34'

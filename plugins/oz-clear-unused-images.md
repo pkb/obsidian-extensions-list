@@ -7,10 +7,10 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Clear the images that you are not using anymore in your markdown notes
   to save space.
-downloads: 88572
+downloads: 90987
 mobile: true
 number: 169
-stars: 204
+stars: 210
 title: Clear Unused Images
 type: plugin
 updated: '2024-08-21T02:53:27'

@@ -5,7 +5,7 @@ author:
 - '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate markdown from dataview query and javascript
-downloads: 2710
+downloads: 2748
 mobile: true
 number: 1270
 stars: 38

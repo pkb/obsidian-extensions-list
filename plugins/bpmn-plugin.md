@@ -7,15 +7,15 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: This plugin enables viewing/editing/simulating BPMNs using bpmn-js.
-downloads: 7450
+downloads: 7738
 mobile: true
 number: 688
 stars: 28
 title: BPMN
 type: plugin
-updated: '2024-11-16T21:09:03'
+updated: '2024-12-24T17:28:43'
 url: https://github.com/joleaf/obsidian-bpmn-plugin
-version: 7.3.0
+version: 7.3.1
 ---
 
 %% README_START %%

@@ -5,10 +5,10 @@ author:
 - '[[authors/juanjoarranz|Juanjo Arranz]]'
 categories: []
 description: Apply custom CSS styles to selected text in your Obsidian Notes.
-downloads: 7826
+downloads: 8021
 mobile: true
 number: 1005
-stars: 21
+stars: 22
 title: Style Text
 type: plugin
 updated: '2023-07-01T22:33:18'

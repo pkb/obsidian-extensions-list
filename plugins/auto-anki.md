@@ -7,7 +7,7 @@ categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 - '[[categories/AI assistance|AI assistance]]'
 description: Using GPT to automate card creation for Spaced Repetiton in Anki
-downloads: 4761
+downloads: 4793
 mobile: false
 number: 955
 stars: 43

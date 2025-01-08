@@ -5,13 +5,13 @@ author:
 - '[[authors/Ratibus11|ratibus11]]'
 categories: []
 description: Display your vault folder structure into your graphs.
-downloads: 4761
+downloads: 5148
 mobile: true
 number: 1449
 stars: 19
 title: Folders to Graph
 type: plugin
-updated: '2024-11-15T04:31:35'
+updated: '2024-12-19T22:17:06'
 url: https://github.com/Ratibus11/folders2graph
 version: 1.1.0
 ---

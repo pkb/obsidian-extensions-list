@@ -5,7 +5,7 @@ author:
 - '[[authors/pahkey|pahkey]]'
 categories: []
 description: Fetch, edit, and upload WikiDocs books.
-downloads: 31
+downloads: 90
 mobile: false
 number: 2073
 stars: 0

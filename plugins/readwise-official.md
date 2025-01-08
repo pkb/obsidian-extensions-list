@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official Readwise <-> Obsidian integration
-downloads: 146934
+downloads: 150559
 mobile: true
 number: 244
-stars: 266
+stars: 268
 title: Readwise Official
 type: plugin
 updated: '2024-09-13T05:23:12'

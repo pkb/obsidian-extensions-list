@@ -5,7 +5,7 @@ author:
 - '[[authors/olillin|Oli]]'
 categories: []
 description: Render mathematical graphs.
-downloads: 9
+downloads: 66
 mobile: true
 number: 2085
 stars: 0

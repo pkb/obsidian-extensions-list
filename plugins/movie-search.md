@@ -5,10 +5,10 @@ author:
 - '[[authors/Gubchik123|Gubchik123]]'
 categories: []
 description: Helps you find movies and create notes.
-downloads: 1746
+downloads: 1785
 mobile: true
 number: 1497
-stars: 7
+stars: 8
 title: Movie Search
 type: plugin
 updated: '2024-03-29T15:20:09'

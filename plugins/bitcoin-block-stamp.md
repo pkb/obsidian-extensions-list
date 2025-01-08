@@ -5,7 +5,7 @@ author:
 - '[[authors/sfr0xyz|sefiro]]'
 categories: []
 description: Stamp your notes with the current Bitcoin block.
-downloads: 401
+downloads: 409
 mobile: true
 number: 1603
 stars: 2

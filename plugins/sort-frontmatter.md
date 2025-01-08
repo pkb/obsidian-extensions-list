@@ -5,7 +5,7 @@ author:
 - '[[authors/mariomui|Kanzi]]'
 categories: []
 description: Sort frontmatter recursively
-downloads: 2328
+downloads: 2347
 mobile: false
 number: 1281
 stars: 6

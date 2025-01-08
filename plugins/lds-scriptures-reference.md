@@ -5,7 +5,7 @@ author:
 - '[[authors/pacokwon|pacokwon]]'
 categories: []
 description: Easily insert references to LDS scriptures
-downloads: 3380
+downloads: 3391
 mobile: false
 number: 1014
 stars: 19

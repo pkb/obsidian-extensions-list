@@ -5,10 +5,10 @@ author:
 - '[[authors/TfTHacker|TfTHacker]]'
 categories: []
 description: Help see how your vault is interconnected with visual indicators.
-downloads: 78795
+downloads: 80706
 mobile: true
 number: 667
-stars: 463
+stars: 468
 title: Strange New Worlds
 type: plugin
 updated: '2024-12-05T12:00:22'

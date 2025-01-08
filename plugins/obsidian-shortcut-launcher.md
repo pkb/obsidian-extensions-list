@@ -6,10 +6,10 @@ author:
 categories: []
 description: Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom
   commands.
-downloads: 13086
+downloads: 13351
 mobile: true
 number: 406
-stars: 199
+stars: 200
 title: Shortcut Launcher
 type: plugin
 updated: '2024-04-04T16:37:50'

@@ -5,7 +5,7 @@ author:
 - '[[authors/iafisher|Ian Fisher]]'
 categories: []
 description: Create quick link shortcuts to Wikipedia and other sites
-downloads: 4461
+downloads: 4489
 mobile: true
 number: 990
 stars: 8

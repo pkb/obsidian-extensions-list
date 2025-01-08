@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Guides you in reframing negative thoughts and keeping record of your
   discoveries
-downloads: 3793
+downloads: 3905
 mobile: false
 number: 1305
-stars: 190
+stars: 192
 title: ChatCBT
 type: plugin
-updated: '2024-03-22T19:17:09'
+updated: '2025-01-05T22:51:16'
 url: https://github.com/clairefro/obsidian-chat-cbt-plugin
-version: 1.1.5
+version: 1.3.0
 ---
 
 %% README_START %%
@@ -29,6 +29,12 @@ An AI-powered journaling assistant for [Obsidian](https://obsidian.md/), inspire
 ## Demo
 
 ChatCBT is a journaling assistant that prods you to reframe negative thoughts and rewire your reactions to distressful situations ([\*disclaimer](https://github.com/clairefro/obsidian-chat-cbt-plugin#disclaimer)).
+
+## Features
+
+- Desktop or Mobile
+- Supports 60+ languages
+- Local or cloud AI models
 
 ### Start chatting in a note
 
@@ -66,10 +72,10 @@ You have two options:
 
 ChatCBT defaults to the following models for each platform mode. You can manually override the model in the ChatCBT settings. See available [OpenAI models](https://platform.openai.com/docs/models) (note that some are more costly than others) and [Ollama models](https://ollama.ai/library).
 
-| Platform                 | Default model   | Cost         | Hosting         | Speed   | Quality   |
-| ------------------------ | --------------- | ------------ | --------------- | ------- | --------- |
-| **OpenAI** (recommended) | `gpt-3.5-turbo` | Paid (cheap) | Cloud           | Fast ⚡ | Excellent |
-| **Ollama**               | `mistral`       | Free         | Local (private) | OK      | Great      |
+| Platform                 | Default model | Cost         | Hosting         | Speed   | Quality   |
+| ------------------------ | ------------- | ------------ | --------------- | ------- | --------- |
+| **OpenAI** (recommended) | `gpt-40-mini` | Paid (cheap) | Cloud           | Fast ⚡ | Excellent |
+| **Ollama**               | `mistral`     | Free         | Local (private) | OK      | Great     |
 
 ### OpenAI setup
 
@@ -137,6 +143,12 @@ You can run the "Chat" and "Summarize" commands from the left ribbon menu or the
 **Command pallete (`cmd` + `p` > search "chat...")**
 
 <img width="777" alt="image" src="https://github.com/clairefro/obsidian-chat-cbt-plugin/assets/9841162/ea32ec43-dd9e-4def-87f2-64ee59b9f849">
+
+## Preferred Language (Beta)
+
+Select the language you prefer ChatCBT to repsond in from the Settings. Raise an issue if you run into any quality concerns, or would like to request a language!
+
+![image](https://github.com/user-attachments/assets/22caa3c0-bb34-4569-bfe0-8f6a66f94d56)
 
 ## Contributing
 

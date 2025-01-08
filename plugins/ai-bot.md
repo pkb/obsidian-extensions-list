@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Polish, summarize, translate, analyze, and interpret code using AI.
-downloads: 183
+downloads: 324
 mobile: true
 number: 2023
-stars: 4
+stars: 9
 title: AI bot
 type: plugin
 updated: '2024-11-16T09:58:59'

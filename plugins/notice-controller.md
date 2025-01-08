@@ -5,7 +5,7 @@ author:
 - '[[authors/juan-miii|Juan Miguel]]'
 categories: []
 description: Manages notifications at startup.
-downloads: 1244
+downloads: 1270
 mobile: true
 number: 1499
 stars: 1

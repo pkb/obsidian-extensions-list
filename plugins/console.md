@@ -5,7 +5,7 @@ author:
 - '[[authors/dellermann|Daniel Ellermann]]'
 categories: []
 description: Renders console commands and their output.
-downloads: 4563
+downloads: 4596
 mobile: true
 number: 788
 stars: 16

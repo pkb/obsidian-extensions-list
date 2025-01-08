@@ -6,15 +6,15 @@ author:
 categories: []
 description: Finds images in the vault that are not linked to any notes. Either lists,
   or deletes them.
-downloads: 3292
+downloads: 4413
 mobile: true
 number: 1932
 stars: 4
 title: Find Orphaned Images
 type: plugin
-updated: '2024-10-19T23:12:15'
+updated: '2025-01-07T05:25:25'
 url: https://github.com/josmarcristello/Obsidian-Find-Orphaned-Images
-version: 1.0.0
+version: 1.1.0
 ---
 
 %% README_START %%

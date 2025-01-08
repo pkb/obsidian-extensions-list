@@ -7,15 +7,15 @@ categories: []
 description: Automatically sets a featured image property in your notes based on the
   first image, YouTube link, or Auto Card Link image found in your document. This
   allows you to create rich note galleries using Folder Notes and Dataview.
-downloads: 1436
+downloads: 2249
 mobile: true
 number: 1996
-stars: 20
+stars: 22
 title: Featured Image
 type: plugin
-updated: '2024-12-16T14:52:03'
+updated: '2024-12-30T21:24:11'
 url: https://github.com/johansan/obsidian-featured-image
-version: 1.1.5
+version: 1.1.11
 ---
 
 %% README_START %%
@@ -130,7 +130,7 @@ SORT file.ctime DESC
 
 ## Settings
 
-Featured Image offers several customizable settings to tailor the plugin to your needs:
+Here are the settings for the Featured Image plugin:
 
 1. **Show Notifications**
    - Default: `false`
@@ -140,27 +140,30 @@ Featured Image offers several customizable settings to tailor the plugin to your
 2. **Excluded Folders**
    - Default: `[]`
    - Description: List of folders to exclude from processing.
-   - Usage: Add folder paths (e.g., `"templates"`, `"archive"`) to prevent the plugin from processing files in these locations.
+   - Usage: Add folder paths (e.g., `templates`, `archive`) to prevent the plugin from processing files in these locations. To add subfolders, use the full path (e.g., `templates/my-subfolder`).
 
 3. **Frontmatter Property**
    - Default: `feature`
    - Description: The name of the frontmatter property used to store the featured image path.
    - Usage: Change this if you want to use a different property name in your frontmatter.
 
-4. **Only Update if Frontmatter Property Exists**
+4. **Media Link Format**
+   - Default: `plain`
+   - Description: Choose how to format the featured image property in frontmatter:
+     - `Plain text`: Stores the path as-is (e.g., `path/to/image.png`)
+     - `Wiki link`: Stores the path as a wiki link (e.g., `[[path/to/image.png]]`)
+     - `Embedded link`: Stores the path as an embedded link (e.g., `![[path/to/image.png]]`)
+   - Usage: Choose the format that best suits your needs and workflow. Plain text is the most portable, while wiki and embedded links integrate better with Obsidian's linking system.
+
+5. **Only Update if Frontmatter Property Exists**
    - Default: `false`
    - Description: When enabled, the plugin will only update notes that already have a featured image property.
    - Usage: Enable this if you want to manually control which notes have featured images.
 
-5. **Keep Empty Property**
+6. **Keep Empty Property**
    - Default: `false`
    - Description: When enabled, the frontmatter property will be kept but set to an empty string if no featured image is found.
    - Usage: Enable this if you want to preserve the frontmatter property even when there's no featured image.
-
-6. **Use Media Links**
-   - Default: `false`
-   - Description: When enabled, the plugin will store the featured image as a media link in the frontmatter property (e.g. `![[path/to/image.png]]`).
-   - Usage: Enable this if you want to use the media link format for featured images.
 
 7. **Require Exclamation Mark for YouTube Thumbnails**
    - Default: `true`
@@ -174,7 +177,7 @@ Featured Image offers several customizable settings to tailor the plugin to your
 
 9. **Thumbnail Download Folder**
    - Default: `thumbnails`
-   - Description: The folder where external images, YouTube thumbnails, and Auto Card Link images will be downloaded and stored.
+   - Description: The folder where external images, YouTube thumbnails, and Auto Card Link images will be downloaded and stored. To set a subfolder, use the full path (e.g., `_resources/thumbnails`).
    - Usage: Set this to your preferred location for storing downloaded images. The plugin will automatically create subfolders:
      - `youtube/` for YouTube thumbnails
      - `external/` for external images

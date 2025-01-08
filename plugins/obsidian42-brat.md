@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Easily install a beta version of a plugin for testing.
-downloads: 268355
+downloads: 276112
 mobile: true
 number: 312
-stars: 661
+stars: 670
 title: BRAT
 type: plugin
 updated: '2024-11-29T12:01:19'

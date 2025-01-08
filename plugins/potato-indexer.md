@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allow generation of a content index based on your selection or of the
   whole file.
-downloads: 3296
+downloads: 3316
 mobile: true
 number: 1139
 stars: 7

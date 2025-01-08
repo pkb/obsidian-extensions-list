@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Copy timestamped links to blocks, headings and notes.
-downloads: 2514
+downloads: 2542
 mobile: true
 number: 1252
-stars: 2
+stars: 3
 title: Timestamp Link
 type: plugin
 updated: '2023-11-08T18:50:56'

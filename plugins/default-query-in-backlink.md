@@ -5,7 +5,7 @@ author:
 - '[[authors/Benature|Benature]]'
 categories: []
 description: Automatically input default query in search input of backlinks in document.
-downloads: 1610
+downloads: 1650
 mobile: true
 number: 1523
 stars: 6

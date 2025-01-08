@@ -5,10 +5,10 @@ author:
 - '[[authors/aoout|aoout]]'
 categories: []
 description: Get the rss articles as mdfiles.
-downloads: 1686
+downloads: 1725
 mobile: true
 number: 1378
-stars: 28
+stars: 31
 title: Rss Copyist
 type: plugin
 updated: '2024-02-23T21:09:57'

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Sync your Kindle book highlights using your Amazon login or uploading
   your My Clippings file
-downloads: 103525
+downloads: 105012
 mobile: false
 number: 161
-stars: 976
+stars: 995
 title: Kindle Highlights
 type: plugin
 updated: '2023-04-03T05:21:08'

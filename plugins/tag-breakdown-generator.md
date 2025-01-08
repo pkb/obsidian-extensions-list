@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Breakdown nested tags into multiple parent tags
-downloads: 2536
+downloads: 2544
 mobile: false
 number: 1201
-stars: 8
+stars: 9
 title: Tag Breakdown Generator
 type: plugin
 updated: '2023-11-21T09:57:41'

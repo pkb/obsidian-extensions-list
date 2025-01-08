@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin enables you to increase/decrease the size of an image by
   scrolling
-downloads: 90179
+downloads: 91941
 mobile: false
 number: 355
 stars: 93

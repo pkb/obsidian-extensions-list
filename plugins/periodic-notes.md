@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Create/manage your daily, weekly, and monthly notes
-downloads: 377089
+downloads: 387067
 mobile: true
 number: 93
 stars: -1

@@ -5,10 +5,10 @@ author:
 - '[[authors/AlexBieg|Alex Bieg]]'
 categories: []
 description: A command palette that does all of the things you want it to do.
-downloads: 30619
+downloads: 30961
 mobile: true
 number: 415
-stars: 166
+stars: 168
 title: Better Command Palette
 type: plugin
 updated: '2023-09-27T01:54:48'

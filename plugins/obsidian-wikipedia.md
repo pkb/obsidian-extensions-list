@@ -7,10 +7,10 @@ categories:
 - '[[categories/Content capture|Content capture]]'
 description: Grabs information from Wikipedia for a topic and brings it into Obsidian
   notes
-downloads: 20539
+downloads: 20839
 mobile: true
 number: 318
-stars: 103
+stars: 104
 title: Wikipedia
 type: plugin
 updated: '2021-10-16T19:37:46'

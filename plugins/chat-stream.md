@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Create branching GPT chats using canvas notes.
-downloads: 7140
+downloads: 7203
 mobile: false
 number: 966
 stars: 112

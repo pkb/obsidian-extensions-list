@@ -6,10 +6,10 @@ author:
 categories: []
 description: Release timeline rendered based on notes metadata with a dataview-like
   syntax.
-downloads: 8802
+downloads: 8860
 mobile: true
 number: 516
-stars: 46
+stars: 50
 title: Release Timeline
 type: plugin
 updated: '2024-01-19T01:16:32'

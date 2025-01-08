@@ -5,7 +5,7 @@ author:
 - '[[authors/fyears|fyears]]'
 categories: []
 description: Fetch and insert current weather into the editor of Obsidian.
-downloads: 7531
+downloads: 7586
 mobile: true
 number: 403
 stars: 36

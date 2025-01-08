@@ -5,7 +5,7 @@ author:
 - '[[authors/istfredy|Fredy Taboutsa]]'
 categories: []
 description: Capture node effortlessly with precision screenshot.
-downloads: 1171
+downloads: 1192
 mobile: true
 number: 1513
 stars: 7

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a codeblock language to parse internal links and render them in
   a book style navigation.
-downloads: 135
+downloads: 168
 mobile: true
 number: 1969
 stars: 5

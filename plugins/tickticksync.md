@@ -7,15 +7,15 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
-downloads: 12019
+downloads: 12858
 mobile: true
 number: 1317
-stars: 169
+stars: 182
 title: TickTickSync
 type: plugin
-updated: '2024-12-03T23:14:50'
+updated: '2024-12-29T00:22:15'
 url: https://github.com/thesamim/TickTickSync
-version: 1.0.40
+version: 1.0.41
 ---
 
 %% README_START %%
@@ -127,6 +127,8 @@ Thanks to [Yusuf](https://github.com/akseron) for help debugging timezone issues
 Thanks to [LemurTech](https://github.com/LemurTech) and [zarb1n](https://github.com/zarb1n) for continuous support and help with debugging API moving target!
 
 Thanks to [jee-ee](https://github.com/jee-ee) for pointing out the change in Device ID processing.
+
+Thanks to [coneos](https://github.com/coneos) for pointing out the language disparity issue on mobile login.
 
 ## Disclaimer
 

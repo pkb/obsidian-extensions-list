@@ -5,7 +5,7 @@ author:
 - '[[authors/n810K|n810]]'
 categories: []
 description: Automatically collapse embedded backlink mentions
-downloads: 205
+downloads: 242
 mobile: false
 number: 1911
 stars: 1

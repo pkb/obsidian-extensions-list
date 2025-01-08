@@ -7,10 +7,10 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: A (companion) plugin to facilitate the extraction of text from images
   (OCR) and PDFs.
-downloads: 139315
+downloads: 142067
 mobile: true
 number: 734
-stars: 358
+stars: 364
 title: Text Extractor
 type: plugin
 updated: '2024-05-27T01:34:08'

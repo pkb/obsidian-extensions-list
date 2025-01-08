@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: A focus mode Obsidian plugin.
-downloads: 8021
+downloads: 8145
 mobile: false
 number: 828
 stars: 45

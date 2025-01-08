@@ -5,7 +5,7 @@ author:
 - '[[authors/Synaptic-Labs-AI|Synaptic Labs]]'
 categories: []
 description: Enhances your note-taking with voice transcription and AI capabilities
-downloads: 363
+downloads: 454
 mobile: true
 number: 1993
 stars: 12

@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin adds a data-tag-name attribute to all top-level divs in preview
   mode containing the child's tag name, allowing contextual typography styling.
-downloads: 91832
+downloads: 92662
 mobile: true
 number: 60
 stars: 170

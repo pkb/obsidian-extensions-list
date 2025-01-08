@@ -5,10 +5,10 @@ author:
 - '[[authors/jmilldotdev|Jonathan Miller]]'
 categories: []
 description: Autocompletes tags in the frontmatter tags field
-downloads: 22251
+downloads: 22462
 mobile: true
 number: 411
-stars: 112
+stars: 114
 title: Frontmatter Tag Suggest
 type: plugin
 updated: '2022-04-07T01:32:01'

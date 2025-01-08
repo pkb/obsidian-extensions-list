@@ -7,7 +7,7 @@ author:
 categories: []
 description: Make you notes lighter by uploading all content(images, videos, audio)
   to Cloudinary and insert(copy or drag both) them into your notes.
-downloads: 3608
+downloads: 3625
 mobile: false
 number: 975
 stars: 5

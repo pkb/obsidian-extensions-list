@@ -5,7 +5,7 @@ author:
 - '[[authors/matthewturk|Matthew Turk]]'
 categories: []
 description: Add a context-dependent sidecar panel.
-downloads: 1355
+downloads: 1376
 mobile: true
 number: 1491
 stars: 13

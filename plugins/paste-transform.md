@@ -5,10 +5,10 @@ author:
 - '[[authors/rekby|Timofey Koolin]]'
 categories: []
 description: Handle pasted text and and transform it by regexp rules.
-downloads: 1263
+downloads: 1291
 mobile: true
 number: 1433
-stars: 5
+stars: 6
 title: Paste transform
 type: plugin
 updated: '2024-02-09T15:46:08'

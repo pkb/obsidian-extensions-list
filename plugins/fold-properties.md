@@ -5,10 +5,10 @@ author:
 - '[[authors/itsonlyjames|James Alexandre]]'
 categories: []
 description: Adds fold/unfold properties function to folder context menu
-downloads: 317
+downloads: 438
 mobile: true
 number: 1966
-stars: 3
+stars: 4
 title: Fold Properties
 type: plugin
 updated: '2024-11-04T05:18:56'

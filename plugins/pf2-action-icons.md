@@ -5,7 +5,7 @@ author:
 - '[[authors/thiagocoutinhor|Thiago Coutinho]]'
 categories: []
 description: Displays Pathfinder 2E action icons easily
-downloads: 5727
+downloads: 5885
 mobile: true
 number: 997
 stars: 1

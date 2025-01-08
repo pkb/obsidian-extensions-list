@@ -5,7 +5,7 @@ author:
 - '[[authors/jdbrice|dandandan]]'
 categories: []
 description: Load and manage css snippets
-downloads: 16407
+downloads: 16678
 mobile: false
 number: 32
 stars: 17

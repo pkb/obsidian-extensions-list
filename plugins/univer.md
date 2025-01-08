@@ -7,10 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create, edit, and view spreadsheets and documents in various formats
   like Excel and Word directly within your knowledge base.
-downloads: 9104
+downloads: 9561
 mobile: false
 number: 1553
-stars: 85
+stars: 90
 title: Univer
 type: plugin
 updated: '2024-09-13T18:20:18'

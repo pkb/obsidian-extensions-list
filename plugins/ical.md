@@ -8,10 +8,10 @@ categories:
 description: Scans your vault for tasks. Creates an iCal file and stores it on Gist.
   You can then show this calendar in any iCal compatible client such as Outlook, Google
   Calendar, Apple Calendar, etc.
-downloads: 6330
+downloads: 6515
 mobile: true
 number: 1274
-stars: 62
+stars: 64
 title: iCal
 type: plugin
 updated: '2024-03-01T07:27:46'

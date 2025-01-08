@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A clean, intuitive and editable graph view for Obsidian
-downloads: 202577
+downloads: 205351
 mobile: true
 number: 530
-stars: 711
+stars: 723
 title: ExcaliBrain
 type: plugin
 updated: '2024-03-21T10:53:47'

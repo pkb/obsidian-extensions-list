@@ -6,10 +6,10 @@ author:
 categories: []
 description: Style and customize codeblocks and inline code in both editing mode and
   reading mode.
-downloads: 58845
+downloads: 62439
 mobile: true
 number: 1021
-stars: 299
+stars: 311
 title: Code Styler
 type: plugin
 updated: '2024-02-23T19:32:40'

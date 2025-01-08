@@ -7,10 +7,10 @@ categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 - '[[categories/Canvas|Canvas]]'
 description: A plugin to make your canvas work like a mindmap.
-downloads: 78102
+downloads: 80159
 mobile: true
 number: 774
-stars: 292
+stars: 295
 title: Canvas Mindmap
 type: plugin
 updated: '2024-09-04T08:47:03'

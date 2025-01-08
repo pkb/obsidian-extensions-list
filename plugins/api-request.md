@@ -6,10 +6,10 @@ author:
 categories: []
 description: Fetch data from APIs or other sources. Responses in JSON, MD or HTML
   directly in your notes.
-downloads: 9199
+downloads: 9457
 mobile: true
 number: 956
-stars: 121
+stars: 123
 title: APIRequest
 type: plugin
 updated: '2024-12-15T01:31:44'

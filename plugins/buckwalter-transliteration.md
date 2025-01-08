@@ -5,7 +5,7 @@ author:
 - '[[authors/amrojjeh|Amr Ojjeh]]'
 categories: []
 description: Renders Arabic using Buckwalter's encoding scheme.
-downloads: 676
+downloads: 684
 mobile: true
 number: 1551
 stars: 0

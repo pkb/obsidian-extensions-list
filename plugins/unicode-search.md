@@ -5,10 +5,10 @@ author:
 - '[[authors/BambusControl|BambusControl]]'
 categories: []
 description: Search and insert Unicode characters into your editor
-downloads: 12100
+downloads: 12323
 mobile: true
 number: 801
-stars: 39
+stars: 40
 title: Unicode Search
 type: plugin
 updated: '2024-06-22T18:04:46'

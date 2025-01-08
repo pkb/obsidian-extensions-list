@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync tasks with Todoist from within your notes.
-downloads: 301
+downloads: 382
 mobile: true
 number: 1959
-stars: 19
+stars: 20
 title: Another Simple Todoist Sync
 type: plugin
 updated: '2024-12-09T09:33:51'

@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: A plugin tracks occurrences and numbers in your notes
-downloads: 187430
+downloads: 193491
 mobile: true
 number: 140
 stars: 1400
 title: Tracker
 type: plugin
-updated: '2024-04-29T10:47:23'
+updated: '2025-01-05T12:20:27'
 url: https://github.com/pyrochlore/obsidian-tracker
-version: 1.14.0
+version: 1.15.0
 ---
 
 %% README_START %%
@@ -31,7 +31,16 @@ This is an [Obsidian](https://obsidian.md/) plugin that helps you collect data f
 
 ## What's New
 
+Version 1.15.0
+
+- Fix: Minor spelling error in Examples.md
+- Added new expression functions - First and Last
+- Updated dates in examples to fix plots
+- Respect thresholds in scaled months
+- Update dependencies
+
 Version 1.14.0
+
 - Update dependencies
 - Prevent overlapping external labels in pie chart
 - Enable Stacked Bar Chart

@@ -5,7 +5,7 @@ author:
 - '[[authors/patleeman|Patrick Lee]]'
 categories: []
 description: Opens files in new tabs
-downloads: 18582
+downloads: 19161
 mobile: true
 number: 832
 stars: 98

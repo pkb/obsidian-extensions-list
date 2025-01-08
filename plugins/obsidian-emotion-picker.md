@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plugin for Obsidian.md that lets you choose an emotion from a list
   to insert into a note.
-downloads: 8025
+downloads: 8178
 mobile: true
 number: 383
 stars: 53

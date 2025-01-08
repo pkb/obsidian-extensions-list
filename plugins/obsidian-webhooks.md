@@ -5,10 +5,10 @@ author:
 - '[[authors/trashhalo|Stephen Solka]]'
 categories: []
 description: Plugin that connects your notes to the internet of things through webhooks!
-downloads: 7285
+downloads: 7357
 mobile: true
 number: 334
-stars: 186
+stars: 188
 title: Webhook Plugin
 type: plugin
 updated: '2022-07-13T18:37:02'

@@ -5,7 +5,7 @@ author:
 - '[[authors/hotoo|闲耘]]'
 categories: []
 description: Timeline view from markdown.
-downloads: 2125
+downloads: 2155
 mobile: true
 number: 1382
 stars: 28

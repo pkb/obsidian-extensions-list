@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: A chess game viewer/editor
-downloads: 9784
+downloads: 9888
 mobile: true
 number: 113
-stars: 114
+stars: 116
 title: Chesser
 type: plugin
 updated: '2022-03-06T14:16:08'

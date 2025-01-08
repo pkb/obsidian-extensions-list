@@ -5,7 +5,7 @@ author:
 - '[[authors/nicoletanyt|Nicole Tan YiTong]]'
 categories: []
 description: Generates graphs and vectors.
-downloads: 425
+downloads: 458
 mobile: false
 number: 1778
 stars: 6

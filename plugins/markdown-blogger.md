@@ -7,10 +7,10 @@ categories: []
 description: Allows developers to push markdown notes to their local blog, portfolio,
   or static site. Works with Astro.js, Next.js, and any other framework configured
   to render markdown pages.
-downloads: 3933
+downloads: 3966
 mobile: false
 number: 988
-stars: 98
+stars: 97
 title: Markdown Blogger
 type: plugin
 updated: '2023-11-05T06:31:03'

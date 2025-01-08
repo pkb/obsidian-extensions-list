@@ -5,7 +5,7 @@ author:
 - '[[authors/dyc2424748461|dyc]]'
 categories: []
 description: Display the image of the <img> tag
-downloads: 1532
+downloads: 1568
 mobile: false
 number: 1454
 stars: 7

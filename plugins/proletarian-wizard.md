@@ -7,10 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Track your tasks across all the notes in your workspace. Organize your
   day. Plan your work
-downloads: 362
+downloads: 1194
 mobile: true
 number: 2019
-stars: 10
+stars: 56
 title: Proletarian Wizard Task Manager
 type: plugin
 updated: '2024-11-16T03:10:48'

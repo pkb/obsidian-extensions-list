@@ -5,19 +5,18 @@ author:
 - '[[authors/k4a-l|kasahala]]'
 categories: []
 description: Easily Shift and Change markdown headings.
-downloads: 16174
+downloads: 17352
 mobile: true
 number: 583
-stars: 79
+stars: 80
 title: Heading Shifter
 type: plugin
-updated: '2024-09-18T14:16:54'
+updated: '2024-12-22T17:41:36'
 url: https://github.com/k4a-l/obsidian-heading-shifter
-version: 1.6.1
+version: 1.7.1
 ---
 
 %% README_START %%
-
 
 ![github release](https://img.shields.io/github/v/release/k4a-dev/obsidian-heading-shifter?style=for-the-badge)
 
@@ -108,30 +107,36 @@ Download directory(includes `main.js, manifest.json, styles.css`) from the lates
 
 ## Common Settings
 
-| Setting         | Description                                                               | Value(Default)    |
-| --------------- | ------------------------------------------------------------------------- | ----------------- |
-| Style to remove | If this style is at the beginning of a line, remove it and make it Heading | boolean(All true) |
+| Setting                                                       | Description                                             | Value(Default)    |
+| ------------------------------------------------------------- | ------------------------------------------------------- | ----------------- |
+| Style to remove(default)                                      | If this style is at the <position> of a line, remove it | boolean(All true) |
+| Style to remove(Other arbitrary group of regular expressions) | If this style is at the <position> of a line, remove it | string[]([])      |
 
 ### Detailed Description
+
 #### Style to remove
 
-This is the toggle between removing or retaining the leading `-` or `1.`,`2.`,... when applying Heading in a "single" row.
+This is the toggle between removing or retaining `specific style` when applying Heading in a "single" row.
 
-before
-```
-- line
-```
+##### Beginning
 
-after (`True`)
-```
-## line
-```
+`-` or `1.`,`2.`,`n.` or `user defined string(RegExp)`
 
-after (`False`)
-```
-## - line
-```
+|                    | Before    | After(True) | After(False) |
+| ------------------ | --------- | ----------- | ------------ |
+| `- `(ul)           | `- line`  | `## line`   | `## - line`  |
+| `1. `(ol)          | `1. line` | `## line`   | `## 1. line` |
+| `🤔`(user defined) | `🤔line`  | `## line`   | `## 🤔line`  |
 
+##### Surrounding
+
+`**`, `_` , etc... or `user defined string(RegExp)`
+
+|                    | Before     | After(True) | After(False)  |
+| ------------------ | ---------- | ----------- | ------------- |
+| `**`(bold)         | `**line**` | `## line`   | `## **line**` |
+| `_`(italic)        | `_line_`   | `## line`   | `## _line_`   |
+| `🤔`(user defined) | `🤔line🤔` | `## line`   | `## 🤔line🤔` |
 
 #### Use Case
 
@@ -161,7 +166,7 @@ As the summer festival came to a close...
 
 If you want to make headings deeper or higher than 2, use "shift" or "apply".
 
-## Loadmap
+## LoadMap
 
 Nothing specific at this time.
 

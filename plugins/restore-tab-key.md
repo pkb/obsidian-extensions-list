@@ -6,10 +6,10 @@ author:
 categories: []
 description: 'Restore tab key behaviour: tab key inserts a tab character, the way
   it should be.'
-downloads: 9503
+downloads: 9642
 mobile: true
 number: 793
-stars: 48
+stars: 52
 title: Restore Tab Key
 type: plugin
 updated: '2024-08-17T21:56:36'

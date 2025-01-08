@@ -5,10 +5,10 @@ author:
 - '[[authors/turulix|turulix]]'
 categories: []
 description: This Plugin will automatically generate a TOC for the current Folder.
-downloads: 23609
+downloads: 24226
 mobile: true
 number: 510
-stars: 118
+stars: 119
 title: Folder Index
 type: plugin
 updated: '2024-12-11T20:55:09'

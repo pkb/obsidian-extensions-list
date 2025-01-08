@@ -5,7 +5,7 @@ author:
 - '[[authors/samprintz|samprintz]]'
 categories: []
 description: Augments GitHub issue IDs
-downloads: 3560
+downloads: 3570
 mobile: true
 number: 910
 stars: 11

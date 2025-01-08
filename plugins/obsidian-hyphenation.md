@@ -5,10 +5,10 @@ author:
 - '[[authors/7596ff|Cassandra McCarthy]]'
 categories: []
 description: Enables justified text and hyphenation
-downloads: 6696
+downloads: 6819
 mobile: true
 number: 756
-stars: 15
+stars: 17
 title: Hyphenation
 type: plugin
 updated: '2024-07-25T21:01:31'

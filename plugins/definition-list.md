@@ -5,15 +5,15 @@ author:
 - '[[authors/shammond42|shammond42]]'
 categories: []
 description: Adds definition lists to the markdown parser.
-downloads: 759
+downloads: 922
 mobile: true
 number: 1719
-stars: 9
+stars: 10
 title: Definition List
 type: plugin
-updated: '2024-10-22T05:55:07'
+updated: '2024-12-21T19:20:21'
 url: https://github.com/shammond42/definition-list
-version: 0.2.1
+version: 0.2.2
 ---
 
 %% README_START %%
@@ -26,7 +26,9 @@ It supports both reading view and live preview/source mode.
 
 ## Credit
 
-Special thanks to [@lucible](https://github.com/lucible) who, at this point, has contributed more to this project than I have. Thank you!
+Special thanks to [@lucible](https://github.com/lucible) who, at this point, has contributed more to this project than I have. Thank you! Additionally, thanks go to the following contributors:
+
+- @lfuhr
 
 ## Usage
 
@@ -51,6 +53,15 @@ This is an example term
 : this is the first definition
 
 : this is another definition.
+```
+
+### Strict Line Breaks
+
+If you use strict line breaks, you need to use a '\' at the end of lines as follows.
+
+```
+Definition term \
+: Definition definition
 ```
 
 ### Unsupported Definition List Mark-up

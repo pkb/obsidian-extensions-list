@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post directly to your Hatena Blog.
-downloads: 1170
+downloads: 1176
 mobile: true
 number: 1392
 stars: 5

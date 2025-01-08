@@ -5,7 +5,7 @@ author:
 - '[[authors/cristianvasquez|Pelao]]'
 categories: []
 description: Execute simple scripts/snippets from obsidian. This plugin is experimental
-downloads: 5774
+downloads: 5793
 mobile: true
 number: 62
 stars: 49

@@ -5,7 +5,7 @@ author:
 - '[[authors/Doggy-Footprint|Doggy-Footprint]]'
 categories: []
 description: Quick suggests for linkable notes
-downloads: 132
+downloads: 138
 mobile: true
 number: 1862
 stars: 3

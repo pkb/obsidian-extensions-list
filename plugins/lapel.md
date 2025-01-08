@@ -5,7 +5,7 @@ author:
 - '[[authors/liamcain|Liam Cain]]'
 categories: []
 description: Dress up your editor with decorations that mark each of your headings.
-downloads: 21635
+downloads: 21954
 mobile: true
 number: 467
 stars: 114

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Release the article from your vault to WeChat, Baidu Baijiahao, or another
   article release platform.
-downloads: 613
+downloads: 651
 mobile: false
 number: 1744
-stars: 60
+stars: 63
 title: Wechat Public Platform
 type: plugin
 updated: '2024-09-07T22:35:14'

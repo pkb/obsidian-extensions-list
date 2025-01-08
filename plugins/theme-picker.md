@@ -5,7 +5,7 @@ author:
 - '[[authors/kenset|kenset]]'
 categories: []
 description: Quickly preview installed themes
-downloads: 27412
+downloads: 27813
 mobile: false
 number: 253
 stars: 39

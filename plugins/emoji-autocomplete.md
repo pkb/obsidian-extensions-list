@@ -5,7 +5,7 @@ author:
 - '[[authors/KraXen72|KraXen72]]'
 categories: []
 description: 'Smart suggestions when typing emoji shortcodes & more! :star:'
-downloads: 5902
+downloads: 6076
 mobile: true
 number: 1341
 stars: 17

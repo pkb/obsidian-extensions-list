@@ -9,10 +9,10 @@ categories:
 description: This plugin automatically classify tag from your notes using ChatGPT
   API. It analyze your note (It can be title, frontmatter, content or selected area)
   and automatically insert tag where you set.
-downloads: 10454
+downloads: 10861
 mobile: true
 number: 883
-stars: 92
+stars: 96
 title: Auto Classifier
 type: plugin
 updated: '2024-12-12T19:35:17'

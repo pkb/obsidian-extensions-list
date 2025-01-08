@@ -5,7 +5,7 @@ author:
 - '[[authors/skztr|skztr]]'
 categories: []
 description: adds a Copy button to the top of Headed sections
-downloads: 244
+downloads: 288
 mobile: true
 number: 1947
 stars: 2

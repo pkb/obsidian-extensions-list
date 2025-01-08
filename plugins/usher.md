@@ -5,7 +5,7 @@ author:
 - '[[authors/vrtmrz|vorotamoroz]]'
 categories: []
 description: The overridden config directory manager
-downloads: 48
+downloads: 77
 mobile: true
 number: 2062
 stars: 1

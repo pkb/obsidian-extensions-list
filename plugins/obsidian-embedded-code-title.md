@@ -5,10 +5,10 @@ author:
 - '[[authors/tadashi-aikawa|tadashi-aikawa]]'
 categories: []
 description: This is an Obsidian plugin which can embeds title to code blocks.
-downloads: 13053
+downloads: 13159
 mobile: true
 number: 231
-stars: 39
+stars: 42
 title: Embedded Code Title
 type: plugin
 updated: '2022-10-21T07:21:14'

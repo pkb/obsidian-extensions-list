@@ -6,15 +6,15 @@ author:
 categories: []
 description: Streamline workflows within Obsidian, managing memos and plugins with
   just one command.
-downloads: 11942
+downloads: 12452
 mobile: false
 number: 912
-stars: 88
+stars: 89
 title: Personal Assistant
 type: plugin
-updated: '2024-12-12T14:37:01'
+updated: '2024-12-31T17:45:48'
 url: https://github.com/edonyzpc/personal-assistant
-version: 1.4.5
+version: 1.4.7
 ---
 
 %% README_START %%

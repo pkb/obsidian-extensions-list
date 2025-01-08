@@ -5,10 +5,10 @@ author:
 - '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate image caption
-downloads: 2815
+downloads: 2833
 mobile: true
 number: 1234
-stars: 10
+stars: 11
 title: Markdown Image Caption
 type: plugin
 updated: '2023-11-21T09:46:37'

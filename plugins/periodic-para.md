@@ -7,15 +7,15 @@ categories:
 - '[[categories/Workflows]]'
 description: Life management system(Assist in practicing the PARA method with periodic
   notes and usememos).
-downloads: 26003
+downloads: 27125
 mobile: true
 number: 1031
-stars: 379
+stars: 388
 title: LifeOS
 type: plugin
-updated: '2024-12-06T07:31:10'
+updated: '2024-12-31T06:10:53'
 url: https://github.com/quanru/obsidian-lifeos
-version: 1.20.3
+version: 1.20.6
 ---
 
 %% README_START %%
@@ -46,7 +46,7 @@ version: 1.20.3
 - [💬 Telegram](https://t.me/+OLTasChvEEthMjBl)
 - [🐦 LifeOS for Obsidian](https://twitter.com/quan_ru)
 - [🐦 Twitter](https://twitter.com/quanruzhuoxiu)
-- [📺 Youtub](https://www.youtube.com/@LeYangLin)
+- [📺 Youtube](https://www.youtube.com/@LeYangLin)
 - [🧑‍🔧 Bento](https://bento.me/leyang)
 - [📧 Email](mailto:quanruzhuoxiu@gmail.com)
 

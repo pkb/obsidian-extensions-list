@@ -5,7 +5,7 @@ author:
 - '[[authors/ras0q|ras0q]]'
 categories: []
 description: Display a local graph view to the note header
-downloads: 7214
+downloads: 7568
 mobile: true
 number: 1684
 stars: 51

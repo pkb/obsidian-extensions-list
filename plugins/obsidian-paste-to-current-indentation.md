@@ -5,10 +5,10 @@ author:
 - '[[authors/jglev|Jacob Levernier]]'
 categories: []
 description: Paste content and mark block quotes at any level of indentation.
-downloads: 14892
+downloads: 14985
 mobile: true
 number: 228
-stars: 49
+stars: 50
 title: Paste Mode
 type: plugin
 updated: '2023-04-17T01:00:03'

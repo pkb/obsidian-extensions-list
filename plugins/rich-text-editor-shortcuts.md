@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create and toggle checkboxes, paste links wrapping your current selection,
   and toggle underline without leaving the keyboard.
-downloads: 449
+downloads: 497
 mobile: true
 number: 1821
 stars: 3

@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plugin for Obsidian that enables the toggling vim mode to on and off
   inside of the editor.
-downloads: 4441
+downloads: 4582
 mobile: true
 number: 877
 stars: 36

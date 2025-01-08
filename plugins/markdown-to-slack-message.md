@@ -6,7 +6,7 @@ author:
 categories: []
 description: Converts a markdown note to the Slack message blocks that enable you
   to send to your Slack
-downloads: 3805
+downloads: 3828
 mobile: true
 number: 1033
 stars: 5

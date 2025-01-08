@@ -5,7 +5,7 @@ author:
 - '[[authors/qawatake|qawatake]]'
 categories: []
 description: Command palette without unwanted commands
-downloads: 4582
+downloads: 4609
 mobile: true
 number: 432
 stars: 18

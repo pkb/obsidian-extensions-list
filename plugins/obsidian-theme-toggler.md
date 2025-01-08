@@ -5,10 +5,10 @@ author:
 - '[[authors/larsmagnus|larsmagnus]]'
 categories: []
 description: Toggle the theme in Obsidian's panels.
-downloads: 5205
+downloads: 5256
 mobile: false
 number: 620
-stars: 15
+stars: 16
 title: Theme Toggler
 type: plugin
 updated: '2022-10-15T10:02:16'

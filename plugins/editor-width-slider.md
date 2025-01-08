@@ -6,10 +6,10 @@ author:
 categories: []
 description: Customize Obsidian's editor width with a slider for a tailored editing
   experience.
-downloads: 25706
+downloads: 26736
 mobile: false
 number: 991
-stars: 54
+stars: 57
 title: Editor Width Slider
 type: plugin
 updated: '2023-10-18T15:49:22'

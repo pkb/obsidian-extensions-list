@@ -5,7 +5,7 @@ author:
 - '[[authors/dot-asterisk-nl|DOT-ASTERISK]]'
 categories: []
 description: Lilypond support in Obsidian
-downloads: 3541
+downloads: 3559
 mobile: false
 number: 984
 stars: 7

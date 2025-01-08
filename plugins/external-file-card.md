@@ -5,7 +5,7 @@ author:
 - '[[authors/James-Yu|James-Yu]]'
 categories: []
 description: Display file cards for external files.
-downloads: 273
+downloads: 293
 mobile: true
 number: 1859
 stars: 5

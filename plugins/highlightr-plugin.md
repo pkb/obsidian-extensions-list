@@ -7,10 +7,10 @@ categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: "A minimal and aesthetically pleasing highlighting menu that makes color-coded
   highlighting much easier with a configurable assortment of highlight colors \U0001F3A8."
-downloads: 358418
+downloads: 366780
 mobile: true
 number: 361
-stars: 650
+stars: 659
 title: Highlightr
 type: plugin
 updated: '2022-09-01T00:52:50'

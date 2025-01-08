@@ -6,10 +6,10 @@ author:
 categories: []
 description: Turn your Obsidian notes into text-to-speech audio files with Eleven
   Labs.
-downloads: 4072
+downloads: 4127
 mobile: true
 number: 1175
-stars: 12
+stars: 13
 title: Eleven Labs
 type: plugin
 updated: '2023-12-07T22:55:35'

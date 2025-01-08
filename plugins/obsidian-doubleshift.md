@@ -6,7 +6,7 @@ author:
 categories: []
 description: Open the command palette by pressing Shift (or any other key) twice like
   in IntelliJ and create your own shortcuts
-downloads: 12433
+downloads: 12755
 mobile: true
 number: 482
 stars: 80

@@ -5,7 +5,7 @@ author:
 - '[[authors/julzerinos|Julian Szachowicz]]'
 categories: []
 description: Toggle spellchecking for types of text blocks in the editing view.
-downloads: 1939
+downloads: 2017
 mobile: true
 number: 1525
 stars: 3

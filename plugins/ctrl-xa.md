@@ -6,7 +6,7 @@ author:
 categories: []
 description: Cycle through various items with keyboard shortcuts. Such as days, months,
   log level,... anything you need.
-downloads: 1327
+downloads: 1335
 mobile: true
 number: 1360
 stars: 5

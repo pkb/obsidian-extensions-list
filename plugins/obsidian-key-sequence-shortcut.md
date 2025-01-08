@@ -6,7 +6,7 @@ author:
 categories: []
 description: ' Execute obsidian commands with short key sequences. For example, ''tp''
   for ''Toggle Preview'' and ''tb'' for ''Toggle Sidebar''. Easier to remember.'
-downloads: 4637
+downloads: 4655
 mobile: true
 number: 439
 stars: 44

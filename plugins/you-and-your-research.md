@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Research with the help of A.I.
-downloads: 433
+downloads: 450
 mobile: false
 number: 1726
 stars: 17

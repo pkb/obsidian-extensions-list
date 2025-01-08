@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Provides a button in the ribbon to hide or display completed tasks
-downloads: 38162
+downloads: 39091
 mobile: true
 number: 68
 stars: 32

@@ -5,15 +5,15 @@ author:
 - '[[authors/mossy1022|Evan Moscoso]]'
 categories: []
 description: View your Smart Connections in a visualized format.
-downloads: 8739
+downloads: 9768
 mobile: false
 number: 1707
-stars: 68
+stars: 76
 title: Smart Connections Visualizer
 type: plugin
-updated: '2024-10-23T23:11:55'
+updated: '2025-01-04T20:46:06'
 url: https://github.com/mossy1022/smart-connections-graph-view
-version: 1.0.19
+version: 1.0.21
 ---
 
 %% README_START %%

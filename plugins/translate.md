@@ -5,10 +5,10 @@ author:
 - '[[authors/Fevol|Fevol]]'
 categories: []
 description: Translate text and notes with Google Translate, DeepL, Azure, and more.
-downloads: 31962
+downloads: 32934
 mobile: true
 number: 714
-stars: 105
+stars: 109
 title: Translate
 type: plugin
 updated: '2024-07-02T18:46:05'

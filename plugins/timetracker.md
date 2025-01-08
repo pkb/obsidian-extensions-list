@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Adds a stopwatch whose value can be inserted in the editor per hotkey.
-downloads: 4786
+downloads: 4959
 mobile: true
 number: 1174
-stars: 7
+stars: 8
 title: Timetracker
 type: plugin
-updated: '2024-11-20T00:26:01'
+updated: '2024-12-26T15:55:31'
 url: https://github.com/hedgehog1833/obsidian-timetracker
-version: 1.4.3
+version: 1.5.0
 ---
 
 %% README_START %%
@@ -42,6 +42,16 @@ Adds a line break after the inserted timestamp instead of the default whitespace
 ### Text color
 
 The inserted timestamp's text color can be chosen via color picker. The color is applied via an html span.
+
+### Printed time format
+
+The format for how to print the stopwatch's current value. If left blank the default is to display the value just as it
+is shown in the sidebar. There are three placeholders available: `${hours}`, `${minutes}` and `${seconds}` that are
+simply replaced with the respective value. The trimming parameter still applies to the printed time format. Maximum
+length for the printed time format is 256 characters.
+<br>
+The print format `Time: ${hours}h ${minutes}m ${seconds}s` will result in `Time: 1h 10m 1s` being pasted for a stopwatch 
+value of `01:10:01` with trimming parameter active.
 
 
 %% README_END %%

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Display your obsidian notes in a timeline, based on a given property.
-downloads: 5256
+downloads: 5334
 mobile: false
 number: 1216
-stars: 26
+stars: 27
 title: Timeline View
 type: plugin
 updated: '2024-08-28T20:59:18'

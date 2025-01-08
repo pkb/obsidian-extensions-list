@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create commands that only open one file at the time and that can be used
   with the commander plugin.
-downloads: 5152
+downloads: 5189
 mobile: true
 number: 805
 stars: 18

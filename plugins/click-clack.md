@@ -5,10 +5,10 @@ author:
 - '[[authors/Acylation|Acylation]]'
 categories: []
 description: Simulates typewriter / mechanical keyboard sounds.
-downloads: 3968
+downloads: 4244
 mobile: true
 number: 1573
-stars: 17
+stars: 18
 title: Click Clack
 type: plugin
 updated: '2024-04-04T15:13:54'

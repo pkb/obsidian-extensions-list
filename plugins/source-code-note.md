@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: This plugin can help you organize source code note easily.
-downloads: 3636
+downloads: 3650
 mobile: true
 number: 844
 stars: 15

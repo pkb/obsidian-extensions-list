@@ -7,7 +7,7 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: Calculate the estimated time of completion from the estimated time of
   the task and dynamically create a timetable.
-downloads: 8760
+downloads: 8853
 mobile: true
 number: 887
 stars: 43

@@ -5,7 +5,7 @@ author:
 - '[[authors/TravisLinkey|Travis Linkey]]'
 categories: []
 description: Help knowledge retention by reviewing and filtering notes.
-downloads: 197
+downloads: 214
 mobile: true
 number: 1856
 stars: 0

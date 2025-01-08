@@ -5,7 +5,7 @@ author:
 - '[[authors/SimonTC|Simon T. Clement]]'
 categories: []
 description: Automatically create notes when links are created to them.
-downloads: 11000
+downloads: 11067
 mobile: true
 number: 524
 stars: 59

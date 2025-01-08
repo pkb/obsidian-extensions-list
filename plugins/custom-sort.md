@@ -8,22 +8,22 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Allows for manual and automatic, config-driven reordering and sorting
   of files and folders in File Explorer
-downloads: 85166
+downloads: 89027
 mobile: true
 number: 609
-stars: 307
+stars: 310
 title: Custom File Explorer sorting
 type: plugin
-updated: '2024-09-20T22:56:24'
+updated: '2025-01-06T18:54:10'
 url: https://github.com/SebastianMC/obsidian-custom-sort
-version: 2.1.14
+version: 3.1.0
 ---
 
 %% README_START %%
 
 > | :exclamation:  Breaking changes in Obsidian - always use the newest version of the plugin|
 > |----------------------------------------------|
-> | - Obsidian 1.7.2 - no fixes for Obsidian breaking changes available --> [More details](README.notice.for.Obsidian.1.7.2.md)|
+> | - Obsidian 1.7.2 - update the plugin to 3.1.0 or newer --> [More details](README.notice.for.Obsidian.1.7.2.md)|
 > | - Obsidian 1.6.3 - update the plugin to 2.1.11 or newer --> [More details](README.notice.for.Obsidian.1.6.3.md)| 
 > | - Obsidian 1.6.0 - update the plugin to 2.1.9 or newer --> [More details](README.notice.for.Obsidian.1.6.0.md)| 
 > | - Obsidian 1.5.4 - update the plugin to 2.1.7 or newer --> [More details](README.notice.for.Obsidian.1.5.4.md)|

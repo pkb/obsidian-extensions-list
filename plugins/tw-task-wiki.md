@@ -7,10 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 description: Wrapper and integration around TaskWarrior. Allows you to view and edit
   tasks in your TaskWarrior database as tables.
-downloads: 510
+downloads: 568
 mobile: false
 number: 1667
-stars: 9
+stars: 10
 title: TaskWarrior Task Wiki
 type: plugin
 updated: '2024-12-02T02:29:02'

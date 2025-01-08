@@ -6,10 +6,10 @@ author:
 categories: []
 description: Adds Properties to multiple notes at once.  Either right-click a folder,
   or select multiple notes and right-click the selection.
-downloads: 22443
+downloads: 24358
 mobile: true
 number: 1249
-stars: 120
+stars: 123
 title: Multi Properties
 type: plugin
 updated: '2024-12-10T06:52:50'

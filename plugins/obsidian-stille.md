@@ -5,7 +5,7 @@ author:
 - '[[authors/michaellee|Michael Lee]]'
 categories: []
 description: Focus on your writing, a section at a time.
-downloads: 25559
+downloads: 25850
 mobile: true
 number: 286
 stars: 88

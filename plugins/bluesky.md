@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Post to Bluesky.
-downloads: 193
+downloads: 245
 mobile: true
 number: 2022
 stars: 4

@@ -5,7 +5,7 @@ author:
 - '[[authors/Frieder21|Frieda]]'
 categories: []
 description: Allows you to download all included PDF files
-downloads: 147
+downloads: 206
 mobile: true
 number: 1968
 stars: 1

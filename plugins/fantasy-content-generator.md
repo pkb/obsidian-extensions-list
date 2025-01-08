@@ -7,10 +7,10 @@ categories:
 - '[[categories/Games|Games]]'
 description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
   Needs
-downloads: 25034
+downloads: 25729
 mobile: true
 number: 829
-stars: 39
+stars: 40
 title: Fantasy Content Generator
 type: plugin
 updated: '2024-05-27T19:11:47'

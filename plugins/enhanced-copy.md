@@ -7,7 +7,7 @@ categories: []
 description: Copy your selection and add it some edit to paste in other markdown software.
   Allows to keep markdown in reading view, removing wikilinks in editing, copy from
   locked canvas, and more!
-downloads: 3399
+downloads: 3505
 mobile: true
 number: 1591
 stars: 19

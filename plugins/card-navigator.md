@@ -5,7 +5,7 @@ author:
 - '[[authors/wakeyi-git|wakeyi]]'
 categories: []
 description: Navigate your notes visually with card-based interface
-downloads: 396
+downloads: 455
 mobile: true
 number: 1896
 stars: 13

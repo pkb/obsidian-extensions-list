@@ -5,10 +5,10 @@ author:
 - '[[authors/acidghost|acidghost]]'
 categories: []
 description: Automatically fill progress (as fraction or percentage) of check-lists.
-downloads: 957
+downloads: 1030
 mobile: true
 number: 1712
-stars: 8
+stars: 9
 title: Checklist Progress
 type: plugin
 updated: '2024-06-14T11:51:08'

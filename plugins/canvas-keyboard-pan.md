@@ -5,7 +5,7 @@ author:
 - '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Pan around your canvas using the keyboard
-downloads: 1041
+downloads: 1105
 mobile: false
 number: 1644
 stars: 4

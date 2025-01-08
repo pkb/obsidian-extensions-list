@@ -5,7 +5,7 @@ author:
 - '[[authors/vellikhor|vellikhor]]'
 categories: []
 description: Create large quantities of notes easily at one time.
-downloads: 132
+downloads: 187
 mobile: true
 number: 2045
 stars: 4

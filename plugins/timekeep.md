@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Time tracking
-downloads: 2441
+downloads: 2770
 mobile: true
 number: 1638
-stars: 30
+stars: 32
 title: Timekeep
 type: plugin
-updated: '2024-08-08T15:42:41'
+updated: '2025-01-07T10:21:49'
 url: https://github.com/jacobtread/obsidian-timekeep
-version: 1.5.1
+version: 1.6.1
 ---
 
 %% README_START %%

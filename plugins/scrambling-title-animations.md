@@ -6,7 +6,7 @@ author:
 categories: []
 description: Animates the title of any note you open by scrambling and revealing it
   in several visually appealing ways.
-downloads: 276
+downloads: 305
 mobile: false
 number: 1943
 stars: 4

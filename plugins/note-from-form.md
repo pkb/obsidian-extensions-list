@@ -5,10 +5,10 @@ author:
 - '[[authors/ArhiChief|ArhiChief]]'
 categories: []
 description: Define dynamic input form and use it to create notes
-downloads: 21
+downloads: 72
 mobile: true
 number: 2082
-stars: 0
+stars: 2
 title: Note From Form
 type: plugin
 updated: '2024-11-14T03:02:57'

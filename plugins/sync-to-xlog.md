@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your obsidian file to xlog.app
-downloads: 2384
+downloads: 2392
 mobile: false
 number: 1246
 stars: 83

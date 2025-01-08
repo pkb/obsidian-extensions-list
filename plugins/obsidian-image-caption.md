@@ -5,10 +5,10 @@ author:
 - '[[authors/bicarlsen|Brian Carlsen]]'
 categories: []
 description: Add captions to images.
-downloads: 25604
+downloads: 25728
 mobile: true
 number: 339
-stars: 92
+stars: 93
 title: Image Caption
 type: plugin
 updated: '2022-10-20T20:51:29'

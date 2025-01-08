@@ -7,7 +7,7 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: This plugin allows to force the view mode and editing mode for a note
   by using front matter
-downloads: 45954
+downloads: 46868
 mobile: true
 number: 251
 stars: 163

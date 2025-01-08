@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Move completed to-do items to a seperate completed area.
-downloads: 7705
+downloads: 7751
 mobile: true
 number: 52
 stars: 19

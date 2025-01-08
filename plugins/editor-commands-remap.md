@@ -5,7 +5,7 @@ author:
 - '[[authors/c4ctus5|cactus5]]'
 categories: []
 description: Map hotkeys to editor commands.
-downloads: 4140
+downloads: 4150
 mobile: true
 number: 258
 stars: 10

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: This is a simple pomodoro plugin for Obsidian.
-downloads: 13682
+downloads: 13775
 mobile: true
 number: 184
 stars: 23

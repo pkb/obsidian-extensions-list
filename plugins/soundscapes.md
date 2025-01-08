@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar
   to help with concentration. Also allows you to play your own local music files.
-downloads: 9478
+downloads: 9999
 mobile: false
 number: 1362
 stars: 60

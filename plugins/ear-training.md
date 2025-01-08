@@ -5,7 +5,7 @@ author:
 - '[[authors/shiwer|Poe Zoel]]'
 categories: []
 description: Get ear training exercises inside your vault.
-downloads: 1177
+downloads: 1192
 mobile: false
 number: 1511
 stars: 5

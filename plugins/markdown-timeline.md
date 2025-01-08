@@ -5,7 +5,7 @@ author:
 - '[[authors/recklyss|Jiaheng Zhang]]'
 categories: []
 description: Convert markdown into timeline visualization
-downloads: 805
+downloads: 983
 mobile: true
 number: 2002
 stars: 13

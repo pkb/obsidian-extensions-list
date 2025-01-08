@@ -5,10 +5,10 @@ author:
 - '[[authors/PKM-er|Boninall & Windily-cloud]]'
 categories: []
 description: Surf the Net in Obsidian.
-downloads: 78642
+downloads: 80774
 mobile: false
 number: 720
-stars: 476
+stars: 485
 title: Surfing
 type: plugin
 updated: '2024-11-09T21:40:58'

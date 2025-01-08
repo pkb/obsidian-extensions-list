@@ -8,7 +8,7 @@ categories:
 description: A Prompt Engineering research utility for generative AI models like OpenAI's
   ChatGPT that facilitates archiving and searching conversations and live editing
   a conversation's context/memory.
-downloads: 6722
+downloads: 6825
 mobile: false
 number: 1085
 stars: 111

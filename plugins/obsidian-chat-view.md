@@ -6,10 +6,10 @@ author:
 categories: []
 description: Chat View enables you to create elegant Chat UIs in your Obsidian markdown
   files. It also supports the WebVTT format.
-downloads: 15086
+downloads: 15189
 mobile: true
 number: 481
-stars: 206
+stars: 208
 title: Chat View
 type: plugin
 updated: '2023-02-02T21:54:10'

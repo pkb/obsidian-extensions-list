@@ -5,7 +5,7 @@ author:
 - '[[authors/Eccys|Ecys]]'
 categories: []
 description: Fetches local prayer times and saves them to a file.
-downloads: 20
+downloads: 43
 mobile: true
 number: 2071
 stars: 1

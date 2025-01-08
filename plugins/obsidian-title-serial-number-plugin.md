@@ -5,7 +5,7 @@ author:
 - '[[authors/yalvhe2009|Domenic]]'
 categories: []
 description: This plugin adds serial numbers to your markdown title.
-downloads: 6290
+downloads: 6330
 mobile: true
 number: 366
 stars: 17

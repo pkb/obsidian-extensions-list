@@ -5,7 +5,7 @@ author:
 - '[[authors/XeroAlpha|ProjectXero]]'
 categories: []
 description: Allow two linked markdown views to scroll synchronously.
-downloads: 3577
+downloads: 3605
 mobile: false
 number: 1024
 stars: 4

@@ -8,10 +8,10 @@ categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Inline timelines generated from human-readable time strings, e.g. 'Walk
   dog (30min)' in a ```schedule codeblock.
-downloads: 2074
+downloads: 2125
 mobile: true
 number: 1370
-stars: 15
+stars: 16
 title: Timeline Schedule
 type: plugin
 updated: '2023-12-24T07:59:16'

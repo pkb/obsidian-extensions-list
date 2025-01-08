@@ -5,7 +5,7 @@ author:
 - '[[authors/niffka|Nika Lopusna]]'
 categories: []
 description: Merge notes into a single markdown document based on index Markdown file.
-downloads: 3113
+downloads: 3159
 mobile: false
 number: 1265
 stars: 8

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Track your moods & emotions easily. Visualize tracked history and browse
   the past entries.
-downloads: 13166
+downloads: 13527
 mobile: true
 number: 935
-stars: 90
+stars: 92
 title: Mood Tracker
 type: plugin
 updated: '2024-07-21T20:23:53'

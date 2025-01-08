@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: This is a brAIn for Obsidian. This plugin implements a ChatGPT retrieval
   for your obsidian notes.
-downloads: 4535
+downloads: 4564
 mobile: false
 number: 939
 stars: 12

@@ -5,7 +5,7 @@ author:
 - '[[authors/kpaede|Kornelius Paede]]'
 categories: []
 description: Rendering of music notation files.
-downloads: 181
+downloads: 211
 mobile: true
 number: 1895
 stars: 7

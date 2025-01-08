@@ -7,15 +7,15 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Reminder plugin for Obsidian. This plugin adds feature to manage TODOs
   with reminder.
-downloads: 161552
+downloads: 169809
 mobile: true
 number: 255
-stars: 465
+stars: 476
 title: Reminder
 type: plugin
-updated: '2024-11-26T13:00:56'
+updated: '2024-12-24T19:21:18'
 url: https://github.com/uphy/obsidian-reminder
-version: 1.1.16
+version: 1.1.17
 ---
 
 %% README_START %%

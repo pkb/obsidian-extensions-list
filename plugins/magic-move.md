@@ -6,10 +6,10 @@ author:
 categories: []
 description: Animating code blocks with markdown and code syntax highlighting with
   beautiful themes.
-downloads: 649
+downloads: 698
 mobile: false
 number: 1802
-stars: 7
+stars: 8
 title: Magic Move
 type: plugin
 updated: '2024-07-16T21:19:16'

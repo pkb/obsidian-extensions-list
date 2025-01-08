@@ -6,10 +6,10 @@ author:
 categories: []
 description: Unofficial plugin to fetch your bug reports from HackerOne. (needs dataview
   plugin)
-downloads: 3445
+downloads: 3464
 mobile: true
 number: 958
-stars: 12
+stars: 13
 title: HackerOne
 type: plugin
 updated: '2024-12-17T17:30:27'

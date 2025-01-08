@@ -5,7 +5,7 @@ author:
 - '[[authors/ZackaryW|ZackaryW]]'
 categories: []
 description: Paste your image without attachment files
-downloads: 3644
+downloads: 3788
 mobile: true
 number: 1414
 stars: 26

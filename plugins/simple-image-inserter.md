@@ -7,7 +7,7 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: Add images from the file system into Obsidian notes through a built-in
   file explorer.
-downloads: 1716
+downloads: 1758
 mobile: false
 number: 1443
 stars: 4

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Synch web pages to markdown and integrate with read-it-later apps (Pocket,
   Instapaper)
-downloads: 5969
+downloads: 6008
 mobile: false
 number: 719
 stars: 50

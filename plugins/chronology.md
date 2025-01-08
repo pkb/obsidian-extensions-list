@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Provides a calendar and a timeline of the notes creation and modification
-downloads: 38820
+downloads: 40971
 mobile: true
 number: 617
-stars: 102
+stars: 105
 title: Chronology
 type: plugin
-updated: '2023-10-15T22:44:11'
+updated: '2025-01-01T15:54:21'
 url: https://github.com/Canna71/obsidian-chronology
-version: 1.1.11
+version: 1.1.13
 ---
 
 %% README_START %%

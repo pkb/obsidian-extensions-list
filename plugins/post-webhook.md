@@ -6,30 +6,31 @@ author:
 categories: []
 description: Send notes to Webhook endpoints, for seamless integration with n8n, Make.com,
   and Zapier.
-downloads: 215
+downloads: 457
 mobile: true
 number: 2040
-stars: 8
+stars: 18
 title: Post Webhook
 type: plugin
-updated: '2024-12-18T02:08:09'
+updated: '2024-12-30T19:06:28'
 url: https://github.com/Masterb1234/obsidian-post-webhook
-version: 1.1.1
+version: 1.2.0
 ---
 
 %% README_START %%
 
 # Post Webhook Plugin
 
-Send your Obsidian notes or selected text to any Webhook endpoint with YAML frontmatter support and attachment handling. Perfect for automating your note-taking workflow and integrating with external services.
+Send your Obsidian notes or selected text to any Webhook endpoint with YAML frontmatter support and attachment handling. Perfect for automating your note-taking workflow and integrating with external services such as n8n, Make. com and Zapier.
 
 ## Features
 
 - 📤 Send note content to multiple Webhook endpoints
-- ✂️ Send selected text to Webhook endpoints (not yet available on mobile)
+- ✂️ Send selected text to Webhook endpoints
 - 📋 YAML frontmatter parsing and inclusion in the Webhook payload
-- 📎 Automatic attachment handling
+- 📎 Automatic attachment handling with exclusion support
 - 📥 Response insertion into notes
+- 🔄 Support for adding other notes with context (such as prompts) for dynamic workflows
 
 ## Installation
 
@@ -46,6 +47,7 @@ Send your Obsidian notes or selected text to any Webhook endpoint with YAML fron
 1. Open plugin settings
 2. Add one or more Webhook endpoints
 3. Choose whether to append responses to your notes
+4. Configure attachment and context note options per Webhook
 
 ### Sending Content
 
@@ -55,8 +57,8 @@ Send your Obsidian notes or selected text to any Webhook endpoint with YAML fron
 3. Search for "Send to [Webhook Name]"
 4. Your note's content, frontmatter, and attachments will be sent
 
-#### Selected Text
-1. Select text in your note
+#### Selected Text (not available in preview mode)
+1. Select text in your note 
 2. Open command palette
 3. Choose "Send Selection to [Webhook Name]"
 4. The selected text will be sent and any response will be inserted after the selection
@@ -70,6 +72,11 @@ The plugin automatically parses YAML frontmatter and includes it in the Webhook 
 title: My Note
 tags: [Webhook, automation]
 category: tech
+exclude-attachment: attachment1.mp3  # Exclude a single attachment
+# OR exclude multiple attachments:
+exclude-attachment:
+  - image1.png
+  - document.pdf
 ---
 Your note content here...
 
@@ -105,15 +112,55 @@ The plugin automatically:
 - Converts them to Base64
 - Includes them in the Webhook payload
 - Supports images and other file types
+- Allows excluding specific attachments via YAML frontmatter
+
+For Webhooks where attachments are not necessary or might exceed the endpoint's file size limits, you can enable the "Exclude Attachments" option in the Webhook settings. All attachments will be omitted from requests to this endpoint.
+
+### Context Notes
+
+Context notes enable you to create reusable content blocks that can be seamlessly integrated into your webhook requests. This feature is particularly helpful for leveraging prompt templates stored in your Obsidian vault when interacting with AI models through webhook data.
+
+Example: To use context notes for AI prompting, create a note with the following structure:
+
+```
+---
+post-webhook: true # Required to make this note available as a context block for webhook payloads.
+---
+--user # can be any keyword
+Your user prompt to send to an AI model.
+
+--assistant # can be any keyword
+Tell the model to adopt a specific tone or personality.
+
+--system # can be any keyword
+Set the model's behavior.
+
+```
+
+2. Enable "Include Context Note" for your Webhook
+3. When sending content, you'll be prompted to select a context note
+4. The parameters (separated by --keyword) will be included in the Webhook payload
 
 ### Response Handling
 
 The plugin can automatically insert Webhook responses into your notes:
 
-1. Enable "Attach Response" in webhook settings
-2. When sending a note/selection, any response will be inserted:
-   - For full notes: Appended at the bottom
-   - For selections: Inserted after the selected text
+1. Enable "Attach Response" in Webhook settings
+2. When sending a note/selection, responses are handled based on their type:
+   - Text responses are inserted directly
+   - JSON responses are formatted in code blocks
+   - Binary files (images, PDFs, etc.) are saved and linked appropriately
+
+## Use Cases
+
+### Email Integration
+Send emails directly from your Obsidian notes using n8n workflows. Write your email content in Obsidian, include recipients and subject in the frontmatter, and send it to your email workflow with a single command. [Template here](https://n8n.io/workflows/2591-send-emails-via-gmail-from-obsidian/)
+
+### Smart Airtable Queries
+Query your Airtable bases using natural language. Highlight a question in your note, send it to an n8n workflow that uses GPT to interpret your query, and get formatted Airtable data inserted directly into your note. [Template here](https://n8n.io/workflows/2615-get-airtable-data-via-ai-and-obsidian-notes/)
+
+### Notes to Audio in Podcast Feed
+Transform your Obsidian notes into an audio podcast feed. Select text from your notes, send it to an n8n workflow that converts it to speech, and automatically publish it to a podcast feed compatible with apps such as Podcast Republic or platforms like Apple Podcasts and Spotify. The workflow handles text-to-speech conversion, audio hosting, and RSS feed generation. [Template here](https://n8n.io/workflows/2699-obsidian-notes-read-aloud-using-ai-available-as-a-podcast-feed/))
 
 ## License
 

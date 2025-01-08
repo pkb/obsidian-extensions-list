@@ -5,10 +5,10 @@ author:
 - '[[authors/dragonish|dragonish]]'
 categories: []
 description: Implements automatic marking of abbreviations and acronyms (terminology).
-downloads: 305
+downloads: 342
 mobile: true
 number: 1857
-stars: 10
+stars: 11
 title: Abbreviations and Acronyms
 type: plugin
 updated: '2024-07-29T17:52:12'

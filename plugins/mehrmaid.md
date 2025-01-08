@@ -5,7 +5,7 @@ author:
 - '[[authors/huterguier|huterguier]]'
 categories: []
 description: Enables you to put Markdown inside of Mermaid diagrams.
-downloads: 7964
+downloads: 8619
 mobile: true
 number: 1565
 stars: 26

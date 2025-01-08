@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Creates directories and notes based on the day of the year.
-downloads: 139
+downloads: 161
 mobile: true
 number: 1753
 stars: 1
 title: e-Daiary
 type: plugin
-updated: '2024-06-08T18:27:24'
+updated: '2025-01-03T19:05:45'
 url: https://github.com/wholetomy/obsidian-e-daiary
-version: 1.0.1
+version: 1.0.2
 ---
 
 %% README_START %%
@@ -46,10 +46,14 @@ This plugin was created to make daily entries in a journal based on the day of t
 	1. `npm install`
 6. Start compilation in watch mode
 	1. `npm run dev`
+7. Once finished the coding, use the command below to end the coding:
+	1. `npm run build`
+8. After that, follow the instructions in: [this website](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/How+to+release+a+new+version+of+your+plugin) to update the plugin.
 
 ## Authors
 
   - **Thomas Campanholi** - *coded everything* -
     [wholetomy](https://github.com/wholetomy/)
+
 
 %% README_END %%

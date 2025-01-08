@@ -5,7 +5,7 @@ author:
 - '[[authors/kocheck|Kyle Kochanek]]'
 categories: []
 description: Embed Figma files as inline previews.
-downloads: 450
+downloads: 526
 mobile: true
 number: 1914
 stars: 2

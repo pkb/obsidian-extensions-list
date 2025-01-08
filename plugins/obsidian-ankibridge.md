@@ -5,10 +5,10 @@ author:
 - '[[authors/JeppeKlitgaard|Jeppe Klitgaard]]'
 categories: []
 description: Yet Another Anki Bridge
-downloads: 6544
+downloads: 6570
 mobile: false
 number: 369
-stars: 92
+stars: 91
 title: AnkiBridge
 type: plugin
 updated: '2023-03-30T20:57:30'

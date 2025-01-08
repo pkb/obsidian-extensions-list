@@ -5,10 +5,10 @@ author:
 - '[[authors/kepano|@kepano]]'
 categories: []
 description: Opens URLs based on a permalink or slug in the file properties
-downloads: 2907
+downloads: 2976
 mobile: true
 number: 1195
-stars: 65
+stars: 66
 title: Permalink Opener
 type: plugin
 updated: '2023-10-26T00:22:46'

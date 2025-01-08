@@ -6,7 +6,7 @@ author:
 categories: []
 description: Metadata export on a schedule for integration with third-party apps like
   launchers.
-downloads: 20676
+downloads: 20871
 mobile: false
 number: 303
 stars: 103

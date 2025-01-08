@@ -5,15 +5,15 @@ author:
 - '[[authors/carnetdethese|hurj]]'
 categories: []
 description: Intégration de l'API Légifrance.
-downloads: 248
+downloads: 282
 mobile: true
 number: 1658
 stars: 2
 title: Légifrance Intégration
 type: plugin
-updated: '2024-10-07T23:33:05'
+updated: '2024-12-30T00:14:56'
 url: https://github.com/carnetdethese/obsidian-legifrance-integration
-version: 1.2.1
+version: 1.2.8
 ---
 
 %% README_START %%

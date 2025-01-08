@@ -5,7 +5,7 @@ author:
 - '[[authors/jeel-shah|Jeel Shah]]'
 categories: []
 description: Wrangles your TODOs and puts them at the bottom of the file.
-downloads: 3200
+downloads: 3227
 mobile: true
 number: 1191
 stars: 4

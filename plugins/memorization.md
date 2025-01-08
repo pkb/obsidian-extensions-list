@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Generates study index notes using a spaced repetition algorithm (SM-2).
-downloads: 4117
+downloads: 4148
 mobile: true
 number: 1016
 stars: 10

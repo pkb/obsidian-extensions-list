@@ -6,10 +6,10 @@ author:
 categories: []
 description: Simultaneously generate, update, and maintain a table of contents for
   your notes.
-downloads: 966
+downloads: 1366
 mobile: true
 number: 2032
-stars: 18
+stars: 20
 title: Insta TOC
 type: plugin
 updated: '2024-12-09T01:23:15'

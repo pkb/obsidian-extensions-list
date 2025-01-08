@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Saving your current note as Gist on github
-downloads: 4087
+downloads: 4099
 mobile: true
 number: 418
-stars: 25
+stars: 26
 title: Save as Gist
 type: plugin
 updated: '2022-01-25T09:36:12'

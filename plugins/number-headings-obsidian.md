@@ -5,10 +5,10 @@ author:
 - '[[authors/onlyafly|Kevin Albrecht (onlyafly@gmail.com)]]'
 categories: []
 description: Automatically number or re-number headings in an Obsidian document
-downloads: 50673
+downloads: 51836
 mobile: true
 number: 250
-stars: 120
+stars: 124
 title: Number Headings
 type: plugin
 updated: '2023-10-03T18:47:37'

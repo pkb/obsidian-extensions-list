@@ -5,7 +5,7 @@ author:
 - '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: 'See the favicon for a linked website. '
-downloads: 41222
+downloads: 41929
 mobile: true
 number: 373
 stars: 93

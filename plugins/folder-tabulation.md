@@ -5,10 +5,10 @@ author:
 - '[[authors/SpeedaRJ|SpeedaRJ]]'
 categories: []
 description: Enables navigation between files in a folder via hotkeys and commands.
-downloads: 81
+downloads: 140
 mobile: true
 number: 2024
-stars: 3
+stars: 4
 title: Folder Tabulation
 type: plugin
 updated: '2024-11-14T09:28:35'

@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for picking random questions from prepared question
   list. It allows you answer on different questions each time.
-downloads: 6820
+downloads: 6865
 mobile: true
 number: 275
 stars: 31

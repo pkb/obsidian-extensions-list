@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Enables the rendering of AsciiDoc.
-downloads: 326
+downloads: 340
 mobile: false
 number: 1735
 stars: 7

@@ -6,15 +6,15 @@ author:
 categories: []
 description: Bridge your note-taking and task management workflows by maintaining
   strong contextual connections with Todoist.
-downloads: 299
+downloads: 606
 mobile: true
 number: 2049
-stars: 10
+stars: 12
 title: Todoist Context Bridge
 type: plugin
-updated: '2024-12-07T00:30:18'
+updated: '2024-12-31T18:43:35'
 url: https://github.com/wenlzhang/obsidian-todoist-context-bridge
-version: 0.9.0
+version: 0.10.2
 ---
 
 %% README_START %%
@@ -23,7 +23,7 @@ version: 0.9.0
 
 [![GitHub release (Latest by date)](https://img.shields.io/github/v/release/wenlzhang/obsidian-todoist-context-bridge)](https://github.com/wenlzhang/obsidian-todoist-context-bridge/releases) ![GitHub all releases](https://img.shields.io/github/downloads/wenlzhang/obsidian-todoist-context-bridge/total?color=success)
 
-A powerful [Obsidian](https://obsidian.md/) plugin that bridges your Obsidian notes with Todoist tasks while preserving rich context, helping you highlight important tasks and maintain seamless workflows between the two platforms.
+A powerful [Obsidian](https://obsidian.md/) plugin that bridges your Obsidian notes with Todoist tasks while preserving rich context, helping you highlight important tasks and maintain seamless workflows between the two platforms. Seamlessly integrate with [Dataview](https://github.com/blacksmithgu/obsidian-dataview) and [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) plugins.
 
 ![demo](https://raw.githubusercontent.com/wenlzhang/obsidian-todoist-context-bridge/HEAD//docs/attachment/demo.gif)
 
@@ -31,6 +31,7 @@ A powerful [Obsidian](https://obsidian.md/) plugin that bridges your Obsidian no
 
 Unlike traditional Todoist sync plugins that try to sync everything, Context Bridge helps you:
 
+- 🔌 **Integrate** with [Dataview](https://ptkm.net/obsidian-todoist-context-bridge-dataview-integration) and [Tasks](https://ptkm.net/obsidian-todoist-context-bridge-tasks-integration) plugins
 - ✨ **Highlight** important tasks selectively in Todoist
 - 🔄 **Preserve** rich context with bidirectional links
 - ⏱️ **Maintain** temporal context
@@ -45,6 +46,10 @@ Unlike traditional Todoist sync plugins that try to sync everything, Context Bri
   <img src="https://raw.githubusercontent.com/wenlzhang/obsidian-todoist-context-bridge/HEAD/docs/attachment/thumbnail-demo.png" width="800" alt="Enhance Your Productivity: Integrating Obsidian and Todoist with the PTKM Method" />
 </a>
 
+<a href="https://youtu.be/O1lvrMh3FG4?si=SXD6Msyu0WJUjsvW" target="_blank">
+  <img src="https://raw.githubusercontent.com/wenlzhang/obsidian-todoist-context-bridge/HEAD/docs/attachment/thumbnail-demo-dev.png" width="800" alt="AI Prompt Engineering for Obsidian Plugin Dev (MacWhisper & WindSurf): 2h No Code, Ask Critically!" />
+</a>
+
 ### Articles
 
 To learn more about PTKM and how to use this plugin, check out the following articles:
@@ -54,7 +59,7 @@ To learn more about PTKM and how to use this plugin, check out the following art
 
 ## Why You Need Todoist Context Bridge
 
-[Todoist Context Bridge](https://exp.ptkm.net/obsidian-todoist-context-bridge) was crafted with five [PTKM Core Principles](https://exp.ptkm.net/ptkm-core-principles) that shape its functionality:
+[Todoist Context Bridge](https://ptkm.net/obsidian-todoist-context-bridge) was crafted with five [PTKM Core Principles](https://ptkm.net/ptkm-core-principles) that shape its functionality:
 
 - **Task-Centered Workflow**: Prioritizing efficient task management and natural workflow integration
 - **Context Preservation**: Ensuring no valuable information is lost in the task management process
@@ -79,7 +84,7 @@ Modern knowledge workers face a common dilemma: Obsidian excels at capturing tas
 
 ## Documentation
 
-📚 **[View Full Documentation](https://exp.ptkm.net/obsidian-todoist-context-bridge)**
+📚 **[View Full Documentation](https://ptkm.net/obsidian-todoist-context-bridge)**
 
 Visit the documentation site to learn how to make the most of Todoist Context Bridge in your Obsidian workflow.
 

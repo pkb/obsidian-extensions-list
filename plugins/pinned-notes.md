@@ -5,7 +5,7 @@ author:
 - '[[authors/vasilcoin002|vasilcoin002]]'
 categories: []
 description: Pin frequently-used notes on Ribbon actions
-downloads: 1391
+downloads: 1519
 mobile: false
 number: 1709
 stars: 21

@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plug and play solution that allows you to average and simulate dice
   formulas.
-downloads: 5075
+downloads: 5115
 mobile: true
 number: 535
 stars: 3

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: This is an Obsidian plugin to allow easily sideloading other plugins.
-downloads: 5329
+downloads: 5389
 mobile: true
 number: 505
-stars: 28
+stars: 30
 title: Plugins Galore
 type: plugin
 updated: '2022-04-27T09:46:35'

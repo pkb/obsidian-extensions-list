@@ -5,10 +5,10 @@ author:
 - '[[authors/scottTomaszewski|Scott Tomaszewski (Xentis)]]'
 categories: []
 description: Inline callouts to make text pop.
-downloads: 3645
+downloads: 3805
 mobile: false
 number: 1460
-stars: 20
+stars: 21
 title: Inline Admonitions
 type: plugin
 updated: '2024-10-03T04:15:00'

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Get highlighted mentions and mention suggestions. Find all occurrences
   of a mention
-downloads: 5278
+downloads: 5307
 mobile: false
 number: 596
-stars: 36
+stars: 37
 title: Simple Mention
 type: plugin
 updated: '2023-05-25T01:16:38'

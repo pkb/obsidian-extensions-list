@@ -6,7 +6,7 @@ author:
 categories: []
 description: Dynamically highlight text based on cursor selection or search query
   with full regex, mobile, and live preview support
-downloads: 20308
+downloads: 20496
 mobile: true
 number: 400
 stars: 142

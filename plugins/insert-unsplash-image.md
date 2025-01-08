@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin helps users easily search and insert images to editors from
   Unsplash / Pixabay / Pexels.
-downloads: 12014
+downloads: 12149
 mobile: true
 number: 628
 stars: 36

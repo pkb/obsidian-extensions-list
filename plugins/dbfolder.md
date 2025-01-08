@@ -7,7 +7,7 @@ categories:
 - '[[categories/Data management|Data management]]'
 description: Folder with the capability to store and retrieve data from a folder like
   database
-downloads: 291720
+downloads: 295040
 mobile: true
 number: 532
 stars: 1300

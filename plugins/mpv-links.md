@@ -5,7 +5,7 @@ author:
 - '[[authors/patsh90|patsh90]]'
 categories: []
 description: Add mpv links with timestamps
-downloads: 115
+downloads: 125
 mobile: false
 number: 1780
 stars: 3

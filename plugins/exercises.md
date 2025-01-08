@@ -5,7 +5,7 @@ author:
 - '[[authors/AlexCCavaco|AlexCCavaco]]'
 categories: []
 description: Create Interactive Exercises along side your Obsidian Notes
-downloads: 3793
+downloads: 3821
 mobile: true
 number: 1121
 stars: 15

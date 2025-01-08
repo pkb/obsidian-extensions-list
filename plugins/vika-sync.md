@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync your note to vika
-downloads: 3870
+downloads: 3879
 mobile: true
 number: 656
 stars: 38

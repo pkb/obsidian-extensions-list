@@ -5,10 +5,10 @@ author:
 - '[[authors/hipstersmoothie|Andrew Lisowski]]'
 categories: []
 description: Opinionated formatting for your notes.
-downloads: 15559
+downloads: 15732
 mobile: true
 number: 110
-stars: 89
+stars: 90
 title: Prettier Format
 type: plugin
 updated: '2023-05-11T07:56:44'

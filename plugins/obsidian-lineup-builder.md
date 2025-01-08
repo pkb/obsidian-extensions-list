@@ -5,7 +5,7 @@ author:
 - '[[authors/James-Fallon|James Fallon]]'
 categories: []
 description: Build football lineups in Obsidian.
-downloads: 3453
+downloads: 3459
 mobile: true
 number: 357
 stars: 7

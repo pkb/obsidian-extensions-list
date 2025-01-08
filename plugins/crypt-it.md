@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Generate encrypted version of file(s) using rclone encryption format.
-downloads: 1034
+downloads: 1066
 mobile: true
 number: 1537
 stars: 1

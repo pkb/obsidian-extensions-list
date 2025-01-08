@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Advanced text tools for working with text in your vault
-downloads: 25770
+downloads: 26309
 mobile: true
 number: 296
 stars: 205

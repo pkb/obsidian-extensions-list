@@ -5,15 +5,15 @@ author:
 - '[[authors/akopdev|Akop Kesheshyan]]'
 categories: []
 description: Create a literature notes from a BibTeX entries.
-downloads: 1143
+downloads: 1336
 mobile: true
 number: 1650
-stars: 60
+stars: 65
 title: BibTeX Manager
 type: plugin
-updated: '2024-12-17T19:33:35'
+updated: '2024-12-20T19:45:01'
 url: https://github.com/akopdev/obsidian-bibtex-manager
-version: 0.9.0
+version: 0.9.1
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Use Dataview queries to export a set of notes with assets
-downloads: 4935
+downloads: 4983
 mobile: false
 number: 1020
 stars: 21

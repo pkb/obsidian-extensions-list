@@ -5,15 +5,15 @@ author:
 - '[[authors/tgrosinger|Tony Grosinger]]'
 categories: []
 description: List files by most recently opened
-downloads: 640908
+downloads: 665526
 mobile: true
 number: 7
 stars: 368
 title: Recent Files
 type: plugin
-updated: '2024-12-03T22:54:01'
+updated: '2025-01-03T23:34:53'
 url: https://github.com/tgrosinger/recent-files-obsidian
-version: 1.7.3
+version: 1.7.4
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/File management|File management]]'
 description: Create symlinks to files and folders inside and outside of your vault.
-downloads: 295
+downloads: 327
 mobile: false
 number: 1909
 stars: 5

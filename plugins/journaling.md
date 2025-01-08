@@ -7,15 +7,15 @@ categories: []
 description: View daily notes in a journal-like format, similar to Logseq. It enhances
   note organization and facilitates better reflection by consolidating daily notes
   into a continuous journaling view.
-downloads: 1401
+downloads: 1874
 mobile: true
 number: 1890
-stars: 35
+stars: 37
 title: Journaling
 type: plugin
-updated: '2024-08-26T18:31:30'
+updated: '2024-12-25T00:22:45'
 url: https://github.com/Ordeeper/obsidian-journaling-plugin
-version: 1.0.0
+version: 1.0.5
 ---
 
 %% README_START %%

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render LaTeX and TikZ diagrams in your notes
-downloads: 27726
+downloads: 28331
 mobile: true
 number: 602
-stars: 464
+stars: 471
 title: TikZJax
 type: plugin
 updated: '2024-03-31T20:39:31'

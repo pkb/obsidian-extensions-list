@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync vault to personal GitHub.
-downloads: 9395
+downloads: 10101
 mobile: false
 number: 1419
-stars: 117
+stars: 121
 title: GitHub Sync
 type: plugin
 updated: '2024-09-05T06:24:17'

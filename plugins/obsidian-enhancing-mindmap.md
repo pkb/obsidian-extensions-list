@@ -7,10 +7,10 @@ categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: This is a enhancing mindmap plugin for Obsidian. You can edit mindmap
   on markdown.
-downloads: 173882
+downloads: 175949
 mobile: true
 number: 223
-stars: 602
+stars: 606
 title: Enhancing Mindmap
 type: plugin
 updated: '2023-08-03T12:21:48'

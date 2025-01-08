@@ -5,7 +5,7 @@ author:
 - '[[authors/xhuajin|Huajin]]'
 categories: []
 description: Add file preview contents under file in file explorer.
-downloads: 1728
+downloads: 1832
 mobile: true
 number: 1676
 stars: 17

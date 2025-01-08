@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Google Blogger.
-downloads: 594
+downloads: 617
 mobile: true
 number: 1596
-stars: 5
+stars: 6
 title: Google Blogger
 type: plugin
 updated: '2024-04-26T23:04:35'

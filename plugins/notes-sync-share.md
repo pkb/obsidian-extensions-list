@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Sync and share (publish) your notes in your own private service.
-downloads: 4807
+downloads: 4854
 mobile: true
 number: 1011
-stars: 94
+stars: 97
 title: Notes Sync Share
 type: plugin
 updated: '2023-11-28T21:24:07'

@@ -5,7 +5,7 @@ author:
 - '[[authors/nathonius|Nathonius]]'
 categories: []
 description: Extends collapse/expand all with commands that can be bound to hotkeys.
-downloads: 54794
+downloads: 55148
 mobile: true
 number: 187
 stars: 92

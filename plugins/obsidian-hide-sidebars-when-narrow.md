@@ -6,7 +6,7 @@ author:
 - '[[authors/NomarCub|Michael Hanson]]'
 categories: []
 description: Automatically hides the sidebars when your window is resized to be narrower
-downloads: 14263
+downloads: 14386
 mobile: false
 number: 248
 stars: 26

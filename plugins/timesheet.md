@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Timesheet generator for tasks in daily notes.
-downloads: 469
+downloads: 494
 mobile: true
 number: 1654
 stars: 4

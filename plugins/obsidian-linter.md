@@ -9,15 +9,15 @@ description: Formats and styles your notes. It can be used to format YAML tags, 
   arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown
   contents like list, italics, and bold styles; and more with the use of custom rule
   options as well.
-downloads: 476329
+downloads: 496595
 mobile: true
 number: 249
 stars: 1300
 title: Linter
 type: plugin
-updated: '2024-10-14T21:22:50'
+updated: '2024-12-24T22:12:12'
 url: https://github.com/platers/obsidian-linter
-version: 1.27.1
+version: 1.28.0
 ---
 
 %% README_START %%

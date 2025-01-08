@@ -6,10 +6,10 @@ author:
 categories: []
 description: Dynamically-scoped expanding tree views of your vault's semantic and
   logical architectures.
-downloads: 1561
+downloads: 1598
 mobile: true
 number: 1614
-stars: 21
+stars: 22
 title: Bearings
 type: plugin
 updated: '2024-10-03T04:20:45'

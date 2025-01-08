@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: Dead simple ASCII charts
-downloads: 957
+downloads: 1005
 mobile: true
 number: 1634
 stars: 36

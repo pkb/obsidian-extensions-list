@@ -5,10 +5,10 @@ author:
 - '[[authors/coddingtonbear|Adam Coddington <me@adamcoddington.net>]]'
 categories: []
 description: Render CSV data as a table within your notes.
-downloads: 21236
+downloads: 21513
 mobile: true
 number: 207
-stars: 122
+stars: 125
 title: CSV Table
 type: plugin
 updated: '2021-10-13T11:38:53'

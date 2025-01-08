@@ -6,10 +6,10 @@ author:
 categories: []
 description: An Obsidian plugin for advanced graph visualization and querying using
   Neo4j.
-downloads: 9438
+downloads: 9515
 mobile: false
 number: 61
-stars: 85
+stars: 88
 title: Neo4j Graph View
 type: plugin
 updated: '2021-04-19T20:21:41'

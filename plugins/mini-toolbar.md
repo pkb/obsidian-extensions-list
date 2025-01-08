@@ -5,7 +5,7 @@ author:
 - '[[authors/quorafind|AidenLx & Boninall]]'
 categories: []
 description: mini context toolbar in editor
-downloads: 4865
+downloads: 4908
 mobile: false
 number: 1044
 stars: 12

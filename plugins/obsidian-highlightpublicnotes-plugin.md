@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin warns that a note is public (based on a frontmatter attribute)
   by colorizing the note red.
-downloads: 6349
+downloads: 6371
 mobile: true
 number: 148
 stars: 6

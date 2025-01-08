@@ -6,10 +6,10 @@ author:
 categories: []
 description: Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the
   editor
-downloads: 11991
+downloads: 12525
 mobile: true
 number: 839
-stars: 104
+stars: 106
 title: Natural Language Syntax Highlighting
 type: plugin
 updated: '2024-12-05T18:02:55'

@@ -10,7 +10,7 @@ description: Plugin for Obsidian that creates a File Information view that displ
   file in its native application and to open the file's folder.  It also has writing
   statistics (character, word, sentence, and paragraph counts) and a word frequency
   analysis.
-downloads: 15828
+downloads: 16045
 mobile: true
 number: 407
 stars: 64

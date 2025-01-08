@@ -7,10 +7,10 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: 'Successor to darakah''s Timelines plugin: Generate a chronological timeline
   in which all ''events'' are notes that include a specific tag or set of tags.'
-downloads: 9887
+downloads: 10511
 mobile: true
 number: 1396
-stars: 58
+stars: 60
 title: Timelines (Revamped)
 type: plugin
 updated: '2024-12-04T05:36:40'

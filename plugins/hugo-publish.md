@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your blog to hugo site.
-downloads: 1200
+downloads: 1325
 mobile: false
 number: 1563
-stars: 40
+stars: 42
 title: Hugo Publish
 type: plugin
-updated: '2024-12-16T19:09:18'
+updated: '2024-12-28T13:16:51'
 url: https://github.com/kirito41dd/obsidian-hugo-publish
-version: 1.0.8
+version: 1.0.9
 ---
 
 %% README_START %%

@@ -5,7 +5,7 @@ author:
 - '[[authors/Balibaloo|Roman Kubiv]]'
 categories: []
 description: Open notes and folders. Chose from sets defined by filters.
-downloads: 2545
+downloads: 2566
 mobile: true
 number: 1461
 stars: 9

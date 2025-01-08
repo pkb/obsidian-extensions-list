@@ -7,10 +7,10 @@ categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Create a table of contents in a note, that updates itself when the note
   changes
-downloads: 44591
+downloads: 47210
 mobile: true
 number: 1135
-stars: 153
+stars: 155
 title: Automatic Table Of Contents
 type: plugin
 updated: '2024-11-24T20:25:55'

@@ -5,7 +5,7 @@ author:
 - '[[authors/vrtmrz|vorotamoroz]]'
 categories: []
 description: Yet another ChatGPT-powered digital secretary
-downloads: 3930
+downloads: 3942
 mobile: true
 number: 892
 stars: 9

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Converts a note to a Slack-compliant markdown using [slackify-markdown](https://www.npmjs.com/package/slackify-markdown)
-downloads: 2664
+downloads: 2680
 mobile: true
 number: 1251
 stars: 5

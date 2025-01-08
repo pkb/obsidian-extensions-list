@@ -6,7 +6,7 @@ author:
 categories: []
 description: Scrape different webpages, builds lists with the items as Markdown tables,
   and allows you to track their status.
-downloads: 1703
+downloads: 1746
 mobile: true
 number: 1469
 stars: 11

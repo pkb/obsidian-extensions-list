@@ -5,10 +5,10 @@ author:
 - '[[authors/astradev123|AstraDev]]'
 categories: []
 description: Track the time spent on each note and visualize the data.
-downloads: 106
+downloads: 257
 mobile: true
 number: 2075
-stars: 2
+stars: 6
 title: Focus Time
 type: plugin
 updated: '2024-12-15T21:10:45'

@@ -5,7 +5,7 @@ author:
 - '[[authors/raineszm|Zach Raines]]'
 categories: []
 description: Allows to quickly insert and change latex environments within math environments.
-downloads: 24034
+downloads: 24188
 mobile: true
 number: 29
 stars: 60

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen
   mit Gesetzesanbietern.
-downloads: 63
+downloads: 78
 mobile: true
 number: 1951
 stars: 1

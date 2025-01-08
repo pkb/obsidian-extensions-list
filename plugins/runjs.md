@@ -5,15 +5,15 @@ author:
 - '[[authors/eoureo|eoureo]]'
 categories: []
 description: Run easily JavaScript codes for managing Obsidian and its notes.
-downloads: 5192
+downloads: 5526
 mobile: true
 number: 1051
-stars: 38
+stars: 39
 title: RunJS
 type: plugin
-updated: '2023-07-18T21:55:27'
+updated: '2025-01-04T15:48:32'
 url: https://github.com/eoureo/obsidian-runjs
-version: 0.6.0
+version: 0.8.0
 ---
 
 %% README_START %%

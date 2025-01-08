@@ -5,7 +5,7 @@ author:
 - '[[authors/cberane|Cristoph Berane]]'
 categories: []
 description: This plugin adds the material symbols (outlined) to obsidian
-downloads: 3904
+downloads: 3925
 mobile: true
 number: 800
 stars: 6

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Integrates Vikunja.
-downloads: 333
+downloads: 347
 mobile: true
 number: 1789
-stars: 7
+stars: 8
 title: Vikunja Sync
 type: plugin
 updated: '2024-08-19T00:20:58'

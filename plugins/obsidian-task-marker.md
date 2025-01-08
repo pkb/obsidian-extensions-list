@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Change task statuses with hotkeys and context menu. Complete, cancel
   and mark tasks, as well as cycle among selected task statuses.
-downloads: 11578
+downloads: 11806
 mobile: true
 number: 760
 stars: 41

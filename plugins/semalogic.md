@@ -5,7 +5,7 @@ author:
 - '[[authors/MM-GO|SemaLogic UG]]'
 categories: []
 description: Real-time use of the SemaLogic formal language
-downloads: 1271
+downloads: 1277
 mobile: true
 number: 1384
 stars: 3

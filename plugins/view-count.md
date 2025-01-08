@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track view count for each vault file.
-downloads: 2751
+downloads: 2823
 mobile: true
 number: 1498
 stars: 16

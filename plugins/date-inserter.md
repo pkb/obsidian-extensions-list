@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Insert a date at the cursor position using a calendar.
-downloads: 4815
+downloads: 5011
 mobile: true
 number: 1485
 stars: 9

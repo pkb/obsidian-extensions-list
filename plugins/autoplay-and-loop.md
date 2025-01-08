@@ -5,7 +5,7 @@ author:
 - '[[authors/Wapply|Zerkshop & Wapply]]'
 categories: []
 description: Auto reproduces videos/audio inside notes.
-downloads: 1057
+downloads: 1097
 mobile: true
 number: 1564
 stars: 7

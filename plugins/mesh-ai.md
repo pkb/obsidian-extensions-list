@@ -5,10 +5,10 @@ author:
 - '[[authors/chasebank87|Chasebank87]]'
 categories: []
 description: Mesh AI prompt manager and gererator
-downloads: 3591
+downloads: 3861
 mobile: true
 number: 1888
-stars: 79
+stars: 89
 title: Mesh AI
 type: plugin
 updated: '2024-10-31T01:55:09'

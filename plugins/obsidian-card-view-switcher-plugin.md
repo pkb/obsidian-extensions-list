@@ -5,7 +5,7 @@ author:
 - '[[authors/qawatake|qawatake]]'
 categories: []
 description: Quick switcher with card view
-downloads: 6892
+downloads: 6927
 mobile: false
 number: 457
 stars: 47

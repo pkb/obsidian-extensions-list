@@ -5,15 +5,15 @@ author:
 - '[[authors/jfsicilia|Juan Sicilia]]'
 categories: []
 description: Adds missing features to the file explorer.
-downloads: 337
+downloads: 582
 mobile: false
 number: 2016
-stars: 12
+stars: 18
 title: File Manager
 type: plugin
-updated: '2024-11-21T19:35:57'
+updated: '2024-12-23T16:54:16'
 url: https://github.com/jfsicilia/obsidian-file-manager
-version: 1.2.1
+version: 1.3.1
 ---
 
 %% README_START %%
@@ -86,6 +86,8 @@ When file conflicts occur, choose from the following resolution methods:
 Create custom `Open With` commands in the settings tab.
 
 ![Open With](https://raw.githubusercontent.com/jfsicilia/obsidian-file-manager/HEAD/assets/openwith.png)
+
+**NEW:** Version 1.3.1 allows to define app URL Schemas as commands (for example: `ulysses://x-callback-url/open?path={{file_path}}`).
 
 The `Open With` commands are also available in the File Context Menu if enabled in the settings.
 

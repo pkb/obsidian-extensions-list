@@ -7,10 +7,10 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Extract highlights, underlines and annotations from your PDFs into Obsidian
-downloads: 91541
+downloads: 92275
 mobile: true
 number: 69
-stars: 225
+stars: 229
 title: PDF Highlights
 type: plugin
 updated: '2021-02-17T16:58:44'

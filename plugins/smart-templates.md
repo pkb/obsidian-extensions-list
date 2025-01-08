@@ -8,10 +8,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI powered templates for generating structured content. Works with Local
   Models, Anthropic Claude, Gemini, OpenAI and more.
-downloads: 1485
+downloads: 1643
 mobile: true
 number: 1828
-stars: 29
+stars: 33
 title: Smart Templates
 type: plugin
 updated: '2024-07-31T02:26:05'

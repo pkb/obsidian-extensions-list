@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate prompts to keep you writing with AI.
-downloads: 864
+downloads: 893
 mobile: true
 number: 1571
 stars: 13

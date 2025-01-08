@@ -6,7 +6,7 @@ author:
 categories: []
 description: Highlight and speak text from your notes. Converts text to speech in
   real-time using lifelike voices from OpenAI.
-downloads: 5114
+downloads: 5286
 mobile: true
 number: 1407
 stars: 27

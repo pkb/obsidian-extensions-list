@@ -9,10 +9,10 @@ categories:
 description: Export documents as static websites and deploy to AWS S3 or compatible
   COS. Streamlining Obsidian Sync and Publish, Invio lets you share notes online,
   retaining data control via self-hosting.
-downloads: 4091
+downloads: 4120
 mobile: false
 number: 1030
-stars: 55
+stars: 54
 title: Invio
 type: plugin
 updated: '2024-09-26T11:02:32'

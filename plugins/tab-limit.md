@@ -5,7 +5,7 @@ author:
 - '[[authors/lizard-heart|Henry Gustafson]]'
 categories: []
 description: Limits the number of tabs that can be opened.
-downloads: 48
+downloads: 88
 mobile: true
 number: 2057
 stars: 0

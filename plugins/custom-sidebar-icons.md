@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Enhance your workspace with customizable icons for documents and folders.
-downloads: 4058
+downloads: 4281
 mobile: true
 number: 1583
 stars: 16

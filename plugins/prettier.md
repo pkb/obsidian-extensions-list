@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format your notes with Prettier and custom formatting options.
-downloads: 898
+downloads: 956
 mobile: true
 number: 1708
-stars: 8
+stars: 10
 title: Prettier
 type: plugin
 updated: '2024-10-11T17:02:40'

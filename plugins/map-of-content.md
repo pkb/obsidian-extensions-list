@@ -5,10 +5,10 @@ author:
 - '[[authors/Robin-Haupt-1|Robin Haupt]]'
 categories: []
 description: Automatically generate a Map of Content for your vault
-downloads: 36173
+downloads: 36395
 mobile: true
 number: 309
-stars: 173
+stars: 174
 title: Map of Content
 type: plugin
 updated: '2023-09-23T18:11:26'

@@ -5,10 +5,10 @@ author:
 - '[[authors/joelseq|Joel Sequeira]]'
 categories: []
 description: Save links from your browser directly into Obsidian.
-downloads: 3986
+downloads: 4006
 mobile: true
 number: 1065
-stars: 44
+stars: 45
 title: LinkStowr
 type: plugin
 updated: '2023-11-09T07:29:49'

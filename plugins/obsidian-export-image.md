@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Easily convert your article to image.
-downloads: 25164
+downloads: 27679
 mobile: true
 number: 665
-stars: 110
+stars: 117
 title: Export Image plugin
 type: plugin
-updated: '2024-12-17T11:14:33'
+updated: '2024-12-29T19:12:59'
 url: https://github.com/zhouhua/obsidian-export-image
-version: 2.3.18
+version: 2.4.1
 ---
 
 %% README_START %%

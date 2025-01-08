@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Edit Orgmode files in Obsidian.
-downloads: 3284
+downloads: 3404
 mobile: true
 number: 1379
-stars: 55
+stars: 57
 title: Orgmode (cm6)
 type: plugin
 updated: '2024-11-09T04:54:01'

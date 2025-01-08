@@ -5,10 +5,10 @@ author:
 - '[[authors/RichardX366|Richard Xiong]]'
 categories: []
 description: Syncs a vault into Google Drive for cross-platform use (works for iOS).
-downloads: 1830
+downloads: 3231
 mobile: true
 number: 2020
-stars: 9
+stars: 19
 title: Google Drive Sync
 type: plugin
 updated: '2024-12-01T14:47:35'

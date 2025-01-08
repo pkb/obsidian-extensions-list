@@ -5,15 +5,15 @@ author:
 - '[[authors/quorafind|Boninall]]'
 categories: []
 description: Collapse node in canvas.
-downloads: 6779
+downloads: 7232
 mobile: true
 number: 1194
-stars: 51
+stars: 52
 title: Collapse Node
 type: plugin
-updated: '2024-06-19T11:52:02'
+updated: '2024-12-29T09:25:57'
 url: https://github.com/quorafind/obsidian-collapse-node
-version: 1.1.0
+version: 1.1.1
 ---
 
 %% README_START %%

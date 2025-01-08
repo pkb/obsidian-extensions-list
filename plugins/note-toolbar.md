@@ -5,13 +5,13 @@ author:
 - '[[authors/chrisgurney|Chris Gurney]]'
 categories: []
 description: Add customizable toolbars to your notes.
-downloads: 44291
+downloads: 46634
 mobile: true
 number: 1566
-stars: 313
+stars: 323
 title: Note Toolbar
 type: plugin
-updated: '2024-12-13T23:41:58'
+updated: '2025-01-07T22:25:18'
 url: https://github.com/chrisgurney/obsidian-note-toolbar
 version: 1.15.4
 ---

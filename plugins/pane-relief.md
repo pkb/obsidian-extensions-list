@@ -7,10 +7,10 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace,
   and more
-downloads: 119457
+downloads: 120916
 mobile: false
 number: 123
-stars: 238
+stars: 241
 title: Pane Relief
 type: plugin
 updated: '2024-11-09T13:03:39'

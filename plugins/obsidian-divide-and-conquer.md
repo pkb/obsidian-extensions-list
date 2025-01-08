@@ -6,7 +6,7 @@ author:
 categories: []
 description: Provides commands for bulk enabling/disabling of plugins. Useful for
   debugging when you have many plugins.
-downloads: 7633
+downloads: 7695
 mobile: true
 number: 419
 stars: 58
@@ -14,7 +14,7 @@ title: Divide & Conquer
 type: plugin
 updated: '2022-11-14T06:58:13'
 url: https://github.com/chrisgrieser/obsidian-divide-and-conquer
-version: 1.0.0
+version: 1.0.1
 ---
 
 %% README_START %%

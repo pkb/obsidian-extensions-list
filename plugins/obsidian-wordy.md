@@ -6,7 +6,7 @@ author:
 categories: []
 description: Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse
   API
-downloads: 10223
+downloads: 10356
 mobile: true
 number: 729
 stars: 46

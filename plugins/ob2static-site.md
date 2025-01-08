@@ -7,7 +7,7 @@ categories:
 - '[[categories/Export|Export]]'
 description: Export specific notes to general md for static site generator like Hugo,
   Hexo, Astro and more.
-downloads: 1045
+downloads: 1105
 mobile: true
 number: 1590
 stars: 17

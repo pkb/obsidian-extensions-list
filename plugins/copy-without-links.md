@@ -6,7 +6,7 @@ author:
 categories: []
 description: Strips the selection or current file of internal links and either copies
   to the clipboard, or in-place
-downloads: 1902
+downloads: 1918
 mobile: true
 number: 1350
 stars: 3

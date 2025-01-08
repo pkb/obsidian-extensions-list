@@ -5,7 +5,7 @@ author:
 - '[[authors/jtucker2|Josh Tucker]]'
 categories: []
 description: Create consecutive lists that are displayed separately in reading mode.
-downloads: 1213
+downloads: 1230
 mobile: true
 number: 1390
 stars: 4

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Assign colors to tags. Has integrations with other plugins, like Kanban.
-downloads: 18506
+downloads: 19359
 mobile: true
 number: 1272
-stars: 60
+stars: 63
 title: Colored Tags Wrangler
 type: plugin
 updated: '2024-06-25T21:46:14'

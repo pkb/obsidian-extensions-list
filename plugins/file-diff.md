@@ -5,10 +5,10 @@ author:
 - '[[authors/friebetill|Till Friebe]]'
 categories: []
 description: Shows the differences between two files..
-downloads: 9032
+downloads: 9193
 mobile: true
 number: 898
-stars: 96
+stars: 99
 title: File Diff
 type: plugin
 updated: '2024-02-15T12:39:43'

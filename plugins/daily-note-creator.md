@@ -5,7 +5,7 @@ author:
 - '[[authors/mario-holubar|Mario Holubar]]'
 categories: []
 description: Automatically creates missing daily notes
-downloads: 1562
+downloads: 1592
 mobile: true
 number: 1387
 stars: 7

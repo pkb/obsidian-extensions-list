@@ -5,10 +5,10 @@ author:
 - '[[authors/wenlzhang|wenlzhang]]'
 categories: []
 description: Maintain note links when splitting or reorganizing notes.
-downloads: 6
+downloads: 137
 mobile: true
 number: 2091
-stars: 3
+stars: 10
 title: Link Maintainer
 type: plugin
 updated: '2024-12-13T00:56:42'

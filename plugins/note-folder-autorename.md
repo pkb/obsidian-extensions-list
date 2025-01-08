@@ -6,7 +6,7 @@ author:
 categories: []
 description: Turn notes into folders and automaticaly move/rename their folders when
   they move or are renamed.
-downloads: 12035
+downloads: 12083
 mobile: true
 number: 99
 stars: 54

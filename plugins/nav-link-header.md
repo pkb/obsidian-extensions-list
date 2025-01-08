@@ -5,15 +5,15 @@ author:
 - '[[authors/ahts4962|ahts4962]]'
 categories: []
 description: Display navigation links at the top of the notes.
-downloads: 430
+downloads: 631
 mobile: true
 number: 1953
 stars: 5
 title: Nav Link Header
 type: plugin
-updated: '2024-11-22T13:06:16'
+updated: '2024-12-24T20:24:21'
 url: https://github.com/ahts4962/nav-link-header
-version: 1.0.4
+version: 1.1.0
 ---
 
 %% README_START %%
@@ -48,6 +48,7 @@ so settings for daily notes or [periodic notes](https://github.com/liamcain/obsi
 - Display links in page previews.
 - Wikilinks and markdown format links are supported.
 - Create a new periodic note by clicking the link if it doesn't exist.
+- The note to be displayed in the navigation can also be specified using properties.
 
 # Usage
 

@@ -5,10 +5,10 @@ author:
 - '[[authors/marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: Podcast Note lets you automatically add podcast information to your notes.
-downloads: 8208
+downloads: 8235
 mobile: true
 number: 285
-stars: 72
+stars: 73
 title: Podcast Note
 type: plugin
 updated: '2022-06-29T19:21:41'

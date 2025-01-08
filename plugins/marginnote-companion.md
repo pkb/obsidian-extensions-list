@@ -5,10 +5,10 @@ author:
 - '[[authors/aidenlx|AidenLx]]'
 categories: []
 description: An Obsidian plugin to bridge MarginNote 3 and Obsidian
-downloads: 13018
+downloads: 13112
 mobile: true
 number: 297
-stars: 164
+stars: 165
 title: MarginNote Companion
 type: plugin
 updated: '2021-12-06T18:17:42'

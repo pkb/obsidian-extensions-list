@@ -5,7 +5,7 @@ author:
 - '[[authors/zedseven|Zacchary Dempsey-Plante]]'
 categories: []
 description: Allows tags to be opened as links using a hotkey.
-downloads: 797
+downloads: 811
 mobile: true
 number: 1549
 stars: 4

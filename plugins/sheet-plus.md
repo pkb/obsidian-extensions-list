@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: Create Excel-like spreadsheets and easily embed them in Markdown.
-downloads: 18933
+downloads: 22642
 mobile: true
 number: 1722
-stars: 151
+stars: 167
 title: Sheet Plus
 type: plugin
-updated: '2024-12-05T14:00:49'
+updated: '2025-01-07T16:09:54'
 url: https://github.com/ljcoder2015/obsidian-sheet-plus
-version: 1.5.1
+version: 1.7.2
 ---
 
 %% README_START %%
@@ -32,11 +32,17 @@ Its core functionality and capabilities are provided through plugins, making it 
 
 [https://discord.gg/fufpbG4tJg](https://discord.gg/fufpbG4tJg)
 
-## How to install
+## Paid Feature
+Enabling the paid feature unlocks more content.
+- [Purchase Authorization Code](https://ko-fi.com/s/353d33a2dd)
+- [How to Use an Authorization Code](https://ko-fi.com/post/How-to-Use-an-Authorization-Code-S6S318IUM7)
 
-![install](https://raw.githubusercontent.com/ljcoder2015/obsidian-sheet-plus/HEAD//images/install.gif)
+### Embed Chart Link
+![Embed Chart Link](https://raw.githubusercontent.com/ljcoder2015/obsidian-sheet-plus/HEAD//images/embed-link-chart.gif)
+### Import
+![Import](https://raw.githubusercontent.com/ljcoder2015/obsidian-sheet-plus/HEAD//images/import.gif)
 
-## Features
+## Free Features
 
 ### Editing
 ![create](https://raw.githubusercontent.com/ljcoder2015/obsidian-sheet-plus/HEAD//images/create.gif)
@@ -81,6 +87,9 @@ eg.
 
 ### Comment
 ![comment](https://raw.githubusercontent.com/ljcoder2015/obsidian-sheet-plus/HEAD//images/remark.gif)
+
+### Charts
+![charts](https://raw.githubusercontent.com/ljcoder2015/obsidian-sheet-plus/HEAD//images/charts.gif)
 
 
 %% README_END %%

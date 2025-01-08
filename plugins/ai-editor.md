@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Empower your note editor with LLM capabilities. Customizable to work
   for your use cases.
-downloads: 4824
+downloads: 4911
 mobile: true
 number: 1132
-stars: 26
+stars: 27
 title: AI Editor
 type: plugin
-updated: '2024-04-15T03:28:35'
+updated: '2025-01-06T11:15:21'
 url: https://github.com/buszk/obsidian-ai-editor
-version: 0.5.5
+version: 0.5.6
 ---
 
 %% README_START %%

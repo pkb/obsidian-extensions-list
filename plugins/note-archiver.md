@@ -5,7 +5,7 @@ author:
 - '[[authors/thenomadlad|thenomadlad]]'
 categories: []
 description: Tools to archive your notes in another folder
-downloads: 4629
+downloads: 4685
 mobile: true
 number: 962
 stars: 21

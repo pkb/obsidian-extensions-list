@@ -7,10 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Halo's Obsidian integration supports publishing content to Halo sites
-downloads: 3000
+downloads: 3036
 mobile: true
 number: 1208
-stars: 28
+stars: 30
 title: Halo
 type: plugin
 updated: '2024-05-04T13:18:56'

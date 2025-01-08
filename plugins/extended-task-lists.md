@@ -6,7 +6,7 @@ author:
 categories: []
 description: Extended reader view support for task lists, including in-progress and
   won't do task items.
-downloads: 2634
+downloads: 2666
 mobile: true
 number: 1359
 stars: 8

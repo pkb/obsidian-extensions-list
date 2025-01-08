@@ -8,7 +8,7 @@ categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: This is an obsidian plugin that uses OpenAI to generate flashcards from
   text and add them to Anki.
-downloads: 4012
+downloads: 4029
 mobile: false
 number: 899
 stars: 9

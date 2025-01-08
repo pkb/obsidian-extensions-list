@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Convert your notes to HTML and upload to Arweave
-downloads: 44
+downloads: 59
 mobile: true
 number: 1982
 stars: 0

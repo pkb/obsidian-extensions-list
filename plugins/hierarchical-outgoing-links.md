@@ -5,10 +5,10 @@ author:
 - '[[authors/jasonmotylinski|Jason Motylinski]]'
 categories: []
 description: Displays outgoing links in a hierarchy
-downloads: 1368
+downloads: 1419
 mobile: true
 number: 1586
-stars: 11
+stars: 13
 title: Hierarchical Outgoing Links
 type: plugin
 updated: '2024-11-05T22:48:32'

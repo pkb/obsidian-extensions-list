@@ -6,7 +6,7 @@ author:
 categories: []
 description: Render LaTeX in codeblocks into pdf or svg, without needing to install
   LaTeX separately.
-downloads: 1613
+downloads: 1664
 mobile: false
 number: 1533
 stars: 3

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enter Zen mode to focus on writing. The plugin expands current tab to
   full screen removing everything but content.
-downloads: 16871
+downloads: 17358
 mobile: false
 number: 706
 stars: 42

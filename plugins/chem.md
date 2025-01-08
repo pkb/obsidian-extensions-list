@@ -6,7 +6,7 @@ author:
 categories: []
 description: Providing chemistry supports. Rendering SMILES strings into chemistry
   structures.
-downloads: 10536
+downloads: 10698
 mobile: true
 number: 922
 stars: 86

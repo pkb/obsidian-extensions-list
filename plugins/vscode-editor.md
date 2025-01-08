@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Edit Code Files like VSCode.
-downloads: 20740
+downloads: 21629
 mobile: true
 number: 1180
-stars: 188
+stars: 193
 title: VSCode Editor
 type: plugin
 updated: '2023-11-03T11:53:36'

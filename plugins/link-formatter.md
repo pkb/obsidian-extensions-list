@@ -5,10 +5,10 @@ author:
 - '[[authors/dilantha|Dilantha Nanayakkara]]'
 categories: []
 description: Formats a block of links into a clean markdown list
-downloads: 36
+downloads: 88
 mobile: false
 number: 2074
-stars: 0
+stars: 1
 title: Link Formatter
 type: plugin
 updated: '2024-12-10T18:09:08'

@@ -5,15 +5,15 @@ author:
 - '[[authors/Lemon695|Lemon695]]'
 categories: []
 description: List files by last added, including pictures, MP4s, PDFs etc.
-downloads: 319
+downloads: 545
 mobile: true
 number: 2005
 stars: 2
 title: Recently Added Files
 type: plugin
-updated: '2024-12-12T13:32:02'
+updated: '2024-12-24T09:16:49'
 url: https://github.com/Lemon695/obsidian-recently-added-files
-version: 1.0.8
+version: 1.0.9
 ---
 
 %% README_START %%
@@ -40,7 +40,7 @@ As with the file explorer view:
 This plugin can quickly display recently added files, making it easier to process these documents.
 For example: After adding pictures, quickly find and rename them
 
-## Rename newly added files
+## 1、Rename newly added files
 
 During the document editing process, adding multiple images with the same name can lead to name duplication. To address this, an MD5 renaming feature has been added to quickly update the names of newly added images.
 
@@ -51,6 +51,33 @@ Before modification
 After modification
 
 ![](https://raw.githubusercontent.com/Lemon695/obsidian-recently-added-files/HEAD/resources/screenshots/img-IUASUDF-98234723894-002.png)
+
+## 2、File Classification Filter
+
+This project introduces a **File Classification Filter** that enables users to filter and display newly added files based on their types. The supported categories for filtering include:
+
+- **All files**: Displays all files regardless of their type.
+- **Markdown**: Filters and shows only `.md` and `.markdown` files.
+- **PDF**: Filters and shows only `.pdf` files.
+- **Image**: Filters and shows image files, such as `.png`, `.jpg`, `.jpeg`, `.gif`, `.bmp`, `.svg`, and `.webp`.
+- **Video**: Filters and shows video files, including `.mp4`, `.webm`, `.mov`, `.avi`, `.mkv`, and `.m4v`.
+- **Other**: Displays all files that don't fall under the categories listed above.
+
+This feature helps users quickly navigate through and manage their files based on type, improving efficiency in file handling.
+
+
+
+Plugin configuration: By default, file filtering is disabled and can be enabled based on user needs.
+
+![](https://raw.githubusercontent.com/Lemon695/obsidian-recently-added-files/HEAD/resources/screenshots/img-239742839-KASUHFUIAS-98123-AUSF.png)
+
+![](https://raw.githubusercontent.com/Lemon695/obsidian-recently-added-files/HEAD/resources/screenshots/img-23947324-AISUFYASI-2923-AS-12312.png)
+
+
+
+
+
+
 
 
 # 🙏 Acknowledgements

@@ -5,10 +5,10 @@ author:
 - '[[authors/noxonad|noxonad]]'
 categories: []
 description: Generates customizable barcodes into your notes.
-downloads: 2545
+downloads: 2570
 mobile: true
 number: 1263
-stars: 8
+stars: 9
 title: Barcode Generator
 type: plugin
 updated: '2024-01-07T22:53:29'

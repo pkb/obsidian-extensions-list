@@ -5,10 +5,10 @@ author:
 - '[[authors/vincentbavitz|vincentbavitz]]'
 categories: []
 description: Intelligently trancribe and categorize your voice notes
-downloads: 5307
+downloads: 5385
 mobile: false
 number: 1124
-stars: 53
+stars: 57
 title: Vox
 type: plugin
 updated: '2024-09-18T12:26:01'

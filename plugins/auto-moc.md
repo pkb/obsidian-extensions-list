@@ -6,7 +6,7 @@ author:
 categories: []
 description: Looks for missing linked mentions or notes with a specific tag or alias
   and imports them into the current note.
-downloads: 12393
+downloads: 12640
 mobile: true
 number: 508
 stars: 43

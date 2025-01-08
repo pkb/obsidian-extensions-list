@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Edit Code Files in Obsidian with VSCode's powerful Monaco Editor
-downloads: 10164
+downloads: 10349
 mobile: false
 number: 867
-stars: 124
+stars: 126
 title: Code Files
 type: plugin
 updated: '2024-03-10T19:04:25'

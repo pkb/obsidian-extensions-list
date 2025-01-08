@@ -6,10 +6,10 @@ author:
 categories: []
 description: Shuffle, reverse, or sort lines, using either visual width or lexical
   order.
-downloads: 1929
+downloads: 2225
 mobile: true
 number: 1720
-stars: 3
+stars: 4
 title: Line Arrange
 type: plugin
 updated: '2024-08-18T02:32:55'

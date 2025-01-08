@@ -5,7 +5,7 @@ author:
 - '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Remove flickering inline math.
-downloads: 4860
+downloads: 4949
 mobile: true
 number: 1151
 stars: 23

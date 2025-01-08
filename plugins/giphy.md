@@ -5,7 +5,7 @@ author:
 - '[[authors/LuCrypto|LuCrypto]]'
 categories: []
 description: Search and insert gifs in a note.
-downloads: 590
+downloads: 654
 mobile: true
 number: 1794
 stars: 3

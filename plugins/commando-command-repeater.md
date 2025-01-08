@@ -5,7 +5,7 @@ author:
 - '[[authors/qaptoR|qaptoR]]'
 categories: []
 description: Enables the user to provide the number of times to repeat a command.
-downloads: 3355
+downloads: 3362
 mobile: true
 number: 833
 stars: 5

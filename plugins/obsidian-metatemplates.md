@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Generate notes from templates using YAML front-matter
-downloads: 6239
+downloads: 6260
 mobile: true
 number: 71
-stars: 114
+stars: 115
 title: metatemplates
 type: plugin
 updated: '2021-01-12T23:38:43'

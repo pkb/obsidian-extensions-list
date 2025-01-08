@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Chat with your notes with the help of Ollama.
-downloads: 6257
+downloads: 6431
 mobile: true
 number: 1345
 stars: 118

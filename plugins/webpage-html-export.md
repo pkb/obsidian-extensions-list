@@ -8,10 +8,10 @@ categories:
 description: Export html from single files, canvas pages, or whole vaults. Direct
   access to the exported HTML files allows you to publish your digital garden anywhere.
   Focuses on flexibility, features, and style parity.
-downloads: 65208
+downloads: 66958
 mobile: false
 number: 741
-stars: 906
+stars: 932
 title: Webpage HTML Export
 type: plugin
 updated: '2024-11-26T13:01:47'

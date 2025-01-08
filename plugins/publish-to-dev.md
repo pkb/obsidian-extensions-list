@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish and update notes as articles on DEV (https://dev.to)
-downloads: 143
+downloads: 151
 mobile: true
 number: 1752
 stars: 5

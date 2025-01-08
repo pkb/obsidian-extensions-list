@@ -5,10 +5,10 @@ author:
 - '[[authors/alangrainger|Alan Grainger]]'
 categories: []
 description: Adds captions to images when there is alt-text specified
-downloads: 26439
+downloads: 27520
 mobile: true
 number: 768
-stars: 104
+stars: 105
 title: Image Captions
 type: plugin
 updated: '2024-11-13T17:04:57'

@@ -5,7 +5,7 @@ author:
 - '[[authors/iVariable|Vladimir Savenkov]]'
 categories: []
 description: This plugin introduces commands to format code (internally uses prettier)
-downloads: 8792
+downloads: 8910
 mobile: true
 number: 465
 stars: 23

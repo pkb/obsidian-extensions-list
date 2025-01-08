@@ -6,7 +6,7 @@ author:
 categories: []
 description: Quickly insert common Markdown code and HTML code, and customize your
   own insertion commands.
-downloads: 534
+downloads: 571
 mobile: true
 number: 1680
 stars: 11

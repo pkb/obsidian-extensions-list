@@ -5,7 +5,7 @@ author:
 - '[[authors/MSzturc|Matthäus Szturc]]'
 categories: null
 description: Create markdown-based presentations in Obsidian
-downloads: 752648
+downloads: 755064
 mobile: false
 number: 380
 stars: -1

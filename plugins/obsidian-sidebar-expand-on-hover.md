@@ -7,7 +7,7 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: This Obsidian plugin expands or collapses the sidebars based on mouse
   hovering on the ribbons.
-downloads: 10401
+downloads: 10497
 mobile: false
 number: 196
 stars: 26

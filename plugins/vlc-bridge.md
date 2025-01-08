@@ -5,10 +5,10 @@ author:
 - '[[authors/zuluwi|zuluwi]]'
 categories: []
 description: Take video/movie notes with timestamp links and snapshots from VLC Player.
-downloads: 1393
+downloads: 1442
 mobile: false
 number: 1519
-stars: 16
+stars: 17
 title: VLC Bridge
 type: plugin
 updated: '2024-03-14T22:10:05'

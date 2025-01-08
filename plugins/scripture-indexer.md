@@ -5,13 +5,13 @@ author:
 - '[[authors/jdrbrn|jdrbrn]]'
 categories: []
 description: Indexes references to scriptures in notes.
-downloads: 148
+downloads: 167
 mobile: true
 number: 1926
 stars: 0
 title: Scripture Indexer
 type: plugin
-updated: '2024-10-28T03:11:35'
+updated: '2024-12-21T22:57:27'
 url: https://github.com/jdrbrn/obsidian-scripture-indexer
 version: 1.2.0
 ---

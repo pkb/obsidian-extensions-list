@@ -5,7 +5,7 @@ author:
 - '[[authors/mgussekloo|Mgussekloo]]'
 categories: []
 description: Autofocus the editor when opening a new file.
-downloads: 2325
+downloads: 2336
 mobile: true
 number: 1258
 stars: 5

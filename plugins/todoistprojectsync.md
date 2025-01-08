@@ -5,7 +5,7 @@ author:
 - '[[authors/stuporfly|Jonas Dam]]'
 categories: []
 description: synchronizes projects from Todoist, creating a note for each.
-downloads: 1636
+downloads: 1916
 mobile: false
 number: 1849
 stars: 19

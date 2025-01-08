@@ -6,15 +6,15 @@ author:
 categories: []
 description: Make outline quiet and more powerful, including no-auto-expand, rendering
   heading as markdown, and search support.
-downloads: 126483
+downloads: 131546
 mobile: true
 number: 471
-stars: 323
+stars: 331
 title: Quiet Outline
 type: plugin
-updated: '2024-10-20T14:50:37'
+updated: '2025-01-07T16:24:46'
 url: https://github.com/guopenghui/obsidian-quiet-outline
-version: 0.3.37
+version: 0.3.39
 ---
 
 %% README_START %%

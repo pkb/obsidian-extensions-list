@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Add completed Todoist tasks to your Obsidian notes
-downloads: 7663
+downloads: 7740
 mobile: true
 number: 603
 stars: 63

@@ -5,7 +5,7 @@ author:
 - '[[authors/vkostyanetsky|vkostyanetsky]]'
 categories: []
 description: Intermittent fasting tracker.
-downloads: 1483
+downloads: 1503
 mobile: true
 number: 1388
 stars: 4

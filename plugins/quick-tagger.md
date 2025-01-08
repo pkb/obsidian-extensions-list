@@ -7,10 +7,10 @@ categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Add and remove tags quickly. Tag search results, bulk tag, and add dedicated
   buttons/commands for your favorites!
-downloads: 6278
+downloads: 6482
 mobile: true
 number: 1257
-stars: 28
+stars: 31
 title: Quick Tagger
 type: plugin
 updated: '2023-11-12T05:48:55'

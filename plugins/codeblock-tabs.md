@@ -5,10 +5,10 @@ author:
 - '[[authors/JeminMau|Jemin Mau]]'
 categories: []
 description: Create tab group for contiguous CodeBlocks.
-downloads: 5211
+downloads: 5309
 mobile: true
 number: 1067
-stars: 24
+stars: 25
 title: CodeBlock Tabs
 type: plugin
 updated: '2023-08-03T12:49:46'

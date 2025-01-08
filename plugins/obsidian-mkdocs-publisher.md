@@ -7,22 +7,18 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enveloppe helps you to publish your notes on a preconfigured GitHub repository,
   for free, and more!
-downloads: 38150
+downloads: 38805
 mobile: true
 number: 498
-stars: 669
+stars: 685
 title: Enveloppe
 type: plugin
-updated: '2024-10-04T16:25:12'
+updated: '2024-12-30T17:58:24'
 url: https://github.com/Enveloppe/obsidian-enveloppe
-version: 7.4.0
+version: 7.5.2
 ---
 
 %% README_START %%
-
----
-order: 1
----
 
 ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-mkdocs-publisher%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 
@@ -32,7 +28,7 @@ Publish your notes in your own GitHub repository for free and do whatever you wa
 
 This allows you to set up any template: Jekyll, Mkdocs, Hugo, or custom-made ones!
 
-## 📑 [Documentation](https://enveloppe.github.io/)
+## 📑 [Documentation](https://enveloppe.ovh/)
 
 Here, you will only get a quick setup!
 
@@ -101,7 +97,7 @@ Each of the commands are explained [here](https://enveloppe.github.io/Commands).
 You can :
 
 - [Maintaining the project and adding new function](https://enveloppe.github.io//Developing#general)
-- [Help with the translation](https://enveloppe.github.io//Developing#translation)
+- [Translate to your language or improve current wording](https://enveloppe.github.io//Developing#translation)
 
 ## 🪧 Looking for something?
 

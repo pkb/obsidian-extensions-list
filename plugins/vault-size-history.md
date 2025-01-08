@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Graph of the number of files in the Vault.
-downloads: 1657
+downloads: 1815
 mobile: false
 number: 1836
 stars: 5
 title: Vault Size History
 type: plugin
-updated: '2024-11-08T21:16:45'
+updated: '2025-01-07T06:38:55'
 url: https://github.com/technerium/obsidian-vault-size-history
-version: 1.1.3
+version: 1.1.4
 ---
 
 %% README_START %%

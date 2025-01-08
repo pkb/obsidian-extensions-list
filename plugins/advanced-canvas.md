@@ -7,23 +7,23 @@ categories:
 - '[[categories/Canvas|Canvas]]'
 description: Supercharge your canvas experience! Create presentations, flowcharts
   and more!
-downloads: 81436
+downloads: 91642
 mobile: true
 number: 1474
-stars: 391
+stars: 417
 title: Advanced Canvas
 type: plugin
-updated: '2024-11-08T22:33:39'
+updated: '2024-12-24T15:20:33'
 url: https://github.com/Developer-Mike/obsidian-advanced-canvas
-version: 3.2.0
+version: 3.3.0
 ---
 
 %% README_START %%
 
 <h3 align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-        <img alt="Logo" src="./assets/logo-light.svg" width="100">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+        <img alt="Logo" src="./assets/logo-light.png" width="100">
     </picture><br/><br/>
 	Advanced Canvas for <a href="https://obsidian.md">Obsidian.md</a>
 </h3>
@@ -31,7 +31,6 @@ version: 3.2.0
 <p align="center">
     <a href="https://github.com/Developer-Mike/obsidian-advanced-canvas/stargazers"><img src="https://img.shields.io/github/stars/Developer-Mike/obsidian-advanced-canvas?colorA=363a4f&colorB=e0ac00&style=for-the-badge" alt="GitHub star count"></a>
     <a href="https://github.com/Developer-Mike/obsidian-advanced-canvas/issues"><img src="https://img.shields.io/github/issues/Developer-Mike/obsidian-advanced-canvas?colorA=363a4f&colorB=e93147&style=for-the-badge" alt="Open issues on GitHub"></a>
-    <a href="https://github.com/Developer-Mike/obsidian-advanced-canvas/contributors"><img src="https://img.shields.io/github/contributors/Developer-Mike/obsidian-advanced-canvas?colorA=363a4f&colorB=08b94e&style=for-the-badge" alt="List of contributors"></a>
     <br/>
 	<a href="https://obsidian.md/plugins?id=advanced-canvas"><img src="https://img.shields.io/endpoint?url=https://scambier.xyz/obsidian-endpoints/advanced-canvas.json&style=for-the-badge&colorA=363a4f&colorB=d53984"/></a>
     <a href="./LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GPL-3.0&colorA=363a4f&colorB=b7bdf8" alt="GPL-3.0 license"/></a>
@@ -138,6 +137,8 @@ Please consider supporting the plugin. There are many hours of work and effort b
 - Disable the font scaling relative to the zoom level
 
 ## Canvas Commands
+- `Advanced Canvas: Open Quicksettings`
+  - Open the quicksettings menu
 - `Advanced Canvas: Create text node`
   - Create a new text node
 - `Advanced Canvas: Create file node`
@@ -443,6 +444,9 @@ All custom events are prefixed with `advanced-canvas:` and can be listened to us
   - `advanced-canvas:copy`
     - Fired when the selection gets copied
     - Payload: `Canvas`, `SelectionData (Reference!)`
+  - `advanced-canvas:node-editing-state-changed`
+    - Fired when the editing state of a node changes
+    - Payload: `Canvas`, `Node`, `boolean (isEditing)`
   - `advanced-canvas:node-bbox-requested`
     - Fired when the bounding box of a node gets requested (e.g. for the edge path or when dragging a group)
     - Payload: `Canvas`, `Node`, `BBox (Reference!)`

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Enhances the pin function to prevent closing the pinned tab.
-downloads: 418
+downloads: 456
 mobile: false
 number: 1686
 stars: 2

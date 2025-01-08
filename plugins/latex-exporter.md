@@ -5,13 +5,13 @@ author:
 - '[[authors/mscott99|Matthew S. Scott]]'
 categories: []
 description: Write a LaTeX paper.
-downloads: 21
+downloads: 185
 mobile: false
 number: 2083
-stars: 2
+stars: 7
 title: Latex Exporter
 type: plugin
-updated: '2024-12-18T04:25:44'
+updated: '2025-01-04T04:02:00'
 url: https://github.com/mscott99/latex-exporter
 version: 0.1.3
 ---

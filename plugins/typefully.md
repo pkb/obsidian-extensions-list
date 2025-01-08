@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Typefully integration. Publish social media posts with ease
-downloads: 100
+downloads: 112
 mobile: true
 number: 1940
 stars: 8

@@ -5,10 +5,10 @@ author:
 - '[[authors/felipetappata|Felipe Tappata]]'
 categories: []
 description: Show a preview of external links on hover
-downloads: 595
+downloads: 858
 mobile: true
 number: 2031
-stars: 9
+stars: 11
 title: Link Preview
 type: plugin
 updated: '2024-11-22T04:26:46'

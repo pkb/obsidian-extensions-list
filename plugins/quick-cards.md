@@ -5,7 +5,7 @@ author:
 - '[[authors/abcamus|Camus Qiu]]'
 categories: []
 description: cardify your files
-downloads: 592
+downloads: 645
 mobile: true
 number: 1876
 stars: 3

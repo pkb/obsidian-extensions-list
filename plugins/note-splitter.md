@@ -5,7 +5,7 @@ author:
 - '[[authors/decaf-dev|DecafDev]]'
 categories: []
 description: Split a note into individual notes based on a delimiter.
-downloads: 1159
+downloads: 1200
 mobile: false
 number: 1613
 stars: 15

@@ -5,7 +5,7 @@ author:
 - '[[authors/jglev|Jacob Levernier]]'
 categories: []
 description: Apply custom patterns of find-and-replace in succession to text.
-downloads: 7778
+downloads: 7810
 mobile: true
 number: 242
 stars: 59

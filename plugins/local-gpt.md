@@ -5,10 +5,10 @@ author:
 - '[[authors/pfrankov|Pavel Frankov]]'
 categories: []
 description: Local GPT assistance for maximum privacy and offline access
-downloads: 22303
+downloads: 23881
 mobile: true
 number: 1339
-stars: 353
+stars: 375
 title: Local GPT
 type: plugin
 updated: '2024-12-06T04:30:50'

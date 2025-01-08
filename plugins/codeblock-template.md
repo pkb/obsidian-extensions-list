@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Re-use content within codeblocks using variables.
-downloads: 3087
+downloads: 3099
 mobile: true
 number: 1128
 stars: 11

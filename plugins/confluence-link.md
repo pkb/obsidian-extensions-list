@@ -5,15 +5,15 @@ author:
 - '[[authors/BungaRazvan|Razvan Bunga]]'
 categories: []
 description: Upload files to confluence pages
-downloads: 591
+downloads: 676
 mobile: false
 number: 1834
 stars: 7
 title: Confluence Link
 type: plugin
-updated: '2024-12-18T01:40:16'
+updated: '2024-12-22T22:53:44'
 url: https://github.com/BungaRazvan/confluence-link
-version: 1.4.0
+version: 1.4.2
 ---
 
 %% README_START %%

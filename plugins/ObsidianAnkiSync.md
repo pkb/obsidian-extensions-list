@@ -5,10 +5,10 @@ author:
 - '[[authors/debanjandhar12|debanjandhar12]]'
 categories: []
 description: Obsidian plugin to make flashcards and sync them to Anki.
-downloads: 8747
+downloads: 8823
 mobile: false
 number: 261
-stars: 145
+stars: 146
 title: Obsidian Anki Sync
 type: plugin
 updated: '2021-11-30T00:38:43'

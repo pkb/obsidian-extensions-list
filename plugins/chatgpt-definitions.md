@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Let your AI assistant ChatGPT define words and concepts for you.
-downloads: 3892
+downloads: 3906
 mobile: false
 number: 1103
 stars: 8

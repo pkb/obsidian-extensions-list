@@ -8,7 +8,7 @@ categories:
 - '[[categories/Knowledge management|Knowledge management]]'
 description: Insert and import citations, bibliographies, notes, and PDF annotations
   from Zotero.
-downloads: 314654
+downloads: 320022
 mobile: false
 number: 473
 stars: 1100

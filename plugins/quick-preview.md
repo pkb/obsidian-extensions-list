@@ -6,7 +6,7 @@ author:
 categories: []
 description: Quickly preview a suggestion before selecting it in link suggestions
   & quick switcher.
-downloads: 4226
+downloads: 4336
 mobile: true
 number: 1312
 stars: 27

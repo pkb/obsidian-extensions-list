@@ -7,10 +7,10 @@ categories: []
 description: Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect
   preservation of note styles, support code highlighting, line numbers in code, and
   support local image uploads.
-downloads: 1894
+downloads: 2004
 mobile: true
 number: 1745
-stars: 124
+stars: 126
 title: NoteToMP
 type: plugin
 updated: '2024-09-14T09:24:42'

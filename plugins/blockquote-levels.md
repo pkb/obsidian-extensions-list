@@ -7,10 +7,10 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Adds commands for increasing/decreasing the blockquote level of the current
   line or selection.
-downloads: 4541
+downloads: 4571
 mobile: true
 number: 608
-stars: 37
+stars: 38
 title: Blockquote Levels
 type: plugin
 updated: '2022-09-28T22:13:25'

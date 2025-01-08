@@ -5,7 +5,7 @@ author:
 - '[[authors/KarthikRaju391|Karthik S Raju]]'
 categories: []
 description: Enhanced highlights for Obsidian
-downloads: 4042
+downloads: 4062
 mobile: false
 number: 827
 stars: 9

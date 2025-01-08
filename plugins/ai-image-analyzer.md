@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Image handling|Image handling]]'
 description: Analyze images with AI to get keywords of the image.
-downloads: 3691
+downloads: 4603
 mobile: false
 number: 1800
-stars: 42
+stars: 45
 title: AI image analyzer
 type: plugin
-updated: '2024-08-01T13:00:06'
+updated: '2024-12-22T22:40:34'
 url: https://github.com/Swaggeroo/obsidian-ai-image-analyzer
-version: 0.1.10
+version: 0.1.11
 ---
 
 %% README_START %%

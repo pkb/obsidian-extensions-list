@@ -5,7 +5,7 @@ author:
 - '[[authors/mAAdhaTTah|James DiGioia]]'
 categories: []
 description: Easily document and view your poker hands.
-downloads: 3543
+downloads: 3560
 mobile: true
 number: 1035
 stars: 12
