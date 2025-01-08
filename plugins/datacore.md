@@ -1,9 +1,10 @@
 ---
 aliases:
-- Datacore
+  - Datacore
 author:
-- '[[authors/blacksmithgu|Michael Brenan]]'
-categories: []
+  - "[[authors/blacksmithgu|Michael Brenan]]"
+categories:
+  - "[[categories/Unlisted|Unlisted]]"
 description: Reactive data engine for Obsidian.md.
 downloads: -1
 mobile: true
@@ -11,7 +12,7 @@ number: 50002
 stars: 1500
 title: Datacore
 type: plugin
-updated: '2024-12-04T14:34:36'
+updated: 2024-12-04T14:34:36
 url: https://github.com/blacksmithgu/datacore
 version: 0.1.3
 ---
