@@ -25,7 +25,7 @@ const Category = ({type}) => {
     relation = new TreeRelation("category", "categories", "parent", true);
     currentFile = dc.useCurrentFile();
     category = new TreeItem(currentFile, relation);
-    const notes = relation.getCategoryNotes(currentFile);
+    const notes = relation.getItemNotes(currentFile);
     let relatedCategories = new Map();
     notes.forEach((note) => {
         let categories = note.value("categories");

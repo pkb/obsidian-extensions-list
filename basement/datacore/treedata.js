@@ -55,7 +55,7 @@ class TreeRelation
             return c.value(`${this.parent_field}`)?.path === item._page.$path;
         });
         let ret = data.map(c => new TreeItem(c, this));
-        const notes = this.getCategoryNotes(item.page);
+        const notes = this.getItemNotes(item.page);
         if (notes.length > 0) {
             ret = ret.concat(notes.map((n) => new Note(n)));
         }
@@ -72,9 +72,9 @@ class TreeRelation
         return dc.useQuery(query);
     }
     
-    getCategoryNotes(category) {
+    getItemNotes(category) {
         const notesWithCategory = this.allNotes.filter(p => { 
-            let categories = p.value("categories");
+            let categories = p.value(this.field);
             categories = Array.isArray(categories) ? categories : [categories];
             return categories.some(cat => cat.path === category.$path)
         });
