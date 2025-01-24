@@ -5,7 +5,7 @@ author:
 - '[[authors/Mijyuoon|Mijyuoon]]'
 categories: []
 description: Format interlinear glosses used in linguistics texts.
-downloads: 4165
+downloads: 4188
 mobile: true
 number: 938
 stars: 30

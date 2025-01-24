@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Add a sidebar view for comments and highlights.
-downloads: 5728
+downloads: 6387
 mobile: false
 number: 1476
-stars: 48
+stars: 49
 title: Enhanced Annotations
 type: plugin
-updated: '2024-09-04T00:37:20'
+updated: '2025-01-16T16:57:17'
 url: https://github.com/ycnmhd/obsidian-enhanced-annotations
-version: 0.1.6
+version: 0.1.7
 ---
 
 %% README_START %%

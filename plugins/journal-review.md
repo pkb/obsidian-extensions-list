@@ -7,10 +7,10 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Review your daily notes on their anniversaries, like "what happened today
   last year".
-downloads: 11619
+downloads: 11743
 mobile: true
 number: 841
-stars: 33
+stars: 34
 title: Journal Review
 type: plugin
 updated: '2024-10-25T23:35:46'

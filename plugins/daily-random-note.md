@@ -5,7 +5,7 @@ author:
 - '[[authors/D4rkP1xel|Alexandre Silva]]'
 categories: []
 description: Automatically open daily random notes based on your preferences.
-downloads: 230
+downloads: 267
 mobile: false
 number: 2005
 stars: 1

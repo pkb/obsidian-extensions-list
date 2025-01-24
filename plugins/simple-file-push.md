@@ -5,7 +5,7 @@ author:
 - '[[authors/huedaya|Kim Hudaya]]'
 categories: []
 description: Push Markdown file to API endpoint.
-downloads: 1024
+downloads: 1027
 mobile: true
 number: 1432
 stars: 5

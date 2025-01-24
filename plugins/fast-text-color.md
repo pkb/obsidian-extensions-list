@@ -6,15 +6,15 @@ author:
 categories: []
 description: Quickly apply fully integrated text coloring and formatting with a custom
   syntax and a keyboard-centric interface.
-downloads: 10404
+downloads: 12172
 mobile: true
 number: 1748
-stars: 33
+stars: 40
 title: Fast Text Color
 type: plugin
-updated: '2024-10-23T18:47:08'
+updated: '2025-01-11T00:51:15'
 url: https://github.com/Superschnizel/obisdian-fast-text-color
-version: 1.1.2
+version: 1.1.3
 ---
 
 %% README_START %%

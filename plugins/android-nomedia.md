@@ -6,7 +6,7 @@ author:
 categories: []
 description: Hides media from your Vault on Android devices by adding the 'nomedia'
   file to each folder.
-downloads: 4394
+downloads: 4420
 mobile: true
 number: 925
 stars: 5

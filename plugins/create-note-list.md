@@ -5,7 +5,7 @@ author:
 - '[[authors/andrewheekin|Andrew Heekin]]'
 categories: []
 description: Create a bulleted list (with links) of all notes in the current folder.
-downloads: 1091
+downloads: 1132
 mobile: true
 number: 1587
 stars: 6

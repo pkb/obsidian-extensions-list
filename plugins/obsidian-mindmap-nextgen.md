@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: View your Markdown as a mindmap
-downloads: 42260
+downloads: 45084
 mobile: true
 number: 703
-stars: 192
+stars: 199
 title: Mindmap NextGen
 type: plugin
-updated: '2024-11-18T01:15:14'
+updated: '2025-01-16T04:50:57'
 url: https://github.com/james-tindal/obsidian-mindmap-nextgen
-version: 1.9.1
+version: 1.10.0
 ---
 
 %% README_START %%

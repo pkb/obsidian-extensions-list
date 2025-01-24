@@ -6,7 +6,7 @@ author:
 categories: []
 description: Conceal or replace user configured text patterns in Live Preview and
   Read Mode.
-downloads: 1277
+downloads: 1298
 mobile: true
 number: 1395
 stars: 8

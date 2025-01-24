@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Embeddable Pikchr(https://pikchr.org) diagrams renderer for Obsidian(https://obsidian.md).
-downloads: 4397
+downloads: 4418
 mobile: true
 number: 777
-stars: 26
+stars: 27
 title: Adamantine Pick
 type: plugin
 updated: '2024-04-08T19:26:22'

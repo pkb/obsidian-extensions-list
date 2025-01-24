@@ -5,7 +5,7 @@ author:
 - '[[authors/joelseq|Joel Sequeira]]'
 categories: []
 description: Save links from your browser directly into Obsidian.
-downloads: 4006
+downloads: 4022
 mobile: true
 number: 1065
 stars: 45

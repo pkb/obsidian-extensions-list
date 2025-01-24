@@ -6,10 +6,10 @@ author:
 categories: []
 description: Extended reader view support for task lists, including in-progress and
   won't do task items.
-downloads: 2666
+downloads: 2711
 mobile: true
 number: 1359
-stars: 8
+stars: 9
 title: Extended Task Lists
 type: plugin
 updated: '2024-08-07T11:49:32'

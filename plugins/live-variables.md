@@ -6,13 +6,13 @@ author:
 categories: []
 description: Define variables in your note's properties and reuse them throughout
   your content.
-downloads: 1348
+downloads: 1479
 mobile: true
 number: 1871
-stars: 22
+stars: 23
 title: Live Variables
 type: plugin
-updated: '2024-11-12T19:21:33'
+updated: '2025-01-09T19:35:38'
 url: https://github.com/HamzaBenyazid/obsidian-live-variables
 version: 1.3.0
 ---

@@ -7,10 +7,10 @@ categories:
 - '[[categories/File management|File management]]'
 description: Perform file explorer operations (and see your current file path) from
   the title bar, using the mouse or keyboard
-downloads: 104485
+downloads: 105963
 mobile: false
 number: 277
-stars: 276
+stars: 278
 title: Quick Explorer
 type: plugin
 updated: '2024-11-24T02:10:47'

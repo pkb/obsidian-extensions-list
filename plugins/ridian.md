@@ -6,7 +6,7 @@ author:
 categories: []
 description: Execute R code blocks and display outputs and plots & render documents
   with Quarto within Obsidian.
-downloads: 286
+downloads: 326
 mobile: false
 number: 2029
 stars: 74

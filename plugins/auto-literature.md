@@ -5,7 +5,7 @@ author:
 - '[[authors/hucorz|hucorz]]'
 categories: []
 description: Assist you in taking notes for your literature.
-downloads: 3385
+downloads: 3405
 mobile: false
 number: 1101
 stars: 9

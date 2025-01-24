@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Manage and change tasks targeting a specific page
-downloads: 70
+downloads: 87
 mobile: true
 number: 2010
 stars: 2

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Downloads media files(eg. images, PDFs) from the URLs in documents and
   displays the content.
-downloads: 5415
+downloads: 5470
 mobile: false
 number: 1100
 stars: 18

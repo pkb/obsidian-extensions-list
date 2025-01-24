@@ -7,15 +7,15 @@ categories:
 - '[[categories/UI customization|UI customization]]'
 description: Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace,
   and more
-downloads: 120916
+downloads: 123255
 mobile: false
 number: 123
-stars: 241
+stars: 245
 title: Pane Relief
 type: plugin
-updated: '2024-11-09T13:03:39'
+updated: '2025-01-18T23:42:15'
 url: https://github.com/pjeby/pane-relief
-version: 0.5.6
+version: 0.5.7
 ---
 
 %% README_START %%

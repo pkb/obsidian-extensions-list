@@ -5,10 +5,10 @@ author:
 - '[[authors/Developer-Mike|Developer-Mike]]'
 categories: []
 description: Calculate LaTeX formulas inside Obsidian.
-downloads: 4905
+downloads: 4990
 mobile: true
 number: 1173
-stars: 7
+stars: 8
 title: Calctex
 type: plugin
 updated: '2024-03-22T01:45:38'

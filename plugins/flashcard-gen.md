@@ -9,23 +9,29 @@ categories:
 description: 'Craft insightful quizzes: Generate key questions/answers pairs from
   your notes effortlessly using Open ai''s GPT-3/4 or local models. Elevate and optimize
   your learning journey.'
-downloads: 4071
+downloads: 4126
 mobile: true
 number: 1114
 stars: 19
 title: Flashcard Generator
 type: plugin
-updated: '2023-08-08T17:51:21'
+updated: '2025-01-22T05:25:00'
 url: https://github.com/chloedia/Obsidian_Quiz_Generator
-version: 1.1.0
+version: 1.0.2
 ---
 
 %% README_START %%
 
-# Obsidian Local FlashCard Generator
+<p align="center">
+    <img src="https://raw.githubusercontent.com/chloedia/Obsidian_Quiz_Generator/HEAD/images/logo.png" alt="QuizCraft Logo" width="300"/>
+</p>
 
+<h1 align="center">Obsidian FlashCard Generator</h1>
 
-🚀 **Supercharge your Obsidian workflow with QuizCraft**, the revolutionary Obsidian plugin designed to **transform your notes into dynamic flashcards**. Seamlessly harness the power of LLMs, such as GPT-3 or GPT-4, or any OSS LLM to effortlessly generate customized flashcards from your notes. Prepare for exams, retain crucial information, and enhance your learning experience like never before.
+<p align="center">
+    🚀 <strong>Supercharge your Obsidian workflow</strong>, the revolutionary Obsidian plugin designed to <strong>transform your notes into dynamic flashcards</strong>. Seamlessly harness the power of LLMs, such as GPT-4o, or any OSS LLM to effortlessly generate customized flashcards from your notes. Prepare for exams, retain crucial information, and enhance your learning experience like never before.
+</p>
+
 
 ## Features
 
@@ -38,17 +44,18 @@ version: 1.1.0
 2. ⚙️ Access the plugin settings in Obsidian by navigating to `Settings` > `Flashcard Generator` under `Community Plugins`.
 3. ✅ Untoggle the "Use Local LLM" option if you want OpenAI.
 4. 🛠️ Enter your OpenAI API key in the designated field.
-5. 💻 Choose which model (gpt3.5 or gpt4) you want to use.
+5. 💻 Choose which model (gpt-4o or gpt-4o-mini) you want to use.
 6. 🔢 Choose whether to limit the number of questions to 10.
    
 ### Local LLM 
 1. 🛠️ Install Ollama from [here](https://ollama.com/) and follow the instructions to install it locally.
 2. ⚙️ Access the plugin settings in Obsidian by navigating to `Settings` > `Flashcard Generator` under `Community Plugins`.
 3. ✅  Toggle the "Use Local LLM" option if you want to use local models instead of OpenAI.
-4. 💻 Choose which model from ollama you want to use (you need to run a Model from Ollama first).
+4. 💻 Choose which model from ollama you want to use (you need to pull the Model from Ollama first) - We recommend using llama3, knoopx/hermes-2-pro-mistral, or models certified being able to generate structured output.
+
+⚠ You might have a CORS issue, to fix it, go in you terminal and run ```export OLLAMA_ORIGINS="app://obsidian.md*"```(mac/linux) or ```SETX /M OLLAMA_ORIGINS "app://obsidian.md*```on Windows
 
 ## Usage
-
 Create comprehensive quizzes with ease:
 - 📝 Click the plugin icon while viewing your note to initiate the process.
 - ✅ Validate the relevance of generated questions for your study.

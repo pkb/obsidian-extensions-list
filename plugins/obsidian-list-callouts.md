@@ -5,10 +5,10 @@ author:
 - '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Create simple callouts in lists.
-downloads: 86188
+downloads: 88242
 mobile: true
 number: 562
-stars: 324
+stars: 343
 title: List Callouts
 type: plugin
 updated: '2024-09-08T21:43:57'

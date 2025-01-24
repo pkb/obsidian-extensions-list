@@ -5,10 +5,10 @@ author:
 - '[[authors/sundevista|sundevista]]'
 categories: []
 description: A plugin that would help you to fetch YouTube videos data into your vault.
-downloads: 4825
+downloads: 4929
 mobile: true
 number: 1352
-stars: 30
+stars: 29
 title: YouTube Template
 type: plugin
 updated: '2024-08-15T18:43:14'

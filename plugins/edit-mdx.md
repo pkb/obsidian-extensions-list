@@ -5,7 +5,7 @@ author:
 - '[[authors/timppeters|Tim Peters]]'
 categories: []
 description: Allows the user to edit and create .mdx files.
-downloads: 2653
+downloads: 2674
 mobile: true
 number: 1267
 stars: 3

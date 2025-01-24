@@ -5,10 +5,10 @@ author:
 - '[[authors/natefrisch01|natefrisch01]]'
 categories: []
 description: Link types for graph view.
-downloads: 4734
+downloads: 4901
 mobile: true
 number: 1444
-stars: 96
+stars: 97
 title: Graph Link Types
 type: plugin
 updated: '2024-05-05T23:28:38'

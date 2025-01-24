@@ -7,7 +7,7 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: Uploads images from your clipboard to qiniu.com and embeds uploaded image
   to your note.
-downloads: 3075
+downloads: 3086
 mobile: true
 number: 1178
 stars: 4

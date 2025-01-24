@@ -6,7 +6,7 @@ author:
 - '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Add custom CSS classes to text based on regular expressions.
-downloads: 1440
+downloads: 1657
 mobile: true
 number: 1677
 stars: 20

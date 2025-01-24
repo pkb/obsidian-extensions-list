@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: This Plugin provides a simple Editor for Markdown, HTML and Colors and
   in addition a command interface. The command interface facilitate a faster workflow.
-downloads: 85119
+downloads: 86666
 mobile: true
 number: 88
 stars: 255

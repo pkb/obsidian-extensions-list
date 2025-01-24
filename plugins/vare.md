@@ -8,7 +8,7 @@ categories:
 description: Now you can easily manage your plugins and themes. Simply select the
   version you want or install unlisted versions from GitHub. You can also install
   beta version and switch back if necessary.
-downloads: 1182
+downloads: 1205
 mobile: false
 number: 1562
 stars: 8

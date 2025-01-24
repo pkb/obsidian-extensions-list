@@ -6,10 +6,10 @@ author:
 categories: []
 description: Grab movie data from public APIs and transform it into notes with a powerful
   templating engine.
-downloads: 4988
+downloads: 5063
 mobile: true
 number: 1182
-stars: 28
+stars: 29
 title: Moviegrabber
 type: plugin
 updated: '2024-10-11T16:52:57'

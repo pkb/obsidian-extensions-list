@@ -5,10 +5,10 @@ author:
 - '[[authors/ofalvai|ofalvai]]'
 categories: []
 description: Use Large Language Models grounded in your notes.
-downloads: 400
+downloads: 522
 mobile: false
 number: 2048
-stars: 14
+stars: 19
 title: LLM workspace
 type: plugin
 updated: '2024-11-29T23:06:29'

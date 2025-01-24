@@ -8,10 +8,10 @@ categories:
 description: Enhance your learning with active recall and spaced repetition. Track
   changes, create review questions, and streamline your study process for more effective,
   long-lasting learning.
-downloads: 1227
+downloads: 1312
 mobile: true
 number: 1833
-stars: 19
+stars: 21
 title: Learnie
 type: plugin
 updated: '2024-12-14T08:27:19'

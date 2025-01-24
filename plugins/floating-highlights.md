@@ -5,10 +5,10 @@ author:
 - '[[authors/KarthikRaju391|Karthik S Raju]]'
 categories: []
 description: Enhanced highlights for Obsidian
-downloads: 4062
+downloads: 4082
 mobile: false
 number: 827
-stars: 9
+stars: 10
 title: Floating Highlights
 type: plugin
 updated: '2023-03-13T10:51:16'

@@ -6,15 +6,15 @@ author:
 categories: []
 description: Gamify your task management with rewards system, craft your tasks by
   tags.
-downloads: 3240
+downloads: 3532
 mobile: true
 number: 1574
-stars: 58
+stars: 60
 title: Gamified Tasks
 type: plugin
-updated: '2024-11-27T00:15:23'
+updated: '2025-01-17T01:12:46'
 url: https://github.com/dromse/obsidian-gamified-tasks
-version: 1.9.0
+version: 1.9.2
 ---
 
 %% README_START %%

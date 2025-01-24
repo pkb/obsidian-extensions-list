@@ -5,10 +5,10 @@ author:
 - '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Hide unwanted commands from the command palette.
-downloads: 1201
+downloads: 1217
 mobile: true
 number: 1507
-stars: 9
+stars: 10
 title: Command Block List
 type: plugin
 updated: '2024-02-19T10:02:07'

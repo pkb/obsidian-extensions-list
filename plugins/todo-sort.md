@@ -7,7 +7,7 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: A plugin for Obsidian (https://obsidian.md) that sorts todos by completion
   status.
-downloads: 5903
+downloads: 5985
 mobile: true
 number: 727
 stars: 14

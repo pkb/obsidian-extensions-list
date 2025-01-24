@@ -5,7 +5,7 @@ author:
 - '[[authors/rveciana|Roger Veciana i Rovira]]'
 categories: []
 description: Display and edit recipes written in the Cooklang format.
-downloads: 1828
+downloads: 1861
 mobile: true
 number: 1494
 stars: 8

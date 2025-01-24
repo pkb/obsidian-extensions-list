@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Generates diagrams using Pintora
-downloads: 146
+downloads: 155
 mobile: true
 number: 1904
 stars: 4

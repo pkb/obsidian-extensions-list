@@ -6,10 +6,10 @@ author:
 categories: []
 description: Metadata export on a schedule for integration with third-party apps like
   launchers.
-downloads: 20871
+downloads: 21066
 mobile: false
 number: 303
-stars: 103
+stars: 104
 title: Metadata Extractor
 type: plugin
 updated: '2022-12-20T18:15:36'

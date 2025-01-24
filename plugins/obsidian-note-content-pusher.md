@@ -6,7 +6,7 @@ author:
 categories: []
 description: An Obsidian plugin to automatically create notes with some specified
   content when you link to a note that doesn't yet exist.
-downloads: 3813
+downloads: 3832
 mobile: true
 number: 637
 stars: 25

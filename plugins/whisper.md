@@ -5,10 +5,10 @@ author:
 - '[[authors/nikdanilov|Nik Danilov]]'
 categories: []
 description: Speech-to-text in Obsidian using OpenAI Whisper
-downloads: 22825
+downloads: 23362
 mobile: true
 number: 865
-stars: 237
+stars: 241
 title: Whisper
 type: plugin
 updated: '2024-01-29T21:58:33'

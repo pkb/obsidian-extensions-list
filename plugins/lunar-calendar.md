@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: 一个支持农历的日历
-downloads: 3265
+downloads: 3287
 mobile: false
 number: 1204
-stars: 3
+stars: 4
 title: Lunar Calendar
 type: plugin
 updated: '2024-05-19T17:08:38'

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Generates a pomodoro schedule plan
-downloads: 1953
+downloads: 2008
 mobile: true
 number: 1488
 stars: 3

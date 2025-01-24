@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a simple plugin to automatically remove emojis from filenames.
   Main purpose is to get rid of Dropbox sync issues for Readwise imported content.
-downloads: 3868
+downloads: 3880
 mobile: true
 number: 511
 stars: 8

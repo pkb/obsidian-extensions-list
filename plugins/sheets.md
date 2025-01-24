@@ -6,10 +6,10 @@ author:
 categories: []
 description: Vertical headers, merged cells, and custom css tables with advanced table
   compatibility
-downloads: 23740
+downloads: 24553
 mobile: true
 number: 1118
-stars: 108
+stars: 114
 title: Sheets Extended
 type: plugin
 updated: '2024-03-19T13:31:50'

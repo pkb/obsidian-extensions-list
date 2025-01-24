@@ -5,10 +5,10 @@ author:
 - '[[authors/cosmicoptima|celeste]]'
 categories: []
 description: Loom in Obsidian
-downloads: 5325
+downloads: 5345
 mobile: false
 number: 906
-stars: 269
+stars: 271
 title: Loom
 type: plugin
 updated: '2024-09-04T13:26:06'

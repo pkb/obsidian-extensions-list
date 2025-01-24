@@ -5,7 +5,7 @@ author:
 - '[[authors/jacoblearned|Jacob Learned]]'
 categories: []
 description: Automatically template notes based on their title.
-downloads: 274
+downloads: 308
 mobile: true
 number: 2078
 stars: 4

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Send templates to chatgpt when you open a file
-downloads: 7698
+downloads: 8025
 mobile: false
 number: 1472
 stars: 5

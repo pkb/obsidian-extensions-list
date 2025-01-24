@@ -5,7 +5,7 @@ author:
 - '[[authors/ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Automatically repair internal links to blocks and headings
-downloads: 4952
+downloads: 4996
 mobile: true
 number: 911
 stars: 62

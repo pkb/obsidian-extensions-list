@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Select text to instantly access quick tools
-downloads: 1743
+downloads: 2083
 mobile: true
 number: 1782
 stars: 32
 title: PopKit
 type: plugin
-updated: '2024-08-17T20:33:50'
+updated: '2025-01-23T21:30:32'
 url: https://github.com/zhouhua/obsidian-popkit
-version: 1.0.13
+version: 1.1.3
 ---
 
 %% README_START %%

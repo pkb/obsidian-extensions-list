@@ -5,10 +5,10 @@ author:
 - '[[authors/michaellee|Michael Lee]]'
 categories: []
 description: Focus on your writing, a section at a time.
-downloads: 25850
+downloads: 26118
 mobile: true
 number: 286
-stars: 88
+stars: 89
 title: Stille
 type: plugin
 updated: '2023-10-13T08:52:31'

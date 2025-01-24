@@ -5,10 +5,10 @@ author:
 - '[[authors/quorafind|Boninall]]'
 categories: []
 description: Support new line order list like 1、 or (1)., etc.
-downloads: 1623
+downloads: 1647
 mobile: true
 number: 1405
-stars: 6
+stars: 7
 title: Better Order List
 type: plugin
 updated: '2024-01-12T18:15:38'

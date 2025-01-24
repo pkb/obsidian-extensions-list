@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Optional `folderv` Component for alx-folder-note
-downloads: 11870
+downloads: 11910
 mobile: true
 number: 428
-stars: 7
+stars: 8
 title: AidenLx's Folder Note - folderv component
 type: plugin
 updated: '2022-02-18T14:29:02'

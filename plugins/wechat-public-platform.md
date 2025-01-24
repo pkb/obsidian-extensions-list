@@ -7,7 +7,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Release the article from your vault to WeChat, Baidu Baijiahao, or another
   article release platform.
-downloads: 651
+downloads: 680
 mobile: false
 number: 1744
 stars: 63

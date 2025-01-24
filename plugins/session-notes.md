@@ -5,7 +5,7 @@ author:
 - '[[authors/tabibyte|tabibyte]]'
 categories: []
 description: Create temporary session or one-off notes
-downloads: 118
+downloads: 135
 mobile: true
 number: 1972
 stars: 4

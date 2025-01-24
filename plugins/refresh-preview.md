@@ -5,15 +5,15 @@ author:
 - '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Allows to refresh preview mode without reopening the note
-downloads: 1184
+downloads: 1368
 mobile: true
 number: 1769
-stars: 5
+stars: 6
 title: Refresh Preview
 type: plugin
-updated: '2024-12-27T11:03:45'
+updated: '2025-01-21T23:39:25'
 url: https://github.com/mnaoumov/obsidian-refresh-preview
-version: 2.0.4
+version: 2.0.6
 ---
 
 %% README_START %%
@@ -46,6 +46,18 @@ The plugin allows to configure auto refresh within a given time interval.
 
 - `Refresh Preview` is available on [the official Community Plugins repository](https://obsidian.md/plugins?id=refresh-preview).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('refresh-preview');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## Support
 

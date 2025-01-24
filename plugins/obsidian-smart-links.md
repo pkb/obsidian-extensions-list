@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for Obsidian that allows users to define custom link
   formats
-downloads: 5071
+downloads: 5099
 mobile: true
 number: 686
 stars: 28

@@ -5,10 +5,10 @@ author:
 - '[[authors/dsebastien|Sébastien Dubois]]'
 categories: []
 description: Replicate.com integration. Use AI models with ease
-downloads: 9
+downloads: 47
 mobile: false
 number: 2100
-stars: 5
+stars: 6
 title: Replicate
 type: plugin
 updated: '2024-12-23T14:41:10'

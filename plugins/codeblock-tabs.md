@@ -5,7 +5,7 @@ author:
 - '[[authors/JeminMau|Jemin Mau]]'
 categories: []
 description: Create tab group for contiguous CodeBlocks.
-downloads: 5309
+downloads: 5392
 mobile: true
 number: 1067
 stars: 25

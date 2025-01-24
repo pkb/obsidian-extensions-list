@@ -6,15 +6,15 @@ author:
 categories: []
 description: This is an image uploader for Obsidian that allows you to self host images
   on AWS s3. This plugin is supported by advertisements.
-downloads: 4630
+downloads: 4723
 mobile: true
 number: 779
-stars: 36
+stars: 40
 title: S3 Image Uploader
 type: plugin
-updated: '2024-11-10T16:53:25'
+updated: '2025-01-18T03:43:56'
 url: https://github.com/jvsteiner/s3-image-uploader
-version: 0.2.14
+version: 0.2.36
 ---
 
 %% README_START %%

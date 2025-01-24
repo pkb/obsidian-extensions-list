@@ -5,10 +5,10 @@ author:
 - '[[authors/typhoon-kim|Typhoon-Kim]]'
 categories: []
 description: Syntax highlighting for Svelte code blocks.
-downloads: 389
+downloads: 421
 mobile: true
 number: 1710
-stars: 10
+stars: 11
 title: Svelte Syntax Highlighter
 type: plugin
 updated: '2024-06-04T00:29:05'

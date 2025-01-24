@@ -5,10 +5,10 @@ author:
 - '[[authors/Canna71|Gabriele Cannata]]'
 categories: []
 description: Performs cleanup tasks on the Obsidian vault
-downloads: 32617
+downloads: 33072
 mobile: true
 number: 598
-stars: 97
+stars: 96
 title: Janitor
 type: plugin
 updated: '2023-01-08T23:51:33'

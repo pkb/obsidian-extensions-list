@@ -6,13 +6,13 @@ author:
 categories: []
 description: A plugin that can query multiple APIs for movies, series, anime, games,
   music and wiki articles, and import them into your vault.
-downloads: 26535
+downloads: 27043
 mobile: true
 number: 527
-stars: 260
+stars: 263
 title: Media DB
 type: plugin
-updated: '2024-07-05T18:27:46'
+updated: '2025-01-15T03:34:21'
 url: https://github.com/mProjectsCode/obsidian-media-db-plugin
 version: 0.7.2
 ---

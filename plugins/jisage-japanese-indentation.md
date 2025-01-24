@@ -6,7 +6,7 @@ author:
 categories: []
 description: Display 'Jisage' (indenting with a full-width space at the beginning
   of a line) text correctly.
-downloads: 173
+downloads: 193
 mobile: true
 number: 1975
 stars: 2

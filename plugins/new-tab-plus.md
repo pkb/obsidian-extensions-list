@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allow to open markdown files, graph and canvas in new tab as the default
   behavior.
-downloads: 3566
+downloads: 3786
 mobile: false
 number: 1545
 stars: 21

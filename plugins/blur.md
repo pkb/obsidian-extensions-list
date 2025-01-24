@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Create obfuscated blocks of text.
-downloads: 4675
+downloads: 4723
 mobile: true
 number: 950
-stars: 34
+stars: 35
 title: Blur
 type: plugin
 updated: '2023-06-22T04:05:12'

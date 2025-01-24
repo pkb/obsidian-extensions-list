@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: This is an Obsidian plugin to allow easily sideloading other plugins.
-downloads: 5389
+downloads: 5429
 mobile: true
 number: 505
 stars: 30

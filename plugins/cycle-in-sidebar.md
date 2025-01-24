@@ -6,7 +6,7 @@ author:
 categories: []
 description: This a plugin provides hotkeys to cycle through tabs in the left or right
   sidebars.
-downloads: 4720
+downloads: 4776
 mobile: true
 number: 776
 stars: 12

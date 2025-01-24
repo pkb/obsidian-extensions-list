@@ -8,10 +8,10 @@ categories:
 description: Generate and brainstorm ideas while creating your notes using Large Language
   Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI,
   and more for Obsidian.
-downloads: 25675
+downloads: 26252
 mobile: true
 number: 979
-stars: 393
+stars: 402
 title: BMO Chatbot
 type: plugin
 updated: '2024-07-25T06:07:32'

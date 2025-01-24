@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Open or reveal the current note in DEVONthink.
-downloads: 8595
+downloads: 8615
 mobile: false
 number: 124
-stars: 92
+stars: 93
 title: DEVONlink
 type: plugin
 updated: '2021-06-19T01:07:21'

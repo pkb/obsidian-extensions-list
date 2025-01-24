@@ -5,7 +5,7 @@ author:
 - '[[authors/k4a-l|kasahala]]'
 categories: []
 description: Render a directory Structure Diagram from a markdown lists in codeblock.
-downloads: 5555
+downloads: 5591
 mobile: true
 number: 671
 stars: 30

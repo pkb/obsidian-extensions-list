@@ -9,7 +9,7 @@ description: Multi-regex management for data linking and batch processing across
   and knowledge workers. Enables dynamic data organization and can be used to standardize
   links or as text-search. Streamline note-taking, data analysis, and report generation
   with intuitive regex pattern application and modification.
-downloads: 3247
+downloads: 3261
 mobile: true
 number: 1324
 stars: 18

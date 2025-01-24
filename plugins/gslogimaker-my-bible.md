@@ -5,10 +5,10 @@ author:
 - '[[authors/GsLogiMaker|GsLogimaker]]'
 categories: []
 description: Your own customizable markdown bible for your personal vault!
-downloads: 4632
+downloads: 4827
 mobile: true
 number: 1410
-stars: 31
+stars: 33
 title: My Bible
 type: plugin
 updated: '2024-12-18T03:35:37'

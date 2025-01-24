@@ -8,10 +8,10 @@ categories:
 description: A Prompt Engineering research utility for generative AI models like OpenAI's
   ChatGPT that facilitates archiving and searching conversations and live editing
   a conversation's context/memory.
-downloads: 6825
+downloads: 6915
 mobile: false
 number: 1085
-stars: 111
+stars: 112
 title: AI Research Assistant
 type: plugin
 updated: '2023-10-30T19:37:36'

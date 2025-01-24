@@ -6,7 +6,7 @@ author:
 categories: []
 description: Add better Live Preview support for math rendering inside callouts &
   blockquotes.
-downloads: 4211
+downloads: 4334
 mobile: true
 number: 1327
 stars: 31

@@ -5,7 +5,7 @@ author:
 - '[[authors/pulsovi|Pulsovi]]'
 categories: []
 description: Provide a preview mode for embeded `*.eml` files.
-downloads: 4687
+downloads: 4757
 mobile: true
 number: 1153
 stars: 9

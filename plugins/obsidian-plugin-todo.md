@@ -7,10 +7,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: Text-based GTD in Obsidian. Collects all outstanding TODOs from your
   vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe.
-downloads: 62821
+downloads: 63339
 mobile: true
 number: 105
-stars: 275
+stars: 277
 title: Obsidian TODO | Text-based GTD
 type: plugin
 updated: '2022-01-20T02:32:07'

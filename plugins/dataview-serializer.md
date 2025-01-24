@@ -6,10 +6,10 @@ author:
 categories: []
 description: Serialize Dataview queries to Markdown, and keep the Markdown representation
   up to date.
-downloads: 2496
+downloads: 2655
 mobile: true
 number: 1747
-stars: 76
+stars: 82
 title: Dataview Serializer
 type: plugin
 updated: '2024-11-27T00:08:55'

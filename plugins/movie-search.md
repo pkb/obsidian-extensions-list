@@ -5,7 +5,7 @@ author:
 - '[[authors/Gubchik123|Gubchik123]]'
 categories: []
 description: Helps you find movies and create notes.
-downloads: 1785
+downloads: 1822
 mobile: true
 number: 1497
 stars: 8

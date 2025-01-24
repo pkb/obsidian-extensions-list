@@ -6,7 +6,7 @@ author:
 categories: []
 description: Set ordered list style inline in Obsidian.md. Alphabetic lists, roman
   numeral lists, etc.
-downloads: 7189
+downloads: 7299
 mobile: true
 number: 654
 stars: 21

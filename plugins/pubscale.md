@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Seamlessly sync markdown notes into PlanetScale tables.
-downloads: 3169
+downloads: 3172
 mobile: true
 number: 933
-stars: 6
+stars: 7
 title: PubScale
 type: plugin
 updated: '2023-05-21T08:21:57'

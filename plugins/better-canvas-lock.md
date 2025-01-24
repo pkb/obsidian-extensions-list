@@ -6,10 +6,10 @@ author:
 categories: []
 description: Enhance the read-only mode in canvas with fully lock the scroll, zoom,
   drag-and-drop in read-only!
-downloads: 3387
+downloads: 3455
 mobile: true
 number: 1279
-stars: 14
+stars: 15
 title: Better Canvas Lock
 type: plugin
 updated: '2024-05-26T15:13:41'

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Automation|Automation]]'
 description: Insert hyperlink according to user-defined rule
-downloads: 4064
+downloads: 4102
 mobile: true
 number: 1022
 stars: 11

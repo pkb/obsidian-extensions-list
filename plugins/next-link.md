@@ -5,7 +5,7 @@ author:
 - '[[authors/jdluque|Juan Luque]]'
 categories: []
 description: Jump quickly between note links.
-downloads: 2818
+downloads: 2826
 mobile: false
 number: 1168
 stars: 3

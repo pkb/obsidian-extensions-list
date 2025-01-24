@@ -5,7 +5,7 @@ author:
 - '[[authors/o02c|o02c]]'
 categories: []
 description: Simple Tab Switcher, search open tabs.
-downloads: 3523
+downloads: 3662
 mobile: false
 number: 1626
 stars: 6

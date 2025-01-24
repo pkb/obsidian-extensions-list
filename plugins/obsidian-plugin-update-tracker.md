@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Know when installed plugins have updates and evaluate the risk of upgrading
-downloads: 89735
+downloads: 91445
 mobile: true
 number: 630
-stars: 124
+stars: 126
 title: Plugin Update Tracker
 type: plugin
 updated: '2024-10-14T07:11:10'

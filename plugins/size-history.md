@@ -7,10 +7,10 @@ categories:
 - '[[categories/Statistics|Statistics]]'
 - '[[categories/Charting|Charting]]'
 description: Admire the growth of your Obsidian vault with a "hand-drawn" chart.
-downloads: 3767
+downloads: 3796
 mobile: true
 number: 1154
-stars: 11
+stars: 12
 title: Size History
 type: plugin
 updated: '2023-08-31T03:24:25'

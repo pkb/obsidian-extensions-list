@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize your notes from Voicenotes.com
-downloads: 4706
+downloads: 4830
 mobile: true
 number: 1657
-stars: 52
+stars: 53
 title: Voicenotes Sync
 type: plugin
 updated: '2024-11-27T05:36:05'

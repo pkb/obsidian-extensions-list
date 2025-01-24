@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: ''
-downloads: 4646
+downloads: 4667
 mobile: true
 number: 474
-stars: 43
+stars: 44
 title: Telegraph Publish
 type: plugin
 updated: '2022-05-17T13:03:47'

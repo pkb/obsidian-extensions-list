@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for Obsidian that adds a button to scroll to the top
   of the current note.
-downloads: 14464
+downloads: 14639
 mobile: true
 number: 663
 stars: 50

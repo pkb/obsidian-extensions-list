@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish notes to Google Blogger.
-downloads: 617
+downloads: 627
 mobile: true
 number: 1596
 stars: 6

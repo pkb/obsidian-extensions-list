@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Shows daily and weekly notes from this day in years past.
-downloads: 3936
+downloads: 3962
 mobile: false
 number: 1084
 stars: 16

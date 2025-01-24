@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin takes a stock symbol and returns a callout block with the
   latest stock information.
-downloads: 4252
+downloads: 4283
 mobile: true
 number: 862
 stars: 10

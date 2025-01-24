@@ -5,7 +5,7 @@ author:
 - '[[authors/tdresser|Tim Dresser]]'
 categories: []
 description: Visualize Juggling Pattern Siteswap via the JugglingLab gif server.
-downloads: 3486
+downloads: 3490
 mobile: true
 number: 395
 stars: 4

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enables end-to-end encrypted file sharing directly between vaults via
   a socket server.
-downloads: 274
+downloads: 298
 mobile: false
 number: 1863
 stars: 9

@@ -8,7 +8,7 @@ categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Inline timelines generated from human-readable time strings, e.g. 'Walk
   dog (30min)' in a ```schedule codeblock.
-downloads: 2125
+downloads: 2169
 mobile: true
 number: 1370
 stars: 16

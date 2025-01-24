@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin uploads the image in your clipboard to chevereto automatically
   when pasting.
-downloads: 3532
+downloads: 3537
 mobile: false
 number: 429
 stars: 10

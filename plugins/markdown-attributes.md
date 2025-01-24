@@ -5,7 +5,7 @@ author:
 - '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Add markdown attributes to elements in Obsidian.md
-downloads: 15552
+downloads: 15737
 mobile: true
 number: 236
 stars: 94

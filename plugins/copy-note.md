@@ -5,7 +5,7 @@ author:
 - '[[authors/kzhovn|kzhovn]]'
 categories: []
 description: Augments native Obsidian note copying.
-downloads: 6432
+downloads: 6507
 mobile: true
 number: 292
 stars: 11

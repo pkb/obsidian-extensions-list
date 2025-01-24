@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Allows you to add dividers to the ribbon to space out your icons.
-downloads: 4397
+downloads: 4496
 mobile: true
 number: 1343
-stars: 14
+stars: 16
 title: Ribbon Divider
 type: plugin
 updated: '2024-03-27T02:46:10'

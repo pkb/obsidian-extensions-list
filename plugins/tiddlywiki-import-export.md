@@ -7,7 +7,7 @@ categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Export|Export]]'
 description: Import and export TiddlyWiki from and to Obsidian.
-downloads: 3923
+downloads: 3967
 mobile: false
 number: 847
 stars: 20

@@ -5,7 +5,7 @@ author:
 - '[[authors/modality|Michael Hansen]]'
 categories: []
 description: Render TOR 2e statblocks in Obsidian.
-downloads: 3502
+downloads: 3513
 mobile: true
 number: 769
 stars: 10

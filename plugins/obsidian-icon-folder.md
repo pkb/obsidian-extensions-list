@@ -7,10 +7,10 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add icons to anything you desire in Obsidian, including files, folders,
   and text.
-downloads: 1219597
+downloads: 1260007
 mobile: true
 number: 280
-stars: 955
+stars: 985
 title: Iconize
 type: plugin
 updated: '2025-01-03T15:03:15'

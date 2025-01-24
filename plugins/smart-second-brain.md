@@ -8,10 +8,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Interact with your privacy focused assistant, leveraging Ollama or OpenAI,
   making your second brain even smarter.
-downloads: 28866
+downloads: 30336
 mobile: false
 number: 1418
-stars: 711
+stars: 735
 title: Smart Second Brain
 type: plugin
 updated: '2024-05-18T17:45:48'

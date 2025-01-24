@@ -6,7 +6,7 @@ author:
 - '[[authors/taskscape|Kacper Pabianiak]]'
 categories: []
 description: Rename selected file with a random GUID.
-downloads: 154
+downloads: 170
 mobile: true
 number: 1749
 stars: 0

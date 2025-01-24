@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Easily convert your article to image.
-downloads: 27679
+downloads: 28803
 mobile: true
 number: 665
-stars: 117
+stars: 121
 title: Export Image plugin
 type: plugin
 updated: '2024-12-29T19:12:59'

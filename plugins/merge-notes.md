@@ -5,7 +5,7 @@ author:
 - '[[authors/fnya|fnya]]'
 categories: []
 description: Merge the selected notes.
-downloads: 6391
+downloads: 6564
 mobile: false
 number: 1177
 stars: 13

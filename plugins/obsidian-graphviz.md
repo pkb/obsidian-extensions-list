@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Render Graphviz Diagrams
-downloads: 11499
+downloads: 11638
 mobile: false
 number: 381
 stars: 81

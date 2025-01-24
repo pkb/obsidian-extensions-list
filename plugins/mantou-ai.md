@@ -6,10 +6,10 @@ author:
 categories: []
 description: Work as a personal assistant for translation, writing polish, general
   Q&A, summarizing, using the power of large language models.
-downloads: 2009
+downloads: 2029
 mobile: true
 number: 1487
-stars: 87
+stars: 88
 title: MantouAI
 type: plugin
 updated: '2024-02-23T18:56:49'

@@ -5,7 +5,7 @@ author:
 - '[[authors/oin|join]]'
 categories: []
 description: Quickly navigate between headings
-downloads: 3621
+downloads: 3645
 mobile: false
 number: 1186
 stars: 14

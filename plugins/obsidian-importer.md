@@ -7,10 +7,10 @@ categories:
 - '[[categories/Import|Import]]'
 description: Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google
   Keep, Bear, Roam, and HTML files.
-downloads: 481251
+downloads: 501978
 mobile: true
 number: 974
-stars: 802
+stars: 822
 title: Importer
 type: plugin
 updated: '2025-01-03T23:50:11'

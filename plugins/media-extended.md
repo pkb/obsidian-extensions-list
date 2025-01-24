@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Media(Video/Audio) Playback Enhancement for Obsidian.md
-downloads: 189962
+downloads: 192494
 mobile: false
 number: 149
-stars: 660
+stars: 668
 title: Media Extended
 type: plugin
 updated: '2024-08-16T13:32:09'

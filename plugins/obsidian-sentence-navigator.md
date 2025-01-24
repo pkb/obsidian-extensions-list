@@ -6,7 +6,7 @@ author:
 categories: []
 description: Manipulate sentences as a unit of movement. Select, move and delete by
   whole sentences.
-downloads: 5368
+downloads: 5385
 mobile: true
 number: 350
 stars: 41

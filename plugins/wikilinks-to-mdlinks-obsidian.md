@@ -5,10 +5,10 @@ author:
 - '[[authors/agathauy|Agatha Uy]]'
 categories: []
 description: A plugin that converts wikilinks to markdown links and vice versa
-downloads: 17262
+downloads: 17373
 mobile: true
 number: 37
-stars: 109
+stars: 110
 title: Wikilinks to MDLinks
 type: plugin
 updated: '2020-11-19T03:04:46'

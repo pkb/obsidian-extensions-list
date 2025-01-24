@@ -7,10 +7,10 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add customizable colorful borders to notes based on folder location or
   frontmatter metadata, enhancing visual organization in Obsidian.
-downloads: 9899
+downloads: 10047
 mobile: true
 number: 866
-stars: 35
+stars: 37
 title: Colorful Note Borders
 type: plugin
 updated: '2023-03-31T07:36:03'

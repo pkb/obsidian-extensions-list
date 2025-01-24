@@ -6,7 +6,7 @@ author:
 categories: []
 description: An implementation of party.js for Obsidian. Create confetti, sparkles
   and even custom effects in your notes!
-downloads: 5792
+downloads: 5818
 mobile: true
 number: 600
 stars: 25

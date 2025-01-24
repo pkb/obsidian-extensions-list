@@ -5,7 +5,7 @@ author:
 - '[[authors/mgmeyers|mgmeyers]]'
 categories: []
 description: Allows swapping out Obsidian's default icons.
-downloads: 8444
+downloads: 8489
 mobile: true
 number: 154
 stars: 39

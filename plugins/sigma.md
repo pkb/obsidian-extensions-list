@@ -5,10 +5,10 @@ author:
 - '[[authors/monesga|monesga]]'
 categories: []
 description: A plugin to enable using obsidian notes as calculation sheets.
-downloads: 4369
+downloads: 4380
 mobile: true
 number: 679
-stars: 24
+stars: 25
 title: Sigma
 type: plugin
 updated: '2022-11-11T07:26:18'

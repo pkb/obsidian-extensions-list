@@ -6,10 +6,10 @@ author:
 categories: []
 description: Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse
   API
-downloads: 10356
+downloads: 10514
 mobile: true
 number: 729
-stars: 46
+stars: 47
 title: Wordy
 type: plugin
 updated: '2023-08-11T00:20:12'

@@ -5,7 +5,7 @@ author:
 - '[[authors/pulsovi|Pulsovi]]'
 categories: []
 description: This plugin manage aliases of notes in Obsidian.
-downloads: 4416
+downloads: 4425
 mobile: true
 number: 781
 stars: 21

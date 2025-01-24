@@ -5,10 +5,10 @@ author:
 - '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Read RSS Feeds from within obsidian
-downloads: 29036
+downloads: 29300
 mobile: true
 number: 354
-stars: 401
+stars: 411
 title: RSS Reader
 type: plugin
 updated: '2022-06-27T13:36:52'

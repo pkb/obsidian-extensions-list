@@ -5,7 +5,7 @@ author:
 - '[[authors/kerry|Prateek Grover]]'
 categories: []
 description: Sync Obsidian notes with Confluence
-downloads: 1574
+downloads: 1619
 mobile: true
 number: 1501
 stars: 10

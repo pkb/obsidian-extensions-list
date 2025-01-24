@@ -5,7 +5,7 @@ author:
 - '[[authors/moismat|jmxo]]'
 categories: []
 description: Hides the cursor when scrolling and shows it again when moving the mouse.
-downloads: 3880
+downloads: 3903
 mobile: false
 number: 932
 stars: 5

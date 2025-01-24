@@ -5,10 +5,10 @@ author:
 - '[[authors/tabibyte|tabibyte]]'
 categories: []
 description: A neofetch-style vault information display
-downloads: 410
+downloads: 474
 mobile: false
 number: 2046
-stars: 61
+stars: 62
 title: Obsifetch
 type: plugin
 updated: '2024-11-19T19:50:50'

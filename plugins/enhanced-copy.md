@@ -7,10 +7,10 @@ categories: []
 description: Copy your selection and add it some edit to paste in other markdown software.
   Allows to keep markdown in reading view, removing wikilinks in editing, copy from
   locked canvas, and more!
-downloads: 3505
+downloads: 3604
 mobile: true
 number: 1591
-stars: 19
+stars: 20
 title: Enhanced Copy
 type: plugin
 updated: '2024-10-31T17:49:30'

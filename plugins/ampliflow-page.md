@@ -5,7 +5,7 @@ author:
 - '[[authors/AmpliFlow|Patrik Björklund]]'
 categories: []
 description: Publish notes easily to AmpliFlow (https://www.ampliflow.se)
-downloads: 24
+downloads: 31
 mobile: true
 number: 2084
 stars: 1

@@ -7,10 +7,10 @@ categories: []
 description: Effortlessly treat any file extension as note, organize diverse file
   formats in your vault and take advancements in control of extension system even
   with custom modals.
-downloads: 16278
+downloads: 16697
 mobile: true
 number: 1078
-stars: 68
+stars: 72
 title: UNITADE.md
 type: plugin
 updated: '2024-11-22T16:51:23'

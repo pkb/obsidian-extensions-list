@@ -5,7 +5,7 @@ author:
 - '[[authors/lynchjames|lynchjames]]'
 categories: []
 description: Set dynamic writing goals for notes and folders in Obsidian.
-downloads: 14698
+downloads: 15135
 mobile: true
 number: 1169
 stars: 79

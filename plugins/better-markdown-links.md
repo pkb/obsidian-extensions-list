@@ -5,15 +5,15 @@ author:
 - '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Adds support for angle bracket links and manages relative links properly
-downloads: 2347
+downloads: 2551
 mobile: true
 number: 1784
 stars: 14
 title: Better Markdown Links
 type: plugin
-updated: '2024-12-28T04:54:25'
+updated: '2025-01-21T23:38:35'
 url: https://github.com/mnaoumov/obsidian-better-markdown-links
-version: 2.10.4
+version: 2.10.8
 ---
 
 %% README_START %%
@@ -73,6 +73,18 @@ But those handlers are designed to work fine with each other and the plugins can
 
 - `Better Markdown Links` is available in [the official Community Plugins repository](https://obsidian.md/plugins?id=better-markdown-links).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('better-markdown-links');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## License
 

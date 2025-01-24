@@ -5,10 +5,10 @@ author:
 - '[[authors/ChasKane|Chas Kane]]'
 categories: []
 description: Colorful, customizable toolbar, designed for mobile.
-downloads: 416
+downloads: 505
 mobile: true
 number: 2064
-stars: 9
+stars: 10
 title: Gay Toolbar
 type: plugin
 updated: '2024-12-19T17:18:59'

@@ -6,10 +6,10 @@ author:
 categories: []
 description: This Obsidian plugin lets you customize your codeblocks in editing, and
   reading mode as well.
-downloads: 25229
+downloads: 25828
 mobile: true
 number: 882
-stars: 189
+stars: 191
 title: Codeblock Customizer
 type: plugin
 updated: '2024-09-24T02:15:49'

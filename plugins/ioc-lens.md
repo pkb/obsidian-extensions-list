@@ -6,10 +6,10 @@ author:
 categories: []
 description: Extracts and displays security-relevant indicators such as IP addresses,
   domains, and file hashes to enhance your cyber security note-taking process.
-downloads: 218
+downloads: 246
 mobile: false
 number: 2007
-stars: 11
+stars: 13
 title: IOC Lens
 type: plugin
 updated: '2024-12-11T17:47:21'

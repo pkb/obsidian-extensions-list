@@ -5,7 +5,7 @@ author:
 - '[[authors/SimeonLukas|Simeon Stanek]]'
 categories: []
 description: Send .md as .epub to Ereader/Kindle/Pocketbook
-downloads: 8245
+downloads: 8304
 mobile: true
 number: 450
 stars: 56

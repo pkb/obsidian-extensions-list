@@ -6,7 +6,7 @@ author:
 categories: []
 description: Improved interaction with the knowledge base in so-called wandering mode
   by opening specific Random Notes.
-downloads: 5475
+downloads: 5670
 mobile: true
 number: 1226
 stars: 14

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: This plugin helps integrate Habitica user tasks and stats into Obsidian
-downloads: 7380
+downloads: 7439
 mobile: true
 number: 336
 stars: 91

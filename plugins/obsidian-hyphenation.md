@@ -5,7 +5,7 @@ author:
 - '[[authors/7596ff|Cassandra McCarthy]]'
 categories: []
 description: Enables justified text and hyphenation
-downloads: 6819
+downloads: 6908
 mobile: true
 number: 756
 stars: 17

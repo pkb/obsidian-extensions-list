@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Learning|Learning]]'
 description: Create quizzes for your Obsidian.md notes and learn better.
-downloads: 2965
+downloads: 2987
 mobile: true
 number: 1222
 stars: 5

@@ -5,7 +5,7 @@ author:
 - '[[authors/CIMSTA|CIMSTA]]'
 categories: []
 description: Connect your vault to Docusaurus
-downloads: 3578
+downloads: 3592
 mobile: false
 number: 1053
 stars: 145

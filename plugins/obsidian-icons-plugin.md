@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add icons to your Obsidian notes.
-downloads: 85878
+downloads: 86707
 mobile: false
 number: 77
-stars: 204
+stars: 206
 title: Icons
 type: plugin
 updated: '2021-02-17T16:23:49'

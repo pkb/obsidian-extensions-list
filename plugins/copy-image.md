@@ -5,7 +5,7 @@ author:
 - '[[authors/felipe-ds-lima|Felipe D.S. Lima]]'
 categories: []
 description: Easily copy image from Obsidian to clipboard by right clicking image.
-downloads: 5408
+downloads: 5629
 mobile: true
 number: 1353
 stars: 6

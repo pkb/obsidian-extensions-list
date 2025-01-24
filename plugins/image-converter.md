@@ -7,10 +7,10 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: Convert, compress and resize images from one format to another by dragging
   and dropping or pasting into the note. HEIC, TIF, JPG, WEBP, PNG.
-downloads: 100967
+downloads: 109297
 mobile: true
 number: 1091
-stars: 228
+stars: 270
 title: Image Converter
 type: plugin
 updated: '2025-01-03T12:41:48'

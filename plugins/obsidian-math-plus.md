@@ -5,10 +5,10 @@ author:
 - '[[authors/ocapraro|Oscar Capraro]]'
 categories: []
 description: This is an Obsidian plugin for taking math notes using Excalidraw.
-downloads: 34170
+downloads: 34619
 mobile: true
 number: 500
-stars: 92
+stars: 93
 title: Math+
 type: plugin
 updated: '2024-01-27T22:23:22'

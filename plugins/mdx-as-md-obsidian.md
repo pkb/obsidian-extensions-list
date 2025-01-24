@@ -5,7 +5,7 @@ author:
 - '[[authors/mkozhukharenko|death_au]]'
 categories: []
 description: Edit mdx files as if they were markdown
-downloads: 5342
+downloads: 5397
 mobile: true
 number: 155
 stars: 24

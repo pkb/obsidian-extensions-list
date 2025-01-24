@@ -5,10 +5,10 @@ author:
 - '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Preserve minmium distances before and after cursor.
-downloads: 7143
+downloads: 7264
 mobile: false
 number: 491
-stars: 28
+stars: 29
 title: Scroll Offset
 type: plugin
 updated: '2022-07-22T12:37:50'

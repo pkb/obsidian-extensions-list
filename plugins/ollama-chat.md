@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Chat with your notes with the help of Ollama.
-downloads: 6431
+downloads: 6626
 mobile: true
 number: 1345
-stars: 118
+stars: 132
 title: Ollama Chat
 type: plugin
 updated: '2024-10-12T12:50:01'

@@ -5,7 +5,7 @@ author:
 - '[[authors/No3371|No3371]]'
 categories: []
 description: Allows users setup custom regex rules to automatically format notes.
-downloads: 16284
+downloads: 16485
 mobile: true
 number: 150
 stars: 71

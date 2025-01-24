@@ -5,7 +5,7 @@ author:
 - '[[authors/frostplexx|Frostplexx]]'
 categories: []
 description: Run custom macros from your Mac's Touch Bar.
-downloads: 3451
+downloads: 3462
 mobile: false
 number: 1052
 stars: 13

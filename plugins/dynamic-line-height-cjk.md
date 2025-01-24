@@ -6,7 +6,7 @@ author:
 categories: []
 description: Dynamically adjust line height for lines & paragraphs containing CJK
   characters.
-downloads: 2127
+downloads: 2143
 mobile: true
 number: 1328
 stars: 2

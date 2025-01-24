@@ -5,7 +5,7 @@ author:
 - '[[authors/svonjoi|svonjoi]]'
 categories: []
 description: Indenting content under headers based on their level
-downloads: 12853
+downloads: 13314
 mobile: true
 number: 804
 stars: 57

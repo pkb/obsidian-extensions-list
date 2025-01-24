@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Random generator tools geared towards solo TTRPG gameplay
-downloads: 7179
+downloads: 7487
 mobile: true
 number: 1662
 stars: 23

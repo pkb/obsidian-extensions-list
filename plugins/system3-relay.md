@@ -7,13 +7,13 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Collaborate in real time with live cursors. Create relays, add folders,
   and manage user access.
-downloads: 5885
+downloads: 6768
 mobile: false
 number: 1835
-stars: 110
+stars: 132
 title: Relay
 type: plugin
-updated: '2024-12-18T01:50:14'
+updated: '2025-01-14T07:04:07'
 url: https://github.com/no-instructions/relay
 version: 0.4.1
 ---

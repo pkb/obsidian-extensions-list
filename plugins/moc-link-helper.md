@@ -5,7 +5,7 @@ author:
 - '[[authors/BogdanCodreanu|Bogdan Codreanu]]'
 categories: []
 description: Helps with some MOC janitor-linking tasks.
-downloads: 403
+downloads: 429
 mobile: false
 number: 1983
 stars: 4

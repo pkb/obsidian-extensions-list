@@ -6,10 +6,10 @@ author:
 categories: []
 description: Dynamic display of file modification and creation timestamps in the status
   bar.
-downloads: 6725
+downloads: 6843
 mobile: false
 number: 923
-stars: 17
+stars: 16
 title: File Creation and Last Modified Timestamps in Status Bar
 type: plugin
 updated: '2024-10-21T00:18:39'

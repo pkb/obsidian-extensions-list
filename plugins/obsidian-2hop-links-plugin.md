@@ -5,7 +5,7 @@ author:
 - '[[authors/tokuhirom|Tokuhiro Matsuno]]'
 categories: []
 description: Add links to other pages at the bottom of the editor.
-downloads: 7794
+downloads: 7808
 mobile: true
 number: 171
 stars: 35

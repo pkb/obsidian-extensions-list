@@ -5,15 +5,15 @@ author:
 - '[[authors/TheseusGrey|Theseus]]'
 categories: []
 description: Open a Neovim buffer for the currently open file
-downloads: 1535
+downloads: 1768
 mobile: false
 number: 1756
-stars: 13
+stars: 14
 title: Edit in Neovim
 type: plugin
-updated: '2024-08-23T02:01:00'
+updated: '2025-01-17T03:15:55'
 url: https://github.com/TheseusGrey/edit-in-neovim
-version: 1.1.16
+version: 1.2.3
 ---
 
 %% README_START %%

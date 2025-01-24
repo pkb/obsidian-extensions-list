@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enables smooth navigation using mouse gestures for scrolling and switching
   pages.
-downloads: 482
+downloads: 523
 mobile: false
 number: 1935
 stars: 6

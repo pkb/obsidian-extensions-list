@@ -5,7 +5,7 @@ author:
 - '[[authors/ozntel|Ozan Tellioglu]]'
 categories: []
 description: Scan all your links in the vault and convert them to your desired format.
-downloads: 22097
+downloads: 22399
 mobile: true
 number: 320
 stars: 186

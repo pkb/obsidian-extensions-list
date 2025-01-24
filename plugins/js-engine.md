@@ -5,10 +5,10 @@ author:
 - '[[authors/mProjectsCode|Moritz Jung]]'
 categories: []
 description: Run JavaScript from within your notes.
-downloads: 16214
+downloads: 17213
 mobile: true
 number: 1141
-stars: 95
+stars: 97
 title: JS Engine
 type: plugin
 updated: '2025-01-02T21:24:43'

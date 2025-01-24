@@ -6,10 +6,10 @@ author:
 categories: []
 description: "MySnippets is a plugin that adds a status bar menu allowing the user
   to quickly toggle their snippets on and off \U0001F58C."
-downloads: 28316
+downloads: 28644
 mobile: false
 number: 321
-stars: 164
+stars: 165
 title: MySnippets
 type: plugin
 updated: '2022-09-01T06:17:17'

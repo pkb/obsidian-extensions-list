@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: View your notes in Calendar using any YAML key with date
-downloads: 14571
+downloads: 14817
 mobile: true
 number: 854
-stars: 38
+stars: 39
 title: OZ Calendar
 type: plugin
 updated: '2024-03-31T18:23:47'

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Plugin that trashes orphaned files and attachments
-downloads: 10043
+downloads: 10160
 mobile: true
 number: 520
-stars: 45
+stars: 46
 title: Nuke Orphans
 type: plugin
 updated: '2024-01-16T17:58:56'

@@ -5,7 +5,7 @@ author:
 - '[[authors/Git-Sum|Git-Sum]]'
 categories: []
 description: Get your TickTicks!
-downloads: 2130
+downloads: 2135
 mobile: false
 number: 1290
 stars: 3

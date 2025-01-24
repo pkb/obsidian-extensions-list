@@ -6,10 +6,10 @@ author:
 categories: []
 description: Load JavaScript and related languages like TypeScript modules from the
   vault and the Internet.
-downloads: 4951
+downloads: 4981
 mobile: true
 number: 1066
-stars: 71
+stars: 73
 title: Modules
 type: plugin
 updated: '2024-06-07T06:11:51'

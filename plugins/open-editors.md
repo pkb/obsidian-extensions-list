@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a view which shows the opened windows, groups, tabs and editors
   inside them. Makes managing the open editors easier.
-downloads: 13
+downloads: 100
 mobile: true
 number: 2110
 stars: 0

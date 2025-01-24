@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Advanced text tools for working with text in your vault
-downloads: 26309
+downloads: 26723
 mobile: true
 number: 296
-stars: 205
+stars: 208
 title: Text Transporter
 type: plugin
 updated: '2024-11-06T12:57:30'

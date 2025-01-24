@@ -5,7 +5,7 @@ author:
 - '[[authors/wenlzhang|wenlzhang]]'
 categories: []
 description: Maintain note links when splitting or reorganizing notes.
-downloads: 137
+downloads: 176
 mobile: true
 number: 2091
 stars: 10

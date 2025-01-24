@@ -5,10 +5,10 @@ author:
 - '[[authors/Supercip971|supercyp]]'
 categories: []
 description: This is a plugin for showing the current typing speed in the status bar
-downloads: 10055
+downloads: 10175
 mobile: true
 number: 486
-stars: 27
+stars: 28
 title: Typing speed
 type: plugin
 updated: '2024-10-27T23:03:31'

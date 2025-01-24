@@ -5,10 +5,10 @@ author:
 - '[[authors/Mara-Li|Mara-Li]]'
 categories: []
 description: Add commands to create a note in a specific folder.
-downloads: 8062
+downloads: 8195
 mobile: true
 number: 809
-stars: 21
+stars: 22
 title: Create Note in Folder
 type: plugin
 updated: '2024-10-31T20:39:40'

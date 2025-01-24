@@ -7,10 +7,10 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Add a custom view which shows outline of multiple daily notes with headings,
   links, tags and list items
-downloads: 20455
+downloads: 20640
 mobile: true
 number: 659
-stars: 109
+stars: 110
 title: Daily Note Outline
 type: plugin
 updated: '2024-03-31T21:07:33'

@@ -5,7 +5,7 @@ author:
 - '[[authors/joleaf|JoLeaf]]'
 categories: []
 description: This plugin enables evaluating DMNs in an obsidian note.
-downloads: 3462
+downloads: 3464
 mobile: false
 number: 792
 stars: 3

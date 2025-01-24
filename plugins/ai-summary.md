@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Summarize referenced notes using OpenAI.
-downloads: 4177
+downloads: 4231
 mobile: false
 number: 982
-stars: 32
+stars: 33
 title: AI Notes Summary
 type: plugin
 updated: '2024-11-12T05:33:24'

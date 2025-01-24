@@ -5,7 +5,7 @@ author:
 - '[[authors/monnierant|Monnierant]]'
 categories: []
 description: Collect RSS articles into notes.
-downloads: 14674
+downloads: 15135
 mobile: true
 number: 989
 stars: 29

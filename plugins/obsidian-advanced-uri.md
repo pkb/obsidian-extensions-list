@@ -5,10 +5,10 @@ author:
 - '[[authors/Vinzent03|Vinzent]]'
 categories: []
 description: Advanced modes for Obsidian URI
-downloads: 385217
+downloads: 393764
 mobile: true
 number: 143
-stars: 791
+stars: 805
 title: Advanced URI
 type: plugin
 updated: '2024-12-31T06:59:09'

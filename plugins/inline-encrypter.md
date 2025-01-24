@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Encrypt secrets in your notes.
-downloads: 3818
+downloads: 3880
 mobile: true
 number: 1238
 stars: 25

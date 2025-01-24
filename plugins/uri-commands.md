@@ -5,15 +5,15 @@ author:
 - '[[authors/kzhovn|kzhovn]]'
 categories: []
 description: Execute URIs from the Obsidian command palette.
-downloads: 5595
+downloads: 5683
 mobile: true
 number: 306
 stars: 39
 title: URI Commands
 type: plugin
-updated: '2022-05-20T09:19:25'
+updated: '2025-01-21T13:54:29'
 url: https://github.com/kzhovn/uri-commands-obsidian
-version: 1.0.0
+version: 1.0.1
 ---
 
 %% README_START %%

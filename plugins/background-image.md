@@ -7,15 +7,15 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: This allows you to specify a remote URL as the background image, and
   a few settings to tweak the experience.
-downloads: 8941
+downloads: 9213
 mobile: true
 number: 972
 stars: 17
 title: Background Image
 type: plugin
-updated: '2024-01-13T10:14:33'
+updated: '2025-01-21T00:55:25'
 url: https://github.com/shmolf/obsidian-editor-background
-version: 1.2.0
+version: 1.3.0
 ---
 
 %% README_START %%

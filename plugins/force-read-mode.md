@@ -5,7 +5,7 @@ author:
 - '[[authors/al3xw|al3xw]]'
 categories: []
 description: Forces Markdown files in specified folders to open in read-only mode.
-downloads: 180
+downloads: 261
 mobile: true
 number: 2081
 stars: 7

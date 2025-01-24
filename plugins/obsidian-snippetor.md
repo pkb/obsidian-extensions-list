@@ -5,10 +5,10 @@ author:
 - '[[authors/ebullient|ebullient]]'
 categories: []
 description: Create and tweak common snippets (starting with custom tasks)
-downloads: 8513
+downloads: 8557
 mobile: true
 number: 402
-stars: 115
+stars: 117
 title: Snippetor
 type: plugin
 updated: '2024-09-04T06:32:15'

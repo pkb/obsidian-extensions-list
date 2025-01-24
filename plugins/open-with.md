@@ -5,7 +5,7 @@ author:
 - '[[authors/phibr0|phibr0]]'
 categories: []
 description: This Plugin allows you to add multiple other programs to open notes with.
-downloads: 8670
+downloads: 8715
 mobile: false
 number: 257
 stars: 37

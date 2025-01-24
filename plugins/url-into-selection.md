@@ -5,10 +5,10 @@ author:
 - '[[authors/denolehov|denolehov]]'
 categories: []
 description: Paste URL "into" selected text.
-downloads: 270918
+downloads: 276030
 mobile: true
 number: 4
-stars: 361
+stars: 365
 title: Paste URL into selection
 type: plugin
 updated: '2022-01-29T23:12:00'

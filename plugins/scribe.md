@@ -6,15 +6,15 @@ author:
 categories: []
 description: Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize
   & Visualize the text - All in one clip
-downloads: 391
+downloads: 714
 mobile: true
 number: 2086
-stars: 7
+stars: 11
 title: Scribe
 type: plugin
-updated: '2025-01-06T07:55:11'
+updated: '2025-01-21T04:02:22'
 url: https://github.com/Mikodin/obsidian-scribe
-version: 1.0.5
+version: 1.0.8
 ---
 
 %% README_START %%

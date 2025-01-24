@@ -6,10 +6,10 @@ author:
 categories: []
 description: Speeds up some note taking abilities and allows for creating notes/links
   in the background
-downloads: 165
+downloads: 180
 mobile: false
 number: 1939
-stars: 4
+stars: 5
 title: Quick Notes
 type: plugin
 updated: '2024-09-27T00:37:52'

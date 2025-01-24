@@ -5,10 +5,10 @@ author:
 - '[[authors/CMorooney|Calvin forked from anpigon]]'
 categories: []
 description: Helps you find games and create notes. Optional Steam Library Sync
-downloads: 6730
+downloads: 6882
 mobile: true
 number: 915
-stars: 36
+stars: 38
 title: Game Search
 type: plugin
 updated: '2025-01-02T01:16:55'

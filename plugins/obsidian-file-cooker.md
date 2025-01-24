@@ -5,10 +5,10 @@ author:
 - '[[authors/ivaneye|iuian]]'
 categories: []
 description: Deal multi notes from Search results、current file、Dataview query string...
-downloads: 9773
+downloads: 9862
 mobile: true
 number: 573
-stars: 48
+stars: 50
 title: File Cooker
 type: plugin
 updated: '2024-05-13T17:29:24'

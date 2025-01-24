@@ -5,10 +5,10 @@ author:
 - '[[authors/binxly|Zac Bagley]]'
 categories: []
 description: Turn any text into insightful atomic notes.
-downloads: 10
+downloads: 92
 mobile: true
 number: 2105
-stars: 0
+stars: 1
 title: Atomizer
 type: plugin
 updated: '2025-01-05T10:11:56'

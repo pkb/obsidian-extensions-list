@@ -5,7 +5,7 @@ author:
 - '[[authors/chenshutian9610|triski]]'
 categories: []
 description: Page Up|Down|Top|Bottom
-downloads: 676
+downloads: 699
 mobile: true
 number: 1743
 stars: 7

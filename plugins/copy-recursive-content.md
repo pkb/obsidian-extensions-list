@@ -5,7 +5,7 @@ author:
 - '[[authors/SeardnaSchmid|SchmidA]]'
 categories: []
 description: Easily copy the contents of files and folders in a structured JSON format.
-downloads: 20
+downloads: 89
 mobile: true
 number: 2103
 stars: 0

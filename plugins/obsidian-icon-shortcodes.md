@@ -5,7 +5,7 @@ author:
 - '[[authors/aidenlx|AidenLx]]'
 categories: []
 description: Insert emoji and custom icons with shortcodes
-downloads: 44598
+downloads: 45090
 mobile: true
 number: 378
 stars: 151

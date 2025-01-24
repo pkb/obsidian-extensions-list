@@ -10,15 +10,15 @@ categories:
 description: Local Images Plus plugin searches for all external media links in your
   notes, downloads and saves them locally and adjusts the links in your notes to point
   to the saved files.
-downloads: 56632
+downloads: 61689
 mobile: false
 number: 731
-stars: 288
+stars: 296
 title: Local Images Plus
 type: plugin
-updated: '2025-01-03T00:49:53'
+updated: '2025-01-12T13:43:32'
 url: https://github.com/Sergei-Korneev/obsidian-local-images-plus
-version: 0.16.0
+version: 0.16.1
 ---
 
 %% README_START %%

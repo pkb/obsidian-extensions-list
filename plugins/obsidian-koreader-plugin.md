@@ -6,10 +6,10 @@ author:
 categories: []
 description: This is a plugin for Obsidian. This plugin syncs highlights and notes
   taken in KOReader.
-downloads: 4450
+downloads: 4470
 mobile: false
 number: 401
-stars: 80
+stars: 81
 title: KOReader Highlights
 type: plugin
 updated: '2022-02-11T22:31:06'

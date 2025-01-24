@@ -5,15 +5,15 @@ author:
 - '[[authors/Binaris00|Binaris]]'
 categories: []
 description: Set when and how the themes will be displayed.
-downloads: 64
+downloads: 224
 mobile: true
 number: 2097
-stars: 7
+stars: 8
 title: Theme Controller
 type: plugin
-updated: '2024-12-21T01:51:33'
+updated: '2025-01-18T09:29:34'
 url: https://github.com/Binaris00/Theme-Controller
-version: 1.0.2
+version: 1.0.4
 ---
 
 %% README_START %%
@@ -45,6 +45,8 @@ Set when and how the themes will be displayed.
 ## Support - Feedback
 
 Email `binaris000@gmail.com` or tag me on Discord by `@Binaris`.
+
+Check my [Discord server](https://discord.gg/QUzEVGkNQK)!
 
 ## License
 

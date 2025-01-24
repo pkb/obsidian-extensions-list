@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Multi-purpose time trackers for your notes!
-downloads: 23964
+downloads: 24321
 mobile: true
 number: 607
-stars: 150
+stars: 151
 title: Super Simple Time Tracker
 type: plugin
 updated: '2024-08-09T23:57:24'

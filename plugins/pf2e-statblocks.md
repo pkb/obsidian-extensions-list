@@ -5,7 +5,7 @@ author:
 - '[[authors/pixley|Tyler Pixley]]'
 categories: []
 description: Renders Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
-downloads: 4965
+downloads: 5277
 mobile: true
 number: 1458
 stars: 10

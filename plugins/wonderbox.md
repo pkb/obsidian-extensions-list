@@ -6,10 +6,10 @@ author:
 categories: []
 description: Create more relevant text sections your tips, top notes, warnings and
   more.
-downloads: 263
+downloads: 321
 mobile: true
 number: 2088
-stars: 6
+stars: 7
 title: WonderBox
 type: plugin
 updated: '2024-12-23T21:19:09'

@@ -5,7 +5,7 @@ author:
 - '[[authors/Max-Schulten|Maximilian Schulten]]'
 categories: []
 description: Generate truth tables quickly in your .md files
-downloads: 327
+downloads: 358
 mobile: true
 number: 1832
 stars: 3

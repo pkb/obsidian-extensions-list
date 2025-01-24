@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Add anki-like spaced repetition and recall to your vault.
-downloads: 878
+downloads: 927
 mobile: true
 number: 1809
 stars: 18

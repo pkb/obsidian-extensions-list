@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Enable better task management via lists.
-downloads: 1842
+downloads: 1874
 mobile: true
 number: 1415
 stars: 10

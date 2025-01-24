@@ -7,10 +7,10 @@ categories: []
 description: Render node streams like `ComfyUi`, `UE`, `Houdini`, `Blender`, etc.,
   to make it easy to write relevant notes. json describes the chart, compared to screenshots,
   making it easier to modify later. The plugin is also compatible with blogs.
-downloads: 100
+downloads: 179
 mobile: false
 number: 2092
-stars: 31
+stars: 34
 title: NodeFlow
 type: plugin
 updated: '2024-12-18T05:59:23'

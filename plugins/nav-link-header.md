@@ -5,15 +5,15 @@ author:
 - '[[authors/ahts4962|ahts4962]]'
 categories: []
 description: Display navigation links at the top of the notes.
-downloads: 631
+downloads: 742
 mobile: true
 number: 1953
 stars: 5
 title: Nav Link Header
 type: plugin
-updated: '2024-12-24T20:24:21'
+updated: '2025-01-16T17:27:46'
 url: https://github.com/ahts4962/nav-link-header
-version: 1.1.0
+version: 1.1.1
 ---
 
 %% README_START %%

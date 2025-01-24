@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: This is a markdown export plugin for Obsidian.
-downloads: 21417
+downloads: 21866
 mobile: false
 number: 699
-stars: 76
+stars: 77
 title: markdown export
 type: plugin
 updated: '2024-08-06T20:55:16'

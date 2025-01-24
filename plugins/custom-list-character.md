@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds the ability to choose the character to use when creating a bullet
   list between '-', '*' and '+'
-downloads: 4247
+downloads: 4275
 mobile: true
 number: 1038
 stars: 2

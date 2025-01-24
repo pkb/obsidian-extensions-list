@@ -5,10 +5,10 @@ author:
 - '[[authors/James-Yu|James-Yu]]'
 categories: []
 description: Display file cards for external files.
-downloads: 293
+downloads: 305
 mobile: true
 number: 1859
-stars: 5
+stars: 6
 title: External File Card
 type: plugin
 updated: '2024-10-27T12:14:55'

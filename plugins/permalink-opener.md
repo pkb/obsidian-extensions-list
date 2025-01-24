@@ -5,7 +5,7 @@ author:
 - '[[authors/kepano|@kepano]]'
 categories: []
 description: Opens URLs based on a permalink or slug in the file properties
-downloads: 2976
+downloads: 3006
 mobile: true
 number: 1195
 stars: 66

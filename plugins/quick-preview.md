@@ -6,10 +6,10 @@ author:
 categories: []
 description: Quickly preview a suggestion before selecting it in link suggestions
   & quick switcher.
-downloads: 4336
+downloads: 4456
 mobile: true
 number: 1312
-stars: 27
+stars: 28
 title: Quick Preview
 type: plugin
 updated: '2024-06-06T13:01:37'

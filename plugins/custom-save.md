@@ -5,7 +5,7 @@ author:
 - '[[authors/HananoshikaYomaru|HananoshikaYomaru]]'
 categories: []
 description: Run any commands when you save a file in the editor
-downloads: 2230
+downloads: 2252
 mobile: true
 number: 1319
 stars: 15

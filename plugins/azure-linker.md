@@ -5,7 +5,7 @@ author:
 - '[[authors/srz2|Steven Zilberberg]]'
 categories: []
 description: Quickly format a Azure issue tag as a link to you Azure instance.
-downloads: 317
+downloads: 355
 mobile: true
 number: 1629
 stars: 1

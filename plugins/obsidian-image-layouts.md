@@ -5,10 +5,10 @@ author:
 - '[[authors/vertis|Luke Chadwick]]'
 categories: []
 description: Add beautiful image layouts to your notes
-downloads: 17854
+downloads: 18281
 mobile: true
 number: 689
-stars: 149
+stars: 151
 title: Image Layouts
 type: plugin
 updated: '2024-07-12T23:47:35'

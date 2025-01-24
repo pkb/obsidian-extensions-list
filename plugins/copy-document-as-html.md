@@ -7,10 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: Copy the current document to clipboard as HTML, including images, diagrams
   etc...
-downloads: 22551
+downloads: 22928
 mobile: false
 number: 669
-stars: 50
+stars: 53
 title: Copy document as HTML
 type: plugin
 updated: '2024-06-30T21:06:46'

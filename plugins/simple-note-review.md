@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Simple, customizable plugin for easy note review, resurfacing  & repetition.
-downloads: 11555
+downloads: 11624
 mobile: true
 number: 579
 stars: 62

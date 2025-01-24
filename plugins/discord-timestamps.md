@@ -5,10 +5,10 @@ author:
 - '[[authors/Erallie|Erika Gozar]]'
 categories: []
 description: Displays discord timestamps in read mode as they would appear in Discord.
-downloads: 166
+downloads: 191
 mobile: true
 number: 2050
-stars: 2
+stars: 3
 title: Discord Timestamps
 type: plugin
 updated: '2024-12-14T03:51:02'

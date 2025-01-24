@@ -6,10 +6,10 @@ author:
 categories: []
 description: An Obsidian plugin for setting colors on folders and files in the file
   tree.
-downloads: 82690
+downloads: 85148
 mobile: true
 number: 742
-stars: 147
+stars: 150
 title: File Color
 type: plugin
 updated: '2023-12-03T05:15:01'

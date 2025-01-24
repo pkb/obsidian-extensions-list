@@ -5,15 +5,15 @@ author:
 - '[[authors/yefengr|yefengr]]'
 categories: []
 description: Count the number of words written each day and display it on a calendar.
-downloads: 1107
+downloads: 1407
 mobile: false
 number: 1841
-stars: 6
+stars: 7
 title: Daily Statistics
 type: plugin
-updated: '2025-01-07T05:36:00'
+updated: '2025-01-12T18:27:48'
 url: https://github.com/yefengr/obsidian-daily-statistics
-version: 1.0.24
+version: 1.1.0
 ---
 
 %% README_START %%
@@ -34,6 +34,9 @@ version: 1.0.24
 - [x] 不同的语言环境下，每周的开始时间不同
 - [x] 鼠标双击日期，修改当日字数
 - [x] 切换统计字符还是单词
+- [x] 开启与关闭计划
+- [x] 手动设置一周的开始时间
+- [x] 支持移动端
 
 
 ## 其他

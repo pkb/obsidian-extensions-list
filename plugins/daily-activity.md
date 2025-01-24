@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: A collection of commands to track your writing activity.
-downloads: 14047
+downloads: 14135
 mobile: true
 number: 100
-stars: 44
+stars: 45
 title: Daily Activity
 type: plugin
 updated: '2024-02-18T00:20:32'

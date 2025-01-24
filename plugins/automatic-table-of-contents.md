@@ -7,15 +7,15 @@ categories:
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Create a table of contents in a note, that updates itself when the note
   changes
-downloads: 47210
+downloads: 50686
 mobile: true
 number: 1135
-stars: 155
+stars: 160
 title: Automatic Table Of Contents
 type: plugin
-updated: '2024-11-24T20:25:55'
+updated: '2025-01-19T03:17:00'
 url: https://github.com/johansatge/obsidian-automatic-table-of-contents
-version: 1.5.0
+version: 1.5.1
 ---
 
 %% README_START %%
@@ -76,7 +76,7 @@ option2: value2
 Alternatively, two commands are available in the command palette:
 
 - Insert table of contents
-- Insert table of contents (documented)
+- Insert table of contents (with available options)
 
 The following options are available:
 
@@ -94,6 +94,7 @@ The following options are available:
 - The table of contents may not be generated correctly if the document doesn't implement a correct titles hierarchy (level 1 title then level 3 without a level 2 in between, for instance)
 - HTML & markdown that may be in the document headings are stripped when `includeLinks: true` (see [#24](https://github.com/johansatge/obsidian-automatic-table-of-contents/issues/24) & [#27](https://github.com/johansatge/obsidian-automatic-table-of-contents/issues/27))
 - LaTeX equations are not rendered correctly when `includeLinks: true` (see [#13](https://github.com/johansatge/obsidian-automatic-table-of-contents/issues/13))
+- Links might not behave correctly if the same title is present several times on the page (see [#57](https://github.com/johansatge/obsidian-automatic-table-of-contents/issues/57))
 
 ## Publish a new version
 
@@ -113,6 +114,7 @@ This project uses [semver](http://semver.org/).
 
 | Version | Date | Notes |
 | --- | --- | --- |
+| `1.5.1` | 2025-01-18 | Rename command for readability (fix #53) |
 | `1.5.0` | 2024-11-24 | Add `hideWhenEmpty` option (fix #51) |
 | `1.4.0` | 2024-05-19 | Add `nestedOrderedList` style ([@bjtho08](https://github.com/bjtho08)) (fix #41) |
 | `1.3.3` | 2024-05-16 | Compute the right min level when `style:inlineFirstLevel` (fix #39) |

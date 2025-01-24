@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin rotates opened files to the left or right with a specified
   interval
-downloads: 3333
+downloads: 3338
 mobile: true
 number: 872
 stars: 5

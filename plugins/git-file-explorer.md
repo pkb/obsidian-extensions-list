@@ -6,10 +6,10 @@ author:
 categories: []
 description: Add relevant git information to detected git repostitories in the file
   explorer.
-downloads: 2093
+downloads: 2120
 mobile: false
 number: 1351
-stars: 22
+stars: 23
 title: Git File Explorer
 type: plugin
 updated: '2024-05-19T19:57:35'

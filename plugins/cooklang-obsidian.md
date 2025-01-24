@@ -5,10 +5,10 @@ author:
 - '[[authors/cooklang|death_au]]'
 categories: []
 description: Edit and display CookLang recipes in Obsidian
-downloads: 8275
+downloads: 8333
 mobile: true
 number: 360
-stars: 222
+stars: 225
 title: CookLang Editor
 type: plugin
 updated: '2024-11-15T17:36:24'

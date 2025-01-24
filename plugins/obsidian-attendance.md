@@ -5,7 +5,7 @@ author:
 - '[[authors/Tiim|Tiim]]'
 categories: []
 description: This plugin helps you track attendance.
-downloads: 3865
+downloads: 3874
 mobile: true
 number: 569
 stars: 12

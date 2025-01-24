@@ -5,15 +5,15 @@ author:
 - '[[authors/red0orange|red0orange]]'
 categories: []
 description: A webdav file explorer for Obsidian.
-downloads: 4256
+downloads: 4338
 mobile: false
 number: 1117
-stars: 17
+stars: 18
 title: Webdav File Explorer
 type: plugin
-updated: '2024-10-23T20:53:17'
+updated: '2025-01-11T23:21:30'
 url: https://github.com/red0orange/obsidian-webdav-file-explorer
-version: 1.3.0
+version: 1.3.1
 ---
 
 %% README_START %%

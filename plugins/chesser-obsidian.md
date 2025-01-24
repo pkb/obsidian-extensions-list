@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: A chess game viewer/editor
-downloads: 9888
+downloads: 9974
 mobile: true
 number: 113
 stars: 116

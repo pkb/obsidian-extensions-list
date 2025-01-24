@@ -5,7 +5,7 @@ author:
 - '[[authors/kamoshi|Maciej Jur]]'
 categories: []
 description: Basic support for Markdoc files
-downloads: 3327
+downloads: 3330
 mobile: true
 number: 919
 stars: 6

@@ -8,10 +8,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Insert and write footnotes faster
-downloads: 113354
+downloads: 114980
 mobile: true
 number: 116
-stars: 134
+stars: 139
 title: Footnote Shortcut
 type: plugin
 updated: '2023-08-25T10:20:09'

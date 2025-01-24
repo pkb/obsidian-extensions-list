@@ -5,7 +5,7 @@ author:
 - '[[authors/jmilldotdev|Jonathan Miller]]'
 categories: []
 description: Autocompletes tags in the frontmatter tags field
-downloads: 22462
+downloads: 22647
 mobile: true
 number: 411
 stars: 114

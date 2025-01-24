@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Other formats|Other formats]]'
 description: View and modify asciidoc pages
-downloads: 278
+downloads: 390
 mobile: false
 number: 1955
-stars: 17
+stars: 18
 title: Asciidoctor editor
 type: plugin
-updated: '2024-12-22T03:50:59'
+updated: '2025-01-20T01:54:55'
 url: https://github.com/dzruyk/obsidian-asciidoc
-version: 0.1.4
+version: 0.1.6
 ---
 
 %% README_START %%
@@ -27,8 +27,14 @@ The plugin supports both view and edit modes, which can be switched using standa
 
 Global file search is not supported by Obsidian due to the limitations of the Obsidian API. But you can use the omnisearch plugin https://github.com/scambier/obsidian-omnisearch)
 
+> [!NOTE]
+> Plugin is not compatible with other asciidoctor plugins, i.e.:
+> * asciidoc-reader
+> * asciidoc-blocks
+>
+> If you are experiencing error `Failed to load plugin "asciidoctor-editor"` please try to disable plugins described above.
 
-## preview
+## Preview
 
 ![preview](https://raw.githubusercontent.com/dzruyk/obsidian-asciidoc/HEAD/img/asciidoc.gif)
 

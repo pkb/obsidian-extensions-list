@@ -6,7 +6,7 @@ author:
 categories: []
 description: Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable
   and zoomable popup
-downloads: 769
+downloads: 919
 mobile: true
 number: 1923
 stars: 6

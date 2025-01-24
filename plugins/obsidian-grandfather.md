@@ -5,7 +5,7 @@ author:
 - '[[authors/noatpad|Danny Hernandez]]'
 categories: []
 description: A simple plugin to display the time and date on the status bar
-downloads: 8129
+downloads: 8176
 mobile: true
 number: 201
 stars: 18

@@ -7,10 +7,10 @@ categories: []
 description: Allows you to create various global settings profiles. You can sync them
   between different vaults. To keep all your settings in sync, you'll never have to
   manually adjust them again for every vault you have or create in the future.
-downloads: 6772
+downloads: 7135
 mobile: false
 number: 1367
-stars: 56
+stars: 59
 title: Settings profiles
 type: plugin
 updated: '2024-09-12T01:12:16'

@@ -5,7 +5,7 @@ author:
 - '[[authors/maotong06|maotong06]]'
 categories: []
 description: Paste As Html, Keep the original css style. Paste from web browser
-downloads: 9188
+downloads: 9309
 mobile: true
 number: 724
 stars: 25

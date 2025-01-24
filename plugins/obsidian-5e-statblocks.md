@@ -5,10 +5,10 @@ author:
 - '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Create Fantasy Statblocks in Obsidian.md
-downloads: 179260
+downloads: 182612
 mobile: true
 number: 185
-stars: 365
+stars: 366
 title: Fantasy Statblocks
 type: plugin
 updated: '2024-11-21T07:39:19'

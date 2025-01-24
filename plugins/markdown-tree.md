@@ -6,7 +6,7 @@ author:
 categories: []
 description: Create a beautiful and intuitive directory tree using Markdown-oriented
   code style using tabs, spaces and enters.
-downloads: 5424
+downloads: 5484
 mobile: true
 number: 992
 stars: 8

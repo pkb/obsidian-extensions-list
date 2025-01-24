@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add banner images to your notes!
-downloads: 223298
+downloads: 227167
 mobile: true
 number: 278
-stars: 664
+stars: 674
 title: Banners
 type: plugin
 updated: '2023-10-15T01:04:19'

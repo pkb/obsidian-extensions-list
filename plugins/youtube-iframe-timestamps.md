@@ -7,7 +7,7 @@ categories: []
 description: Allows you to embed YouTube videos with timestamps directly in your notes,
   enabling seamless referencing and note-taking without needing to open a separate
   browser window.
-downloads: 550
+downloads: 680
 mobile: true
 number: 1961
 stars: 6

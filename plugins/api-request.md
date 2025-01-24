@@ -6,15 +6,15 @@ author:
 categories: []
 description: Fetch data from APIs or other sources. Responses in JSON, MD or HTML
   directly in your notes.
-downloads: 9457
+downloads: 9742
 mobile: true
 number: 956
-stars: 123
+stars: 131
 title: APIRequest
 type: plugin
-updated: '2024-12-15T01:31:44'
+updated: '2025-01-17T21:40:25'
 url: https://github.com/Rooyca/obsidian-api-request
-version: 1.4.4
+version: 1.4.5
 ---
 
 %% README_START %%

@@ -5,10 +5,10 @@ author:
 - '[[authors/Mithadon|Mithadon]]'
 categories: []
 description: Customize the appearance of folders and files in the file explorer.
-downloads: 1113
+downloads: 1762
 mobile: true
 number: 2077
-stars: 13
+stars: 16
 title: Color Folders and Files
 type: plugin
 updated: '2024-12-12T07:20:40'

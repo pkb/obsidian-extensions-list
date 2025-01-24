@@ -5,10 +5,10 @@ author:
 - '[[authors/vincenzocaputo|Vincenzo Caputo]]'
 categories: []
 description: Create notes about metal bands and album from Metal Archives
-downloads: 2392
+downloads: 2399
 mobile: true
 number: 1232
-stars: 3
+stars: 4
 title: Metal Archives (Unofficial)
 type: plugin
 updated: '2024-10-27T20:46:17'

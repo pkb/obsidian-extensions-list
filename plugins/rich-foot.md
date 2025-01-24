@@ -5,15 +5,15 @@ author:
 - '[[authors/jparkerweb|Justin Parker (eQui\\ Labs)]]'
 categories: []
 description: Adds backlink tags and created/modified dates to the footer of your notes.
-downloads: 4830
+downloads: 5678
 mobile: true
 number: 1903
-stars: 30
+stars: 33
 title: Rich Foot
 type: plugin
-updated: '2024-12-27T00:52:57'
+updated: '2025-01-14T11:25:30'
 url: https://github.com/jparkerweb/rich-foot
-version: 1.10.5
+version: 1.10.7
 ---
 
 %% README_START %%

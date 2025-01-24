@@ -5,10 +5,10 @@ author:
 - '[[authors/hotoo|闲耘]]'
 categories: []
 description: Timeline view from markdown.
-downloads: 2155
+downloads: 2185
 mobile: true
 number: 1382
-stars: 28
+stars: 29
 title: Markline
 type: plugin
 updated: '2024-04-05T21:41:45'

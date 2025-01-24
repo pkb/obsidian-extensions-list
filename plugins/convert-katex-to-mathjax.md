@@ -5,10 +5,10 @@ author:
 - '[[authors/pejakovic|Obsidian]]'
 categories: []
 description: Converts KaTeX format to MathJax format.
-downloads: 144
+downloads: 226
 mobile: true
 number: 2065
-stars: 0
+stars: 1
 title: KaTeX to MathJax
 type: plugin
 updated: '2024-12-01T23:33:27'

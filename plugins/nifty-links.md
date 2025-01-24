@@ -6,7 +6,7 @@ author:
 categories: []
 description: Generate elegant, Notion-style rich link cards to enhance your note-taking
   experience
-downloads: 6774
+downloads: 6888
 mobile: true
 number: 1120
 stars: 25

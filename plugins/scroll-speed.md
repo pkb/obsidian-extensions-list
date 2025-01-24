@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: This plugin allows you to change the scroll speed inside Obsidian notes.
-downloads: 5236
+downloads: 5267
 mobile: true
 number: 553
-stars: 19
+stars: 20
 title: Scroll Speed
 type: plugin
 updated: '2023-07-18T12:36:00'

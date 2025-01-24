@@ -5,7 +5,7 @@ author:
 - '[[authors/jqhoogland|Jesse Hoogland]]'
 categories: []
 description: Enables running squiggle code snippets within a note.
-downloads: 3519
+downloads: 3527
 mobile: false
 number: 619
 stars: 22

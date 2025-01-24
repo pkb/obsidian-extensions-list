@@ -6,10 +6,10 @@ author:
 categories: []
 description: Plugin which calculates and displays diff in hours and minutes between
   two dates in `timediff` markdown block
-downloads: 5047
+downloads: 5070
 mobile: true
 number: 565
-stars: 8
+stars: 9
 title: TimeDiff
 type: plugin
 updated: '2024-02-17T16:02:11'

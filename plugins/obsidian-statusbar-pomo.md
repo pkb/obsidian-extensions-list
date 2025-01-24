@@ -6,22 +6,22 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Adds a pomodoro timer to your status bar.
-downloads: 42619
+downloads: 43447
 mobile: false
 number: 216
 stars: 79
 title: Status Bar Pomodoro Timer
 type: plugin
-updated: '2023-01-16T13:55:41'
+updated: '2025-01-21T13:20:43'
 url: https://github.com/kzhovn/statusbar-pomo-obsidian
-version: 0.1.14
+version: 0.1.15
 ---
 
 %% README_START %%
 
 # Status Bar Pomo Timer for Obsidian
 
-Plugin that displays a [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) in the [Obsidian](https://obsidian.md/) status bar. 
+Plugin that displays a [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) in the [Obsidian](https://obsidian.md/) status bar.
 
 ![timer screenshot](https://raw.githubusercontent.com/kzhovn/statusbar-pomo-obsidian/HEAD/timer_screenshot.png)
 
@@ -45,5 +45,8 @@ If you enable logging, the plugin will write to the file you specify as your log
 "Log active note" will include a link to the active note at the time the pomodoro timer started in the log message. Be default, the link to the note will appear after the timestamp, but you can customize the location using [{{logFile}}].
 
 You can open the current log file by clicking the timer.
+
+## Notifications
+You can enable system notifications, which allow you to receive notifications outside of the Obsidian app. Note that if you installed Obsidian through Flatpak on Linux this may not work. As a workaround, you can install Obsidian via [one of the other supported methods](https://obsidian.md/download).
 
 %% README_END %%

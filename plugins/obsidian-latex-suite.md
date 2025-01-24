@@ -7,15 +7,15 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 description: Make typesetting LaTeX math as fast as handwriting through snippets,
   text expansion, and editor enhancements
-downloads: 222495
+downloads: 231570
 mobile: true
 number: 484
 stars: 1500
 title: Latex Suite
 type: plugin
-updated: '2024-10-13T22:11:12'
+updated: '2025-01-18T22:35:57'
 url: https://github.com/artisticat1/obsidian-latex-suite
-version: 1.9.7
+version: 1.9.8
 ---
 
 %% README_START %%

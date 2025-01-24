@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Plugin management|Plugin management]]'
 description: Extends plugin management of Obsidian.MD
-downloads: 9087
+downloads: 9337
 mobile: true
 number: 936
-stars: 92
+stars: 93
 title: Plugin Manager
 type: plugin
 updated: '2023-07-16T23:59:09'

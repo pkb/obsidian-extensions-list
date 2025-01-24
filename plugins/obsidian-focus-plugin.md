@@ -6,7 +6,7 @@ author:
 categories: []
 description: A plugin for Obsidian (https://obsidian.md) that will highlight and focus
   on the currently selected heading
-downloads: 6962
+downloads: 7006
 mobile: true
 number: 572
 stars: 32

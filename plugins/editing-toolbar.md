@@ -9,10 +9,10 @@ categories:
 description: The Obsidian Editing Toolbar is modified from cmenu, which provides more
   powerful customization settings and has many built-in editing commands to be a MS
   Word-like toolbar editing experience.
-downloads: 495935
+downloads: 510791
 mobile: true
 number: 646
-stars: 893
+stars: 907
 title: Editing Toolbar
 type: plugin
 updated: '2024-04-22T14:47:48'

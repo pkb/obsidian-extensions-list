@@ -5,7 +5,7 @@ author:
 - '[[authors/shuxueshuxue|Jeffry]]'
 categories: []
 description: Manage routines with traditional calendar concept of 宜/忌
-downloads: 78
+downloads: 93
 mobile: true
 number: 1992
 stars: 4

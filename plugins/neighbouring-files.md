@@ -5,10 +5,10 @@ author:
 - '[[authors/FabianUntermoser|Fabian Untermoser]]'
 categories: []
 description: Navigate to the next and previous file in the current directory
-downloads: 3137
+downloads: 3282
 mobile: true
 number: 1337
-stars: 13
+stars: 15
 title: Neighbouring Files
 type: plugin
 updated: '2025-01-03T17:50:41'

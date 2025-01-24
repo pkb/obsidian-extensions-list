@@ -5,7 +5,7 @@ author:
 - '[[authors/scambier|Simon Cambier]]'
 categories: []
 description: Don't reopen notes that are already open
-downloads: 10797
+downloads: 10903
 mobile: false
 number: 581
 stars: 63

@@ -5,7 +5,7 @@ author:
 - '[[authors/lin-stephanie|Stephanie Lin]]'
 categories: []
 description: Extract and display external URLs of the note in Obsidian.
-downloads: 4237
+downloads: 4284
 mobile: true
 number: 1145
 stars: 13

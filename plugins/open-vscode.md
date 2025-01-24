@@ -6,10 +6,10 @@ author:
 categories: []
 description: Ribbon button, command and file explorer context menu to open the vault
   as a Visual Studio Code (VSCode) workspace
-downloads: 27389
+downloads: 27815
 mobile: false
 number: 225
-stars: 103
+stars: 102
 title: Open vault in VSCode
 type: plugin
 updated: '2024-11-15T01:08:55'

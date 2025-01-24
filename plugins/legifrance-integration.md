@@ -5,18 +5,38 @@ author:
 - '[[authors/carnetdethese|hurj]]'
 categories: []
 description: Intégration de l'API Légifrance.
-downloads: 282
+downloads: 314
 mobile: true
 number: 1658
-stars: 2
+stars: 3
 title: Légifrance Intégration
 type: plugin
-updated: '2024-12-30T00:14:56'
+updated: '2025-01-17T14:50:08'
 url: https://github.com/carnetdethese/obsidian-legifrance-integration
-version: 1.2.8
+version: 1.3.2
 ---
 
 %% README_START %%
+
+🚨 Si le module ne se lance plus après la mise à jour, désinstallez-le puis réinstallez-le ! 🚨
+
+# MISE À JOUR ! A LIRE !
+
+## Nouveautés
+
+Préparation pour le futur de ce module :
+- Recomposition des vues avec la librairie ReactJS - compréhension du code facilitée - meilleur support dans le futur - plus grand contrôle du flow de données - moins de code ;
+- Nouvelle vue pour la création des notes : une page unique qui permet de sélectionner le document de travail et sur laquelle on peut ajouter et supprimer des champs personnalisés. Finis les "Faits", "Procédure" etc. Un seul modèle de note vous permet d'intégrer ce que vous voulez comme information. 
+    - 🚨 Attention : breaking change. **Il faudra modifier vos modèles pour les intégrer dans le modèle unique afin d'éviter toutes pertes de données**. Les informations sont contenues dans une liste (Array) "notes" d'objets avec deux champ : "titreChamp" et "valeurChamp". Voir plus bas pour les spécifications ;
+- Ces différents changements ont conduit à changer la manière dont les documents sont conservés - par conséquent, le module réinitialise à chaque lancement les pages qui étaient ouvertes durant la session précédente. L'historique ne disparait pas : il suffit de rouvrir les pages pour retrouver toutes les informations.
+
+## Bugs résolus
+
+- La page de résultat qui s'ouvrait systématiquement dans l'éditeur où se trouvait l'utilisateur est désormais déplacée dans un onglet à part. Permet d'éviter de perdre du temps à retrouver la page précédente ;
+- Le problème de la création d'un double de dossier si le dossier de base était la "racine" du module est maintenant résolu ;
+- Possibilité de lancer le module sur mobile ;
+- Modification de l'*input* pour la date : élément natif HTML que j'aurais dû implanter déjà depuis longtemps.
+- Modifications mineures pour une meilleure gestion du flow de data - et notamment la récupération du token pour l'authentification.
 
 # Légifrance Intégration - Module Obsidian
 
@@ -51,22 +71,17 @@ Deux solutions pour le lancer :
 
 Les captures d'écran peuvent différer de votre affichage en fonction du thème choisi.
 
-_Recherche simple :_
+_Recherche simple et historique :_
 
-<img src="https://raw.githubusercontent.com/carnetdethese/obsidian-legifrance-integration/HEAD/docs/images/recherche-simple.png" alt="recherche-simple" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/carnetdethese/obsidian-legifrance-integration/HEAD/docs/images/recherche-historique.png" alt="" width=50% height=50%>
 
-
-_Historique :_
-
-<img src="https://raw.githubusercontent.com/carnetdethese/obsidian-legifrance-integration/HEAD/docs/images/historique.png" alt="" width=50% height=50%>
-
-_Affichage des résultats (mot recherché dans l'exemple : Constitution) :_
+_Affichage des résultats :_
 
 <img src="https://raw.githubusercontent.com/carnetdethese/obsidian-legifrance-integration/HEAD/docs/images/affichage-resultats.png" alt="" width=50% height=50%>
 
-_Affichage des résultats (bêta) :_
+_Editeur de notes :_
 
-<img src="https://raw.githubusercontent.com/carnetdethese/obsidian-legifrance-integration/HEAD/docs/images/resultats-nouveau.png" alt="" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/carnetdethese/obsidian-legifrance-integration/HEAD/docs/images/editeur-note.png"  alt="" width=50% height=50%>
 
 _Création de la note automatiquement :_
 
@@ -106,19 +121,19 @@ Voilà les variables accessibles :
 -   `{{ formation }}` - Formation de la juridction
 -   `{{ solution }}` - Solution de la décision
 -   `{{ urlCC }}` - Lien vers le site du Conseil constitutionnel pour les décisions du Conseil constitutionnel
--   `{{ #sommaires }} {{ resume }} {{ /sommaires }}` (c'est une liste qui peut contenir plusieurs entrées. La syntaxe ici permet de faire une boucle et d'afficher toutes les entrées) - Liste des sommaires.
+- `{{ contributionNote }}` - Contribution ajoutée dans l'éditeur de note. Champ par défaut, qui permet d'ajouter une sorte de courte description du document consulté
+-   `{{#sommaires}} {{resume}} {{/sommaires}}` (c'est une liste qui peut contenir plusieurs entrées. La syntaxe ici permet de faire une boucle et d'afficher toutes les entrées) - Liste des sommaires.
+- `{{#each notes}} {{this.titreChamp}} {{this.valeurChamp}} {{/each}}` (idem, avec une liste qui contient des objets avec une variable `titreChamp` et une autre `valeurChamp`).
+
+> 🚨 Je ne sais pour quelle raison pour l'instant, mais assurez-vous qu'il n'y ait pas d'espace entre les deux accolades et le mot clef (ie. ne pas faire `{{ #each }}` mais bien `{{#each}}` sans quoi le moteur de template ne fonctionne pas). 🚨
 
 Pour aller plus loin, vous pouvez consulter la [documentation de Handlebars](https://handlebarsjs.com). Une fonctionnalité utile, peut être, par exemple, d'intégrer un affichage conditionnel lorsque vous ne souhaitez pas utiliser l'éditeur de note d'arrêt, en utilisant le bloc `{{#if variable}} {{variable}} {{/if}}`.
 
-## Comment l'utiliser
+## Comment utiliser le module
 
 ### Installer le plugin
 
-Pour l'instant, le module n'est pas encore disponible sur l'application elle-même.
-
-Il suffit de télécharger les trois fichiers (`main.js`, `manifest.json`, `styles.css`) disponibles sur la dernière version du module ([ici](https://github.com/carnetdethese/legifrance-integration/releases)) et les déplacer dans le dossier : `/.obsidian/plugins/legifrance-integration`. Pensez à autoriser l'utilisation de module tiers dans les paramètres.
-
-Une fois le module validé par l'équipe d'Obsidian, il sera disponible directement depuis l'application.
+Vous pouvez installer le module directement depuis le store de l'application. C'est plus facile ainsi.
 
 ### Utilisation de l'API Légifrance
 

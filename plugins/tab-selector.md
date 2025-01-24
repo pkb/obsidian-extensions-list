@@ -5,7 +5,7 @@ author:
 - '[[authors/namikaze-40p|namikaze-40p]]'
 categories: []
 description: Quickly switch tabs in various ways.
-downloads: 4008
+downloads: 4114
 mobile: true
 number: 1522
 stars: 15

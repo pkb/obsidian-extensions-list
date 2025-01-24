@@ -6,7 +6,7 @@ author:
 categories: []
 description: This is a plugin for Obsidian (https://obsidian.md) for Amazing Marvin
   (https://app.amazingmarvin.com/)
-downloads: 4380
+downloads: 4385
 mobile: true
 number: 215
 stars: 31

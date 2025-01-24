@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your blog to hugo site.
-downloads: 1325
+downloads: 1386
 mobile: false
 number: 1563
 stars: 42

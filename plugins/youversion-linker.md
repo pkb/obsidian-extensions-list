@@ -5,7 +5,7 @@ author:
 - '[[authors/jaanonim|jaanonim]]'
 categories: []
 description: Automatically link bible verses in your notes to YouVersion bible.
-downloads: 6918
+downloads: 7101
 mobile: true
 number: 1097
 stars: 25

@@ -5,7 +5,7 @@ author:
 - '[[authors/Chrstn67|Christian Humbert]]'
 categories: []
 description: Create and managing text and code snippets.
-downloads: 188
+downloads: 230
 mobile: true
 number: 2034
 stars: 0

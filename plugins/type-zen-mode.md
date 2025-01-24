@@ -6,10 +6,10 @@ author:
 categories: []
 description: Type and get in zen mode instantly, no more distraction between you and
   your thoughts
-downloads: 401
+downloads: 466
 mobile: false
 number: 2006
-stars: 3
+stars: 4
 title: Typezen
 type: plugin
 updated: '2024-11-08T12:32:50'

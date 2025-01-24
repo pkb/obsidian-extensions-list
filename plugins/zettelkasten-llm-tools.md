@@ -5,7 +5,7 @@ author:
 - '[[authors/glovguy|Karl Smith]]'
 categories: []
 description: Zettelkasten note taking powered by LLMs
-downloads: 4947
+downloads: 5064
 mobile: true
 number: 1083
 stars: 38

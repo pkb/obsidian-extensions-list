@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Semantic search for files using OpenAI's text embeddings
-downloads: 5120
+downloads: 5152
 mobile: false
 number: 874
-stars: 93
+stars: 94
 title: Semantic Search
 type: plugin
 updated: '2023-08-01T20:33:09'

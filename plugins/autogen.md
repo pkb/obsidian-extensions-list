@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: In place autogeneration of content based on prompts.
-downloads: 1251
+downloads: 1264
 mobile: false
 number: 1425
-stars: 9
+stars: 10
 title: Autogen
 type: plugin
 updated: '2024-02-20T05:41:46'

@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Autocomplete with AI, including ChatGPT and ollama, through a copilot-like
   interface.
-downloads: 18677
+downloads: 19154
 mobile: true
 number: 861
-stars: 283
+stars: 289
 title: Companion
 type: plugin
 updated: '2024-05-29T00:04:42'

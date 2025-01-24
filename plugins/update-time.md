@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically update front matter to include creation and last update
   times.
-downloads: 1149
+downloads: 1229
 mobile: true
 number: 1661
 stars: 8

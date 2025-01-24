@@ -5,7 +5,7 @@ author:
 - '[[authors/tokenshift|Nathan Clark]]'
 categories: []
 description: Creates an embeddable gallery based on selected page contents.
-downloads: 11979
+downloads: 12130
 mobile: true
 number: 666
 stars: 69

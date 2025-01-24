@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allows users to upload local files to the cloud, reducing the burden
   on local vaults and enabling seamless synchronization across multiple devices.
-downloads: 575
+downloads: 648
 mobile: true
 number: 1948
 stars: 8

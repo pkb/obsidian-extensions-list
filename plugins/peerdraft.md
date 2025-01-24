@@ -8,10 +8,10 @@ categories:
 description: Real-time, instant collaboration on Obsidian documents or folders. Whether
   for quick note-taking or building a team knowledge base, Peerdaft syncs with your
   collaborators' Obsidian vaults and also offers a Web Editor.
-downloads: 9216
+downloads: 9416
 mobile: true
 number: 1320
-stars: 46
+stars: 47
 title: Peerdraft
 type: plugin
 updated: '2024-09-26T15:52:27'

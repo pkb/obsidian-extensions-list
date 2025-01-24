@@ -7,10 +7,10 @@ categories: []
 description: Embed any website to Obsidian, you have anything you need in one place.
   You can browse website and take notes at the same time. e.g. Ask ChatGPT and copy
   the answer directly to your note.
-downloads: 29580
+downloads: 30227
 mobile: true
 number: 722
-stars: 180
+stars: 181
 title: Open Gate
 type: plugin
 updated: '2024-12-03T21:17:58'

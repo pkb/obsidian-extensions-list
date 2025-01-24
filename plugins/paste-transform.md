@@ -5,7 +5,7 @@ author:
 - '[[authors/rekby|Timofey Koolin]]'
 categories: []
 description: Handle pasted text and and transform it by regexp rules.
-downloads: 1291
+downloads: 1309
 mobile: true
 number: 1433
 stars: 6

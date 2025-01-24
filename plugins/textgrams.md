@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Store and visualise ASCII graphics and charts
-downloads: 391
+downloads: 434
 mobile: true
 number: 1999
 stars: 74

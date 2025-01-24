@@ -5,7 +5,7 @@ author:
 - '[[authors/dgarrett|Dylan Garrett]]'
 categories: []
 description: An unofficial Obsidian client for phonetonote.com (previously phonetoroam.com)
-downloads: 4068
+downloads: 4082
 mobile: true
 number: 238
 stars: 9

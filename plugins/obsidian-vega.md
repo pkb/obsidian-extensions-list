@@ -7,7 +7,7 @@ categories:
 - '[[categories/Charting|Charting]]'
 description: Create highly-customizable data visualizations like line charts and scatter
   plots using Vega or Vega-Lite.
-downloads: 4559
+downloads: 4584
 mobile: true
 number: 751
 stars: 34

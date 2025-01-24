@@ -5,7 +5,7 @@ author:
 - '[[authors/jsonMartin|jsonmartin]]'
 categories: []
 description: Mirror your Readwise library directly to an Obsidian vault
-downloads: 8516
+downloads: 8541
 mobile: true
 number: 182
 stars: 53

@@ -6,13 +6,13 @@ author:
 categories:
 - '[[categories/Planning|Planning]]'
 description: Plain text project planning.
-downloads: 370537
+downloads: 377502
 mobile: true
 number: 635
 stars: 1600
 title: Projects
 type: plugin
-updated: '2024-12-22T23:56:19'
+updated: '2025-01-24T03:38:51'
 url: https://github.com/marcusolsson/obsidian-projects
 version: 1.17.4
 ---

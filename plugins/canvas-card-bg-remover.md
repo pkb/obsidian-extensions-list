@@ -5,7 +5,7 @@ author:
 - '[[authors/luxmargos|luxmargos]]'
 categories: []
 description: You can make the background of cards transparent in the Canvas
-downloads: 3529
+downloads: 3609
 mobile: true
 number: 1346
 stars: 6

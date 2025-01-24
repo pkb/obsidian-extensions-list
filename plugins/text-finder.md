@@ -6,10 +6,10 @@ author:
 categories: []
 description: Provides a find/replace window in edit mode similar to VSCode (supports
   regular expressions and case sensitivity).
-downloads: 656
+downloads: 774
 mobile: true
 number: 1989
-stars: 14
+stars: 15
 title: Text Finder
 type: plugin
 updated: '2024-11-15T09:02:44'

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Official HamsterBase -> Obsidian integration
-downloads: 3450
+downloads: 3452
 mobile: false
 number: 952
 stars: 8

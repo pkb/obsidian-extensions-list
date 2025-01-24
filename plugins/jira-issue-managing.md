@@ -5,10 +5,10 @@ author:
 - '[[authors/angelperezasenjo|Amplia]]'
 categories: []
 description: Update and creating of Jira issues directly
-downloads: 4
+downloads: 44
 mobile: true
 number: 2106
-stars: 0
+stars: 3
 title: Jira Issue managing
 type: plugin
 updated: '2024-12-12T15:00:26'

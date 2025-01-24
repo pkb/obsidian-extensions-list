@@ -6,7 +6,7 @@ author:
 categories: []
 description: Provides a persistent key-value store for use in scripts, along with
   a portable web inspector.
-downloads: 1277
+downloads: 1285
 mobile: true
 number: 1366
 stars: 19

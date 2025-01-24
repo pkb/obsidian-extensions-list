@@ -6,7 +6,7 @@ author:
 categories: []
 description: Utilities to work with list outlines. Currently supports selecting the
   outline (current line and children)
-downloads: 2659
+downloads: 2867
 mobile: true
 number: 1655
 stars: 2

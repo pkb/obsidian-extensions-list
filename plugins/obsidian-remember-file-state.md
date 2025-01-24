@@ -5,7 +5,7 @@ author:
 - '[[authors/ludovicchabant|Ludovic Chabant]]'
 categories: []
 description: Remembers cursor position, selection, scrolling, and more for each file
-downloads: 11066
+downloads: 11165
 mobile: true
 number: 433
 stars: 47

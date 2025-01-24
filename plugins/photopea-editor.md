@@ -5,10 +5,10 @@ author:
 - '[[authors/KarmaToast40340|Karmatoast40340]]'
 categories: []
 description: Automatically opens images in Photopea when clicked in your vault.
-downloads: 12
+downloads: 111
 mobile: true
 number: 2108
-stars: 0
+stars: 1
 title: Photopea Editor
 type: plugin
 updated: '2024-12-10T20:20:53'

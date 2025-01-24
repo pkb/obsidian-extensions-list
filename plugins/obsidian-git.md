@@ -7,7 +7,7 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Integrate Git version control with automatic backup and other advanced
   features.
-downloads: 1293645
+downloads: 1323515
 mobile: true
 number: 3
 stars: 7200

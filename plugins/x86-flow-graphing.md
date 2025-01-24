@@ -7,7 +7,7 @@ categories:
 - '[[categories/Canvas]]'
 - '[[categories/Code and development|Code and development]]'
 description: An Obsidian plugin for converting x86 code blocks into flow graphs
-downloads: 4035
+downloads: 4052
 mobile: true
 number: 853
 stars: 22

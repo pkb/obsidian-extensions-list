@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes to Hexo
-downloads: 133
+downloads: 137
 mobile: false
 number: 1825
 stars: 5

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your writing directly to Nostr.
-downloads: 3780
+downloads: 3797
 mobile: false
 number: 1090
 stars: 63

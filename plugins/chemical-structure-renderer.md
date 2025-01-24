@@ -6,7 +6,7 @@ author:
 categories: []
 description: Render chemical structures from SMILES strings into PNG or SVG format
   using Ketcher and Indigo Service.
-downloads: 4267
+downloads: 4311
 mobile: true
 number: 985
 stars: 11

@@ -5,7 +5,7 @@ author:
 - '[[authors/tomaz1502|tomaz1502]]'
 categories: []
 description: Provides live syntax highlight for the Lean programming language
-downloads: 1517
+downloads: 1547
 mobile: true
 number: 1450
 stars: 5

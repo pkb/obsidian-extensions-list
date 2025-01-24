@@ -5,7 +5,7 @@ author:
 - '[[authors/damonsk|Damon Skelhorn]]'
 categories: []
 description: View and edit Wardley Maps using the Online Wardley Maps format.
-downloads: 89
+downloads: 108
 mobile: true
 number: 2060
 stars: 5

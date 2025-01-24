@@ -7,7 +7,7 @@ categories: []
 description: Link Exploder is a Obsidian plugin that creates a canvas from a note,
   embedding it's incoming (i.e. backlinks) and outgoing links onto the canvas (as
   well as the their linked notes).
-downloads: 15123
+downloads: 15349
 mobile: true
 number: 775
 stars: 94

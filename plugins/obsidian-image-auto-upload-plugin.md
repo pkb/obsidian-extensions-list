@@ -5,10 +5,10 @@ author:
 - '[[authors/renmu123|renmu]]'
 categories: []
 description: This plugin uploads images from your clipboard by PicGo
-downloads: 95651
+downloads: 97048
 mobile: false
 number: 172
-stars: 361
+stars: 370
 title: Image auto upload
 type: plugin
 updated: '2024-11-28T11:48:45'

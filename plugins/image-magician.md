@@ -5,10 +5,10 @@ author:
 - '[[authors/luxmargos|luxmargos]]'
 categories: []
 description: Supports viewing and exporting various image formats powerd by ImageMagick.
-downloads: 2368
+downloads: 2447
 mobile: true
 number: 1440
-stars: 23
+stars: 25
 title: Image Magician
 type: plugin
 updated: '2024-05-15T16:36:47'

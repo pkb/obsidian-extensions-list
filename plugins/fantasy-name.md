@@ -5,7 +5,7 @@ author:
 - '[[authors/lukewh|Lukewh]]'
 categories: []
 description: Insert a random fantasy name.
-downloads: 18334
+downloads: 19001
 mobile: true
 number: 1040
 stars: 1

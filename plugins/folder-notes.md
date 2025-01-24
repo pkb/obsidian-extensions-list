@@ -6,15 +6,15 @@ author:
 categories: []
 description: Create notes within folders that can be accessed without collapsing the
   folder, similar to the functionality offered in Notion.
-downloads: 103991
+downloads: 111937
 mobile: true
 number: 895
-stars: 376
+stars: 391
 title: Folder notes
 type: plugin
-updated: '2024-10-03T18:34:05'
+updated: '2025-01-15T02:28:52'
 url: https://github.com/LostPaul/obsidian-folder-notes
-version: 1.7.32
+version: 1.7.35
 ---
 
 %% README_START %%

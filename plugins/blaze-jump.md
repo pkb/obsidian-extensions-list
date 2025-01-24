@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Navigate through text at blazing speed.
-downloads: 129
+downloads: 154
 mobile: false
 number: 2013
-stars: 7
+stars: 8
 title: BlazeJump
 type: plugin
 updated: '2024-11-16T01:15:57'

@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Workflows]]'
 description: Streamline Research Workflow in Obsidian
-downloads: 5302
+downloads: 5519
 mobile: true
 number: 1239
-stars: 32
+stars: 33
 title: Scholar
 type: plugin
-updated: '2024-04-21T01:18:57'
+updated: '2025-01-18T00:09:54'
 url: https://github.com/lolipopshock/obsidian-scholar
-version: 1.3.3
+version: 1.4.0
 ---
 
 %% README_START %%

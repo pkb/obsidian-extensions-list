@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add inline badges/callouts to notes.
-downloads: 8205
+downloads: 8372
 mobile: true
 number: 998
-stars: 68
+stars: 70
 title: Badges
 type: plugin
 updated: '2023-12-06T19:54:32'

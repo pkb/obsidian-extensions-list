@@ -5,10 +5,10 @@ author:
 - '[[authors/seebin|Seebin]]'
 categories: []
 description: Upload images, videos, audio, pdf, and other files to Minio OSS.
-downloads: 2952
+downloads: 2982
 mobile: true
 number: 1278
-stars: 26
+stars: 27
 title: Minio Uploader
 type: plugin
 updated: '2023-12-15T13:53:10'

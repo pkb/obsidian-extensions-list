@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Track character alignment using a 3x3 grid.
-downloads: 109
+downloads: 122
 mobile: true
 number: 1905
 stars: 1

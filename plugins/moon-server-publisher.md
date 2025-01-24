@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish your notes directly to Moon server instance.
-downloads: 2315
+downloads: 2318
 mobile: true
 number: 1225
 stars: 0

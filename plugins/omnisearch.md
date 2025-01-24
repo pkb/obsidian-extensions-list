@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: A search engine that just works
-downloads: 652302
+downloads: 675451
 mobile: true
 number: 504
 stars: 1300

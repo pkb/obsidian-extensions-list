@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Extra block editing utilities.
-downloads: 3437
+downloads: 3549
 mobile: true
 number: 1271
 stars: 18

@@ -5,7 +5,7 @@ author:
 - '[[authors/yuleicul|Yulei Chen]]'
 categories: []
 description: Preview MDX in Obsidian, with support for Code Hike
-downloads: 3690
+downloads: 3721
 mobile: false
 number: 1068
 stars: 31

@@ -5,7 +5,7 @@ author:
 - '[[authors/pistacchio|pistacchio]]'
 categories: []
 description: Add programmable controls to selected tables
-downloads: 3658
+downloads: 3802
 mobile: true
 number: 1448
 stars: 32

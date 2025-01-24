@@ -5,10 +5,10 @@ author:
 - '[[authors/jemstelos|jemstelos]]'
 categories: []
 description: Take notes on YouTube videos and podcasts with media controls and timestamps.
-downloads: 12942
+downloads: 13548
 mobile: false
 number: 1493
-stars: 98
+stars: 104
 title: Media Notes
 type: plugin
 updated: '2024-08-24T11:06:01'

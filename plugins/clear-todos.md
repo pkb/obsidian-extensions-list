@@ -5,7 +5,7 @@ author:
 - '[[authors/gutentag2012|Joshua Gawenda]]'
 categories: []
 description: Quickly remove all completed todos from your notes or selected text.
-downloads: 98
+downloads: 125
 mobile: true
 number: 2039
 stars: 2

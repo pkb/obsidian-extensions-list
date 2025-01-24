@@ -7,7 +7,7 @@ categories:
 - '[[categories/Import|Import]]'
 description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate
   and share articles.
-downloads: 3703
+downloads: 3707
 mobile: true
 number: 477
 stars: 18

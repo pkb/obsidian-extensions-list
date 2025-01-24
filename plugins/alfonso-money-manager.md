@@ -5,7 +5,7 @@ author:
 - '[[authors/smartlife-gpt|SmartLife GPT Innovations]]'
 categories: []
 description: Alfonso Money Manager data viewer and finantial analitics tool
-downloads: 1376
+downloads: 1399
 mobile: false
 number: 1436
 stars: 5

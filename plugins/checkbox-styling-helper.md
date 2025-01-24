@@ -5,7 +5,7 @@ author:
 - '[[authors/jaewonE|JaewonE]]'
 categories: []
 description: Helps you styling checkboxes in preview mode.
-downloads: 1240
+downloads: 1291
 mobile: true
 number: 1759
 stars: 10

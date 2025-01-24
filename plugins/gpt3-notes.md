@@ -5,7 +5,7 @@ author:
 - '[[authors/micahke|Micah Elias]]'
 categories: []
 description: Create a note using OpenAI's GPT-3 language model.
-downloads: 32669
+downloads: 32976
 mobile: true
 number: 736
 stars: 171

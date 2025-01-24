@@ -5,10 +5,10 @@ author:
 - '[[authors/kuchejak|Jakub Kuchejda]]'
 categories: []
 description: Link multiple bible verses easily
-downloads: 12671
+downloads: 12764
 mobile: true
 number: 444
-stars: 85
+stars: 86
 title: Bible Linker
 type: plugin
 updated: '2024-10-26T21:49:07'

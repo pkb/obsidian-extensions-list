@@ -5,15 +5,15 @@ author:
 - '[[authors/dominiclet|Dominic Let]]'
 categories: []
 description: Personal dictionary for your notes
-downloads: 9048
+downloads: 9546
 mobile: true
 number: 1669
-stars: 120
+stars: 126
 title: Note Definitions
 type: plugin
-updated: '2024-12-22T12:35:25'
+updated: '2025-01-21T19:52:13'
 url: https://github.com/dominiclet/obsidian-note-definitions
-version: 0.27.1
+version: 0.27.2
 ---
 
 %% README_START %%

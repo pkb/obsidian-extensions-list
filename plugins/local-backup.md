@@ -5,10 +5,10 @@ author:
 - '[[authors/cgcel|GC Chen]]'
 categories: []
 description: Automatically creates a local backup of the vault.
-downloads: 24467
+downloads: 25437
 mobile: false
 number: 1102
-stars: 65
+stars: 68
 title: Local Backup
 type: plugin
 updated: '2024-10-10T21:32:10'

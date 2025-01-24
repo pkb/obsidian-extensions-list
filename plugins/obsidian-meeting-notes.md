@@ -6,7 +6,7 @@ author:
 categories: []
 description: Plugin to automatically create a note if a new file is created in a meeting
   folder.
-downloads: 6816
+downloads: 6885
 mobile: true
 number: 577
 stars: 24

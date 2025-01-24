@@ -6,10 +6,10 @@ author:
 categories: []
 description: A plugin to enable better reading mode in Live preview mode of Obsidian,
   which works similar to bionic reading mode.
-downloads: 11130
+downloads: 11293
 mobile: true
 number: 680
-stars: 131
+stars: 132
 title: Better Reading Mode
 type: plugin
 updated: '2024-01-15T08:40:06'

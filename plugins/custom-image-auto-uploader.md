@@ -7,10 +7,10 @@ categories: []
 description: You can upload and save images from your notes to your remote server,
   home NAS, or sync them to your cloud storage (Alibaba Cloud OSS, Amazon S3, Cloudflare
   R2).
-downloads: 225
+downloads: 315
 mobile: true
 number: 2087
-stars: 13
+stars: 14
 title: Custom Image Auto Uploader
 type: plugin
 updated: '2024-12-30T20:26:59'

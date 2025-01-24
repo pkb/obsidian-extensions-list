@@ -5,10 +5,10 @@ author:
 - '[[authors/Pierrad|Vasseur Pierre-Adrien]]'
 categories: []
 description: Implement suggestions from Github Copilot directly in your editor.
-downloads: 5655
+downloads: 6089
 mobile: false
 number: 1659
-stars: 183
+stars: 189
 title: Github Copilot
 type: plugin
 updated: '2024-08-31T15:52:35'

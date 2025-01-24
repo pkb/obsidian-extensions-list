@@ -5,10 +5,10 @@ author:
 - '[[authors/cwfryer|cwfryer]]'
 categories: []
 description: Adds a fuzzy searched suggestion modal for callouts.
-downloads: 6838
+downloads: 7039
 mobile: true
 number: 1547
-stars: 16
+stars: 18
 title: Callout Suggestions
 type: plugin
 updated: '2024-07-22T23:23:14'

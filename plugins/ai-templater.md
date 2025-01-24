@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Templates|Templates]]'
 description: AI Extension for the Templater plugin with the OpenAI Client Library.
-downloads: 2636
+downloads: 2817
 mobile: true
 number: 1594
-stars: 37
+stars: 40
 title: AI for Templater
 type: plugin
 updated: '2024-11-01T22:43:15'

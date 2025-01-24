@@ -9,10 +9,10 @@ description: Cloud Atlas provides a unique way to use content from your vault wi
   ChatGPT. Reference a note and it (optionally) gets resolved and sent along. We also
   provide a Canvas interface for ChatGPT. Advanced features include chaining results
   and batching.
-downloads: 2573
+downloads: 2722
 mobile: true
 number: 1568
-stars: 20
+stars: 21
 title: Cloud Atlas
 type: plugin
 updated: '2024-06-11T06:25:50'

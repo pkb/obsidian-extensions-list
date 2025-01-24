@@ -5,7 +5,7 @@ author:
 - '[[authors/beginner137|dorisxx]]'
 categories: []
 description: Start a simple quiz on your current note
-downloads: 4906
+downloads: 4929
 mobile: false
 number: 412
 stars: 12

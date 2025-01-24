@@ -5,7 +5,7 @@ author:
 - '[[authors/lizard-heart|Henry Gustafson]]'
 categories: []
 description: Reverses direction of text.
-downloads: 66
+downloads: 80
 mobile: true
 number: 2004
 stars: 0

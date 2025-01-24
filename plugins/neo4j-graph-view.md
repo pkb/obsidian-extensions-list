@@ -6,7 +6,7 @@ author:
 categories: []
 description: An Obsidian plugin for advanced graph visualization and querying using
   Neo4j.
-downloads: 9515
+downloads: 9580
 mobile: false
 number: 61
 stars: 88

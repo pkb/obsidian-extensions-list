@@ -5,7 +5,7 @@ author:
 - '[[authors/lifegems|Joshua Michalik]]'
 categories: []
 description: An Obsidian plugin that adds extra features for finding related notes.
-downloads: 6791
+downloads: 6823
 mobile: true
 number: 178
 stars: 32

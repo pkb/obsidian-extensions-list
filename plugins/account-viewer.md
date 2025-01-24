@@ -6,10 +6,10 @@ author:
 categories: []
 description: Automatically generate accounting tables from Markdown code blocks tagged
   with accounting.
-downloads: 1179
+downloads: 1273
 mobile: true
 number: 1783
-stars: 1
+stars: 2
 title: Account Viewer
 type: plugin
 updated: '2024-07-26T20:07:00'

@@ -7,15 +7,15 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Enveloppe helps you to publish your notes on a preconfigured GitHub repository,
   for free, and more!
-downloads: 38805
+downloads: 39393
 mobile: true
 number: 498
-stars: 685
+stars: 712
 title: Enveloppe
 type: plugin
-updated: '2024-12-30T17:58:24'
+updated: '2025-01-23T14:38:36'
 url: https://github.com/Enveloppe/obsidian-enveloppe
-version: 7.5.2
+version: 7.5.5
 ---
 
 %% README_START %%
@@ -81,7 +81,7 @@ The plugin adds 8 commands in the palette, one of which is also available in the
 - `Test the connection to the configured repository`
 - `Check the rate limit of the GitHub API`
 
-Each of the commands are explained [here](https://enveloppe.github.io/Commands).
+Each of the commands are explained [here](https://enveloppe.ovh/Commands).
 
 ## 🤖 How it works
 
@@ -96,13 +96,13 @@ Each of the commands are explained [here](https://enveloppe.github.io/Commands).
 
 You can :
 
-- [Maintaining the project and adding new function](https://enveloppe.github.io//Developing#general)
-- [Translate to your language or improve current wording](https://enveloppe.github.io//Developing#translation)
+- [Maintaining the project and adding new function](https://enveloppe.ovh/Getting%20Started/Developing/#plugin-development)
+- [Help with the translation](https://enveloppe.ovh/Getting%20Started/Developing/#translation-or-paraphrasing)
 
 ## 🪧 Looking for something?
 
-→ [Settings explanation](https://enveloppe.github.io//Plugin/Settings/)
-← [Commands references](https://enveloppe.github.io//Commands)
+→ [Settings explanation](https://enveloppe.ovh/Settings/Plugin_config/)
+← [Commands references](https://enveloppe.ovh/Getting%20Started/Commands/)
 → [GitHub Discussion](https://github.com/orgs/Enveloppe/discussions)
 
 ---

@@ -5,10 +5,10 @@ author:
 - '[[authors/DylanHojnoski|Dylan Hojnoski]]'
 categories: []
 description: Create interactive graphs by writing YAML
-downloads: 2646
+downloads: 2725
 mobile: true
 number: 1441
-stars: 51
+stars: 58
 title: Graphs
 type: plugin
 updated: '2024-10-23T10:15:21'

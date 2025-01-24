@@ -5,15 +5,15 @@ author:
 - '[[authors/vellikhor|vellikhor]]'
 categories: []
 description: Create large quantities of notes easily at one time.
-downloads: 187
+downloads: 325
 mobile: true
 number: 2045
-stars: 4
+stars: 5
 title: Mass Create
 type: plugin
-updated: '2024-11-28T03:29:07'
+updated: '2025-01-12T02:23:27'
 url: https://github.com/vellikhor/mass-create
-version: 1.0.2
+version: 1.0.3
 ---
 
 %% README_START %%
@@ -51,7 +51,7 @@ The Mass Create plugin for [Obsidian](https://obsidian.md/) allows users to crea
 4. **Template Selection** (optional): If you’d like to use an existing file as a template, choose the template file, and its content will be duplicated in each new file.
 5. **Finish**: Confirm your selection, and the plugin will create the files and folders accordingly.
 
-You can also run Mass Create from the command menu, with your starting path as the main folder of your vault.
+You can also run Mass Create from the command menu. It will create the files in your currently active folder. If you have no files open, the bulk files will be created in your main vault folder.
 
 ![](https://github.com/vellikhor/mass-create/blob/master/assets/mass-create-runthrough.gif)
 

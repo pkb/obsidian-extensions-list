@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Insert a date at the cursor position using a calendar.
-downloads: 5011
+downloads: 5192
 mobile: true
 number: 1485
-stars: 9
+stars: 10
 title: Date Inserter
 type: plugin
 updated: '2024-12-08T15:02:31'

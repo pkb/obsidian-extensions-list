@@ -5,10 +5,10 @@ author:
 - '[[authors/jplattel|Joost Plattel]]'
 categories: []
 description: Allows template-based customization of the app window title
-downloads: 13992
+downloads: 14044
 mobile: true
 number: 102
-stars: 69
+stars: 70
 title: Custom window title
 type: plugin
 updated: '2022-05-23T23:54:34'

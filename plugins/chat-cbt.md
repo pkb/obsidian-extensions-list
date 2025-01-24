@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Guides you in reframing negative thoughts and keeping record of your
   discoveries
-downloads: 3905
+downloads: 4049
 mobile: false
 number: 1305
-stars: 192
+stars: 195
 title: ChatCBT
 type: plugin
 updated: '2025-01-05T22:51:16'

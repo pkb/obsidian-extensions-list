@@ -5,10 +5,10 @@ author:
 - '[[authors/Odaimoko|Odaimoko]]'
 categories: []
 description: 'A Project Management Tool: Tag tasks everywhere, Manage in One page.'
-downloads: 6239
+downloads: 6368
 mobile: true
 number: 1248
-stars: 27
+stars: 28
 title: Tag Project
 type: plugin
 updated: '2024-12-28T20:22:20'

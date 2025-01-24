@@ -5,10 +5,10 @@ author:
 - '[[authors/friebetill|Till Friebe]]'
 categories: []
 description: Share notes and their links as a ZIP folder.
-downloads: 110
+downloads: 148
 mobile: true
 number: 2058
-stars: 3
+stars: 4
 title: Share as ZIP
 type: plugin
 updated: '2024-12-03T19:41:06'

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Use a date picker to modify and insert date/time anywhere in your markdown
   notes.
-downloads: 3793
+downloads: 3936
 mobile: true
 number: 1766
-stars: 11
+stars: 12
 title: Datepicker
 type: plugin
 updated: '2024-10-28T02:44:47'

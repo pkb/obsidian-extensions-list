@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Move completed to-do items to a seperate completed area.
-downloads: 7751
+downloads: 7798
 mobile: true
 number: 52
-stars: 19
+stars: 20
 title: Completed Area
 type: plugin
 updated: '2020-12-10T11:09:50'

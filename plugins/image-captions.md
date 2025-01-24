@@ -5,15 +5,15 @@ author:
 - '[[authors/alangrainger|Alan Grainger]]'
 categories: []
 description: Adds captions to images when there is alt-text specified
-downloads: 27520
+downloads: 28866
 mobile: true
 number: 768
-stars: 105
+stars: 109
 title: Image Captions
 type: plugin
-updated: '2024-11-13T17:04:57'
+updated: '2025-01-20T19:57:35'
 url: https://github.com/alangrainger/obsidian-image-captions
-version: 1.1.4
+version: 1.1.5
 ---
 
 %% README_START %%

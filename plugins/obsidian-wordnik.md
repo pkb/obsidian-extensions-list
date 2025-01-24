@@ -6,7 +6,7 @@ author:
 categories: []
 description: Grabs information from Wordnik for a topic and brings it into Obsidian
   notes
-downloads: 3829
+downloads: 3833
 mobile: true
 number: 485
 stars: 10

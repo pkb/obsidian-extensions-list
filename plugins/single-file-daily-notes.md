@@ -5,10 +5,10 @@ author:
 - '[[authors/pranavmangal|Pranav Mangal]]'
 categories: []
 description: Create and manage daily notes in a single file.
-downloads: 2597
+downloads: 2661
 mobile: true
 number: 1376
-stars: 17
+stars: 18
 title: Single File Daily Notes
 type: plugin
 updated: '2024-08-22T09:23:53'

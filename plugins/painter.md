@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Paint text different colors
-downloads: 6874
+downloads: 7132
 mobile: true
 number: 1611
-stars: 34
+stars: 35
 title: Painter
 type: plugin
 updated: '2024-04-17T03:11:28'

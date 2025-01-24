@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Adds links to new notes to your daily note.
-downloads: 571
+downloads: 604
 mobile: true
 number: 1875
 stars: 3

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Enhance your documents with custom tags. Use predefined or custom labels,
   customizable colors, and arrow indicators to visually track tasks and statuses.
-downloads: 635
+downloads: 749
 mobile: true
 number: 2025
-stars: 10
+stars: 12
 title: Markdown Tags
 type: plugin
 updated: '2024-12-13T23:37:12'

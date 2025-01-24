@@ -5,15 +5,15 @@ author:
 - '[[authors/mProjectsCode|Moritz Jung]]'
 categories: []
 description: Highlight code blocks with Shiki.
-downloads: 5039
+downloads: 5592
 mobile: true
 number: 1556
-stars: 64
+stars: 74
 title: Shiki Highlighter
 type: plugin
-updated: '2024-12-04T18:07:04'
+updated: '2025-01-11T21:16:41'
 url: https://github.com/mProjectsCode/obsidian-shiki-plugin
-version: 0.4.5
+version: 0.5.0
 ---
 
 %% README_START %%

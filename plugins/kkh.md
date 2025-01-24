@@ -5,7 +5,7 @@ author:
 - '[[authors/okikae|奈幾乃(uakms)]]'
 categories: []
 description: Replace words in a string using kkh dictionary.
-downloads: 37
+downloads: 43
 mobile: true
 number: 2089
 stars: 0

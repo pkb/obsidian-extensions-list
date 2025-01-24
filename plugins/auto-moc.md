@@ -6,10 +6,10 @@ author:
 categories: []
 description: Looks for missing linked mentions or notes with a specific tag or alias
   and imports them into the current note.
-downloads: 12640
+downloads: 12847
 mobile: true
 number: 508
-stars: 43
+stars: 44
 title: AutoMOC
 type: plugin
 updated: '2024-12-10T06:54:03'

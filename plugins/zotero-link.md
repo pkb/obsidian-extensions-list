@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Insert link to Zotero items from Obsidian interface using Zotero Bridge
-downloads: 10283
+downloads: 10509
 mobile: false
 number: 558
 stars: 42

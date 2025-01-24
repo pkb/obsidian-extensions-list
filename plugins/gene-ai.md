@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Gene is an ai assistant for your second brain. It makes it easier than
   ever to creaate, manage and modify your notes. Gene is a plugin for Obsidian.md
-downloads: 5267
+downloads: 5280
 mobile: true
 number: 837
 stars: 33

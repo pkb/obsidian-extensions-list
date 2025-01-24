@@ -6,7 +6,7 @@ author:
 categories: []
 description: Shows a list of notes in the current folder, and allows you to filter
   the titles to include or exclude notes.
-downloads: 1050
+downloads: 1081
 mobile: true
 number: 1570
 stars: 5

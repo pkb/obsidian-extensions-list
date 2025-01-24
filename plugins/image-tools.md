@@ -5,10 +5,10 @@ author:
 - '[[authors/Hosstell|Andrey Serov]]'
 categories: []
 description: Formatter for image on page
-downloads: 994
+downloads: 1190
 mobile: true
 number: 2006
-stars: 16
+stars: 17
 title: Image Tools
 type: plugin
 updated: '2024-11-26T23:13:36'

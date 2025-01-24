@@ -5,10 +5,10 @@ author:
 - '[[authors/snsvrno|snsvrno]]'
 categories: []
 description: Gives more options on how to display tags in preview mode.
-downloads: 1507
+downloads: 1528
 mobile: true
 number: 1421
-stars: 9
+stars: 10
 title: Tag Formatter
 type: plugin
 updated: '2024-02-14T20:11:03'

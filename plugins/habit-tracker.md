@@ -5,7 +5,7 @@ author:
 - '[[authors/Narsail|David Moeller]]'
 categories: []
 description: Track your Habits.
-downloads: 8271
+downloads: 8336
 mobile: true
 number: 560
 stars: 34

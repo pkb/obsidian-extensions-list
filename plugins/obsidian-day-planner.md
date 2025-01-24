@@ -7,7 +7,7 @@ author:
 categories:
 - '[[categories/Planning|Planning]]'
 description: A day planner with clean UI and readable syntax
-downloads: 571772
+downloads: 580650
 mobile: true
 number: 19
 stars: 2200

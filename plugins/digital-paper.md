@@ -5,7 +5,7 @@ author:
 - '[[authors/danferns|Daniel Fernandes]]'
 categories: []
 description: turn off backspace and undo, just like writing with a pen on real paper.
-downloads: 3377
+downloads: 3410
 mobile: true
 number: 1176
 stars: 9

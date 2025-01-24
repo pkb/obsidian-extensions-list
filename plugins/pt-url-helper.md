@@ -5,7 +5,7 @@ author:
 - '[[authors/kndshein|kndshein]]'
 categories: []
 description: Automatically creates a Markdown link for Pivotal Tracker stories.
-downloads: 69
+downloads: 70
 mobile: true
 number: 1701
 stars: 0

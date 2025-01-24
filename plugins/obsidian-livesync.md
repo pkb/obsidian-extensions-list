@@ -8,15 +8,15 @@ categories:
 description: Community implementation of self-hosted livesync. Reflect your vault
   changes to some other devices immediately. Please make sure to disable other synchronize
   solutions to avoid content corruption or duplication.
-downloads: 251718
+downloads: 260007
 mobile: true
 number: 316
-stars: 5500
+stars: 5700
 title: Self-hosted LiveSync
 type: plugin
-updated: '2025-01-07T17:37:27'
+updated: '2025-01-22T18:08:25'
 url: https://github.com/vrtmrz/obsidian-livesync
-version: 0.24.7
+version: 0.24.8
 ---
 
 %% README_START %%

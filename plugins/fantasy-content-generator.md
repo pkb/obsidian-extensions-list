@@ -7,15 +7,15 @@ categories:
 - '[[categories/Games|Games]]'
 description: A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building
   Needs
-downloads: 25729
+downloads: 26986
 mobile: true
 number: 829
-stars: 40
+stars: 41
 title: Fantasy Content Generator
 type: plugin
-updated: '2024-05-27T19:11:47'
+updated: '2025-01-12T11:31:43'
 url: https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator
-version: 1.2.3
+version: 1.2.4
 ---
 
 %% README_START %%

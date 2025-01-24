@@ -6,10 +6,10 @@ author:
 categories: []
 description: Load plugins with a delay on startup, so that you can get your app startup
   down into the sub-second loading time.
-downloads: 9739
+downloads: 11104
 mobile: true
 number: 1865
-stars: 249
+stars: 300
 title: Lazy Plugin Loader
 type: plugin
 updated: '2024-09-06T02:00:44'

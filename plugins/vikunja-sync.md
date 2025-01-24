@@ -7,7 +7,7 @@ categories:
 - '[[categories/Task management|Task management]]'
 - '[[categories/Integration|Integration]]'
 description: Integrates Vikunja.
-downloads: 347
+downloads: 358
 mobile: true
 number: 1789
 stars: 8

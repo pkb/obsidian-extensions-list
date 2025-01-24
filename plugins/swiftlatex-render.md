@@ -6,10 +6,10 @@ author:
 categories: []
 description: Render LaTeX in codeblocks into pdf or svg, without needing to install
   LaTeX separately.
-downloads: 1664
+downloads: 1690
 mobile: false
 number: 1533
-stars: 3
+stars: 4
 title: SwiftLaTeX Render
 type: plugin
 updated: '2024-07-14T01:16:46'

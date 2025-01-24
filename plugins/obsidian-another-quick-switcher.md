@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: This is an Obsidian plugin which is another choice of Quick switcher.
-downloads: 75845
+downloads: 77435
 mobile: true
 number: 323
-stars: 259
+stars: 265
 title: Another Quick Switcher
 type: plugin
-updated: '2024-11-09T17:06:26'
+updated: '2025-01-13T11:50:51'
 url: https://github.com/tadashi-aikawa/obsidian-another-quick-switcher
-version: 12.1.0
+version: 12.3.0
 ---
 
 %% README_START %%
@@ -101,49 +101,61 @@ You can use the following names as a `Sort priorities`.
 
 <details>
   <summary>Recent search</summary>
-  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/recent-search-setting.png" alt="recent search" />
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/recent-search-setting.webp" alt="recent search" />
 </details>
 
 <details>
   <summary>File name search</summary>
-  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/file-name-search-setting.png" alt="file name search" />
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/file-name-search-setting.webp" alt="file name search" />
+</details>
+
+<details>
+  <summary>File name fuzzy search</summary>
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/file-name-fuzzy-search-setting.webp" alt="file name fuzzy search" />
 </details>
 
 <details>
   <summary>Landmark search</summary>
-  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/landmark-search-setting.png" alt="landmark search" />
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/landmark-search-setting.webp" alt="landmark search" />
 </details>
 
 <details>
   <summary>Star search</summary>
-  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/star-search-setting.png" alt="star search" />
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/star-search-setting.webp" alt="star search" />
 </details>
 
 <details>
-  <summary>Backlink search</summary>
-  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/backlink-search-setting.png" alt="backlink search" />
+  <summary>Link search</summary>
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/link-search-setting.webp" alt="link search" />
+</details>
+
+<details>
+  <summary>2 hop link search</summary>
+  <img src="https://raw.githubusercontent.com/tadashi-aikawa/obsidian-another-quick-switcher/master/demo/2-hop-link-search-setting.webp" alt="2 hop link search" />
 </details>
 
 #### Note
 
 ##### Queries enclosed in double quotes are searched as is
 
-- `"ho ge"` only matches `ho ge` not `hoge`
-- `ho ge` matches both `ho ge` and `hoge`
+- `"ho ge"` matches only `ho ge` and does not match `hoge`.
+- `ho ge` matches both `ho ge` and `hoge`.
 
-##### A minus sign at the beginning excludes the matched candidates
+##### A minus sign at the beginning excludes matched candidates  
 
-Ex: If there are three files.
+Example: Suppose there are three files:  
 
-- hoge.md
-- hoge
-- mdhoge
+- `hoge.md`  
+- `hoge`  
+- `mdhoge`  
 
-`hoge -md` suggests only `hoge`.
+The input `hoge -md` will suggest only `hoge`.  
+
+Additionally, you can specify a custom string as the exclude prefix using the `Exclude prefix` setting.  
 
 ##### `<cd>` means the current directory
 
-If a path of the active file is "/usr/local/vault/notes", The query, "`<cd>` obsidian" will regard as "/usr/local/vault/notes obsidian".
+If the path of the active file is "/usr/local/vault/notes", the query "`<cd>` obsidian" will be interpreted as "/usr/local/vault/notes obsidian".
 
 ### 2. Header floating search in file / Header search in file
 

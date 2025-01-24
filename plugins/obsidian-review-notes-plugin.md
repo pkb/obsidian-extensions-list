@@ -5,7 +5,7 @@ author:
 - '[[authors/tjandy98|tjandy98]]'
 categories: []
 description: This plugin shows recently modified and newly created files
-downloads: 5392
+downloads: 5436
 mobile: true
 number: 735
 stars: 9

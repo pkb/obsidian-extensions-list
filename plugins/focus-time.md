@@ -5,7 +5,7 @@ author:
 - '[[authors/astradev123|AstraDev]]'
 categories: []
 description: Track the time spent on each note and visualize the data.
-downloads: 257
+downloads: 336
 mobile: true
 number: 2075
 stars: 6

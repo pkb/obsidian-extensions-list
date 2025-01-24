@@ -7,15 +7,15 @@ categories:
 - '[[categories/Other formats|Other formats]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: The most Obsidian-native PDF annotation tool ever.
-downloads: 156640
+downloads: 171931
 mobile: true
 number: 1437
-stars: 954
+stars: -1
 title: PDF++
 type: plugin
-updated: '2025-01-01T18:08:13'
+updated: '2025-01-15T09:37:53'
 url: https://github.com/RyotaUshio/obsidian-pdf-plus
-version: 0.40.21
+version: 0.40.23
 ---
 
 %% README_START %%

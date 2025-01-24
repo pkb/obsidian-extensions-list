@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Text generation based on tag suggestions, using Claude, OpenAI, Ollama,
   Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.
-downloads: 4050
+downloads: 4605
 mobile: false
 number: 1717
-stars: 61
+stars: 71
 title: Tars
 type: plugin
 updated: '2024-12-05T15:22:39'

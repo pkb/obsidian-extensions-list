@@ -5,7 +5,7 @@ author:
 - '[[authors/AndyReifman|Andrew Reifman]]'
 categories: []
 description: Automatically adds links to defined regex.
-downloads: 584
+downloads: 609
 mobile: false
 number: 1624
 stars: 7

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a key-value store. Use it to store and retrieve key-value pairs
   in your vault.
-downloads: 508
+downloads: 513
 mobile: true
 number: 1607
 stars: 5

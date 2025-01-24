@@ -5,10 +5,10 @@ author:
 - '[[authors/danzilberdan|Dan Zilberman]]'
 categories: []
 description: Faster and more intuitive MathJax editing using MathLive.
-downloads: 14300
+downloads: 14844
 mobile: false
 number: 931
-stars: 92
+stars: 94
 title: MathLive
 type: plugin
 updated: '2024-09-30T11:02:59'

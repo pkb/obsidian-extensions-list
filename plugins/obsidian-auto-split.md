@@ -5,7 +5,7 @@ author:
 - '[[authors/jsartelle|James Sartelle]]'
 categories: []
 description: Open notes with side-by-side editor & preview
-downloads: 8949
+downloads: 9035
 mobile: true
 number: 345
 stars: 32

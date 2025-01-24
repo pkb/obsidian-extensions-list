@@ -6,10 +6,10 @@ author:
 - '[[authors/ebullient|continued by Erin Schnabel]]'
 categories: []
 description: Create markdown-based presentations using reveal.js
-downloads: 6148
+downloads: 6805
 mobile: false
 number: 1604
-stars: 107
+stars: 117
 title: Slides Extended
 type: plugin
 updated: '2025-01-04T07:19:08'

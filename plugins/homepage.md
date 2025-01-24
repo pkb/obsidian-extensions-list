@@ -6,10 +6,10 @@ author:
 categories: []
 description: Open a specified note, canvas, or workspace on startup, or set it for
   quick access later.
-downloads: 593846
+downloads: 605607
 mobile: true
 number: 232
-stars: 417
+stars: 440
 title: Homepage
 type: plugin
 updated: '2024-10-21T15:48:09'

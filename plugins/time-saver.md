@@ -7,7 +7,7 @@ categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the
   time spent on tasks in the current note and the total time spent.
-downloads: 605
+downloads: 621
 mobile: true
 number: 1609
 stars: 5

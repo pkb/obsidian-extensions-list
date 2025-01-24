@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: This Plugin lets you create Charts within Obsidian
-downloads: 207194
+downloads: 209911
 mobile: true
 number: 65
-stars: 618
+stars: 624
 title: Charts
 type: plugin
 updated: '2024-01-26T16:13:43'

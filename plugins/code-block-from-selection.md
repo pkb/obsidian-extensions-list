@@ -5,7 +5,7 @@ author:
 - '[[authors/dy-sh|Dmitry Savosh]]'
 categories: []
 description: Adds code block for the selected text
-downloads: 10491
+downloads: 10556
 mobile: true
 number: 119
 stars: 34

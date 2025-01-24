@@ -7,7 +7,7 @@ categories:
 - '[[categories/Image handling|Image handling]]'
 description: Enhance the experience of image seamlessly. For example, operations for
   image in context menu, command palette.
-downloads: 318
+downloads: 334
 mobile: true
 number: 1898
 stars: 8

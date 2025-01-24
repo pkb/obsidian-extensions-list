@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Password protect your notes.
-downloads: 1859
+downloads: 1913
 mobile: true
 number: 1534
 stars: 0

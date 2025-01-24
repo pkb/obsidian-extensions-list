@@ -5,7 +5,7 @@ author:
 - '[[authors/StevenGann|Steven Gann]]'
 categories: []
 description: Integrating CircuitJS and Obsidian
-downloads: 4306
+downloads: 4335
 mobile: false
 number: 445
 stars: 28

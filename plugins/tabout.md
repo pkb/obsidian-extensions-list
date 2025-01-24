@@ -5,10 +5,10 @@ author:
 - '[[authors/phibr0|phibr0]]'
 categories: []
 description: Easily "tab out" of Links or other Markdown Formatting Characters.
-downloads: 8769
+downloads: 8881
 mobile: false
 number: 326
-stars: 52
+stars: 53
 title: Tabout
 type: plugin
 updated: '2024-06-24T15:55:26'

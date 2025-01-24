@@ -5,10 +5,10 @@ author:
 - '[[authors/saml-dev|Sam Lewis]]'
 categories: []
 description: This plugin lets you use custom javascript files inside your vault.
-downloads: 38382
+downloads: 39024
 mobile: true
 number: 274
-stars: 323
+stars: 328
 title: CustomJS
 type: plugin
 updated: '2024-06-07T07:04:57'

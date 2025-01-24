@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Easy color and clear selected text
-downloads: 849
+downloads: 950
 mobile: true
 number: 1917
-stars: 1
+stars: 3
 title: Colorizelt
 type: plugin
 updated: '2024-11-07T16:24:28'

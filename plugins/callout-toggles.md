@@ -5,10 +5,10 @@ author:
 - '[[authors/alythobani|Aly Thobani]]'
 categories: []
 description: Quickly add, change, or remove callouts in your notes.
-downloads: 1222
+downloads: 1395
 mobile: true
 number: 1964
-stars: 10
+stars: 11
 title: Callout Toggles
 type: plugin
 updated: '2024-12-29T22:08:26'

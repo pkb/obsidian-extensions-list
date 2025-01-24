@@ -5,7 +5,7 @@ author:
 - '[[authors/veersheth|Veer Sheth]]'
 categories: []
 description: Alt-click to copy code!
-downloads: 1578
+downloads: 1616
 mobile: true
 number: 1391
 stars: 2

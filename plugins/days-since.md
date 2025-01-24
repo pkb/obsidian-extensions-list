@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: A plugin to show the number of days since a given date.
-downloads: 1999
+downloads: 2032
 mobile: true
 number: 1409
 stars: 5

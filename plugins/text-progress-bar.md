@@ -5,7 +5,7 @@ author:
 - '[[authors/michaeladams|Michael Adams]]'
 categories: []
 description: Display low-fi text progress bars in your notes.
-downloads: 6008
+downloads: 6084
 mobile: true
 number: 796
 stars: 38

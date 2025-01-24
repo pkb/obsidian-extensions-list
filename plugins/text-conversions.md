@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Perform various text conversions on the selected text
-downloads: 3089
+downloads: 3102
 mobile: true
 number: 1164
-stars: 2
+stars: 3
 title: Text Conversions
 type: plugin
 updated: '2023-09-06T03:59:06'

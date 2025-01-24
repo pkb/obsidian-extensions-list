@@ -5,7 +5,7 @@ author:
 - '[[authors/egradman|egradman]]'
 categories: []
 description: Etherpad Integration
-downloads: 4244
+downloads: 4256
 mobile: true
 number: 470
 stars: 62

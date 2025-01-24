@@ -6,7 +6,7 @@ author:
 categories: []
 description: Converts your notes into nested folders, automatically creating separate
   files for each subheading.
-downloads: 3285
+downloads: 3336
 mobile: true
 number: 1332
 stars: 13

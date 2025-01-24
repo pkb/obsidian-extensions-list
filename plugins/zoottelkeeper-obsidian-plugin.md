@@ -7,7 +7,7 @@ author:
 categories: []
 description: This plugin automatically creates, maintains and tags MOCs for all your
   folders.
-downloads: 62082
+downloads: 62787
 mobile: true
 number: 197
 stars: 197

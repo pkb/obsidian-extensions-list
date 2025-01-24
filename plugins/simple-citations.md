@@ -5,7 +5,7 @@ author:
 - '[[authors/masaki39|masaki39]]'
 categories: []
 description: Add & update simple literature notes from Zotero.
-downloads: 954
+downloads: 1021
 mobile: false
 number: 1620
 stars: 4

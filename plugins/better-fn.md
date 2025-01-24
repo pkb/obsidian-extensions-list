@@ -5,10 +5,10 @@ author:
 - '[[authors/aidenlx|]]'
 categories: []
 description: Footnote popover for Obsidian
-downloads: 32112
+downloads: 32437
 mobile: false
 number: 191
-stars: 104
+stars: 107
 title: Better footnote
 type: plugin
 updated: '2021-06-09T07:30:42'

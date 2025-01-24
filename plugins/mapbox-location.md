@@ -5,7 +5,7 @@ author:
 - '[[authors/aaronczichon|Aaron Czichon]]'
 categories: []
 description: Show a map inside your notes with a specific format.
-downloads: 787
+downloads: 821
 mobile: true
 number: 1625
 stars: 6

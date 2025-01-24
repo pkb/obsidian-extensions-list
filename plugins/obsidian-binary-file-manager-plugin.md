@@ -6,7 +6,7 @@ author:
 categories: []
 description: Detects new binary files in the vault and create markdown files with
   metadata.
-downloads: 7724
+downloads: 7825
 mobile: true
 number: 393
 stars: 65

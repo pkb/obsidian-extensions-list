@@ -5,10 +5,10 @@ author:
 - '[[authors/makary-s|Makary Sharoyan]]'
 categories: []
 description: Multidimensional note navigation
-downloads: 1649
+downloads: 1683
 mobile: true
 number: 1524
-stars: 20
+stars: 21
 title: Metafolders
 type: plugin
 updated: '2024-03-14T04:09:39'

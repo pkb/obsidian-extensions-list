@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Find links to similar notes using artificial intelligence from OpenAI.
-downloads: 354658
+downloads: 368026
 mobile: true
 number: 754
-stars: 3100
+stars: 3200
 title: Smart Connections
 type: plugin
-updated: '2024-12-26T21:18:48'
+updated: '2025-01-21T02:57:57'
 url: https://github.com/brianpetro/obsidian-smart-connections
-version: 2.3.47
+version: 2.3.49
 ---
 
 %% README_START %%
@@ -37,6 +37,7 @@ Hey there, I'm Brian, the mind behind Smart Connections (still human, at this po
 Smart Connections is a [mission-driven](https://youtu.be/RtlpPTrEQ7c) software that's funded by users. Smart Connections is designed by an individual to enhance individual abilities so you can reach your goals and realize your visions for the future with software that's aligned with you. Follow [@wfhbrian](https://x.com/wfhbrian) for feature sneak peeks and other updates about the process of developing Smart Connections.
 
 ![Easy to install and use](https://raw.githubusercontent.com/brianpetro/obsidian-smart-connections/HEAD/assets/smart-connections-install.gif)
+![Easy to install and use](https://raw.githubusercontent.com/brianpetro/obsidian-smart-connections/HEAD/assets/using-smart-connections.gif)
 
 > [!NOTE]
 > Documentation site coming soon at [docs.smartconnections.app](https://docs.smartconnections.app). Contribute to the docs [here](https://github.com/brianpetro/Smart-Connections-Docs).

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Multiple branching AI conversations as Markdown hierarchy
-downloads: 434
+downloads: 450
 mobile: true
 number: 1767
-stars: 10
+stars: 11
 title: AI Chat as Markdown
 type: plugin
 updated: '2024-08-04T21:08:09'

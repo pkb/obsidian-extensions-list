@@ -8,7 +8,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares obsidian md file to notion with notion api for NotionNext web
   deploy, originally created by EasyChris/obsidian-to-notion.
-downloads: 7199
+downloads: 7337
 mobile: true
 number: 1150
 stars: 57

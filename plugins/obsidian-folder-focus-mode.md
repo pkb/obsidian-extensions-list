@@ -6,7 +6,7 @@ author:
 categories: []
 description: Focus file explorer on chosen folder and its files and subdirectories,
   while hiding all the other elements.
-downloads: 12866
+downloads: 13023
 mobile: true
 number: 517
 stars: 49

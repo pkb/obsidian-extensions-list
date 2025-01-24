@@ -6,10 +6,10 @@ author:
 categories: []
 description: Automatically manages and updates 'created' and 'modified' timestamps
   in the frontmatter of your notes
-downloads: 2654
+downloads: 2854
 mobile: true
 number: 1751
-stars: 8
+stars: 10
 title: Front Matter Timestamps
 type: plugin
 updated: '2024-12-15T21:15:08'

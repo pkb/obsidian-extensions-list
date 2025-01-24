@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Streamlining task management and productivity with a touch of gamification
-downloads: 807
+downloads: 832
 mobile: true
 number: 1608
 stars: 9

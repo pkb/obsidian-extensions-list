@@ -6,7 +6,7 @@ author:
 categories: []
 description: CSS styles and CM6 extensions to highlight whitespace in Source and Live
   Preview modes.
-downloads: 6604
+downloads: 6841
 mobile: true
 number: 1310
 stars: 17

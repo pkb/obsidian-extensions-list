@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enhance your internal links management with dynamic alias customization.
   Display short, full, or combined titles for your notes effortlessly.
-downloads: 57
+downloads: 99
 mobile: true
 number: 2099
 stars: 0

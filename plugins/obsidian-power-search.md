@@ -5,7 +5,7 @@ author:
 - '[[authors/aviral-batra|Aviral Batra]]'
 categories: []
 description: Searches Obsidian and Anki Notes based on current line
-downloads: 5266
+downloads: 5276
 mobile: false
 number: 421
 stars: 22

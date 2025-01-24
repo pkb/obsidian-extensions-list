@@ -6,7 +6,7 @@ author:
 categories: []
 description: create-folder-notes-with-dropdown is a plugin designed to help users
   quickly create Markdown files in existing or nonexisting folders with dropdown.
-downloads: 106
+downloads: 148
 mobile: true
 number: 2063
 stars: 0

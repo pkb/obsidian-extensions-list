@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Render BattleSnake positions diagrams in note preview.
-downloads: 2884
+downloads: 2890
 mobile: true
 number: 1107
 stars: 0

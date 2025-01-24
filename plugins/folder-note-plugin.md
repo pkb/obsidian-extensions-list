@@ -5,7 +5,7 @@ author:
 - '[[authors/xpgo|xpgo]]'
 categories: []
 description: Click a folder node to show a note describing the folder.
-downloads: 113712
+downloads: 115345
 mobile: true
 number: 78
 stars: 409

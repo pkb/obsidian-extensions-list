@@ -6,10 +6,10 @@ author:
 categories: []
 description: Add keyboard shortcuts (hotkeys) commonly found in code editors such
   as Visual Studio Code (vscode) or Sublime Text
-downloads: 36804
+downloads: 37208
 mobile: true
 number: 301
-stars: 363
+stars: 365
 title: Code Editor Shortcuts
 type: plugin
 updated: '2023-05-24T19:50:22'

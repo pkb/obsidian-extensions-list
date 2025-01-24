@@ -5,10 +5,10 @@ author:
 - '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Globally search settings in Obsidian.md
-downloads: 130422
+downloads: 132668
 mobile: true
 number: 426
-stars: 140
+stars: 141
 title: Settings Search
 type: plugin
 updated: '2023-10-05T18:36:24'

@@ -5,7 +5,7 @@ author:
 - '[[authors/shakedlokits|Shaked Lokits (shaked@melio.com)]]'
 categories: []
 description: Opinionated file structure manager.
-downloads: 3700
+downloads: 3708
 mobile: true
 number: 522
 stars: 26

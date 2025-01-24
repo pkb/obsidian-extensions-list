@@ -7,15 +7,15 @@ categories: []
 description: Manage settings options, including show enabled/disabled plugins and
   css, grid layout, save current plugins/css enable config for quick enable/disable,
   etc.
-downloads: 1299
+downloads: 1719
 mobile: false
 number: 1672
-stars: 19
+stars: 20
 title: Settings Management
 type: plugin
-updated: '2024-05-30T13:32:26'
+updated: '2025-01-09T19:46:58'
 url: https://github.com/xhuajin/obsidian-settings-options-management
-version: 1.0.5
+version: 1.0.6
 ---
 
 %% README_START %%

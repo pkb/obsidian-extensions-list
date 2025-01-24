@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: Self-Hosted synchronization for you Vault using AnySocket
-downloads: 410
+downloads: 428
 mobile: true
 number: 1870
-stars: 9
+stars: 10
 title: AnySocket Sync
 type: plugin
 updated: '2024-11-05T19:19:50'

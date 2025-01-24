@@ -5,10 +5,10 @@ author:
 - '[[authors/jfsicilia|Juan Sicilia]]'
 categories: []
 description: Adds missing features to the file explorer.
-downloads: 582
+downloads: 684
 mobile: false
 number: 2016
-stars: 18
+stars: 19
 title: File Manager
 type: plugin
 updated: '2024-12-23T16:54:16'

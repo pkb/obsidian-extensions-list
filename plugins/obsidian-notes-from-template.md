@@ -6,10 +6,10 @@ author:
 categories: []
 description: Create new notes from Templates - for each Template, provides a Command
   to trigger it, and a form to fill in any variables in the template
-downloads: 12188
+downloads: 12304
 mobile: true
 number: 363
-stars: 108
+stars: 109
 title: From Template
 type: plugin
 updated: '2024-08-08T14:43:53'

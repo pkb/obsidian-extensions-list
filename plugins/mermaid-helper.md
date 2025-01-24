@@ -5,7 +5,7 @@ author:
 - '[[authors/FrancescoDiCursi|Francesco Di Cursi]]'
 categories: []
 description: plug in that helps in mermaid.js workflow and more
-downloads: 4855
+downloads: 4893
 mobile: true
 number: 947
 stars: 5

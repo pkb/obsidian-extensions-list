@@ -5,10 +5,10 @@ author:
 - '[[authors/Hugo-Persson|Hugo Persson]]'
 categories: []
 description: Convert your images to Markdown and MathJax
-downloads: 4626
+downloads: 4685
 mobile: false
 number: 1200
-stars: 28
+stars: 29
 title: Image2LaTEX
 type: plugin
 updated: '2024-04-04T22:54:14'

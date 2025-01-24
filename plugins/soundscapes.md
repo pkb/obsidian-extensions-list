@@ -6,15 +6,15 @@ author:
 categories: []
 description: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar
   to help with concentration. Also allows you to play your own local music files.
-downloads: 9999
+downloads: 11272
 mobile: false
 number: 1362
-stars: 60
+stars: 64
 title: Soundscapes
 type: plugin
-updated: '2024-03-27T06:56:31'
+updated: '2025-01-09T11:18:34'
 url: https://github.com/andrewmcgivery/obsidian-soundscapes
-version: 1.4.0
+version: 1.5.0
 ---
 
 %% README_START %%

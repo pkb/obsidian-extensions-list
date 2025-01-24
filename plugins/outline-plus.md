@@ -6,7 +6,7 @@ author:
 categories: []
 description: Fix issues of the built-in outline view & optionally render markdown
   in it.
-downloads: 1612
+downloads: 1637
 mobile: true
 number: 1404
 stars: 5

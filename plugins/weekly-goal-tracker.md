@@ -5,7 +5,7 @@ author:
 - '[[authors/GitGorman|George Gorman]]'
 categories: []
 description: Keep track of weekly goals in the status bar
-downloads: 397
+downloads: 459
 mobile: false
 number: 2036
 stars: 2

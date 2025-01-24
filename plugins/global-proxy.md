@@ -6,10 +6,10 @@ author:
 categories: []
 description: Use network proxy throughout Obsidian according to the rules configured
   in this plugin.
-downloads: 6577
+downloads: 6800
 mobile: false
 number: 1331
-stars: 79
+stars: 81
 title: Global Proxy
 type: plugin
 updated: '2024-03-10T08:20:49'

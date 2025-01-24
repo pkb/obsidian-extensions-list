@@ -5,7 +5,7 @@ author:
 - '[[authors/rcmdnk|rcmdnk]]'
 categories: []
 description: Obsidian Plugin for encrypted data imported from Evernote.
-downloads: 1555
+downloads: 1568
 mobile: true
 number: 1402
 stars: 3

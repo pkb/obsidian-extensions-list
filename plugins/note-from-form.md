@@ -5,7 +5,7 @@ author:
 - '[[authors/ArhiChief|ArhiChief]]'
 categories: []
 description: Define dynamic input form and use it to create notes
-downloads: 72
+downloads: 104
 mobile: true
 number: 2082
 stars: 2

@@ -5,10 +5,10 @@ author:
 - '[[authors/chaintng|Por Chainarong Tangsurakit]]'
 categories: []
 description: Set the cursor position after pressing Enter on the note title.
-downloads: 38
+downloads: 69
 mobile: true
 number: 2095
-stars: 0
+stars: 2
 title: Cursor Position on Title Enter
 type: plugin
 updated: '2024-12-26T08:53:46'

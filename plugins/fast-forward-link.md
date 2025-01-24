@@ -7,10 +7,10 @@ categories: []
 description: Fast-forward multiple links to a single target note. Create custom link
   shorthands (like `ps` > `photoshop`) to create synonyms, streamline navigation,
   and keep your vault organized.
-downloads: 68
+downloads: 93
 mobile: true
 number: 2079
-stars: 4
+stars: 5
 title: FastForwardLink
 type: plugin
 updated: '2024-11-09T03:41:39'

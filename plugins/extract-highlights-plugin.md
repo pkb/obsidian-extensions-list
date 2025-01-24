@@ -5,7 +5,7 @@ author:
 - '[[authors/akaalias|Alexis Rondeau]]'
 categories: []
 description: Create, extract and leverage your markdown highlights
-downloads: 19670
+downloads: 19794
 mobile: true
 number: 35
 stars: 88

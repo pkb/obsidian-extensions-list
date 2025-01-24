@@ -6,10 +6,10 @@ author:
 categories: []
 description: Capture any new notes into an inbox and periodically prompt to organise
   these into other folders within the vault.
-downloads: 30
+downloads: 221
 mobile: true
 number: 2104
-stars: 0
+stars: 3
 title: Inbox Organiser
 type: plugin
 updated: '2025-01-08T02:32:46'

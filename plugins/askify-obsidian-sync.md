@@ -7,7 +7,7 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: This plugin help to sync notes from Askify (https://askify.video/) to
   Obsidian
-downloads: 3571
+downloads: 3580
 mobile: false
 number: 924
 stars: 10

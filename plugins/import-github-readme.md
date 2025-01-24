@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Fetches and integrates GitHub README files into personal notesmai
-downloads: 287
+downloads: 312
 mobile: true
 number: 1873
-stars: 7
+stars: 8
 title: Import GitHub Readme
 type: plugin
 updated: '2024-06-29T13:53:01'

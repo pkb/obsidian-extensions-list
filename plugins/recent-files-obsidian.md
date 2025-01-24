@@ -5,10 +5,10 @@ author:
 - '[[authors/tgrosinger|Tony Grosinger]]'
 categories: []
 description: List files by most recently opened
-downloads: 665526
+downloads: 685393
 mobile: true
 number: 7
-stars: 368
+stars: 374
 title: Recent Files
 type: plugin
 updated: '2025-01-03T23:34:53'

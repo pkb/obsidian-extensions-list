@@ -5,10 +5,10 @@ author:
 - '[[authors/esm7|esm]]'
 categories: []
 description: Auto-load a startup file with Obsidian Vim commands.
-downloads: 102316
+downloads: 104121
 mobile: true
 number: 15
-stars: 1100
+stars: 1200
 title: Vimrc Support
 type: plugin
 updated: '2024-11-03T15:37:13'

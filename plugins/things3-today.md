@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Manage today's tasks with Things3
-downloads: 1703
+downloads: 1756
 mobile: false
 number: 1506
 stars: 14

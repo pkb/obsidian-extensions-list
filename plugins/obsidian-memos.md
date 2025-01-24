@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Capturing ideas and save them into daily notes. (Closed source)
-downloads: 193156
+downloads: 195599
 mobile: true
 number: 397
 stars: 1100

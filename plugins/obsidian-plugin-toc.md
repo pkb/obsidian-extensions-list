@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Create a table of contents for a note.
-downloads: 146582
+downloads: 148888
 mobile: true
 number: 108
-stars: 300
+stars: 302
 title: Table of Contents
 type: plugin
 updated: '2023-05-11T08:08:35'

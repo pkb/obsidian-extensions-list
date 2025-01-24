@@ -6,7 +6,7 @@ author:
 categories: []
 description: Embed markdown online file/image links. This plugin is for uploading
   images to hosting or files to github in Obsidian.
-downloads: 5141
+downloads: 5157
 mobile: false
 number: 676
 stars: 40

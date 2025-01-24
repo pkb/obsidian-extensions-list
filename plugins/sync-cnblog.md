@@ -5,10 +5,10 @@ author:
 - '[[authors/lei-ctyh|zhanglei]]'
 categories: []
 description: 将笔记同步到博客园
-downloads: 32
+downloads: 43
 mobile: false
 number: 2069
-stars: 6
+stars: 7
 title: Sync Cnblog
 type: plugin
 updated: '2024-12-07T08:37:43'

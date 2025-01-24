@@ -5,7 +5,7 @@ author:
 - '[[authors/Lewuathe|Lewuathe]]'
 categories: []
 description: Show syntax highlighing for MLIR in code blocks the editor
-downloads: 6339
+downloads: 6493
 mobile: true
 number: 1112
 stars: 3

@@ -5,7 +5,7 @@ author:
 - '[[authors/ravimashru|Ravi Mashru]]'
 categories: []
 description: Show the full path of the currently open file in the status bar
-downloads: 30981
+downloads: 31211
 mobile: true
 number: 94
 stars: 50

@@ -7,15 +7,15 @@ categories:
 - '[[categories/Export|Export]]'
 description: Export your notes to PDF, support export preview, add bookmarks outline
   and header/footer.
-downloads: 81070
+downloads: 88706
 mobile: false
 number: 1408
-stars: 390
+stars: 411
 title: Better Export PDF
 type: plugin
-updated: '2024-12-05T08:49:36'
+updated: '2025-01-15T08:40:27'
 url: https://github.com/l1xnan/obsidian-better-export-pdf
-version: 1.10.0
+version: 1.10.2
 ---
 
 %% README_START %%
@@ -145,6 +145,10 @@ toc: true
 ```
 
 This allows the plugin to export the notes in the order of the internal links. The anchor point of the exported PDF table of contents supports clicking to jump.
+
+
+**Note**: When exporting with a Table of Contents file, right click on that toc-file and select `Better Export PDF`. Do not use `Export Folder to PDF`.
+
 
 ### Folder batch export
 

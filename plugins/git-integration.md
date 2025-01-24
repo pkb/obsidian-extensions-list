@@ -5,7 +5,7 @@ author:
 - '[[authors/noradroid|noradroid]]'
 categories: []
 description: Easily backup vault on a remote repository.
-downloads: 1968
+downloads: 2003
 mobile: false
 number: 1430
 stars: 4

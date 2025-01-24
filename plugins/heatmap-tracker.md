@@ -6,15 +6,15 @@ author:
 categories: []
 description: Visualize your activity and track goals, progress, habits, tasks, exercise,
   finances, and more—all in a single, interactive heatmap!
-downloads: 2235
+downloads: 3524
 mobile: true
 number: 2051
-stars: 41
+stars: 59
 title: Heatmap Tracker
 type: plugin
-updated: '2025-01-06T19:15:28'
+updated: '2025-01-21T23:11:46'
 url: https://github.com/mokkiebear/heatmap-tracker
-version: 1.12.2
+version: 1.13.11
 ---
 
 %% README_START %%
@@ -25,13 +25,14 @@ version: 1.12.2
 
 The **Heatmap Tracker plugin for Obsidian** is a powerful and customizable tool designed to help you **track, visualize, and analyze data** over a calendar year. Perfect for habit tracking, project management, personal development, or any kind of data visualization, this plugin enables you to create beautiful, interactive heatmaps directly within Obsidian. Whether you’re **monitoring progress, visualizing trends, or staying on top of daily goals**, the Heatmap Tracker enhances your productivity and organization. Discover its intuitive features, flexible customization options, and seamless integration with Obsidian in the detailed guide below.
 
+> **Tip:** Check [Example Vault](https://github.com/mokkiebear/heatmap-tracker/tree/main/EXAMPLE_VAULT). There're lots of good examples (and I update it often).
+
 ## Watch video to start using this plugin in 30 seconds
 
 <img src="https://raw.githubusercontent.com/mokkiebear/heatmap-tracker/refs/heads/main/public/heatmap-how-to.gif" />
 
-
 ## Start with this code example
-> **Tip:** Replace `trackerData` with your own dataset to visualize custom data points.
+> **Tip:** Update `trackerData` with your own dataset to visualize custom data points.
 
 > **Tip:** Add `dataviewjs` in the beginning of your code block to enable DataviewJS functionality.
 
@@ -95,12 +96,12 @@ renderHeatmapTracker(this.container, trackerData);
 - **Default:**
 ```
 [
-  { "date": "1900-01-01", "color": "#7bc96f", "intensity": 5, "content": "" }
+  { "date": "1900-01-01", "customColor": "#7bc96f", "intensity": 5, "content": "" }
 ]
 ```
 - **Description:** A list of data entries for the heatmap. Each entry includes:
   - `date`: The date of the entry (ISO string format).
-  - `color`: The color for that entry.
+  - `customColor`: The color for that entry.
   - `intensity`: The data intensity for that date.
   - `content`: Optional tooltip or note associated with the date.
 

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Work with your lists like in Workflowy or RoamResearch.
-downloads: 845505
+downloads: 853434
 mobile: true
 number: 135
-stars: -1
+stars: 1100
 title: Outliner
 type: plugin
 updated: '2024-03-21T13:57:27'

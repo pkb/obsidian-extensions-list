@@ -5,7 +5,7 @@ author:
 - '[[authors/khuongduy354|khuongduy354]]'
 categories: []
 description: Create a url to your file on your git remote repo
-downloads: 3668
+downloads: 3672
 mobile: false
 number: 996
 stars: 2

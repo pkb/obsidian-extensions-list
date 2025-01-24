@@ -5,7 +5,7 @@ author:
 - '[[authors/jdrbrn|jdrbrn]]'
 categories: []
 description: Indexes references to scriptures in notes.
-downloads: 167
+downloads: 201
 mobile: true
 number: 1926
 stars: 0
@@ -13,7 +13,7 @@ title: Scripture Indexer
 type: plugin
 updated: '2024-12-21T22:57:27'
 url: https://github.com/jdrbrn/obsidian-scripture-indexer
-version: 1.2.0
+version: 1.3.0
 ---
 
 %% README_START %%
@@ -31,17 +31,22 @@ Different chapters or books need to be seperated with a semicolon.<br>
 Example: Gen 1:1,2,3-5; 2:1; Ex 1:1<br>
 
 ## Commands
-Reset Index - Resets the index
+Reset index - Resets the index
 
-Index All Files - Indexes all markdown files in the vault
+Index all files - Indexes all markdown files in the vault
 
-Index This File - Indexes the currently active note
+Index this file - Indexes the currently active note
 
 ## Settings
-Index File Path - What file to write the index to (Index.md by default)
+Index file path - What file to write the index to  (Index.md by default)<br>
+Index file path is excluded from automatic indexing if enabled.
+
+Chapter and verse delimiter - What character you use to seperate chapters and verse in your notes (Defaults to ':')
 
 Enable automatic indexing - Toggles if index should be automatically updated when files changes are detected (Enabled by default)
 
-Automatic indexing delay - How long to wait after to make sure a file is done being edited before indexing it. (3 Seconds by default)
+Automatic indexing delay - How long to wait after to make sure a file is done being edited before indexing it (3 Seconds by default)
+
+Paths to exclude from indexing - Files and/or folders that should not be automatically indexed
 
 %% README_END %%

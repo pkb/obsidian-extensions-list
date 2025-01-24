@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Breadcrumb navigation in Obsidian
-downloads: 5136
+downloads: 5167
 mobile: false
 number: 712
 stars: 26

@@ -5,10 +5,10 @@ author:
 - '[[authors/RyotaUshio|Ryota Ushio]]'
 categories: []
 description: Adjust font size via commands.
-downloads: 5046
+downloads: 5256
 mobile: true
 number: 1368
-stars: 6
+stars: 7
 title: Font Size Adjuster
 type: plugin
 updated: '2024-03-28T11:48:28'

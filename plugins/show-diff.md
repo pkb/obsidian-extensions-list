@@ -5,7 +5,7 @@ author:
 - '[[authors/ivan-lednev|Ivan Lednev]]'
 categories: []
 description: Render Git diffs in Obsidian files
-downloads: 3732
+downloads: 3746
 mobile: false
 number: 918
 stars: 20

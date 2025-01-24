@@ -6,10 +6,10 @@ author:
 categories: []
 description: Allows you to add a daily note node to the canvas that will always show
   todays note.
-downloads: 1924
+downloads: 1963
 mobile: false
 number: 1398
-stars: 13
+stars: 14
 title: Canvas Daily Note
 type: plugin
 updated: '2024-02-15T02:52:22'

@@ -5,15 +5,15 @@ author:
 - '[[authors/Zachatoo|Zachatoo]]'
 categories: []
 description: Edit CSS files within Obsidian.
-downloads: 15748
+downloads: 16512
 mobile: true
 number: 1019
-stars: 60
+stars: 62
 title: CSS Editor
 type: plugin
-updated: '2024-11-07T10:41:02'
+updated: '2025-01-21T10:32:52'
 url: https://github.com/Zachatoo/obsidian-css-editor
-version: 1.2.2
+version: 1.2.3
 ---
 
 %% README_START %%

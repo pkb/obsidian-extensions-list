@@ -5,10 +5,10 @@ author:
 - '[[authors/raineszm|Zach Raines]]'
 categories: []
 description: Allows to quickly insert and change latex environments within math environments.
-downloads: 24188
+downloads: 24359
 mobile: true
 number: 29
-stars: 60
+stars: 61
 title: Latex Environments
 type: plugin
 updated: '2023-07-31T23:46:14'

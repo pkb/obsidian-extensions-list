@@ -5,7 +5,7 @@ author:
 - '[[authors/Kay607|Kay606]]'
 categories: []
 description: Execute scripts from canvas
-downloads: 1028
+downloads: 1074
 mobile: false
 number: 1637
 stars: 23

@@ -6,7 +6,7 @@ author:
 categories: []
 description: 'Create a numerical adjacency matrix of your vault in two ways: Absolute
   and Normalized.'
-downloads: 2039
+downloads: 2043
 mobile: true
 number: 1300
 stars: 4

@@ -5,7 +5,7 @@ author:
 - '[[authors/Shreshth-mehra|Shreshth Mehra]]'
 categories: []
 description: A Movie and TV show tracker.
-downloads: 2116
+downloads: 2157
 mobile: true
 number: 1424
 stars: 11

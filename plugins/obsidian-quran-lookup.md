@@ -6,10 +6,10 @@ author:
 categories: []
 description: This is a Quran Lookup plugin for Obsidian. This replaces chapter:verse
   shorthand with verse text in arabic and translation.
-downloads: 4433
+downloads: 4471
 mobile: true
 number: 678
-stars: 39
+stars: 40
 title: QuranLookup
 type: plugin
 updated: '2024-12-16T10:38:43'

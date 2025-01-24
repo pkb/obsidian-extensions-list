@@ -5,7 +5,7 @@ author:
 - '[[authors/steven-kraft|Steven Kraft]]'
 categories: []
 description: Simple Markdown to Furigana Rendering Plugin for Obsidian.
-downloads: 11954
+downloads: 12106
 mobile: true
 number: 170
 stars: 91

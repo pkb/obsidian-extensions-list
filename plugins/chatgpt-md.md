@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A (nearly) seamless integration of ChatGPT into Obsidian.
-downloads: 39278
+downloads: 40269
 mobile: true
 number: 822
-stars: 870
+stars: 877
 title: ChatGPT MD
 type: plugin
-updated: '2023-04-04T03:06:20'
+updated: '2025-01-15T15:17:15'
 url: https://github.com/bramses/chatgpt-md
-version: 1.5.0
+version: 1.6.0
 ---
 
 %% README_START %%
@@ -23,9 +23,6 @@ version: 1.5.0
 
 
 # ChatGPT-MD
-
-# --> APRIL 2024 LOOKING FOR NEW MAINTANERS [(SEE HERE)](https://github.com/bramses/chatgpt-md/pull/100#issuecomment-2085337331). DM ME IF THAT'S YOU! <-- 
-
 
 A (nearly) seamless integration of ChatGPT into Obsidian.
 

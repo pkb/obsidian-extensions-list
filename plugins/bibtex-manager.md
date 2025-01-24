@@ -5,10 +5,10 @@ author:
 - '[[authors/akopdev|Akop Kesheshyan]]'
 categories: []
 description: Create a literature notes from a BibTeX entries.
-downloads: 1336
+downloads: 1464
 mobile: true
 number: 1650
-stars: 65
+stars: 66
 title: BibTeX Manager
 type: plugin
 updated: '2024-12-20T19:45:01'

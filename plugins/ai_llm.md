@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Integrate local machine learning (OLLAMA) functionality into your notes,
   enhancing their capabilities
-downloads: 3570
+downloads: 3693
 mobile: true
 number: 1548
-stars: 41
+stars: 44
 title: AI LLM
 type: plugin
 updated: '2024-06-30T14:09:13'

@@ -5,7 +5,7 @@ author:
 - '[[authors/YoniA|Yoni Asulin]]'
 categories: []
 description: Toggle RTL mode using command or ribbon action
-downloads: 280
+downloads: 295
 mobile: true
 number: 1660
 stars: 0

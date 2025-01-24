@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: This is a plugin for Obsidian that enables the usage of Ollama within
   your notes.
-downloads: 15307
+downloads: 15648
 mobile: false
 number: 1203
-stars: 857
+stars: 876
 title: Ollama
 type: plugin
 updated: '2023-09-19T07:21:01'

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Sync Readwise highlights into your notes
-downloads: 8851
+downloads: 8873
 mobile: true
 number: 153
 stars: 111

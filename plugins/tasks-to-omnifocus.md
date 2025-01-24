@@ -8,10 +8,10 @@ categories:
 - '[[categories/Task management|Task management]]'
 description: An Obsidian plugin will extract tasks from the current note and create
   them in OmniFocus.
-downloads: 5518
+downloads: 5579
 mobile: true
 number: 855
-stars: 32
+stars: 33
 title: Send Tasks to OmniFocus
 type: plugin
 updated: '2024-09-03T00:39:36'

@@ -5,7 +5,7 @@ author:
 - '[[authors/lijyze|Lijyze]]'
 categories: []
 description: Give additioinal features to  code blocks.
-downloads: 12636
+downloads: 12804
 mobile: true
 number: 533
 stars: 58

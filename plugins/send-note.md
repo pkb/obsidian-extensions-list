@@ -7,7 +7,7 @@ categories: []
 description: Instantly send a note, to other obsidian users so they can import them
   into their vault. It uses AWS S3 as a storage backend. Data is shared encrypted
   by default, and only you and the person you send it to have the key.
-downloads: 26
+downloads: 58
 mobile: true
 number: 2093
 stars: 0

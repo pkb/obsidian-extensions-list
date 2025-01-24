@@ -5,7 +5,7 @@ author:
 - '[[authors/ai-chen2050|Blake Chan]]'
 categories: []
 description: Download video from YouTube
-downloads: 887
+downloads: 983
 mobile: false
 number: 1813
 stars: 4

@@ -5,15 +5,15 @@ author:
 - '[[authors/xiaotianhu|Rainyluo]]'
 categories: []
 description: Save messages into vault which sending through WeChat / HTTP API / Email
-downloads: 1663
+downloads: 1782
 mobile: true
 number: 1793
 stars: 9
 title: Messager
 type: plugin
-updated: '2024-09-18T14:16:50'
+updated: '2025-01-20T18:47:59'
 url: https://github.com/xiaotianhu/obsidian-messager
-version: 1.1.1
+version: 1.1.2
 ---
 
 %% README_START %%

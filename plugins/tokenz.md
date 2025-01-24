@@ -6,28 +6,39 @@ author:
 categories: []
 description: 'Insert shortcodes into your document, e.g smileys :) or emojis :wink:
   . User-defined short code maps are also supported.'
-downloads: 249
+downloads: 316
 mobile: true
 number: 1884
 stars: 4
 title: Tokenz
 type: plugin
-updated: '2024-08-26T20:26:50'
+updated: '2025-01-20T05:35:25'
 url: https://github.com/ferenk/obsidian-tokenz
-version: '0.74'
+version: 0.8.1
 ---
 
 %% README_START %%
 
-﻿<div align="center" class="not_on_gh-pages">
+<head>
+  <link rel="canonical" href="https://obsidian-tokenz.ferenk.dev/" />
+</head>
+<div align="center" class="hide_on_gh-pages">
   <br>
   <a href="https://github.com/ferenk/obsidian-tokenz">
     <img alt="tokenz poster" src="https://ferenk.github.io/obsidian-tokenz/docs/img/tokenz_poster.jpg" width="830">
   </a>
+</div>
+<div>
+</div>
+<div style="text-align: center;">
+<img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/ferenk/obsidian-tokenz?style=flat&logo=github" height=32px>
+<img alt="Obsidian downloads" src="https://img.shields.io/github/downloads/ferenk/obsidian-tokenz/main.js?style=flat&logo=obsidian" height=32px>
+</div>
+<div align="center" class="hide_on_gh-pages">
   <h1>Obsidian / Tokenz</h1>
 </div>
 
-Use your favourite symbols, special characters and frequently used snippets with ease!  
+Use your favourite icons, special characters and frequently used snippets with ease!  
 You can insert them to your document using short code mappings:
 
 - **Built-in** short code maps:  
@@ -86,11 +97,41 @@ It's easy to define your own code maps. You can choose any format for your short
 
 And now you can insert these symbols to your document this way:
 
-| Format          | Short code example                           |   Result               |
-| --------------- | -------------------------------------------- | ---------------------- |
-| IRC style       | ``/prog-20 20%, /prog-50 /prog-90 90%``      | => ▎ 20%, ▋ 50%, █ 90% |
-| CSS class       | ``.idea, .success``                          | => 💡, 🏆              |
-| Any crazy style | ``\|tv_episode\|``                           | => 📺                  |
+| Format            | Short code example                           |   Result               |
+| ----------------- | -------------------------------------------- | ---------------------- |
+| IRC style         | ``/prog-20 20%, /prog-50 /prog-90 90%``      | => ▎ 20%, ▋ 50%, █ 90% |
+| CSS class         | ``.idea, .success``                          | => 💡, 🏆
+| Any "crazy" style | <code>|tv_episode|</code>                    | => 📺                  |
+
+### 3. Settings
+#### Highlighting
+Token text highlighting is enabled for all kind of code blocks by default, but you can enable/disable any sets of block names with *rulesets*.
+The format of these rulesets is:<br>
+```{+|-}<block name pattern>, ...```
+
+The rules are separated by commas and the rules are applied in the order of appearance.
+You can use the wildcard character ``*`` to match any character sequence (even "") and the ``?`` character to match any single character.
+Some examples:
+
+- ``+*``: Enable highlighting for all block names
+- ``-?*``: Disable highlighting for named blocks but still enable it for unnamed blocks (``?*`` ensures that the length of the name is at least 1)
+- ``-*, +html``: Enable html block highlighting, all others are disabled
+- ``-*, +*js*``: Enable highlighting for all block names containing "js" (e.g 'dataviewjs' blocks), all others are disabled
+
+And a final example with an explanation of how it is applied:
+
+``-*, +*js*, +javascript, -*json*``
+
+0. <i>(<font color="green"><tt> +* </tt></font>) (Hidden rule)</i><br>This is the default starting state, every evaluation starts with this. It enables highlighting for all block names.<br>This is a practical starting state for negative rules.
+1. <font color="red"><tt> -* </tt></font><br>You can start with this rule to have the opposite starting state. Now all block names are disabled, even the empty ones (use ``-?*`` to keep them enabled).<br>
+  This is ideal for positive rules.
+2. <font color="green"><tt> +*js* </tt></font><br>This rule re-enables highlighting for all block names containing "js"
+3. <font color="green"><tt> +javascript </tt></font><br>Enable "javascript", too
+4. <font color="red"><tt> -*json* </tt></font><br>This rule disables highlighting for all block names containing "json"
+
+So as the result of this ruleset, the <font color="red">empty block name</font> will be *disabled*, <font color="green">"<b>js</b>"</font> and <font color="green">"dataview<b>js</b>"</font> (for example) will be *enabled*, <font color="green">"<b>javascript</b>"</font> will be *enabled*, too. But <font color="red">"<b>json</b>"</font> will be *disabled*.
+
+Note that the order of the rules matter. Rule 4 has to appear later than rule 2, because *\*json\** is more specific than *\*js\**. So the rule containing "js" would erase the effect of a previously applied rule containing "json".
 
 
 %% README_END %%

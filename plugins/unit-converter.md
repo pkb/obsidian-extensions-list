@@ -5,15 +5,15 @@ author:
 - '[[authors/ruszabarov|Ruslan Zabarov]]'
 categories: []
 description: Converts units right in your Markdown files.
-downloads: 183
+downloads: 315
 mobile: true
 number: 2080
-stars: 2
+stars: 4
 title: Unit Converter
 type: plugin
-updated: '2025-01-04T13:46:40'
+updated: '2025-01-11T08:56:03'
 url: https://github.com/ruszabarov/obsidian-unit-converter
-version: 1.1.0
+version: 1.2.1
 ---
 
 %% README_START %%
@@ -22,18 +22,33 @@ version: 1.1.0
 
 This plugin allows you to seamlessly convert units directly within your Obsidian notes, making it easier to work with data across various systems and contexts without leaving your markdown editor.
 
-# Usage
-
 ## Basic Syntax
 Use the following syntax within your notes to perform inline conversion:
 `[<value><source unit>|<target unit>]`
 
 ## Example
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a191b540-decd-4f2e-930b-0aa8a9f71678" alt="obsidian-unit-converter" width="600">
-</div>
 
-# Supported Units
+<img src="https://github.com/user-attachments/assets/a191b540-decd-4f2e-930b-0aa8a9f71678" alt="obsidian-unit-converter" width="500">
+
+
+## Features
+
+- [Autosuggest](#autosuggest)
+- [Convert units command](#convert-units-command)
+
+### Autosuggest
+
+The plugin will automatically suggest relevant units. This option can be disabled in settings.
+
+<img src="https://github.com/user-attachments/assets/b6988894-83da-4a76-8ca9-87f335d72082" alt="autosuggest example" width="200">
+
+### Convert units command
+
+You can open a modal to perform a unit conversion. This is mostly done to improve the mobile experience.
+
+<img src="https://github.com/user-attachments/assets/ca168075-8408-41e3-812f-181c511b1585" alt="convert units command example" width="350">
+
+## Supported Units
 
 **Length**: mm, cm, m, in, ft-us, ft, mi
 

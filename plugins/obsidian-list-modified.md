@@ -6,20 +6,22 @@ author:
 categories: []
 description: The advanced and adaptive changelog. Links all modified files meeting
   certain criteria to a timed (daily, weekly, monthly) note.
-downloads: 11533
+downloads: 11836
 mobile: true
 number: 483
-stars: 119
+stars: 124
 title: List Modified
 type: plugin
-updated: '2024-12-22T08:37:00'
+updated: '2025-01-16T07:18:47'
 url: https://github.com/franciskafieh/obsidian-list-modified
-version: 3.3.0
+version: 3.4.0
 ---
 
 %% README_START %%
 
 # Obsidian List Modified
+
+[Click here for plugin quick-install and statistics!](https://obsidian.md/plugins?id=obsidian-list-modified)
 
 This plugin links all modified files meeting certain criteria to a daily/weekly/monthly note. This provides an accurate log/archive of files modified during specific time periods.
 

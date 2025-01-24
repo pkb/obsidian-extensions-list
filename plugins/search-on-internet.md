@@ -5,10 +5,10 @@ author:
 - '[[authors/HEmile|Emile]]'
 categories: []
 description: Add context menu items to search the internet within Obsidian.
-downloads: 26486
+downloads: 26613
 mobile: false
 number: 74
-stars: 110
+stars: 111
 title: Search on Internet
 type: plugin
 updated: '2021-06-23T22:35:28'

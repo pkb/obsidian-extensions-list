@@ -7,10 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: Makes your entire vault Gitlab Wiki compatible and exports it to a specified
   location.
-downloads: 1355
+downloads: 1385
 mobile: false
 number: 1479
-stars: 4
+stars: 6
 title: Gitlab Wiki Exporter
 type: plugin
 updated: '2024-02-29T04:29:57'

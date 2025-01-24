@@ -5,15 +5,15 @@ author:
 - '[[authors/namikaze-40p|namikaze-40p]]'
 categories: []
 description: Easily open bookmarks.
-downloads: 1568
+downloads: 1727
 mobile: true
 number: 1622
-stars: 3
+stars: 4
 title: Bookmarks Caller
 type: plugin
-updated: '2025-01-04T14:39:00'
+updated: '2025-01-18T22:44:03'
 url: https://github.com/namikaze-40p/obsidian-bookmarks-caller
-version: 0.5.6
+version: 0.5.7
 ---
 
 %% README_START %%
@@ -71,6 +71,16 @@ This is an [Obsidian](https://obsidian.md/) plugin which can easily open bookmar
     1. Click "All" button.
 
 ![demo](https://raw.githubusercontent.com/namikaze-40p/obsidian-bookmarks-caller/main/demo/ver-0.5.0/search-bookmarks.gif)
+
+### `Copy bookmarks.json to clipboard`
+
+1. Call the command in one of the following ways.
+    1. Using hotkey.
+    1. Selecting `Bookmarks Caller: Copy bookmarks.json to clipboard` from the command palette.
+
+> [!NOTE]
+>
+> - This is an experimental feature. It may be discontinued in the future.
 
 ## Installation
 

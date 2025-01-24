@@ -7,7 +7,7 @@ categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Provides a button and command to obfuscate onscreen text for better privacy
   in public settings.
-downloads: 67245
+downloads: 67931
 mobile: true
 number: 147
 stars: 79

@@ -6,22 +6,22 @@ author:
 categories: []
 description: Fixes require() calls, supporting JavaScript and TypeScript modules,
   enabling easy invocation, and adding code buttons for enhanced scripting capabilities
-downloads: 1778
+downloads: 2067
 mobile: false
 number: 1445
-stars: 25
+stars: 34
 title: Fix Require Modules
 type: plugin
-updated: '2025-01-07T19:23:50'
+updated: '2025-01-21T23:38:37'
 url: https://github.com/mnaoumov/obsidian-fix-require-modules
-version: 8.3.0
+version: 8.8.3
 ---
 
 %% README_START %%
 
 # CodeScript Toolkit
 
-(formerly known as `Fix Require Modules`)
+(formerly known as `Fix Require Modules`, see [Rebranding](#rebranding) section for more details)
 
 This is a plugin for [`Obsidian`][Obsidian] that allows to do a lot of things with [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] scripts from inside the [`Obsidian`][Obsidian] itself.
 
@@ -29,7 +29,7 @@ This is a plugin for [`Obsidian`][Obsidian] that allows to do a lot of things wi
 
 This plugin is for you if you want to:
 
-- Write in any flavor of `JavaScript`/`TypeScript` in:
+- Write in any flavor of [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] in:
   - [DevTools Console](https://developer.chrome.com/docs/devtools/console) within [`Obsidian`][Obsidian];
   - [CustomJS](https://github.com/saml-dev/obsidian-custom-js) scripts;
   - [dataviewjs](https://blacksmithgu.github.io/obsidian-dataview/api/intro/) scripts;
@@ -37,20 +37,20 @@ This plugin is for you if you want to:
   - [QuickAdd](https://quickadd.obsidian.guide/) scripts;
   - [Templater](https://silentvoid13.github.io/Templater/) scripts;
   - etc.
-- Write modular scripts using modern `JavaScript`/`TypeScript` syntax and patterns.
+- Write modular scripts using modern [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] syntax and patterns.
 - Prototype [`Obsidian`][Obsidian] plugins.
 - Explore [`Obsidian`][Obsidian] API (public and internal) in runtime easier.
-- Invoke any `JavaScript`/`TypeScript` script via command or hotkey.
+- Invoke any [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] script via command or hotkey.
 
 ## Why this plugin?
 
-There are several very good plugins that allow to write `JavaScript`/`TypeScript` scripts for [`Obsidian`][Obsidian], but they all have their own limitations and quirks.
+There are several very good plugins that allow to write [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] scripts for [`Obsidian`][Obsidian], but they all have their own limitations and quirks.
 
 Most of those plugins support writing scripts in [`CommonJS` (`cjs`)][cjs] only, which is not so used nowadays.
 
-None of those plugins provide you the developer experience as you would have in any other modern `JavaScript`/`TypeScript` development environment.
+None of those plugins provide you the developer experience as you would have in any other modern [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] development environment.
 
-This plugin aims to erase the line between the `Obsidian` world and the `JavaScript`/`TypeScript` development world.
+This plugin aims to erase the line between the [`Obsidian`][Obsidian] world and the [`JavaScript`][JavaScript]/[`TypeScript`][TypeScript] development world.
 
 ## New functions
 
@@ -123,7 +123,7 @@ All of the examples below will be shown using `require()`, but you can use them 
 | **`require()`**      | ✔      | ✔     |
 | **`requireAsync()`** | ✔      | ✔     |
 
-Certain Obsidian built-in modules are available for import during plugin development but show `Uncaught Error: Cannot find module` if you try to [`require()`][require] them manually. This plugin fixes that problem, allowing the following [`require()`][require] calls to work properly:
+Certain [`Obsidian`][Obsidian] built-in modules are available for import during plugin development but show `Uncaught Error: Cannot find module` if you try to [`require()`][require] them manually. This plugin fixes that problem, allowing the following [`require()`][require] calls to work properly:
 
 ```js
 require('obsidian');
@@ -158,11 +158,11 @@ new Notice('My notice');
 | **`require()`**      | ✔      | ✔     |
 | **`requireAsync()`** | ✔      | ✔     |
 
-There is a global variable `app` that gives access to obsidian `App` instance.
+There is a global variable `app` that gives access to [`Obsidian`][Obsidian] [`App`][App] instance.
 
-However, starting from Obsidian [`v1.3.5`](https://github.com/obsidianmd/obsidian-api/commit/7646586acccf76f877b64111b2398938acc1d53e#diff-0eaea5db2513fdc5fe65d534d3591db5b577fe376925187c8a624124632b7466R4708) this global variable is deprecated in the public API.
+However, starting from [`Obsidian`][Obsidian] [`v1.3.5`](https://github.com/obsidianmd/obsidian-api/commit/7646586acccf76f877b64111b2398938acc1d53e#diff-0eaea5db2513fdc5fe65d534d3591db5b577fe376925187c8a624124632b7466R4708) this global variable is deprecated in the public API.
 
-Starting from Obsidian [`v1.6.6`](https://github.com/obsidianmd/obsidian-api/commit/f20b17e38ccf12a8d7f62231255cb0608436dfbf#diff-0eaea5db2513fdc5fe65d534d3591db5b577fe376925187c8a624124632b7466L4950-L4959) this global variable was completely removed from the public API.
+Starting from [`Obsidian`][Obsidian] [`v1.6.6`](https://github.com/obsidianmd/obsidian-api/commit/f20b17e38ccf12a8d7f62231255cb0608436dfbf#diff-0eaea5db2513fdc5fe65d534d3591db5b577fe376925187c8a624124632b7466L4950-L4959) this global variable was completely removed from the public API.
 
 Currently this global variable is still available, but it's better not rely on it, as it is not guaranteed to be maintained.
 
@@ -179,7 +179,7 @@ require('obsidian/app');
 | **`require()`**      | ✔      | ✔     |
 | **`requireAsync()`** | ✔      | ✔     |
 
-You can access the list of built-in Obsidian module names that are made available by this plugin.
+You can access the list of built-in [`Obsidian`][Obsidian] module names that are made available by this plugin.
 
 ```js
 require('obsidian/builtInModuleNames');
@@ -284,6 +284,45 @@ require('path/to/script.ts');
 require('path/to/script.cts');
 require('path/to/script.mts');
 ```
+
+> [!WARNING]
+>
+> When the plugin loads a [`TypeScript`][TypeScript] module, it strips all type annotations and convert the code into [`JavaScript`][JavaScript] syntax.
+>
+> The plugin will report an error only if the code is syntactically incorrect. No type-checking is performed, as it done by IDEs and/or compilers.
+>
+> So you can potentially load some non-compilable [`TypeScript`][TypeScript] module, and the plugin won't report any errors. You can get runtime errors when using the module.
+>
+> It is advisable to validate your [`TypeScript`][TypeScript] modules with external IDEs and/or compilers.
+>
+> Example of such problematic module:
+>
+> ```ts
+> interface Foo {
+>   bar: string;
+> }
+>
+> export function printFoo(foo: Foo): void {
+>   console.log(foo.barWithTypo); // this line would cause a compilation error in a regular IDE, but the plugin won't report any errors
+> }
+> ```
+>
+> The plugin just strips all type annotations and converts the code into [`JavaScript`][JavaScript]:
+>
+> ```js
+> export function printFoo(foo) {
+>   console.log(foo.barWithTypo);
+> }
+> ```
+>
+> So when we execute within [`Obsidian`][Obsidian]:
+>
+> ```js
+> require('/FooModule.ts').printFoo({ bar: 'baz' });
+> ```
+>
+> we get `undefined` instead of `baz`.
+
 
 ### NPM modules
 
@@ -403,7 +442,7 @@ Manages source maps for compiled code, allowing seamless debugging in [`Obsidian
 | ------- | ------ |
 | ✔      | ✔     |
 
-Make any script invocable by defining a module that exports a function named `invoke` (sync or async) that accepts `app` argument
+Make any script invocable by defining a module that exports a function named `invoke` (sync or async) that accepts `app` argument of [`App`][App] type.
 
 ```ts
 // cjs sync
@@ -419,15 +458,19 @@ export function invoke(app) { console.log('mjs sync'); };
 export async function invoke(app) { console.log('mjs async'); await Promise.resolve(); };
 
 // cts sync
+import type { App } from 'obsidian';
 exports.invoke = (app: App): void => { console.log('cts sync'); };
 
 // cts async
+import type { App } from 'obsidian';
 exports.invoke = async (app: App): Promise<void> => { console.log('cts async'); await Promise.resolve(); };
 
 // mts sync
+import type { App } from 'obsidian';
 export function invoke(app: App): void { console.log('mts sync'); };
 
 // mts async
+import type { App } from 'obsidian';
 export async function invoke(app: App): Promise<void> { console.log('mts async'); await Promise.resolve(); };
 ```
 
@@ -459,13 +502,15 @@ The function has the same signature as [`invoke()`](#invocable-scripts) function
 import type { App } from 'obsidian';
 
 export async function cleanup(app: App): Promise<void> {
-  // cleanup code
+  // executes when the plugin is unloaded
 }
 
 export async function invoke(app: App): Promise<void> {
-  // startup code
+  // executes when the plugin is loaded, including when the app is started
 }
 ```
+
+You can reload the startup script using the `CodeScript Toolkit: Reload Startup Script` command.
 
 ### Hotkeys
 
@@ -503,6 +548,14 @@ function myTypeScriptFn(arg: string): void {}
 ````
 
 ![Code Button](https://raw.githubusercontent.com/mnaoumov/obsidian-codescript-toolkit/HEAD/images/code-button.png)
+
+If you don't want to see the system messages such as `Executing...`, `Executed successfully`, you can set the `systemMessages` setting to `false`.
+
+````markdown
+```code-button "Click me!" systemMessages:false
+// code
+```
+````
 
 ### Refreshing code blocks
 
@@ -543,15 +596,11 @@ console.warn('warn message');
 
 ![Console messages](https://raw.githubusercontent.com/mnaoumov/obsidian-codescript-toolkit/HEAD/images/console-messages.png)
 
-If you want to disable console messages, you can set the `console` setting to `false`.
+If you do not want to intercept console messages, you can set the `console` setting to `false`.
 
 ````markdown
 ```code-button "Console messages" console:false
-console.debug('debug message');
-console.error('error message');
-console.info('info message');
-console.log('log message');
-console.warn('warn message');
+// code
 ```
 ````
 
@@ -579,7 +628,7 @@ To disable this feature, set the `autoOutput` setting to `false`.
 ```code-button REPL autoOutput:false
 1 + 2;
 3 + 4;
-5 + 6; // this will not be displayed in the results panel
+5 + 6; // this will NOT be displayed in the results panel
 ```
 ````
 
@@ -637,7 +686,7 @@ await renderMarkdown('**Hello, world!**');
 
 This plugin allows you to create temporary plugins.
 
-This is useful for quick plugin prototyping from inside the Obsidian itself.
+This is useful for quick plugin prototyping from inside the [`Obsidian`][Obsidian] itself.
 
 The key here is the function `registerTempPlugin()`, which is available in the script scope.
 
@@ -682,6 +731,30 @@ Extending dynamic [`import()`][import] expressions to support `const obsidian = 
 - `CodeScript Toolkit` is available on [the official Community Plugins repository](https://obsidian.md/plugins?id=fix-require-modules).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
 
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('fix-require-modules');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
+
+## Rebranding
+
+This plugin was formerly known as `Fix Require Modules`.
+
+The plugin quickly overgrew its original purpose and got way more features than just fixing `require()` calls. That's why it got a new name.
+
+However, for the backward compatibility, the previous id `fix-require-modules` is still used internally and you might find it
+
+- in plugin folder name;
+- in plugin URL;
+- in [Debugging](#debugging) section;
+
 ## Support
 
 <a href="https://www.buymeacoffee.com/mnaoumov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
@@ -689,6 +762,8 @@ Extending dynamic [`import()`][import] expressions to support `const obsidian = 
 ## License
 
 © [Michael Naumov](https://github.com/mnaoumov/)
+
+[App]: https://docs.obsidian.md/Reference/TypeScript+API/App
 
 [cjs]: https://nodejs.org/api/modules.html#modules-commonjs-modules
 

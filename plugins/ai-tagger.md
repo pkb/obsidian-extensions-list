@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Analyze and tag your document with one click for efficient note organization
   using AI.
-downloads: 5176
+downloads: 5456
 mobile: true
 number: 1451
-stars: 70
+stars: 78
 title: AI Tagger
 type: plugin
 updated: '2024-12-28T02:07:41'

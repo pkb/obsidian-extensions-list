@@ -5,7 +5,7 @@ author:
 - '[[authors/masaki39|masaki39]]'
 categories: []
 description: Convert outline to continuous text.
-downloads: 899
+downloads: 921
 mobile: false
 number: 1599
 stars: 6

@@ -5,15 +5,15 @@ author:
 - '[[authors/fleker|Nick Felker]]'
 categories: []
 description: Syncs your public Letterboxd diary.
-downloads: 677
+downloads: 750
 mobile: true
 number: 1602
 stars: 6
 title: Letterboxd Diary RSS Sync
 type: plugin
-updated: '2025-01-07T09:58:36'
+updated: '2025-01-16T07:22:27'
 url: https://github.com/fleker/letterboxd-for-obsidian
-version: 1.1.2
+version: 1.2.0
 ---
 
 %% README_START %%

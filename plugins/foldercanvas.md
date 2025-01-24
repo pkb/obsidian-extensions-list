@@ -5,7 +5,7 @@ author:
 - '[[authors/nancyel|Nancy Lee]]'
 categories: []
 description: Generate a Canvas view of your folder structure.
-downloads: 389
+downloads: 482
 mobile: true
 number: 2027
 stars: 6

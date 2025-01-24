@@ -6,7 +6,7 @@ author:
 categories: []
 description: Dynamically-scoped expanding tree views of your vault's semantic and
   logical architectures.
-downloads: 1598
+downloads: 1627
 mobile: true
 number: 1614
 stars: 22

@@ -5,7 +5,7 @@ author:
 - '[[authors/adriandersen|Adrian]]'
 categories: []
 description: Fuzzy match autocomplete tags in Frontmatter
-downloads: 5280
+downloads: 5296
 mobile: false
 number: 716
 stars: 17

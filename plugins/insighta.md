@@ -6,7 +6,7 @@ author:
 categories: []
 description: "InsightA can transform extensive articles into concise, atomic notes
   and generate MOC based on note title using LLM. \U0001F680\U0001F4DD"
-downloads: 1745
+downloads: 1776
 mobile: false
 number: 1375
 stars: 15

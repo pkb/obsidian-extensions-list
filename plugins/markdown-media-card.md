@@ -6,7 +6,7 @@ author:
 categories: []
 description: Insert media information cards in Markdown, such as books, music, movies,
   etc.
-downloads: 1882
+downloads: 1925
 mobile: true
 number: 1516
 stars: 16

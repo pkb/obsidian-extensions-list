@@ -7,10 +7,10 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 - '[[categories/Integration|Integration]]'
 description: Interact with your Google Calendar from Inside Obsidian
-downloads: 119791
+downloads: 122824
 mobile: true
 number: 605
-stars: 406
+stars: 413
 title: Google Calendar
 type: plugin
 updated: '2024-09-02T19:28:26'

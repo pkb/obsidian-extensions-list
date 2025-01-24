@@ -5,7 +5,7 @@ author:
 - '[[authors/mddevils|mddevils]]'
 categories: []
 description: Bring your Bookmarks from Floccus to your Obsidian
-downloads: 4811
+downloads: 4879
 mobile: false
 number: 1109
 stars: 10

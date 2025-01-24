@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture
   mode)
-downloads: 539
+downloads: 582
 mobile: true
 number: 1829
 stars: 5

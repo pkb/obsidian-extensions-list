@@ -5,7 +5,7 @@ author:
 - '[[authors/talwrii|readwithai]]'
 categories: []
 description: Various functions to navigate between headers.
-downloads: 112
+downloads: 163
 mobile: true
 number: 2072
 stars: 6

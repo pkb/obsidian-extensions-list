@@ -5,7 +5,7 @@ author:
 - '[[authors/adziok|Adrian Karwowski]]'
 categories: []
 description: Allow to generate Jira like ids.
-downloads: 4241
+downloads: 4272
 mobile: true
 number: 773
 stars: 17

@@ -5,10 +5,10 @@ author:
 - '[[authors/mottox2|mottox2]]'
 categories: []
 description: This plugin displays a panel that summarize relations between notes.
-downloads: 5375
+downloads: 5406
 mobile: true
 number: 674
-stars: 22
+stars: 23
 title: Relation Pane
 type: plugin
 updated: '2024-02-12T12:31:47'

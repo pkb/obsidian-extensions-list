@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Keep track of all birthdays of your family and friends.
-downloads: 5725
+downloads: 5842
 mobile: true
 number: 1063
-stars: 17
+stars: 18
 title: Birthday-Tracker
 type: plugin
 updated: '2024-12-23T18:32:52'

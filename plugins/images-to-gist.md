@@ -6,10 +6,10 @@ author:
 categories: []
 description: Upload images to your GitHub secret Gists. Also, resize uploaded images
   on the fly.
-downloads: 284
+downloads: 299
 mobile: true
 number: 1810
-stars: 6
+stars: 7
 title: Images to Gist
 type: plugin
 updated: '2024-07-23T02:53:09'

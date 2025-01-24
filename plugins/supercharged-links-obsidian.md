@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Add properties and menu options to links and style them!
-downloads: 127829
+downloads: 129017
 mobile: true
 number: 176
-stars: 542
+stars: 549
 title: Supercharged Links
 type: plugin
 updated: '2024-03-18T21:58:41'

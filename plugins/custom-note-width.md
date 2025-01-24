@@ -5,10 +5,10 @@ author:
 - '[[authors/0skater0|0skater0]]'
 categories: []
 description: Let's you adjust the line width on a note-by-note basis.
-downloads: 6679
+downloads: 6849
 mobile: false
 number: 1296
-stars: 17
+stars: 19
 title: Custom Note Width
 type: plugin
 updated: '2023-11-23T22:14:55'

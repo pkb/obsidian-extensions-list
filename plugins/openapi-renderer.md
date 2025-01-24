@@ -6,7 +6,7 @@ author:
 categories: []
 description: Integrate OpenAPI specification management with features for version
   control, visualization, editing, and easy navigation of API specs.
-downloads: 678
+downloads: 730
 mobile: false
 number: 1805
 stars: 6

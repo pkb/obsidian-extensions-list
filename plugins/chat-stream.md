@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Create branching GPT chats using canvas notes.
-downloads: 7203
+downloads: 7240
 mobile: false
 number: 966
-stars: 112
+stars: 116
 title: Chat Stream
 type: plugin
 updated: '2024-07-31T06:25:48'

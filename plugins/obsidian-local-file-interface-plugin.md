@@ -5,7 +5,7 @@ author:
 - '[[authors/qawatake|qawatake]]'
 categories: []
 description: Provides commands for moving files in and out of the vault
-downloads: 5066
+downloads: 5088
 mobile: true
 number: 394
 stars: 25

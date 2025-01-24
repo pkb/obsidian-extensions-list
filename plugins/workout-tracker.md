@@ -5,10 +5,10 @@ author:
 - '[[authors/wanabeunique|wanabeunique]]'
 categories: []
 description: Log workouts, track progress, and view exercise statistic.
-downloads: 422
+downloads: 527
 mobile: true
 number: 1991
-stars: 6
+stars: 7
 title: Workout Tracker
 type: plugin
 updated: '2024-11-06T11:17:43'

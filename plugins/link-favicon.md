@@ -5,10 +5,10 @@ author:
 - '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: 'See the favicon for a linked website. '
-downloads: 41929
+downloads: 42392
 mobile: true
 number: 373
-stars: 93
+stars: 94
 title: Link Favicons
 type: plugin
 updated: '2023-11-30T23:25:59'

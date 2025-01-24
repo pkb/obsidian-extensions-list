@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Adds commands for increasing/decreasing the blockquote level of the current
   line or selection.
-downloads: 4571
+downloads: 4591
 mobile: true
 number: 608
 stars: 38

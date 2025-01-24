@@ -6,7 +6,7 @@ author:
 categories: []
 description: Collection of various utilities e.g. duplicate empty line remover, Obsidian
   plugin release/tag version downloader (eg. for mobile tests)
-downloads: 3896
+downloads: 3939
 mobile: true
 number: 1149
 stars: 6

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Integration|Integration]]'
 - '[[categories/Task management|Task management]]'
 description: Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick
-downloads: 12858
+downloads: 13381
 mobile: true
 number: 1317
-stars: 182
+stars: 188
 title: TickTickSync
 type: plugin
 updated: '2024-12-29T00:22:15'

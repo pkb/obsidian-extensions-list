@@ -5,10 +5,10 @@ author:
 - '[[authors/erichalldev|Eric Hall]]'
 categories: []
 description: A smart random note plugin
-downloads: 47272
+downloads: 48716
 mobile: true
 number: 38
-stars: 107
+stars: 108
 title: Smart Random Note
 type: plugin
 updated: '2021-07-08T19:35:54'

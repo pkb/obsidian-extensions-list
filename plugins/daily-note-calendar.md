@@ -7,15 +7,15 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 - '[[categories/Journalling|Journalling]]'
 description: Navigate to your weekly- and daily-notes using a calendar view.
-downloads: 2069
+downloads: 2763
 mobile: true
 number: 1997
-stars: 9
+stars: 11
 title: Daily notes calendar
 type: plugin
-updated: '2025-01-07T01:05:06'
+updated: '2025-01-14T11:49:44'
 url: https://github.com/bartkessels/daily-note-calendar
-version: 1.11.3
+version: 1.13.1
 ---
 
 %% README_START %%
@@ -41,6 +41,7 @@ write my own plugin which allows you to customize the format of your daily and e
     - [1.2 Variables](#12-variables)
       - [1.2.1 Calculating dates](#121-calculating-dates)
     - [1.3 Notes created on a specific day](#13-notes-created-on-a-specific-day)
+    - [1.4 Displaying notes created on a specific day](#14-displaying-notes-created-on-a-specific-day)
 - [2. External dependencies](#2-external-dependencies)
 - [3. Build and test](#3-build-and-test)
 - [4. Contribute](#4-contribute)
@@ -117,6 +118,13 @@ created date of the actual file or use a specific property in the front matter o
 The _created on_ time displayed below each note can be customized using the date formatting rules of [`date-fns`](https://date-fns.org/docs/format).
 
 You can always navigate to created notes by pressing the `shift` key and clicking on the date. This will only list the notes created on that date and not open or create the daily note.
+
+## 1.4 Displaying notes created on a specific day
+
+When you've enabled the feature to display notes created on a specific day, you can also choose to display the current opened note in the calendar. This can be done by using the command `Daily notes calendar: Display the current note in calendar`.
+This will highlight the date of the current note in the calendar, and below the calendar all notes that are created on the same date as the currently opened note.
+
+The command will either use the date that the note was created on, or the property specified in the plugin settings.
 
 # 2. External dependencies
 

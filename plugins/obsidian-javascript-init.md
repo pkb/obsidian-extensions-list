@@ -5,7 +5,7 @@ author:
 - '[[authors/ryanpcmcquen|ryanpcmcquen]]'
 categories: []
 description: Run JavaScript when Obsidian loads, or any other time.
-downloads: 5467
+downloads: 5488
 mobile: true
 number: 314
 stars: 24

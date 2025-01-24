@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Customize the slash command list, assign each command an icon.
-downloads: 14059
+downloads: 14667
 mobile: true
 number: 1318
-stars: 59
+stars: 66
 title: Slash Commander
 type: plugin
 updated: '2024-04-13T21:15:41'

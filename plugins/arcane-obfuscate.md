@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Obfuscate text with an arcane runic effect.
-downloads: 282
+downloads: 301
 mobile: true
 number: 1848
 stars: 1

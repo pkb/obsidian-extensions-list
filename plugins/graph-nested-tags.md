@@ -5,7 +5,7 @@ author:
 - '[[authors/drPilman|drpilman]]'
 categories: []
 description: Links nested tags in graph view
-downloads: 9920
+downloads: 10238
 mobile: true
 number: 1096
 stars: 50

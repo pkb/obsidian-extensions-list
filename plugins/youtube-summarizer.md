@@ -5,10 +5,10 @@ author:
 - '[[authors/ozdemir08|Mehmet Ozdemir]]'
 categories: []
 description: A plugin to summarize the transcripts of Youtube videos.
-downloads: 4017
+downloads: 4150
 mobile: true
 number: 1383
-stars: 35
+stars: 37
 title: Youtube Summarizer
 type: plugin
 updated: '2024-02-14T17:52:13'

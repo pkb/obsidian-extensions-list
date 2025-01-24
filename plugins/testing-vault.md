@@ -7,7 +7,7 @@ categories:
 - '[[categories/Code and development|Code and development]]'
 description: This allows a developer to make a random vault of arbitrary size for
   testing their plugins.
-downloads: 3714
+downloads: 3725
 mobile: true
 number: 852
 stars: 15

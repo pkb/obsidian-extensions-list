@@ -5,7 +5,7 @@ author:
 - '[[authors/jamespeachh|Jamespeachh]]'
 categories: []
 description: Use TOPT algorithm to get daily writing prompts!
-downloads: 81
+downloads: 96
 mobile: false
 number: 2002
 stars: 0

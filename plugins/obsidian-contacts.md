@@ -5,10 +5,10 @@ author:
 - '[[authors/vbeskrovnov|Vadim Beskrovnov]]'
 categories: []
 description: Allows you to manage and organize your contacts.
-downloads: 6828
+downloads: 6883
 mobile: false
 number: 750
-stars: 71
+stars: 72
 title: Contacts
 type: plugin
 updated: '2023-08-28T02:50:47'

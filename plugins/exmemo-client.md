@@ -6,7 +6,7 @@ author:
 categories: []
 description: A client for the ExMemo service, used to search, sync, and organize data
   from the server.
-downloads: 53
+downloads: 59
 mobile: true
 number: 1978
 stars: 7

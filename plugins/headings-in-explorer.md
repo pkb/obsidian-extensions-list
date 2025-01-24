@@ -5,7 +5,7 @@ author:
 - '[[authors/patrickchiang|patrickchiang]]'
 categories: []
 description: Show headings in the file explorer.
-downloads: 549
+downloads: 568
 mobile: false
 number: 1705
 stars: 7

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Quickly hide your sidebars
-downloads: 3588
+downloads: 3602
 mobile: false
 number: 888
 stars: 9

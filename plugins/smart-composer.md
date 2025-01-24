@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: AI chat with note context, smart writing assistance, and one-click edits
   for your vault.
-downloads: 4578
+downloads: 7210
 mobile: true
 number: 1971
-stars: 556
+stars: 779
 title: Smart Composer
 type: plugin
 updated: '2025-01-07T07:46:52'

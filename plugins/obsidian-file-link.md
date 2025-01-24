@@ -5,10 +5,10 @@ author:
 - '[[authors/marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: A plugin to add better external file links to notes.
-downloads: 23591
+downloads: 23884
 mobile: false
 number: 276
-stars: 121
+stars: 122
 title: Better File Link
 type: plugin
 updated: '2023-08-23T19:52:49'

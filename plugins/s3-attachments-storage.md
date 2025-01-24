@@ -7,7 +7,7 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: An Obsidian plugin for storage and retrieval of media attachments on
   S3 compatible services.
-downloads: 3683
+downloads: 3691
 mobile: true
 number: 757
 stars: 31

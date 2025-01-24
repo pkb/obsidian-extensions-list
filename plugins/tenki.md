@@ -5,7 +5,7 @@ author:
 - '[[authors/ms3056|HiroMike]]'
 categories: []
 description: Display the weather.
-downloads: 4394
+downloads: 4451
 mobile: true
 number: 1126
 stars: 11

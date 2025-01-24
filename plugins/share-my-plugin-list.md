@@ -5,7 +5,7 @@ author:
 - '[[authors/Benature|Benature]]'
 categories: []
 description: Share the enabled plugins in list/table format.
-downloads: 3547
+downloads: 3630
 mobile: true
 number: 1416
 stars: 25

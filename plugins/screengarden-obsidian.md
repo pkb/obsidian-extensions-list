@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Collaborate, publish, and work across PKM systems with screen.garden.
-downloads: 2864
+downloads: 2870
 mobile: true
 number: 1190
 stars: 13

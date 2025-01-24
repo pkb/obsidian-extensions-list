@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Hides & Toggles configured folders (e.g. attachments folders).
-downloads: 18167
+downloads: 18612
 mobile: true
 number: 1000
-stars: 38
+stars: 40
 title: Hide Folders
 type: plugin
 updated: '2024-06-26T00:30:35'

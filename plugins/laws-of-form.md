@@ -6,7 +6,7 @@ author:
 categories: []
 description: Allows you to create, manage and display Laws of Form expressions like
   ((a)) (b) = a (b).
-downloads: 3222
+downloads: 3224
 mobile: true
 number: 1010
 stars: 3

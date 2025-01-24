@@ -5,7 +5,7 @@ author:
 - '[[authors/jeetsukumaran|Jeet Sukumaran]]'
 categories: []
 description: Track and align your focus.
-downloads: 751
+downloads: 774
 mobile: true
 number: 1678
 stars: 4

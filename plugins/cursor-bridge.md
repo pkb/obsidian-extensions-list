@@ -7,10 +7,10 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Seamlessly bridge your notes with Cursor, the AI-powered code editor.
   Open notes directly in Cursor to enhance your workflow.
-downloads: 266
+downloads: 303
 mobile: false
 number: 1980
-stars: 13
+stars: 16
 title: Cursor Bridge
 type: plugin
 updated: '2024-11-28T22:28:44'

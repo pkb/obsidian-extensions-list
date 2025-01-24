@@ -8,10 +8,10 @@ categories:
 description: Instantly share a note, with the full theme and content exactly like
   you see in Reading View. Data is shared encrypted by default, and only you and the
   person you send it to have the key.
-downloads: 30143
+downloads: 31504
 mobile: true
 number: 1188
-stars: 351
+stars: 361
 title: Share Note
 type: plugin
 updated: '2024-09-30T19:24:22'

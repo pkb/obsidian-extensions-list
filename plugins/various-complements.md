@@ -7,10 +7,10 @@ categories:
 - '[[categories/Automation|Automation]]'
 description: This plugin enables you to complete words like the auto-completion of
   IDE
-downloads: 266983
+downloads: 270124
 mobile: true
 number: 97
-stars: 639
+stars: 641
 title: Various Complements
 type: plugin
 updated: '2024-08-25T19:52:17'

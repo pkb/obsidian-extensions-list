@@ -6,10 +6,10 @@ author:
 categories: []
 description: 'Improved Mermaid.js experience for Obsidian: visual toolbar with common
   elements & more'
-downloads: 104476
+downloads: 107144
 mobile: true
 number: 739
-stars: 208
+stars: 210
 title: Mermaid Tools
 type: plugin
 updated: '2024-05-15T14:34:31'

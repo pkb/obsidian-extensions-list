@@ -5,10 +5,10 @@ author:
 - '[[authors/avr|avr]]'
 categories: []
 description: Add the current note's reading time to Obsidian's status bar.
-downloads: 74774
+downloads: 76174
 mobile: true
 number: 13
-stars: 67
+stars: 68
 title: Reading Time
 type: plugin
 updated: '2024-08-31T07:34:31'

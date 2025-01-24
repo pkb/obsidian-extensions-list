@@ -5,7 +5,7 @@ author:
 - '[[authors/aaaaayushh|Aayush Shah]]'
 categories: []
 description: Convert natural language to LaTeX equations using a local LLM.
-downloads: 402
+downloads: 427
 mobile: false
 number: 1853
 stars: 5

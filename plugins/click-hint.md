@@ -5,10 +5,10 @@ author:
 - '[[authors/kbwo|kbwo]]'
 categories: []
 description: Provide keyboard-driven hints for clickable elements
-downloads: 28
+downloads: 82
 mobile: true
 number: 2101
-stars: 2
+stars: 4
 title: Click Hint
 type: plugin
 updated: '2024-11-04T14:47:41'

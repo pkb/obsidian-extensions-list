@@ -6,7 +6,7 @@ author:
 categories: []
 description: Automatically apply CSS classes to the markdown view based on a note's
   path and tags.
-downloads: 3826
+downloads: 3879
 mobile: true
 number: 352
 stars: 55

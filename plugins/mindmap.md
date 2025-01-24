@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Create notes with Mindmaps.
-downloads: 5453
+downloads: 5739
 mobile: true
 number: 1598
 stars: 9

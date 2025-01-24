@@ -5,7 +5,7 @@ author:
 - '[[authors/Windesheim-HBO-ICT|Team Deeltaken]]'
 categories: []
 description: Preview interactive code blocks!
-downloads: 171
+downloads: 180
 mobile: false
 number: 1725
 stars: 6

@@ -6,7 +6,7 @@ author:
 categories: []
 description: From a Bible reference selected, creates a markdown link to a configured
   Bible site.
-downloads: 300
+downloads: 314
 mobile: true
 number: 1687
 stars: 3

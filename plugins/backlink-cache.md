@@ -5,15 +5,15 @@ author:
 - '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile`
-downloads: 6456
+downloads: 7111
 mobile: true
 number: 1244
 stars: 25
 title: Backlink Cache
 type: plugin
-updated: '2025-01-07T00:42:35'
+updated: '2025-01-21T23:38:35'
 url: https://github.com/mnaoumov/obsidian-backlink-cache
-version: 2.2.6
+version: 2.2.11
 ---
 
 %% README_START %%
@@ -68,6 +68,18 @@ If you want to use the updated functions from your plugin, you can copy [types.d
 
 - `Backlink Cache` is available in [the official Community Plugins repository](https://obsidian.md/plugins?id=backlink-cache).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('backlink-cache');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## Support
 

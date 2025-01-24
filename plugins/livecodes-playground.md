@@ -5,7 +5,7 @@ author:
 - '[[authors/gapmiss|@gapmiss]]'
 categories: []
 description: Client-side code editor playground - Powered by LiveCodes
-downloads: 1013
+downloads: 1037
 mobile: true
 number: 1560
 stars: 15

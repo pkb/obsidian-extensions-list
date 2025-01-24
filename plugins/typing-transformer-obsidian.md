@@ -5,10 +5,10 @@ author:
 - '[[authors/aptend|aptend]]'
 categories: []
 description: Improved, configurable auto formatting as typing
-downloads: 6981
+downloads: 7098
 mobile: true
 number: 561
-stars: 58
+stars: 59
 title: Typing Transformer
 type: plugin
 updated: '2024-11-22T15:26:13'

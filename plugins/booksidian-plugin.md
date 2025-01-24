@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Connect Obsidian to your Goodreads.
-downloads: 10725
+downloads: 10809
 mobile: false
 number: 534
-stars: 133
+stars: 135
 title: Booksidian
 type: plugin
 updated: '2024-06-25T02:49:41'

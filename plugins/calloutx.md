@@ -5,7 +5,7 @@ author:
 - '[[authors/br4in|br4in]]'
 categories: []
 description: An easy way to explore, visualise, and modify callout icons.
-downloads: 119
+downloads: 152
 mobile: false
 number: 2068
 stars: 3

@@ -5,7 +5,7 @@ author:
 - '[[authors/Erl-koenig|Ivan Knöfler]]'
 categories: []
 description: Reorder completed checkboxes to the end of the according list.
-downloads: 5351
+downloads: 5425
 mobile: true
 number: 1098
 stars: 8

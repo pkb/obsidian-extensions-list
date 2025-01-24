@@ -6,10 +6,10 @@ author:
 categories: []
 description: Use number-prefixes in your file names to define a custom order, and
   drag-and-drop the files to update that order
-downloads: 26135
+downloads: 26767
 mobile: true
 number: 871
-stars: 71
+stars: 70
 title: File Order
 type: plugin
 updated: '2024-09-04T20:32:43'

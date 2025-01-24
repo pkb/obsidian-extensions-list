@@ -5,10 +5,10 @@ author:
 - '[[authors/adanielnoel|Alejandro Daniel Noel]]'
 categories: []
 description: Keep your notes indexed based on their (hierarchical) tags
-downloads: 893
+downloads: 961
 mobile: true
 number: 1777
-stars: 9
+stars: 10
 title: Index Notes
 type: plugin
 updated: '2024-06-12T00:56:11'

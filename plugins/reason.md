@@ -5,7 +5,7 @@ author:
 - '[[authors/jshph|Joshua Pham]]'
 categories: []
 description: a REPL to digest your thoughts
-downloads: 2259
+downloads: 2270
 mobile: false
 number: 1393
 stars: 35

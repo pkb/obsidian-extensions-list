@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Templates|Templates]]'
 description: Prompts for values and templates to create notes.
-downloads: 3417
+downloads: 3620
 mobile: true
 number: 1495
 stars: 12

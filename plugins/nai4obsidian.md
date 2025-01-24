@@ -5,7 +5,7 @@ author:
 - '[[authors/SalokinGreen|SGreen]]'
 categories: []
 description: Generate text with NovelAI's models.
-downloads: 4318
+downloads: 4354
 mobile: true
 number: 1012
 stars: 18

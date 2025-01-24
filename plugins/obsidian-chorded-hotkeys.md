@@ -6,7 +6,7 @@ author:
 categories: []
 description: Type multiple letters at the same time to trigger text insertion, template
   insertion, or command execution.
-downloads: 4392
+downloads: 4408
 mobile: false
 number: 670
 stars: 29

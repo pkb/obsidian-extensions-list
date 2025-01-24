@@ -7,10 +7,10 @@ categories: []
 description: "Done is better than perfect. Complete your first-messy-draft before
   you make it perfect. Your delete key will be DISABLED and all you can do is JUST
   BURN YOUR KEYBOARDS\U0001F525"
-downloads: 221
+downloads: 258
 mobile: true
 number: 2001
-stars: 1
+stars: 2
 title: Brain Dump Mode
 type: plugin
 updated: '2024-10-05T15:32:18'

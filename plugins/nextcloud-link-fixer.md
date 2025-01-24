@@ -5,7 +5,7 @@ author:
 - '[[authors/KFreon|KaelLarkin]]'
 categories: []
 description: Nextcloud breaks Wiki-links (e.g. [[Some document]]). This fixes them.
-downloads: 254
+downloads: 266
 mobile: true
 number: 1787
 stars: 1

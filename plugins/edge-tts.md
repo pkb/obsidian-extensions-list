@@ -6,15 +6,15 @@ author:
 categories: []
 description: Read notes aloud using Microsoft Edge Read Aloud API (free, high quality
   text-to-speech).
-downloads: 2110
+downloads: 2705
 mobile: true
 number: 1998
-stars: 47
+stars: 56
 title: Edge TTS
 type: plugin
-updated: '2025-01-02T07:09:37'
+updated: '2025-01-11T08:24:04'
 url: https://github.com/travisvn/obsidian-edge-tts
-version: 1.7.0
+version: 1.8.0
 ---
 
 %% README_START %%

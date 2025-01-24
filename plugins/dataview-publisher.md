@@ -7,10 +7,10 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Output markdown from your Dataview queries and keep them up to date.
   You can also publish them.
-downloads: 1178
+downloads: 1302
 mobile: true
 number: 1754
-stars: 35
+stars: 41
 title: Dataview Publisher
 type: plugin
 updated: '2024-11-16T15:02:32'

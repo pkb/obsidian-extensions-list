@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin provides postfix completions for Obsidian. The built-in completions
   are provided for markdown.
-downloads: 3047
+downloads: 3051
 mobile: true
 number: 1104
 stars: 3

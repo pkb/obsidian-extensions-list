@@ -6,15 +6,15 @@ author:
 categories: []
 description: Notes to Website. Friday helps you turn Markdown documents into websites
   in minutes.
-downloads: 286
+downloads: 420
 mobile: false
 number: 2037
-stars: 27
+stars: 31
 title: Friday
 type: plugin
-updated: '2025-01-07T17:53:11'
+updated: '2025-01-18T10:30:00'
 url: https://github.com/mdfriday/obsidian-friday-plugin
-version: 0.2.3
+version: 0.2.5
 ---
 
 %% README_START %%

@@ -6,7 +6,7 @@ author:
 - '[[authors/Erallie|Juanjo Arranz]]'
 categories: []
 description: Inserts user-defined css snippets into the selected text.
-downloads: 464
+downloads: 500
 mobile: true
 number: 1869
 stars: 2

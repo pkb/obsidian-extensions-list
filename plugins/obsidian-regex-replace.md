@@ -5,7 +5,7 @@ author:
 - '[[authors/Gru80|Martin Eder]]'
 categories: []
 description: Find and replace text using regular expressions.
-downloads: 34924
+downloads: 35697
 mobile: true
 number: 376
 stars: 70

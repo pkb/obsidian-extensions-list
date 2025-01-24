@@ -5,7 +5,7 @@ author:
 - '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate image caption
-downloads: 2833
+downloads: 2845
 mobile: true
 number: 1234
 stars: 11

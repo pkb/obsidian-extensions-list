@@ -7,7 +7,7 @@ categories:
 - '[[categories/Visualization|Visualization]]'
 description: Tracks and visualizes app activity, similar to GitHub's contribution
   chart.
-downloads: 667
+downloads: 793
 mobile: true
 number: 2000
 stars: 4

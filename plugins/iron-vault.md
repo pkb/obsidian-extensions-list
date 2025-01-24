@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs.
-downloads: 3635
+downloads: 3897
 mobile: true
 number: 1781
-stars: 53
+stars: 55
 title: Iron Vault
 type: plugin
 updated: '2025-01-06T02:41:27'

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency.
-downloads: 3176
+downloads: 3209
 mobile: false
 number: 1313
 stars: 27

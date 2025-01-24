@@ -5,7 +5,7 @@ author:
 - '[[authors/JeppeKlitgaard|Jeppe Klitgaard]]'
 categories: []
 description: Yet Another Anki Bridge
-downloads: 6570
+downloads: 6595
 mobile: false
 number: 369
 stars: 91

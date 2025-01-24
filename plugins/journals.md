@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Manage your journals in Obsidian
-downloads: 19998
+downloads: 21725
 mobile: true
 number: 1400
-stars: 141
+stars: 149
 title: Journals
 type: plugin
 updated: '2024-10-23T20:21:11'

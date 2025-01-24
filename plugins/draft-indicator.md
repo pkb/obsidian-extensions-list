@@ -5,7 +5,7 @@ author:
 - '[[authors/beardicus|Brian Boucheron]]'
 categories: []
 description: Show draft status with ✎ icons in the file explorer.
-downloads: 468
+downloads: 478
 mobile: true
 number: 1628
 stars: 3

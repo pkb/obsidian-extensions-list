@@ -5,15 +5,15 @@ author:
 - '[[authors/tokenshift|Nathan Clark]]'
 categories: []
 description: Progress clocks and other useful widgets for real-time status tracking.
-downloads: 2162
+downloads: 2278
 mobile: true
 number: 1520
 stars: 2
 title: Progress Clocks
 type: plugin
-updated: '2024-07-29T22:01:44'
+updated: '2025-01-20T06:13:43'
 url: https://github.com/tokenshift/obsidian-progress-clocks
-version: 0.3.1
+version: 0.3.2
 ---
 
 %% README_START %%

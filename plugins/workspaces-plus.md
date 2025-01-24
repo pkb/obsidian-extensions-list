@@ -5,10 +5,10 @@ author:
 - '[[authors/nothingislost|NothingIsLost and Johnny ✨]]'
 categories: []
 description: Quickly switch and manage workspaces
-downloads: 60356
+downloads: 60969
 mobile: false
 number: 294
-stars: 200
+stars: 202
 title: Workspaces Plus
 type: plugin
 updated: '2022-12-09T22:48:06'

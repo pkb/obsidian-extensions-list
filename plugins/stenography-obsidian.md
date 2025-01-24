@@ -5,10 +5,10 @@ author:
 - '[[authors/bramses|bramses]]'
 categories: []
 description: Auto Describe your code with machine learning using the Stenography API
-downloads: 4484
+downloads: 4503
 mobile: true
 number: 333
-stars: 26
+stars: 27
 title: Stenography
 type: plugin
 updated: '2021-10-28T20:47:48'

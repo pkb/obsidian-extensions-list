@@ -5,15 +5,15 @@ author:
 - '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Allows to insert multiple attachments at a time
-downloads: 73
+downloads: 184
 mobile: true
 number: 2098
-stars: 0
+stars: 1
 title: Insert Multiple Attachments
 type: plugin
-updated: '2024-12-27T11:03:37'
+updated: '2025-01-21T23:39:29'
 url: https://github.com/mnaoumov/obsidian-insert-multiple-attachments
-version: 1.1.3
+version: 1.1.5
 ---
 
 %% README_START %%
@@ -28,6 +28,18 @@ It just modifies the built-in `Insert Attachment` command to add support for mul
 
 - `Insert Multiple Attachments` is available on [the official Community Plugins repository](https://obsidian.md/plugins?id=insert-multiple-attachments).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('insert-multiple-attachments');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## Support
 

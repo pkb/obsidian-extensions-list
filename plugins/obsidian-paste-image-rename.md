@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Image handling|Image handling]]'
 description: Rename pasted images and all the other attchments added to the vault
-downloads: 64707
+downloads: 66710
 mobile: true
 number: 490
-stars: 298
+stars: 304
 title: Paste image rename
 type: plugin
 updated: '2023-01-30T15:08:23'

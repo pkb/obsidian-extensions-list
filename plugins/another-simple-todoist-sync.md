@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync tasks with Todoist from within your notes.
-downloads: 382
+downloads: 485
 mobile: true
 number: 1959
-stars: 20
+stars: 21
 title: Another Simple Todoist Sync
 type: plugin
-updated: '2024-12-09T09:33:51'
+updated: '2025-01-11T22:50:20'
 url: https://github.com/eudennis/ultimate-todoist-sync-for-obsidian-experiment
-version: 0.4.10
+version: 0.4.11
 ---
 
 %% README_START %%

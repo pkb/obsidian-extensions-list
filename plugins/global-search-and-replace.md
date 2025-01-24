@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Search and replace in all vault files
-downloads: 29877
+downloads: 30575
 mobile: true
 number: 835
 stars: 89

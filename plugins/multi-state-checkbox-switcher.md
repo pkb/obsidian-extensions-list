@@ -5,7 +5,7 @@ author:
 - '[[authors/KubaMiszcz|KubaMiszcz]]'
 categories: []
 description: Handle with multistate checkboxes.
-downloads: 3212
+downloads: 3308
 mobile: true
 number: 1373
 stars: 10

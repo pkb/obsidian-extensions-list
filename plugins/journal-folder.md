@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Utilities for folder-based journaling
-downloads: 1347
+downloads: 1397
 mobile: true
 number: 1796
 stars: 18

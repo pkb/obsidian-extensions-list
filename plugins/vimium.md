@@ -5,7 +5,7 @@ author:
 - '[[authors/karstenpedersen|Karsten Finderup Pedersen]]'
 categories: []
 description: Interact with elements using keyboard shortcuts in the spirit of Vim
-downloads: 1631
+downloads: 1770
 mobile: false
 number: 1758
 stars: 17

@@ -5,7 +5,7 @@ author:
 - '[[authors/acidghost|acidghost]]'
 categories: []
 description: Automatically fill progress (as fraction or percentage) of check-lists.
-downloads: 1030
+downloads: 1100
 mobile: true
 number: 1712
 stars: 9

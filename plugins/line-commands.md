@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds commands to quickly select, copy, cut, and paste lines under the
   selection or cursor.
-downloads: 1308
+downloads: 1324
 mobile: true
 number: 1514
 stars: 10

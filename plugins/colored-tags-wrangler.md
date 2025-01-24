@@ -7,7 +7,7 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Assign colors to tags. Has integrations with other plugins, like Kanban.
-downloads: 19359
+downloads: 20138
 mobile: true
 number: 1272
 stars: 63

@@ -6,10 +6,10 @@ author:
 categories: []
 description: Open the command palette by pressing Shift (or any other key) twice like
   in IntelliJ and create your own shortcuts
-downloads: 12755
+downloads: 13040
 mobile: true
 number: 482
-stars: 80
+stars: 81
 title: Doubleshift
 type: plugin
 updated: '2023-01-01T01:11:29'

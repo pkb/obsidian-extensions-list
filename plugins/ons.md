@@ -5,10 +5,10 @@ author:
 - '[[authors/skye-z|Skye]]'
 categories: []
 description: Keep Vault synchronized with the NAS on your home intranet.
-downloads: 10
+downloads: 46
 mobile: true
 number: 2102
-stars: 0
+stars: 1
 title: BetaX NAS Sync
 type: plugin
 updated: '2025-01-07T08:17:42'

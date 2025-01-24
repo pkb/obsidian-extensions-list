@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: A chess study helper and PGN viewer/editor.
-downloads: 5499
+downloads: 5573
 mobile: false
 number: 943
-stars: 40
+stars: 41
 title: Chess Study
 type: plugin
 updated: '2024-02-11T20:31:03'

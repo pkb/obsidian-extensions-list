@@ -5,10 +5,10 @@ author:
 - '[[authors/jillro|Maud Royer]]'
 categories: []
 description: Displays a card view of your notes.
-downloads: 7849
+downloads: 8347
 mobile: true
 number: 1532
-stars: 63
+stars: 66
 title: Cards View
 type: plugin
 updated: '2024-12-28T18:08:00'

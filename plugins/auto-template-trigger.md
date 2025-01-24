@@ -7,7 +7,7 @@ categories:
 - '[[categories/Automation|Automation]]'
 description: Automatically apply or prompt for a template when creating a note. Supports
   assigning templates to folders.
-downloads: 15921
+downloads: 16437
 mobile: true
 number: 928
 stars: 35

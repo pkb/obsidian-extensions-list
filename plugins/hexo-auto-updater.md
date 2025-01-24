@@ -5,7 +5,7 @@ author:
 - '[[authors/lifeodyssey|Zhenjia Zhou]]'
 categories: []
 description: 'This is a hexo plugin for Obsidian that enable the auto update. '
-downloads: 2412
+downloads: 2417
 mobile: false
 number: 1240
 stars: 10

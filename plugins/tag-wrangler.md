@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Tag Management|Tag Management]]'
 description: Rename, merge, toggle, and search tags from the tags view
-downloads: 593608
+downloads: 601001
 mobile: true
 number: 90
-stars: 669
+stars: 672
 title: Tag Wrangler
 type: plugin
 updated: '2023-10-04T10:15:21'

@@ -6,7 +6,7 @@ author:
 categories: []
 description: Improve user experience when using file properties like adding icons
   or custom display view.
-downloads: 5595
+downloads: 5685
 mobile: false
 number: 1193
 stars: 39

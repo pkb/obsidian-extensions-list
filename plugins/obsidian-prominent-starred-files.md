@@ -5,7 +5,7 @@ author:
 - '[[authors/javalent|Jeremy Valentine]]'
 categories: []
 description: Prominently display bookmarked notes in the file explorer
-downloads: 9375
+downloads: 9458
 mobile: true
 number: 299
 stars: 26

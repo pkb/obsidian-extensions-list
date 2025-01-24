@@ -5,15 +5,15 @@ author:
 - '[[authors/rudimuc|Rudi Häusler]]'
 categories: []
 description: Converts text into other formats (base64, ROT13)
-downloads: 2204
+downloads: 2276
 mobile: true
 number: 1325
 stars: 1
 title: Encoder/Decoder
 type: plugin
-updated: '2024-12-29T05:35:20'
+updated: '2025-01-20T17:49:00'
 url: https://github.com/rudimuc/obsidian-coder
-version: 1.2.0
+version: 1.2.1
 ---
 
 %% README_START %%
@@ -23,6 +23,7 @@ version: 1.2.0
 This is a plugin for [Obsidian](https://obsidian.md) to encode / decode texts.
 
 Currently supported algorithms are: 
+- atbash
 - Base64
 - ROT13
 
@@ -50,6 +51,8 @@ Following conversions are available
 | base64    | text          | transform-base64-text  |
 | text      | ROT13         | transform-text-rot13   |
 | ROT13     | text          | transform-rot13-text   |
+| text      | atbash        | transform-text-atbash  |
+| atbash    | text          | transform-atbash-text  |
 
 
 Type the Markdown keyword to use the specific encoding.
@@ -68,6 +71,9 @@ dGhpcyBpcyBhIHRleHQgdG8gZW5jb2Rl
 
 ## Version History
 
+### 1.2.1
+- Added atbash conversion
+
 ### 1.2.0
 - Added Base64 Decoder
 - Updated dependency versions (vulnarabilities)
@@ -85,11 +91,12 @@ dGhpcyBpcyBhIHRleHQgdG8gZW5jb2Rl
 
 Upcoming changes for this plugin:
 
-- Text to Vigenere
-- Vigenere to text
-- ROT13 to text
-- Text to hex
-- Hex to text
+- Vigenere encoder/decoder
+- Hex encoder/decoder
+- Base16 encoder/decoder
+- Base32 encoder/decoder
+- Base85 encoder/decoder
+- Morse encoder/decoder
 - Text to ascii art (based on https://www.npmjs.com/package/figlet)
 
 

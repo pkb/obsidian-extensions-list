@@ -6,10 +6,10 @@ author:
 categories: []
 description: This is a floating Toc plugin that  hovers a table of content  containing
   a header level on the notes sidebar.
-downloads: 67038
+downloads: 68049
 mobile: true
 number: 647
-stars: 225
+stars: 224
 title: floating toc
 type: plugin
 updated: '2024-03-24T22:12:43'

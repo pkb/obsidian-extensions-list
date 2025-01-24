@@ -5,10 +5,10 @@ author:
 - '[[authors/paulpaterson|Paul Paterson]]'
 categories: []
 description: Enhances task management for simple projects
-downloads: 63
+downloads: 136
 mobile: true
 number: 2094
-stars: 7
+stars: 9
 title: Project Tasks
 type: plugin
 updated: '2024-11-28T23:31:36'

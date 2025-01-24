@@ -5,7 +5,7 @@ author:
 - '[[authors/ConnorEspino|Connor Espino]]'
 categories: []
 description: Selects the word that is closest to the caret.
-downloads: 221
+downloads: 236
 mobile: true
 number: 1639
 stars: 1

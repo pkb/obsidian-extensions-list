@@ -6,10 +6,10 @@ author:
 categories: []
 description: Bridge your note-taking and task management workflows by maintaining
   strong contextual connections with Todoist.
-downloads: 606
+downloads: 721
 mobile: true
 number: 2049
-stars: 12
+stars: 17
 title: Todoist Context Bridge
 type: plugin
 updated: '2024-12-31T18:43:35'

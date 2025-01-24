@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Chat with AI about your notes.
-downloads: 726
+downloads: 765
 mobile: false
 number: 1630
-stars: 7
+stars: 8
 title: AI Chat
 type: plugin
 updated: '2024-05-27T19:14:24'

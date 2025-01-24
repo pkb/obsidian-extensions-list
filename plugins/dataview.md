@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Complex data views for the data-obsessed.
-downloads: 2388439
+downloads: 2431563
 mobile: true
 number: 92
 stars: 7300

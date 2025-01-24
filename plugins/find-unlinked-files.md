@@ -7,10 +7,10 @@ categories:
 - '[[categories/File management|File management]]'
 description: 'Find files that are not linked anywhere and would otherwise be lost
   in your vault. In other words: files with no backlinks.'
-downloads: 173093
+downloads: 174465
 mobile: true
 number: 36
-stars: 310
+stars: 313
 title: Find orphaned files and broken links
 type: plugin
 updated: '2024-08-13T02:57:36'

@@ -7,7 +7,7 @@ categories: []
 description: Interactivity allows you to run shell commands and scripts directly within
   your notes, providing their output right alongside your written content, making
   your note-taking process more dynamic and interactive.
-downloads: 912
+downloads: 965
 mobile: true
 number: 1663
 stars: 21

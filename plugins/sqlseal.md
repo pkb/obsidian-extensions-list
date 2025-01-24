@@ -5,22 +5,24 @@ author:
 - '[[authors/h-sphere|hypersphere]]'
 categories: []
 description: Use SQL in your notes to query your vault files and CSV content.
-downloads: 995
+downloads: 1671
 mobile: true
 number: 1733
-stars: 17
+stars: 44
 title: SQLSeal
 type: plugin
-updated: '2024-12-20T20:06:29'
+updated: '2025-01-23T23:27:22'
 url: https://github.com/h-sphere/sql-seal
-version: 0.12.3
+version: 0.18.1
 ---
 
 %% README_START %%
 
 # Obsidian SQLSeal
 
-SQLSeal allows to transform your CSV files located in your vault into fully-fledged SQL database. You can use SQL statements to query this data however you like.
+SQLSeal allow you to query for files, tags and tasks in your vault using familar SQL syntax.
+It also enables you to preview any CSV file in your vault as a database.
+It brings fully featured database into your vault!
 
 ## Installation
 

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Journalling|Journalling]]'
 description: Creates directories and notes based on the day of the year.
-downloads: 161
+downloads: 182
 mobile: true
 number: 1753
 stars: 1

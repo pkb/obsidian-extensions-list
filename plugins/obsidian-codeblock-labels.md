@@ -5,7 +5,7 @@ author:
 - '[[authors/stbowers|Sean Bowers]]'
 categories: []
 description: Adds labels to fenced code blocks
-downloads: 4553
+downloads: 4567
 mobile: true
 number: 414
 stars: 10

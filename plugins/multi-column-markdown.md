@@ -6,10 +6,10 @@ author:
 categories: []
 description: This plugin adds functionality to create markdown documents with multiple
   columns of content viewable within Obsidian's preview mode
-downloads: 138890
+downloads: 140815
 mobile: true
 number: 409
-stars: 315
+stars: 318
 title: Multi-Column Markdown
 type: plugin
 updated: '2024-01-15T11:36:57'

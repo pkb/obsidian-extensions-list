@@ -5,7 +5,7 @@ author:
 - '[[authors/shammond42|shammond42]]'
 categories: []
 description: Adds definition lists to the markdown parser.
-downloads: 922
+downloads: 1022
 mobile: true
 number: 1719
 stars: 10

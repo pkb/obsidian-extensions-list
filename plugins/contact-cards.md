@@ -6,10 +6,10 @@ author:
 categories: []
 description: Transforms raw data into a beautifully designed contact card for People
   and Organizations.
-downloads: 27
+downloads: 172
 mobile: true
 number: 2111
-stars: 0
+stars: 1
 title: Contact Cards
 type: plugin
 updated: '2025-01-05T02:05:18'

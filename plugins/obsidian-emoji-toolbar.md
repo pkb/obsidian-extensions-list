@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Quickly search for and insert emojis into your notes.
-downloads: 334152
+downloads: 337449
 mobile: true
 number: 47
-stars: 203
+stars: 206
 title: Emoji Toolbar
 type: plugin
 updated: '2023-05-04T03:12:40'

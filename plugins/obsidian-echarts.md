@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Charting|Charting]]'
 description: obsidian echarts
-downloads: 6580
+downloads: 6621
 mobile: true
 number: 555
 stars: 37

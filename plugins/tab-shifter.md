@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enables shifting tabs between different tab splits and some other basic
   IDE tab functionalities
-downloads: 1241
+downloads: 1257
 mobile: false
 number: 1482
 stars: 8

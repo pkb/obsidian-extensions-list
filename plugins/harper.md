@@ -5,15 +5,15 @@ author:
 - '[[authors/elijah-potter|Elijah Potter]]'
 categories: []
 description: The Grammar Checker for Developers
-downloads: 3625
+downloads: 4500
 mobile: false
 number: 1837
-stars: 29
+stars: 30
 title: Harper
 type: plugin
-updated: '2025-01-01T01:50:02'
+updated: '2025-01-16T04:22:19'
 url: https://github.com/elijah-potter/harper-obsidian-plugin
-version: 0.14.0
+version: 0.16.0
 ---
 
 %% README_START %%

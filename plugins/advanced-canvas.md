@@ -7,15 +7,15 @@ categories:
 - '[[categories/Canvas|Canvas]]'
 description: Supercharge your canvas experience! Create presentations, flowcharts
   and more!
-downloads: 91642
+downloads: 103112
 mobile: true
 number: 1474
-stars: 417
+stars: 509
 title: Advanced Canvas
 type: plugin
-updated: '2024-12-24T15:20:33'
+updated: '2025-01-16T00:44:29'
 url: https://github.com/Developer-Mike/obsidian-advanced-canvas
-version: 3.3.0
+version: 3.4.0
 ---
 
 %% README_START %%
@@ -32,7 +32,7 @@ version: 3.3.0
     <a href="https://github.com/Developer-Mike/obsidian-advanced-canvas/stargazers"><img src="https://img.shields.io/github/stars/Developer-Mike/obsidian-advanced-canvas?colorA=363a4f&colorB=e0ac00&style=for-the-badge" alt="GitHub star count"></a>
     <a href="https://github.com/Developer-Mike/obsidian-advanced-canvas/issues"><img src="https://img.shields.io/github/issues/Developer-Mike/obsidian-advanced-canvas?colorA=363a4f&colorB=e93147&style=for-the-badge" alt="Open issues on GitHub"></a>
     <br/>
-	<a href="https://obsidian.md/plugins?id=advanced-canvas"><img src="https://img.shields.io/endpoint?url=https://scambier.xyz/obsidian-endpoints/advanced-canvas.json&style=for-the-badge&colorA=363a4f&colorB=d53984"/></a>
+	<a href="https://obsidian.md/plugins?id=advanced-canvas"><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json&query=$.advanced-canvas.downloads&label=Downloads&style=for-the-badge&colorA=363a4f&colorB=d53984"/></a>
     <a href="./LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GPL-3.0&colorA=363a4f&colorB=b7bdf8" alt="GPL-3.0 license"/></a>
     <br/><br/>
     <b>⚡ Supercharge</b> your canvas experience! Create presentations, flowcharts and more!
@@ -48,8 +48,8 @@ Open the Community Plugins tab in the settings and search for "Advanced Canvas" 
         <li>Install it using <a href="https://github.com/TfTHacker/obsidian42-brat">BRAT</a></li>
         <li>Manual folder creation
             <ol>
-                <li>Create a folder named <code>obsidian-advanced-canvas</code> in your vault's plugins folder (<code>&lt;vault&gt;/.obsidian/plugins/</code>).</li>
-                <li>Download <code>main.js</code>, <code>styles.css</code> and <code>manifest.json</code> from the latest release and put them in the <code>obsidian-advanced-canvas</code> folder.</li>
+                <li>Create a folder named <code>advanced-canvas</code> in your vault's plugins folder (<code>&lt;vault&gt;/.obsidian/plugins/</code>).</li>
+                <li>Download <code>main.js</code>, <code>styles.css</code> and <code>manifest.json</code> from the latest release and put them in the <code>advanced-canvas</code> folder.</li>
                 <li>Enable the plugin in Settings -> Community plugins -> Installed plugins</li>
             </ol>
         </li>
@@ -99,9 +99,8 @@ All features can be enabled/disabled in the settings.
     - Square
     - A*
 - Add [custom styles](#custom-styles) to nodes and edges for unlimited possibilities
+- Add [per-node breakpoints](#variable-breakpoints) to change at which zoom factor the node's content gets unrendered
 - [Custom colors](#custom-colors) in the color picker
-- [Properties Support](#properties-support)
-  - Set properties for the canvas file
 - [Presentation mode](#presentation-mode)
   - Create presentations by connecting nodes with arrows
 - [Portals](#portals)
@@ -245,7 +244,7 @@ Set the pathfinding method of the edges (arrows) to default, straight, squared o
 Custom style attributes for nodes and edges can easily be added.
 
 1. Add a popup menu option
-   - Open the `<VAULT-PATH>/.obsidian/plugins/obsidian-advanced-canvas/data.json` file
+   - Open the `<VAULT-PATH>/.obsidian/plugins/advanced-canvas/data.json` file
    - If you want to add an option to node popup menu, search for `customNodeStyleAttributes` property, otherwise search for `customEdgeStyleAttributes` property. (Create it if it doesn't exist yet)
    - Add the custom popup menu option (Remove the comments!)
    ```json
@@ -269,6 +268,10 @@ Custom style attributes for nodes and edges can easily be added.
         // You can add more categories here
     ]
    ```
+
+> [!IMPORTANT]
+> There needs to be **one** option with the value null
+
 2. Create a new CSS snippet in your vault (And enable it in the settings)
     ```css	
     .canvas-node[data-<DATASET-KEY>="rainy"] { /* The dataset key is now written in kebab-case */
@@ -277,6 +280,18 @@ Custom style attributes for nodes and edges can easily be added.
     ```
 3. Reload Obsidian and enjoy your new custom style!
     <br><img src="https://raw.githubusercontent.com/Developer-Mike/obsidian-advanced-canvas/HEAD/assets/custom-style-attribute-example.png" alt="Custom Style Attribute Example"/>
+
+## Variable Breakpoints
+Add breakpoints to nodes to change at which zoom factor the node's content gets unrendered.
+
+Create a new CSS snippet in your vault (And enable it in the settings)
+```css	
+/* Any CSS selector can be used (As long as the .canvas-node element has the CSS variable defined) */
+.canvas-node[data-shape="pill"] {
+    /* The zoom factor at which the node's content gets unrendered (Zoom level can reach from 1 to -4) */
+    --variable-breakpoint: 0.5;
+}
+```
 
 ## Custom Colors
 Add custom colors to the color picker. You can add them using the following css snippet:
@@ -292,24 +307,6 @@ Add custom colors to the color picker. You can add them using the following css 
     <summary>Custom Colors In Palette</summary>
     <img src="https://raw.githubusercontent.com/Developer-Mike/obsidian-advanced-canvas/HEAD/assets/custom-colors.png" alt="Custom Colors In Palette"/>
 </details>
-
-## Properties Support
-Support for properties in canvas files just like in md files. You can edit the properties using the updated control menu.
-
-Supported properties:
-- `cssclasses` (Separate multiple classes with a space)
-
-### Custom Background Example (cssclasses)
-```css
-.canvas-wrapper.<CLASS-NAME> > .canvas-background {
-    background-image: url('<IMAGE-URL>');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    
-    filter: blur(5px) brightness(0.8);
-}
-```
 
 ## Presentation Mode
 In presentation mode, you can navigate through the nodes using the arrow keys or the PageUp/PageDown keys (Compatible with most presentation remotes). The different slides/nodes are connected using arrows. If you want to have multiple arrows pointing from the same node, you can number them in the order you want to navigate through them. While in presentation mode, the canvas is in readonly mode (So [better readonly](#better-readonly) effects the presentation mode as well!). You can exit the presentation mode using the `ESC` key or the corresponding command. If you want to continue the presentation from the last slide you were on, you can use the `Advanced Canvas: Continue presentation` command.
@@ -444,6 +441,9 @@ All custom events are prefixed with `advanced-canvas:` and can be listened to us
   - `advanced-canvas:copy`
     - Fired when the selection gets copied
     - Payload: `Canvas`, `SelectionData (Reference!)`
+  - `advanced-canvas:node-breakpoint-changed`
+    - Fired when the breakpoint of a node changes
+    - Payload: `Canvas`, `Node`, `breakpoint: { value: boolean }`
   - `advanced-canvas:node-editing-state-changed`
     - Fired when the editing state of a node changes
     - Payload: `Canvas`, `Node`, `boolean (isEditing)`

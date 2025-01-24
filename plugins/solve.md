@@ -7,15 +7,15 @@ categories: []
 description: Supercharge your notes with real-time calculations without AI fuss. From
   dates ('Now + 20 days'), percentages ('10% of 120'), units of measurement ('100cm
   + 2m'), arithmetic ('10 + 5') and more!
-downloads: 15220
+downloads: 15669
 mobile: true
 number: 1095
-stars: 88
+stars: 90
 title: Solve
 type: plugin
-updated: '2024-10-09T03:26:19'
+updated: '2025-01-23T23:16:22'
 url: https://github.com/LiamRiddell/obsidian-solve
-version: 1.0.3
+version: 1.1.0
 ---
 
 %% README_START %%

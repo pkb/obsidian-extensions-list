@@ -5,7 +5,7 @@ author:
 - '[[authors/makediff|希果壳五彩]]'
 categories: []
 description: Official WuCai highlights <-> Obsidian integration
-downloads: 14342
+downloads: 14451
 mobile: true
 number: 870
 stars: 13

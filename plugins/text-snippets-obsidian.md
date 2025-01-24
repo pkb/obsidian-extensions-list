@@ -7,10 +7,10 @@ categories:
 - '[[categories/Templates|Templates]]'
 description: Allows you to replace text templates for faster typing, create your own,
   expand text shortcuts.
-downloads: 34625
+downloads: 35073
 mobile: true
 number: 126
-stars: 190
+stars: 192
 title: Text Snippets
 type: plugin
 updated: '2022-05-12T20:00:40'

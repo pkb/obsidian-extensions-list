@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Make single notes instantly available on the web.
-downloads: 790
+downloads: 812
 mobile: true
 number: 1558
 stars: 1
 title: NotesOn Publish
 type: plugin
-updated: '2024-08-09T17:57:19'
+updated: '2025-01-21T21:27:15'
 url: https://github.com/shapkinaa/noteson-obsidian-plugin
-version: 1.0.5
+version: 1.0.6
 ---
 
 %% README_START %%

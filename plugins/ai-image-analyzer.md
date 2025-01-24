@@ -7,15 +7,15 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 - '[[categories/Image handling|Image handling]]'
 description: Analyze images with AI to get keywords of the image.
-downloads: 4603
+downloads: 5573
 mobile: false
 number: 1800
-stars: 45
+stars: 47
 title: AI image analyzer
 type: plugin
-updated: '2024-12-22T22:40:34'
+updated: '2025-01-19T08:39:51'
 url: https://github.com/Swaggeroo/obsidian-ai-image-analyzer
-version: 0.1.11
+version: 0.2.0
 ---
 
 %% README_START %%
@@ -60,6 +60,13 @@ You can enable `Image AI Indexing` in the settings of the OmniSearch plugin to i
 The plugin caches the results of the analysis, so it doesn't have to be done every time.
 It caches the result in a json file inside the plugin folder.
 Those files can be synced between devices.
+
+### Ollama Proxys
+Just use the Ollama URL in the settings. For example using [Open Web UI](https://docs.openwebui.com/) you can use the URL `http://[URL:PORT]/ollama` to access Ollama. You probably need to set a token (See Auth)
+
+#### Auth 
+If your Proxy requires a token, you can set it in the settings.
+It sets a `Authorization` header with the value of the token: `'Authorization': 'Bearer [Token]'`
 
 ### Limitations
 The prompt to analyze the image will sometimes deliver varying results.

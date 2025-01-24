@@ -6,15 +6,15 @@ author:
 categories: []
 description: Make the notes clustering simpler on mobile devices and work well on
   PCs ether, Notes Clustering is the process of creating hierarchical notes structures.
-downloads: 1112
+downloads: 1235
 mobile: true
 number: 1580
-stars: 10
+stars: 12
 title: Cluster
 type: plugin
-updated: '2024-11-04T06:44:55'
+updated: '2025-01-20T11:13:02'
 url: https://github.com/lorens-osman-dev/cluster
-version: 2.0.6
+version: 2.0.9
 ---
 
 %% README_START %%

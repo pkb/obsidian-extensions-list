@@ -7,15 +7,15 @@ categories:
 - '[[categories/Journalling|Journalling]]'
 description: Transform your notes into a visually stunning diary, integrating dialogs,
   chat logs, and media content blocks for a seamless journaling experience.
-downloads: 3423
+downloads: 3604
 mobile: true
 number: 1478
 stars: 16
 title: Yesterday
 type: plugin
-updated: '2024-07-25T18:59:26'
+updated: '2025-01-18T22:20:23'
 url: https://github.com/dominikmayer/obsidian-yesterday
-version: 1.2.0
+version: 1.2.1
 ---
 
 %% README_START %%
@@ -104,5 +104,11 @@ You can install the plugin from within Obsidian by searching for `Yesterday` in 
 ### Read On
 
 For further information check out [Yesterday](https://www.yesterday.md).
+
+
+### Other Plugins
+
+- [Reader Mode](https://github.com/dominikmayer/obsidian-reader-mode) ensures that notes are opened in reader mode, so you can see dialogs rendered right away.
+- [Note ID](https://github.com/dominikmayer/obsidian-note-id) Organizes notes by an ID property, providing a structured way to create and maintain a note sequence, inspired by [Zettelkasten](https://zettelkasten.de/introduction/) principles ("Folgezettel").
 
 %% README_END %%

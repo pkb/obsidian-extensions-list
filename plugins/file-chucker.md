@@ -5,7 +5,7 @@ author:
 - '[[authors/kenlim|Ken Lim]]'
 categories: []
 description: Quickly move a file to a new or existing folder, then open the next file.
-downloads: 4258
+downloads: 4283
 mobile: true
 number: 744
 stars: 13

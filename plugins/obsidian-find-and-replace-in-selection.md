@@ -5,7 +5,7 @@ author:
 - '[[authors/TClark1011|Thomas Clark]]'
 categories: []
 description: Replace text within your current selection.
-downloads: 6538
+downloads: 6564
 mobile: true
 number: 230
 stars: 6

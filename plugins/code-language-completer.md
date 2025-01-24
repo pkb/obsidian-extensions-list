@@ -5,7 +5,7 @@ author:
 - '[[authors/Stanley-Wang910|Stanley Wang]]'
 categories: []
 description: Autosuggests and completes codeblock language options based on history.
-downloads: 504
+downloads: 555
 mobile: false
 number: 1907
 stars: 7

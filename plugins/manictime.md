@@ -5,7 +5,7 @@ author:
 - '[[authors/manictime|Finkit d.o.o.]]'
 categories: []
 description: Sends path of active file to locally installed ManicTime client.
-downloads: 1993
+downloads: 2003
 mobile: false
 number: 1297
 stars: 2

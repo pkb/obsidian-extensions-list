@@ -5,7 +5,7 @@ author:
 - '[[authors/ALONELUR|Alonelur]]'
 categories: []
 description: Support auto select the apposite input method in different vim mode
-downloads: 8647
+downloads: 8751
 mobile: false
 number: 382
 stars: 85

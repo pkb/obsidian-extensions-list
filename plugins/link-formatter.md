@@ -5,7 +5,7 @@ author:
 - '[[authors/dilantha|Dilantha Nanayakkara]]'
 categories: []
 description: Formats a block of links into a clean markdown list
-downloads: 88
+downloads: 106
 mobile: false
 number: 2074
 stars: 1

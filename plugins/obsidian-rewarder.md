@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Gives you rewards for completing tasks/todos, highly configurable.
-downloads: 24843
+downloads: 25268
 mobile: true
 number: 502
 stars: 45

@@ -5,15 +5,15 @@ author:
 - '[[authors/nickrallison|Nick Allison]]'
 categories: []
 description: Run Python scripts directly as Obsidian commands.
-downloads: 8710
+downloads: 9227
 mobile: false
 number: 1079
-stars: 65
+stars: 67
 title: Python Scripter
 type: plugin
-updated: '2024-11-20T22:56:37'
+updated: '2025-01-24T03:52:30'
 url: https://github.com/nickrallison/obsidian-python-scripter
-version: 1.0.14
+version: 1.1.3
 ---
 
 %% README_START %%
@@ -113,6 +113,17 @@ You have the ability to change the default python script location in settings. A
 ## Debugging
 
 If your script fails to run. An error is shown in the top right of obsidian and in the *developer console* which can be found with the following  hotkeys: "ctrl" + "shift" + "i" on Windows, or "cmd" + "option" + "i" on MacOS.
+
+## 1.1.x Migration
+
+If you are upgrading the 1.1.x, the changes from 1.0.x are breaking. 
+- You can set the script base path in settings, but it must be from the root of the vault, .obsidian/scripts is default:
+![alt text](https://raw.githubusercontent.com/nickrallison/obsidian-python-scripter/HEAD/assets/scripts_folder_path.png)
+- You have to set the python interperter (or other interpreter manually for each script)
+![alt text](https://raw.githubusercontent.com/nickrallison/obsidian-python-scripter/HEAD/assets/interpreter.png)
+- You have to set the run method manually for each script
+![alt text](https://raw.githubusercontent.com/nickrallison/obsidian-python-scripter/HEAD/assets/run_type.png)
+
 
 
 %% README_END %%

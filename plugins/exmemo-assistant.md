@@ -5,10 +5,10 @@ author:
 - '[[authors/exmemo-ai|ExMemo AI]]'
 categories: []
 description: Using LLMs to manage files and generating metadata such as tags and summaries.
-downloads: 133
+downloads: 186
 mobile: true
 number: 2076
-stars: 7
+stars: 9
 title: ExMemo Assistant
 type: plugin
 updated: '2024-12-11T12:32:47'

@@ -7,7 +7,7 @@ categories:
 - '[[categories/Templates|Templates]]'
 description: This is a plugin for Obsidian that adds support for handlebars template
   blocks in notes.
-downloads: 4015
+downloads: 4028
 mobile: true
 number: 672
 stars: 25

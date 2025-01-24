@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Media handling and embedding|Media handling and embedding]]'
 description: Embed videos and images and audios from your local device  in your notes.
-downloads: 608
+downloads: 725
 mobile: false
 number: 1949
 stars: 11

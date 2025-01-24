@@ -6,7 +6,7 @@ author:
 categories: []
 description: Use shortcuts for text formatting or input special symbols without language
   switching
-downloads: 21874
+downloads: 22097
 mobile: true
 number: 16
 stars: 70

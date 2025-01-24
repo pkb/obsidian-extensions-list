@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Copy Markdown and transform it according to your needs.
-downloads: 341
+downloads: 382
 mobile: true
 number: 1952
 stars: 1

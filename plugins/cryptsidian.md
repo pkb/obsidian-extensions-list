@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Security and privacy|Security and privacy]]'
 description: Encrypt all files in your Obsidian.md Vault with a password.
-downloads: 13305
+downloads: 13442
 mobile: false
 number: 342
-stars: 78
+stars: 79
 title: Cryptsidian
 type: plugin
 updated: '2021-11-03T01:26:40'

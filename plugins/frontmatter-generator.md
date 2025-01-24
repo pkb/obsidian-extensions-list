@@ -5,7 +5,7 @@ author:
 - '[[authors/HananoshikaYomaru|Hananoshika Yomaru]]'
 categories: []
 description: Generate frontmatter for your notes from json and javascript
-downloads: 3194
+downloads: 3222
 mobile: true
 number: 1220
 stars: 33

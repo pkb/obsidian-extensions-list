@@ -5,7 +5,7 @@ author:
 - '[[authors/gapmiss|@gapmiss]]'
 categories: []
 description: Logs all notices to the developer console, with optional prefix and timestamp.
-downloads: 827
+downloads: 845
 mobile: false
 number: 1550
 stars: 3

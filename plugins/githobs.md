@@ -5,7 +5,7 @@ author:
 - '[[authors/GabAlpha|GabAlpha and MarcoG]]'
 categories: []
 description: Use Obsidian as Github issue editor!
-downloads: 1985
+downloads: 2030
 mobile: false
 number: 1361
 stars: 18

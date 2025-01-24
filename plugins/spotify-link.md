@@ -5,10 +5,10 @@ author:
 - '[[authors/studiowebux|Studio Webux]]'
 categories: []
 description: Include the song you're currently listening to in your note.
-downloads: 4177
+downloads: 4276
 mobile: true
 number: 1262
-stars: 11
+stars: 12
 title: Spotify Link
 type: plugin
 updated: '2024-12-01T01:36:29'

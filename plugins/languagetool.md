@@ -6,10 +6,10 @@ author:
 - '[[authors/wrenger|Clemens Ertle]]'
 categories: []
 description: Unofficial integration of the LanguageTool spell and grammar checker.
-downloads: 6943
+downloads: 8041
 mobile: true
 number: 1785
-stars: 20
+stars: 22
 title: LanguageTool
 type: plugin
 updated: '2025-01-07T19:17:30'

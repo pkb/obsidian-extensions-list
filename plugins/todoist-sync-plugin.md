@@ -5,10 +5,10 @@ author:
 - '[[authors/jamiebrynes7|Jamie Brynes]]'
 categories: []
 description: Materialize Todoist tasks within Obsidian notes.
-downloads: 107839
+downloads: 110200
 mobile: true
 number: 14
-stars: 972
+stars: 978
 title: Todoist Sync
 type: plugin
 updated: '2024-12-16T23:20:53'

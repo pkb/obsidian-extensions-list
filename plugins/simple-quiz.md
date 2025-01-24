@@ -5,10 +5,10 @@ author:
 - '[[authors/IvanKalmar|Ivan Kalmar]]'
 categories: []
 description: Creating simple quizzes.
-downloads: 193
+downloads: 226
 mobile: true
 number: 2041
-stars: 2
+stars: 3
 title: Simple Quiz
 type: plugin
 updated: '2024-12-19T23:56:05'

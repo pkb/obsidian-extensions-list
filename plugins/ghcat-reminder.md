@@ -6,7 +6,7 @@ author:
 categories: []
 description: Sends notifications to Google Chat Webhook based on due dates in Obsidian
   tasks.
-downloads: 2484
+downloads: 2510
 mobile: true
 number: 1273
 stars: 5

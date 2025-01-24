@@ -5,10 +5,10 @@ author:
 - '[[authors/vrtmrz|vorotamoroz]]'
 categories: []
 description: Yet another ChatGPT-powered digital secretary
-downloads: 3942
+downloads: 3949
 mobile: true
 number: 892
-stars: 9
+stars: 10
 title: Ring a secretary
 type: plugin
 updated: '2023-06-20T14:38:59'

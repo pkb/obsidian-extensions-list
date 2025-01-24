@@ -5,7 +5,7 @@ author:
 - '[[authors/popscallion|L Fahn-Lai]]'
 categories: []
 description: Closes Obsidian window with cmd+W on Mac when the last tab is closed.
-downloads: 3634
+downloads: 3644
 mobile: false
 number: 806
 stars: 2

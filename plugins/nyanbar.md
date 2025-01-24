@@ -5,7 +5,7 @@ author:
 - '[[authors/xhyabunny|xhyabunny]]'
 categories: []
 description: Nyan Cat Progress Bar generator!
-downloads: 292
+downloads: 303
 mobile: true
 number: 1779
 stars: 4

@@ -5,7 +5,7 @@ author:
 - '[[authors/meniam|Eugene Myazin]]'
 categories: []
 description: An easy way to display vocabulary words as flashcards and as a list.
-downloads: 4723
+downloads: 4784
 mobile: true
 number: 1172
 stars: 10

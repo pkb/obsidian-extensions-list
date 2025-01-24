@@ -5,10 +5,10 @@ author:
 - '[[authors/Eccys|Ecys]]'
 categories: []
 description: Fetches local prayer times and saves them to a file.
-downloads: 43
+downloads: 53
 mobile: true
 number: 2071
-stars: 1
+stars: 2
 title: Fetch Prayer Times
 type: plugin
 updated: '2024-12-08T07:50:54'

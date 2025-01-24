@@ -7,10 +7,10 @@ categories:
 - '[[categories/Export|Export]]'
 description: This is a Pandoc export plugin for Obsidian. It provides commands to
   export to formats like DOCX, ePub and PDF.
-downloads: 318564
+downloads: 324022
 mobile: false
 number: 213
-stars: 732
+stars: 742
 title: Pandoc Plugin
 type: plugin
 updated: '2022-09-26T02:51:02'

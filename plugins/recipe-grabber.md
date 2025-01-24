@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Content capture|Content capture]]'
 description: Quickly grab the important contents of any online recipe.
-downloads: 4914
+downloads: 5042
 mobile: true
 number: 961
-stars: 61
+stars: 63
 title: Recipe Grabber
 type: plugin
 updated: '2024-06-05T22:17:03'

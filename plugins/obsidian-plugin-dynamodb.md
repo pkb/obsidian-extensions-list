@@ -5,7 +5,7 @@ author:
 - '[[authors/leenattress|Lee Nattress]]'
 categories: []
 description: Query AWS DynamoDb and render tables inside documents.
-downloads: 3401
+downloads: 3408
 mobile: true
 number: 696
 stars: 6

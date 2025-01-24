@@ -5,7 +5,7 @@ author:
 - '[[authors/BambusControl|BambusControl]]'
 categories: []
 description: Search and insert Unicode characters into your editor
-downloads: 12323
+downloads: 12584
 mobile: true
 number: 801
 stars: 40

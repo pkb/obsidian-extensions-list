@@ -6,15 +6,15 @@ author:
 categories: []
 description: 'Taking Bible Study note in Obsidian.md application easily. Automatically
   suggesting Bible Verses as references. '
-downloads: 36260
+downloads: 36714
 mobile: true
 number: 349
-stars: 243
+stars: 245
 title: Bible Reference
 type: plugin
-updated: '2024-12-14T06:03:48'
+updated: '2025-01-19T13:43:57'
 url: https://github.com/tim-hub/obsidian-bible-reference
-version: 2024.12.09
+version: 25.01.19
 ---
 
 %% README_START %%
@@ -47,6 +47,8 @@ version: 2024.12.09
 1. Open a note in Obsidian.md application
 2. In a note, for example type `--John1:1`
 3. Select the suggestion
+
+You can also get a "verse of the day" by typing `--vod`.
 
 > Read more about [How to use](https://github.com/tim-hub/obsidian-bible-reference/blob/master/docs/howto.md)
 
@@ -105,6 +107,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Redster1"><img src="https://avatars.githubusercontent.com/u/69325218?v=4?s=65" width="65px;" alt="Redster1"/><br /><sub><b>Redster1</b></sub></a><br /><a href="https://github.com/tim-hub/obsidian-bible-reference/issues?q=author%3ARedster1" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dbergan"><img src="https://avatars.githubusercontent.com/u/6843811?v=4?s=65" width="65px;" alt="David Bergan"/><br /><sub><b>David Bergan</b></sub></a><br /><a href="#financial-dbergan" title="Financial">💵</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Benedictteo05"><img src="https://avatars.githubusercontent.com/u/75201951?v=4?s=65" width="65px;" alt="Benedictteo05"/><br /><sub><b>Benedictteo05</b></sub></a><br /><a href="https://github.com/tim-hub/obsidian-bible-reference/commits?author=Benedictteo05" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jphjsoares.github.io/"><img src="https://avatars.githubusercontent.com/u/24354644?v=4?s=65" width="65px;" alt="José Soares"/><br /><sub><b>José Soares</b></sub></a><br /><a href="https://github.com/tim-hub/obsidian-bible-reference/commits?author=jphjsoares" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wrichert"><img src="https://avatars.githubusercontent.com/u/970921?v=4?s=65" width="65px;" alt="Willi Richert"/><br /><sub><b>Willi Richert</b></sub></a><br /><a href="https://github.com/tim-hub/obsidian-bible-reference/commits?author=wrichert" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

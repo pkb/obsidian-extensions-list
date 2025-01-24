@@ -5,7 +5,7 @@ author:
 - '[[authors/chrisgrieser|pseudometa]]'
 categories: []
 description: Adds a no-op command to disable hotkeys.
-downloads: 2456
+downloads: 2489
 mobile: true
 number: 1250
 stars: 17

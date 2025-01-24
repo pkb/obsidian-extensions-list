@@ -5,10 +5,10 @@ author:
 - '[[authors/patleeman|Patrick Lee]]'
 categories: []
 description: Opens files in new tabs
-downloads: 19161
+downloads: 19683
 mobile: true
 number: 832
-stars: 98
+stars: 99
 title: Open In New Tab
 type: plugin
 updated: '2023-03-01T09:37:47'

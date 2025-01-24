@@ -5,7 +5,7 @@ author:
 - '[[authors/OkamiWong|Okami Wong]]'
 categories: []
 description: Add custom states to task list items.
-downloads: 4899
+downloads: 4937
 mobile: true
 number: 926
 stars: 29

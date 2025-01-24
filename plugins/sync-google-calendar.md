@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Synchronize events from Google Calendar and manage them like tasks.
-downloads: 8566
+downloads: 8713
 mobile: false
 number: 940
-stars: 71
+stars: 72
 title: Sync Google Calendar
 type: plugin
 updated: '2023-06-09T07:56:10'

@@ -5,7 +5,7 @@ author:
 - '[[authors/charliecm|Charlie Chao]]'
 categories: []
 description: Tidy your footnotes seamlessly.
-downloads: 16689
+downloads: 16969
 mobile: true
 number: 164
 stars: 49

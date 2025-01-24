@@ -6,7 +6,7 @@ author:
 categories: []
 description: Opens a modal with scrollable content of all documents that contain a
   specific tag or tags.
-downloads: 32385
+downloads: 32852
 mobile: true
 number: 578
 stars: 28

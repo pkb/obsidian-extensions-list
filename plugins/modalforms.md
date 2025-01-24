@@ -6,10 +6,10 @@ author:
 categories: []
 description: Define forms for filling data that you will be able to open from anywhere
   you can run JS
-downloads: 20582
+downloads: 21268
 mobile: true
 number: 1198
-stars: 241
+stars: 244
 title: Modal forms
 type: plugin
 updated: '2024-12-20T21:58:15'

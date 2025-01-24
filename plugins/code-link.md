@@ -5,7 +5,7 @@ author:
 - '[[authors/observerw|observerw]]'
 categories: []
 description: Link to code files in your notes
-downloads: 374
+downloads: 390
 mobile: false
 number: 1776
 stars: 16

@@ -5,7 +5,7 @@ author:
 - '[[authors/hans|Jon Gauthier]]'
 categories: []
 description: Automatically search and insert citations from a Zotero library
-downloads: 177112
+downloads: 178523
 mobile: false
 number: 53
 stars: 1100

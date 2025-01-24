@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin helps you gather information from files, and make a summary
   in the file.
-downloads: 4295
+downloads: 4310
 mobile: true
 number: 707
 stars: 26

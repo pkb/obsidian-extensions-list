@@ -5,10 +5,10 @@ author:
 - '[[authors/cogscides|cogscides]]'
 categories: []
 description: See and analyse your keyboard hotkeys and shortcuts
-downloads: 13703
+downloads: 13989
 mobile: true
 number: 629
-stars: 89
+stars: 90
 title: Keyboard Analyzer
 type: plugin
 updated: '2022-10-14T18:51:49'

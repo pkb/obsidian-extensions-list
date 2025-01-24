@@ -5,7 +5,7 @@ author:
 - '[[authors/gr0grig|mr.grogrig]]'
 categories: []
 description: Creating a hierarchical structure like Luhmann's Zettelkasten
-downloads: 952
+downloads: 996
 mobile: true
 number: 1801
 stars: 26

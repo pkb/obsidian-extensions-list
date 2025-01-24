@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Track the time between log entries
-downloads: 442
+downloads: 457
 mobile: true
 number: 1702
 stars: 5

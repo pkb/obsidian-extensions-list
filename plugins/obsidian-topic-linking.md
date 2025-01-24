@@ -5,10 +5,10 @@ author:
 - '[[authors/liammagee|Liam Magee]]'
 categories: []
 description: Convert PDF files and web links to Markdown, and create topics from Markdown
-downloads: 20829
+downloads: 21003
 mobile: false
 number: 408
-stars: 82
+stars: 81
 title: Topic Linking
 type: plugin
 updated: '2024-04-24T08:38:40'

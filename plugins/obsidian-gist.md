@@ -5,10 +5,10 @@ author:
 - '[[authors/linjunpop|Jun Lin]]'
 categories: []
 description: This is a plugin to display the GitHub Gist.
-downloads: 9277
+downloads: 9323
 mobile: true
 number: 205
-stars: 82
+stars: 81
 title: Gist
 type: plugin
 updated: '2024-01-24T17:55:50'

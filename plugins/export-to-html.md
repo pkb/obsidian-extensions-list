@@ -6,7 +6,7 @@ author:
 categories: []
 description: Export your Markdown notes as HTML, directly in the clipboard or as a
   file.
-downloads: 137
+downloads: 362
 mobile: false
 number: 2091
 stars: 0

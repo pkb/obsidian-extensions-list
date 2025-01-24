@@ -5,10 +5,10 @@ author:
 - '[[authors/polyipseity|polyipseity]]'
 categories: []
 description: Integrate consoles, shells, and terminals inside Obsidian.
-downloads: 29424
+downloads: 29955
 mobile: true
 number: 749
-stars: 180
+stars: 183
 title: Terminal
 type: plugin
 updated: '2024-06-23T18:11:04'

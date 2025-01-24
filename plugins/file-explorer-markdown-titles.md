@@ -5,7 +5,7 @@ author:
 - '[[authors/Dyldog|Dylan Elliott]]'
 categories: []
 description: Shows the first markdown header of a note in the file explorer
-downloads: 5994
+downloads: 6005
 mobile: true
 number: 252
 stars: 28

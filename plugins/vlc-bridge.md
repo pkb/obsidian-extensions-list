@@ -5,7 +5,7 @@ author:
 - '[[authors/zuluwi|zuluwi]]'
 categories: []
 description: Take video/movie notes with timestamp links and snapshots from VLC Player.
-downloads: 1442
+downloads: 1471
 mobile: false
 number: 1519
 stars: 17

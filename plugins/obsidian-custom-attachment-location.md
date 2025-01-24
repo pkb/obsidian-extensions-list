@@ -7,22 +7,22 @@ categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: Customize attachment location with variables($filename, $data, etc) like
   typora.
-downloads: 40850
+downloads: 43390
 mobile: true
 number: 341
-stars: 251
+stars: 255
 title: Custom Attachment Location
 type: plugin
-updated: '2025-01-07T07:40:37'
+updated: '2025-01-21T23:39:17'
 url: https://github.com/RainCat1998/obsidian-custom-attachment-location
-version: 5.0.1
+version: 5.1.4
 ---
 
 %% README_START %%
 
 # Obsidian Custom Attachment location
 
-Customize attachment location with tokens (${fileName}, ${date:format}, etc) like typora.
+Customize attachment location with tokens (`${fileName}`, `${date:format}`, etc) like typora.
 
 ## Features
 
@@ -100,7 +100,7 @@ When you are pasting/dragging a file with the same name as an existing file, thi
 
 E.g., when you are dragging file `existingFile.pdf`, it will be renamed to `existingFile 1.pdf`, `existingFile 2.pdf`, etc, getting the first name available.
 
-Default value is ` ` (`space`).
+Default value is `␣` (`space`).
 
 ### Keep empty attachment folders
 
@@ -170,6 +170,18 @@ All notable changes to this project will be documented in the [CHANGELOG](./CHAN
 
 - `Custom Attachment Location` is available in [the official Community Plugins repository](https://obsidian.md/plugins?id=obsidian-custom-attachment-location).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('obsidian-custom-attachment-location');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## Support
 

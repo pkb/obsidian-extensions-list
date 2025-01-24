@@ -7,15 +7,15 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Display headings tree during editing and preview to indicate the current
   position.
-downloads: 3714
+downloads: 4036
 mobile: true
 number: 1736
 stars: 29
 title: Another Sticky Headings
 type: plugin
-updated: '2024-12-22T07:35:29'
+updated: '2025-01-21T10:03:29'
 url: https://github.com/zhouhua/obsidian-sticky-headings
-version: 2.1.2
+version: 2.1.3
 ---
 
 %% README_START %%
@@ -85,6 +85,10 @@ Here are some custom styles from the community. Thanks for the creative ideas an
 * [PopKit](https://github.com/zhouhua/obsidian-popkit)
 
 ## Change Log
+
+### [2.1.3](https://github.com/zhouhua/obsidian-sticky-headings/releases/tag/2.1.3)
+
+* Fix [#40](https://github.com/zhouhua/obsidian-sticky-headings/issues/40).
 
 ### [2.1.2](https://github.com/zhouhua/obsidian-sticky-headings/releases/tag/2.1.2)
 

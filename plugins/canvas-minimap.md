@@ -5,10 +5,10 @@ author:
 - '[[authors/ifree|ifree]]'
 categories: []
 description: For easy navigation in large canvas
-downloads: 5272
+downloads: 5475
 mobile: true
 number: 1517
-stars: 26
+stars: 27
 title: Canvas minimap
 type: plugin
 updated: '2024-03-18T10:37:15'

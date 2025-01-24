@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Track your daily word count across all notes in your vault.
-downloads: 18191
+downloads: 18468
 mobile: true
 number: 101
-stars: 98
+stars: 99
 title: Daily Stats
 type: plugin
 updated: '2021-02-25T20:52:50'

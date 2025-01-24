@@ -5,7 +5,7 @@ author:
 - '[[authors/stufro|stufro]]'
 categories: []
 description: Add Hill Charts to your notes.
-downloads: 2018
+downloads: 2027
 mobile: true
 number: 1344
 stars: 10

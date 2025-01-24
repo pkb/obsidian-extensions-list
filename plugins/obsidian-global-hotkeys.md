@@ -5,7 +5,7 @@ author:
 - '[[authors/mjessome|Marc Jessome]]'
 categories: []
 description: Add support for global hotkeys
-downloads: 10373
+downloads: 10488
 mobile: false
 number: 389
 stars: 88

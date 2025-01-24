@@ -5,7 +5,7 @@ author:
 - '[[authors/flyer1b|flyer1b]]'
 categories: []
 description: sync articles from syncread app
-downloads: 1932
+downloads: 1936
 mobile: false
 number: 1335
 stars: 1

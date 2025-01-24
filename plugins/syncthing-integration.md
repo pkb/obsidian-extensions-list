@@ -7,10 +7,10 @@ categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 - '[[categories/Integration|Integration]]'
 description: Integrates most of Syncthing features into Obsidian.
-downloads: 18721
+downloads: 19389
 mobile: true
 number: 1050
-stars: 201
+stars: 206
 title: Syncthing Integration
 type: plugin
 updated: '2024-04-29T04:40:28'

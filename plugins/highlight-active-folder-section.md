@@ -5,15 +5,15 @@ author:
 - '[[authors/justanotherjurastudent|Lukas Collier]]'
 categories: []
 description: Highlight the active folder section and the title in the file explorer.
-downloads: 903
+downloads: 1120
 mobile: true
 number: 1882
 stars: 2
 title: Highlight active folder section
 type: plugin
-updated: '2024-10-09T20:38:24'
+updated: '2025-01-17T04:19:30'
 url: https://github.com/justanotherjurastudent/highlight-active-folder-section
-version: 1.1.2
+version: 1.2.1
 ---
 
 %% README_START %%
@@ -34,6 +34,8 @@ This plugin for [Obsidian](https://obsidian.md) highlights the container of the 
 - **Highlight Root Folder:** The container of the root folder can also be highlighted with customizable colors.
 
   ![image](https://github.com/user-attachments/assets/31d7313c-8c12-4f8a-8f69-3b81839e9ec0)
+
+- **Autoscroll:** When you switch between notes or open new notes, the file explorer moves to the active note.
 
 
 ## Installation

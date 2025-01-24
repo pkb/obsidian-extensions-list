@@ -6,10 +6,10 @@ author:
 categories: []
 description: Highlight and speak text from your notes. Converts text to speech in
   real-time using lifelike voices from OpenAI.
-downloads: 5286
+downloads: 5430
 mobile: true
 number: 1407
-stars: 27
+stars: 28
 title: Aloud
 type: plugin
 updated: '2024-10-27T08:06:56'

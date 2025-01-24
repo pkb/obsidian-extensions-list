@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Use AI to generate high-quality articles with knowledge fragments.
-downloads: 739
+downloads: 763
 mobile: true
 number: 1623
-stars: 11
+stars: 12
 title: ai-writer
 type: plugin
 updated: '2024-04-23T14:24:11'

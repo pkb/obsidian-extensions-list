@@ -7,7 +7,7 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 description: Create minimalist sketches in a dedicated view, draw with a pencil, generate
   shapes, add text, save it to the vault or download it as an image.
-downloads: 1153
+downloads: 1293
 mobile: false
 number: 1879
 stars: 7

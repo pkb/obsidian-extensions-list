@@ -5,10 +5,10 @@ author:
 - '[[authors/joethei|Johannes Theiner]]'
 categories: []
 description: Learn keyboard shortcuts by showing them when using the mouse
-downloads: 13059
+downloads: 13258
 mobile: true
 number: 315
-stars: 38
+stars: 39
 title: Key Promoter
 type: plugin
 updated: '2024-12-16T19:28:30'

@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Show tags as folder
-downloads: 144808
+downloads: 149043
 mobile: true
 number: 379
-stars: 229
+stars: 234
 title: TagFolder
 type: plugin
-updated: '2024-11-05T17:54:56'
+updated: '2025-01-14T17:22:26'
 url: https://github.com/vrtmrz/obsidian-tagfolder
-version: 0.18.9
+version: 0.18.10
 ---
 
 %% README_START %%
@@ -143,6 +143,10 @@ When we enable this feature, our notes will be tagged as their freshness automat
 | 📗    | Within 3 days         |
 | 📚    | Within 7 days         |
 | 🗄    | Older than 7 days ago |
+
+##### Display folder as tag
+
+When we enable this feature, the folder will be shown as a tag.
 
 ##### Store tags in frontmatter for new notes
 

@@ -5,7 +5,7 @@ author:
 - '[[authors/Automatt|Mathew Spolin]]'
 categories: []
 description: Syncs Pinboard.in links with Daily Notes
-downloads: 4014
+downloads: 4025
 mobile: true
 number: 405
 stars: 63

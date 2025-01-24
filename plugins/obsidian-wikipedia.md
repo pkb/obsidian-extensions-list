@@ -7,7 +7,7 @@ categories:
 - '[[categories/Content capture|Content capture]]'
 description: Grabs information from Wikipedia for a topic and brings it into Obsidian
   notes
-downloads: 20839
+downloads: 21075
 mobile: true
 number: 318
 stars: 104

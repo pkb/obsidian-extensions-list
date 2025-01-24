@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Attachments management|Attachments management]]'
 description: This plugin ensures the consistency of attachments and links
-downloads: 45763
+downloads: 48208
 mobile: true
 number: 127
-stars: 252
+stars: 257
 title: Consistent Attachments and Links
 type: plugin
-updated: '2024-12-28T06:39:07'
+updated: '2025-01-21T23:39:29'
 url: https://github.com/dy-sh/obsidian-consistent-attachments-and-links
-version: 3.22.1
+version: 3.24.7
 ---
 
 %% README_START %%
@@ -161,6 +161,18 @@ Removes all empty folders in your library.
 
 - `Consistent Attachments and Links` is available in [the official Community Plugins repository](https://obsidian.md/plugins?id=consistent-attachments-and-links).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('consistent-attachments-and-links');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## Support
 

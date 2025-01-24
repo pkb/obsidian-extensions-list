@@ -5,10 +5,10 @@ author:
 - '[[authors/paperbenni|@paperbenni]]'
 categories: []
 description: Hide UI most UI elements
-downloads: 335
+downloads: 465
 mobile: true
 number: 2055
-stars: 6
+stars: 8
 title: Zen Mode
 type: plugin
 updated: '2024-12-13T19:55:46'

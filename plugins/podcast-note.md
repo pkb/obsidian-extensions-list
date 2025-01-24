@@ -5,7 +5,7 @@ author:
 - '[[authors/marcjulianschwarz|Marc Julian Schwarz]]'
 categories: []
 description: Podcast Note lets you automatically add podcast information to your notes.
-downloads: 8235
+downloads: 8252
 mobile: true
 number: 285
 stars: 73

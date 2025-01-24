@@ -7,10 +7,10 @@ categories:
 - '[[categories/Code and development|Code and development]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: Include or embed files in Obsidian markdown.
-downloads: 4038
+downloads: 4064
 mobile: true
 number: 969
-stars: 28
+stars: 29
 title: File Include
 type: plugin
 updated: '2023-06-29T01:04:39'

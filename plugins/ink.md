@@ -9,10 +9,10 @@ description: Hand write or draw directly between paragraphs in your notes using 
   digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles,
   or even math equations and scientific notation. Runs on the tldraw framework and
   drawing provides an infinite canvas.
-downloads: 46336
+downloads: 51460
 mobile: true
 number: 1592
-stars: 600
+stars: 656
 title: Ink
 type: plugin
 updated: '2025-01-05T18:10:51'

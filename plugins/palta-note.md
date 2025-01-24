@@ -5,7 +5,7 @@ author:
 - '[[authors/mrniket|Niket Shah]]'
 categories: []
 description: Render Bhatkhande notation for Tabla.
-downloads: 2769
+downloads: 2771
 mobile: true
 number: 1165
 stars: 3

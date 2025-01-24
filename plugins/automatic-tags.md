@@ -7,7 +7,7 @@ categories:
 - '[[categories/Automation|Automation]]'
 - '[[categories/Tag Management|Tag Management]]'
 description: Add tags to new notes automatically based on their path.
-downloads: 4124
+downloads: 4204
 mobile: true
 number: 1260
 stars: 20

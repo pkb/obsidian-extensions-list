@@ -5,7 +5,7 @@ author:
 - '[[authors/byfun|Chongmyung Park]]'
 categories: []
 description: Helper to copy and paste highlights
-downloads: 2251
+downloads: 2263
 mobile: true
 number: 1334
 stars: 2

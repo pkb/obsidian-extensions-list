@@ -5,7 +5,7 @@ author:
 - '[[authors/kenzan100|Yuta Miyama]]'
 categories: []
 description: This lets you post word counts directly from obsidian file to Beeminder.
-downloads: 4132
+downloads: 4141
 mobile: true
 number: 165
 stars: 13

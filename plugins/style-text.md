@@ -5,7 +5,7 @@ author:
 - '[[authors/juanjoarranz|Juanjo Arranz]]'
 categories: []
 description: Apply custom CSS styles to selected text in your Obsidian Notes.
-downloads: 8021
+downloads: 8194
 mobile: true
 number: 1005
 stars: 22

@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time tracking|Time tracking]]'
 description: Insert timestamp when you check off the checkbox
-downloads: 944
+downloads: 991
 mobile: true
 number: 1682
 stars: 5

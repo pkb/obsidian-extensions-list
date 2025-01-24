@@ -6,7 +6,7 @@ author:
 categories: []
 description: Quickly jump between list items and headings throughout same or upper/lower
   level
-downloads: 634
+downloads: 651
 mobile: true
 number: 1653
 stars: 5

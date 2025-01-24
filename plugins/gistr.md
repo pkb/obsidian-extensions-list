@@ -8,7 +8,7 @@ categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Integrate Opengist and Github gists into your notes, allowing you to
   create, update, and share between your notes and gist services
-downloads: 1454
+downloads: 1460
 mobile: true
 number: 1505
 stars: 21

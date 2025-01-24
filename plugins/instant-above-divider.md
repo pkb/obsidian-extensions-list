@@ -5,15 +5,15 @@ author:
 - '[[authors/sedationh|SedationH]]'
 categories: []
 description: Quickly insert a divider line at the beginning of your note.
-downloads: 93
+downloads: 144
 mobile: false
 number: 2026
-stars: 0
+stars: 2
 title: Instant Above Divider
 type: plugin
-updated: '2024-11-16T08:49:08'
+updated: '2025-01-18T16:23:10'
 url: https://github.com/sedationh/obsidian-instant-above-divider
-version: 1.0.8
+version: 1.1.2
 ---
 
 %% README_START %%
@@ -22,10 +22,18 @@ version: 1.0.8
 
 A simple Obsidian plugin that adds a command to instantly insert a divider line (---) at the beginning of the current note.
 
+
+
+
+https://github.com/user-attachments/assets/40e62de3-9893-4807-9f46-359726d2a319
+
+
+
 ## Features
 
-- Adds a command to insert a divider at the beginning of the note
-- Automatically moves cursor to the beginning after insertion
+-   Adds a command to insert a divider at the beginning of the note
+-   Automatically moves cursor to the beginning after insertion
+-   Option to respect headings when inserting dividers
 
 ## Installation
 
@@ -38,8 +46,19 @@ A simple Obsidian plugin that adds a command to instantly insert a divider line 
 
 1. Open Obsidian Settings > Hotkeys
 2. Search for "Instant Above Divider: Add Section"
-3. Set your preferred hotkey
+3. Set your preferred hotkey (recommended: `Option/Alt + Shift + N`)
 4. Use your configured hotkey to insert a divider at the beginning of the current note
+
+### Settings
+
+#### Respect Headings
+
+When enabled, the plugin will consider the location of headings when inserting dividers:
+
+-   If the cursor is directly after a heading, the divider will be inserted after that heading
+-   Otherwise, the divider will be inserted at the current cursor position
+
+When disabled, dividers will always be inserted at the current cursor position.
 
 ## License
 

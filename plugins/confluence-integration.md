@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: This plugin allows you to publish your notes to Confluence
-downloads: 10308
+downloads: 10507
 mobile: false
 number: 908
-stars: 123
+stars: 125
 title: Confluence Integration
 type: plugin
 updated: '2023-09-24T17:33:20'

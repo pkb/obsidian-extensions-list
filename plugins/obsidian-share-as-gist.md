@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Shares an Obsidian note as a GitHub.com gist
-downloads: 7184
+downloads: 7355
 mobile: true
 number: 541
-stars: 82
+stars: 84
 title: Share as Gist
 type: plugin
-updated: '2024-10-07T01:39:40'
+updated: '2025-01-10T00:59:32'
 url: https://github.com/timrogers/obsidian-share-as-gist
-version: 1.7.0
+version: 1.8.0
 ---
 
 %% README_START %%
@@ -26,6 +26,7 @@ This plugin for Obsidian (https://obsidian.md) allows you to share your notes as
 - 🔒 Share your notes privately or publicly
 - 💼 Works with GitHub.com and [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server/admin/overview/about-github-enterprise-server)
 - 🔄 Update your gist when you make changes to your notes
+- 🗑️ Delete a gist if you change your mind
 
 ## Usage
 
@@ -59,6 +60,8 @@ This plugin for Obsidian (https://obsidian.md) allows you to share your notes as
 1. If you want to get the URL of your gist after creating it, open the Command Palette and type "gist". Pick the "Copy gist URL" command. If you have multiple gists for your note, you'll have to pick which one you want the URL for.
 
 1. To open your gist after creating it, open the Command Palette and find the "Open gist" command. If you have multiple gists for your note, you'll have to pick which one you want to open.
+
+1. To delete a gist after creating one, open the Command Palette and find the "Delete gist" command. If you have multiple gists for your note, you'll have to pick which one you want to throw out.
 
 ## Customisable settings
 

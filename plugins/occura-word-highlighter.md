@@ -7,10 +7,10 @@ categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Find and highlight all occurrences of selected text in notes, similar
   to Notepad++ or IDEs.
-downloads: 782
+downloads: 824
 mobile: true
 number: 1963
-stars: 7
+stars: 8
 title: Occura
 type: plugin
 updated: '2024-11-16T00:28:30'

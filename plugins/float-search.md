@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: You can use search view in modal/leaf/popout window now.
-downloads: 23743
+downloads: 24193
 mobile: true
 number: 848
 stars: 158

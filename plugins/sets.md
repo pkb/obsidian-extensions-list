@@ -5,7 +5,7 @@ author:
 - '[[authors/Canna71|Gabriele Cannata]]'
 categories: []
 description: Create, edit and search sets of notes like Notion or AnyType DBs
-downloads: 7728
+downloads: 7866
 mobile: true
 number: 1209
 stars: 108

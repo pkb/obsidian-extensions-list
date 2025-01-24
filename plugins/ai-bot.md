@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Polish, summarize, translate, analyze, and interpret code using AI.
-downloads: 324
+downloads: 406
 mobile: true
 number: 2023
 stars: 9

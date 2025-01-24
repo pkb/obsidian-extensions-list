@@ -6,10 +6,10 @@ author:
 categories: []
 description: This plugin enables you to increase/decrease the size of an image by
   scrolling
-downloads: 91941
+downloads: 93367
 mobile: false
 number: 355
-stars: 93
+stars: 95
 title: Mousewheel Image zoom
 type: plugin
 updated: '2024-03-22T08:03:27'

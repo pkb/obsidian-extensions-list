@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Export vault files in a format amenable to pasting into a tex document
-downloads: 8482
+downloads: 8527
 mobile: false
 number: 57
-stars: 39
+stars: 40
 title: Export To TeX
 type: plugin
 updated: '2022-06-29T22:09:49'

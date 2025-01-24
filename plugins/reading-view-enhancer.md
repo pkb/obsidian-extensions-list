@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enhances reading view. Use arrow keys to navigate between blocks or toggle
   collapse.
-downloads: 4908
+downloads: 4955
 mobile: true
 number: 901
 stars: 21

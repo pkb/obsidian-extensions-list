@@ -7,10 +7,10 @@ categories:
 - '[[categories/Time management|Time management]]'
 description: Calculate the estimated time of completion from the estimated time of
   the task and dynamically create a timetable.
-downloads: 8853
+downloads: 8916
 mobile: true
 number: 887
-stars: 43
+stars: 44
 title: Dynamic Timetable
 type: plugin
 updated: '2023-10-23T09:16:28'

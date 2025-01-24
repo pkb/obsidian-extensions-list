@@ -7,10 +7,10 @@ categories:
 - '[[categories/Canvas|Canvas]]'
 description: Create semantic knowledge graphs using Canvases to modify note properties
   graphically.
-downloads: 4215
+downloads: 4366
 mobile: true
 number: 1536
-stars: 75
+stars: 80
 title: Semantic Canvas
 type: plugin
 updated: '2024-10-12T03:11:37'

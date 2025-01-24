@@ -6,7 +6,7 @@ author:
 categories: []
 description: Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and
   Sunnah
-downloads: 372
+downloads: 384
 mobile: true
 number: 1683
 stars: 5

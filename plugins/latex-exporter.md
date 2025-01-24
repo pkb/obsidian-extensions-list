@@ -5,10 +5,10 @@ author:
 - '[[authors/mscott99|Matthew S. Scott]]'
 categories: []
 description: Write a LaTeX paper.
-downloads: 185
+downloads: 284
 mobile: false
 number: 2083
-stars: 7
+stars: 11
 title: Latex Exporter
 type: plugin
 updated: '2025-01-04T04:02:00'

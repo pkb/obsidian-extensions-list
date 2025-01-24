@@ -7,10 +7,10 @@ categories: []
 description: An alternative backlinks plugin, which displays relevant and formatted
   excerpts from notes with linked mentions, based on the position of mentions in the
   notes' hierarchical structure (bullet level indentation).
-downloads: 21999
+downloads: 22162
 mobile: true
 number: 621
-stars: 326
+stars: 327
 title: Influx
 type: plugin
 updated: '2023-02-03T17:05:49'

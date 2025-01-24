@@ -5,7 +5,7 @@ author:
 - '[[authors/LastKnightCoder|lastknightcoder]]'
 categories: []
 description: embed your notion video in obsidian
-downloads: 4170
+downloads: 4179
 mobile: false
 number: 499
 stars: 5

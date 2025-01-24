@@ -6,7 +6,7 @@ author:
 categories: []
 description: Animating code blocks with markdown and code syntax highlighting with
   beautiful themes.
-downloads: 698
+downloads: 736
 mobile: false
 number: 1802
 stars: 8

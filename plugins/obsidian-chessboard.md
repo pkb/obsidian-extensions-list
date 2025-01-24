@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Render chess positions diagrams in a note.
-downloads: 6945
+downloads: 7004
 mobile: true
 number: 115
-stars: 30
+stars: 31
 title: Chessboard Viewer
 type: plugin
 updated: '2024-10-03T14:04:13'

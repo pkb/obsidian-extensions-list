@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Share Obsidian notes to Cubox.
-downloads: 3487
+downloads: 3495
 mobile: true
 number: 941
 stars: 7

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Statistics|Statistics]]'
 description: Status bar item with vault statistics such as number of notes, files,
   attachments, and links.
-downloads: 36674
+downloads: 36993
 mobile: true
 number: 104
-stars: 81
+stars: 82
 title: Vault Statistics
 type: plugin
 updated: '2022-10-26T11:01:13'

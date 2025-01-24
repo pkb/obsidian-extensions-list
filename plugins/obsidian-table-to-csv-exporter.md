@@ -7,7 +7,7 @@ categories:
 - '[[categories/Export|Export]]'
 description: This plugin allows for exporting tables from a pane in reading mode into
   CSV files.
-downloads: 11321
+downloads: 11491
 mobile: true
 number: 551
 stars: 72

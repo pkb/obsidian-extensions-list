@@ -6,7 +6,7 @@ author:
 categories: []
 description: Write and execute (sandboxed) JavaScript to render templates, query DataView
   and create dynamic notes.
-downloads: 4180
+downloads: 4199
 mobile: true
 number: 850
 stars: 29

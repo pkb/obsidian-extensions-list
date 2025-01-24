@@ -5,10 +5,10 @@ author:
 - '[[authors/mofukuru|mofukuru]]'
 categories: []
 description: Automatically organizes files into folders based on their extensions.
-downloads: 260
+downloads: 373
 mobile: true
 number: 2043
-stars: 0
+stars: 1
 title: Auto File Organizer
 type: plugin
 updated: '2024-12-14T18:11:36'

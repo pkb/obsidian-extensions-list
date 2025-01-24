@@ -5,10 +5,10 @@ author:
 - '[[authors/fabricehong|Fabrice Hong]]'
 categories: []
 description: Create reusable, modular prompts.
-downloads: 172
+downloads: 195
 mobile: true
 number: 1979
-stars: 6
+stars: 7
 title: PromptCrafter
 type: plugin
 updated: '2024-11-02T17:04:58'

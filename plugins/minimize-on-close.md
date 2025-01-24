@@ -5,7 +5,7 @@ author:
 - '[[authors/alberti42|Andrea Alberti]]'
 categories: []
 description: Minimizes the app window to an icon after closing the last open pane
-downloads: 306
+downloads: 348
 mobile: false
 number: 1921
 stars: 4

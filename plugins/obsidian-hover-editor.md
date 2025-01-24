@@ -6,15 +6,15 @@ author:
 categories: []
 description: Transform the Page Preview hover popover into a fully working editor
   instance
-downloads: 297669
+downloads: 305451
 mobile: true
 number: 462
-stars: 577
+stars: 587
 title: Hover Editor
 type: plugin
-updated: '2024-10-14T00:56:58'
+updated: '2025-01-19T03:38:22'
 url: https://github.com/nothingislost/obsidian-hover-editor
-version: 0.11.21
+version: 0.11.23
 ---
 
 %% README_START %%

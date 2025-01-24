@@ -5,10 +5,10 @@ author:
 - '[[authors/Lord-Turmoil|Lord Turmoil]]'
 categories: []
 description: Easily toggle heading levels in Markdown documents with shortcuts.
-downloads: 257
+downloads: 272
 mobile: true
 number: 1811
-stars: 1
+stars: 3
 title: Heading Toggler
 type: plugin
 updated: '2024-07-23T08:57:34'

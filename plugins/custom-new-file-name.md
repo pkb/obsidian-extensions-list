@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enables the creation of new notes with custom formatted names, including
   dynamic datetime stamps.
-downloads: 1705
+downloads: 1741
 mobile: true
 number: 1621
 stars: 0

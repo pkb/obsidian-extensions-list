@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Search and navigation|Search and navigation]]'
 description: Add structured hierarchies to your notes
-downloads: 123609
+downloads: 124519
 mobile: true
 number: 224
-stars: 554
+stars: 562
 title: Breadcrumbs
 type: plugin
 updated: '2024-05-07T14:20:57'

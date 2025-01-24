@@ -6,15 +6,15 @@ author:
 categories: []
 description: Creates new periodic notes automatically in the background and allows
   these to be pinned in your open tabs, requires the Periodic Notes plugin.
-downloads: 498
+downloads: 752
 mobile: true
 number: 1887
-stars: 6
+stars: 7
 title: Auto Periodic Notes
 type: plugin
-updated: '2024-09-14T13:19:55'
+updated: '2025-01-20T03:32:59'
 url: https://github.com/jamiefdhurst/obsidian-auto-periodic-notes
-version: 0.1.0
+version: 0.2.3
 ---
 
 %% README_START %%
@@ -36,6 +36,8 @@ This plugin respects the settings of the Periodic Notes plugin, creating your no
 - Creates new notes in the background for your periodic notes
 - Supports daily, weekly, monthly, quarterly and yearly notes with individual settings for each
 - Supports opening and pinning the new notes automatically when created
+- Supports automatically closing older notes
+- Can exclude weekends from daily note generation
 
 ## Settings
 

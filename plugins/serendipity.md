@@ -6,7 +6,7 @@ author:
 categories: []
 description: Forces serendipitous discoveries by displaying random notes from your
   vault each time you open the app
-downloads: 391
+downloads: 422
 mobile: true
 number: 1855
 stars: 3

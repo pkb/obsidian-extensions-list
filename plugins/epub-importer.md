@@ -7,15 +7,15 @@ categories:
 - '[[categories/Import|Import]]'
 - '[[categories/Other formats|Other formats]]'
 description: Import EPUB files as Markdown.
-downloads: 14812
+downloads: 16085
 mobile: false
 number: 1261
-stars: 142
+stars: 150
 title: Epub Importer
 type: plugin
-updated: '2024-11-24T13:06:52'
+updated: '2025-01-13T08:13:15'
 url: https://github.com/aoout/obsidian-epub-importer
-version: 0.6.1
+version: 0.6.6
 ---
 
 %% README_START %%

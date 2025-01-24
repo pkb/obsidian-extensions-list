@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format the code block where the cursor is.
-downloads: 518
+downloads: 611
 mobile: true
 number: 1974
-stars: 9
+stars: 10
 title: Simple Code Formatter
 type: plugin
 updated: '2024-12-13T12:07:37'

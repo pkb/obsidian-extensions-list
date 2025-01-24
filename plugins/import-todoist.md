@@ -5,7 +5,7 @@ author:
 - '[[authors/dukex|Duke]]'
 categories: []
 description: Import Todoist tasks as Markdown tasks.
-downloads: 61
+downloads: 92
 mobile: true
 number: 2090
 stars: 0

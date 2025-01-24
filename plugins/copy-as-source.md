@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Select and copy source HTML in reading view.
-downloads: 1190
+downloads: 1196
 mobile: false
 number: 1435
 stars: 2

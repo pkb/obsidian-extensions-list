@@ -5,10 +5,10 @@ author:
 - '[[authors/recklyss|Jiaheng Zhang]]'
 categories: []
 description: Convert markdown into timeline visualization
-downloads: 983
+downloads: 1107
 mobile: true
 number: 2002
-stars: 13
+stars: 16
 title: Markdown Timeline
 type: plugin
 updated: '2024-12-07T21:34:31'

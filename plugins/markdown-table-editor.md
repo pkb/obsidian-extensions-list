@@ -7,7 +7,7 @@ categories: []
 description: An Obsidian plugin to provide an editor for Markdown tables. It can open
   CSV, Microsoft Excel/Google Sheets data as Markdown tables from Obsidian Markdown
   editor.
-downloads: 74908
+downloads: 75795
 mobile: true
 number: 453
 stars: 218

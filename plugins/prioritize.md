@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Prioritize your tasks and notes in Obsidian.
-downloads: 4421
+downloads: 4456
 mobile: false
 number: 846
 stars: 7

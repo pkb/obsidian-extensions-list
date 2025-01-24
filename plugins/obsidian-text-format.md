@@ -7,10 +7,10 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Format text such as lowercase/uppercase/capitalize/titlecase, converting
   order/bullet list, removing redundant spaces/newline characters.
-downloads: 155627
+downloads: 157698
 mobile: true
 number: 202
-stars: 197
+stars: 202
 title: Text Format
 type: plugin
 updated: '2024-07-21T15:37:00'

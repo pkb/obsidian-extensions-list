@@ -7,7 +7,7 @@ categories:
 - '[[categories/Diagrams and drawing|Diagrams and drawing]]'
 - '[[categories/Custom code blocks|Custom code blocks]]'
 description: This plugin enables viewing/editing/simulating BPMNs using bpmn-js.
-downloads: 7738
+downloads: 7939
 mobile: true
 number: 688
 stars: 28

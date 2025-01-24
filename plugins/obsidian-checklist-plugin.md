@@ -5,15 +5,15 @@ author:
 - '[[authors/delashum|delashum]]'
 categories: []
 description: Combines checklists across pages into users sidebar
-downloads: 346577
+downloads: 354884
 mobile: true
 number: 73
-stars: 404
+stars: 410
 title: Checklist
 type: plugin
-updated: '2023-09-29T09:35:14'
+updated: '2025-01-12T01:07:58'
 url: https://github.com/delashum/obsidian-checklist-plugin
-version: 2.2.13
+version: 2.2.14
 ---
 
 %% README_START %%

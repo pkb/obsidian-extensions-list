@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Statistics|Statistics]]'
 description: Graph of the number of files in the Vault.
-downloads: 1815
+downloads: 2250
 mobile: false
 number: 1836
-stars: 5
+stars: 6
 title: Vault Size History
 type: plugin
-updated: '2025-01-07T06:38:55'
+updated: '2025-01-16T07:35:40'
 url: https://github.com/technerium/obsidian-vault-size-history
-version: 1.1.4
+version: 1.1.5
 ---
 
 %% README_START %%
@@ -46,6 +46,16 @@ Examples of supported formats:
 - mm/dd/yyyy - 01/28/2024
 - m/d/yy - 1/28/24
 - yyyy-mm-dd - 2024-01-28
+
+### Legend Sorting Order
+
+This setting controls the order in which line titles are displayed. It allows you to choose how the legend entries are organized based on the chart values. 
+
+The two options available are:
+
+**Ascending Value**: In this option, the legend entries are sorted so that the lines with the lowest chart values appear first. This means that as you read the legend from left to right, the values represented by each line increase.
+
+**Descending Value**: In this option, the legend entries are sorted so that the lines with the highest chart values appear first. This means that as you read the legend from left to right, the values represented by each line decrease.
 
 ### File categories
 

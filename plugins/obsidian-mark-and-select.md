@@ -5,7 +5,7 @@ author:
 - '[[authors/anselmwang|Yu Wang]]'
 categories: []
 description: More flexible ways to select texts in Obsidian Editor
-downloads: 4150
+downloads: 4167
 mobile: true
 number: 443
 stars: 11

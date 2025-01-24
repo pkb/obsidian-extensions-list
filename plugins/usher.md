@@ -5,10 +5,10 @@ author:
 - '[[authors/vrtmrz|vorotamoroz]]'
 categories: []
 description: The overridden config directory manager
-downloads: 77
+downloads: 92
 mobile: true
 number: 2062
-stars: 1
+stars: 2
 title: Usher
 type: plugin
 updated: '2024-12-03T15:36:14'

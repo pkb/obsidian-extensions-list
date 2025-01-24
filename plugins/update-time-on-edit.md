@@ -5,10 +5,10 @@ author:
 - '[[authors/beaussan|@beaussan]]'
 categories: []
 description: Keep front matter in sync with the last edit time
-downloads: 46061
+downloads: 46850
 mobile: true
 number: 307
-stars: 173
+stars: 174
 title: Update time on edit
 type: plugin
 updated: '2024-01-11T18:35:10'

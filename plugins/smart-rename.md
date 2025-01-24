@@ -5,15 +5,15 @@ author:
 - '[[authors/mnaoumov|mnaoumov]]'
 categories: []
 description: Renames notes keeping previous title in existing links
-downloads: 5604
+downloads: 5829
 mobile: true
 number: 894
-stars: 27
+stars: 29
 title: Smart Rename
 type: plugin
-updated: '2024-12-27T11:03:49'
+updated: '2025-01-21T23:39:55'
 url: https://github.com/mnaoumov/obsidian-smart-rename
-version: 2.0.5
+version: 2.0.8
 ---
 
 %% README_START %%
@@ -80,6 +80,18 @@ Current plugin's aim is to preserve `OldName` display text in links 1, 2, 4
 
 - `Smart Rename` is available on [the official Community Plugins repository](https://obsidian.md/plugins?id=smart-rename).
 - Beta releases can be installed through [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+## Debugging
+
+By default, debug messages for this plugin are hidden.
+
+To show them, run the following command:
+
+```js
+window.DEBUG.enable('smart-rename');
+```
+
+For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils?tab=readme-ov-file#debugging).
 
 ## Support
 

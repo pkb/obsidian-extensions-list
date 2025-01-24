@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Export notes to Quarto-compatible QMD files.
-downloads: 178
+downloads: 204
 mobile: true
 number: 1946
-stars: 18
+stars: 22
 title: Quarto Exporter
 type: plugin
 updated: '2024-11-01T04:40:18'

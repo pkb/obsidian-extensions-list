@@ -9,7 +9,7 @@ description: AI Assistant for selected text and generating content with Markdown
   Shortcuts and quick action buttons provide instant AI assistance. It provides a
   high availability API for unlimited Chat GPT request rates, so you can ensure smooth
   work for any workload.
-downloads: 465
+downloads: 480
 mobile: true
 number: 1694
 stars: 9

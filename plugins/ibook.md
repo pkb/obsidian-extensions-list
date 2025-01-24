@@ -5,7 +5,7 @@ author:
 - '[[authors/bingryan|bingryan]]'
 categories: []
 description: plugin for apple ibook.
-downloads: 12074
+downloads: 12148
 mobile: false
 number: 826
 stars: 72

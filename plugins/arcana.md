@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: A collection of AI powered tools
-downloads: 7351
+downloads: 7384
 mobile: false
 number: 954
-stars: 103
+stars: 104
 title: Arcana
 type: plugin
 updated: '2024-12-03T18:23:39'

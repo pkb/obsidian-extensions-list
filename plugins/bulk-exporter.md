@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Export|Export]]'
 description: Use Dataview queries to export a set of notes with assets
-downloads: 4983
+downloads: 5019
 mobile: false
 number: 1020
-stars: 21
+stars: 22
 title: Bulk Exporter
 type: plugin
 updated: '2024-10-24T20:35:51'

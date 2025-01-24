@@ -5,7 +5,7 @@ author:
 - '[[authors/twentytwokhz|Florin Bobis]]'
 categories: []
 description: Inserts random quotes in the editor
-downloads: 11689
+downloads: 11919
 mobile: true
 number: 327
 stars: 42

@@ -7,10 +7,10 @@ categories:
 - '[[categories/Data management|Data management]]'
 description: 'For data quality enthusiasts (and dataview users): manage the metadata
   of your notes.'
-downloads: 165439
+downloads: 166889
 mobile: true
 number: 564
-stars: 544
+stars: 551
 title: Metadata Menu
 type: plugin
 updated: '2024-03-25T00:23:32'

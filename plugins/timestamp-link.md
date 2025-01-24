@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Copy timestamped links to blocks, headings and notes.
-downloads: 2542
+downloads: 2553
 mobile: true
 number: 1252
 stars: 3

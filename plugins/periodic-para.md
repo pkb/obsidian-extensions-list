@@ -7,10 +7,10 @@ categories:
 - '[[categories/Workflows]]'
 description: Life management system(Assist in practicing the PARA method with periodic
   notes and usememos).
-downloads: 27125
+downloads: 27678
 mobile: true
 number: 1031
-stars: 388
+stars: 395
 title: LifeOS
 type: plugin
 updated: '2024-12-31T06:10:53'

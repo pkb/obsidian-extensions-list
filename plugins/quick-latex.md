@@ -6,7 +6,7 @@ author:
 categories: []
 description: Speedup latex math typing with auto fraction, custom shorthand, align
   block shortcut, matrix shortcut...etc
-downloads: 172867
+downloads: 174126
 mobile: true
 number: 304
 stars: 328

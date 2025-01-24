@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Code and development|Code and development]]'
 description: Run ruby code in your notes using WebAssembly
-downloads: 194
+downloads: 204
 mobile: true
 number: 1633
 stars: 7

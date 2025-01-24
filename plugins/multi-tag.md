@@ -6,7 +6,7 @@ author:
 categories: []
 description: Adds a tag to multiple notes at once.  Either right-click a folder, or
   select multiple notes and right-click the selection.
-downloads: 10530
+downloads: 10824
 mobile: false
 number: 1082
 stars: 17

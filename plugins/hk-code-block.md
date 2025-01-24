@@ -6,7 +6,7 @@ author:
 categories: []
 description: Obsidian plugin developed by Heekang Park; Make code block looking good
   on reading view
-downloads: 6953
+downloads: 7058
 mobile: true
 number: 890
 stars: 64

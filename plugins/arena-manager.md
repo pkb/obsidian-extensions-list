@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Publish content from your vault to Arena and the other way around.
-downloads: 275
+downloads: 290
 mobile: true
 number: 1762
-stars: 40
+stars: 43
 title: Are.na Manager
 type: plugin
 updated: '2024-08-19T02:42:20'

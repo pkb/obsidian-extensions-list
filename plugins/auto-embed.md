@@ -5,10 +5,10 @@ author:
 - '[[authors/GnoxNahte|GnoxNahte]]'
 categories: []
 description: Helps to embed links using markdown instead of iframe
-downloads: 5165
+downloads: 5423
 mobile: true
 number: 1561
-stars: 22
+stars: 24
 title: Auto Embed
 type: plugin
 updated: '2024-12-24T11:02:16'

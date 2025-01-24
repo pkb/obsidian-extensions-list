@@ -7,15 +7,15 @@ categories: []
 description: Enhances right-click menu and global command with direct links to blocks
   and titles, adds support for multi-line blockquotes, and offers extensive customization
   options for block IDs.
-downloads: 960
+downloads: 1208
 mobile: true
 number: 1842
-stars: 9
+stars: 15
 title: Block Link Plus
 type: plugin
-updated: '2025-01-04T10:45:36'
+updated: '2025-01-10T13:07:04'
 url: https://github.com/Jasper-1024/block-link-plus
-version: 1.2.0
+version: 1.2.3
 ---
 
 %% README_START %%
@@ -100,6 +100,13 @@ Block ID = prefix-random characters
 This feature currently does not have more practical uses, but perhaps more aggregation operations can be performed through the prefix of the block ID.
 
 ## Changelog
+
+### 1.2.3
+- Improved multi-line block handling, especially for list items
+- Enhanced alias generation for multi-line blocks
+- Added configurable notifications for block link copying
+- Fixed list block ID handling and positioning
+- Improved selected text handling for aliases
 
 ### 1.2.0
 - Reorganized settings menu structure for better usability

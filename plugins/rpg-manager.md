@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Games|Games]]'
 description: Manage your Tabletop Role Playing Game Campaigns in Obsidian
-downloads: 27361
+downloads: 27932
 mobile: true
 number: 589
-stars: 167
+stars: 168
 title: RPG Manager
 type: plugin
 updated: '2023-12-21T20:11:14'

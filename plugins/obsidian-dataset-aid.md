@@ -6,7 +6,7 @@ author:
 categories: []
 description: This plugin for obsidian aids in the creation of fine-tuning datasets
   for language models.
-downloads: 3632
+downloads: 3637
 mobile: false
 number: 710
 stars: 37

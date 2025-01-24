@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/UI customization|UI customization]]'
 description: Additional hotkeys to do common things in Obsidian
-downloads: 83175
+downloads: 83576
 mobile: true
 number: 2
 stars: 120

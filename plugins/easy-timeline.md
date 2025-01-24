@@ -6,15 +6,15 @@ author:
 categories: []
 description: Simplifies creating and visualizing timelines from text using dates and
   metadata
-downloads: 24
+downloads: 278
 mobile: true
 number: 2109
-stars: 1
+stars: 2
 title: Easy Timeline
 type: plugin
-updated: '2024-12-29T19:29:47'
+updated: '2025-01-22T16:08:44'
 url: https://github.com/Romelium/obsidian-easy-timeline
-version: 1.0.5
+version: 1.1.0
 ---
 
 %% README_START %%
@@ -51,6 +51,41 @@ That's all! The timeline block will automatically be processed, and each section
 ![basic](https://raw.githubusercontent.com/Romelium/obsidian-easy-timeline/HEAD/images/basic.png)
 
 ### A Bit More
+
+#### Block Content
+
+You can either format it this way, where the timeline block renders content using the text outside the block:  
+
+````md
+Today. Slow breakfast. Organized, felt good. Watched a space doc, had veggies and quinoa.
+
+Tomorrow. Quick jog. Worked on a project. Dinner with friends.
+
+Dec 31. Walked, reflected. Last-minute shopping. Celebrated with friends.
+
+Jan 1. Slept in, journaled. Walked, read. Quiet night, healthy meal, episodes.
+
+Jan 2. Made a plan. Caught up on emails, watched snow. Tried chili, read.
+
+```timeline
+```
+````
+
+Or, you can format it this way, by placing the content inside the block. However, this approach does not allow you to use [explicit settings](#customizing-the-source-block):  
+
+````md
+```timeline
+Today. Slow breakfast. Organized, felt good. Watched a space doc, had veggies and quinoa.
+
+Tomorrow. Quick jog. Worked on a project. Dinner with friends.
+
+Dec 31. Walked, reflected. Last-minute shopping. Celebrated with friends.
+
+Jan 1. Slept in, journaled. Walked, read. Quiet night, healthy meal, episodes.
+
+Jan 2. Made a plan. Caught up on emails, watched snow. Tried chili, read.
+```
+````
 
 #### Dates
 
@@ -149,6 +184,12 @@ or
 sort: Descending
 ```
 ````
+
+## Issues, Bugs, and Feature Requests
+
+If you’ve found a bug, have an idea for a feature, or want to share feedback, please let me know by [opening an issue](https://github.com/Romelium/obsidian-easy-timeline/issues).
+
+I’ll do my best to get back to you quickly.
 
 ## Funding
 

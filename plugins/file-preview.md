@@ -5,13 +5,13 @@ author:
 - '[[authors/xhuajin|Huajin]]'
 categories: []
 description: Add file preview contents under file in file explorer.
-downloads: 1832
+downloads: 1974
 mobile: true
 number: 1676
 stars: 17
 title: File Preview
 type: plugin
-updated: '2024-10-22T23:45:25'
+updated: '2025-01-09T20:15:25'
 url: https://github.com/xhuajin/obsidian-file-preview
 version: 1.1.3
 ---

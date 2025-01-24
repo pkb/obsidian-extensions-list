@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Sorting your TODOs (checkboxes) in current note by completion status.
-downloads: 222
+downloads: 278
 mobile: true
 number: 1994
-stars: 3
+stars: 4
 title: Todos sort
 type: plugin
 updated: '2024-11-06T03:01:37'

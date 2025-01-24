@@ -5,10 +5,10 @@ author:
 - '[[authors/dhamaniasad|Asad Dhamani]]'
 categories: []
 description: Rich Links plugin for Obsidian.
-downloads: 26731
+downloads: 26971
 mobile: true
 number: 260
-stars: 125
+stars: 126
 title: Rich Links
 type: plugin
 updated: '2023-05-01T21:33:27'

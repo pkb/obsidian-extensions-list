@@ -6,10 +6,10 @@ author:
 categories: []
 description: Automatically fetches metadata from a url and makes it as a card-styled
   link
-downloads: 40106
+downloads: 41426
 mobile: true
 number: 506
-stars: 212
+stars: 213
 title: Auto Card Link
 type: plugin
 updated: '2024-02-24T12:47:20'

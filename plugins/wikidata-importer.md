@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Import data from Wikidata into your vault.
-downloads: 4643
+downloads: 4684
 mobile: true
 number: 1076
 stars: 29

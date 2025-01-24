@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Appearence|Appearence]]'
 description: Active POWER MODE!!!!
-downloads: 1431
+downloads: 1447
 mobile: true
 number: 1693
-stars: 28
+stars: 29
 title: POWER MODE
 type: plugin
 updated: '2024-08-15T12:46:02'

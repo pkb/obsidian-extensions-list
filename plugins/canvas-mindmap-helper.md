@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Mind mapping|Mind mapping]]'
 description: Make the Canvas work like a mindmap
-downloads: 4156
+downloads: 4271
 mobile: true
 number: 1473
 stars: 20

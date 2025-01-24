@@ -5,10 +5,10 @@ author:
 - '[[authors/decaf-dev|DecafDev]]'
 categories: []
 description: Explore your vault in visual format
-downloads: 9411
+downloads: 9748
 mobile: false
 number: 1652
-stars: 137
+stars: 150
 title: Vault Explorer
 type: plugin
 updated: '2024-09-14T07:59:19'

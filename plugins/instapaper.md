@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Instapaper integration.
-downloads: 4515
+downloads: 4661
 mobile: true
 number: 1364
-stars: 38
+stars: 39
 title: Instapaper
 type: plugin
 updated: '2024-11-16T23:42:07'

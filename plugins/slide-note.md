@@ -5,7 +5,7 @@ author:
 - '[[authors/Phantom1003|Jinyan Xu]]'
 categories: []
 description: Conveniently take notes on PDF course slides :P
-downloads: 8982
+downloads: 9072
 mobile: true
 number: 921
 stars: 43

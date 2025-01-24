@@ -7,7 +7,7 @@ categories:
 - '[[categories/Date and calendar|Date and calendar]]'
 description: Customize the language used for datetime formatting by changing moment.js's
   locale.
-downloads: 2305
+downloads: 2322
 mobile: true
 number: 1277
 stars: 4

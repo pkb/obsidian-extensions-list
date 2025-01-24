@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Sharing and publishing|Sharing and publishing]]'
 description: Create a Stashpad Doc from your notes.
-downloads: 172
+downloads: 175
 mobile: true
 number: 1665
 stars: 5

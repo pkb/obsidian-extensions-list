@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Task management|Task management]]'
 description: Provides a button in the ribbon to hide or display completed tasks
-downloads: 39091
+downloads: 39988
 mobile: true
 number: 68
-stars: 32
+stars: 33
 title: Completed Task Display
 type: plugin
 updated: '2023-04-14T03:44:40'

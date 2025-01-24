@@ -5,10 +5,10 @@ author:
 - '[[authors/cycsd|cycsd]]'
 categories: []
 description: Help you quickly extract your thoughts in the Canvas and Excalidraw
-downloads: 5330
+downloads: 5493
 mobile: true
 number: 1442
-stars: 30
+stars: 31
 title: CardNote
 type: plugin
 updated: '2024-08-03T23:25:41'

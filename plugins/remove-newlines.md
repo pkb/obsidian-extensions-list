@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Remove newlines or blank lines from selected or pasted text.
-downloads: 809
+downloads: 904
 mobile: true
 number: 1764
-stars: 5
+stars: 6
 title: Remove Newlines
 type: plugin
 updated: '2024-11-05T03:47:53'

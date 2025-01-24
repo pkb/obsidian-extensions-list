@@ -5,10 +5,10 @@ author:
 - '[[authors/inhumantsar|inhumantsar]]'
 categories: []
 description: Slurps webpages and saves them as clean, uncluttered Markdown.
-downloads: 10444
+downloads: 10892
 mobile: true
 number: 1569
-stars: 183
+stars: 193
 title: Slurp
 type: plugin
 updated: '2024-12-11T05:51:54'

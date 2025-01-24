@@ -7,10 +7,10 @@ categories: []
 description: A powerful indexing & referencing system for theorems & equations in
   your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic
   equation numbering, and more.
-downloads: 17664
+downloads: 18169
 mobile: true
 number: 1122
-stars: 185
+stars: 188
 title: LaTeX-like Theorem & Equation Referencer
 type: plugin
 updated: '2023-12-09T23:30:14'

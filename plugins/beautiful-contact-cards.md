@@ -7,10 +7,10 @@ categories:
 - '[[categories/Appearence|Appearence]]'
 description: Renders "contact" code blocks with tappable links for phone, social media,
   etc.
-downloads: 251
+downloads: 310
 mobile: true
 number: 2012
-stars: 2
+stars: 3
 title: Beautiful Contact Cards
 type: plugin
 updated: '2024-11-15T04:04:23'

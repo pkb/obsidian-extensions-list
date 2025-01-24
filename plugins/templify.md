@@ -5,7 +5,7 @@ author:
 - '[[authors/quorafind|Boninall]]'
 categories: []
 description: (Closed Source) Multi layout for one note.
-downloads: 2295
+downloads: 2364
 mobile: true
 number: 1688
 stars: 56

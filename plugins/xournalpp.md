@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Annotations and highlights|Annotations and highlights]]'
 description: Integration with Xournal++ for handwritten notes and annotations.
-downloads: 2113
+downloads: 2278
 mobile: false
 number: 1746
-stars: 22
+stars: 23
 title: Xournal++
 type: plugin
-updated: '2024-12-16T17:25:58'
+updated: '2025-01-23T22:07:08'
 url: https://github.com/jonjampen/obsidian-xournalpp
-version: 1.0.10
+version: 1.0.11
 ---
 
 %% README_START %%

@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Integration|Integration]]'
 description: Sync your Apple Books highlights automatically
-downloads: 5364
+downloads: 5398
 mobile: false
 number: 810
-stars: 44
+stars: 45
 title: Apple Books Highlights
 type: plugin
 updated: '2023-03-12T21:54:45'

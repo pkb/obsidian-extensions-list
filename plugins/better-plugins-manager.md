@@ -5,15 +5,15 @@ author:
 - '[[authors/0011000000110010|zero]]'
 categories: []
 description: 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。
-downloads: 17
+downloads: 886
 mobile: false
 number: 2112
-stars: 4
+stars: 12
 title: Better Plugins Manager
 type: plugin
-updated: '2024-12-21T11:15:37'
+updated: '2025-01-17T15:41:15'
 url: https://github.com/0011000000110010/obsidian-manager
-version: 0.0.2
+version: 0.1.3
 ---
 
 %% README_START %%
@@ -26,6 +26,11 @@ version: 0.0.2
 	<img src="https://img.shields.io/github/issues/0011000000110010/obsidian-manager" alt="GitHub issues" />
 	<img src="https://img.shields.io/github/stars/0011000000110010/obsidian-manager?style=social" alt="GitHub stars" />
 </div>
+
+<div align="center">
+  <img src="https://github.com/0011000000110010/obsidian-manager/blob/main/img/index.png" alt="Obsidian Iconize">
+</div>
+
 
 [简体中文](https://github.com/0011000000110010/obsidian-manager/blob/main/README_CN.md) | English
 
@@ -43,14 +48,5 @@ In the ecosystem of Obsidian, plugins play a key role in expanding functionality
 - **Group Management**: BPM introduces group management functionality, allowing you to logically group plugins for easier management 和 quick access, enhancing work efficiency.
 - **Tagging Management**: BPM enables you to add personalized tags to plugins, whether by function, frequency of use, or personal categorization, making your plugin management more organized.
 - **Advanced Search**: BPM offers an advanced search feature, allowing you to quickly locate the plugins you need, whether by name, group, or tag, making it easy to find them.
-
-## screenshot of the interface
-
-![image](https://github.com/0011000000110010/obsidian-manager/blob/main/img/1.png)
-
-![image](https://github.com/0011000000110010/obsidian-manager/blob/main/img/2.png)
-
-![image](https://github.com/0011000000110010/obsidian-manager/blob/main/img/3.png)
-
 
 %% README_END %%

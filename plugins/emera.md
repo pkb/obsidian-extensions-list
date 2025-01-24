@@ -6,7 +6,7 @@ author:
 categories: []
 description: Enables you to use custom React components and inline JavaScript, kinda
   like MDX.
-downloads: 377
+downloads: 401
 mobile: true
 number: 1852
 stars: 20

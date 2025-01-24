@@ -9,15 +9,15 @@ categories:
 description: A plugin to help you plan your day and setup pomodoro timers; fork of
   the original plugin by James Lynch (which stopped at 0.5.8) which preserves the
   look/feel and behavior of the original.
-downloads: 16392
+downloads: 17073
 mobile: true
 number: 1134
-stars: 117
+stars: 121
 title: Day Planner (OG)
 type: plugin
-updated: '2024-12-19T19:59:28'
+updated: '2025-01-09T19:20:35'
 url: https://github.com/ebullient/obsidian-day-planner-og
-version: 0.6.2
+version: 0.6.3
 ---
 
 %% README_START %%

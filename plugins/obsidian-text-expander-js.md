@@ -6,10 +6,10 @@ author:
 categories: []
 description: Type text shortcuts which are then replaced with JavaScript generated
   text.
-downloads: 13109
+downloads: 13195
 mobile: true
 number: 563
-stars: 137
+stars: 139
 title: Inline Scripts
 type: plugin
 updated: '2022-12-13T11:17:25'

@@ -9,7 +9,7 @@ description: 'Allows to execute code snippets within a note. Supported programmi
   languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript,
   Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell,
   Scala, Racket, F#, Batch, Shell & Powershell.'
-downloads: 96449
+downloads: 98547
 mobile: false
 number: 493
 stars: 1200

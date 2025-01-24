@@ -6,10 +6,10 @@ author:
 categories: []
 description: Thoughts as river, notes as chain. Add prev and next notes to a notes,
   and order files by the chain in File Explorer.
-downloads: 1539
+downloads: 1625
 mobile: true
 number: 1640
-stars: 14
+stars: 15
 title: Note Chain
 type: plugin
 updated: '2025-01-05T17:06:49'

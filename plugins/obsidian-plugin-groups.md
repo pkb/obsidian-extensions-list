@@ -8,7 +8,7 @@ categories:
 description: 'Manage your Plugins through groups: Enable and disable multiple plugins
   through a single command, or delay the startup of plugins to speed up your Obsidian
   start up time.'
-downloads: 26506
+downloads: 26812
 mobile: true
 number: 765
 stars: 134

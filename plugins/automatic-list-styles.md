@@ -7,7 +7,7 @@ categories:
 - '[[categories/Note editing and formatting|Note editing and formatting]]'
 description: Automatically formats the styles of ordered lists, incrementing the list
   style for each layer
-downloads: 5664
+downloads: 5751
 mobile: true
 number: 964
 stars: 16

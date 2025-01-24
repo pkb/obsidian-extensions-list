@@ -7,7 +7,7 @@ categories:
 - '[[categories/AI assistance|AI assistance]]'
 description: Generate audio transcripts, images, and text in context of PDF attachments
   or web search results using OpenAI (ChatGPT) and Bing API.
-downloads: 14657
+downloads: 14893
 mobile: true
 number: 856
 stars: 86

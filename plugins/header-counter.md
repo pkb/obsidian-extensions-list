@@ -5,7 +5,7 @@ author:
 - '[[authors/nancyel|Nancy Lee]]'
 categories: []
 description: Count the number of headers in the current note
-downloads: 185
+downloads: 196
 mobile: true
 number: 1679
 stars: 0

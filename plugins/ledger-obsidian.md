@@ -5,10 +5,10 @@ author:
 - '[[authors/tgrosinger|Tony Grosinger]]'
 categories: []
 description: Plain text accounting
-downloads: 28635
+downloads: 29093
 mobile: true
 number: 8
-stars: 439
+stars: 444
 title: Ledger
 type: plugin
 updated: '2024-05-22T21:36:20'

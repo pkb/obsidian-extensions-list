@@ -7,29 +7,36 @@ categories:
 - '[[categories/Spaced repetition|Spaced repetition]]'
 description: Randomly exposes you to notes from your vault. Supports habits, to-dos,
   spaced repetition flashcards, iterative reading and more.
-downloads: 993
+downloads: 1002
 mobile: true
 number: 1691
 stars: 30
 title: The Queue
 type: plugin
-updated: '2024-06-19T01:02:29'
+updated: '2025-01-21T16:24:42'
 url: https://github.com/koljapluemer/obsidian-the-queue
-version: 2.0.1
+version: 2.0.2
 ---
 
 %% README_START %%
 
 # Obsidian — The Queue
 
-![collage of UI examples in the Queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD//doc/img/project.png)
-
 There is no point in creating notes you never see again! 
-
 
 *The Queue* is a plugin for [Obsidian.md]() that shows you random notes from your vault, one at a time. You can configure your notes to function as habits, flashcards, iterative reading prompts, to-dos and more.
 
-## What The Queue can help you with
+It does this by simply opening a floating button bar in the corner, which allows you to react to the currently open note, and then get another note.
+
+> [!NOTE]  
+> You are reading the documentation of The Queue 2, an all-new version recently released.
+> I implemented some fundamental changes.
+> If you're looking for the old documentation, see [here](OLD_README.md).
+> If you used the previous version, you have to do nothing, although it is recommended to redesign your `learn` notes as described below. 
+
+
+
+## What *The Queue* can help you with
 
 1. Overcoming favorite & forget
 2. Gradually building up a genuine Zettelkasten
@@ -43,7 +50,11 @@ There is no point in creating notes you never see again!
 
 ## Installation
 
-*The Queue* is not yet available through the `Community Plugins` tab in Obsidian (WIP). You must install it manually:
+### As Community Plugin
+
+*The Queue* is available as a community plugin, so you can install it like every other plugin.
+
+### Manual
 
 1. Download this repository as a `.zip` file and unzip
 2. Locate your Obsidian plugin folder and copy the project folder there
@@ -52,17 +63,12 @@ There is no point in creating notes you never see again!
 If any of these steps cause you trouble, refer to *Method 2* in [this excellent installation guide](https://www.makeuseof.com/install-obsidian-plugins/).
 
 
-*Obligatory warning: This plugin works by editing the metadata/frontmatter of your notes. We took steps to avoid interference with existing workflows or settings, but if this sounds scary to you, we recommend you backup of your vault, as well as read this documentation carefully.*
-
 ## Get Started
 
-1. Select the little die icon in your ribbon. (![queue icon](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/queue.png))
-2. You are in your queue, have fun!
-
+1. Select the little icon in your ribbon. (![queue icon](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/queue.png))
+2. You are in your queue, have fun! Go to the next note by selecting any of the buttons in the bar on the bottom.
 
 ## Usage, Features and Functionality
-
-(in detail)
 
 ### Frontmatter Settings
 
@@ -71,78 +77,31 @@ If any of these steps cause you trouble, refer to *Method 2* in [this excellent 
 
 If you never heard of frontmatter, I recommend [this excellent introduction](https://notes.nicolevanderhoeven.com/obsidian-playbook/Using+Obsidian/03+Linking+and+organizing/YAML+Frontmatter). 
 
-*The Queue* uses a bunch of frontmatter properties, **all of them optional**. As a rule, they start with `q-`. This is an attempt to avoid clashes with other plugins or workflows that use otherwise similarly named properties.
 
-Below is an example note with all properties that *The Queue* can interpret.
-
-```
----
-q-type: habit
-q-interval: 3
-q-priority: 5
-q-keywords: 
-  - at home
-  - break
-q-topic: Home Exercise
-q-data:
-  due-at: 2024-02-26T03:00:00.000Z
-aliases: 
-  - Situp Habit
----
-
-Do (at least) 3 sit-ups. Go!
-```
-
-Here is an overview of all properties and what they're used for:
-
-| Frontmatter Property | Possible Values | Usage/Meaning |
-| --- | --- | --- |
-| `q-type` | *see [Types of notes](#types-of-notes)* | Determines how the note will be treated and which buttons you see. *Most important*.
-| `q-interval` | any positive number (like `3`, or `0.2`) | How often a note will show up, measured in days. 
-| `q-priority` | any number | Whether this note will be prioritized compared to other notes due at the same time — the higher the value, the more likely it will be picked.
-| `q-keywords` | text, or an array of text | *see [Filtering](#filter-notes-in-your-queue)*
-| `q-topic` | any text | Additional text that will show up on the top right of the note when it is displayed in the queue. As of now, purely visual.
-| `q-data` | — | An object used to keep track of various values that are internally relevant to *The Queue*. Unless you are transferring notes from another system, you will never have to touch this.
-
-Again, all of these properties are optional. You can set some, all or none of them. For examples, this is also a completely valid note that will be understood by *The Queue*:
+To define how a note should be treated by *The Queue*, you set the `q` property in the frontmatter, for example:
 
 ```
 ---
-q-priority: 15
-q-topic: being present
+q:
+  template: habit
+  interval: 3
 ---
 
-I like watching the clouds pass by.
+Clean your desk
 
 ```
 
-Which properties you need depends highly on what kind of note you are creating (as determined by `q-note`). In the next chapter, you will learn about all the different types of notes in *The Queue*. 
+For most note types, you set only the `template`, for some, you may also want to set the desired `interval` in days. All possible templates are described below.
+If you don't set an interval, a default interval of 1 day is assumed.
 
-### Types of notes
 
-Setting `q-type` in the frontmatter of a note will tell *The Queue* how to treat it — is it a habit? A to-do? A learning flashcard?
+### Types of Notes
 
-First of all, here is a list of all `q-type`s that *The Queue* is aware of:
-
-|  `q-type` value  | Note Type | Treatment |
-| --- | --- | --- |
-| `learn` | Learning Flashcard | A Spaced-Repetition flashcard where you initially only see the front side. |
-| `todo` | To-Do | A task that you only have to do once. Will be hidden once it's finished.
-| `habit` | Habit Prompt | A recurring habit that you want to establish. Will prompt you to do the task on the note every time it comes up. |
-| `check` | Check-In | Like a habit, but phrased as a question and looking back. It's a bit hard to explain but very useful. |
-| `article` | Article | Something like a blog post or similar mid-sized content. Will prompt you to read a bit everyday until you are done. |
-| `book` | Book | A book on your reading list. Will also prompt you to read daily, but *The Queue* will limit the books that you read simultaneously. |
-| `misc` | Miscellaneous | Just...some kind of note. Basically just shows up and you say 'ok'. |
-| value not set, or none of the above | " " | Treated like `misc`. All your notes are of type `misc`, unless you specify otherwise.| 
-| `exclude` | Excluded Note | This note will not show up in the queue. |
-
-*There are some additional types used internally. See [here](#additional-secret-types) if that interests you.*
-
-In the following chapters, you will learn about every type of note in detail. At the end, you can customize how notes will show up in your queue to your heart's desire.
+You can set `template` to the following values: `misc`, `learn`, `habit`, `check`, `todo`, `longmedia`, `shortmedia` and `exclude`.
 
 #### Standard notes / Miscellaneous / Default
 
-If a note has no `q-type`, an invalid one, or `misc`, it will be handled as shown here.
+If a note has no `template`, an invalid one, or `template: misc`, it will be handled as shown here.
 
 ##### Useful for...
 
@@ -151,36 +110,27 @@ If a note has no `q-type`, an invalid one, or `misc`, it will be handled as show
 3. paintings, memes, silly things
 4. photos that you took; memories
 
-##### Examples
-
-1. A valid note with no frontmatter (treated as `misc`)
-
-`The Eruption of Vesuvius.md`
+##### Example
 
 ```
+> Everything worth doing is worth doing badly
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/I.C.Dahl_Vesuv.jpg/1024px-I.C.Dahl_Vesuv.jpg)
 ```
-![](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/misc_1.png)
-
-
-2. A valid note with `q-type: misc` said explicitly, no content besides the name, given a [priority value](#priority).
-
-`"Whom the gods wish to destroy, they give unlimited resources".md`
 
 ```
 ---
-q-priority: -20
-q-type: misc
-
+q:
+  template: misc
 ---
+
+> Everything worth doing is worth doing well
+
 ```
 
-![](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/misc_2.png)
 
-When you encounter a `misc` note in your vault, you have the option to select **Show Less Often**, **Ok, Cool** and **Show More Often**. The two outer buttons decrement/increment the note's [priority](#priority) so that it will come up less/more in the future.
+#### Learning/Spaced Repetition
 
-#### Learning flashcards
+To memorize notes, use `template: learn`.
 
 ##### Useful for...
 
@@ -190,78 +140,25 @@ When you encounter a `misc` note in your vault, you have the option to select **
 
 ##### Examples
 
-- For simple notes, *The Queue* will interpret the name of the note as the front (the question) and the note's content as the back side (the solution). See below:
-
-`I like cold pizza.md`
-
 ```
 ---
-q-type: learn
+q:
+  template: learn
 ---
 
-Mi piace la pizza fredda
+> [!faq]- What is the capital of Italy?
+> Rome
 ```
 
-![Screenshot of the generated QueueNote from the file above](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/learn_1.png)
+It highly recommended that you use a collapsed [callout](https://help.obsidian.md/Editing+and+formatting/Callouts) to first hide the information that you want to memorize.
 
-- It is also possible to define the front and the back side of the flashcard within the note's content
-- As you can see below, there is nothing stopping you from putting additional content on a flashcard
-
-`Vienna Secession Period.md`
-
-```
----
-q-type: learn
----
-
-The [[Vienna Secession]] started ＿ and ended 1905.
-
----
-
-1897
-
-- → [[design-periods]], [[Vienna]]
-- *remember*: just around the turn of the century
-```
-
-![Screenshot of the learning flashcard above in the Queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/learn_2.png)
-
-##### Functionality
-
-*under construction*. Learning card system was recently switched from ebisu to FSRS.
+So, the flow is: Read the question, try to remember the answer, expand the callout, check the answer and select `Wrong`, `Hard`, `Correct` or `Easy`.
 
 
-
-#### To-Dos
-
-To-dos are marked by setting `q-type: todo` in the frontmatter.
-
-##### Useful for...
-
-1. tasks that you have to do once
-
-#### Example
-
-Here is an example:
-
-`finalize documentation.md`
-```
----
-q-type: todo
----
-
-→ finish documentation of The Queue
-```
-
-
-![screenshot of note above in the queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/todo_1.png)
-
-
-Once you select **Completed**, it will not show up again. Whereas if you select **Not today**, you will see the note the next day, while **Later** delays for 10 minutes.
 
 #### Habits 
 
-Habits are a lot like to-dos — however, they are recurring. You set them with `q-type: habit`.
+Habits are a lot like to-dos — however, they are recurring. You set them with `template: habit`.
 
 ##### Useful for...
 
@@ -271,61 +168,18 @@ Habits are a lot like to-dos — however, they are recurring. You set them with 
 4. staying on top of social obligations and relationships (e.g. *convert at least 1 email in your inbox to a to-do and delete it*)
 5. almost any kind of habit that you want to establish, honestly
 
-##### Examples
-
-Here is a habit note that will show up every 3 days:
-
-`Tidy Desk Habit.md`
+##### Example
 
 ```
 ---
-q-type: habit
-q-interval: 3
+q:
+  template: habit
+  interval: 7
 ---
 
-- clear your desk
-	- only laptop, glass of water, notebook and potted plant are allowed on it
-```
-
-![screenshot of the above note in queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/habit_1.png)
-
-As you can see, the interval (=how often you are prompted) is set by `q-interval` and measured in days. For habits, setting `q-interval` is recommended, but not required — if it's not set, *The Queue* will show the habit once a day.
-
-###### Habits with short intervals
-
-You can set `q-interval` to any number larger than zero, even really small ones. For example, the following habit will be due roughly every 20 minutes.
+Clear out email inbox
 
 ```
----
-q-type: habit
-q-interval: 0.014
----
-
-Take a deep, slow breath
-```
-
-We recommend not having too many habits with really short intervals since they can "clog" your queue. However, it's useful for certain habits, and of course you can adapt the interval at any time.
-
-###### Tracking many habits
-
-Different to many personal productivity systems, *The Queue* does not require you to actively remember habits, nor to check-off a list of them every day. Because of this, you can put hundreds of habits into your queue at little cost — if you so desire.
-
-Whether this makes sense depends on how long you engage with your queue every day. If you only look at half a dozen notes on an average day but have 50 active daily habits, you will of course not see all of them everyday. Depending on the habit in question, this may be be OK, or ruin the idea. Consider this carefully.
-
-As long as you're consistently checking your queue now and again, it's very convenient to add habits that are only due very rarely and thus easy to forget, like:
-
-```
----
-q-type: habit
-q-interval: 300
----
-
-call doctor for yearly check-up
-```
-
-I have quite a lot of those.
-
-To make sure that important habits are not drowned out, take a look at [setting note priorities](#priority).
 
 ##### Set yourself up for success with habits
 
@@ -345,7 +199,7 @@ Please be aware that all these are just cheap hacks, attempting to simplify the 
 
 And most importantly, know that *The Queue* can not replace human contact nor a mental health professional.
 
-#### Check-Ins 
+#### Check-Ins
 
 *Check-Ins* are a little bit strange, but very neat. They are like habits, but formulated as a question to yourself and usually looking at the past or the general state of things. Here a few examples:
 
@@ -363,18 +217,14 @@ And most importantly, know that *The Queue* can not replace human contact nor a 
 
 ```
 ---
-q-interval: 3
-q-priority: 10
-q-type: check
+q:
+  template: check
+  interval: 100
 ---
-[[office health]]
+
+are you happy with your desk setup?
+
 ```
-
-![screenshot of check note above in the queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/check_1.png)
-
-This check here will show up every three days, with fairly high [priority](#priority).
-
-Whether you answer **No**, **Kind of** or **Yes** actually makes no difference (except for [leech counting](#leech-improvement)). There is no score, it's just you checking in with yourself.
 
 ##### Be gentle & take care of yourself
 
@@ -386,184 +236,76 @@ If you choose to use `check` for these things, be gentle and kind. Set yourself 
 
 And please remember, *The Queue* can not replace human contact nor a mental health professional.
 
-#### Iterative Readings: Books and Articles
+#### To-Dos
 
-[Iterative Reading](https://en.wikipedia.org/wiki/Incremental_reading) is a method of getting through long reading lists. Instead of reading one article (or whatever) after another, you read everything "at the same time". *The Queue* makes this possible by randomly showing you articles you saved, prompting you to read a bit — it is up to you whether you stop after a sentence or a chapter. Bit by bit, you make progress, until you finished a given document. 
-
-To have a note show up in your queue in this manner, you have to set `article` or `book` as the `q-type`.
-
-As you can see in the examples, the two types are treated almost the same. The main difference is that *The Queue* limits the number of books you read at a time, while the number of current `article`s is unlimited.
+To-dos are marked by setting `template: todo` in the frontmatter.
 
 ##### Useful for...
 
-1. `article`:
+1. tasks that you have to do once
+
+#### Example
+
+```
+---
+q:
+  template: todo
+---
+
+open that letter from the bank lying on my desk
+
+```
+
+
+#### Media/Iterative Reading
+
+[Iterative Reading](https://en.wikipedia.org/wiki/Incremental_reading) is a method of getting through long reading lists. Instead of reading one article (or whatever) after another, you read everything "at the same time". *The Queue* makes this possible by randomly showing you articles you saved, prompting you to read a bit — it is up to you whether you stop after a sentence or a chapter. Bit by bit, you make progress, until you finished a given document. 
+
+To have a note show up in your queue in this manner, you have to set `template` to `shortmedia` or `longmedia`
+
+As you will see, the two types are treated almost the same. The difference is that *The Queue* limits the number of long media you consume at a time, while the number of active `shortmedia` is unlimited.
+
+
+##### Useful for...
+
+1. `shortmedia`:
   - blog posts
   - news articles
   - videos
   - (long-ish) emails
   - any kind of content that takes 1 - 45 minutes to consume and understand
-2. `book`:
-  - ...well, books
+2. `longmedia`:
+  - books
   - long-form video, including movies
-  - large essays
+  - long essays
   - any kind of content that feels like a project to get through
 
 ##### Examples
 
-###### Article
-
-`Monthly self-expansion project.md`
 ```
 ---
-q-type: article
+q:
+  template: longmedia
 ---
 
-- *formalia*:
-	- [[Derek Sivers]]
-	- https://sive.rs/exex
-
-> idea: [[~Every month, pick something you hate or know nothing about, and get to know it well]]
-
-- another recommendation for [[The First 20 Hours]]
-- very theoretical wishy-washy though, no actual report of how it went
+📖 Dune
 
 ```
 
-![screenshot of article note above in queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/article_1.png)
-
-As you can see, you can add notes about the article on the note. In fact, we heavily recommend this.
-
-
-Also, *note the difference between the buttons `Done` and `Finished`*! 
-1. `Done` means that the note will show up tomorrow again, prompting you to read a bit 
-2. `Finished` means that you finished the whole book or article, and it will now be treated as a [standard note](#standard-notes--miscellaneous--default)
-
-
-###### Book
-
-`Dune.md`
 ```
 ---
-q-type: book
+q:
+  template: shortmedia
 ---
+
+[📰 Everything Is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1)
 
 ```
 
-![screenshot of the note above in queue](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/book_1.png)
 
-When you have less than five active books, *The Queue* will randomly pick one of your `book`s and prompt you to start reading (which you can also decline by selecting **Not today**).
+#### Exclude
 
-If you want to add a book to your queue that you have already started to read, set `q-type: book-started`. 
-
-#### Leech Improvement 
-
-*[Leech](https://docs.ankiweb.net/leeches.html)* is a term from Anki, where it means a learning flashcard that you are repeatedly getting wrong. We use the term more expansively to mean:
-
-1. `learn` notes that you just can't memorize
-2. `habit`, `todo`, `book` and `article` notes where you repeatedly select **Not today**
-3. `check` notes where you often answer **No**.
-
-None of these is helpful; all of these are frustrating.
-
-For this reason, *The Queue* automatically detects leeches and will occasionally prompt you to redesign a leech note in certain ways. 
-
-This feature is fully automatic and you don't have to do any setup.
-
-
-#### Orphan Adoption
-
-[Linking in Obsidian](https://help.obsidian.md/Linking+notes+and+files/Internal+links) is extremely useful.
-
-To support you in this regard, *The Queue* detects  notes (of type [misc](#standard-notes--miscellaneous--default)) with no outgoing links and will occasionally prompt you to add connections such a note.
-
-Similar to [Leech Improvement](#leech-improvement), this feature is automatic and requires no setup from your side.
-
-
-##### Example
-
-![example of a prompt to add connections to an orphan note](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD//doc/img/orphan.png)
-
-Above is an example of *The Queue* prompting you to find connections for an orphaned note. As you can see, the note in question is not bad, but it's missing obvious links (like `[[CSS]]`) so it's unlikely that it will come up in relevant contexts.
-
-#### Note Improvement Prompt
-
-Additionally to orphan detection, *The Queue* also looks for the string `needs-improvement` anywhere on your notes.
-
-
-Generally, the idea is that you tag notes with `needs-improvement` whenever a problem catches your eye, without having to rectify the problem immediately. Problems could be anything like:
-
-1. missing meta-data
-2. missing quotations
-3. ugly layout
-4. note too long
-5. thoughts unclear
-6. information outdated
-7. ...
-
-We recommend using a tag like `#needs-improvement` or a link to a note with aliases, like `[[needs-improvement|no citations]]`, so that you keep a good overview of your problematic notes. 
-
-Whatever your specific setup is, just include the text `needs-improvement` somewhere on a note and *The Queue* knows what's up.
-
-Your queue will then occasionally prompt you to improve such a note.
-
-
-#### Additional, (secret) types
-
-*The [type list at the beginning of the chapter](#types-of-notes) is actually not exhaustive. They are some additional types that the software uses internally. Unless you are transferring from a different system or hacking your queue on an advanced level, you will never need to set them. Anyways, for completion's sake, here they are:*
-
-|  `q-type` value  | Usage |
-| --- | --- |
-| `learn-started` | A `learn` note after it's been shown for the first time. This distinction lets the software know whether to reveal the full note immediately (because it's shown for the first time) or not |
-| `todo-done` | A `todo` that the user has completed. Treated the same as `exclude`. We opted for this option because we did not want to trigger destructive actions (like deleting a note) from *The Queue*. |
-| `book-started` | A `book` that you are actively reading. Used to keep track of the number of books read at the same time. |
-| `book-finished` | A `book` that is completely read. Treated the same as `misc`; the distinction only exists so that the note is still clearly recognizable as a book. |
-
-After this tangent, here is some more stuff you can do within *The Queue*:
-
-### Features
-
-#### Edit notes
-
- ![](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/edit.png)
-
-When you are in your queue, you can always jump to edit the note you are looking at — just select the little pen icon.
-
-We recommend doing this — a lot! This way your notes become better and better, even the ones that may be forgotten otherwise.
-
-Once you are done editing, you can jump back to the same note by just selecting the queue icon (![](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/queue.png)) again. 
-
-If during editing you decide that you really don't need this note anymore, you can also delete it. *The Queue* will just pick a new note once you start it again.
-
-#### Filter notes in your queue
-
-![](https://raw.githubusercontent.com/koljapluemer/obsidian-the-queue/HEAD/doc/img/filter.png)
-
-If you have set `q-keywords` on at least some notes, you can use the filter icon to filter which notes show up in your queue.
-
-This can be useful when cramming for an exam or for habits that can be done while riding the bus.
-
-We recommend using this feature sparingly, as having all your notes wildly mixed is a lot of the fun.
-
-You can also exclude folders from showing up in your queue in the `Settings`. This may be useful when you have things like a template folder or other collections of notes that make no sense to include in your queue.
-
-#### Priority
-
-On any note, you can set `q-priority`. The higher the priority is set for a note, the more will it be picked in comparison to notes with a lower priority value.
-
-There are no fixed values for what "high" or "low" priority is; a given `q-priority` is always compared to the other priority values in your vault. So, there is nothing stopping you from giving priorities like `-10000` and `20000`, or `1.2` and `1.25`.
-
-##### Technical Details
-
-The actual `q-interval` value you set only matters for sorting your notes from "most important" to "least important" within the selection of notes of the same type (for example, *habit notes that are due right now*).
-
-You can check out the actual selection algorithm in `src/utils/randomSelection.ts`, it's fairly readable and short.
-
-
-#### Logging
-
-Data about the number of due notes in your queue, as well as the notes displayed in your queue, is saved locally on your machine. These data never leave your device and nobody without access to the phone or computer you use Obsidian on can see them. You can export and reset these data in the Settings of the plugin. As of now, it is only available as a single `JSON` object download. 
-
-A comprehensive documentation as well as more accessibly statistics are in the works.
+If you set `template: exclude`, notes will be ignored, i.e. not opened by *The Queue*.
 
 
 ## Credit
@@ -589,5 +331,15 @@ To start hacking away at the plugin, check `DOC.md` for a brief introduction on 
 
 If you have any trouble, please open an issue. Cheerz!
 
+## Roadmap
+
+*(coming soon, hopefully)*
+
+- settings menu
+- optional daily note limit
+- better documentation :)
+- allow filtering
+- allow blacklisting folders
+- enable prio
 
 %% README_END %%

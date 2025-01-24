@@ -6,15 +6,15 @@ author:
 categories:
 - '[[categories/Import|Import]]'
 description: Imports contacts from iCloud and manages a note for each contact.
-downloads: 2410
+downloads: 2490
 mobile: true
 number: 1394
 stars: 17
 title: iCloud Contacts
 type: plugin
-updated: '2024-08-30T20:28:23'
+updated: '2025-01-21T15:04:58'
 url: https://github.com/Trulsaa/obsidian-icloud-contacts
-version: 0.4.9
+version: 0.4.10
 ---
 
 %% README_START %%

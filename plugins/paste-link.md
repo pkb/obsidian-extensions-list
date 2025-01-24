@@ -5,7 +5,7 @@ author:
 - '[[authors/jose-elias-alvarez|Jose Elias Alvarez]]'
 categories: []
 description: Intelligently paste Markdown links.
-downloads: 7008
+downloads: 7509
 mobile: true
 number: 1293
 stars: 10

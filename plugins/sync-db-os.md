@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Syncing and collaboration|Syncing and collaboration]]'
 description: For synchronization between multiple platforms
-downloads: 107
+downloads: 111
 mobile: true
 number: 1839
 stars: 2

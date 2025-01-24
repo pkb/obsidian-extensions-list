@@ -6,10 +6,10 @@ author:
 categories: []
 description: This is a plugin that can import movies/books/musics/notes/games info
   data from Douban for Obsidian .
-downloads: 20018
+downloads: 20533
 mobile: true
 number: 627
-stars: 192
+stars: 196
 title: Douban
 type: plugin
 updated: '2024-12-26T10:58:25'

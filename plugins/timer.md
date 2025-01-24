@@ -6,7 +6,7 @@ author:
 categories:
 - '[[categories/Time management|Time management]]'
 description: Allows you to measure time.
-downloads: 7619
+downloads: 7851
 mobile: true
 number: 1185
 stars: 9

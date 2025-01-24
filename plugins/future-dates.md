@@ -5,7 +5,7 @@ author:
 - '[[authors/slonoed|Dmitry Manannikov]]'
 categories: []
 description: Show list of future dates in vault
-downloads: 203
+downloads: 212
 mobile: false
 number: 1647
 stars: 1

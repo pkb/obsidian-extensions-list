@@ -6,10 +6,10 @@ author:
 categories:
 - '[[categories/Visualization|Visualization]]'
 description: A 3D Graph for Obsidian
-downloads: 32888
+downloads: 33595
 mobile: true
 number: 673
-stars: 296
+stars: 301
 title: 3D Graph
 type: plugin
 updated: '2023-10-25T00:05:24'

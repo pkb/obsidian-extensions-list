@@ -5,10 +5,10 @@ author:
 - '[[authors/zoreet|Zoreet]]'
 categories: []
 description: Your 21-day journey to habit formation, simplified
-downloads: 8356
+downloads: 8643
 mobile: true
 number: 1326
-stars: 50
+stars: 51
 title: Habit Tracker 21
 type: plugin
 updated: '2024-08-16T17:18:12'
