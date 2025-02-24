@@ -4,7 +4,7 @@
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
-  "updateAtStartup": true,
+  "updateAtStartup": false,
   "updateThemesAtStartup": true,
   "enableAfterInstall": true,
   "loggingEnabled": false,
