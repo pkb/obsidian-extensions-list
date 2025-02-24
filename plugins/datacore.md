@@ -15,6 +15,7 @@ type: plugin
 updated: 2024-12-04T14:34:36
 url: https://github.com/blacksmithgu/datacore
 version: 0.1.3
+rating: 5
 ---
 
 %% README_START %%

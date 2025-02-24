@@ -1,10 +1,10 @@
 ---
 aliases:
-- Templater
+  - Templater
 author:
-- '[[authors/SilentVoid13|SilentVoid]]'
+  - "[[authors/SilentVoid13|SilentVoid]]"
 categories:
-- '[[categories/Templates|Templates]]'
+  - "[[categories/Templates|Templates]]"
 description: Create and use templates
 downloads: 2013836
 mobile: true
@@ -12,9 +12,10 @@ number: 24
 stars: 3500
 title: Templater
 type: plugin
-updated: '2024-10-30T10:16:32'
+updated: 2024-10-30T10:16:32
 url: https://github.com/SilentVoid13/Templater
 version: 2.9.1
+rating: 5
 ---
 
 %% README_START %%
