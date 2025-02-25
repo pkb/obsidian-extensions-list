@@ -2,6 +2,7 @@
 const {
     ClientSideRowModelModule,
     RowAutoHeightModule,
+    QuickFilterModule,
     NumberFilterModule,
     TextFilterModule,
     DateFilterModule,
@@ -21,6 +22,7 @@ const modules = [
     PaginationModule,
     NumberFilterModule,
     DateFilterModule,
+    QuickFilterModule,
     TextFilterModule,
     CustomEditorModule,
     RowAutoHeightModule
@@ -109,8 +111,21 @@ const RatingEditor = ({ value, onValueChange, stopEditing }) => {
     return <span ref={refContainer} className="datacore-rating">{stars}</span>;
 }
 
+const CustomInnerHeader = (props) => {
+    return (
+        <div className="customInnerHeader">
+            {props.icon ? 
+                <dc.Icon icon={props.icon} className="icon"/> : 
+                <span>{props.displayName}</span>}
+        </div>
+    );
+}
+
 function View() {
+    const gridRef = dc.useRef();
     const pages = dc.useQuery(query);
+    const [filter, setFilter] = dc.useState("");
+    
     //const [rowData, setRowData] = dc.useState([...pages])
     const [colDefs, setColDefs] = dc.useState([
         {
@@ -150,14 +165,26 @@ function View() {
                     }
                 ],
             },
+            headerComponentParams: {
+                 innerHeaderComponent: CustomInnerHeader,
+                 icon: "smartphone"
+            },
         },
         {
-            headerName: "⭐",
+            headerName: "Stars",
             valueGetter: p => p.data.value("stars"),
+            headerComponentParams: {
+                 innerHeaderComponent: CustomInnerHeader,
+                 icon: "star"
+            },
         },
         {
             headerName: "Downloads",
             valueGetter: p => p.data.value("downloads"),
+            headerComponentParams: {
+                 innerHeaderComponent: CustomInnerHeader,
+                 icon: "cloud-download"
+            },
             cellDataType: 'number'
         },
         {
@@ -191,20 +218,34 @@ function View() {
         []
     );
 
+    const handleSearch = (inputEvent) => {
+        setQuickFilter(inputEvent.target.value);
+    };
+
+    const setQuickFilter = (v) => {
+        setFilter(v);
+        gridRef.current.api.setGridOption("quickFilterText", v);
+    }
+
     return (
-        // Data Grid will fill the size of the parent container
-        <div style={{ width: "100%", height: 500, minHeight: 500 }}>
-            <AgGridReact modules={modules}
-                defaultColDef={{resizable: false, width: 75 }}
-                pagination={true}
-                paginationAutoPageSize={true}
-                totalRows={pages.length}
-                rowData={pages}
-                columnDefs={colDefs}
-                getRowId={getRowId}
-                theme={myTheme}
-            />
-        </div>
+        <>
+            <dc.Group className="search-input-container">
+                <input enterkeyhint="search" type="search" value={filter} onChange={handleSearch}/>{filter && (<div className="search-input-clear-button" aria-label="Clear search" onClick={() => setQuickFilter("")}/>)}
+            </dc.Group>
+            <div style={{ width: "100%", height: 500, minHeight: 500 }}>
+                <AgGridReact modules={modules}
+                    ref={gridRef}
+                    defaultColDef={{resizable: false, width: 75 }}
+                    pagination={true}
+                    paginationAutoPageSize={true}
+                    totalRows={pages.length}
+                    rowData={pages}
+                    columnDefs={colDefs}
+                    getRowId={getRowId}
+                    theme={myTheme}
+                />
+            </div>
+        </>
     )
 }
 return <View/>

@@ -15,7 +15,7 @@ type: plugin
 updated: 2024-03-07T01:45:03
 url: https://github.com/ben/obsidian-13th-age-statblocks
 version: 0.1.8
-rating: 4
+rating: 2
 ---
 
 %% README_START %%
